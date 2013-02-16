@@ -16703,14 +16703,6 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author of the translation, date translated etc) as shown in the above image can be selected.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T181522Z">
-        <seg>Premendo il pulsante &lt;g0&gt;Opzioni avanzate&lt;/g0&gt; potranno essere selezionati criteri di ricerca aggiuntivi (autore, data della traduzione, ecc.), come mostrato nell'immagine sopra.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120729T170437Z">

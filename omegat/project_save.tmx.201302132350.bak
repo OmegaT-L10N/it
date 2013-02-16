@@ -1048,14 +1048,6 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172618Z">
-        <seg>'*' corrisponde a zero caratteri o più caratteri consecutivi, dalla posizione attuale in una parola data fino alla sua fine.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>'&lt;s0&gt;*&lt;/s0&gt;' matches zero or more characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T133342Z">
@@ -1068,14 +1060,6 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T133650Z">
         <seg>'&lt;s0&gt;?&lt;/s0&gt;' corrisponde a qualsiasi singolo carattere.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>'?' matches any single character.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172841Z">
-        <seg>'?' corrisponde a qualsiasi singolo carattere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1877,14 +1861,6 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T150014Z">
         <seg>... e via discorrendo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>...matches the following</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160745Z">
-        <seg>...corrisponde al seguente</seg>
       </tuv>
     </tu>
     <tu>
@@ -3316,14 +3292,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;e0&gt;Remove tags&lt;/e0&gt; check box</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160025Z">
-        <seg>Opzione &lt;e0&gt;Rimuovi i tag&lt;/e0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;e0&gt;Sample text:&lt;/e0&gt; field for immediate preview of the selected font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T201017Z">
@@ -3528,54 +3496,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192249Z">
         <seg>&lt;e0&gt;Sì: &lt;/e0&gt;scaricare &lt;e1&gt;OmegaT_2.5.x_Without_JRE.zip&lt;/e1&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T180538Z">
-        <seg>&lt;e0&gt;maiuscole/minuscole&lt;/e0&gt;: verrà ricercata l'esatta corrispondenza della stringa immessa nel campo “Cerca”; per esempio, si controllerà la presenza di lettere maiuscole.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;display all results: &lt;/e0&gt;clearing this check box will case OmegaT show just the first occurrence of a hit, if several hits exist</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T181255Z">
-        <seg>&lt;e0&gt;mostra tutti i risultati: &lt;/e0&gt;disattivando questa casella OmegaT mostrerà solo la prima occorrenza di un risultato, se ne sono presenti diversi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T180834Z">
-        <seg>&lt;e0&gt;nelle note: &lt;/e0&gt;si eseguirà la ricerca nelle note dei segmenti</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T180644Z">
-        <seg>&lt;e0&gt;nei file di partenza: &lt;/e0&gt;si eseguirà la ricerca nei segmenti di origine</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;in translations: &lt;/e0&gt;search in the target segments</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T180755Z">
-        <seg>&lt;e0&gt;nelle traduzioni: &lt;/e0&gt;si eseguirà la ricerca nei segmenti di destinazione</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;search TMs&lt;/e0&gt;: translation memories in the &lt;f1&gt;tm&lt;/f1&gt; folder are included in the search.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T180944Z">
-        <seg>&lt;e0&gt;nelle TM&lt;/e0&gt;: le memorie di traduzione contenute nella cartella &lt;f1&gt;tm&lt;/f1&gt; saranno incluse nella ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5268,14 +5188,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Remove tags option&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160040Z">
-        <seg>&lt;p0&gt;Progetto&lt;/p0&gt; &lt;s1&gt;Opzione Rimuovi i tag&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Statistics&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T212257Z">
@@ -5284,26 +5196,10 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Examples of use&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163855Z">
-        <seg>&lt;p0&gt;Espressioni regolari&lt;/p0&gt; &lt;s1&gt;Esempi di utilizzo&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T211916Z">
         <seg>&lt;p0&gt;Espressioni regolari&lt;/p0&gt; &lt;s1&gt;Segmentazione&lt;/s1&gt; &lt;s2&gt;Ricerca&lt;/s2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Tools&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163833Z">
-        <seg>&lt;p0&gt;Espressioni regolari&lt;/p0&gt; &lt;s1&gt;Strumenti&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5400,14 +5296,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T164056Z">
         <seg>&lt;p0&gt;Avvio di OmegaT&lt;/p0&gt; &lt;s1&gt;Argomenti dello script di avvio&lt;/s1&gt; &lt;t2&gt;Attribuzione memoria&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Microsoft Translator&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154758Z">
-        <seg>&lt;p0&gt;Avvio di OmegaT&lt;/p0&gt; &lt;s1&gt;Argomenti dello script di avvio&lt;/s1&gt; &lt;t2&gt;Microsoft Translator&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5520,38 +5408,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T185549Z">
         <seg>&lt;p0&gt;Avvio di OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt; &lt;t2&gt;file INI&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;p0&gt;Search window&lt;/p0&gt; &lt;s1&gt;Example&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164947Z">
-        <seg>&lt;p0&gt;Finestra di ricerca&lt;/p0&gt; &lt;s1&gt;Esempio&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;p0&gt;Searches&lt;/p0&gt; &lt;s1&gt;Advanced Options&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T171152Z">
-        <seg>&lt;p0&gt;Ricerche&lt;/p0&gt; &lt;s1&gt;Opzioni avanzate&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;p0&gt;Searches&lt;/p0&gt; &lt;s1&gt;Methods and options&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173447Z">
-        <seg>&lt;p0&gt;Ricerche&lt;/p0&gt; &lt;s1&gt;Metodi e opzioni&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;p0&gt;Searches&lt;/p0&gt; &lt;s1&gt;Using wild cards&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T171703Z">
-        <seg>&lt;p0&gt;Ricerche&lt;/p0&gt; &lt;s1&gt;Uso dei caratteri jolly&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5728,14 +5584,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T105920Z">
         <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Proprietà del progetto - Ctrl+E&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search - Ctrl+F&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170035Z">
-        <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Cerca - Ctrl+F&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6596,14 +6444,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163041Z">
-        <seg>Carattere nel blocco greco (&lt;u0&gt; blocco&lt;/u0&gt; semplice)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A character in the Greek block (simple &lt;a0&gt; block&lt;/a0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T105152Z">
@@ -6684,26 +6524,10 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A digit: [0-9]</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163327Z">
-        <seg>Una cifra: [0-9]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A few simple examples</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141856Z">
         <seg>Alcuni semplici esempi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T153113Z">
-        <seg>Una penalità fissa di 5 punti viene aggiunta se la parte rimossa non corrisponde a qualche altro segmento, in modo che la corrispondenza non indichi il 100%</seg>
       </tuv>
     </tu>
     <tu>
@@ -6724,14 +6548,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164455Z">
-        <seg>In &lt;a0&gt;OmegaT&lt;/a0&gt; è pure presente una buona raccolta di utili esempi regex (si veda Opzioni &gt; Segmentazione).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A nice collection  of  useful regex cases can be found in the OmegaT itself (see Options &gt; &lt;a8&gt;Segmentation&lt;/a8&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T123109Z">
@@ -6748,26 +6564,10 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A non-digit: [^0-9]</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163340Z">
-        <seg>Un carattere non numerico: [^0-9]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A non-whitespace character: &lt;c0&gt;[^\s]&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T110102Z">
         <seg>Un carattere che non sia uno spazio bianco: &lt;c0&gt;[^\s]&lt;/c0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>A non-whitespace character: [^\s]</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163404Z">
-        <seg>Un carattere che non sia uno spazio bianco: [^\s]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6784,14 +6584,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T110129Z">
         <seg>Un carattere non-parola: &lt;c0&gt;[^\w]&lt;/c0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>A non-word character: [^\w]</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163428Z">
-        <seg>Un carattere non-parola: [^\w]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6816,14 +6608,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T185415Z">
         <seg>Vari file TMX con nome project_save.tmx.&lt;i4&gt;&lt;data e ora&lt;/i4&gt;&gt;.bak (&lt;a5&gt;...&lt;/a5&gt;) saranno poi aggiunti a questa sottocartella.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163923Z">
-        <seg>Sono disponibili diversi strumenti interattivi dedicati allo sviluppo e alla verifica delle espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6948,14 +6732,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163351Z">
-        <seg>Un carattere di spazio bianco: [ \t\n\x0B\f\r]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A word boundary</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T110156Z">
@@ -6968,14 +6744,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T110117Z">
         <seg>Un carattere parola: &lt;c0&gt;[a-zA-Z_0-9]&lt;/c0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>A word character: [a-zA-Z_0-9]</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163416Z">
-        <seg>Un carattere parola: [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -7240,14 +7008,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T125700Z">
         <seg>Viene eseguita anche una scansione della memoria di traduzione e del glossario, alla ricerca di concordanze per il segmento successivo non ancora tradotto, che viene poi aperto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Additionally to one of the methods above you can select the following:</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T175130Z">
-        <seg>Oltre a uno di questi metodi, si avrà la possibilità di selezionare tra le seguenti opzioni:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7717,14 +7477,6 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170348Z">
-        <seg>In alternativa, selezionare una parola o una frase in un punto qualsiasi nella finestra dell'Editor (il testo di destinazione del segmento attivo) e premere &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Alternatively, select a word or phrase anywhere in the Editor pane and hit &lt;c1&gt;Ctrl+F&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T210639Z">
@@ -7853,14 +7605,6 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173736Z">
-        <seg>Una ricerca esatta di una frase, per esempio se vengono inserite varie parole, darà un risultato solo se le parole immesse verranno individuate in quella medesima sequenza.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T184949Z">
@@ -7901,14 +7645,6 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T105220Z">
         <seg>Lettera maiuscola (&lt;a0&gt;categoria&lt;/a0&gt; semplice)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163102Z">
-        <seg>Lettera maiuscola (&lt;u0&gt; categoria&lt;/u0&gt; semplice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8061,14 +7797,6 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T105856Z">
         <seg>Qualsiasi carattere, eccetto &lt;c0&gt;a&lt;/c0&gt;, &lt;c1&gt;b&lt;/c1&gt;, o &lt;c2&gt;c&lt;/c2&gt; (negazione)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Any character except a, b, or c (negation)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163200Z">
-        <seg>Qualsiasi carattere, eccetto a, b o c (negazione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8393,14 +8121,6 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T230959Z">
         <seg>Associare</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T153939Z">
-        <seg>All'inizio dell'installazione è possibile selezionare la lingua da utilizzare durante l'installazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10162,14 +9882,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T200517Z">
         <seg>È disponibile una connessione, il progetto è in modalità "collaborazione".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T171520Z">
-        <seg>Di conseguenza, sebbene OmegaT sia perfettamente in grado di gestire i file &lt;f1&gt; tmx&lt;/f1&gt;, non li include durante la ricerca all'interno dei file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12225,14 +11937,6 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Either X or Y</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163807Z">
-        <seg>X oppure Y</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Either can be used as source or target.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T105023Z">
@@ -12377,26 +12081,10 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164823Z">
-        <seg>Inglese: stesso controllo di cui sopra ma per le consonanti ("a", non "an")</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>English: the same check as above, but for consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T124106Z">
         <seg>Inglese: stesso controllo di cui sopra ma per le consonanti ("a", non "an")</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164801Z">
-        <seg>Inglese: le parole inizianti per vocali devono essere in genere precedute da "an" e non "a"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13804,22 +13492,6 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163628Z">
-        <seg>Per esempio, &lt;e0&gt;a+?&lt;/e0&gt; rileverà aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163745Z">
-        <seg>Per esempio, &lt;e0&gt;a+?&lt;/e0&gt; rleverà la prima &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with 1024MB of memory and with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120519T101259Z">
@@ -13984,14 +13656,6 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T134709Z">
         <seg>Per esempio, '&lt;s1&gt;mobil?&lt;/s1&gt;' estrarrà solo le parole '&lt;s2&gt;mobile&lt;/s2&gt;' e '&lt;s3&gt;mobili&lt;/s3&gt;' ma non '&lt;s4&gt;mobilità&lt;/s4&gt;' o '&lt;s5&gt;mobilitazione&lt;/s5&gt;'.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>For instance, &lt;l0&gt;'run?' &lt;/l0&gt;would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'.&lt;/l3&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173127Z">
-        <seg>Per esempio, &lt;l0&gt;'run?'&lt;/l0&gt; estrarrà solo le parole &lt;l1&gt;'runs'&lt;/l1&gt; e &lt;l2&gt;'runn'&lt;/l2&gt; all'interno della parola &lt;l3&gt;'running'.&lt;/l3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16695,22 +16359,6 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154150Z">
-        <seg>Attivando la casella corrispondente, il file OmegaT.l4J.ini verrà modificato per utilizzare la lingua selezionata (per i dettagli, si veda la sezione seguente).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author of the translation, date translated etc) as shown in the above image can be selected.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T181522Z">
-        <seg>Premendo il pulsante &lt;g0&gt;Opzioni avanzate&lt;/g0&gt; potranno essere selezionati criteri di ricerca aggiuntivi (autore, data della traduzione, ecc.), come mostrato nell'immagine sopra.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120729T170437Z">
@@ -17055,14 +16703,6 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T104535Z">
         <seg>Se si ritiene di aver perso i dati di traduzione, seguire questa procedura:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If you turn on &lt;e2&gt;&lt;i3/&gt;Advanced Options&lt;/e2&gt;, you can combine the search with the name of the author of the translation and time of the last change made.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T171649Z">
-        <seg>Quando si attivano le &lt;e2&gt;&lt;i3/&gt;Opzioni avanzate&lt;/e2&gt;, è possibile combinare la ricerca col nome dell'autore della traduzione e la data dell'ultima modifica apportata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17461,14 +17101,6 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172421Z">
-        <seg>Sia le ricerche esatte, sia quelle di parole chiave consentono di utilizzare i caratteri jolly '*' and '?'.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In both exact and keyword searches, the wild card search characters '&lt;c0&gt;*&lt;/c0&gt;' and '&lt;c1&gt;?&lt;/c1&gt;' can be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T133040Z">
@@ -17822,14 +17454,6 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt; &lt;g2&gt;New...&lt;/g2&gt; &lt;/m1&gt;&lt;i3/&gt; and type a name for your project.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T155635Z">
-        <seg>Nel menu &lt;g0&gt;Progetto&lt;/g0&gt; selezionare &lt;m1&gt; &lt;g2&gt;Nuovo...&lt;/g2&gt; &lt;/m1&gt;&lt;i3/&gt; e scrivere il nome del progetto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In the ASCII Filter Options dialog (see below), select "&lt;s17&gt;Unicode (UTF-8)&lt;/s17&gt;" as the character set:&lt;br18&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T230024Z">
@@ -17954,14 +17578,6 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T210540Z">
         <seg>Nell'esempio che segue, la cartella &lt;f0&gt;progetti personali&lt;/f0&gt; contiene tre progetti OmegaT:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154035Z">
-        <seg>Nella finestra successiva è possibile indicare che la quale lingua selezionata dovrà essere utilizzata in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19545,14 +19161,6 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154525Z">
-        <seg>Successivamente, una volta accettata il contratto di licenza, il programma chiederà se si vuole creare un gruppo nel menu &lt;e0&gt;start&lt;/e0&gt; , e un collegamento nel desktop e nella barra di avvio rapido: è possibile creare tali scorciatoie anche in seguito, trascinando l'icona &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; nel desktop o nel menu "start".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T123451Z">
@@ -20263,14 +19871,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T213746Z">
         <seg>Effettuare regolarmente copie del file &lt;c0&gt;/omegat/project_save.tmx&lt;/c0&gt; su periferiche di backup, come CD o DVD.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Make sure that you have a free Microsoft account.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154824Z">
-        <seg>Assicurarsi di avere un account Microsoft gratuito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21171,14 +20771,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T153715Z">
-        <seg>I termini aggiunti di recente non saranno riconosciuti una volta che le modifiche nel file di testo verrano salvate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Newly added terms will not be recognized once the changes is the text file have been saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T190442Z">
@@ -21411,14 +21003,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160514Z">
-        <seg>Nei documenti di arrivo, la formattazione non visibile (per esempio, quella che non appare sotto forma di tag nell'editor di OmegaT) viene mantenuta.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T183645Z">
@@ -21575,14 +21159,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T155209Z">
         <seg>Si noti, comunque, che i numeri non indicano quanto importanti siano le ripetizioni: queste possono corrispondere a frasi relativamente lunghe che vengono ripetute per più volte (in questo caso si è molto fortunati), oppure possono descrivere una tabella di parole chiave (e allora non si è poi così fortunati...). Il file &lt;c0&gt;project_stats.txt&lt;/c0&gt; presente nella cartella &lt;c1&gt;/omegat&lt;/c1&gt; del progetto contiene informazioni più dettagliate sui segmenti, per ciascun file del progetto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173433Z">
-        <seg>Si noti che '*' e '?' possiedono un significato speciale nelle espressioni regolari, dunque la ricerca con caratteri jolly, come qui descritta, è valida solo per la ricerca di parole chiave e la ricerca esatta (vedere sotto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21835,14 +21411,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Note that up to 2M characters per month are free of charge.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T155238Z">
-        <seg>Si noti che è possibile utilizzare gratuitamente fino a due milioni di caratteri al mese.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Note that you will need the ant program (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;) to build your own version of OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T174854Z">
@@ -21955,26 +21523,10 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Nothing, but ends quoting started by \Q</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T162945Z">
-        <seg>Nulla, ma conclude la citazione iniziata da \Q</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Nothing, but quotes all characters until &lt;c0&gt;\E&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T104951Z">
         <seg>Nulla, ma indica tutti i caratteri fino a &lt;c0&gt;\E&lt;/c0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Nothing, but quotes all characters until \E</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T162923Z">
-        <seg>Nulla, ma indica tutti i caratteri fino a \E</seg>
       </tuv>
     </tu>
     <tu>
@@ -22487,14 +22039,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T190058Z">
         <seg>OmegaT, prima di procedere con la segmentazione delle frasi, crea i propri tag.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T174202Z">
-        <seg>OmegaT proporrà un elenco di tutti i segmenti contenente tutte le parole specificate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23743,14 +23287,6 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Open the Search window with &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; and enter the word or phrase you wish to search for in the Search for box.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170218Z">
-        <seg>Aprire la finestra “Cerca” tramite la combinazione da tastiera &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; e inserire nel campo “Cerca” la parola o la frase che si desidera trovare.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Open the file "Info.plist" by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T115827Z">
@@ -24307,14 +23843,6 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203401Z">
         <seg>È importante prestare attenzione alle coppie di tag</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164925Z">
-        <seg>Punto, seguito da una lettera maiuscola - forse uno spazio mancante tra un punto e l'inizio di una nuova frase?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25546,14 +25074,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Regex - Boundary matchers</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163439Z">
-        <seg>Regex - Rilevatori di limitazione</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Regex - Character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212233Z">
@@ -25562,74 +25082,10 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Regex - Character classes</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163121Z">
-        <seg>Regex - Classi di carattere</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Regex - Classes for Unicode blocks and categories</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T162957Z">
-        <seg>Regex - Classi per blocchi e categorie Unicode</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Regex - Examples of regular expressions in translations</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164552Z">
-        <seg>Regex - Esempi di espressioni regolari nelle traduzioni</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212154Z">
         <seg>Regex - Flag</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Regex - Greedy quantifiers</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163448Z">
-        <seg>Regex - Quantificatori di ripetizione</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Regex - Logical operators</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163750Z">
-        <seg>Regex - Operatori logici</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Regex - Predefined character classes</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163317Z">
-        <seg>Regex - Classi di carattere predefinite</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Regex - Quotation</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160736Z">
-        <seg>Regex - Citazione</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163635Z">
-        <seg>Regex - Quantificatori riluttanti (non ripetitivi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25694,14 +25150,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T100254Z">
         <seg>Espressioni regolari</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Regular expressions are a powerful way to look for instances of a string.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T174952Z">
-        <seg>Le espressioni regolari sono un sistema particolarmente valido per reperire alcuni elementi di un segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25838,14 +25286,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203340Z">
         <seg>Tenere presente che, se si ha difficoltà nella gestione dei tag in OmegaT e se la formattazione non ha un'importanza primaria per la traduzione, rimuovere i tag potrebbe essere il sistema migliore per risolvere i problemi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T155659Z">
-        <seg>Ricordarsi la posizione in cui si è creato il progetto, poiché sarà poi necessario ritornarvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26802,14 +26242,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Search for segments containing the exact string you specified.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173551Z">
-        <seg>Avvia la ricerca dei segmenti contenenti esattamente la stringa specificata.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StartDict Platform&lt;/u0&gt; above or on &lt;u2&gt;FreeDict&lt;/u2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T105705Z">
@@ -26854,14 +26286,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091409Z">
         <seg>Metodi di ricerca</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Search methods and options</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173508Z">
-        <seg>Metodi e opzioni di ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -26946,14 +26370,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Searches are performed by default in both the source and target sections of the project, but you can limit your search to just the source or the target text.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170828Z">
-        <seg>Per impostazione predefinita, le ricerche vengono effettuate sia nella sezione dei segmenti di partenza, sia in quella di destinazione, ma è possibile limitare la ricerca solo al testo originario o alla traduzione.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Searches can be performed in the source and/or in the translation and/or in notes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T175803Z">
@@ -26982,22 +26398,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T160703Z">
         <seg>Le ricerche sono in grado di riconoscere sia i &lt;a0&gt;caratteri jolly&lt;/a0&gt; * e ?,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Searching</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170100Z">
-        <seg>Ricerca nel progetto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173940Z">
-        <seg>Ricercare &lt;l0&gt;open file&lt;/l0&gt; individuerà dunque tutte le occorrenze della stringa &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, ma non &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; o &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27114,14 +26514,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164320Z">
-        <seg>Per eseguire verifiche con uno strumento indipendente, nelle versioni per Windows, Linux, Mac e FreeBSD, usare &lt;u0&gt;The Regex Coach&lt;/u0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T101018Z">
@@ -27198,14 +26590,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T190020Z">
         <seg>Consultare le impostazioni dei caratteri in &lt;l0&gt;Miscellanea&lt;/l0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>See more in the chapter&lt;l0&gt; Regular Expressions.&lt;/l0&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T175035Z">
-        <seg>Ulteriori informazioni sono consultabili nel capitolo &lt;l0&gt; Espressioni regolari.&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27606,14 +26990,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T105549Z">
         <seg>Selezionarlo e confermarlo con OK.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T174125Z">
-        <seg>Selezionare la ricerca con parole chiave per eseguire una ricerca su un qualsiasi numero di parole intere singole, in qualsiasi ordine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29788,14 +29164,6 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Text search Window</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164953Z">
-        <seg>Finestra di ricerca testo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Text search window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T093129Z">
@@ -30471,14 +29839,6 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The above search finds all target segments that contain characters, rather improbable in the target - i.e. Slovenian - language.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T165811Z">
-        <seg>La ricerca sopra indicata trova tutti i segmenti di destinazione che contengono caratteri, piuttosto improbabile nella lingua di destinazione, per esempio lo Sloveno.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The active segment is highlighted in green; a copy of the source text is displayed below it, in the “target field”.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T094934Z">
@@ -30656,14 +30016,6 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The character with hexadecimal value 0xhh</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160723Z">
-        <seg>Carattere col valore esadecimale 0xhh</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212338Z">
@@ -30684,14 +30036,6 @@ shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T104700Z">
         <seg>Carattere col valore esadecimale &lt;t0&gt;0x&lt;/t0&gt;&lt;i1&gt;hh&lt;/i1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160653Z">
-        <seg>Carattere col valore ottale 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31426,14 +30770,6 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164533Z">
-        <seg>L'elenco seguente include espressioni che potrebbero risultare utili quando si eseguono ricerche attraverso la memoria di traduzione:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T100312Z">
@@ -31659,14 +30995,6 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154656Z">
-        <seg>L'ultimo riquadro permette di dare uno sguardo al file leggimi e a quello delle modifiche relativo alla versione installata.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The launch parameters in this case will be read from the &lt;e0&gt;OmegaT.l4J.ini&lt;/e0&gt; file, residing in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T111946Z">
@@ -31791,14 +31119,6 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202613Z">
         <seg>L'applicazione principale di OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The matches will be displayed in bold blue.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173211Z">
-        <seg>Le corrispondenze verranno visualizzate in grassetto blu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32463,14 +31783,6 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T174919Z">
-        <seg>La stringa di ricerca - [a-zA-Z]+[öäüqwß] - nell'esempio sopra, ricerca parole nel segmento di destinazione, contenenti caratteri dubbi provenienti dalla tastiera tedesca.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The search string will be treated as a regular expression (in case of a keyword search it will be treated as multiple expressions).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T132909Z">
@@ -32479,26 +31791,10 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The search string will be treated as a regular expression.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T174436Z">
-        <seg>La stringa immessa nel campo “Cerca” verrà considerata come un'espressione regolare.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The search term '&lt;s1&gt;run*&lt;/s1&gt;' for example would match '&lt;s2&gt;run&lt;/s2&gt;', '&lt;s3&gt;runs&lt;/s3&gt;', and '&lt;s4&gt;running&lt;/s4&gt;'.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T133557Z">
         <seg>IL termine di ricerca '&lt;s1&gt;mobil*&lt;/s1&gt;', per esempio, potrebbe estrarre le stringhe che contengono '&lt;s2&gt;mobile&lt;/s2&gt;', '&lt;s3&gt;mobili&lt;/s3&gt;' e '&lt;s4&gt;mobilità&lt;/s4&gt;'.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The search term&lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172822Z">
-        <seg>Il termine di ricerca &lt;l0&gt;'mobil*'&lt;/l0&gt;, per esempio, potrebbe estrarre le parole &lt;l1&gt;'mobile'&lt;/l1&gt;, &lt;l2&gt;'mobili'&lt;/l2&gt; e &lt;l3&gt;'mobilità'&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33176,14 +32472,6 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The word or phrase is entered in the Search for box automatically.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170428Z">
-        <seg>La parola o la frase selezionata viene automaticamente immessa all'interno del campo “Cerca”.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T092631Z">
@@ -33699,22 +32987,6 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164153Z">
-        <seg>Essi seguono quasi tutti lo stesso schema (vedere sotto l'esempio preso dal Regular Expression Tester): l'espressione regolare (voce in alto) analizza il testo da ricercare (riquadro al centro), restituendo i risultati, mostrati nel riquadro dei risultati.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>They have the meaning, familiar to Word users:</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172506Z">
-        <seg>Il loro significato è familiare agli utenti di Word:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>They have to be in the &lt;b0&gt;tmx&lt;/b0&gt; format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T191840Z">
@@ -34163,14 +33435,6 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed..</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160421Z">
-        <seg>Ciò è particolarmente utile quando si ha a che fare con testi la cui formattazione incorporata non ha una concreta utilità (per es., PDF OCRed, file .odt o .docx convertiti in modo errato, e via discorrendo). Nei casi normali deve essere sempre possibile aprire i documenti di destinazione, dato che solo i tag incorporati vengono rimossi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>This is fine as long as the enclosing group totally encloses the enclosed group.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T202642Z">
@@ -34183,14 +33447,6 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T161920Z">
         <seg>Ecco come funziona:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>This is much the same as the above example.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164339Z">
-        <seg>Funziona in modo quasi identico all'esempio di cui sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34223,14 +33479,6 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T094639Z">
         <seg>Si tratta di una possibilità molto utile quando si è in presenza di testi contenenti molti nomi di marchi di fabbrica o altri nomi propri che non necessitano di traduzione.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T162857Z">
-        <seg>È necessario quando si desidera usare i metacaratteri !$()*+.&lt;&gt;?[\]^{|} in modo che vengano utilizzati come caratteri e non come operatori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35165,14 +34413,6 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T182424Z">
         <seg>Per installare &lt;a0&gt;OmegaT&lt;/a0&gt;, fare doppio-clic sul programma scaricato e seguire le istruzioni</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T153816Z">
-        <seg>Per installare &lt;a0&gt;OmegaT&lt;/a0&gt;, fare doppio-clic sul programma scaricato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36574,8 +35814,8 @@ alla riga {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Until you have some experience with OmegaT, it is safest to consider all settings final once the translation has started – unless of course you realize a major mistake has been made.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T155848Z">
-        <seg>Fino a quando non si acquisisce un po' di esperienza con OmegaT, è più sicuro definire tutte le impostazioni prima di iniziare a tradurre, a meno che non ci si accorga di aver commesso un grave errore.</seg>
+      <tuv lang="IT-IT" changeid="valter" changedate="20120724T212036Z">
+        <seg>Fino a quando non si acquisisce un po' di esperienza con OmegaT, è più sicuro definire tutte le impostazioni prima di iniziare la traduzione, a meno che non ci si accorga di aver commesso un grave errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37221,14 +36461,6 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T174358Z">
-        <seg>L'uso di una ricerca con parole chiave con &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; individuerà tutte le occorrenze della stringa &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt;, come pure &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, e via discorrendo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Using matches in the translation memories, dictionaries and glossaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T163017Z">
@@ -37769,14 +37001,6 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>When looking for fuzzy matches the remove pattern is ignored.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T152251Z">
-        <seg>Quando si cercano corrispondenze parziali, il modello per la rimozione viene ignorato.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T195008Z">
@@ -37805,14 +37029,6 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T093421Z">
         <seg>Quando ci si sposta tra i segmenti, si potrà scegliere se il campo di modifica debba essere riempito con la traduzione esistente, contenuta nel pannello delle concordanze parziali, o col testo di partenza.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>When searching through files (as opposed to translation memories), &lt;a0&gt;OmegaT&lt;/a0&gt; restricts the search to files in source file formats.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T171330Z">
-        <seg>Quando si esegue una ricerca all'interno dei file (al contrario delle memorie di traduzione), &lt;a0&gt;OmegaT&lt;/a0&gt; restringe la ricerca ai file nei formati di file di partenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38563,38 +37779,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>X followed by Y</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163757Z">
-        <seg>X seguito da Y</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>X, once or not at all</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163510Z">
-        <seg>X, una sola volta oppure nessuna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>X, one or more times</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163534Z">
-        <seg>X, una o più volte</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>X, zero or more times</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163521Z">
-        <seg>X, zero o più volte</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>XHTML Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T105525Z">
@@ -38623,14 +37807,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T101936Z">
         <seg>XSLT è in gran parte utilizzato per convertire dati tra diversi schemi XML o per convertire dati XML all'interno di pagine web o documenti PDF.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>XY as a single group</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163817Z">
-        <seg>XY come gruppo singolo</seg>
       </tuv>
     </tu>
     <tu>
@@ -38981,14 +38157,6 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T090734Z">
         <seg>È possibile ottenere ulteriori informazioni sugli argomenti digitando &lt;e0&gt;java&lt;/e0&gt; o &lt;e1&gt;man java&lt;/e1&gt; in una finestra di terminale - &lt;e2&gt;man&lt;/e2&gt; è il comando che mostra il manuale di un comando selezionato.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170616Z">
-        <seg>È possibile mantenere aperte contemporaneamente più finestre di ricerca, ma è preferibile chiuderle quando non sono più necessarie, per non intasare lo spazio di lavoro in cui si sta lavorando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39738,14 +38906,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T155137Z">
-        <seg>È necessario autenticarsi in &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; e usare il servizio Translator.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>a file might have no matching entries, so it will show empty.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141632Z">
@@ -39770,34 +38930,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>a single file or a folder containing a set of files (check &lt;e0&gt;Search files)&lt;/e0&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T171125Z">
-        <seg>in un singolo file o in una particolare cartella che contiene una serie di file (attivare la casella &lt;e0&gt;Ricerca file&lt;/e0&gt;)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>a single file or a folder containing a set of files (check &lt;i0&gt;Search files&lt;/i0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T131123Z">
         <seg>In un singolo file o in una particolare cartella che contiene una serie di file (in questo caso attivare la casella di controllo &lt;i0&gt;Ricerca file&lt;/i0&gt;)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>a through z or A through Z, inclusive (range)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163305Z">
-        <seg>Da "a" a "z" o da "A" a "Z", inclusi (intervallo)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>a, b, or c (simple class)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163139Z">
-        <seg>a, b o c (classe semplice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39882,14 +39018,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>both the project and the reference translation memories in /tm/ (check &lt;e0&gt;Search TMs)&lt;/e0&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170937Z">
-        <seg>nel progetto e nelle memorie di traduzione di riferimento contenute nella cartella /tm/ (attivare la casella &lt;e0&gt;Nella TM)&lt;/e0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>by other translation tools</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092302Z">
@@ -39942,14 +39070,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T213255Z">
         <seg>chiudere il progetto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>comma or a period, followed by spaces and yet another comma or period</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164645Z">
-        <seg>virgola o punto, seguiti da spazi e ancora un'altra virgola o punto</seg>
       </tuv>
     </tu>
     <tu>
@@ -40066,14 +39186,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>extra spaces after the period at the end of the line</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164709Z">
-        <seg>spazi aggiuntivi dopo un punto alla fine di una riga</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T220242Z">
@@ -40118,14 +39230,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T232031Z">
         <seg>il file di glossario è vuoto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>greedy quantifiers will match as much as they can.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163608Z">
-        <seg>i quantificatori di ripetizione rileveranno tutte le ripetizioni possibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40470,14 +39574,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T232017Z">
         <seg>non sono presenti file di glossario nella cartella "glossary"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>non-greedy quantifiers will match as little as they can.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163721Z">
-        <seg>i quantificatori riluttanti rileveranno il minor numero di ripetizioni possibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40950,14 +40046,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T130803Z">
         <seg>solo nel progetto (impostazione predefinita)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>the two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T155402Z">
-        <seg>le voci necessarie al suo utilizzo sono disponibili nella propria &lt;u1&gt;pagina di account&lt;/u1&gt; sotto la chiave di account primaria e il Customer-ID:</seg>
       </tuv>
     </tu>
     <tu>
