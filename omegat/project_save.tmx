@@ -17661,6 +17661,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T220330Z">
+        <seg>Per selezionare il tipo di segmentazione, selezionare &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Progetto&lt;/g2&gt; &lt;g4&gt;Proprietà...&lt;/g4&gt; &lt;/m1&gt; dalla barra dei menu e attivare o disattivare l'appropriata casella di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;s0&gt;Project → Properties...&lt;/s0&gt; from the main menu and use the available check box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T142225Z">
