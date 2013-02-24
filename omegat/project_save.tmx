@@ -2220,6 +2220,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T220159Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; utilizza due metodi per segmentare un testo: la segmentazione a livello di paragrafo e quella a livello di frase (chiamata anche “segmentazione basata su regole”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T212727Z">
@@ -5232,6 +5240,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T212245Z">
         <seg>&lt;p0&gt;Progetto&lt;/p0&gt; &lt;s1&gt;Statistiche delle concordanze&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T220041Z">
+        <seg>&lt;p0&gt;Progetto&lt;/p0&gt; &lt;s1&gt;Opzioni&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39138,6 +39154,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T220023Z">
+        <seg>È possibile visualizzare rapidamente il loro contenuto leggendone il titolo, che contiene il termine di ricerca utilizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can regard these three TMX files (-&lt;e0&gt;omegat.tmx&lt;/e0&gt;", "&lt;e1&gt;-level1.tmx&lt;/e1&gt;" and "&lt;e2&gt;-level2.tmx&lt;/e2&gt;") as an "export translation memory", i.e. as an exportable bilingual summary of your current project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T112750Z">
@@ -39459,6 +39483,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202307Z">
         <seg>Può essere utile se lo si vuole rendere eseguibile (&lt;c5&gt;chmod +x OmegaT&lt;/c5&gt;) dalla &lt;a6&gt;riga di comando&lt;/a6&gt; dopo essersi assicurati di essere nella directory &lt;c7&gt;/OmegaT_2.0/&lt;/c7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have several Search windows open at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T215906Z">
+        <seg>Si potranno aprire insieme più finestre di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
