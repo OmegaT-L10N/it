@@ -8273,6 +8273,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T215645Z">
+        <seg>Dato che &lt;a0&gt;OmegaT&lt;/a0&gt; gestisce i segmenti identici come una singola entità, viene mostrato solo il primo segmento univoco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As OmegaT handles all the identical segments as one entity, only the first unique segment is shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T160815Z">
@@ -9804,6 +9812,14 @@ application folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T171409Z">
         <seg>Quando si fa clic su un collegamento, proprio come si farebbe all'interno di una comune pagina Web, si accederà direttamente alla prima pagina del capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on a segment opens it in the Editor for modifications.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T215809Z">
+        <seg>Quando si fa clic sul segmento, esso viene aperto nella finestra dell'Editor per le modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24785,6 +24801,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T215619Z">
+        <seg>La pressione del pulsante “Cerca”, dopo aver immesso una stringa nel campo del testo da trovare, genera la visualizzazione di tutti i segmenti del progetto contenenti la stringa digitata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing the search button after entering a string in the search field will display all the segments in the project that include the searched string.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T135643Z">
@@ -35872,6 +35896,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T215750Z">
+        <seg>I segmenti tradotti vengono visualizzati con sopra il testo originale e sotto il testo tradotto; per i segmenti non tradotti viene, invece, visualizzato solo come testo sorgente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated segments will be displayed with the original text at the top and the translated text at the bottom, non translated segments will be displayed in original text only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T161050Z">
@@ -39234,6 +39266,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T102331Z">
         <seg>A questo punto si potrà tornare a OmegaT per apportare tutte le modifiche e le correzioni necessarie, alla fine delle quali non si deve dimenticare di creare di nuovo i documenti di arrivo tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T215830Z">
+        <seg>A questo punto si può tornare alla finestra “Cerca” e passare al successivo segmento estratto, per eseguire il controllo e apportare le eventuali modifiche.</seg>
       </tuv>
     </tu>
     <tu>
