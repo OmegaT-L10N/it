@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Error", "Warning", "Exception", or "died unexpectedly" then you have probably</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093320Z">
+        <seg>"Error", "Warning", "Exception" oppure "died unexpectedly", allora si è in presenza </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T221733Z">
         <seg>"Google Translate ha restituito il codice di risposta HTTP: 403 ...": controllare che la chiave a 38 caratteri, digitata nel file pinfo.list, sia corretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Linux").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094408Z">
+        <seg>"Linux").</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +66,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100834Z">
         <seg>"ZZ" rappresenta la quantità di memoria attribuita, in megabyte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"unrestricted access to the computer") are identical  to permissions you give</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093155Z">
+        <seg> "accesso illimitato al computer") sono gli stessi che si attribuiscono</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,6 +1136,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095519Z">
+        <seg>(se ritenete di aver contribuito in modo significativo al Progetto OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you think you have significantly contributed to the OmegaT Project 
 but you don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
@@ -1127,6 +1159,14 @@ To add files to the project, click on the Import Source Files... button in the P
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T092828Z">
         <seg>(Per un elenco dei formati di file supportati, consultare 'File da tradurre' &gt; 'Formati dei file' nel manuale dell'utente)
 Per aggiungere file al progetto, fare clic sul pulsante Importa i file di partenza... nella finestra File di progetto oppure richiamare la funzione dal menu Progetto; selezionare quindi i file da importare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Lion).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094416Z">
+        <seg>(Lion).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1163,6 +1203,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095441Z">
+        <seg>(in ordine alfabetico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T144939Z">
@@ -1195,6 +1243,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* From the command line (all systems):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095030Z">
+        <seg>* Da riga di comando (tutti i sistemi):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* From the command line (all systems): 
 The command to launch OmegaT is:</seg>
       </tuv>
@@ -1208,6 +1264,14 @@ The command to launch OmegaT is:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192526Z">
         <seg>* Da riga di comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* From your file manager (all systems):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094943Z">
+        <seg>* Dal gestore di (tutti i siatemi):</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1298,14 @@ the screen) as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T193518Z">
         <seg>* Utenti di Linux KDE - È possibile aggiungere OmegaT ai propri menu, nel modo seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Linux users:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095146Z">
+        <seg>* Utenti di Linux:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1342,14 @@ ready to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Mac users:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094929Z">
+        <seg>* Utenti di Mac:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* Mac users:
 Copy the OmegaT.zip archive to a suitable location and unpack it there 
 to obtain a folder that contains an HTML documentation index file and 
@@ -1286,6 +1366,14 @@ Double-click on the file OmegaT.app.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T182356Z">
         <seg>* Utenti di Mac: fare doppio-clic sul file OmegaT.app.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Others (e.g., Solaris, FreeBSD:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094703Z">
+        <seg>* Altri (e.g., Solaris, FreeBSD:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,6 +1400,14 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T110148Z">
         <seg>* Questi tasti hanno un comportamento differente se il cursore si trova al di fuori del segmento modificabile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Windows users:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094741Z">
+        <seg>* Utenti di Windows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,6 +1457,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- (X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093534Z">
+        <seg>- File (X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120511T190704Z">
@@ -1405,6 +1509,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120511T190615Z">
         <seg>- file DTD (*.DTD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- DocBook (*.xml)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093534Z">
+        <seg>- File DocBook (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1505,10 +1617,34 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Iceni Infix (*.xml)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093538Z">
+        <seg>- Fike Iceni Infix (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Instant Start Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091323Z">
         <seg>- Guida di avvio rapido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Java resource bundles (*.properties)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093531Z">
+        <seg>- pacchetti risorsa Java (*.properties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- LaTex (*.tex, *.latex)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093536Z">
+        <seg>- File LaTex (*.tex, *.latex)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1529,6 +1665,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093533Z">
+        <seg>- File Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Microsoft OpenXML files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T175742Z">
@@ -1541,6 +1685,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T175747Z">
         <seg>- file Okapi monolingual XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- OpenOffice.org / OpenDocument (*.odt, *.ott, *.ods, *.ots, *.odp, *.otp)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093532Z">
+        <seg>- File OpenOffice.org / OpenDocument (*.odt, *.ott, *.ods, *.ots, *.odp, *.otp)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1565,6 +1717,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120511T190708Z">
         <seg>- formati di file di solo testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093535Z">
+        <seg>- File QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1609,6 +1769,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Typo3 LocManager (*.xml)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093537Z">
+        <seg>- File LocManager (*.xml) Tipo3 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Visio (*.vxd)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093540Z">
+        <seg>- File Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- What you expected to see, and</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T194644Z">
@@ -1637,6 +1813,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T175932Z">
         <seg>- risorse RC di Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Wordfast TXML (*.txml)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093539Z">
+        <seg>- File Wordfast TXML (*.txml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1915,6 +2099,17 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>1.</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093904Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.5 or higher to be installed on your system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093141Z">
+        <seg>versione 1.5 o superiore.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1948,6 +2143,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093906Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2000 and XP: Documents and Settings\&lt;User Name&gt;\Application Data\OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193354Z">
@@ -1960,6 +2163,62 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093953Z">
         <seg>3) Inviare una segnalazione di errore all'indirizzo http://sourceforge.net/projects/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093912Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094211Z">
+        <seg>3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094530Z">
+        <seg>3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094728Z">
+        <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093921Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093926Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093939Z">
+        <seg>6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6588,6 +6847,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>==============================================================================</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094013Z">
+        <seg>==============================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "term" can be a single word or a whole phrase.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T223800Z">
@@ -7024,6 +7291,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T165550Z">
         <seg>File di testo ASCII (.txt, ecc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095455Z">
+        <seg>Aaron Madlon-Kay</seg>
       </tuv>
     </tu>
     <tu>
@@ -7708,6 +7983,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095220Z">
+        <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternate locations for some of the folders can be chosen at project creation or during the translation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T165159Z">
@@ -7720,6 +8003,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T181656Z">
         <seg>Le posizioni alternative per le directory possono essere scelte alla creazione del progetto o durante la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, double-click on the file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094802Z">
+        <seg>Oppure, fare doppio clic sul file </seg>
       </tuv>
     </tu>
     <tu>
@@ -8057,10 +8348,26 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Andrzej Sawuła</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095501Z">
+        <seg>Andrzej Sawuła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; When this parameter is added, tag validation is done prior to translation/aligning.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T174259Z">
         <seg>Altro parametro di riga di comando aggiuntivo specifico della modalità console: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; Quando viene aggiunto questo parametro, la convalida dei tag viene eseguita prima della traduzione/allineamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Antonio Vilei</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095504Z">
+        <seg>Antonio Vilei</seg>
       </tuv>
     </tu>
     <tu>
@@ -8277,6 +8584,14 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T120224Z">
         <seg>Armeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arno Peters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095459Z">
+        <seg>Arno Peters</seg>
       </tuv>
     </tu>
     <tu>
@@ -8789,6 +9104,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before reporting a bug, make sure that you have thoroughly checked the</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093253Z">
+        <seg>Prima di segnalare un difetto, accertarsi di aver consultato attentamente </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before reporting a bug, make sure that you have thoroughly checked the
 documentation.</seg>
       </tuv>
@@ -8878,6 +9201,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Benjamin Siband</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095502Z">
+        <seg>Benjamin Siband</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095926Z">
@@ -8954,6 +9285,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212401Z">
         <seg>Bretone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095500Z">
+        <seg>Briac Pilpré</seg>
       </tuv>
     </tu>
     <tu>
@@ -9146,6 +9485,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T152522Z">
         <seg>Gra&amp;fici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CAT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093504Z">
+        <seg>cat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10367,6 +10714,14 @@ Submenu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094719Z">
+        <seg>Si copi e si scompatti </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the 
 OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
@@ -10381,6 +10736,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T185953Z">
         <seg>Copiare ed estrarre l'archivio zip o tar.gz OmegaT in questa cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the OmegaT.zip archive to a suitable location and unpack it there</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094634Z">
+        <seg>Copiare ed estrarre l'archivio OmegaT.zip in una cartella opportuna</seg>
       </tuv>
     </tu>
     <tu>
@@ -11185,6 +11548,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095534Z">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directories</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231139Z">
@@ -11513,6 +11884,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dmitri Gabinski</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095511Z">
+        <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do NOT use OpenOffice.org's "columns" function to create columns:  just separate each source and target-language term pair with a single tabspace.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T224905Z">
@@ -11705,6 +12084,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the file OmegaT.app.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094935Z">
+        <seg>Fare doppio clic sul file OmegaT.app.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click on the file OmegaT.jar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094947Z">
+        <seg>Fare doppio clic sul file OmegaT.jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T112459Z">
@@ -11872,6 +12267,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag OmegaT.app to your dock or to the tool bar of a Finder window to be</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095306Z">
+        <seg>Trascinare OmegaT.app sul dock o nella barra degli attrezzi di una finestra di ricerca per</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag and drop &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; onto the Dock.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T112320Z">
@@ -11884,6 +12287,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T222709Z">
         <seg>Usare la casella a discesa per selezionare uno dei caratteri a disposizione nel proprio sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During the installation, depending on your operating system, you may receive</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093154Z">
+        <seg>Durante l'installazione, in base al sistema operativo, si potrebbero ricevere </seg>
       </tuv>
     </tu>
     <tu>
@@ -13099,6 +13510,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fabián Mandelbaum</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095456Z">
+        <seg>Fabián Mandelbaum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101158Z">
@@ -13231,6 +13650,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T094703Z">
         <seg>Impossibile importare i file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Manager (Windows Explorer), change the settings so that file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094828Z">
+        <seg>gestore di file (Windows Explorer), cambiare le impostazioni  in modo che risultino</seg>
       </tuv>
     </tu>
     <tu>
@@ -13731,6 +14158,22 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095154Z">
+        <seg>Per un modo più agevole di lanciare OmegaT, si può usare lo script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093122Z">
+        <seg>Per iniziare a operare subito con OmegaT, avviare il programma e leggere la "Guida di avvio rapido" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start 
 Tutorial.</seg>
       </tuv>
@@ -14076,6 +14519,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on the Kaptain script and on adding menu items and</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095226Z">
+        <seg>Per maggiori informazioni sullo script Kaptain e su come aggiungere elementi di menù e </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on the Kaptain script and on adding menu items and 
 launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
@@ -14401,6 +14852,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T184338Z">
         <seg>Caratteri strani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093136Z">
+        <seg>Generale</seg>
       </tuv>
     </tu>
     <tu>
@@ -14920,6 +15379,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Guido Leenders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095455Z">
+        <seg>Guido Leenders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T105309Z">
@@ -15040,6 +15507,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hans-Peter Jacobs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095454Z">
+        <seg>Hans-Peter Jacobs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T201059Z">
@@ -15156,6 +15631,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T133644Z">
         <seg>Menu Aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Henry Pijffers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095459Z">
+        <seg>Henry Pijffers</seg>
       </tuv>
     </tu>
     <tu>
@@ -15648,6 +16131,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ibai Lakunza Velasco</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095454Z">
+        <seg>Ibai Lakunza Velasco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Icelandic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T122614Z">
@@ -15708,6 +16199,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104105Z">
         <seg>Se il file contiene la codifica, essa verrà utilizzata indipendentemente da qualsiasi valore impostato in questa finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095037Z">
+        <seg>Se Java è installato a livello di sistema, il percorso </seg>
       </tuv>
     </tu>
     <tu>
@@ -16550,6 +17049,14 @@ i.e. with JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are in any doubt, we recommend that you use the version supplied with</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093205Z">
+        <seg>Se si è in dubbio, raccomandiamo di usare la versione "standard", con </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are in any doubt, we recommend that you use the version supplied with 
 JRE.</seg>
       </tuv>
@@ -16579,6 +17086,14 @@ JRE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T185510Z">
         <seg>È possibile premere &lt;k0&gt;Ctrl+E.&lt;/k0&gt; per riaprire questa finestra, nel caso si ritenga di dover modificare altre impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are not very familiar with Linux, we therefore recommend</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093552Z">
+        <seg>Se non avete molta confidenza con linux , raccomandiamo di </seg>
       </tuv>
     </tu>
     <tu>
@@ -16658,6 +17173,14 @@ change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094813Z">
+        <seg>Se è visibile soltanto il file OmegaT ma non OmegaT.exe sul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can see the file OmegaT but not OmegaT.exe in your 
 File Manager (Windows Explorer), change the settings so that file 
 extensions are displayed.</seg>
@@ -16712,6 +17235,14 @@ extensions are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T220344Z">
         <seg>Se durante la traduzione si dovesse cambiare idea, la memoria di traduzione del progetto non verrà modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you check the OmegaT log and you see words like</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093306Z">
+        <seg>Se si apre il file di registro di OmegaT, e nello stesso vengono riportate parole come </seg>
       </tuv>
     </tu>
     <tu>
@@ -16831,6 +17362,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java, one way to install the current version of</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093146Z">
+        <seg>Se Java è già installato nel sistema, il metodo più semplice per installare la versione corrente di </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java, one way to install the current version of 
 OmegaT is to use Java Web Start.</seg>
       </tuv>
@@ -16893,6 +17432,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T164139Z">
         <seg>Se il progetto non è ancora stato salvato manualmente, verrà richiesto se si desidera davvero uscire dall'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you install a version of Java at system level, you must either</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093551Z">
+        <seg>Se si installa una versione di Java a livello di sistema, accertarsi che</seg>
       </tuv>
     </tu>
     <tu>
@@ -17107,6 +17654,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you used the installation script supplied, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094844Z">
+        <seg>Se si sta usando lo script d'installazione fornito, sarà possibile be lanciare OmegaT con:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want OmegaT to segment by sentence instead of by "paragraph", it's a good idea to double-check the &lt;a1&gt;Segmentation Rules&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T093628Z">
@@ -17244,6 +17799,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish, the</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094532Z">
+        <seg>Se si desidera, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish, the 
 installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
@@ -17305,6 +17868,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T152456Z">
         <seg>Se il pannello del dizionario è vuoto, controllare i seguenti punti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094750Z">
+        <seg>se, durante l'installazione , si è creato un collegamento sul desktop,</seg>
       </tuv>
     </tu>
     <tu>
@@ -17657,6 +18228,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T191933Z">
         <seg>Per modificare o espandere una serie di regole esistente, basta fare clic sulla serie nella tabella in alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094319Z">
+        <seg>Per far funzionare, OmegaT si richiede che sul sistema sia installato Java Runtime Environment (JRE) </seg>
       </tuv>
     </tu>
     <tu>
@@ -18827,6 +19406,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is free, that is you</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093526Z">
+        <seg>È gratuito, cioè </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is free, that is you 
 don't have to pay anything to be able to use it, even for professional use, 
 and you are free to modify it and/or re-distribute it as long as you respect 
@@ -19032,6 +19619,14 @@ all'interno della cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093154Z">
+        <seg>Esso installerà l'ambiente corretto per il proprio computer e l'applicazione </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will install the correct environment for your computer and the application 
 itself on the first run.</seg>
       </tuv>
@@ -19073,6 +19668,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAXB (GPLv2 + classpath exception)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093246Z">
+        <seg>Jmyspell 2.1.4 (licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T183823Z">
@@ -19085,6 +19688,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T102006Z">
         <seg>JNA di Todd Fast, Timothy Wall et al (licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JRE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094358Z">
+        <seg>JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19145,6 +19756,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095452Z">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T193936Z">
@@ -19173,6 +19792,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T102016Z">
         <seg>Jmyspell 2.1.4 (licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>John Moran</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095457Z">
+        <seg>John Moran</seg>
       </tuv>
     </tu>
     <tu>
@@ -19229,6 +19856,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T122753Z">
         <seg>Kalaallisut, Groenlandia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kaptain.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095206Z">
+        <seg>Kaptain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19365,6 +20000,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212754Z">
         <seg>Khmer Cambogia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kim Bruning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095448Z">
+        <seg>Kim Bruning</seg>
       </tuv>
     </tu>
     <tu>
@@ -19609,6 +20252,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch OmegaT as follows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094735Z">
+        <seg>Si lanci OmegaT come segue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch OpenOffice.org and open a new text document or launch "OpenOffice.org Writer".&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T223259Z">
@@ -19645,6 +20296,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T120822Z">
         <seg>L'avvio di &lt;e2&gt;OmegaT.app&lt;/e2&gt; da riga di comando equivale a usare il pacchetto "generico" di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093228Z">
+        <seg>Lanciare OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19789,6 +20448,14 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux on PowerPC systems:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094502Z">
+        <seg>Per Linux sui sistemi PowerPC:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux on PowerPC systems: 
 Users will need to download IBM's JRE, as Sun does 
 not provide a JRE for PPC systems.</seg>
@@ -19824,6 +20491,14 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux users:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093217Z">
+        <seg>Utenti di Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux users: 
 OmegaT will run on the open-implementation source Java 
 packaged with many Linux distributions (for example, Ubuntu), but you may
@@ -19841,6 +20516,14 @@ Ubuntu), as these are either outdated or incomplete.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T185103Z">
         <seg>Per gli utenti di Linux: OmegaT non lavora con le implementazioni Java free/open-source inserite nelle molteplici distribuzioni Linux (per esempio, Ubuntu), poiché queste non sono aggiornate o sono incomplete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lion users will be prompted by the system when they first launch</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094439Z">
+        <seg>Gli utenti Lion saranno avvertiti dal sistema appena lanciano per la prima volta </seg>
       </tuv>
     </tu>
     <tu>
@@ -20119,6 +20802,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac users:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093234Z">
+        <seg>Utenti di Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac users:
 Drag OmegaT.app to your dock or to the tool bar of a Finder window to be 
 able to launch it  from any location.</seg>
@@ -20387,6 +21078,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093245Z">
+        <seg>Marc Prior </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T101451Z">
@@ -20499,6 +21198,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Martin Fleurke</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095450Z">
+        <seg>Martin Fleurke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Martin Wunderlich</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095506Z">
+        <seg>Martin Wunderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T130408Z">
@@ -20579,6 +21294,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maxym Mykhalchuk</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095457Z">
+        <seg>Maxym Mykhalchuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memory assignment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T163858Z">
@@ -20655,6 +21378,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T110320Z">
         <seg>I metodi variano in base alla distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095508Z">
+        <seg>Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -22801,6 +23532,14 @@ la cartella home dell'utente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093149Z">
+        <seg>OmegaT è usare Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T094013Z">
@@ -22909,6 +23648,14 @@ la cartella home dell'utente.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T101133Z">
         <seg>OmegaT organizza il lavoro di traduzione in “progetti" di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT packages which include</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093143Z">
+        <seg>OmegaT è ora fornito normalmente </seg>
       </tuv>
     </tu>
     <tu>
@@ -23155,6 +23902,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will automatically parse even the most complex source folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093117Z">
+        <seg>OmegaT analizzerà automaticamente anche le più complesse strutture di cartelle origine, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will automatically parse even the most complex source folder
 hierarchies, to access all the supported files, and produce a target folder
 with exactly the same structure, including copies of any non-supported files.</seg>
@@ -23237,6 +23992,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will run on the open-implementation source Java</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093218Z">
+        <seg>OmegaT funzionerà sulla open-implementation source Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then copy the selected file to the &lt;f0&gt;/source/&lt;/f0&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T185746Z">
@@ -23301,6 +24064,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094725Z">
+        <seg>l'archivio OmegaT zip o tar.bz2 in tale cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's main features are:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T174410Z">
@@ -23321,6 +24092,30 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T094658Z">
         <seg>OmegaT-Scripting consente di avviare script scritti in diversi linguaggi, all'interno di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093221Z">
+        <seg>Usare la lingua d'installazione in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.app, the application file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094657Z">
+        <seg>OmegaT.app, il file applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.exe.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094811Z">
+        <seg>OmegaT.exe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23689,6 +24484,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T140458Z">
         <seg>Valido solo quando la modalità è &lt;c0&gt;console-translate&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only when you are sure you are the first to have found some</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093335Z">
+        <seg>Solo quando si è sicuri di essere stati i primi ad aver rilevato </seg>
       </tuv>
     </tu>
     <tu>
@@ -24383,6 +25186,22 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Phillip Hall</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095452Z">
+        <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it; OmegaT is then</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093225Z">
+        <seg>* Utenti di Linux:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plain text</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T094748Z">
@@ -24531,6 +25350,14 @@ per determinare l'origine dell'errore e riprovare.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T174736Z">
         <seg>Ricordare che i file tradotti dovranno poi essere riconvertiti nel formato originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please see the file 'changes.txt' for detailed information about changes in</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093412Z">
+        <seg>Si veda il file "changes.txt" per informazioni particolareggiate su </seg>
       </tuv>
     </tu>
     <tu>
@@ -24877,6 +25704,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T223702Z">
         <seg>Segmento precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous contributors include:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095430Z">
+        <seg>Elenco dei contributi precedenti </seg>
       </tuv>
     </tu>
     <tu>
@@ -25446,6 +26281,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T110016Z">
         <seg>alterna la direzione RTL-LTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rashid Umarov</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095503Z">
+        <seg>Rashid Umarov</seg>
       </tuv>
     </tu>
     <tu>
@@ -26466,6 +27309,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SJXP 1.0.2 (GPL v2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095526Z">
+        <seg>SJXP 1.0.2 (GPL v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet 1.1.3 (GPL v2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095529Z">
+        <seg>SQLJet 1.1.3 (GPL v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SUN provides JREs for Solaris SPARC/x86 (Java 1.5) and for Linux x64, Solaris x64, Windows x64 (Java 1.5): &lt;s1&gt;http://java.sun.com/products/archive/&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T122602Z">
@@ -26530,6 +27389,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sabine Cretella</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095510Z">
+        <seg>Sabine Cretella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T131557Z">
@@ -26570,10 +27437,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Samuel Murray</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095515Z">
+        <seg>Samuel Murray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T090248Z">
         <seg>Samuel Murray: per il capitolo introduttivo "Imparare a usare OmegaT in cinque minuti".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sandra Jean Chua</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095449Z">
+        <seg>Sandra Jean Chua</seg>
       </tuv>
     </tu>
     <tu>
@@ -28122,6 +29005,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simply launch the installation program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093224Z">
+        <seg>* Utenti di Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use &lt;a1&gt;Segmentation rules&lt;/a1&gt; to create segments with less tags.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T214629Z">
@@ -28586,6 +29477,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SourceForge too.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093334Z">
+        <seg>di SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>South Ndebele</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T130229Z">
@@ -28758,6 +29657,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T121837Z">
         <seg>Impostazioni del correttore ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095349Z">
+        <seg>campo ricerca evidenziato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29006,6 +29913,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090425Z">
         <seg>Iscriversi al gruppo degli sviluppatori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subsequent clicks on  OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093156Z">
+        <seg>I clic successivi su OmegaT.jnlp </seg>
       </tuv>
     </tu>
     <tu>
@@ -30269,6 +31184,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The JRE is already installed on Mac OS X before Mac OS X 10.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093653Z">
+        <seg> JRE è già installato su Mac OS X prima del Mac OS X 10.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Japanese client works with a Japanese computer and creates text files that contain Japanese.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T202923Z">
@@ -30579,6 +31502,14 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T204232Z">
         <seg>L'alternativa è eseguire il controllo nei file di arrivo tramite un editor, ossia al di fuori di OmegaT: in questo caso le modifiche eseguite non saranno incorporate nella memoria di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The alternative ways and means of dowloading and installing OmegaT are</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093157Z">
+        <seg>e avvieranno OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31690,6 +32621,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095104Z">
+        <seg>Il programma di installazione può creare collegamenti nel menù start, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T181523Z">
@@ -32019,6 +32958,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next thing to do is to confirm what you found with other users, to make</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093330Z">
+        <seg>La successiva cosa da fare è di chiedere conferma di quanto è accaduto agli altri utenti, in modo da </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The next thing to do is to confirm what you found with other users, to make 
 sure this has not already been reported.</seg>
       </tuv>
@@ -32128,6 +33075,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120519T112418Z">
         <seg>I permessi che si concedono a questa versione (che potrebbero sembrare un "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale (per es., essi consentono l'accesso al disco rigido del computer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The permissions you give to this version (which might be mentioned as an</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093155Z">
+        <seg>I permessi che si concedono a questa versione (che potremmo chiamare</seg>
       </tuv>
     </tu>
     <tu>
@@ -33099,6 +34054,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T171401Z">
         <seg>Il manuale dell'Utente è un documento HTML contenente i collegamenti ai vari capitoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual is in the package you just downloaded, you can access it from</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093128Z">
+        <seg>Il manuale per l'utente si trova nel pacchetto appena scaricato e vi si potrà accedere dal </seg>
       </tuv>
     </tu>
     <tu>
@@ -34291,6 +35254,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is safe,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093858Z">
+        <seg>Questo è sicuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is safe, 
 since this "local" JRE will not interfere with any other JRE installed 
 on your system.</seg>
@@ -34306,6 +35277,14 @@ your system, this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T184836Z">
         <seg>Essa è sicura, nonostante JRE sia già installato nel sistema questa versione non interferirà con esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is safe, since even if the JRE is already installed on your system,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093213Z">
+        <seg>Essa è sicura, nonostante JRE sia già installato nel sistema, </seg>
       </tuv>
     </tu>
     <tu>
@@ -34665,8 +35644,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120122T112838Z">
-        <seg>Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2012.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093113Z">
+        <seg>Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2012 revisione di Carmelo Serraino copyright© 2013.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34775,6 +35754,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will work only if the .jar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094957Z">
+        <seg>Questo metodo funzionerà solo se </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will work only if the .jar
 file type is associated with Java on your system.</seg>
       </tuv>
@@ -34792,10 +35779,34 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thomas Cordonnier</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095450Z">
+        <seg>Thomas Cordonnier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thomas Huriaux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095453Z">
+        <seg>Thomas Huriaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T232744Z">
         <seg>Di conseguenza, le regole per l'Italiano svizzero (IT-CH) dovrebbero trovarsi più in alto rispetto a quelle per l'Italiano standard (IT-IT) e a quelle predefinite (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tiago Saboga</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095500Z">
+        <seg>Tiago Saboga</seg>
       </tuv>
     </tu>
     <tu>
@@ -35241,6 +36252,14 @@ una nuova segnalazione di errore:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To install OmegaT, simply create a suitable folder for OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094712Z">
+        <seg>Per installare OmegaT, creare semplicemente una cartella appropriata per il programma (per es., /usr/local/lib in Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To install OmegaT, simply unpack the &lt;s0&gt;&lt;e1&gt;OmegaT_2.0.x_Without_JRE.zip&lt;/e1&gt;&lt;/s0&gt; file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T122729Z">
@@ -35269,6 +36288,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T182208Z">
         <seg>Per installare il tokenizer, creare una cartella di nome "plugins" all'interno della cartella in cui risiede OmegaT.jar e decomprimere i file al suo interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To keep track of what is happening to your bug report you may want to register</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093402Z">
+        <seg>Per seguire il corso degli eventi relativi a una segnalazione di errore ci si dovrebbe iscrivere </seg>
       </tuv>
     </tu>
     <tu>
@@ -35571,6 +36598,15 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To translate OmegaT's user interface, user manual or other related documents,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095356Z">
+        <seg>Per tradurre l'interfaccia utente di OmegaT, il manuale per l'utente o
+altri documenti correlati, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To translate OmegaT's user interface, user manual or other related documents,
 read:</seg>
       </tuv>
@@ -35600,6 +36636,14 @@ read:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192501Z">
         <seg>Per decomprimere il file &lt;e1&gt;.tar.gz&lt;/e1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094614Z">
+        <seg>Per usare</seg>
       </tuv>
     </tu>
     <tu>
@@ -35635,6 +36679,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T165909Z">
         <seg>Per utilizzare nella traduzione la corrispondenza &lt;s11&gt;selezionata&lt;/s11&gt;, premere &lt;c12&gt;&lt;a13&gt;Ctrl+R&lt;/a13&gt;&lt;/c12&gt; per sovrascrivere completamente il contenuto del “campo di modifica”, oppure &lt;c14&gt;&lt;a15&gt;Ctrl+I&lt;/a15&gt;&lt;/c14&gt; per inserire il testo della concordanza in corrispondenza della posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use this script you must first install</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095204Z">
+        <seg>Per usare questo script occorre prima installare</seg>
       </tuv>
     </tu>
     <tu>
@@ -36220,6 +37272,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T163436Z">
         <seg>Turkmeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tutorial.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093126Z">
+        <seg>proposta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37140,6 +38200,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User support, at the Yahoo user group (multilingual), where the archives are</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093520Z">
+        <seg>Assistenza all'utente, nel gruppo utenti di Yahoo (multilingue), in cui è possibile ricercare negli archivi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -37193,6 +38261,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T122109Z">
         <seg>Per essere in grado di usare OmegaT, gli utenti di piattaforme differenti (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64, e via discorrendo) devono avere installato un JRE Java compatibile e funzionante sul proprio sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users will need to download IBM's JRE, as Sun does</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094516Z">
+        <seg>gli utenti devono scaricare il JRE di IBM, dato che Sun </seg>
       </tuv>
     </tu>
     <tu>
@@ -37549,6 +38625,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Volker Berlin</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095444Z">
+        <seg>Volker Berlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Walloon</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T164639Z">
@@ -37585,6 +38669,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T214053Z">
         <seg>Garanzia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We therefore recommend</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093219Z">
+        <seg>Raccomandiamo pertanto </seg>
       </tuv>
     </tu>
     <tu>
@@ -37660,6 +38752,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T174122Z">
         <seg>Che cosa, invece, si è ottenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you see may instead be a characteristic of OmegaT that</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093256Z">
+        <seg>Ciò che viene proposto potrebbe essere una caratteristica particolare di OmegaT </seg>
       </tuv>
     </tu>
     <tu>
@@ -38273,6 +39373,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wildrich Fourie</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095451Z">
+        <seg>Wildrich Fourie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Will Helton: his final reading of the draft has spared me a lot of embarrassment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120122T195142Z">
@@ -38341,6 +39449,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T212235Z">
         <seg>Windows Vista e 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and Linux users: if you are confident that your system already has a</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093157Z">
+        <seg>sono descritti di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38747,6 +39863,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add copies of files, portions of the log, screen shots, anything that</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093346Z">
+        <seg>Si possono allegare copie di file, parti del file di registro, schermate e tutto ciò </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add copies of files, portions of the log, screen shots, anything that
 you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
@@ -38780,6 +39904,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also call it in the</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095317Z">
+        <seg>E anche possibile chiamarla nel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also call it in the 
 Spotlight search field.</seg>
       </tuv>
@@ -38801,6 +39933,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T215117Z">
         <seg>È possibile anche inviare &lt;u6&gt;segnalazioni di errori&lt;/u6&gt; e &lt;u7&gt;proposte di miglioramenti.&lt;/u7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095116Z">
+        <seg>È possibile anche trascinare a mano </seg>
       </tuv>
     </tu>
     <tu>
@@ -39065,6 +40205,14 @@ to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094603Z">
+        <seg>Si può comunque ottenere una installazione più semplice e facile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can however obtain a neater and more user-friendly 
 installation by using the installation script (linux-install.sh).</seg>
       </tuv>
@@ -39274,6 +40422,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095213Z">
+        <seg>Si potrà allora avviare lo script di lancio in Kaptain con </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then launch the Kaptain launch script with
 Alt+F2
 omegat.kaptn</seg>
@@ -39362,6 +40518,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141218Z">
         <seg>Utilizzare la normale navigazione per spostarsi, ad esempio, al successivo segmento (non tradotto) che corrisponde al criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can verify the bug report page at</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093332Z">
+        <seg>Si può anche accedere alla pagina di segnalazione degli errori </seg>
       </tuv>
     </tu>
     <tu>
@@ -39826,6 +40990,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yu Tang</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095502Z">
+        <seg>Yu Tang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoltan Bartko</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093237Z">
+        <seg>(in ordine alfabetico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a file might have no matching entries, so it will show empty.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141632Z">
@@ -39882,10 +41062,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>able to launch it  from any location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095312Z">
+        <seg>poter lanciarla da qualsiasi posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>allows to tell OmegaT in which directory the configuration files are stored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T101852Z">
         <seg>permette di indicare a OmegaT in quale directory sono memorizzati i file di configurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>an access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093156Z">
+        <seg>l'accesso al disco rigido del computer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>an application that requires Java and the system will eventually</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093601Z">
+        <seg>un'applicazione che richiede Java e il sistema eventualmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -39922,6 +41126,30 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and then start OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093545Z">
+        <seg>e avvieranno OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093230Z">
+        <seg>e quindi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and you are free to modify it and/or re-distribute it as long as you respect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093527Z">
+        <seg>e sei libero di modificarlo o ridistribuirlo purché rispetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>are "Free to use", and some of them, like the selection above, are under the  GPL license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T150302Z">
@@ -39934,6 +41162,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T214328Z">
         <seg>sono file creati e usati dal correttore ortografico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>as a Source Forge user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093406Z">
+        <seg>come utente Source Forge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39962,10 +41198,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>automatically download and install it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093628Z">
+        <seg>lo scaricherà e installerà automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>both the project and the reference translation memories in /tm/ (check &lt;e0&gt;Search TMs)&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170937Z">
         <seg>nel progetto e nelle memorie di traduzione di riferimento contenute nella cartella /tm/ (attivare la casella &lt;e0&gt;Nella TM)&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>but you don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093246Z">
+        <seg>(se ritenete di aver contribuito in modo significativo al Progetto OmegaT </seg>
       </tuv>
     </tu>
     <tu>
@@ -40042,6 +41294,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>containing OmegaT.jar and the linux-install.sh script, and execute the</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094624Z">
+        <seg>contenente OmegaT.jar e lo script linux-install.sh, si esegua </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>contains the Main menu, status bar and 3 panes:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T142424Z">
@@ -40090,6 +41350,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>discovered a genuine problem (the log.txt is located in the user preferences</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093326Z">
+        <seg>di un errore importante (il file log.txt viene memorizzato nella cartella delle preferenze </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T201746Z">
@@ -40106,10 +41374,42 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>documentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093254Z">
+        <seg>la documentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>don't have to pay anything to be able to use it, even for professional use,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093526Z">
+        <seg>non devi pagare nulla per usarlo, persino per uso professionale,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>double words</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T123810Z">
         <seg>doppie parole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094753Z">
+        <seg>fare doppio clic sul collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ensure that it is in your launch path, or call it explicitly when launching</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093221Z">
+        <seg>Se si installa una versione di Java a livello di sistema, accertarsi che</seg>
       </tuv>
     </tu>
     <tu>
@@ -40138,6 +41438,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>experience bugs, display problems or missing features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093219Z">
+        <seg>riscontrare errori, problemi o perdite di caratteristiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093229Z">
+        <seg>visibili le estensioni dei file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extra blanks, following the period at the end of the line</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T123918Z">
@@ -40150,6 +41466,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164709Z">
         <seg>spazi aggiuntivi dopo un punto alla fine di una riga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file type is associated with Java on your system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095003Z">
+        <seg>il tipo di file .jar è associato con Java nel proprio sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40174,6 +41498,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T220129Z">
         <seg>cartella che contiene i file di script per il plugin degli script, se installato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>folder, see the manual for its location).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093328Z">
+        <seg>dell'utente; per il percorso di memorizzazione si rimanda al manuale).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40218,10 +41550,106 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>happen should you file a bug report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093342Z">
+        <seg>inviare una segnalazione di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hierarchies, to access all the supported files, and produce a target folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093118Z">
+        <seg>per accedere poi a tutti i file riconosciuti e generare una struttura di cartelle destinazione </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104651Z">
         <seg>href (URL di co&amp;llegamenti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093958Z">
+        <seg>http://groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095351Z">
+        <seg>http://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://lists.sourceforge.net/mailman/listinfo/omegat-l10n</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095402Z">
+        <seg>http://lists.sourceforge.net/mailman/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094354Z">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520347</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094005Z">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520347</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520350</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094000Z">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520350</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095413Z">
+        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094527Z">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093956Z">
+        <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/translation-info.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095358Z">
+        <seg>http://www.omegat.org/en/translation-info.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -40298,6 +41726,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>installation by using the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094608Z">
+        <seg>tramite lo script d'installazione (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>installation program can create shortcuts to launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094539Z">
+        <seg>il programma di installazione può creare collegamenti per l'avvio di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>installingAndRunning.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181552Z">
@@ -40310,6 +41754,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193256Z">
         <seg> è un tag singolo e non influisce sul testo circostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>itself on the first run.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093154Z">
+        <seg>stessa al primo avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40394,6 +41846,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095255Z">
+        <seg>lanciare icone di avvio su Linux, si consulti la guida "OmegaT su Linux".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>left justification</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T203923Z">
@@ -40446,6 +41906,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T100505Z">
         <seg>pannello delle concordanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menu, on the desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095108Z">
+        <seg>nel desktop e nell'area di avvio rapido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40562,6 +42030,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>not provide a JRE for PPC systems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094523Z">
+        <seg>non fornisce una versione JRE per sistemi PPC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>now and then</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092736Z">
@@ -40598,6 +42074,30 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T151647Z">
         <seg>numero di caratteri nel segmento di origine e in quello tradotto, rispettivamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094911Z">
+        <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095221Z">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on your system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093222Z">
+        <seg>sul vostro sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40666,6 +42166,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093220Z">
+        <seg>sia la versione di OmegaT completa di JRE (il pacchetto .tar.gz contrassegnato </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>packaged with many Linux distributions (for example, Ubuntu), but you may</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093218Z">
+        <seg>nel pacchetto di molte distribuzioni Linux (per esempio Ubuntu), ma si potrebbero </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>page down through the document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T105156Z">
@@ -40682,10 +42198,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>path need not be entered.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095054Z">
+        <seg>completo non deve essere indicato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>po4a is a Debian perl tool.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T181311Z">
         <seg>po4a è uno strumento perl per Debian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>read:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093236Z">
+        <seg>leggere:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ready to be launched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094549Z">
+        <seg>pronto ad essere lanciato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40802,6 +42342,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>reproducible sequence of event that triggered something not supposed to</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093336Z">
+        <seg>una sequenza riproducibile di un evento che ha generato qualche cosa che non sarebbe dovuta accadere, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>reserved for future use by plugins</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T184759Z">
@@ -40842,10 +42390,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>script provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093233Z">
+        <seg>Kaptain fornito (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094629Z">
+        <seg>lo script con ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>search TMs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T132923Z">
         <seg>nella TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>searchable without subscription:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093522Z">
+        <seg>senza necessità di iscrizione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40874,6 +42446,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093145Z">
+        <seg> cercarlo, scaricarlo e installarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>set a segment after "。" (Japanese period)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T201711Z">
@@ -40886,6 +42466,30 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T201341Z">
         <seg>impostare un segmento dopo un punto ('&lt;c0&gt;.&lt;/c0&gt;') e prima di uno spazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>several security warnings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093155Z">
+        <seg>diversi avvisi di sicurezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>shown below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093546Z">
+        <seg>sono descritti di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>since this "local" JRE will not interfere with any other JRE installed</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093832Z">
+        <seg>perché questa JRE "locale" non interferirà con alcun altra JRE installata</seg>
       </tuv>
     </tu>
     <tu>
@@ -40910,6 +42514,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110126T194839Z">
         <seg>sottocartella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>suitable version of the JRE installed, you can install the version of OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093203Z">
+        <seg>versione adatta di JRE, è possibile installare la versione OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sure this has not already been reported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093331Z">
+        <seg>verificare se si tratta di un problema già segnalato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40946,10 +42566,50 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>that you download and install either the Oracle Java Runtime Environment (JRE)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093219Z">
+        <seg>che si scarichi e installi sia Oracle Java Runtime Environment (JRE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>that you install an OmegaT version with JRE included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093555Z">
+        <seg>installare una versione di OmegaT che includa JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the Java Runtime Environment are now available to save users the trouble of</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093144Z">
+        <seg>con tale programma, in modo che gli utenti non debbano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the [Help] menu after starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093134Z">
+        <seg>menù [Aiuto] dopo aver avviato OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T232643Z">
         <seg>l'estensione e il file di codifica non coincidono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the file OmegaT.exe to the start menu, the desktop or the quick launch area</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095126Z">
+        <seg>il file OmegaT.exe nel menù start, nel desktop o nella barra di avvio rapido </seg>
       </tuv>
     </tu>
     <tu>
@@ -41042,10 +42702,42 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the user license.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093529Z">
+        <seg>la licenza per l'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>there are no terms in the active segment which match any terms in the glossary</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T232349Z">
         <seg>non esistono termini nel segmento attivo che corrispondono ai termini presenti nel glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>this and all previous releases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093451Z">
+        <seg>questo rilascio, e tutti quelli precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>this script, open a terminal window (console), change folder to the folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094619Z">
+        <seg>questo script, si apra una finestra terminale (console), si cambi la directory con quella </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>this version will not interfere with it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093216Z">
+        <seg>questa versione non interferirà con esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41082,6 +42774,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>to link it from there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095136Z">
+        <seg>per creare il relativo collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>to modify the font OmegaT uses for displaying source, translation, matches and glossary terms, triggered with &lt;s0&gt;Options → Font...&lt;/s0&gt;, closed with &lt;c1&gt;esc&lt;/c1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T143711Z">
@@ -41098,6 +42798,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>to obtain a folder that contains an HTML documentation index file and</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094647Z">
+        <seg>per ottenere una cartella che contiene un file HTML indice della documentazione e </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>to read the user manual, closed with &lt;c0&gt;&lt;b1&gt;esc&lt;/b1&gt;&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T143259Z">
@@ -41110,6 +42818,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T143040Z">
         <seg>per ricercare segmenti specifici all'interno del progetto; si attiva col comando &lt;c0&gt;Ctrl+F&lt;/c0&gt; e si chiude con &lt;c1&gt;esc&lt;/c1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to the local version, as installed by a procedure, described later: they allow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093156Z">
+        <seg> alla versione locale (per es., essi consentono </seg>
       </tuv>
     </tu>
     <tu>
@@ -41226,6 +42942,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>will check for any upgrades, if you are online, install them if there are any,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093544Z">
+        <seg>verificheranno e installeranno gli aggiornamenti, se presenti, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>with exactly the same structure, including copies of any non-supported files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093120Z">
+        <seg>esattamente uguale a quella di partenza, comprendente anche le copie di tutti i file non riconosciuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>with the list of your translatable files, triggered with &lt;c0&gt;Ctrl+L&lt;/c0&gt;, closed with &lt;c1&gt;esc&lt;/c1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T142945Z">
@@ -41250,10 +42982,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>without the JRE (this is indicated in the name of the version,"Without_JRE").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093205Z">
+        <seg>senza JRE (indicata col nome della versione "Without_JRE").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>you have just discovered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093300Z">
+        <seg>che si è appena scoperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>you may automatically populate the editing field with the source text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T094530Z">
         <seg>si può inserire automaticamente nel campo di modifica il testo di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>you think will help the developers with finding and fixing your bug.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093349Z">
+        <seg>che si ritiene possa essere d'aiuto agli sviluppatori per il reperimento e la correzione dell'errore.</seg>
       </tuv>
     </tu>
     <tu>
