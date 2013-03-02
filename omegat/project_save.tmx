@@ -2303,6 +2303,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;s11/&gt;You will see that the dictionary or dictionaries appear listed in the “spellchecker setup” dialog window &lt;f12&gt;c)&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183410Z">
+        <seg>&lt;/f10&gt; &lt;s11/&gt; Si vedrà che il dizionario o dizionari appaiono elencati nella finestra di dialogo "controllo ortografico setup" &lt;f12&gt;c)&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/s1&gt;&lt;/c0&gt; is a single tag and does not affect any surrounding text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T185613Z">
@@ -6831,6 +6839,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1/&gt;Click Choose and navigate to the “dictionaries” folder (&lt;f2&gt;screenshot, &lt;/f2&gt;&lt;f3&gt;a, &lt;/f3&gt;&lt;f4&gt;below)&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183332Z">
+        <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "dizionari" (&lt;f2&gt;screenshot, &lt;/f2&gt; &lt;f3&gt;un, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T191001Z">
@@ -6867,6 +6883,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094013Z">
         <seg>==============================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A "project" is usually synonymous with a translation job.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183424Z">
+        <seg>Un "progetto" è di solito sinonimo di un lavoro di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7027,6 +7051,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T090141Z">
         <seg>Sotto viene fornito un elenco di argomenti possibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A more comprehensive User's Manual can be called up with the "Help" menu item or F1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183303Z">
+        <seg>Un più completo manuale può essere richiamato con la voce di menu «Aiuto» o F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8240,6 +8272,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example is to create a “dictionaries” folder in your Program Files (Start &gt; My Computer &gt; &lt;s0/&gt;Local Disk (C:) &gt; Program Files &gt; right click &gt; New Folder, name it “dictionaries.”) Then from the OmegaT menu, click Options &gt; Spell checking.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183327Z">
+        <seg>Un esempio è quello di creare una cartella "dizionari" nel vostro file di programma (Start &amp;amp;gt; risorse del Computer &amp;amp;gt; &lt;s0/&gt; disco locale (C :) &amp;amp;gt; Program Files &amp;amp;gt; click destro &amp;amp;gt; nuova cartella, il nome "dizionari".) Dal menu di OmegaT, fare clic su Opzioni &amp;amp;gt; controllo ortografico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T184949Z">
@@ -9124,6 +9164,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212501Z">
         <seg>Basco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be warned that the documentation may be a little out of date, owing to the pace at which OmegaT is being developed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183310Z">
+        <seg>Essere avvertito che la documentazione può essere un po' antiquata, a causa del ritmo al quale OmegaT è in fase di sviluppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10161,6 +10209,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on "Segmentation" to call up the Segmentation Setup dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183453Z">
+        <seg>Fare clic su "Segmentazione" per richiamare la finestra di dialogo Installazione di segmentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T121203Z">
@@ -10251,6 +10307,14 @@ application folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the one or ones you want and click Install again, then close the box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183356Z">
+        <seg>Clicca su quello o quelli che vuoi e fare nuovamente clic su Installa, quindi chiudere la casella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the segment number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T204023Z">
@@ -10271,6 +10335,14 @@ application folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T175722Z">
         <seg>Fare clic su Importa i file di partenza... e selezionare i file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click “Install” and you will be given a list of many possible dictionaries (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183353Z">
+        <seg>Fare clic su "Install" e vi verrà dato un elenco di molti dizionari possibili (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13070,6 +13142,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter a suitable name for your project, such as the client's name and purchase order number, and click Save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183439Z">
+        <seg>Immettere un nome adatto per il vostro progetto, ad esempio il nome del cliente, numero d'ordine di acquisto e fare clic su Salva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter or Return</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100717T093654Z">
@@ -14744,10 +14824,26 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For purposes of this tutorial, let's call it &lt;f0&gt;My Project-1.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183444Z">
+        <seg>Ai fini di questa esercitazione, chiamiamolo &lt;f0&gt;My Project-1.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For readability purposes, letters are written in uppercase here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T215336Z">
         <seg>Per ragioni di leggibilità, i tasti alfabetici vengono qui rappresentati in maiuscolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For some languages, it is quite a bit out of date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183313Z">
+        <seg>Per alcune lingue, è abbastanza un po' antiquato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16856,6 +16952,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183305Z">
+        <seg>Se il riquadro di modifica è vuoto, la lingua di installazione di Windows non è probabilmente l'inglese e OmegaT non dispone di un tutorial Instant Start nella tua lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Google Translate pane is not opened, click on "Google Translate" in the line at the bottom of the window to open the pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T091909Z">
@@ -18893,6 +18997,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T131731Z">
         <seg>In questo caso, un metodo da seguire potrebbe essere:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, call up the OmegaT documentation by selecting Help &gt; User's Manual, or by pressing F1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183307Z">
+        <seg>In questo caso, richiamare la documentazione di OmegaT selezionando Guida &amp;amp;gt; manuale dell'utente, o premendo F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21318,6 +21430,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the language variant of your dictionary matches the language variant of your target language, or the spellchecker will not work properly (e.g., British English or American English).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183415Z">
+        <seg>Assicurarsi che la variante di lingua del tuo dizionario corrisponde la variante di lingua della lingua di destinazione, o il correttore ortografico non funziona correttamente (ad esempio, inglese britannico o inglese americano).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure you have tested all your options before proceeding with such conversions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T175623Z">
@@ -21886,6 +22006,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most CAT tools use the term "project" to refer to a collection of folders and files associated with a translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183420Z">
+        <seg>Maggior parte degli strumenti CAT usano il termine "progetto" per fare riferimento a un insieme di cartelle e file associati a una traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most current Russian characters sets do not cover Japanese and vice versa.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T202834Z">
@@ -22154,6 +22282,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T125358Z">
         <seg>Nauruano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to a suitable folder in which to create the project, e.g., the main folder you use for your translations, or you can place it on the Desktop for temporary ease of access, and later move it to My Documents or a similar location for storage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183436Z">
+        <seg>Passare a una cartella adatta in cui creare il progetto, ad esempio, la cartella principale che si utilizza per le traduzioni, o è possibile posizionarlo sul Desktop per la facilità di accesso temporaneo e poi passare a documenti o una simile posizione per l'archiviazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23150,6 +23286,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, you must be connected to the Internet for this function to work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183407Z">
+        <seg>Naturalmente, è necessario essere connessi a Internet per questa funzione per lavorare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Of interest for advanced users only!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T184330Z">
@@ -23816,6 +23960,14 @@ la cartella home dell'utente.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213051Z">
         <seg>OmegaT è fornito come pacchetto scaricabile da SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied with a number of very basic segmentation patterns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183457Z">
+        <seg>OmegaT è fornito con un numero di modelli di segmentazione molto di base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25498,6 +25650,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pick the one for the language of your source text (e.g., Italian, "IT.*"), and use "Move Up" to move it to the top of the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183506Z">
+        <seg>Scegli quello per la lingua del testo sorgente (ad esempio italiano, "Caricati") e "Move Up" per spostarlo in cima alla lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the archive in any suitable folder and unpack it; OmegaT is then</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093225Z">
@@ -25606,6 +25766,14 @@ to determine the source of the error and try again.</seg>
         <seg>Consultare il registro
 ({1})
 per determinare l'origine dell'errore e riprovare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the Yahoo user group&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183318Z">
+        <seg>Si prega di contattare il gruppo di utenti di Yahoo&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28949,6 +29117,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the desired source and target languages by clicking on the arrows to the right of these fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183449Z">
+        <seg>Selezionare la sorgente desiderata e lingue di destinazione facendo clic sulle frecce a destra di questi campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the language code (2 letters) or language-and-region code (2 + 2 letters) from the drop-down list, or type them in by hand (the language code can be 2 or 3 letters).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T093509Z">
@@ -29017,6 +29193,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224058Z">
         <seg>Motore selezionato: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting a dictionary and “Install” causes the relevant dictionary to be downloaded from the Internet to the folder which you specified in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183404Z">
+        <seg>Selezione di un dizionario e "Installare" provoca il dizionario rilevante essere scaricato da Internet nella cartella che specificato in &lt;f9&gt;un)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31216,6 +31400,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Create New Project" dialog appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183447Z">
+        <seg>Viene visualizzata la finestra di dialogo "Crea nuovo progetto".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T110613Z">
@@ -31516,6 +31708,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T164614Z">
         <seg>Lo stesso menu Modifica contiene le voci seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Editing pane displays the "Instant Start" tutorial in English.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183259Z">
+        <seg>Nel riquadro di modifica viene visualizzato il tutorial "Instant Start" in inglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34627,6 +34827,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The “Create a New Project” dialog appears (not shown here).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183430Z">
+        <seg>Viene visualizzata la finestra di dialogo "Crea un nuovo progetto" (non mostrato qui).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The&lt;e0&gt; &lt;i1/&gt;ignored_words.txt&lt;/e0&gt; and &lt;e2&gt;learned_words.txt&lt;/e2&gt;files are used by the spell checker.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T175508Z">
@@ -36456,6 +36664,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T202351Z">
         <seg>Il correttore ortografico può essere installato e usato per indicare le parole da correggere nel testo tradotto durante il lavoro di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a project in OmegaT, select Project, then click New.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183427Z">
+        <seg>Per creare un progetto in OmegaT, selezionare il progetto, quindi fare clic su nuovo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39089,6 +39305,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Volunteers to translate the current documentation are welcome!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183315Z">
+        <seg>Volontari per tradurre la documentazione attuale sono i Benvenuti!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Walloon</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T164639Z">
@@ -41352,6 +41576,14 @@ them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T204110Z">
         <seg>Si verrà automaticamente riportati al segmento dubbio all'interno della finestra dell'Editor, dove si potrà correggere l'errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need a place to store your dictionary or dictionaries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183340Z">
+        <seg>Avrete bisogno di un posto per conservare il tuo dizionario o dizionari.</seg>
       </tuv>
     </tu>
     <tu>
