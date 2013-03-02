@@ -7265,8 +7265,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211205Z">
-        <seg>Un strumento per CAT, come il termine è generalmente usato dai traduttori, si riferisce a un programma (software) che crea una "memoria di traduzione" (TM) di un documento tradotto, che può quindi essere utilizzato per facilitare la traduzione di documenti futuri che hanno notevole somiglianza con la prima.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212304Z">
+        <seg>Un strumento per CAT, come il termine è generalmente usato dai traduttori, è un programma (software) che crea una "memoria di traduzione" (TM) di un documento tradotto, che può quindi essere utilizzata per facilitare la traduzione di documenti futuri che hanno notevole somiglianza con la prima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7409,8 +7409,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A glossary function allows the user to enter source words and their translations into a file which can be accessed while translating.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211306Z">
-        <seg>Una funzione Glossario permette all'utente di immettere parole di origine e le loro traduzioni in un file di cui si può accedere durante la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212321Z">
+        <seg>Una funzione Glossario permette all'utente di immettere parole di origine e le loro traduzioni in un file a cui si può accedere durante la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7585,8 +7585,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A search function scans previously translated material (either in the present document or in a translation memory), so that the user can see how a word or phrase was previously translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T182938Z">
-        <seg>Una funzione di ricerca analizza materiale già tradotto (sia nel presente documento che in una memoria di traduzione), così che l'utente può vedere come una parola o una frase è stata tradotta in precedenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212413Z">
+        <seg>Una funzione di ricerca analizza materiale già tradotto (sia nel presente documento che in una memoria di traduzione precedente), così che l'utente può vedere come una parola o una frase è stata già tradotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7601,8 +7601,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A segmentation function displays one "segment" of source text at a time (usually a sentence), and the translation is done with the source text on the screen next to the target text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211416Z">
-        <seg>Una funzione di segmentazione visualizza un "segmento" alla volta del testo di origine (di solito una frase), e la traduzione è fatta con il testo sorgente sullo schermo accostato al testo di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212514Z">
+        <seg>Una funzione di segmentazione visualizza un "segmento" alla volta del testo di origine (di solito una frase), e si può fare la traduzione con il testo sorgente accostato, sullo schermo, al testo di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10083,8 +10083,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>CAT tools range in price from free (OmegaT) to $2,500 or more.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211648Z">
-        <seg>Gli strumenti CAT variano nel prezzo da gratis (OmegaT) a 2.500 $ o più.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212714Z">
+        <seg>Gli strumenti CAT variano nel prezzo da gratis (OmegaT) a 2500 $ o più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10587,8 +10587,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Checking your translation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171854Z">
-        <seg>Checking your translation</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212159Z">
+        <seg>Verificare la traduzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -11456,6 +11456,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184535Z">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212038Z">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23686,6 +23694,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that OmegaT does not support the Microsoft Office 97-2003 binary file format directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211813Z">
+        <seg>Si noti che OmegaT non supporta direttamente il formato di file binario di Microsoft Office 97-2003. (mentre supporta i file da Office 2007 in poi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that Uninstall physically deletes the highlighted vocabularies.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T093111Z">
@@ -24808,8 +24824,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is an excellent place to start, as the price is right, it is relatively easy to learn, and it runs on MAC and under Linux, as well as Windows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183133Z">
-        <seg>OmegaT è un ottimo posto per iniziare, come prezzo è giusto :-), è relativamente facile da imparare e funziona su MAC e sotto Linux, come sotto Windows.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212744Z">
+        <seg>OmegaT è un ottimo posto per iniziare, come prezzo è giusto :-), è relativamente facile da imparare, e funziona su MAC e sotto Linux, come sotto Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27879,8 +27895,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Refers to OmegaT version: 2.0.0&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170940Z">
-        <seg>Refers to OmegaT version: 2.0.0&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212029Z">
+        <seg>Si riferisce alla versione di OmegaT: 2.0.0 &lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29087,8 +29103,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Screenshots from OmegaT versions: 1.6.0, 2.0.0</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170946Z">
-        <seg>Screenshots from OmegaT versions: 1.6.0, 2.0.0</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212001Z">
+        <seg>Screenshot da OmegaT versioni: 1.6.0, 2.0.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -35821,8 +35837,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The user who needs to handle MS Office files will find it helpful to convert them using Open Office free software; the files can can then be saved in a Microsoft format, if desired, after the translation is finished.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183144Z">
-        <seg>L'utente che ha bisogno di gestire MS Office file troveranno utile convertirli utilizzando Open Office free software; i file possono possono poi essere salvati in un formato di Microsoft, se lo si desidera, una volta terminata la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211944Z">
+        <seg>L'utente che ha bisogno di gestire MS Office file troverà utile convertirli utilizzando il software gratuito Open Office; i file possono possono poi essere salvati nel formato di Microsoft, se lo si desidera, una volta terminata la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37196,8 +37212,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is very useful for 1) making sure you don't skip text; 2) checking your work; and 3) putting both source and target text in a font and size that are comfortable for you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211502Z">
-        <seg>Questo è molto utile per 1) fare attenzione a non saltare testo; 2) controllare il vostro lavoro; e 3) mettere testo di origine e di destinazione in un tipo di carattere e dimensione che sono comode per te.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212622Z">
+        <seg>Questo è molto utile per 1) fare attenzione a non saltare testo; 2) controllare il vostro lavoro; e 3) mettere testo di origine e di destinazione in un tipo comodo di carattere e dimensione.</seg>
       </tuv>
     </tu>
     <tu>
