@@ -2105,6 +2105,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184641Z">
+        <seg>0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184535Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093632Z">
@@ -2125,6 +2141,62 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093141Z">
         <seg>versione 1.5 o superiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184552Z">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184707Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184603Z">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>12</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184612Z">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184623Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>17</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184624Z">
+        <seg>17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>19</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184628Z">
+        <seg>19</seg>
       </tuv>
     </tu>
     <tu>
@@ -2167,6 +2239,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184634Z">
+        <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2000 and XP: Documents and Settings\&lt;User Name&gt;\Application Data\OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193354Z">
@@ -2175,10 +2255,50 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>22</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184642Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>23</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184646Z">
+        <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184651Z">
+        <seg>24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>25</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172958Z">
         <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184652Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184537Z">
+        <seg>3</seg>
       </tuv>
     </tu>
     <tu>
@@ -2223,10 +2343,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184546Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093921Z">
         <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184548Z">
+        <seg>5</seg>
       </tuv>
     </tu>
     <tu>
@@ -2247,6 +2383,86 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184549Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184549Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.A.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184550Z">
+        <seg>7.A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.A.1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184551Z">
+        <seg>7.A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.A.2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184602Z">
+        <seg>7.A.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.A.3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184553Z">
+        <seg>7.A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.A.4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184607Z">
+        <seg>7.A.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.B.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184611Z">
+        <seg>7.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.B.1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184617Z">
+        <seg>7.B.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.B.2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184620Z">
+        <seg>7.B.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>7.B.3 The glossary function</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172507Z">
@@ -2255,10 +2471,50 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>7.B.4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184626Z">
+        <seg>7.B.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184550Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>8-bit vs Unicode Text files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T230946Z">
         <seg>File di testo a 8-bit vs. Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184631Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184551Z">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184633Z">
+        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2347,6 +2603,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T185100Z">
         <seg>&lt;/f3&gt;&lt;/c2&gt;), a sé stante, sia a 2 tag, sotto forma di coppia (come nel caso di  &lt;c4&gt;&lt;f5&gt;&lt;i0&gt;&lt;/f5&gt;&lt;/c4&gt; e &lt;c6&gt;&lt;f7&gt;&lt;/i0&gt;&lt;/f7&gt;&lt;/c6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184710Z">
+        <seg>&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2875,6 +3139,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193209Z">
         <seg>&lt;b2&gt;&lt;Invio&gt;&lt;/b2&gt;&lt;segmento 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184723Z">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184727Z">
+        <seg>&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3963,6 +4243,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183617Z">
         <seg>&lt;f0&gt;Importante:&lt;/f0&gt; lo scopo di questa introduzione di OmegaT è quello di conoscere i concetti di base del software di memoria di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Note: Damaged or missing tags in XML file formats, such as OpenOffice.org, are likely to result in the output file failing to open at all.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185341Z">
+        <seg>&lt;f0&gt;Nota: i tag danneggiati o mancanti in file di formato XML, come OpenOffice.org, sono possono provocare la mancata apertura del file di output.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7735,6 +8023,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After checking your translation, check that you have not damaged any tags during the translation process: Tools &gt; Validate Tags.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184335Z">
+        <seg>Dopo aver verificato la vostra traduzione, controllare che eventuali tag non hanno danneggiato durante il processo di traduzione: strumenti &amp;amp;gt; Tag convalidare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After creating an OmegaT project, copy or move this file into the project's &lt;s25&gt;\glossary&lt;/s25&gt; folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T230215Z">
@@ -11068,6 +11364,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184535Z">
+        <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2010 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100509Z">
@@ -11232,6 +11536,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T093428Z">
         <seg>Se la cartella "plugins" non esiste, crearla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create the target documents by selecting Project &gt; Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185044Z">
+        <seg>Creare i documenti di destinazione selezionando progetto &gt; creare documenti tradotti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18102,6 +18414,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer to proofread your translation on paper, print out the &lt;f0&gt;target document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185351Z">
+        <seg>If you prefer to proofread your translation on paper, print out the &lt;f0&gt;target document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer to translate into an empty target field, set this option in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behaviour...&lt;i3/&gt;&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T124309Z">
@@ -18380,6 +18700,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192207Z">
         <seg>Se la vecchia installazione di OmegaT è una versione "Windows with JRE" version, anche la nuova deve essere "Windows with JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your project consists of multiple source files, possibly in multiple sub-folders and with accompanying graphics files, etc., as is the case with the examples in our second, HTML, project, the entire structure of the files in &lt;f1&gt;/source&lt;/f1&gt; is reproduced in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185428Z">
+        <seg>Se il vostro progetto è costituito da più file di origine, possibilmente in sottocartelle multiple e con accompagnamento di file grafici, ecc., come è il caso con gli esempi nel nostro secondo, progetto HTML, l'intera struttura dei file in &lt;f1&gt;/source&lt;/f1&gt; è riprodotta in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20880,6 +21208,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094735Z">
         <seg>Si lanci OmegaT come segue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch Open Office Writer and create a new text document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185013Z">
+        <seg>Lancio di Open Office Writer e creare un nuovo documento di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42246,6 +42582,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184734Z">
+        <seg>a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a, b, or c (simple class)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163139Z">
@@ -42406,6 +42750,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>b)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184737Z">
+        <seg>b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>both the project and the reference translation memories in /tm/ (check &lt;e0&gt;Search TMs)&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170937Z">
@@ -42434,6 +42786,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092302Z">
         <seg>da altri strumenti di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>c)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184743Z">
+        <seg>c)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44210,6 +44570,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093205Z">
         <seg>senza JRE (indicata col nome della versione "Without_JRE").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.omegat.org</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184721Z">
+        <seg>www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.openoffice.org</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184715Z">
+        <seg>www.openoffice.org</seg>
       </tuv>
     </tu>
     <tu>
