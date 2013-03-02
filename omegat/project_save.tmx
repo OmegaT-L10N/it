@@ -2159,6 +2159,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>25</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172958Z">
+        <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3) File a bug report at http://sourceforge.net/projects/omegat</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093953Z">
@@ -2219,6 +2227,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093939Z">
         <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.B.3 The glossary function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172507Z">
+        <seg>7.B.3 La funzione di glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -7287,10 +7303,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172951Z">
+        <seg>AGGREGAZIONE CON LAVORI INDIPENDENTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 license)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T183806Z">
         <seg>ANTLR 3.4 (licenza ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172708Z">
+        <seg>APPLICABILITÀ E DEFINIZIONI</seg>
       </tuv>
     </tu>
     <tu>
@@ -8468,6 +8500,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendix</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172116Z">
+        <seg>Appendice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T172756Z">
@@ -9513,6 +9553,30 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>COLLECTIONS OF DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172907Z">
+        <seg>COLLEZIONE DI DOCUMENTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COMBINING DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172009Z">
+        <seg>COMBINARE DOCUMENTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COPYING IN QUANTITY</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172842Z">
+        <seg>COPIA IN QUANTITÀ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Call up the &lt;s0&gt;Search&lt;/s0&gt; window with &lt;c1&gt;Ctrl+F&lt;/c1&gt; and enter the word or phrase you wish to search for in the &lt;s2&gt;Search for&lt;/s2&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T130028Z">
@@ -9981,6 +10045,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T200505Z">
         <seg>Progetto in fase di check-out...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checking your translation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171854Z">
+        <seg>Checking your translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -11016,6 +11088,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100717T093032Z">
         <seg>Crea i documenti tradotti nella cartella 'Target' del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171701Z">
+        <seg>Creare un progetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -12269,16 +12349,16 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       <tuv lang="EN">
         <seg>Downloading OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171253Z">
-        <seg>Downloading OmegaT</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171531Z">
+        <seg>Scaricare OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Downloading OpenOffice.org</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171123Z">
-        <seg>Downloading OpenOffice.org</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171516Z">
+        <seg>Scaricare OpenOffice.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -12295,6 +12375,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192236Z">
         <seg>Scaricare il pacchetto corretto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading the supplementary materials</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172356Z">
+        <seg>Scaricare i materiali supplementari</seg>
       </tuv>
     </tu>
     <tu>
@@ -13550,6 +13638,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FUTURE REVISIONS OF THIS LICENSE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T173115Z">
+        <seg>REVISIONI FUTURE DI QUESTA LICENZA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fabián Mandelbaum</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095456Z">
@@ -13930,6 +14026,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T161613Z">
         <seg>Opzioni dei filtri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Final proofreading, correction, and delivery</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172253Z">
+        <seg>Correzione bozze finale, correzione, e consegna</seg>
       </tuv>
     </tu>
     <tu>
@@ -14872,6 +14976,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GNU Free Documentation License</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172618Z">
+        <seg>Licenza GNU Free Documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gaelic (Scotland)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212515Z">
@@ -15543,6 +15655,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T171717Z">
         <seg>Gestire il testo con tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Handling tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171837Z">
+        <seg>Gestione dei tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -19062,6 +19182,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing a spelling dictionary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171632Z">
+        <seg>Installare un dizionario ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and Running</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T085544Z">
@@ -19144,8 +19272,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Intended readership</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171017Z">
-        <seg>Intended readership</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T180346Z">
+        <seg>Lettori designati</seg>
       </tuv>
     </tu>
     <tu>
@@ -20758,6 +20886,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T124624Z">
         <seg>Lussemburghese, Letzeburgesch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MODIFICATIONS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172039Z">
+        <seg>MODIFICHE</seg>
       </tuv>
     </tu>
     <tu>
@@ -25612,6 +25748,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172102Z">
+        <seg>Preambolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Predefined character classes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T222040Z">
@@ -25889,6 +26033,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T094732Z">
         <seg>&amp;File del progetto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project 1: A simple MS Word file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171817Z">
+        <seg>Progetto 1: Un semplice file MS Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project 2: An HTML document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172325Z">
+        <seg>Progetto 2: Un documento HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -30215,6 +30375,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TERMINATION</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T173043Z">
+        <seg>TERMINAZIONE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX - backup</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101017T180238Z">
@@ -30291,6 +30459,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231134Z">
         <seg>Posizione dei file TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TRANSLATION</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T173012Z">
+        <seg>TRADUZIONE</seg>
       </tuv>
     </tu>
     <tu>
@@ -31380,6 +31556,22 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T184403Z">
         <seg>La soluzione OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT user group</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172128Z">
+        <seg>Gruppo utenti di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT user interface</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171543Z">
+        <seg>L'interfaccia utente di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -34034,6 +34226,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text search (find) function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172557Z">
+        <seg>La funzione di ricerca testo (find)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T211111Z">
@@ -34882,6 +35082,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100508Z">
         <seg>Questo argomento esegue un antialiasing dei caratteri che migliora, dunque, il loro aspetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This aspect makes it especially useful for repetitive material.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171942Z">
+        <seg>This aspect makes it especially useful for repetitive material.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37100,6 +37308,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171715Z">
+        <seg>Tradurre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T102613Z">
@@ -37216,6 +37432,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T080339Z">
         <seg>Memoria di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory (fuzzy match function)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172439Z">
+        <seg>Memoria di traduzione(funzione di concordanza parziale)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38553,6 +38777,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VERBATIM COPYING</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172756Z">
+        <seg>COPIA ALLA LETTERA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T101941Z">
@@ -38597,6 +38829,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T102633Z">
         <seg>Convalida dei tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating tags, creating target documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172226Z">
+        <seg>Convalidare i tag, creare i documenti di arrivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -38814,8 +39054,8 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       <tuv lang="EN">
         <seg>What is a CAT tool and why are they useful?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171027Z">
-        <seg>What is a CAT tool and why are they useful?</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T180320Z">
+        <seg>Cos'è uno strumento per CAT e a chi serve?</seg>
       </tuv>
     </tu>
     <tu>
