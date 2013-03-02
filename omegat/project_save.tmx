@@ -13596,6 +13596,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English to Turkish</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204310Z">
+        <seg>Inglese-turco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164823Z">
@@ -15600,6 +15608,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>French to English</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204317Z">
+        <seg>Francese-inglese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Frequently validate tags (see &lt;a0&gt;Tag validation)&lt;/a0&gt; and produce translated documents (see below and &lt;a1&gt;Menu&lt;/a1&gt;) at regular intervals to make it easier to catch any problems that arise.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T210751Z">
@@ -15783,6 +15799,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212422Z">
         <seg>Tedesco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German to English</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204600Z">
+        <seg>Tedesco-inglese</seg>
       </tuv>
     </tu>
     <tu>
@@ -42982,6 +43006,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>canterbury</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204637Z">
+        <seg>Canterbury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cardiology</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204450Z">
+        <seg>Cardiologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>case sensitive</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T132841Z">
@@ -43090,6 +43130,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T214815Z">
         <seg>contiene le ultime statistiche di concordanza del progetto generate dal comando &lt;g0&gt;Strumenti &gt; Statistiche delle concordanze&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dancing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204429Z">
+        <seg>Danzare</seg>
       </tuv>
     </tu>
     <tu>
@@ -43290,6 +43338,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T212532Z">
         <seg>per esempio, da &lt;f0&gt;.txt&lt;/f0&gt; a &lt;f1&gt;.jp&lt;/f1&gt; per i file di solo testo in Giapponese: nella sezione &lt;e2&gt;File di testo&lt;/e2&gt; della finestra di dialogo dei filtri dei file, aggiungere un nuovo &lt;e3&gt;Modello del nome del file sorgente&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; per questo esempio) e selezionare i corretti parametri per la codifica dei file di partenza e di arrivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Cardiologie&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204437Z">
+        <seg>fr.wikipedia.org/wiki/Cardiologie&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43662,6 +43718,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>linguistics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204501Z">
+        <seg>linguistica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>load the target file in OpenOffice.org writer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T215234Z">
@@ -43974,6 +44038,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ornithology</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204526Z">
+        <seg>ornitologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>packaged with many Linux distributions (for example, Ubuntu), but you may</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093218Z">
@@ -44166,6 +44238,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>rugby</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204552Z">
+        <seg>Rugby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>russian-&lt;t0/&gt;miscellaneous</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201449Z">
@@ -44246,6 +44326,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>seine-et-marne</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204359Z">
+        <seg>seine-et-marne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T105938Z">
@@ -44306,6 +44394,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093832Z">
         <seg>perché questa JRE "locale" non interferirà con alcun altra JRE installata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>skye</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204243Z">
+        <seg>Skye</seg>
       </tuv>
     </tu>
     <tu>
