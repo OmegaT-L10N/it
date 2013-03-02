@@ -2201,6 +2201,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210257Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2 letters (e.g. &lt;s0&gt;JA&lt;/s0&gt; for Japanese), or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T111312Z">
@@ -7153,8 +7161,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s3/&gt;(Various browsers have slightly different methods for doing this.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205641Z">
-        <seg>&lt;s3/&gt;(Vari browser hanno metodi leggermente diversi per fare questo).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205851Z">
+        <seg>&lt;s3/&gt;(Vari browser hanno metodi leggermente diversi per fare questo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8928,6 +8936,14 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T165324Z">
         <seg>Tutte le corrispondenze di termini nei glossari e nei dizionari, inclusi nel progetto, saranno visualizzati come riferimento nei rispettivi pannelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any other attempt to copy, modify, sublicense or distribute the Document is void, and will automatically terminate your rights under this License.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210633Z">
+        <seg>Qualsiasi altro tentativo di copiare, modificare, sublicenziare o distribuire il documento è nullo e farà terminare automaticamente i diritti concessi dalla presente licenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13180,6 +13196,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each version of the License is given a distinguishing version number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210429Z">
+        <seg>Ogni versione della licenza viene dato un numero distintivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T215725Z">
@@ -14986,6 +15010,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T163513Z">
         <seg>Note a piè pagina (Word)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Internet Explorer 7.x, for example, File &gt; Save As&gt; Webpage, Complete; for Firefox 3.x, File &gt; Save As &gt; Web Page, Complete; for Firefox 2.x, File &gt; Save Page As.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205829Z">
+        <seg>Per Internet Explorer 7.x, ad esempio, File &gt; Salva con nome &gt; Webpage, Complete; per Firefox 3.x, File &gt; Salva come &gt; pagina Web, completa; per Firefox 2.x, File &gt; Salva pagina come).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17564,6 +17596,22 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T211321Z">
         <seg>Se l'opzione di propagazione automatica non viene attivata, i segmenti con traduzioni alternative verranno lasciati non tradotti fino a quando l'utente non decida quale traduzione usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Document does not specify a version number of this License, you may choose any version ever published (not as a draft) by the Free Software Foundation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210334Z">
+        <seg>Se il documento non specifica un numero di versione di questa licenza, si può scegliere qualsiasi versione mai pubblicata (non come bozza) dalla Free Software Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Document specifies that a particular numbered version of this License "or any later version" applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210419Z">
+        <seg>Se il documento specifica che una particolare versione di questa licenza, numerato "or any later version" si applica ad esso, avete l'opzione di seguito i termini e condizioni o di quello specificato versione o qualsiasi versione successiva che è stata pubblicata (non come bozza) dalla Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23210,6 +23258,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100717T093552Z">
         <seg>Prossimo segmento non tradotto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next, download the “legacy package” which we have created for use in this tutorial, which is at:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210155Z">
+        <seg>Poi scaricare il "pacchetto legacy" che abbiamo creato per l'uso in questo tutorial, che è presso:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31479,6 +31535,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210452Z">
+        <seg>Tali nuove versioni saranno simili nello spirito alla versione attuale, ma possono differire nei dettagli per affrontare nuovi problemi o preoccupazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary of chapters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T215520Z">
@@ -31499,6 +31563,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231322Z">
         <seg>Formati di file riconosciuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Susan Welsh</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210254Z">
+        <seg>Susan Welsh</seg>
       </tuv>
     </tu>
     <tu>
@@ -32628,6 +32700,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183259Z">
         <seg>Nel riquadro di modifica viene visualizzato il tutorial "Instant Start" in inglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Free Software Foundation may publish new, revised versions of the GNU Free Documentation License from time to time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210509Z">
+        <seg>La Free Software Foundation può pubblicare nuove, rivedute versioni della GNU Free Documentation License di volta in volta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35366,6 +35446,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222421Z">
         <seg>La barra di stato è destinata a contenere i messaggi relativi al flusso di lavoro e si trova nella parte inferiore della schermata principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The structure of folders and subfolders must be retained.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210015Z">
+        <seg>Deve essere mantenuta la struttura di cartelle e sottocartelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39300,6 +39388,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the legacy.zip archive to any suitable temporary location (such as My Documents or the Desktop).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210252Z">
+        <seg>Scompattare l'archivio legacy.zip in qualsiasi posizione temporanea adatta (ad esempio documenti o Desktop).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192340Z">
@@ -42419,6 +42515,14 @@ SourceForge too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may not copy, modify, sublicense, or distribute the Document except as expressly provided for under this License.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210558Z">
+        <seg>Lei non può copiare, modificare, sublicenziare o distribuire il documento tranne come espressamente previsto da questa licenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may prefer to leave the untranslated segments as they are and come back later to them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T100536Z">
@@ -42563,6 +42667,14 @@ SourceForge too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should be able to open the HTML files in your browser &lt;t2/&gt;and view them approximately as they appear on the Internet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210114Z">
+        <seg>Si dovrebbe essere in grado di aprire i file HTML nel browser &lt;t2/&gt; e vederli approssimativamente come appaiono su Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should specify their new location or recreate
 them.</seg>
       </tuv>
@@ -42688,6 +42800,14 @@ them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T143320Z">
         <seg>Per modificare le impostazioni di OmegaT e del progetto si utilizzeranno le finestre di dialogo seguenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder will now contain&lt;/f1&gt; one or more HTML file(s), together with associated files such as graphics files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205955Z">
+        <seg>La tua cartella &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; conterrà ora&lt;/f1&gt; uno o più file HTML, insieme ai relativi file come i file di grafica.</seg>
       </tuv>
     </tu>
     <tu>
