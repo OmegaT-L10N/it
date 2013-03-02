@@ -7263,6 +7263,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211205Z">
+        <seg>Un strumento per CAT, come il termine è generalmente usato dai traduttori, si riferisce a un programma (software) che crea una "memoria di traduzione" (TM) di un documento tradotto, che può quindi essere utilizzato per facilitare la traduzione di documenti futuri che hanno notevole somiglianza con la prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T214822Z">
@@ -7395,6 +7403,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T153113Z">
         <seg>Una penalità fissa di 5 punti viene aggiunta se la parte rimossa non corrisponde a qualche altro segmento, in modo che la corrispondenza non indichi il 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A glossary function allows the user to enter source words and their translations into a file which can be accessed while translating.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211306Z">
+        <seg>Una funzione Glossario permette all'utente di immettere parole di origine e le loro traduzioni in un file di cui si può accedere durante la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7579,6 +7595,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183658Z">
         <seg>Un segmento normalmente corrisponde a una frase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A segmentation function displays one "segment" of source text at a time (usually a sentence), and the translation is done with the source text on the screen next to the target text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211416Z">
+        <seg>Una funzione di segmentazione visualizza un "segmento" alla volta del testo di origine (di solito una frase), e la traduzione è fatta con il testo sorgente sullo schermo accostato al testo di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10045,6 +10069,22 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093504Z">
         <seg>cat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CAT tools allow for greater consistency of translation, including when more than one translator is working on a job.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211536Z">
+        <seg>Gli strumenti CAT consentono una maggiore coerenza della traduzione, anche quando più di un traduttore sta lavorando su un lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CAT tools range in price from free (OmegaT) to $2,500 or more.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211648Z">
+        <seg>Gli strumenti CAT variano nel prezzo da gratis (OmegaT) a 2.500 $ o più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15351,6 +15391,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For further details, please consult the User's Manual.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211245Z">
+        <seg>Per ulteriori dettagli, consultare il manuale dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, '&lt;s1&gt;run?&lt;/s1&gt;' would match '&lt;s2&gt;runs&lt;/s2&gt;' and '&lt;s3&gt;rung&lt;/s3&gt;', but not '&lt;s4&gt;run&lt;/s4&gt;' or '&lt;s5&gt;running&lt;/s5&gt;'.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T134709Z">
@@ -16923,6 +16971,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, parties who have received copies, or rights, from you under this License will not have their licenses terminated so long as such parties remain in full compliance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210759Z">
+        <seg>Tuttavia, le parti che hanno ricevuto copie, o diritti, da voi sotto questa licenza non avranno annullate le loro licenze fintanto che tali parti resteranno nel pieno rispetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the ancillary TM files are available for finding most convenient candidates for untranslated segments.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T192334Z">
@@ -17240,6 +17296,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T215716Z">
         <seg>Se l'Editor non riesce a caricare un file di partenza, allora esso potrebbe essere in un formato non gestibile da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a section in the Document is Entitled "Acknowledgements," "Dedications," or "History," the requirement (section 4) to Preserve its Title (section 1) will typically require changing the actual title.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211049Z">
+        <seg>Se una sezione del documento è intitolata "Riconoscimenti", "Dediche", o "Storia", il requisito (sezione 4) di conservare il suo titolo (sezione 1), richiederà tipicamente di cambiare il titolo effettivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17610,8 +17674,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Document specifies that a particular numbered version of this License "or any later version" applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210419Z">
-        <seg>Se il documento specifica che una particolare versione di questa licenza, numerato "or any later version" si applica ad esso, avete l'opzione di seguito i termini e condizioni o di quello specificato versione o qualsiasi versione successiva che è stata pubblicata (non come bozza) dalla Free Software Foundation.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210835Z">
+        <seg>Se il documento specifica che una particolare versione numerata di questa licenza, "or any later version" si applica ad esso, avete l'opzione di seguito i termini e condizioni o di quello specificato versione o qualsiasi versione successiva che è stata pubblicata (non come bozza) dalla Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36510,6 +36574,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This aspect makes it especially useful for repetitive material.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211217Z">
+        <seg>Questo aspetto lo rende particolarmente utile per materiale ripetitivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This bar gives the user feedback messages about specific operations that are in progress.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222426Z">
@@ -36682,6 +36754,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T093858Z">
         <seg>Questa finestra di dialogo, disponibile sotto Opzioni &gt; Comportamento di modifica..., permette all'utente di determinare come deve essere inizializzato e gestito il segmento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211237Z">
+        <seg>Questo documento è destinato per i traduttori che non hanno esperienza con strumenti di Computer Assisted Translation (CAT) e discute le nozioni di base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37110,6 +37190,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T204916Z">
         <seg>Ciò è utile quando il codice sorgente non contiene segnaposto più complessi ed espressivi e si ottengono molti falsi positivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is very useful for 1) making sure you don't skip text; 2) checking your work; and 3) putting both source and target text in a font and size that are comfortable for you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211502Z">
+        <seg>Questo è molto utile per 1) fare attenzione a non saltare testo; 2) controllare il vostro lavoro; e 3) mettere testo di origine e di destinazione in un tipo di carattere e dimensione che sono comode per te.</seg>
       </tuv>
     </tu>
     <tu>
