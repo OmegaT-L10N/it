@@ -12918,8 +12918,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Download OmegaT (here, version 2.0.0).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183209Z">
-        <seg>Scarica OmegaT (qui, versione 2.0.0).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213431Z">
+        <seg>Scaricare OmegaT (qui, versione 2.0.0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15562,8 +15562,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the purposes of this tutorial, we assume that you will be using a Windows operating system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183216Z">
-        <seg>Ai fini di questa esercitazione, presupponiamo che si prevede di utilizzare un sistema operativo Windows.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213534Z">
+        <seg>Ai fini di questa esercitazione, supponiamo che si preveda di utilizzare un sistema operativo Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16933,8 +16933,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, OpenOffice.org facilitates the use of OmegaT (for example, as stated above, by making it easier to handle Microsoft Office files), and provides further &lt;/f1&gt;&lt;f2&gt;functions useful to translators and unrelated to OmegaT, such as the function &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;for creation of PDF files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183158Z">
-        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come indicato sopra, rendendo più facile per gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt; &lt;f2&gt;funzioni utili per traduttori e indipendenti di OmegaT, come ad esempio la funzione &lt;/f2&gt; &lt;t3/&gt; &lt;f4&gt;per la creazione di file PDF.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213346Z">
+        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come indicato sopra, rendendo più facile gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt; &lt;f2&gt;funzioni utili per traduttori e indipendenti di OmegaT, come ad esempio la funzione &lt;/f2&gt; &lt;t3/&gt; &lt;f4&gt;per la creazione di file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18229,8 +18229,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are using another system, and run into problems, the OmegaT users group at Yahoo can help you (see Step &lt;f0&gt;8&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183222Z">
-        <seg>Se si utilizza un altro sistema e incorrere in problemi, può aiutare il gruppo di utenti di OmegaT a Yahoo (vedi punto &lt;f0&gt;8&lt;/f0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213624Z">
+        <seg>Se si utilizza un altro sistema e si incorre in problemi, può aiutare il gruppo di utenti di OmegaT in Yahoo (vedi punto &lt;f0&gt;8&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20514,6 +20514,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T214448Z">
         <seg>Comprende informazioni generali su OmegaT, dove trovare ulteriori informazione, come contribuire, ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is &lt;f0&gt;not necessary to have OpenOffice&lt;/f0&gt;.org in order to use &lt;f1&gt;OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213215Z">
+        <seg>non è &lt;f0&gt; necessario avere OpenOffice&lt;/f0&gt;.org per poter utilizzare &lt;f1&gt;OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23696,8 +23704,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that OmegaT does not support the Microsoft Office 97-2003 binary file format directly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211813Z">
-        <seg>Si noti che OmegaT non supporta direttamente il formato di file binario di Microsoft Office 97-2003. (mentre supporta i file da Office 2007 in poi)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212841Z">
+        <seg>Si noti che OmegaT non supporta direttamente il formato di file binario di Microsoft Office 97-2003. (mentre supporta i file di Office 2007-10)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26022,6 +26030,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T163002Z">
         <seg>File OpenDocument/OpenOffice.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenOffice.org can be downloaded here:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213413Z">
+        <seg>OpenOffice.org può essere scaricato da qui:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34713,8 +34729,8 @@ sure this has not already been reported.</seg>
       <tuv lang="EN">
         <seg>The on-screen download instructions should be self-explanatory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183213Z">
-        <seg>Sullo schermo istruzioni per il download dovrebbe essere auto-esplicativi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213509Z">
+        <seg>Sullo schermo le istruzioni per il download dovrebbero essere auto-esplicative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35837,8 +35853,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The user who needs to handle MS Office files will find it helpful to convert them using Open Office free software; the files can can then be saved in a Microsoft format, if desired, after the translation is finished.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211944Z">
-        <seg>L'utente che ha bisogno di gestire MS Office file troverà utile convertirli utilizzando il software gratuito Open Office; i file possono possono poi essere salvati nel formato di Microsoft, se lo si desidera, una volta terminata la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212909Z">
+        <seg>L'utente che ha bisogno di gestire file MS Office troverà utile convertirli utilizzando il software gratuito Open Office; i file possono possono poi essere salvati nel formato di Microsoft, se lo si desidera, una volta terminata la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39470,8 +39486,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unpack (extract, unzip) the zip archive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183233Z">
-        <seg>Decomprimere (estrarre, decomprimere) l'archivio zip.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213757Z">
+        <seg>Decomprimere (estrarre) l'archivio zip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39564,6 +39580,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T213803Z">
         <seg>Fino a quando non si sarà familiarizzato con OmegaT, creare file finali a intervalli regolari e controllare che i file tradotti contengano l'ultima versione della traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Until you are familiar with tag handling, it is best to retain all the tags and to keep them in the same order if at all possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213819Z">
+        <seg>Fino a quando non si ha familiarità con la gestione dei tag, è meglio mantenere tutti i tag e tenerli se possibile nello stesso ordine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41207,8 +41231,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When/after downloading the zip file, place it in a suitable folder, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183229Z">
-        <seg>Quando dopo aver scaricato il file zip, posizionarlo in una cartella adatta, per esempio, per Windows, &lt;s0/&gt; C:\Program Files.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213705Z">
+        <seg>Dopo aver scaricato il file zip, posizionarlo in una cartella adatta, per esempio, per Windows, &lt;s0/&gt; C:\Programmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43722,6 +43746,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104651Z">
         <seg>href (URL di co&amp;llegamenti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212913Z">
+        <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
       </tuv>
     </tu>
     <tu>
