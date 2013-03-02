@@ -7175,6 +7175,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A search function scans previously translated material (either in the present document or in a translation memory), so that the user can see how a word or phrase was previously translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T182938Z">
+        <seg>Una funzione di ricerca analizza materiale già tradotto (sia nel presente documento che in una memoria di traduzione), così che l'utente può vedere come una parola o una frase è stata tradotta in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A short summary is available in the &lt;a0&gt;Regular Expressions Constructs&lt;/a0&gt; appendix.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T135443Z">
@@ -7655,10 +7663,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After downloading OmegaT (Windows version), launch the .exe file and follow the on-screen instructions, which should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183239Z">
+        <seg>Dopo il download di OmegaT (versione Windows), lanciare il file .exe e seguire sullo schermo le istruzioni, che dovrebbero essere auto-esplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After duplication:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T201546Z">
         <seg>Dopo aver effettuato la duplicazione si otterrà:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After launching OmegaT, the main OmegaT window should appear with three panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183250Z">
+        <seg>Dopo il lancio di OmegaT, dovrebbe apparire la finestra principale di OmegaT con tre riquadri: il riquadro di modifica, nel riquadro Fuzzy match e riquadro Glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8019,6 +8043,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T223150Z">
         <seg>Inoltre, alcuni tipi di caratteri potrebbero mostrare un comportamento migliore rispetto ad altri, a seconda delle coppie di lingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T182825Z">
+        <seg>Inoltre:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12276,6 +12308,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download OmegaT (here, version 2.0.0).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183209Z">
+        <seg>Scarica OmegaT (qui, versione 2.0.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download and install 
 Sun's Java Runtime Environment (JRE) via the link above, or download and 
 install the OmegaT package bundled with JRE (the .tar.gz bundle marked 
@@ -14038,6 +14078,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, CAT tools reproduce the formatting of the source document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183028Z">
+        <seg>Infine, gli strumenti CAT riproducono la formattazione del documento di origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, differences in tags, numbers and in the interpunction - which have been ignored in the first two cases - can be included in the calculation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T171502Z">
@@ -14732,6 +14780,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T215013Z">
         <seg>Per le ultime versioni di OmegaT, fare riferimento alla pagina degli scaricamenti in www.omegat.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the purposes of this tutorial, we assume that you will be using a Windows operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183216Z">
+        <seg>Ai fini di questa esercitazione, presupponiamo che si prevede di utilizzare un sistema operativo Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16075,6 +16131,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, OpenOffice.org facilitates the use of OmegaT (for example, as stated above, by making it easier to handle Microsoft Office files), and provides further &lt;/f1&gt;&lt;f2&gt;functions useful to translators and unrelated to OmegaT, such as the function &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;for creation of PDF files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183158Z">
+        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come indicato sopra, rendendo più facile per gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt; &lt;f2&gt;funzioni utili per traduttori e indipendenti di OmegaT, come ad esempio la funzione &lt;/f2&gt; &lt;t3/&gt; &lt;f4&gt;per la creazione di file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you know how SRX works, you will already know a lot about how OmegaT does the segmentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T184201Z">
@@ -17307,6 +17371,14 @@ that you install an OmegaT version with JRE included.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using another system, and run into problems, the OmegaT users group at Yahoo can help you (see Step &lt;f0&gt;8&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183222Z">
+        <seg>Se si utilizza un altro sistema e incorrere in problemi, può aiutare il gruppo di utenti di OmegaT a Yahoo (vedi punto &lt;f0&gt;8&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using previously created translation memories, for example given to you by translation agency or your client, OmegaT will be able to use them as a reference memories.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T081057Z">
@@ -17363,6 +17435,14 @@ extensions are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T142630Z">
         <seg>Se non è possibile avviare normalmente OmegaT (ambiente grafico non disponibile):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can't see all three panes, drag the borders between them across your screen until they are arranged approximately as shown below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183255Z">
+        <seg>Se non si possono vedere tutti i tre riquadri, trascinare i bordi tra di loro attraverso il vostro schermo fino a quando essi sono disposti approssimativamente come mostrato di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19701,6 +19781,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T210710Z">
         <seg>È, dunque, possibile selezionare cartelle esistenti o di crearne nuove, in modo da adattarsi alle abitudini di lavoro dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore recommended that you download and install OpenOffice.org (if it is not already installed on your system).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183204Z">
+        <seg>Si raccomanda pertanto di scaricare e installare OpenOffice.org (se non è già installato sul vostro sistema).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23658,6 +23746,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T095528Z">
         <seg>OmegaT è in grado di riconoscere se è stata compiuta questa azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is an excellent place to start, as the price is right, it is relatively easy to learn, and it runs on MAC and under Linux, as well as Windows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183133Z">
+        <seg>OmegaT è un ottimo posto per iniziare, come prezzo è giusto :-), è relativamente facile da imparare e funziona su MAC e sotto Linux, come sotto Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28433,6 +28529,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T165905Z">
         <seg>Per ulteriori informazioni si rimanda alla GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the following for more information on CAT tools, including on the many varieties available:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183153Z">
+        <seg>Vedere le seguenti per ulteriori informazioni su strumenti CAT, tra cui molte varietà disponibili:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33295,6 +33399,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The on-screen download instructions should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183213Z">
+        <seg>Sullo schermo istruzioni per il download dovrebbe essere auto-esplicativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T173856Z">
@@ -34379,6 +34491,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user who needs to handle MS Office files will find it helpful to convert them using Open Office free software; the files can can then be saved in a Microsoft format, if desired, after the translation is finished.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183144Z">
+        <seg>L'utente che ha bisogno di gestire MS Office file troveranno utile convertirli utilizzando Open Office free software; i file possono possono poi essere salvati in un formato di Microsoft, se lo si desidera, una volta terminata la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120729T172238Z">
@@ -35082,14 +35202,6 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100508Z">
         <seg>Questo argomento esegue un antialiasing dei caratteri che migliora, dunque, il loro aspetto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>This aspect makes it especially useful for repetitive material.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171942Z">
-        <seg>This aspect makes it especially useful for repetitive material.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37924,6 +38036,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack (extract, unzip) the zip archive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183233Z">
+        <seg>Decomprimere (estrarre, decomprimere) l'archivio zip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack the &lt;e0&gt;OmegaT_2.0.x_Source.zip&lt;/e0&gt; file and enter the &lt;e1&gt;OmegaT_2.0.x_Source&lt;/e1&gt; directory or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; directory of the SVN checked out code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T085037Z">
@@ -39617,6 +39737,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T103509Z">
         <seg>Se si desidera utilizzare di nuovo questo filtro, sarà sufficiente attivare la casella di controllo corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When/after downloading the zip file, place it in a suitable folder, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183229Z">
+        <seg>Quando dopo aver scaricato il file zip, posizionarlo in una cartella adatta, per esempio, per Windows, &lt;s0/&gt; C:\Program Files.</seg>
       </tuv>
     </tu>
     <tu>
