@@ -6927,6 +6927,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A copy of the license is included in the section entitled "GNU Free Documentation License."</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170839Z">
+        <seg>Una copia della licenza è inclusa nella sezione intitolata "GNU Free Documentation License."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A currency symbol</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T105231Z">
@@ -9129,6 +9137,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beginners</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170710Z">
+        <seg>Principianti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Behaviour altering arguments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T085012Z">
@@ -10844,6 +10860,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cover illustration is from &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt;, in the public domain.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170919Z">
+        <seg>L'illustrazione di copertina proviene da &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt;, di dominio pubblico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T182119Z">
@@ -12239,6 +12263,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T182037Z">
         <seg>Scaricare il file più recente (al momento della scrittura di questa guida, è OmegaT-tokenizers_0.4_2-2.1.zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading OpenOffice.org</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171123Z">
+        <seg>Downloading OpenOffice.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -19102,6 +19134,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Intended readership</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171017Z">
+        <seg>Intended readership</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T201259Z">
@@ -20208,6 +20248,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101940Z">
         <seg>Ultima modifica di {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last updated&lt;f0&gt;: &lt;s1/&gt;February &lt;/f0&gt;2011&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170933Z">
+        <seg>Ultimo aggiornamento&lt;f0&gt;: &lt;s1/&gt; febbraio &lt;/f0&gt;2011 &lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23358,6 +23406,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170654Z">
+        <seg>OmegaT per</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has 2 ways to segment a text: paragraph segmentation and sentence segmentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T142030Z">
@@ -25162,6 +25218,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170802Z">
+        <seg>È concesso il permesso di copiare, distribuire e/o modificare questo documento secondo i termini della GNU Free Documentation License, versione 1.2 o qualsiasi versione successiva pubblicata dalla Free Software Foundation; senza sezioni non modificabili, nessun testo di copertina, con nessun testo di retro copertina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T131010Z">
@@ -26421,6 +26485,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refers to OmegaT version: 2.0.0&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170940Z">
+        <seg>Refers to OmegaT version: 2.0.0&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refreshing script directory "{0}"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111107T130555Z">
@@ -27593,6 +27665,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T162559Z">
         <seg>Gaelico scozzese, Gaelico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Screenshots from OmegaT versions: 1.6.0, 2.0.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170946Z">
+        <seg>Screenshots from OmegaT versions: 1.6.0, 2.0.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -30203,6 +30283,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231134Z">
         <seg>Posizione dei file TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171004Z">
+        <seg>Tabella dei contenuti</seg>
       </tuv>
     </tu>
     <tu>
@@ -38716,6 +38804,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What is a CAT tool and why are they useful?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171027Z">
+        <seg>What is a CAT tool and why are they useful?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is the language pair you need?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T221327Z">
@@ -41218,6 +41314,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093246Z">
         <seg>(se ritenete di aver contribuito in modo significativo al Progetto OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>by Susan Welsh &amp; Marc Prior</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170740Z">
+        <seg>da Susan Welsh &amp; Marc Prior</seg>
       </tuv>
     </tu>
     <tu>
