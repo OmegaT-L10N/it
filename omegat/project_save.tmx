@@ -8231,6 +8231,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All files selected for translation in this tutorial are from Wikipedia; some projects comprise more than one file, to familiarize you with OmegaT's usefulness for such structured documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200905Z">
+        <seg>Tutti i file selezionati per la traduzione in questo tutorial sono da Wikipedia; alcuni progetti comprendono più di un file, per familiarizzare con utilità di OmegaT per tali documenti strutturati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All messages that you would usually find in the status bar are not shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T141244Z">
@@ -13512,6 +13520,78 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212447Z">
         <seg>Inglese (USA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to Chinese</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201106Z">
+        <seg>Inglese-cinese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to Czech</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201130Z">
+        <seg>Inglese-ceco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to Dutch</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201203Z">
+        <seg>Inglese-olandese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to French</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201230Z">
+        <seg>Inglese-francese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to German</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201354Z">
+        <seg>Inglese-tedesco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to Italian</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201427Z">
+        <seg>Inglese-italiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to Polish</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201506Z">
+        <seg>Inglese-polacco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to Russian</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201520Z">
+        <seg>Inglese-russo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to Spanish</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201542Z">
+        <seg>Inglese-spagnolo</seg>
       </tuv>
     </tu>
     <tu>
@@ -21016,6 +21096,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T094506Z">
         <seg>File LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201001Z">
+        <seg>Lingua&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30549,6 +30637,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201054Z">
+        <seg>Fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source &lt;i0/&gt;HTML segment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T174419Z">
@@ -31097,6 +31193,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T215250Z">
         <seg>Sotto-cartella target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201033Z">
+        <seg>Oggetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -35222,6 +35326,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T101738Z">
         <seg>Carattere di tabulazione (&lt;c0&gt;'\u0009'&lt;/c0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table provides a summary of web pages available, for which our tutorial's “legacy” files have been constructed:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200945Z">
+        <seg>La tabella fornisce un riepilogo delle pagine web disponibili, per le quali sono stati costruiti i file «legacy» del nostro tutorial:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42822,6 +42934,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>biocoenosis</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201148Z">
+        <seg>biocenosi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>both the project and the reference translation memories in /tm/ (check &lt;e0&gt;Search TMs)&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170937Z">
@@ -42910,6 +43030,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>combination</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201025Z">
+        <seg>combinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164645Z">
@@ -42922,6 +43050,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181657Z">
         <seg>consoleMode.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>construction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201420Z">
+        <seg>costruzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -43018,6 +43154,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093526Z">
         <seg>non devi pagare nulla per usarlo, persino per uso professionale,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dorset</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201329Z">
+        <seg>Dorset</seg>
       </tuv>
     </tu>
     <tu>
@@ -43194,6 +43338,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093118Z">
         <seg>per accedere poi a tutti i file riconosciuti e generare una struttura di cartelle destinazione </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hilton</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201404Z">
+        <seg>Hilton</seg>
       </tuv>
     </tu>
     <tu>
@@ -43538,6 +43690,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T100505Z">
         <seg>pannello delle concordanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>medicine</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201344Z">
+        <seg>medicina</seg>
       </tuv>
     </tu>
     <tu>
@@ -44006,6 +44166,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>russian-&lt;t0/&gt;miscellaneous</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201449Z">
+        <seg>russo-&lt;t0/&gt;varie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>russian-miscellaneous</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201222Z">
+        <seg>russo-varie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>save file as dialog for the glossary</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T224643Z">
@@ -44150,6 +44326,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>stocks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201117Z">
+        <seg>stock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>subfolder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110126T194839Z">
@@ -44170,6 +44354,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093331Z">
         <seg>verificare se si tratta di un problema già segnalato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>swimming</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201314Z">
+        <seg>nuoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -44650,6 +44842,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184715Z">
         <seg>www.openoffice.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yoga</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201501Z">
+        <seg>Yoga</seg>
       </tuv>
     </tu>
     <tu>
