@@ -2575,6 +2575,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Don't, however, make corrections in the Open Office Writer or MS Word file:&lt;/f1&gt; find the relevant segments in OmegaT (using the text search function, to be discussed below, Step &lt;f2&gt;7.B.4&lt;/f2&gt;) and make them there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200101Z">
+        <seg>&lt;/f0&gt; &lt;f1&gt;Non apportare, tuttavia le correzioni nel file Open Office Writer o MS Word:&lt;/f1&gt; trovare i segmenti interessati in OmegaT (utilizzando la funzione di ricerca di testo, come vedremo di seguito, passo &lt;f2&gt;7.B.4&lt;/f2&gt;) e farli lì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;s11/&gt;You will see that the dictionary or dictionaries appear listed in the “spellchecker setup” dialog window &lt;f12&gt;c)&lt;/f12&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183410Z">
@@ -8083,6 +8091,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T202310Z">
         <seg>Dopo la modifica dell'ordine si otterrà:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After revising the text and making any corrections, create the translated documents again and close the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200141Z">
+        <seg>Dopo la revisione del testo e le eventuali correzioni, creare nuovamente i documenti tradotti e chiudere il progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17472,6 +17488,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the client requires MS Office format, simply save the target file in OpenOffice.org in the relevant MS format (.doc, etc.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200425Z">
+        <seg>Se il cliente richiede il formato MS Office vecchio, semplicemente salvate il file di destinazione da OpenOffice.org nel formato MS pertinente (.doc, ecc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the codes match only the language but not the country, the segments are also loaded in memory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T111641Z">
@@ -18416,8 +18440,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you prefer to proofread your translation on paper, print out the &lt;f0&gt;target document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185351Z">
-        <seg>If you prefer to proofread your translation on paper, print out the &lt;f0&gt;target document.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T195839Z">
+        <seg>Se si preferisce rileggere la traduzione su carta, si stampi il documento di destinazione &lt;f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18706,8 +18730,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If your project consists of multiple source files, possibly in multiple sub-folders and with accompanying graphics files, etc., as is the case with the examples in our second, HTML, project, the entire structure of the files in &lt;f1&gt;/source&lt;/f1&gt; is reproduced in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185428Z">
-        <seg>Se il vostro progetto è costituito da più file di origine, possibilmente in sottocartelle multiple e con accompagnamento di file grafici, ecc., come è il caso con gli esempi nel nostro secondo, progetto HTML, l'intera struttura dei file in &lt;f1&gt;/source&lt;/f1&gt; è riprodotta in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T195749Z">
+        <seg>Se il vostro progetto è costituito da più file di origine, possibilmente in sottocartelle multiple e con accompagnamento di file grafici, ecc., come nel caso del nostro secondo progetto HTML, l'intera struttura dei file in &lt;f1&gt;/source&lt;/f1&gt; sarà riprodotta in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21204,6 +21228,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch OmegaT and create a new project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200446Z">
+        <seg>Lanciare OmegaT e creare un nuovo progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094735Z">
@@ -21348,6 +21380,14 @@ OmegaT può essere avviato in vari modi.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T100909Z">
         <seg>Vorremmo estendere i nostri ringraziamenti anche a tutte le persone della comunità OmegaT per gli sforzi e l'ispirazione che hanno voluto dedicarci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Let's call it &lt;f0&gt;My Project-2&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200511Z">
+        <seg>Chiamiamolo &lt;f0&gt;Il mio progetto-2&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29933,6 +29973,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set it up just as you did with &lt;f1&gt;My Project-1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200542Z">
+        <seg>Configurarlo come avete fatto con il &lt;f1&gt;Il mio progetto-1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set this option using &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T164804Z">
@@ -34494,6 +34542,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T174634Z">
         <seg>Sarà aperto il segmento immediatamente precedente che contenga una nota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedures described in Project 1, Steps &lt;f2&gt;7.A.1-7.A.4,&lt;/f2&gt;&lt;f3&gt; all apply here too, for HTML files.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200641Z">
+        <seg>Le procedure descritte nel Progetto 1, passaggi &lt;f2&gt;7.A.1-7.A.4,&lt;/f2&gt; &lt;f3&gt; sono tutte valide anche per i file HTML.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41323,6 +41379,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T110709Z">
         <seg>È possibile eseguire la stessa azione cancellando il segmento di destinazione e premendo il tasto &lt;g4&gt;Invio.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are now ready to deliver the job.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200224Z">
+        <seg>Ora siete pronti a consegnare il lavoro.</seg>
       </tuv>
     </tu>
     <tu>
