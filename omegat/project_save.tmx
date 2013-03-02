@@ -7151,6 +7151,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s3/&gt;(Various browsers have slightly different methods for doing this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205641Z">
+        <seg>&lt;s3/&gt;(Vari browser hanno metodi leggermente diversi per fare questo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s3&gt;Paired tags&lt;/s3&gt; usually indicate style information that applies to the text between the opening tag and the closing tag of a pair.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T185722Z">
@@ -20732,6 +20740,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Italian to English</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204927Z">
+        <seg>Italiano a inglese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JAXB (GPLv2 + classpath exception)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093246Z">
@@ -22178,6 +22194,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183415Z">
         <seg>Assicurarsi che la variante di lingua del tuo dizionario corrisponde la variante di lingua della lingua di destinazione, o il correttore ortografico non funziona correttamente (ad esempio, inglese britannico o inglese americano).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure you download the entire web page, including graphics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205518Z">
+        <seg>Assicurarsi che si scarica l'intera pagina web, tra cui grafica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25544,6 +25568,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have decided on a subject, download the files from the Internet, navigating so that they go directly into the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of &lt;/f1&gt;&lt;f2&gt;My Project-2&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205446Z">
+        <seg>Una volta che avete deciso su un argomento, scaricare i file da Internet, navigare in modo che vadano direttamente nella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; cartella del &lt;/f1&gt; &lt;f2&gt;il mio progetto-2&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have defined the project and the files to be translated, &lt;a0&gt;OmegaT&lt;/a0&gt; opens the first source file in the Editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T122651Z">
@@ -26760,6 +26792,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213155Z">
         <seg>Portoghese (Brasile)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portuguese to English</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205131Z">
+        <seg>Portoghese-inglese</seg>
       </tuv>
     </tu>
     <tu>
@@ -28593,6 +28633,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213200Z">
         <seg>Russo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Russian to English</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205153Z">
+        <seg>Russo-inglese</seg>
       </tuv>
     </tu>
     <tu>
@@ -30897,6 +30945,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212457Z">
         <seg>Spagnolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish to English</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205235Z">
+        <seg>Spanish-inglese</seg>
       </tuv>
     </tu>
     <tu>
@@ -43062,6 +43118,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>chagas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205145Z">
+        <seg>Chagas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>climbing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205320Z">
+        <seg>arrampicata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T213255Z">
@@ -43138,6 +43210,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204429Z">
         <seg>Danzare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Psychiatrie</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204815Z">
+        <seg>de.wikipedia.org/wiki/Psychiatrie</seg>
       </tuv>
     </tu>
     <tu>
@@ -43234,6 +43314,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093221Z">
         <seg>Se si installa una versione di Java a livello di sistema, accertarsi che</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>equestrianism</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204701Z">
+        <seg>equitazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -43494,6 +43582,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>humour</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204836Z">
+        <seg>Umorismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>if a search removes duplicates, you might miss duplicates in the editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141710Z">
@@ -43694,6 +43790,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>law</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205211Z">
+        <seg>legge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>left justification</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T203923Z">
@@ -43706,6 +43810,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T181626Z">
         <seg>lep, lepa, lepo - singolare, maschile (M), femminile (F), neutro (N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>librarianship</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205001Z">
+        <seg>biblioteconomia</seg>
       </tuv>
     </tu>
     <tu>
@@ -43790,6 +43902,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>montevideo</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205252Z">
+        <seg>Montevideo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>more than one space</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T124121Z">
@@ -43858,6 +43978,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T205840Z">
         <seg>voci con più parole nei glossari - esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>music</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204750Z">
+        <seg>musica</seg>
       </tuv>
     </tu>
     <tu>
@@ -44082,6 +44210,30 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T181311Z">
         <seg>po4a è uno strumento perl per Debian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>politics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205029Z">
+        <seg>politica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>psychiatry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204812Z">
+        <seg>psichiatria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>railways</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204724Z">
+        <seg>ferrovie</seg>
       </tuv>
     </tu>
     <tu>
@@ -44482,6 +44634,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T203808Z">
         <seg>segmento con tag - tradotto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>teaching</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204853Z">
+        <seg>insegnamento</seg>
       </tuv>
     </tu>
     <tu>
