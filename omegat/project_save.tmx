@@ -7383,6 +7383,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1/&gt;en.wikipedia.org/wiki/Russian_American&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064011Z">
+        <seg>&lt;t1/&gt;en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T191001Z">
@@ -8337,8 +8345,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>After downloading OmegaT (Windows version), launch the .exe file and follow the on-screen instructions, which should be self-explanatory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183239Z">
-        <seg>Dopo il download di OmegaT (versione Windows), lanciare il file .exe e seguire sullo schermo le istruzioni, che dovrebbero essere auto-esplicative.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064534Z">
+        <seg>Dopo il download di OmegaT (versione Windows), lanciare il file .exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8353,8 +8361,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>After launching OmegaT, the main OmegaT window should appear with three panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183250Z">
-        <seg>Dopo il lancio di OmegaT, dovrebbe apparire la finestra principale di OmegaT con tre riquadri: il riquadro di modifica, nel riquadro Fuzzy match e riquadro Glossario.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064728Z">
+        <seg>Dopo il lancio di OmegaT, dovrebbe apparire la finestra principale di OmegaT con tre riquadri: il riquadro di modifica (editor), il riquadro delle concordanze parziali e il riquadro dei glossari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13984,6 +13992,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201506Z">
         <seg>Inglese-polacco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English to Portuguese</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064129Z">
+        <seg>Inglese-portoghese</seg>
       </tuv>
     </tu>
     <tu>
@@ -30229,6 +30245,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;a0&gt;http://www.gnu.org/copyleft/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064340Z">
+        <seg>Vedere &lt;a0&gt;http://www.gnu.org/copyleft/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;a0&gt;pseudo-translated memory&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T103815Z">
@@ -44686,6 +44710,78 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Canterbury&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064245Z">
+        <seg>de.wikipedia.org/wiki/Canterbury&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Canterbury_(Begriffserkl%C3%A4rung)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064247Z">
+        <seg>de.wikipedia.org/wiki/Canterbury_(Begriffserkl%C3%A4rung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Domestizierung</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064249Z">
+        <seg>de.wikipedia.org/wiki/Domestizierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Dressurreiten&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064251Z">
+        <seg>de.wikipedia.org/wiki/Dressurreiten&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Fawlty_Towers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064259Z">
+        <seg>de.wikipedia.org/wiki/Fawlty_Towers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Hohe_Schule_(Reitsport)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064253Z">
+        <seg>de.wikipedia.org/wiki/Hohe_Schule_(Reitsport)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Lehrer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064300Z">
+        <seg>de.wikipedia.org/wiki/Lehrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Neigetechnik</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064255Z">
+        <seg>de.wikipedia.org/wiki/Neigetechnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de.wikipedia.org/wiki/Oberton</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064258Z">
+        <seg>de.wikipedia.org/wiki/Oberton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>de.wikipedia.org/wiki/Psychiatrie</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204815Z">
@@ -44790,6 +44886,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Biocoenosis&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063916Z">
+        <seg>en.wikipedia.org/wiki/Biocoenosis&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>en.wikipedia.org/wiki/Blind_Jack</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213936Z">
@@ -44798,10 +44902,242 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Durdle_Door</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063933Z">
+        <seg>en.wikipedia.org/wiki/Durdle_Door</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Great_Western_Hotel,_London&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063937Z">
+        <seg>en.wikipedia.org/wiki/Great_Western_Hotel,_London&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Hilton_Hotels&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063936Z">
+        <seg>en.wikipedia.org/wiki/Hilton_Hotels&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Hippocrates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063935Z">
+        <seg>en.wikipedia.org/wiki/Hippocrates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063927Z">
+        <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Jnana_yoga</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064048Z">
+        <seg>en.wikipedia.org/wiki/Jnana_yoga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Jurassic_Coast&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063931Z">
+        <seg>en.wikipedia.org/wiki/Jurassic_Coast&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Karma_yoga&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064044Z">
+        <seg>en.wikipedia.org/wiki/Karma_yoga&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Kitchen_appliance&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064136Z">
+        <seg>en.wikipedia.org/wiki/Kitchen_appliance&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Lubusz_Voivodship&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064050Z">
+        <seg>en.wikipedia.org/wiki/Lubusz_Voivodship&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Major_appliance</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064138Z">
+        <seg>en.wikipedia.org/wiki/Major_appliance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063932Z">
+        <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Panelling</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063941Z">
+        <seg>en.wikipedia.org/wiki/Panelling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Phytosociology</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063920Z">
+        <seg>en.wikipedia.org/wiki/Phytosociology</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Podlasie_Voivodship</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064054Z">
+        <seg>en.wikipedia.org/wiki/Podlasie_Voivodship</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Russian&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063922Z">
+        <seg>en.wikipedia.org/wiki/Russian&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063923Z">
+        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063924Z">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064039Z">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Russky_Island</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063926Z">
+        <seg>en.wikipedia.org/wiki/Russky_Island</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Rye&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064140Z">
+        <seg>en.wikipedia.org/wiki/Rye&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213933Z">
         <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Shareholder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063913Z">
+        <seg>en.wikipedia.org/wiki/Shareholder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Skye</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064148Z">
+        <seg>en.wikipedia.org/wiki/Skye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Small_appliance&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064135Z">
+        <seg>en.wikipedia.org/wiki/Small_appliance&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Sorghum</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064141Z">
+        <seg>en.wikipedia.org/wiki/Sorghum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/The_London_Hilton_on_Park_Lane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063939Z">
+        <seg>en.wikipedia.org/wiki/The_London_Hilton_on_Park_Lane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Waldorf_Hilton&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063938Z">
+        <seg>en.wikipedia.org/wiki/Waldorf_Hilton&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Wall&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063940Z">
+        <seg>en.wikipedia.org/wiki/Wall&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063929Z">
+        <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
       </tuv>
     </tu>
     <tu>
@@ -44818,6 +45154,54 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204701Z">
         <seg>equitazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Bruno_Mauricio_de_Zabala</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064316Z">
+        <seg>es.wikipedia.org/wiki/Bruno_Mauricio_de_Zabala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Derechos_del_niño</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064321Z">
+        <seg>es.wikipedia.org/wiki/Derechos_del_niño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Escalada_en_hielo</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064325Z">
+        <seg>es.wikipedia.org/wiki/Escalada_en_hielo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Fondo_de_Naciones_Unidas_para_la_Infancia&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064318Z">
+        <seg>es.wikipedia.org/wiki/Fondo_de_Naciones_Unidas_para_la_Infancia&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Montevideo&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064315Z">
+        <seg>es.wikipedia.org/wiki/Montevideo&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es.wikipedia.org/wiki/Niño&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064319Z">
+        <seg>es.wikipedia.org/wiki/Niño&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44934,10 +45318,130 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Augure&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064212Z">
+        <seg>fr.wikipedia.org/wiki/Augure&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fr.wikipedia.org/wiki/Cardiologie&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204437Z">
         <seg>fr.wikipedia.org/wiki/Cardiologie&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Dalmate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064231Z">
+        <seg>fr.wikipedia.org/wiki/Dalmate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Danse</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064223Z">
+        <seg>fr.wikipedia.org/wiki/Danse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Divination&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064213Z">
+        <seg>fr.wikipedia.org/wiki/Divination&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Démographie_de_Seine-et-Marne&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064158Z">
+        <seg>fr.wikipedia.org/wiki/Démographie_de_Seine-et-Marne&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Effet_Barnum</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064220Z">
+        <seg>fr.wikipedia.org/wiki/Effet_Barnum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Moineau&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064232Z">
+        <seg>fr.wikipedia.org/wiki/Moineau&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Moineau_domestique</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064234Z">
+        <seg>fr.wikipedia.org/wiki/Moineau_domestique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Romanche&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064229Z">
+        <seg>fr.wikipedia.org/wiki/Romanche&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Rugby&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064242Z">
+        <seg>fr.wikipedia.org/wiki/Rugby&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Seine-et-Marne</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064210Z">
+        <seg>fr.wikipedia.org/wiki/Seine-et-Marne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Tilt-test</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064227Z">
+        <seg>fr.wikipedia.org/wiki/Tilt-test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Vin_blanc&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064235Z">
+        <seg>fr.wikipedia.org/wiki/Vin_blanc&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/Vin_rouge</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064237Z">
+        <seg>fr.wikipedia.org/wiki/Vin_rouge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr.wikipedia.org/wiki/William_Webb_Ellis</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064243Z">
+        <seg>fr.wikipedia.org/wiki/William_Webb_Ellis</seg>
       </tuv>
     </tu>
     <tu>
@@ -45202,6 +45706,30 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193256Z">
         <seg> è un tag singolo e non influisce sul testo circostante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it.wikipedia.org/wiki/Biblioteca</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064302Z">
+        <seg>it.wikipedia.org/wiki/Biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it.wikipedia.org/wiki/Gianni_De_Michelis&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064304Z">
+        <seg>it.wikipedia.org/wiki/Gianni_De_Michelis&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it.wikipedia.org/wiki/Mariano_Rumor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064306Z">
+        <seg>it.wikipedia.org/wiki/Mariano_Rumor</seg>
       </tuv>
     </tu>
     <tu>
@@ -45750,6 +46278,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>pt.wikipedia.org/wiki/Doen%C3%A7a_de_Chagas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064308Z">
+        <seg>pt.wikipedia.org/wiki/Doen%C3%A7a_de_Chagas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>railways</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204724Z">
@@ -45910,6 +46446,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064313Z">
+        <seg>ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>rugby</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204552Z">
@@ -46000,8 +46544,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>seine-et-marne</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204359Z">
-        <seg>seine-et-marne</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064204Z">
+        <seg>Seine-et-marne</seg>
       </tuv>
     </tu>
     <tu>
@@ -46626,6 +47170,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184721Z">
         <seg>www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.omegat.org/training/materials/legacy.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064327Z">
+        <seg>www.omegat.org/training/materials/legacy.zip</seg>
       </tuv>
     </tu>
     <tu>
