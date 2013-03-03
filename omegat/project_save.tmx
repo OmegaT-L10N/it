@@ -2617,8 +2617,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;Don't, however, make corrections in the Open Office Writer or MS Word file:&lt;/f1&gt; find the relevant segments in OmegaT (using the text search function, to be discussed below, Step &lt;f2&gt;7.B.4&lt;/f2&gt;) and make them there.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200101Z">
-        <seg>&lt;/f0&gt; &lt;f1&gt;Non apportare, tuttavia le correzioni nel file Open Office Writer o MS Word:&lt;/f1&gt; trovare i segmenti interessati in OmegaT (utilizzando la funzione di ricerca di testo, come vedremo di seguito, passo &lt;f2&gt;7.B.4&lt;/f2&gt;) e farli lì.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085200Z">
+        <seg>&lt;/f0&gt; &lt;f1&gt;Non apportare, tuttavia le correzioni nel file Open Office Writer o MS Word:&lt;/f1&gt; controllare invece i segmenti interessati in OmegaT (utilizzando la funzione di ricerca di testo, come vedremo di seguito, passo &lt;f2&gt;7.B.4&lt;/f2&gt;) ed ivi effettuare le necessarie correzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4433,8 +4433,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Note: Damaged or missing tags in XML file formats, such as OpenOffice.org, are likely to result in the output file failing to open at all.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185341Z">
-        <seg>&lt;f0&gt;Nota: i tag danneggiati o mancanti in file di formato XML, come OpenOffice.org, sono possono provocare la mancata apertura del file di output.&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084905Z">
+        <seg>&lt;f0&gt;Nota: i tag danneggiati o mancanti in file di formato XML e OpenOffice.org possono provocare la mancata apertura del file di arrivo.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8385,8 +8385,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>After revising the text and making any corrections, create the translated documents again and close the project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200141Z">
-        <seg>Dopo la revisione del testo e le eventuali correzioni, creare nuovamente i documenti tradotti e chiudere il progetto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085242Z">
+        <seg>Dopo la revisione del testo e le eventuali correzioni, ricontrollare i tag, creare nuovamente i documenti tradotti e chiudere il progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11958,8 +11958,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Create the target documents by selecting Project &gt; Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185044Z">
-        <seg>Creare i documenti di destinazione selezionando progetto &gt; creare documenti tradotti.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085028Z">
+        <seg>Creare i documenti di arrivo selezionando Progetto &gt; Crea i documenti di arrivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15160,8 +15160,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Final proofreading, correction, and delivery</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172253Z">
-        <seg>Correzione bozze finale, correzione, e consegna</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085058Z">
+        <seg>Correzione finale delle bozze, correzione, e consegna</seg>
       </tuv>
     </tu>
     <tu>
@@ -22944,8 +22944,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Make sure you download the entire web page, including graphics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205518Z">
-        <seg>Assicurarsi che si scarica l'intera pagina web, tra cui grafica.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085710Z">
+        <seg>Assicurarsi che si scarica l'intera pagina web, tra cui la grafica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26370,8 +26370,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once you have decided on a subject, download the files from the Internet, navigating so that they go directly into the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of &lt;/f1&gt;&lt;f2&gt;My Project-2&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205446Z">
-        <seg>Una volta che avete deciso su un argomento, scaricare i file da Internet, navigare in modo che vadano direttamente nella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; cartella del &lt;/f1&gt; &lt;f2&gt;il mio progetto-2&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085702Z">
+        <seg>Una volta che avete deciso su un argomento, scaricare i file da Internet, navigare in modo che vadano direttamente nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio progetto-2&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42913,8 +42913,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You are now ready to deliver the job.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200224Z">
-        <seg>Ora siete pronti a consegnare il lavoro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085542Z">
+        <seg>Dopo un ultimo controllo positivo dei documenti tradotti nel loro formato originale, siete pronti a consegnare il lavoro.</seg>
       </tuv>
     </tu>
     <tu>
