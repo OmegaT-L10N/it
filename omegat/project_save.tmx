@@ -7377,8 +7377,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;t1/&gt;Click Choose and navigate to the “dictionaries” folder (&lt;f2&gt;screenshot, &lt;/f2&gt;&lt;f3&gt;a, &lt;/f3&gt;&lt;f4&gt;below)&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183332Z">
-        <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "dizionari" (&lt;f2&gt;screenshot, &lt;/f2&gt; &lt;f3&gt;un, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070032Z">
+        <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "dizionari" (&lt;f2&gt;screenshot, &lt;/f2&gt; &lt;f3&gt;a, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8946,8 +8946,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An example is to create a “dictionaries” folder in your Program Files (Start &gt; My Computer &gt; &lt;s0/&gt;Local Disk (C:) &gt; Program Files &gt; right click &gt; New Folder, name it “dictionaries.”) Then from the OmegaT menu, click Options &gt; Spell checking.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183327Z">
-        <seg>Un esempio è quello di creare una cartella "dizionari" nel vostro file di programma (Start &amp;amp;gt; risorse del Computer &amp;amp;gt; &lt;s0/&gt; disco locale (C :) &amp;amp;gt; Program Files &amp;amp;gt; click destro &amp;amp;gt; nuova cartella, il nome "dizionari".) Dal menu di OmegaT, fare clic su Opzioni &amp;amp;gt; controllo ortografico.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070731Z">
+        <seg>Un esempio è quello di creare una cartella "dizionari" nella vostra cartella Programmi: (Avvio &gt; Risorse del Computer &gt; &lt;s0/&gt; Disco locale (C :) &gt; Programmi &gt; click destro &gt; Nuova cartella, il nome "Dizionari".) Dal menù di OmegaT, fare clic su Opzioni &gt; Correzione ortografica... .</seg>
       </tuv>
     </tu>
     <tu>
@@ -11077,8 +11077,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Click on the one or ones you want and click Install again, then close the box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183356Z">
-        <seg>Clicca su quello o quelli che vuoi e fare nuovamente clic su Installa, quindi chiudere la casella.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070331Z">
+        <seg>Cliccare su quello o quelli che si desiderano e fare nuovamente clic su Installa, quindi chiudere la casella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11109,8 +11109,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Click “Install” and you will be given a list of many possible dictionaries (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183353Z">
-        <seg>Fare clic su "Install" e vi verrà dato un elenco di molti dizionari possibili (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070054Z">
+        <seg>Fare clic su "Install" e apparirà un elenco di molti dizionari possibili (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
