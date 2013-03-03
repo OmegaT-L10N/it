@@ -7473,8 +7473,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212304Z">
-        <seg>Un strumento per CAT, come il termine è generalmente usato dai traduttori, è un programma (software) che crea una "memoria di traduzione" (TM) di un documento tradotto, che può quindi essere utilizzata per facilitare la traduzione di documenti futuri che hanno notevole somiglianza con la prima.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230828Z">
+        <seg>Un strumento per CAT, come il termine è generalmente inteso dai traduttori, è un programma (software) che crea una "memoria di traduzione" (TM) di un documento tradotto. Questa può quindi essere utilizzata per facilitare la traduzione di documenti futuri con notevole somiglianze con i segmenti già tradotti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9979,8 +9979,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Beginners</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170710Z">
-        <seg>Principianti</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230017Z">
+        <seg>Novizi</seg>
       </tuv>
     </tu>
     <tu>
@@ -10411,8 +10411,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>COPYING IN QUANTITY</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172842Z">
-        <seg>COPIA IN QUANTITÀ</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230308Z">
+        <seg>COPIE IN QUANTITÀ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11783,6 +11783,14 @@ archive to this folder and unpack it there.</seg>
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212038Z">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230020Z">
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
       </tuv>
     </tu>
@@ -15785,8 +15793,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For further details, please consult the User's Manual.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211245Z">
-        <seg>Per ulteriori dettagli, consultare il manuale dell'utente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230536Z">
+        <seg>Per approfondire, consultare il manuale dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27284,8 +27292,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170802Z">
-        <seg>È concesso il permesso di copiare, distribuire e/o modificare questo documento secondo i termini della GNU Free Documentation License, versione 1.2 o qualsiasi versione successiva pubblicata dalla Free Software Foundation; senza sezioni non modificabili, nessun testo di copertina, con nessun testo di retro copertina.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230231Z">
+        <seg>È concesso il permesso di copiare, distribuire e/o modificare questo documento secondo i termini della GNU Free Documentation License, versione 1.2 o qualsiasi versione successiva, pubblicata dalla Free Software Foundation; senza sezioni non modificabili, nessun testo di copertina ne  di retro copertina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28385,6 +28393,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T094523Z">
         <seg>File QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Questa traduzione in italiano è frutto del lavoro di Carmelo Serraino, copyright© 2013.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230052Z">
+        <seg>Questa traduzione in italiano è frutto del lavoro di Carmelo Serraino, copyright© 2013.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37752,8 +37768,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211237Z">
-        <seg>Questo documento è destinato per i traduttori che non hanno esperienza con strumenti di Computer Assisted Translation (CAT) e discute le nozioni di base.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230506Z">
+        <seg>Questo documento è destinato per i traduttori che non hanno esperienza con strumenti di Computer Assisted Translation (CAT) e tratta solo le nozioni di base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41403,8 +41419,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>VERBATIM COPYING</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T205734Z">
-        <seg>COPIA LETTERALE</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230246Z">
+        <seg>COPIE LETTERALI</seg>
       </tuv>
     </tu>
     <tu>
