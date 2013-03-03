@@ -11717,8 +11717,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Copy the .tmx file to the &lt;f0&gt;/tm&lt;/f0&gt; folder and the .txt file to the &lt;f1&gt;/glossary&lt;/f1&gt; folder of your OmegaT project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214525Z">
-        <seg>Copiare il file TMX &lt;f0&gt;1.5&lt;/f0&gt; cartella e il file. txt nella cartella &lt;f1&gt;/glossary&lt;/f1&gt; del vostro progetto OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160013Z">
+        <seg>Copiare il file .tmx nella cartella &lt;f0&gt;/tm&lt;/f0&gt; e il file .txt nella cartella &lt;f1&gt;/glossary&lt;/f1&gt; del progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15432,8 +15432,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>For Internet Explorer 7.x, for example, File &gt; Save As&gt; Webpage, Complete; for Firefox 3.x, File &gt; Save As &gt; Web Page, Complete; for Firefox 2.x, File &gt; Save Page As.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205829Z">
-        <seg>Per Internet Explorer 7.x, ad esempio, File &gt; Salva con nome &gt; Webpage, Complete; per Firefox 3.x, File &gt; Salva come &gt; pagina Web, completa; per Firefox 2.x, File &gt; Salva pagina come).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T155752Z">
+        <seg>Per Internet Explorer 7.x, ad esempio, File &gt; Salva con nome &gt; Pagina Web,completa; per Firefox 3.x, File &gt; Salva come &gt; pagina Web, completa; per Firefox 2.x, File &gt; Salva pagina come).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19320,8 +19320,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you view these files in your browser on your PC, they will differ slightly in appearance from the pages on the Internet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214531Z">
-        <seg>Se si visualizzano questi file nel vostro browser sul vostro PC, sarà differiscono leggermente nell'aspetto delle pagine su Internet.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160112Z">
+        <seg>Se si visualizzano questi file nel vostro browser sul vostro PC, magari differiscono leggermente nell'aspetto dalle pagine su Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22944,8 +22944,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Make sure you download the entire web page, including graphics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085710Z">
-        <seg>Assicurarsi che si scarica l'intera pagina web, tra cui la grafica.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T155528Z">
+        <seg>Assicurarsi di scaricare l'intera pagina web, con la grafica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26370,8 +26370,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once you have decided on a subject, download the files from the Internet, navigating so that they go directly into the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of &lt;/f1&gt;&lt;f2&gt;My Project-2&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085702Z">
-        <seg>Una volta che avete deciso su un argomento, scaricare i file da Internet, navigare in modo che vadano direttamente nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio progetto-2&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T155459Z">
+        <seg>Una volta deciso un argomento, scaricare i file da Internet, fare in modo che vadano direttamente nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio progetto-2&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31503,8 +31503,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Some more points to note about the HTML files for translation:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214528Z">
-        <seg>Alcuni punti più notare sui file HTML per la traduzione:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160041Z">
+        <seg>Alcuni punti da notare sui file HTML, per la traduzione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35633,8 +35633,8 @@ sure this has not already been reported.</seg>
       <tuv lang="EN">
         <seg>The pages listed here have been selected as suitable examples (and the “legacy” files have been created to correspond to them), but changes to them may make them less suitable, and they may even disappear or move elsewhere.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214541Z">
-        <seg>Le pagine elencate qui sono stati scelti come esempi adatti (e i file "legacy" sono stati creati per corrispondere loro), ma le modifiche a loro possono renderli meno adatto, e possono anche scomparire o spostarsi altrove.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160254Z">
+        <seg>Le pagine elencate qui sono state scelte come esempi adatti (e i file "legacy" sono stati creati per corrispondere loro), ma le modifiche possono renderle meno adatte, e possono anche scomparire o spostarsi altrove.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37864,8 +37864,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This has nothing to do with OmegaT or your browser, but is due to the fact that Wikipedia does not allow all the template information for its pages to be downloaded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214534Z">
-        <seg>Questo non ha nulla a che fare con OmegaT o il vostro browser, ma è dovuto al fatto che Wikipedia non permette tutte le informazioni di modello per le sue pagine essere scaricato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160218Z">
+        <seg>Questo non ha nulla a che fare con OmegaT o con il vostro browser, ma è dovuto al fatto che Wikipedia non permette di scaricare tutte le informazioni di formato per le sue pagine.</seg>
       </tuv>
     </tu>
     <tu>
