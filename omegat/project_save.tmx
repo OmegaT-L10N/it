@@ -9522,8 +9522,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As with the glossary function, you can use keyboard shortcuts to copy and paste content from the Text Search window into the active translation segment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214836Z">
-        <seg>Come con la funzione di glossario, è possibile utilizzare le scorciatoie da tastiera per copiare e incollare il contenuto nella finestra di ricerca testo nel segmento di traduzione attiva.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184539Z">
+        <seg>Come con la funzione di glossario, è possibile utilizzare le scorciatoie da tastiera per copiare e incollare contenuto della finestra di ricerca testo nel segmento di traduzione attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12126,8 +12126,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+F calls up a search dialog with which you can search for any term throughout the project, i.e., within the source text and the legacy translation memory files, source segments, and target segments (but not glossary files).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214832Z">
-        <seg>CTRL + F richiama una finestra di dialogo di ricerca con cui è possibile cercare qualsiasi termine nel corso del progetto, cioè, all'interno il testo sorgente e la traduzione legacy file memoria, segmenti di origine e segmenti target (ma non i file Glossario).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184400Z">
+        <seg>CTRL+F richiama una finestra di dialogo di ricerca con cui è possibile cercare qualsiasi termine nel corso del progetto, cioè, all'interno del testo sorgente e nei file di memoria traduzione eredità, nei segmenti di origine e nei segmenti di arrivo (ma non nei file Glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15505,8 +15505,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For details, see &lt;t0/&gt;the User's Manual.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214846Z">
-        <seg>Per ulteriori informazioni, vedere &lt;t0/&gt; il manuale dell'utente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184635Z">
+        <seg>Per ulteriori informazioni, vedere &lt;t0/&gt; il Manuale dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15857,8 +15857,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For more advanced users, there is a plugin called OmegaT-tokenizers (for use in OmegaT version 2.1.1 and later versions), which allows OmegaT to recognize inflected forms of a word.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214813Z">
-        <seg>Per gli utenti più avanzati, esiste un plugin chiamato OmegaT-tokenizer (per uso in OmegaT versione 2.1.1 e versioni successive), che permette di OmegaT riconoscere forme flesse di una parola.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184046Z">
+        <seg>Per gli utenti più avanzati, esiste un plugin chiamato OmegaT-tokenizer (per uso in OmegaT versione 2.1.1 e versioni successive), che permette a OmegaT di riconoscere le forme flesse di una parola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33924,8 +33924,8 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
       <tuv lang="EN">
         <seg>The Text Search window has quite powerful search functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214842Z">
-        <seg>La finestra di ricerca testo ha funzioni di ricerca molto potente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184613Z">
+        <seg>La finestra di ricerca testo ha funzioni di ricerca molto potenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38669,8 +38669,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="EN">
         <seg>Thus, if &lt;t0/&gt;your source document contains the words &lt;f1&gt;ein Mensch,&lt;/f1&gt; a glossary that has the source text as &lt;f2&gt;der Mensch &lt;/f2&gt;will not find it; use &lt;f3&gt;Mensch&lt;/f3&gt;&lt;f4&gt; for the glossary instead.&lt;/f4&gt;&lt;f5&gt; For more on glossaries, including adding new term&lt;/f5&gt;&lt;f6&gt;s, consult the User‘s Manual.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214802Z">
-        <seg>Così, se &lt;t0/&gt; il vostro documento di origine contiene le parole &lt;f1&gt;ein Mensch,&lt;/f1&gt; un glossario che contiene il testo di origine come volontà &lt;f2&gt;der Mensch &lt;/f2&gt;non trovarlo; utilizzare &lt;f3&gt;Mensch&lt;/f3&gt; &lt;f4&gt; per il Glossario invece.&lt;/f4&gt;&lt;f5&gt;Per ulteriori informazioni su glossari, inclusa l'aggiunta nuovo termine&lt;/f5&gt;&lt;f6&gt;s, consultare il manuale utente.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T183959Z">
+        <seg>Così, se &lt;t0/&gt; il vostro documento di origine contiene le parole &lt;f1&gt;ein Mensch,&lt;/f1&gt; un glossario che contiene il testo di origine &lt;f2&gt;der Mensch &lt;/f2&gt;non lo troverà; utilizzare invece &lt;f3&gt;Mensch&lt;/f3&gt; &lt;f4&gt; per il Glossario.&lt;/f4&gt;&lt;f5&gt;Per ulteriori informazioni su glossari, inclusa l'aggiunta di un nuovo termine&lt;/f5&gt;&lt;f6&gt; consultare il manuale utente.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
