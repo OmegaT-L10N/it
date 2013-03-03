@@ -1229,8 +1229,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190510Z">
-        <seg>(Quindi, se il documento è in parte un libro di testo di matematica, una sezione secondaria può non spiegare alcun argomento di  matematica.) Il rapporto potrebbe essere una questione di collegamento storico con il soggetto o con questioni collegate, o della posizione giuridica, commerciale, filosofica, etica o politica che riguarda loro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T204551Z">
+        <seg>(Quindi, se il documento è in parte un libro di testo di matematica, una sezione secondaria non può contenere spiegazioni di matematica). La relazione potrebbe essere un tema collegato storicamente con l'oggetto o con oggetti affini, o con aspetti legali, commerciali, filosofici, etici o una posizione politica nei suoi confronti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7449,8 +7449,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215006Z">
-        <seg>Una copia di "Trasparente" del documento indica una copia leggibile, rappresentata in un formato in cui specifica è disponibile al pubblico in generale, che è adatto per una revisione del documento semplicemente con un editor di testo generico o (per immagini composte di pixel) generici programmi di vernice o (per i disegni) alcuni editor di disegno ampiamente disponibile e che è adatto per l'ingresso di formattatori di testo o per la traduzione automatica in una varietà di formati adatti per l'input di formattatori di testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T205127Z">
+        <seg>Una copia "trasparente" del documento indica una copia leggibile, rappresentata in un formato la cui specifica è disponibile al pubblico in generale, che è adatta per una revisione del documento semplicemente con un editor di testo generico o (per immagini composte di pixel) generici programmi di disegno o (per la grafica) alcuni editor di grafica ampiamente disponibili e adatti per l'ingresso di formattatori di testo o per la traduzione automatica in una varietà di formati adatti per l'input di formattatori di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7545,8 +7545,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215012Z">
-        <seg>Una copia fatta in un formato di file altrimenti trasparente cui markup o assenza di markup, è stato organizzato a ostacolare o scoraggiare la successiva modifica di lettori non è trasparente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T205308Z">
+        <seg>Una copia fatta in un formato di file altrimenti trasparente in cui il markup o l'assenza di markup, è stato organizzato per ostacolare o scoraggiare la successiva modifica da parte dei lettori, non è trasparente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7577,8 +7577,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A copy that is not "Transparent" is called "Opaque."</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215016Z">
-        <seg>Una copia che non è "Trasparente" è chiamato "Opaco".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T205415Z">
+        <seg>Una copia che non è "Trasparente" è chiamata "Opaca".</seg>
       </tuv>
     </tu>
     <tu>
@@ -17758,8 +17758,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a section does not fit the above definition of Secondary then it is not allowed to be designated as Invariant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190637Z">
-        <seg>Se una sezione non adatta la definizione di cui sopra di secondaria allora non è consentito che sia designata come invariante.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T204714Z">
+        <seg>Se una sezione non si adatta alla definizione di secondaria di cui sopra, allora non è consentito che sia designata come invariante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33274,8 +33274,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190852Z">
-        <seg>I testi"Cover" sono alcuni brevi passaggi di testo che sono elencati, come testi di copertina o di retro copertina, nella nota che dice che il documento è rilasciato sotto questa licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T204835Z">
+        <seg>I testi di copertina sono alcuni brevi passaggi di testo che sono elencati, come testi di copertina o di retro copertina, nella nota che dice che il documento è rilasciato sotto questa licenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33298,8 +33298,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190540Z">
-        <seg>Le "sezioni invarianti" sono alcune sezioni secondarie cui titoli sono indicati, come quelli di sezioni non modificabili, nell'avviso che dice che il documento è rilasciato sotto questa licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T204619Z">
+        <seg>Le "sezioni invarianti" sono alcune sezioni secondarie i cui titoli sono indicati, come quelli di sezioni non modificabili, nell'avviso che dice che il documento è rilasciato sotto questa licenza.</seg>
       </tuv>
     </tu>
     <tu>
