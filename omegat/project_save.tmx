@@ -15224,8 +15224,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Find your project in your file manager: it is a folder with the name of the project, containing the sub-folders &lt;f0&gt;/source&lt;/f0&gt;, &lt;f1&gt;/target&lt;/f1&gt;, &lt;f2&gt;/omegat&lt;/f2&gt;, &lt;f3&gt;/tm,&lt;/f3&gt; and &lt;f4&gt;/glossary&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183542Z">
-        <seg>Trova il tuo progetto nel vostro file manager: è una cartella con il nome del progetto, che contiene le sottocartelle &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt;/target&lt;/f1&gt;, &lt;f2&gt;/omegat&lt;/f2&gt;, &lt;f3&gt;1.5&lt;/f3&gt; e &lt;f4&gt;/glossary&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T075743Z">
+        <seg>Controllare il progetto con il file manager: è una cartella con il nome del progetto, che contiene le sottocartelle &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt;/target&lt;/f1&gt;, &lt;f2&gt;/omegat&lt;/f2&gt;, &lt;f3&gt;/tm&lt;/f3&gt; e &lt;f4&gt;/glossary&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34879,8 +34879,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The first, to get you started, uses a simple MS Word file in the source language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183556Z">
-        <seg>Il primo, per iniziare, usa un semplice file di MS Word nella lingua di origine.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080526Z">
+        <seg>Il primo, per iniziare, usa un semplice file di MS Word, nella lingua di partenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41651,8 +41651,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>We provide here two projects for self-training.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183553Z">
-        <seg>Forniamo qui due progetti di autoformazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080458Z">
+        <seg>Forniamo qui due progetti per auto-addestramento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44118,8 +44118,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You will put your document to be translated into the &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt; folder; the &lt;/f6&gt;&lt;f7&gt;/target&lt;/f7&gt;&lt;f8&gt; folder will be filled with translated text as you translate the job; the &lt;/f8&gt;&lt;f9&gt;/omegat&lt;/f9&gt;&lt;f10&gt; &lt;s11/&gt;folder need not concern you now; the &lt;/f10&gt;&lt;f12&gt;/tm&lt;/f12&gt;&lt;f13&gt; and &lt;/f13&gt;&lt;f14&gt;/glossary&lt;/f14&gt;&lt;f15&gt; files will remain empty unless and until you create a .tmx file and a glossary and put them into those respective folders.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183546Z">
-        <seg>Si metterà il vostro documento da tradurre nelle &lt;f5&gt;/source&lt;/f5&gt; &lt;f6&gt; cartella; la &lt;/f6&gt; &lt;f7&gt;/target&lt;/f7&gt; &lt;f8&gt; cartella sarà riempito con testo tradotto come si traduce il lavoro; il &lt;/f8&gt; &lt;f9&gt;/omegat&lt;/f9&gt; &lt;f10&gt; &lt;s11/&gt; cartella bisogno non ti riguardano ora; la &lt;/f10&gt; &lt;f12&gt;1.5&lt;/f12&gt; &lt;f13&gt; e &lt;/f13&gt; &lt;f14&gt;/glossary&lt;/f14&gt; &lt;f15&gt; file rimarrà vuoti a meno che e fino a quando si crea un file TMX e un glossario e metterle in quelle rispettive cartelle.&lt;/f15&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080415Z">
+        <seg>Si metteranno i documenti da tradurre nelle cartella &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt;; la cartella &lt;/f6&gt; &lt;f7&gt;/target&lt;/f7&gt; &lt;f8&gt; sarà riempita con i file tradotti dopo la il lavoro; la cartella &lt;/f8&gt; &lt;f9&gt;/omegat&lt;/f9&gt; &lt;f10&gt; &lt;s11/&gt; al momento non deve preoccupare; le cartelle &lt;/f10&gt; &lt;f12&gt;/tm&lt;/f12&gt; &lt;f13&gt; e &lt;/f13&gt; &lt;f14&gt;/glossary&lt;/f14&gt; &lt;f15&gt; rimarranno vuote almeno  fino a quando si creeranno un file TMX e un glossario da mettere nelle rispettive cartelle.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
