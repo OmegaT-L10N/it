@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg>"&lt;a0&gt;" and "&lt;/a0&gt;" do not necessarily indicate the beginning and end of bold text, however; if the word "that" were in italics in the source text rather than bold, the tags would be the same.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183758Z">
-        <seg>"&lt;a0&gt;"e"&lt;/a0&gt;" non necessariamente indicano l'inizio e la fine del testo in grassetto, tuttavia; Se la parola "che" erano in corsivo nel testo di origine piuttosto che grassetto, i tag sarebbe lo stesso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084040Z">
+        <seg>"&lt;a0&gt;"e"&lt;/a0&gt;" non indicano necessariamente l'inizio e la fine del testo in grassetto, tuttavia; Se la parola "che" era in corsivo nel testo di origine piuttosto che in grassetto, i tag sarebbero uguali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8321,8 +8321,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>After checking your translation, check that you have not damaged any tags during the translation process: Tools &gt; Validate Tags.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184335Z">
-        <seg>Dopo aver verificato la vostra traduzione, controllare che eventuali tag non hanno danneggiato durante il processo di traduzione: strumenti &amp;amp;gt; Tag convalidare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084746Z">
+        <seg>Dopo aver verificato la traduzione, controllare che eventuali tag non abbiamo subito danno durante il processo di traduzione: Strumenti &gt; Convalida i tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14416,8 +14416,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Eventually, you will reach the end of the file you are translating.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183813Z">
-        <seg>Alla fine, si raggiunge la fine del file che si sta traducendo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084406Z">
+        <seg>Ad un certo punto, si raggiungerà la fine del file che si sta traducendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15489,8 +15489,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For details of the tag handling rules, refer to the User's Manual.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183810Z">
-        <seg>Per i dettagli del tag gestione delle regole, fare riferimento al manuale dell'utente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084334Z">
+        <seg>Per i dettagli della gestione delle regole dei tag, fare riferimento al manuale dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19530,8 +19530,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If your project contains more than one file for translation, confirming the last segment in the first file will take you to the topmost segment in the second file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183817Z">
-        <seg>Se il progetto contiene più file per la traduzione, confermando l'ultimo segmento nel primo file vi porterà al segmento più alto nel secondo file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084522Z">
+        <seg>Se il progetto contiene più file per la traduzione, confermando l'ultimo segmento nel primo file, OmegaT vi porterà al primo segmento del secondo file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20259,8 +20259,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the case of OmegaT, the source is displayed above the target text of the active segment, facilitating &lt;t0/&gt;comparison:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183828Z">
-        <seg>Nel caso di OmegaT, l'origine viene visualizzato sopra il testo di destinazione del segmento attivo, facilitando &lt;t0/&gt; confronto:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084613Z">
+        <seg>Nel caso di OmegaT, l'origine viene visualizzato sopra il testo di destinazione del segmento attivo, facilitandone il &lt;t0/&gt; confronto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20379,8 +20379,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this case, &lt;a0&gt; and &lt;/a0&gt; are the opening and closing tags for bold text respectively.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183753Z">
-        <seg>In questo caso &lt;a0&gt;e&lt;/a0&gt; sono l'apertura e chiusura tag per il grassetto testo rispettivamente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083950Z">
+        <seg>In questo caso "&lt;a0&gt;" e "&lt;/a0&gt;" sono tag rispettivamente per l'apertura e chiusura del testo in grassetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26474,8 +26474,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Only by looking at the source text can you ascertain the actual function of the tags in a particular case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183801Z">
-        <seg>Solo esaminando il testo sorgente può accertare la reale funzione dei tag in un caso particolare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084218Z">
+        <seg>Solo esaminando il testo di partenza si può accertare la reale funzione dei tag in un caso specifico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27044,8 +27044,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Otherwise, you may risk corrupting your final document and preventing it from being opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183806Z">
-        <seg>In caso contrario, si può rischiare di corrompere il vostro documento finale e impedendole di essere aperto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084304Z">
+        <seg>In caso contrario, si può rischiare di corrompere il documento finale e persino di impedirne l'apertura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47104,8 +47104,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>which then appears like this in the final text:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183745Z">
-        <seg>che poi appare come questo nel testo finale:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083750Z">
+        <seg>e poi apparire così nel testo finale:</seg>
       </tuv>
     </tu>
     <tu>
