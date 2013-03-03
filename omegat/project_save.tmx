@@ -4273,8 +4273,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Do not use the "Import Source Files" function during this exercise; you can experiment with it later, on your own.)&lt;/f1&gt; You can close this window.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183540Z">
-        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Non utilizzare la funzione "Import file sorgente" durante questo esercizio, si può sperimentare con esso più tardi, sul proprio.)&lt;/f1&gt; È possibile chiudere questa finestra.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T075250Z">
+        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Non utilizzare la funzione "Importa i file di partenza..." durante questo esercizio, si può sperimentare in proprio più tardi.)&lt;/f1&gt; È possibile chiudere questa finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21219,8 +21219,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is not worth getting bogged down with fine-tuning the segmentation rules at this stage; the basic rules as supplied should work adequately for demonstration purposes, even for a different (source) language, provided its sentence punctuation rules are broadly similar (i.e., don't use the Japanese segmentation rules if you are translating from Italian).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T073529Z">
-        <seg>Non vale la pena di impantanarsi con la messa a punto delle regole di segmentazione in questa fase; le regole di base come dotazione dovrebbero funzionare adeguatamente per scopi dimostrativi, anche per una lingua diversa (fonte), purché le regole di punteggiatura della frase siano sostanzialmente simili (cioè, non utilizzare le regole di segmentazione giapponese se si sta traducendo dall'italiano).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T074907Z">
+        <seg>In questa fase non vale la pena di impantanarsi con la messa a punto delle regole di segmentazione, le regole in dotazione di base dovrebbero funzionare adeguatamente per scopi dimostrativi, anche per una lingua (di origine) diversa, purché le regole di punteggiatura della frase siano sostanzialmente simili (cioè, non utilizzare le regole di segmentazione del giapponese se si sta traducendo dall'italiano).</seg>
       </tuv>
     </tu>
     <tu>
