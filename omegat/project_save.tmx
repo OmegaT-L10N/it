@@ -2625,8 +2625,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;s11/&gt;You will see that the dictionary or dictionaries appear listed in the “spellchecker setup” dialog window &lt;f12&gt;c)&lt;/f12&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183410Z">
-        <seg>&lt;/f10&gt; &lt;s11/&gt; Si vedrà che il dizionario o dizionari appaiono elencati nella finestra di dialogo "controllo ortografico setup" &lt;f12&gt;c)&lt;/f12&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071539Z">
+        <seg>&lt;/f10&gt; &lt;s11/&gt; Si vedrà che il dizionario o dizionari appariranno elencati nella finestra di dialogo "Impostazioni del correttore ortografico" &lt;f12&gt;c)&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7377,8 +7377,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;t1/&gt;Click Choose and navigate to the “dictionaries” folder (&lt;f2&gt;screenshot, &lt;/f2&gt;&lt;f3&gt;a, &lt;/f3&gt;&lt;f4&gt;below)&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070032Z">
-        <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "dizionari" (&lt;f2&gt;screenshot, &lt;/f2&gt; &lt;f3&gt;a, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070859Z">
+        <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "Dizionari" (&lt;f2&gt;screenshot, &lt;/f2&gt; &lt;f3&gt;a, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11077,8 +11077,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Click on the one or ones you want and click Install again, then close the box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070331Z">
-        <seg>Cliccare su quello o quelli che si desiderano e fare nuovamente clic su Installa, quindi chiudere la casella.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071101Z">
+        <seg>Cliccare su quello o quelli che si desiderano e fare clic su "Installa", quindi chiudere la casella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11109,8 +11109,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Click “Install” and you will be given a list of many possible dictionaries (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070054Z">
-        <seg>Fare clic su "Install" e apparirà un elenco di molti dizionari possibili (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071002Z">
+        <seg>Fare clic su "Installa nuovo dizionario..." e apparirà un elenco di dizionari possibili (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22936,8 +22936,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Make sure the language variant of your dictionary matches the language variant of your target language, or the spellchecker will not work properly (e.g., British English or American English).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183415Z">
-        <seg>Assicurarsi che la variante di lingua del tuo dizionario corrisponde la variante di lingua della lingua di destinazione, o il correttore ortografico non funziona correttamente (ad esempio, inglese britannico o inglese americano).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071644Z">
+        <seg>Assicurarsi che la variante di lingua del dizionario corrisponda alla variante di lingua della lingua di destinazione, o il correttore ortografico non funzionerà correttamente! (ad esempio, inglese britannico o inglese americano).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23528,8 +23528,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Most CAT tools use the term "project" to refer to a collection of folders and files associated with a translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183420Z">
-        <seg>Maggior parte degli strumenti CAT usano il termine "progetto" per fare riferimento a un insieme di cartelle e file associati a una traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071737Z">
+        <seg>La maggior parte degli strumenti CAT usano il termine "progetto" per fare riferimento a un insieme di cartelle e file associati a una traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24848,8 +24848,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Of course, you must be connected to the Internet for this function to work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183407Z">
-        <seg>Naturalmente, è necessario essere connessi a Internet per questa funzione per lavorare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071414Z">
+        <seg>Naturalmente è necessario essere connessi a Internet perché questa funzione si esplicata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30959,8 +30959,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Selecting a dictionary and “Install” causes the relevant dictionary to be downloaded from the Internet to the folder which you specified in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183404Z">
-        <seg>Selezione di un dizionario e "Installare" provoca il dizionario rilevante essere scaricato da Internet nella cartella che specificato in &lt;f9&gt;un)&lt;/f9&gt;&lt;f10&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071321Z">
+        <seg>Selezionare di un dizionario e installarlo effettua lo scaricamento da Internet  del dizionario scelto nella cartella specificata in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
