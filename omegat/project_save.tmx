@@ -7439,6 +7439,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T204136Z">
+        <seg>Una "sezione secondaria" è un'appendice cui si fa riferimento o una premessa del documento e riguarda esclusivamente il rapporto dell'editore o dell'autore del documento con l'argomento generale del documento stesso (o argomenti affini) e non contiene nulla che possa essere compreso nell'argomento principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215006Z">
@@ -18162,8 +18170,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Document specifies that a particular numbered version of this License "or any later version" applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210835Z">
-        <seg>Se il documento specifica che una particolare versione numerata di questa licenza, "or any later version" si applica ad esso, avete l'opzione di seguito i termini e condizioni o di quello specificato versione o qualsiasi versione successiva che è stata pubblicata (non come bozza) dalla Free Software Foundation.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T203656Z">
+        <seg>Se il documento specifica che una particolare versione numerata di questa licenza, "or any later version" si applica ad esso, avete l'opzione di seguire i termini e le condizioni sia della versione specificata sia di qualsiasi versione successiva che è stata pubblicata (non come bozza) dalla Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
