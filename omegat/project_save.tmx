@@ -12982,8 +12982,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do not put an article before the noun in a glossary; if you want to indicate the gender of the noun, put that after the first tab in the glossary, in the column where you put the translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214754Z">
-        <seg>Non mettere un articolo prima del sostantivo in un glossario; Se si desidera indicare il genere del sostantivo, che messo dopo la prima scheda nel Glossario, nella colonna dove avete messo la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T165018Z">
+        <seg>Non mettere un articolo prima del sostantivo in un glossario; se si desidera indicare il genere del sostantivo, si metta dopo la prima tab nel Glossario, nella colonna dove avete messo la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15521,8 +15521,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For each language combination, a glossary (.txt) file has been created for you containing a few words for the combination concerned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214722Z">
-        <seg>Per ogni combinazione di lingua, un file di glossario (. txt) è stato creato per te contenente un paio di parole per la combinazione di cui trattasi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164559Z">
+        <seg>Per ogni combinazione di lingua, un file di glossario (.txt) è stato creato per te, contenente un paio di parole per la combinazione di cui trattasi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33105,8 +33105,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Terms and their translations will appear when you reach a segment containing them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214729Z">
-        <seg>Termini e le loro traduzioni apparirà quando si raggiunge un segmento che li contengono.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164757Z">
+        <seg>I termini e le loro traduzioni appariranno quando si attiva un segmento che li contiene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37856,8 +37856,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This file will be of limited practical help to you during translation, but it serves to show you how the glossary terms are displayed to you in OmegaT when they occur: immediately in the OmegaT glossary pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214724Z">
-        <seg>Questo file sarà di aiuto pratico limitato a voi durante la traduzione, ma serve a mostrare come i Glossario termini vengono visualizzati a voi in OmegaT quando si verificano: immediatamente nel riquadro del Glossario di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164657Z">
+        <seg>Questo file sarà di aiuto pratico limitato durante la traduzione, ma serve a mostrare come i termini del glossario vengono visualizzati in OmegaT, quando si verificano: immediatamente nel riquadro del Glossario di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40534,8 +40534,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unlike translation memory (.tmx) files, glossary files in OmegaT are created manually.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214719Z">
-        <seg>A differenza dei file di memoria (TMX) traduzione, vengono creati manualmente file glossario in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164525Z">
+        <seg>A differenza dei file memoria di traduzione(.tmx), i file glossario in OmegaT vengono creati manualmente.</seg>
       </tuv>
     </tu>
     <tu>
