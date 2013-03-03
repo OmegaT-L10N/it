@@ -4385,8 +4385,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Important:&lt;/f0&gt; the purpose of this introduction to OmegaT is to acquaint you with the basic concepts of translation memory software.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183617Z">
-        <seg>&lt;f0&gt;Importante:&lt;/f0&gt; lo scopo di questa introduzione di OmegaT è quello di conoscere i concetti di base del software di memoria di traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081203Z">
+        <seg>&lt;f0&gt;Importante:&lt;/f0&gt; lo scopo di questa introduzione di OmegaT è quello di conoscere i concetti fondamentali di software di memoria di traduzione (Strumenti CAT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22118,8 +22118,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch Open Office Writer and create a new text document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T185013Z">
-        <seg>Lancio di Open Office Writer e creare un nuovo documento di testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081510Z">
+        <seg>Lanciare Open Office Writer e creare un nuovo documento di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28583,8 +28583,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>References to OmegaT's more advanced or obscure functions have deliberately been omitted or kept to a minimum, since a description of them would almost certainly lead to you, as a new user, being unable to see the forest for the trees.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183619Z">
-        <seg>I riferimenti alle funzioni più avanzate o oscure di OmegaT sono stati deliberatamente omessi o ridotti al minimo, poiché una loro descrizione porterebbe quasi certamente a voi, come un nuovo utente, essendo in grado di vedere la foresta per gli alberi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081455Z">
+        <seg>I riferimenti alle funzioni più avanzate o oscure di OmegaT sono stati deliberatamente omessi o ridotti al minimo, poiché una loro descrizione porterebbe quasi certamente voi, come nuovo utente, a non essere in grado di vedere la foresta, per vedere gli alberi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36172,8 +36172,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The second project uses an HTML file or set of files, downloaded from the Internet, and demonstrates OmegaT's capability to deal with graphics, &lt;s0/&gt;complex layout, and complex file structure.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183601Z">
-        <seg>Il secondo progetto utilizza un file HTML o file scaricati da Internet e dimostra capacità di OmegaT a che fare con la grafica, &lt;s0/&gt; layout complessi e struttura di file complessi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080823Z">
+        <seg>Il secondo progetto utilizza un file HTML o una struttura di file scaricati da Internet e dimostra le capacità di OmegaT con la grafica, &lt;s0/&gt; disposizione complesse e strutture di file complessi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36917,8 +36917,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then use File &gt; Open to open any short MS Word document in the source language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183627Z">
-        <seg>Quindi utilizzare File &amp;amp;gt; Apri per aprire qualsiasi documento MS Word breve nella lingua di origine.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081613Z">
+        <seg>Quindi utilizzare File &gt; Apri per aprire qualsiasi documento MS Word breve nella lingua di origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37158,8 +37158,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There you will learn how translation memories, glossaries, and the search function work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183604Z">
-        <seg>Ci si impara come la ricerca, glossari e memorie di traduzione funzione lavoro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080923Z">
+        <seg>Qui si impara come lavorano le funzioni di ricerca, glossari e memorie di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37248,8 +37248,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These capabilities can be used regardless of the file type (.odt, .txt, .html, etc.).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183606Z">
-        <seg>Queste capacità possono essere utilizzate indipendentemente dal tipo di file (. odt,. txt,. html, ecc.).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081021Z">
+        <seg>Queste capacità possono essere utilizzate indipendentemente dal tipo di file ( .odt, .txt, .html, ecc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37768,8 +37768,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This does not demonstrate OmegaT's full capabilities, but is intended to help the “newbie” grasp the most essential procedures.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183558Z">
-        <seg>Questo non dimostra capacità di OmegaT, ma è destinato ad aiutare il "newbie" afferrare le procedure più essenziale.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080643Z">
+        <seg>Questo esempio non dimostrerà la piena potenzialità di OmegaT, ma è destinato ad aiutare il "neofita" ad afferrare le procedure più essenziali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41643,8 +41643,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>We ignore these in Project 1 only for training purposes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183612Z">
-        <seg>Ignoriamo queste nel progetto 1 solo per gli scopi di addestramento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081044Z">
+        <seg>Ignoriamo queste nel progetto 1, solo per gli scopi di addestramento.</seg>
       </tuv>
     </tu>
     <tu>
