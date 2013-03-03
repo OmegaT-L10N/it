@@ -7383,6 +7383,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1/&gt;en.wikipedia.org/wiki/Russian_American&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T212454Z">
+        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T191001Z">
@@ -45041,6 +45049,14 @@ di creare la propria cartella di configurazione.</seg>
         <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063924Z">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T212452Z">
         <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
       </tuv>
     </tu>
