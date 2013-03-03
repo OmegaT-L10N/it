@@ -14416,8 +14416,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Eventually, you will encounter fuzzy matches.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214622Z">
-        <seg>Alla fine, si incontrano corrispondenze fuzzy.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T162733Z">
+        <seg>A volte, si incontrano concordanze parziali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24200,8 +24200,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Normally, it may be some time before you encounter useful fuzzy matches, but the "legacy" translation &lt;t0/&gt;memory file has been provided for you in this tutorial to ensure that you will find at least some.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T161121Z">
-        <seg>Normalmente, può essere qualche tempo prima si incontrino utili corrispondenze fuzzy, ma il file di memoria di traduzione «legacy» &lt;t0/&gt; è stato fornito per voi in questo tutorial per garantire che ne troverete almeno alcune.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163143Z">
+        <seg>Normalmente, può passare qualche tempo prima si incontrino utili concordanze parziali, ma il file di memoria di traduzione «eredità» &lt;t0/&gt; è stato fornito per voi in questo tutorial per garantire che ne troverete almeno alcune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31367,8 +31367,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Since the legacy .tmx files in the &lt;f1&gt;/tm&lt;/f1&gt; folder are the product of previous translation jobs, &lt;f2&gt;you will not normally have any useful legacy .tmx files to call upon until you have completed a few jobs in OmegaT, and placed them into the &lt;/f2&gt;&lt;f3&gt;/tm&lt;/f3&gt;&lt;f4&gt; folder of your new job.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214646Z">
-        <seg>Poiché i file TMX legacy nella cartella &lt;f1&gt;1.5&lt;/f1&gt; sono il prodotto di precedenti lavori di traduzione, &lt;f2&gt;normalmente non avrete alcun file TMX legacy utile invitare fino ad aver completato alcuni lavori in OmegaT e li ha posti nella &lt;/f2&gt; &lt;f3&gt;1.5&lt;/f3&gt; &lt;f4&gt; cartella del vostro nuovo lavoro.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163446Z">
+        <seg>Poiché i file .tmx eredità nella cartella &lt;f1&gt;/tm&lt;/f1&gt; sono il prodotto di precedenti lavori di traduzione, &lt;f2&gt;normalmente non avrete alcun file .tmx eredità utile fino a quando non avrete completato alcuni lavori in OmegaT e li avrete posti nella cartella&lt;/f2&gt; &lt;f3&gt;/tm&lt;/f3&gt; &lt;f4&gt;del vostro nuovo lavoro.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37512,8 +37512,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They may be within the current project (either in the text you are currently translating or, where a project comprises more than one source text, in another text within the same project), or they may be in the legacy .tmx file(s) which you placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T161314Z">
-        <seg>Essi possono essere all'interno del progetto corrente (sia nel testo si sono attualmente traducendo o, dove un progetto comprende più di un testo di origine, in un altro testo all'interno del progetto stesso), oppure possono essere nei file .tmx legacy che si trovano nella cartella &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163215Z">
+        <seg>Esse possono essere all'interno del progetto corrente (sia nel testo che si sta attualmente traducendo o, dove un progetto comprende più di un testo di origine, in un altro testo all'interno del progetto stesso), oppure possono essere nei file .tmx eredità che si trovano nella cartella &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
