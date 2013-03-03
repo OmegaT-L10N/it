@@ -10971,8 +10971,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click and drag the newly created .odt file to the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of your &lt;/f1&gt;&lt;f2&gt;My Project-1&lt;/f2&gt;&lt;f3&gt; folder, which you created in Step &lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183639Z">
-        <seg>Fare clic e trascinare il file appena creato ODT &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; cartella del tuo &lt;/f1&gt; &lt;f2&gt;My Project-1&lt;/f2&gt; &lt;f3&gt; cartella che creato nel passaggio &lt;/f3&gt; &lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082033Z">
+        <seg>Fare clic e trascinare il file .odt appena creato nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; del tuo &lt;/f1&gt; &lt;f2&gt;Il mio Progetto-1&lt;/f2&gt; &lt;f3&gt; creata nel passaggio &lt;/f3&gt; &lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14864,8 +14864,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>File &gt; Save As, name the file, and close it in .odt format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183636Z">
-        <seg>File &amp;amp;gt; Salva con nome, il nome del file e chiuderlo in formato ODT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081824Z">
+        <seg>File &gt; Salva con nome in formato .odt, il nome del file, e chiuderlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22094,8 +22094,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch OmegaT and click Project &gt; Open.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183643Z">
-        <seg>Lanciare OmegaT e fare clic su progetto &amp;amp;gt; Open.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082108Z">
+        <seg>Lanciare OmegaT e fare clic su Progetto &gt; Apri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23808,8 +23808,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Navigate to &lt;f0&gt;My Project-1 &lt;/f0&gt;&lt;f1&gt;(it will have the OmegaT icon beside it).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183645Z">
-        <seg>Passare al &lt;f0&gt;mio progetto-1 &lt;/f0&gt; &lt;f1&gt;(avrà l'icona di OmegaT al lato di esso).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082224Z">
+        <seg>Passare al &lt;f0&gt;Il mio Progetto-1 &lt;/f0&gt; &lt;f1&gt;(avrà l'icona di OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25480,8 +25480,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is an "inline" translation memory application, meaning that you see only one copy of the text; segments which have already been translated appear as such, otherwise &lt;t0/&gt;the untranslated source text is displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183701Z">
-        <seg>OmegaT è un'applicazione di memoria di traduzione "inline", che significa che si vede solo una copia del testo; segmenti che sono già stati tradotti vengono visualizzati come tali, altrimenti &lt;t0/&gt; viene visualizzato il testo di origine non tradotte.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082556Z">
+        <seg>OmegaT è un'applicazione di memoria di traduzione "inline", significa che si vede solo una copia del testo; i segmenti che sono già stati tradotti vengono visualizzati come tali, altrimenti &lt;t0/&gt; viene visualizzato il testo di origine, non tradotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26498,8 +26498,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Only in the case of the "active" segment, which is highlighted, are both source text and translation displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183703Z">
-        <seg>Solo nel caso il segmento "attivo", che è evidenziato, sono fonte testo e traduzione visualizzata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082710Z">
+        <seg>Solo nel caso del segmento "attivo", che è evidenziato, sono visualizzati il testo di partenza e la relativa traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30343,8 +30343,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See User‘s Manual when you are ready for the fine points.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183634Z">
-        <seg>Vedere manuale quando si è pronti per i punti bene.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081712Z">
+        <seg>Vedere 'Manuale utente' quando si è pronti per i punti più affinati.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33810,8 +33810,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Project Files &lt;/f1&gt;&lt;f2&gt;dialog will display your source document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183650Z">
-        <seg>I file di progetto &lt;/f1&gt; &lt;f2&gt;finestra di dialogo mostrerà il vostro documento di origine.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082344Z">
+        <seg>La finestra di dialogo&lt;/f1&gt; &lt;f2&gt;"file di progetto" mostrerà il documento di origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34101,8 +34101,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The basic idea is that the text is presented to you one segment at a time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183656Z">
-        <seg>L'idea di base è che il testo è presentato a un segmento alla volta.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082407Z">
+        <seg>L'idea di base è che il testo è presentato un segmento alla volta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44070,8 +44070,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You type your translation into the field provided, confirm by hitting Enter, and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183659Z">
-        <seg>Digitare la vostra traduzione nel campo fornito, confermare premendo invio e così via.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082454Z">
+        <seg>Digitare la traduzione nel campo fornito, confermare premendo invio e così via.</seg>
       </tuv>
     </tu>
     <tu>
