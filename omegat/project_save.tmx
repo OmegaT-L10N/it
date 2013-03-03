@@ -9938,8 +9938,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Before beginning translating, you placed a glossary file in the &lt;f0&gt;/glossary&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214708Z">
-        <seg>Prima di iniziare a tradurre, è stato inserito un file Glossario nella cartella &lt;f0&gt;/glossary&lt;/f0&gt; .</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164250Z">
+        <seg>Prima di iniziare a tradurre, è stato inserito un file glossario nella cartella &lt;f0&gt;/glossary&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -16533,8 +16533,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Glossary files are simply plain-text files containing two columns of terms delimited by tabs, and saved with file extension .txt.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214711Z">
-        <seg>Glossario file sono semplicemente semplici files di testo contenenti due colonne di termini delimitati da tabulazioni e salvate con estensione di file txt.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164356Z">
+        <seg>I file glossario sono semplicemente semplici file di testo contenenti tre colonne di termini delimitate da tabulazioni e salvate con estensione di file .txt .</seg>
       </tuv>
     </tu>
     <tu>
@@ -17181,8 +17181,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Here, the current segment shows a fuzzy match with a segment elsewhere in the project that has already been translated:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214649Z">
-        <seg>Qui, il segmento corrente Mostra una corrispondenza fuzzy con un segmento altrove nel progetto che è stato già tradotto:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163558Z">
+        <seg>Qui, il segmento corrente Mostra una concordanza parziale con un segmento che è stato già tradotto altrove nel progetto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17798,8 +17798,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If after looking at the fuzzy match you decide that it is useful, you can paste it into the active segment at any point (Ctrl+I), or replace (overwrite) the active segment with it completely (Ctrl+R) and then modify it, or copy and paste parts of it into the active segment (use the mouse to mark it, then Ctrl+C and Ctrl+V to copy and paste).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214652Z">
-        <seg>Se dopo aver esaminato la corrispondenza fuzzy si decide che è utile, può incollare il segmento attivo in qualsiasi punto (Ctrl + I), o sostituire (sovrascrivere) attivo del segmento completamente con esso (Ctrl + R) e poi modificarlo, o copiare e incollare parti di esso nel segmento attivo (utilizzare il mouse per segnare, poi Ctrl + C e Ctrl + V per copiare e incollare).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163849Z">
+        <seg>Se dopo aver esaminato la concordanza parziale si decide che è utile, si può incollare in qualsiasi punto (Ctrl+I) al segmento attivo, o sostituire (sovrascrivere) completamente il segmento attivo con (Ctrl+R) e poi modificarlo, o copiare e incollare parti di esso nel segmento attivo (utilizzare il mouse per segnare, poi Ctrl+C e Ctrl+V per copiare e incollare).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35272,8 +35272,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The legacy material provided for the purpose of this tutorial is intended to demonstrate the functions of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214654Z">
-        <seg>L'eredità materiale fornito ai fini di questa esercitazione è destinato per dimostrare le funzioni di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163942Z">
+        <seg>Il materiale eredità fornito ai fini di questa esercitazione è destinato a dimostrare le funzioni di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40342,8 +40342,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Under no circumstances should the translations in the translation memory be assumed to be reliable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214656Z">
-        <seg>In nessun caso le traduzioni nella memoria di traduzione dovrebbero essere presupposto per essere affidabile.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164056Z">
+        <seg>In nessun caso si dovrà presumere che le traduzioni nella memoria di traduzione siano affidabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42641,8 +42641,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With heavily tagged text, you are likely to find that OmegaT yields numerous spurious fuzzy matches in which only the tags are identical, and which are not therefore useful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214659Z">
-        <seg>Con testo fortemente contrassegnato, siete probabili trovare che OmegaT produce numerose corrispondenze fuzzy spuri in cui solo i tag sono identici, e che non sono pertanto utili.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164232Z">
+        <seg>Con testo ricco di tag, è probabile trovare che OmegaT produce numerose concordanze parziali spurie, in cui solo i tag sono identici, e che non sono pertanto utili.</seg>
       </tuv>
     </tu>
     <tu>
