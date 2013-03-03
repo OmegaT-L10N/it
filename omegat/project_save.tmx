@@ -10323,8 +10323,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>By default, the source text is pasted into the target text segment for you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183704Z">
-        <seg>Per impostazione predefinita, il testo sorgente viene incollato nel segmento di testo di destinazione per te.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082935Z">
+        <seg>Secondo le impostazioni iniziali, il testo di partenza viene riportato nel segmento di testo di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16925,8 +16925,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Handling tags takes some practice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183716Z">
-        <seg>Gestione Tag prende qualche pratica.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083356Z">
+        <seg>La gestione dei Tag impone un po' di pratica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22516,8 +22516,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183732Z">
-        <seg>Guardate &lt;a0&gt;che&lt;/a0&gt;!</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083657Z">
+        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35095,8 +35095,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The general principle is that you translate the text between tags and leave the tags untouched.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183719Z">
-        <seg>Il principio generale è che tradurre il testo tra i tag e lasciare intatta la tag.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083519Z">
+        <seg>Il principio generale è: tradurre il testo tra i tag lasciando i tag intatti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37960,8 +37960,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is convenient with heavily tagged (formatted) text, since it is easier to retain the tags undamaged by simply replacing the text between them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183706Z">
-        <seg>Questo è conveniente con testo (formattato) fortemente contrassegnato, poiché è più facile mantenere intatto il tag sostituendo semplicemente il testo tra di loro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083109Z">
+        <seg>Questo è conveniente con testo (formattato) ricco di tag, poiché è più facile mantenere intatti i tag sostituendo soltanto il testo racchiuso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42625,8 +42625,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With less heavily tagged text, you can delete the content of the target text field and simply type in the translation, or you can instruct OmegaT to leave it blank by default (refer to the User's Manual for details).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183710Z">
-        <seg>Con meno testo pesantemente con tag, è possibile eliminare il contenuto del campo di testo di destinazione e tipo semplicemente nella traduzione, o è possibile istruire OmegaT per lasciarla vuota per impostazione predefinita (consultare il manuale utente per ulteriori dettagli).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083324Z">
+        <seg>Con testo meno ricco di tag, è possibile eliminare l'intero contenuto del campo di destinazione e immettere semplicemente la traduzione, o è possibile impostare OmegaT per lasciarla vuota (consultare il manuale utente per ulteriori dettagli).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44368,8 +44368,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>and be translated like this in OmegaT into German:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183734Z">
-        <seg>ed essere tradotto come questo in OmegaT in tedesco:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083635Z">
+        <seg>ed essere tradotto così in OmegaT in tedesco:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45928,8 +45928,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>might appear like this in OmegaT:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183728Z">
-        <seg>potrebbe apparire come questa in OmegaT:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083552Z">
+        <seg>potrebbe apparire così in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
