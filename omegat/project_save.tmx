@@ -7649,8 +7649,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A glossary function allows the user to enter source words and their translations into a file which can be accessed while translating.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212321Z">
-        <seg>Una funzione Glossario permette all'utente di immettere parole di origine e le loro traduzioni in un file a cui si può accedere durante la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231051Z">
+        <seg>Una funzione 'Glossario' permette all'utente di immettere parole del testo di partenza e le loro traduzioni in un file accessibile da subito, durante la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7825,8 +7825,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A search function scans previously translated material (either in the present document or in a translation memory), so that the user can see how a word or phrase was previously translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212413Z">
-        <seg>Una funzione di ricerca analizza materiale già tradotto (sia nel presente documento che in una memoria di traduzione precedente), così che l'utente può vedere come una parola o una frase è stata già tradotta.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231310Z">
+        <seg>Una funzione 'Cerca' analizza il materiale già tradotto (sia nel presente documento che nelle memorie di traduzione precedenti), perché l'utente possa vedere come una parola o una frase sono state precedentemente tradotte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7849,8 +7849,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A segmentation function displays one "segment" of source text at a time (usually a sentence), and the translation is done with the source text on the screen next to the target text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212514Z">
-        <seg>Una funzione di segmentazione visualizza un "segmento" alla volta del testo di origine (di solito una frase), e si può fare la traduzione con il testo sorgente accostato, sullo schermo, al testo di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231553Z">
+        <seg>Una funzione di segmentazione visualizza un "segmento" alla volta del testo di origine (di solito una frase), e si può fare la traduzione con accostato sullo schermo il testo di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17365,8 +17365,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, OpenOffice.org facilitates the use of OmegaT (for example, as stated above, by making it easier to handle Microsoft Office files), and provides further &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;functions useful to translators and unrelated to OmegaT, such as the function &lt;/f3&gt;&lt;f4&gt;for creation of PDF files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T212310Z">
-        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come indicato sopra, rendendo più facile gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;funzioni utili per traduttori e indipendenti di OmegaT, come ad esempio la funzione  &lt;/f3&gt;&lt;f4&gt;per la creazione di file PDF.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231956Z">
+        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come già detto, rendendo più facile gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;funzioni utili per traduttori e indipendenti di OmegaT, come ad esempio la funzione  &lt;/f3&gt;&lt;f4&gt;per la creazione di file .pdf .</seg>
       </tuv>
     </tu>
     <tu>
@@ -21144,8 +21144,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It is &lt;f0&gt;not necessary to have OpenOffice&lt;/f0&gt;.org in order to use &lt;f1&gt;OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213215Z">
-        <seg>non è &lt;f0&gt; necessario avere OpenOffice&lt;/f0&gt;.org per poter utilizzare &lt;f1&gt;OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231825Z">
+        <seg>Non è &lt;f0&gt; necessario avere OpenOffice&lt;/f0&gt;.org per poter utilizzare &lt;f1&gt;OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25504,8 +25504,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is an excellent place to start, as the price is right, it is relatively easy to learn, and it runs on MAC and under Linux, as well as Windows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212744Z">
-        <seg>OmegaT è un ottimo posto per iniziare, come prezzo è giusto :-), è relativamente facile da imparare, e funziona su MAC e sotto Linux, come sotto Windows.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231757Z">
+        <seg>OmegaT è un ottimo posto per iniziare, come prezzo è giusto :-), è relativamente facile da imparare, e funziona su MAC, sotto Linux e sotto Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30487,8 +30487,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See the following for more information on CAT tools, including on the many varieties available:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183153Z">
-        <seg>Vedere le seguenti per ulteriori informazioni su strumenti CAT, tra cui molte varietà disponibili:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231638Z">
+        <seg>Vedere la seguente voce per ulteriori informazioni su strumenti CAT, tra cui le molte varietà disponibili:</seg>
       </tuv>
     </tu>
     <tu>
