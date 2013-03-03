@@ -10979,8 +10979,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click on "Segmentation" to call up the Segmentation Setup dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183453Z">
-        <seg>Fare clic su "Segmentazione" per richiamare la finestra di dialogo Installazione di segmentazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072543Z">
+        <seg>Fare clic su "Segmentazione..." per richiamare la finestra di dialogo "Configura la segmentazione".</seg>
       </tuv>
     </tu>
     <tu>
@@ -15898,8 +15898,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For purposes of this tutorial, let's call it &lt;f0&gt;My Project-1.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183444Z">
-        <seg>Ai fini di questa esercitazione, chiamiamolo &lt;f0&gt;My Project-1.&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072134Z">
+        <seg>Ai fini di questa esercitazione, chiamiamolo &lt;f0&gt;Il mio progetto-1.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25558,8 +25558,8 @@ la cartella home dell'utente.</seg>
       <tuv lang="EN">
         <seg>OmegaT is supplied with a number of very basic segmentation patterns.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183457Z">
-        <seg>OmegaT è fornito con un numero di modelli di segmentazione molto di base.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072630Z">
+        <seg>OmegaT è fornito con alcuni modelli di segmentazione molto elementari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27316,8 +27316,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Pick the one for the language of your source text (e.g., Italian, "IT.*"), and use "Move Up" to move it to the top of the list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183506Z">
-        <seg>Scegli quello per la lingua del testo sorgente (ad esempio italiano, "Caricati") e "Move Up" per spostarlo in cima alla lista.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072846Z">
+        <seg>Scegliere quello per la lingua del testo sorgente (ad esempio "Italiano", "IT.*") e "Sposta in alto" per spostarlo in cima alla lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30879,8 +30879,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Select the desired source and target languages by clicking on the arrows to the right of these fields.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183449Z">
-        <seg>Selezionare la sorgente desiderata e lingue di destinazione facendo clic sulle frecce a destra di questi campi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072244Z">
+        <seg>Selezionare le lingue sorgente e di destinazione desiderate facendo clic sulle frecce a destra di questi campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36893,8 +36893,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The “Create a New Project” dialog appears (not shown here).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183430Z">
-        <seg>Viene visualizzata la finestra di dialogo "Crea un nuovo progetto" (non mostrato qui).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072056Z">
+        <seg>Viene visualizzata la finestra di dialogo "Crea un nuovo progetto" (non mostrata qui).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38894,8 +38894,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To create a project in OmegaT, select Project, then click New.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183427Z">
-        <seg>Per creare un progetto in OmegaT, selezionare il progetto, quindi fare clic su nuovo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072006Z">
+        <seg>Per creare un progetto in OmegaT, selezionare 'Progetto', quindi fare clic su 'Nuovo...' .</seg>
       </tuv>
     </tu>
     <tu>
