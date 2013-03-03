@@ -12998,8 +12998,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do the same with the Language &lt;t0/&gt;Pattern field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183525Z">
-        <seg>Fare lo stesso con la lingua &lt;t0/&gt; campo modello.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T073353Z">
+        <seg>Fare lo stesso con la lingua &lt;t0/&gt; Schema linguistico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18306,8 +18306,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the language of your source text isn't listed, pick a language that is, double-click on the Language Name field, and change it to the abbreviation for your language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183523Z">
-        <seg>Se la lingua del testo di origine non è elencata, scegliere una lingua che è, fare doppio clic sul campo Nome lingua e cambiare per l'abbreviazione per la lingua.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T073300Z">
+        <seg>Se la lingua del testo di origine non è elencata, scegliere una lingua che lo è, fare doppio clic sul campo Nome lingua e cambiarlo nell'abbreviazione per la vostra lingua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19288,8 +19288,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you use OmegaT for any length of time in the future, you will want to customize the segmentation rules.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183527Z">
-        <seg>Se si utilizza OmegaT per qualsiasi lunghezza di tempo nel futuro, si vuole personalizzare le regole di segmentazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T073506Z">
+        <seg>Se si utilizzerà OmegaT per abbastanza tempo in futuro, converrà personalizzare le regole di segmentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21219,8 +21219,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is not worth getting bogged down with fine-tuning the segmentation rules at this stage; the basic rules as supplied should work adequately for demonstration purposes, even for a different (source) language, provided its sentence punctuation rules are broadly similar (i.e., don't use the Japanese segmentation rules if you are translating from Italian).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183530Z">
-        <seg>Non vale la pena di impantanarsi con la messa a punto delle regole di segmentazione in questa fase; le regole di base come dotazione dovrebbero funzionare adeguatamente per scopi dimostrativi, anche per una lingua diversa (fonte), purché le regole di punteggiatura frase sono sostanzialmente simili (cioè, non utilizzare le regole di segmentazione giapponese se si sta traducendo dall'italiano).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T073529Z">
+        <seg>Non vale la pena di impantanarsi con la messa a punto delle regole di segmentazione in questa fase; le regole di base come dotazione dovrebbero funzionare adeguatamente per scopi dimostrativi, anche per una lingua diversa (fonte), purché le regole di punteggiatura della frase siano sostanzialmente simili (cioè, non utilizzare le regole di segmentazione giapponese se si sta traducendo dall'italiano).</seg>
       </tuv>
     </tu>
     <tu>
