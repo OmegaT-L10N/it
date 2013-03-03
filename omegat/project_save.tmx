@@ -1229,8 +1229,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214951Z">
-        <seg>(Quindi, se il documento è in parte un libro di testo di matematica, una sezione secondaria può non spiegare qualsiasi matematica.) Il rapporto potrebbe essere una questione di collegamento storico con il soggetto o con questioni collegate, o della posizione giuridica, commerciale, filosofico, etico o politico per quanto riguarda loro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190510Z">
+        <seg>(Quindi, se il documento è in parte un libro di testo di matematica, una sezione secondaria può non spiegare alcun argomento di  matematica.) Il rapporto potrebbe essere una questione di collegamento storico con il soggetto o con questioni collegate, o della posizione giuridica, commerciale, filosofica, etica o politica che riguarda loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7439,14 +7439,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214949Z">
-        <seg>Una "sezione secondaria" è un'appendice denominata o una sezione anteriore-questione del documento che affronta il rapporto tra gli editori o gli autori del documento al soggetto complessiva del documento (o per questioni connesse) e non contiene nulla che potrebbe cadere direttamente all'interno di quel soggetto globale.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215006Z">
@@ -9222,8 +9214,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Any member of the public is a licensee, and is addressed as "you." You accept the &lt;t0/&gt;license if you copy, modify or distribute the work in a way requiring permission under copyright law.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214942Z">
-        <seg>Qualsiasi membro del pubblico è un licenziatario e si rivolge come "tu". Si accetta la &lt;t0/&gt; licenza se copiare, modificare o distribuire il lavoro in un modo che richiedono autorizzazione ai sensi del diritto d'autore.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190106Z">
+        <seg>Qualsiasi membro del pubblico è un licenziatario e gli si rivolge con "tu". Tu accetti la &lt;t0/&gt; licenza se copi, modifichi o distribuisci il lavoro in un modo che richiede autorizzazione ai sensi del diritto d'autore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17758,8 +17750,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a section does not fit the above definition of Secondary then it is not allowed to be designated as Invariant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214955Z">
-        <seg>Se una sezione non adatta la definizione di cui sopra del secondario quindi non è consentito per essere designato come invariante.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190637Z">
+        <seg>Se una sezione non adatta la definizione di cui sopra di secondaria allora non è consentito che sia designata come invariante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18154,8 +18146,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Document does not identify any Invariant Sections then there are none.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214959Z">
-        <seg>Se il documento non identificare eventuali sezioni invarianti allora non ci ne sono.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190713Z">
+        <seg>Se il documento non identifica eventuali sezioni invarianti allora non ci ne sono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32337,8 +32329,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214936Z">
-        <seg>Tale avviso concede una licenza world-wide, royalty-free, senza limita di durata, usare quel lavoro alle condizioni previste nel presente documento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T185916Z">
+        <seg>Tale avviso concede una licenza mondiale, libera da royalty, senza limite di durata, di usare il lavoro alle condizioni previste nel presente documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33298,8 +33290,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214953Z">
-        <seg>Le "sezioni invarianti" sono alcune sezioni secondarie cui titoli sono indicati, come sono quelli di sezioni non modificabili, nell'avviso che dice che il documento è rilasciato sotto questa licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190540Z">
+        <seg>Le "sezioni invarianti" sono alcune sezioni secondarie cui titoli sono indicati, come quelli di sezioni non modificabili, nell'avviso che dice che il documento è rilasciato sotto questa licenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37552,8 +37544,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214934Z">
-        <seg>Questa licenza si applica a qualsiasi manuale o altra opera, con qualsiasi mezzo, che contenga una nota da titolare del copyright, dicendo che può essere distribuito sotto i termini della presente licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T185721Z">
+        <seg>Questa licenza si applica a qualsiasi manuale o altra opera, diffusa tramite qualsiasi mezzo, che contenga una nota da titolare del copyright, dicendo che può essere distribuito sotto i termini della presente licenza.</seg>
       </tuv>
     </tu>
     <tu>
