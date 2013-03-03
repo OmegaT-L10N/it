@@ -7673,8 +7673,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A more comprehensive User's Manual can be called up with the "Help" menu item or F1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183303Z">
-        <seg>Un più completo manuale può essere richiamato con la voce di menu «Aiuto» o F1.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065248Z">
+        <seg>Un manuale più completo può essere richiamato con la voce di menù «Aiuto» o F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9882,8 +9882,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Be warned that the documentation may be a little out of date, owing to the pace at which OmegaT is being developed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183310Z">
-        <seg>Essere avvertito che la documentazione può essere un po' antiquata, a causa del ritmo al quale OmegaT è in fase di sviluppo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065511Z">
+        <seg>Attenzione che la documentazione può essere un po' datata, a causa del ritmo al quale OmegaT si sviluppa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15914,8 +15914,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For some languages, it is quite a bit out of date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183313Z">
-        <seg>Per alcune lingue, è abbastanza un po' antiquato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065530Z">
+        <seg>Per alcune lingue, è abbastanza un po' datata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18162,8 +18162,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183305Z">
-        <seg>Se il riquadro di modifica è vuoto, la lingua di installazione di Windows non è probabilmente l'inglese e OmegaT non dispone di un tutorial Instant Start nella tua lingua.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065207Z">
+        <seg>Se il riquadro di modifica è vuoto, la lingua di installazione di Windows non è probabilmente l'inglese e OmegaT non dispone della "Guida di avvio rapido" nella tua lingua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18801,8 +18801,8 @@ extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you can't see all three panes, drag the borders between them across your screen until they are arranged approximately as shown below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183255Z">
-        <seg>Se non si possono vedere tutti i tre riquadri, trascinare i bordi tra di loro attraverso il vostro schermo fino a quando essi sono disposti approssimativamente come mostrato di seguito.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064900Z">
+        <seg>Se non si possono vedere tutti i tre riquadri, trascinare i loro bordi, per lo schermo, fino a quando sono disposti approssimativamente come mostrato di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20395,8 +20395,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this case, call up the OmegaT documentation by selecting Help &gt; User's Manual, or by pressing F1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183307Z">
-        <seg>In questo caso, richiamare la documentazione di OmegaT selezionando Guida &amp;amp;gt; manuale dell'utente, o premendo F1.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065417Z">
+        <seg>In questo caso, richiamare la documentazione di OmegaT selezionando Aiuto &gt; Manuale dell'utente, o premendo F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33610,8 +33610,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Editing pane displays the "Instant Start" tutorial in English.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183259Z">
-        <seg>Nel riquadro di modifica viene visualizzato il tutorial "Instant Start" in inglese.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065219Z">
+        <seg>Nel riquadro di modifica viene visualizzata la "Guida di avvio rapido".</seg>
       </tuv>
     </tu>
     <tu>
@@ -41587,8 +41587,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Volunteers to translate the current documentation are welcome!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183315Z">
-        <seg>Volontari per tradurre la documentazione attuale sono i Benvenuti!</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065638Z">
+        <seg>Sono benvenuti volontari per tradurre la documentazione attuale!</seg>
       </tuv>
     </tu>
     <tu>
@@ -44110,8 +44110,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You will need a place to store your dictionary or dictionaries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183340Z">
-        <seg>Avrete bisogno di un posto per conservare il tuo dizionario o dizionari.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065750Z">
+        <seg>Avrete bisogno di una cartella per conservare i dizionari.</seg>
       </tuv>
     </tu>
     <tu>
