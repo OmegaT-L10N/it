@@ -7383,14 +7383,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;t1/&gt;en.wikipedia.org/wiki/Russian_American&lt;br2/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064011Z">
-        <seg>&lt;t1/&gt;en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T191001Z">
@@ -17357,8 +17349,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, OpenOffice.org facilitates the use of OmegaT (for example, as stated above, by making it easier to handle Microsoft Office files), and provides further &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;functions useful to translators and unrelated to OmegaT, such as the function &lt;/f3&gt;&lt;f4&gt;for creation of PDF files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T162423Z">
-        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come indicato sopra, rendendo più facile gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt; &lt;f2&gt;funzioni utili per traduttori e indipendenti di OmegaT, come ad esempio la funzione &lt;/f2&gt; &lt;t3/&gt; &lt;f4&gt;per la creazione di file PDF.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T212310Z">
+        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come indicato sopra, rendendo più facile gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;funzioni utili per traduttori e indipendenti di OmegaT, come ad esempio la funzione  &lt;/f3&gt;&lt;f4&gt;per la creazione di file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21894,8 +21886,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Language &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201001Z">
-        <seg>Lingua&lt;br0&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T212354Z">
+        <seg>Lingua&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28385,14 +28377,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T094523Z">
         <seg>File QuarkXPress CopyFlow Gold</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Questa traduzione in italiano è frutto del lavoro di Carmelo Serraino, copyright© 2013.&lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T162347Z">
-        <seg>Questa traduzione in italiano è frutto del lavoro di Carmelo Serraino, copyright© 2013.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45058,14 +45042,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063924Z">
         <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br3/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064039Z">
-        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
