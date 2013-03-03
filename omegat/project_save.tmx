@@ -2625,8 +2625,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;s11/&gt;You will see that the dictionary or dictionaries appear listed in the “spellchecker setup” dialog window &lt;f12&gt;c)&lt;/f12&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071539Z">
-        <seg>&lt;/f10&gt; &lt;s11/&gt; Si vedrà che il dizionario o dizionari appariranno elencati nella finestra di dialogo "Impostazioni del correttore ortografico" &lt;f12&gt;c)&lt;/f12&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232217Z">
+        <seg>&lt;/f10&gt; &lt;s11/&gt; Si vedrà che il dizionario o i dizionari appariranno elencati nella finestra di dialogo "Impostazioni del correttore ortografico" &lt;f12&gt;c)&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15922,8 +15922,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For some languages, it is quite a bit out of date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065530Z">
-        <seg>Per alcune lingue, è abbastanza un po' datata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232022Z">
+        <seg>Per alcune lingue, è proprio datata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22540,8 +22540,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183725Z">
-        <seg>Guardate &lt;f0&gt;che&lt;/f0&gt;!</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232612Z">
+        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41611,8 +41611,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Volunteers to translate the current documentation are welcome!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065638Z">
-        <seg>Sono benvenuti volontari per tradurre la documentazione attuale!</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232120Z">
+        <seg>Sono benvenuti i volontari per tradurre la documentazione attuale!</seg>
       </tuv>
     </tu>
     <tu>
@@ -44142,8 +44142,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You will put your document to be translated into the &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt; folder; the &lt;/f6&gt;&lt;f7&gt;/target&lt;/f7&gt;&lt;f8&gt; folder will be filled with translated text as you translate the job; the &lt;/f8&gt;&lt;f9&gt;/omegat&lt;/f9&gt;&lt;f10&gt; &lt;s11/&gt;folder need not concern you now; the &lt;/f10&gt;&lt;f12&gt;/tm&lt;/f12&gt;&lt;f13&gt; and &lt;/f13&gt;&lt;f14&gt;/glossary&lt;/f14&gt;&lt;f15&gt; files will remain empty unless and until you create a .tmx file and a glossary and put them into those respective folders.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080415Z">
-        <seg>Si metteranno i documenti da tradurre nelle cartella &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt;; la cartella &lt;/f6&gt; &lt;f7&gt;/target&lt;/f7&gt; &lt;f8&gt; sarà riempita con i file tradotti dopo la il lavoro; la cartella &lt;/f8&gt; &lt;f9&gt;/omegat&lt;/f9&gt; &lt;f10&gt; &lt;s11/&gt; al momento non deve preoccupare; le cartelle &lt;/f10&gt; &lt;f12&gt;/tm&lt;/f12&gt; &lt;f13&gt; e &lt;/f13&gt; &lt;f14&gt;/glossary&lt;/f14&gt; &lt;f15&gt; rimarranno vuote almeno  fino a quando si creeranno un file TMX e un glossario da mettere nelle rispettive cartelle.&lt;/f15&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232543Z">
+        <seg>Si metteranno i documenti da tradurre nelle cartella &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt;; la cartella &lt;/f6&gt; &lt;f7&gt;/target&lt;/f7&gt; &lt;f8&gt; sarà riempita con i file tradotti dopo la il lavoro; la cartella &lt;/f8&gt; &lt;f9&gt;/omegat&lt;/f9&gt; &lt;f10&gt; &lt;s11/&gt; al momento non deve preoccupare; le cartelle &lt;/f10&gt; &lt;f12&gt;/tm&lt;/f12&gt; &lt;f13&gt; e &lt;/f13&gt; &lt;f14&gt;/glossary&lt;/f14&gt; &lt;f15&gt; rimarranno vuote almeno  fino a quando si creeranno un file .tmx e un glossario da mettere nelle rispettive cartelle.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44392,8 +44392,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>and be translated like this in OmegaT into German:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083635Z">
-        <seg>ed essere tradotto così in OmegaT in tedesco:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232736Z">
+        <seg>ed essere tradotto così da OmegaT in tedesco:</seg>
       </tuv>
     </tu>
     <tu>
