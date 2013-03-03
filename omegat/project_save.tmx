@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>"Fuzzy matches" are segments with some degree of similarity to the segment you are translating.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214627Z">
-        <seg>"Fuzzy match" sono segmenti con una certa somiglianza con il segmento che si sta traducendo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T161148Z">
+        <seg>Le "concordanze parziali" sono segmenti con una certa somiglianza con il segmento che si sta traducendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4369,8 +4369,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;HTML is generally very tolerant of corrupted or missing tags; the result is likely to be a file which will open, but with unexpected or undesired formatting results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214551Z">
-        <seg>&lt;f0&gt;HTML è in generale molto tollerante di tag mancante o danneggiato; il risultato rischia di essere un file che si aprirà, ma con imprevisti o indesiderati formattazione risultati.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160535Z">
+        <seg>&lt;f0&gt;HTML è in generale molto tollerante a tag mancanti o danneggiati; il risultato rischia di essere un file che si aprirà, ma con imprevisti o indesiderati risultati di formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19192,8 +19192,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you prefer to read through the finished text on the screen, i.e., in your browser, toggle between the browser and OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214613Z">
-        <seg>Se preferisci leggere attraverso il testo finito sullo schermo, vale a dire, nel tuo browser, passare tra il browser e OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160917Z">
+        <seg>Se si preferisce leggere il testo finito sullo schermo, vale a dire, nel  browser, passare tra il browser e OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24184,8 +24184,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Normally, it may be some time before you encounter useful fuzzy matches, but the "legacy" translation &lt;t0/&gt;memory file has been provided for you in this tutorial to ensure that you will find at least some.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214624Z">
-        <seg>Normalmente, può essere qualche tempo prima si incontrano utili corrispondenze fuzzy, ma la traduzione «legacy» &lt;t0/&gt; file di memoria è stato fornito per voi in questo tutorial per garantire che troverete almeno alcuni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T161121Z">
+        <seg>Normalmente, può essere qualche tempo prima si incontrino utili corrispondenze fuzzy, ma il file di memoria di traduzione «legacy» &lt;t0/&gt; è stato fornito per voi in questo tutorial per garantire che ne troverete almeno alcune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31311,8 +31311,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Simply click through these by pressing Enter to confirm that the target is to remain the same.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214549Z">
-        <seg>Clicca attraverso queste premendo Enter per confermare che l'obiettivo è di rimanere lo stesso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160430Z">
+        <seg>Clicca attraverso questi premendo Enter per confermare l'obiettivo di rimanere invariati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36829,8 +36829,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The windows in the above screenshot have been reduced in size in order to show the idea of keeping OmegaT and the source text (in your browser) open at the same time; normally, you will probably want the OmegaT window to be maximized.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214607Z">
-        <seg>Le finestre nello screenshot qui sopra sono stati ridotti nelle dimensioni al fine di mostrare l'idea di mantenere OmegaT e il testo sorgente (nel browser) aperto allo stesso tempo; normalmente, probabilmente vorrete finestra OmegaT per essere massimizzata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160800Z">
+        <seg>Le finestre nello screenshot qui sopra sono state ridotte nelle dimensioni al fine di mostrare l'idea di mantenere OmegaT e il testo sorgente (nel browser) aperto allo stesso tempo; normalmente, probabilmente vorrete che finestra OmegaT sia massimizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37488,8 +37488,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They may be within the current project (either in the text you are currently translating or, where a project comprises more than one source text, in another text within the same project), or they may be in the legacy .tmx file(s) which you placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214642Z">
-        <seg>Essi possono essere all'interno del progetto corrente (sia nel testo si sono attualmente traducendo o, dove un progetto comprende più di un testo di origine, in un altro testo all'interno del progetto stesso), oppure possono essere nei file TMX legacy che trova nella cartella &lt;f0&gt;1.5&lt;/f0&gt; .</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T161314Z">
+        <seg>Essi possono essere all'interno del progetto corrente (sia nel testo si sono attualmente traducendo o, dove un progetto comprende più di un testo di origine, in un altro testo all'interno del progetto stesso), oppure possono essere nei file .tmx legacy che si trovano nella cartella &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42079,8 +42079,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When you are finished and ready to proofread your work, you can open the translated files in &lt;f0&gt;/target&lt;/f0&gt; in your browser and read through them, and/or print them out for checking.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214609Z">
-        <seg>Quando si è finito e pronto per rileggere il proprio lavoro, si può aprire i file tradotti in &lt;f0&gt;/target&lt;/f0&gt; nel tuo browser e leggere attraverso loro o stamparli per il controllo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160831Z">
+        <seg>Quando si è finito e pronti per rileggere il proprio lavoro, si può aprire i file tradotti in &lt;f0&gt;/target&lt;/f0&gt; nel browser e leggerli o stamparli per il controllo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42103,8 +42103,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When you are translating from HTML, you will see a lot of codes that do not need to be translated, particularly at the beginning of each file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214544Z">
-        <seg>Quando si sta traducendo dall'HTML, vedrete un sacco di codici che non ha bisogno di essere tradotto, specialmente all'inizio di ogni file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160323Z">
+        <seg>Quando si sta traducendo dall'HTML, vedrete un sacco di codici che non hanno bisogno di essere tradotti, specialmente all'inizio di ogni file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42609,8 +42609,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With heavily tagged HTML text, you may find it convenient to keep the source text open at the same time and to toggle between the two (Alt+tab) in order to be able to see more quickly what text actually has to be translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214600Z">
-        <seg>Con testo pesantemente con tag HTML, può risultare conveniente per mantenere il testo sorgente aperto allo stesso tempo e per passare tra i due (Alt + tab) per poter vedere più rapidamente quello che il testo ha in realtà da tradurre.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160655Z">
+        <seg>Con testo ricco di tag HTML, può risultare conveniente, mantenere il testo sorgente aperto allo stesso tempo e per passare tra i due (Alt + tab) per poter vedere più rapidamente quello che il testo deve da tradurre.</seg>
       </tuv>
     </tu>
     <tu>
