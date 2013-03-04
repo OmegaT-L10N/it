@@ -4297,8 +4297,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;A.&lt;/f0&gt; Use in the Title Page (and on the covers, if any) a title distinct from that of the Document, and from those of previous versions (which should, if there were any, be listed in the History section of the Document).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T083413Z">
-        <seg>&lt;f0&gt;A.&lt;/f0&gt; utilizzo nella pagina del titolo (e sulle copertine, se esiste) un titolo distinto da quello del documento e da quelli di versioni precedenti (che dovrebbero, se ci fossero, elencate nella sezione storia del documento).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T085642Z">
+        <seg>&lt;f0&gt;A.&lt;/f0&gt; Utilizzo nella pagina del titolo (e sulle copertine, se esistenti) di un titolo distinto da quello del documento e da quelli delle versioni precedenti (che, se ci fossero, dovrebbero essere elencate nella sezione storia del documento).</seg>
       </tuv>
     </tu>
     <tu>
