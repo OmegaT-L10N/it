@@ -4297,8 +4297,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;A.&lt;/f0&gt; Use in the Title Page (and on the covers, if any) a title distinct from that of the Document, and from those of previous versions (which should, if there were any, be listed in the History section of the Document).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215128Z">
-        <seg>&lt;f0&gt;A.&lt;/f0&gt; utilizzo nella pagina del titolo (e sulle copertine,) se esiste un titolo distinto da quello del documento e da quelli di versioni precedenti (che dovrebbero, se ci fossero, elencate nella sezione storia del documento).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T083413Z">
+        <seg>&lt;f0&gt;A.&lt;/f0&gt; utilizzo nella pagina del titolo (e sulle copertine, se esiste) un titolo distinto da quello del documento e da quelli di versioni precedenti (che dovrebbero, se ci fossero, elencate nella sezione storia del documento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19320,8 +19320,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you use the latter option, you must take reasonably prudent steps, when you begin distribution of Opaque copies in quantity, to ensure that this Transparent copy will remain thus accessible at the stated location until at least one year after the last time you distribute an Opaque copy (directly or through your agents or retailers) of that edition to the public.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215115Z">
-        <seg>Se si utilizza l'opzione di quest'ultima, è necessario prendere passaggi ragionevolmente prudente, quando si inizia la distribuzione di copie opache in quantità, che questa copia trasparente rimanga così accessibile nella posizione indicata fino a quando almeno un anno dopo l'ultima volta che si distribuisce una copia opaca (direttamente o tramite il vostro agenti o rivenditori) di quella edizione al pubblico.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T082733Z">
+        <seg>Se si utilizza quest'ultima l'opzione è necessario usare ragionevole cautela, quando si inizia la distribuzione di copie opache in quantità, che questa copia trasparente rimanga accessibile nella posizione indicata fino a un anno dopo l'ultima volta che si è distribuita al pubblico (direttamente o tramite agenti o rivenditori) una copia opaca di quella edizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19762,8 +19762,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In addition, you must do these things in the Modified Version:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215126Z">
-        <seg>Inoltre, si devono fare queste cose nella versione modificata:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T083328Z">
+        <seg>Inoltre, nella versione modificata si devono fare queste cose:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21291,8 +21291,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is requested, but not required, that you contact the authors of the Document well before redistributing any large number of copies, to give them a chance to provide you with an updated version of the Document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215121Z">
-        <seg>È richiesto, ma non obbligatorio, contattare gli autori del documento prima di ridistribuzione di un gran numero di copie, per dare loro la possibilità di fornirvi una versione aggiornata del documento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T082833Z">
+        <seg>È richiesto, ma non obbligatorio, contattare gli autori del documento prima di ridistribuzione un numero elevato di copie, per dare loro la possibilità di fornirvi una versione aggiornata del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43789,8 +43789,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may copy and distribute a Modified Version of the Document under the conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215124Z">
-        <seg>Si può copiare e distribuire una versione modificata del documento le condizioni delle sezioni 2 e 3 sopra, a condizione che si rilascia la versione modificata da precisamente questa licenza, con la versione modificata di riempimento il ruolo del documento, quindi licenze di distribuzione e la modifica della versione modificata per chi possiede una copia di esso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T083249Z">
+        <seg>Si può copiare e distribuire una versione modificata del documento alle condizioni dette delle sezioni 2 e 3, a condizione che si rilasci anche la versione modificata con esattamente questa licenza, con la versione modificata di che ricopre il ruolo del documento, quindi con licenza di distribuzione e di modifica della versione modificata per chiunque possieda una copia di essa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43917,8 +43917,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may use the same title as a previous version if the original publisher of that version gives permission.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215130Z">
-        <seg>Si può utilizzare lo stesso titolo come una versione precedente se l'editore originale della stessa versione che dà il permesso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T083506Z">
+        <seg>Si può utilizzare lo stesso titolo di una versione precedente se l'editore originale della stessa versione ne dà il permesso.</seg>
       </tuv>
     </tu>
     <tu>
