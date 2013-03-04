@@ -26612,8 +26612,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Opaque formats include proprietary formats that can be read and edited only by proprietary word processors, SGML or XML for which the DTD and/or processing tools are not generally available, and the machine-generated HTML, PostScript or PDF produced by some word processors for output purposes only.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T205714Z">
-        <seg>Formati opachi includono i formati proprietari che possono essere letti e modificati solo con word processor proprietari, SGML o XML per cui la DTD o gli strumenti di elaborazione non sono generalmente disponibili, e l'HTML generato a macchina, il PostScript o PDF prodotto da qualche word processor esclusivamente come output.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T072951Z">
+        <seg>Formati opachi includono i formati proprietari che possono essere letti e modificati solo con word processor proprietari, SGML o XML per cui la DTD o gli strumenti di elaborazione non sono generalmente disponibili, e l'HTML generato a macchina, il PostScript o PDF prodotto da word processor ad esclusivo scopo di output.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33314,8 +33314,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Title Page" means, for a printed book, the title page itself, plus such following pages as are needed to hold, legibly, the material this License requires to appear in the title page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215023Z">
-        <seg>La "pagina del titolo" significa, per un libro stampato, la pagina del titolo stesso, oltre a tali pagine seguenti come sono necessari per contenere, in maniera leggibile, il materiale questa licenza richiede ad per apparire nella pagina del titolo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T073058Z">
+        <seg>La "pagina del titolo" di un libro stampato indica la pagina del titolo stessa, più qualche pagina seguente per quanto necessario a contenere in modo leggibile, il materiale che la licenza prevede che compaia nella pagina del titolo.</seg>
       </tuv>
     </tu>
     <tu>
