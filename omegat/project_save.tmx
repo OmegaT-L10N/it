@@ -4401,8 +4401,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;K.&lt;/f0&gt; For any section Entitled "Acknowledgements" or "Dedications," Preserve the Title of the section, and preserve in the section all the substance and tone of each of the contributor acknowledgements and/or dedications given therein.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T123756Z">
-        <seg>&lt;f0&gt;K.&lt;/f0&gt; Per ogni sezione intitolata "Ringraziamenti" o "Dediche", preservare il titolo della sezione, e conservare nella sezione tutta la sostanza e il tono di ciascuno dei riconoscimenti ai collaboratori e/o le dediche ivi utilizzate.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T132001Z">
+        <seg>&lt;f0&gt;K.&lt;/f0&gt; Per ogni sezione intitolata "Ringraziamenti" o "Dediche", conservare il titolo della sezione, e conservare nella sezione tutta la sostanza e il tono di ciascuno dei riconoscimenti ai collaboratori e/o le dediche ivi utilizzate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4417,16 +4417,16 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;M.&lt;/f0&gt; Delete any section Entitled "Endorsements." Such a section may not be included in the Modified Version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215203Z">
-        <seg>&lt;f0&gt;M.&lt;/f0&gt; eliminare qualsiasi sezione intitolata "Approvazioni". Una tale sezione non possa essere inclusi nella versione modificata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T132210Z">
+        <seg>&lt;f0&gt;M.&lt;/f0&gt; Eliminare qualsiasi sezione intitolata "Approvazioni". Una tale sezione non può essere inclusa nella versione modificata.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;N.&lt;/f0&gt; Do not retitle any existing section to be Entitled "Endorsements" or to conflict in title with any Invariant Section.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215205Z">
-        <seg>&lt;f0&gt;N.&lt;/f0&gt; non rinominare qualsiasi sezione esistente per essere intitolata "Approvazioni" o al conflitto nel titolo con qualsiasi sezione invariante.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T132304Z">
+        <seg>&lt;f0&gt;N.&lt;/f0&gt; Non rinominare qualsiasi sezione esistente come "Approvazioni" o in conflitto con il titolo di qualsiasi sezione invariante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30207,8 +30207,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Section numbers or the equivalent are not considered part of the section titles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T123915Z">
-        <seg>Le Sezioni numeri o equivalenti non sono considerati parte dei titoli delle sezioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T132133Z">
+        <seg>I numeri o gli equivalenti delle sezioni non sono considerati parte dei titoli delle sezioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43877,8 +43877,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may omit a network location for a work that was published at least four years before the Document itself, or if the original publisher of the version it refers to gives permission.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215157Z">
-        <seg>È possibile omettere un percorso di rete per un lavoro che è stato pubblicato almeno quattro anni prima del documento stesso, o se il server di pubblicazione originale della versione si riferisce a dà il permesso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T131932Z">
+        <seg>È possibile omettere un percorso di rete per un lavoro che è stato pubblicato almeno quattro anni prima del documento stesso, o se il server di pubblicazione originale della versione cui si riferisce ne dà il permesso.</seg>
       </tuv>
     </tu>
     <tu>
