@@ -18138,8 +18138,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Cover Text requirement of section 3 is applicable to these copies of the Document, then if the Document is less than one half of the entire aggregate, the Document's Cover Texts may be placed on covers that bracket the Document within the aggregate, or the electronic equivalent of covers if the Document is in electronic form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T160735Z">
-        <seg>Se il requisito del testo copertina della sezione 3 è applicabile a queste copie del documento, quindi se il documento è meno della metà dell'intero aggregato, i 'testi di copertina' del documento possono essere immessi sulle copertine che comprendono il documento all'interno dell'aggregato, o l'equivalente elettronico delle copertine se il documento è in formato elettronico.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T161141Z">
+        <seg>Se il requisito del testo copertina della sezione 3 è applicabile a queste copie del documento, quindi se il documento è meno della metà dell'intero aggregato, i 'testi di copertina' del documento possono essere immessi sulle copertine che delimitano il documento all'interno dell'aggregato, o sull'equivalente elettronico di tali copertine se il documento è in formato elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27044,8 +27044,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Otherwise they must appear on printed covers that bracket the whole aggregate.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215312Z">
-        <seg>In caso contrario deve appaiono sulle copertine stampate che staffa l'intero aggregato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T161246Z">
+        <seg>In caso contrario devono apparire sulle copertine stampate che comprendono l'intero aggregato.</seg>
       </tuv>
     </tu>
     <tu>
