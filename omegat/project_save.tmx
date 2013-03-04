@@ -7833,8 +7833,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A section "Entitled XYZ" means a named subunit of the Document whose title either is precisely XYZ or contains XYZ in parentheses following text that translates XYZ in another language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215027Z">
-        <seg>Una sezione "Intitolata XYZ" significa una sottounità denominata del documento cui titolo sia precisamente XYZ o contiene XYZ tra parentesi dopo il testo che traduce XYZ in un'altra lingua.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T073544Z">
+        <seg>Una sezione "intitolata XYZ" indica una parte, con nome, del documento il cui titolo sia esattamente XYZ o contenga, in un'altra lingua, XYZ in parentesi dopo il testo che traduce XYZ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37224,8 +37224,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These Warranty Disclaimers are considered to be included by reference in this License, but only as regards disclaiming warranties: any other implication that these Warranty Disclaimers may have is void and has no effect on the meaning of this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215035Z">
-        <seg>Queste esclusioni di garanzia sono considerati essere inclusi per riferimento in questa licenza, ma solo per quanto riguarda la rinuncia a garanzie: qualsiasi altra implicazione che tali esclusioni di garanzia possono avere è vuoto e non ha alcun effetto sul significato di questa licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T073835Z">
+        <seg>Queste esclusioni da garanzia sono considerate inclusi per riferimento in questa licenza, ma solo per quanto riguarda l'esclusione da garanzie: qualsiasi altra implicazione che tali esclusioni di garanzia possono avere è nulla e non ha alcun effetto sul significato di questa licenza.</seg>
       </tuv>
     </tu>
     <tu>
