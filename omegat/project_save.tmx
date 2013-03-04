@@ -18146,8 +18146,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Document already includes a cover text for the same cover, previously added by you or by arrangement made by the same entity you are acting on behalf of, you may not add another; but you may replace the old one, on explicit permission from the previous publisher that added the old one.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T154521Z">
-        <seg>Se il documento include già un 'testo di copertina' per la stessa copertina, precedentemente aggiunto da voi o da un accordo fatto dalla stessa entità per conto della quale si agisce, non si può aggiungerne un altro; ma si può sostituire quello vecchio, su esplicita autorizzazione dall'editore precedente che ha aggiunto a quello vecchio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T155406Z">
+        <seg>Se il documento include già un 'testo di copertina' per la stessa copertina, precedentemente aggiunto da voi o da un accordo fatto con la stessa entità per conto della quale si agisce, non si può aggiungerne un altro, ma si può sostituire quello vecchio, su esplicita autorizzazione dall'editore precedente che ha aggiunto a quello vecchio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34101,8 +34101,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The author(s) and publisher(s) of the Document do not by this License give permission to use their names for publicity for or to assert or imply endorsement of any Modified Version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215242Z">
-        <seg>L'autore e la pubblicazione del documento non da questa licenza dare l'autorizzazione a usare i loro nomi per pubblicità per o per far valere o implica l'approvazione di ogni versione modificata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T155508Z">
+        <seg>Lo/gli autore/i e lo/gli editore/i del documento non ottengono da questa licenza l'autorizzazione a usare i loro nomi per pubblicizzare, per far valere o per approvare ogni versione modificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34309,8 +34309,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The combined work need only contain one copy of this License, and multiple identical Invariant Sections may be replaced with a single copy.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215248Z">
-        <seg>Il lavoro combinato deve contenere solo una copia di questa licenza, e più sezioni invarianti identici possono essere sostituiti con una sola copia.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T155709Z">
+        <seg>Il lavoro combinato deve contenere solo una copia di questa licenza, e più sezioni invarianti identiche possono essere sostituite con una sola copia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43781,8 +43781,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may combine the Document with other documents released under this License, under the terms defined in section 4 above for modified versions, provided that you include in the combination all of the Invariant Sections of all of the original documents, unmodified, and list them all as Invariant Sections of your combined work in its license notice, and that you preserve all their Warranty Disclaimers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215246Z">
-        <seg>È possibile combinare il documento con altri documenti rilasciati sotto questa licenza, secondo i termini definiti nella sezione 4 sopra per versioni modificate, purché si includono nella combinazione tutte le sezioni invarianti di tutti i documenti originali, non modificato e li elenco tutti come sezioni invarianti del vostro lavoro combinato nella sua nota di licenza, e che conservano tutte le loro esclusioni di garanzia.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T155652Z">
+        <seg>È possibile combinare il documento con altri documenti rilasciati sotto questa licenza, secondo i termini definiti nella precedente sezione 4 per le versioni modificate, purché si includano nella combinazione tutte le sezioni invarianti di tutti i documenti originali, non modificati e si elenchino tutti come sezioni invarianti del nuovo lavoro combinato nella sua nota di licenza, e che si conservino tutte le relative esclusioni di garanzia.</seg>
       </tuv>
     </tu>
     <tu>
