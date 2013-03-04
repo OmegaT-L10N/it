@@ -4393,24 +4393,24 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;J.&lt;/f0&gt; Preserve the network location, if any, given in the Document for &lt;t1/&gt;public access to a Transparent copy of the Document, and likewise the network locations given in the Document for previous versions it was based on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215430Z">
-        <seg>&lt;f0&gt;J.&lt;/f0&gt; mantenere il percorso di rete, se qualsiasi, dato nel documento per &lt;t1/&gt; pubblico accesso alla copia trasparente del documento e allo stesso modo i percorsi di rete dati nel documento per le versioni precedenti era basato su.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T124504Z">
+        <seg>&lt;f0&gt;J.&lt;/f0&gt; mantenere il percorso di rete, se esiste, fornito nel documento per &lt;t1/&gt; il pubblico accesso alla copia trasparente del documento e allo stesso modo i percorsi di rete forniti nel documento per le versioni precedenti sulle quali era basato.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;K.&lt;/f0&gt; For any section Entitled "Acknowledgements" or "Dedications," Preserve the Title of the section, and preserve in the section all the substance and tone of each of the contributor acknowledgements and/or dedications given therein.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215158Z">
-        <seg>&lt;f0&gt;K.&lt;/f0&gt; per ogni sezione intitolata "Riconoscimenti" o "Dediche", conserva il titolo della sezione e preservare nella sezione tutto il tono di ciascuno dei riconoscimenti di collaboratore e/o dediche dati ivi e sostanza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T123756Z">
+        <seg>&lt;f0&gt;K.&lt;/f0&gt; Per ogni sezione intitolata "Ringraziamenti" o "Dediche", preservare il titolo della sezione, e conservare nella sezione tutta la sostanza e il tono di ciascuno dei riconoscimenti ai collaboratori e/o le dediche ivi utilizzate.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;L.&lt;/f0&gt; Preserve all the Invariant Sections of the Document, unaltered in their text and in their titles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215200Z">
-        <seg>&lt;f0&gt;L.&lt;/f0&gt; Conservare tutte le sezioni invarianti del documento, inalterato nel loro testo e nei loro titoli.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T123807Z">
+        <seg>&lt;f0&gt;L.&lt;/f0&gt; Conservare tutte le sezioni invarianti del documento, inalterate nel loro testo e nei loro titoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4441,8 +4441,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;O.&lt;/f0&gt; Preserve any Warranty Disclaimers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215206Z">
-        <seg>&lt;f0&gt;O.&lt;/f0&gt; preservare eventuali esclusioni di garanzia.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T124307Z">
+        <seg>&lt;f0&gt;O.&lt;/f0&gt; Conservare eventuali esclusioni di garanzia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30207,8 +30207,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Section numbers or the equivalent are not considered part of the section titles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215202Z">
-        <seg>Sezione numeri o equivalente non sono considerati parte dei titoli delle sezioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T123915Z">
+        <seg>Le Sezioni numeri o equivalenti non sono considerati parte dei titoli delle sezioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43821,8 +43821,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may extract a single document from such a collection, and distribute it individually under this License, provided you insert a copy of this License into the extracted document, and follow this License in all other respects regarding verbatim copying of that document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215304Z">
-        <seg>Si può estrarre un singolo documento da tale raccolta e distribuirlo individualmente sotto questa licenza, purché si inserisce una copia di questa licenza nel documento estratto e segue questa licenza in tutti gli altri aspetti riguardanti la copia letterale di tale documento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T124222Z">
+        <seg>Si può estrarre un singolo documento da tale raccolta e distribuirlo individualmente sotto questa licenza, purché si inserisca una copia di questa licenza nel documento estratto e si segua questa licenza in tutti gli altri aspetti riguardanti la copia letterale di tale documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43853,8 +43853,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may make a collection consisting of the Document and other documents released under this License, and replace the individual copies of this License in the various documents with a single copy that is included in the collection, provided that you follow the rules of this License for verbatim copying of each of the documents in all other respects.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215301Z">
-        <seg>Si può fare una raccolta consistente del documento e di altri documenti rilasciati sotto questa licenza e sostituire le singole copie di questa licenza nei vari documenti con una sola copia che è incluso nell'insieme, purché si seguono le regole di questa licenza di copia letterale di ciascuno dei documenti in tutti gli altri aspetti.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T124141Z">
+        <seg>Si può fare una raccolta consistente del documento e di altri documenti rilasciati sotto questa licenza e sostituire le singole copie di questa licenza nei vari documenti con una sola copia che è inclusa nell'insieme, purché si seguano le regole di questa licenza di copia letterale di ciascuno dei documenti per tutti gli altri aspetti.</seg>
       </tuv>
     </tu>
     <tu>
