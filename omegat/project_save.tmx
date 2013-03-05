@@ -7825,8 +7825,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A search function scans previously translated material (either in the present document or in a translation memory), so that the user can see how a word or phrase was previously translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231310Z">
-        <seg>Una funzione 'Cerca' analizza il materiale già tradotto (sia nel presente documento che nelle memorie di traduzione precedenti), perché l'utente possa vedere come una parola o una frase sono state precedentemente tradotte.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T105346Z">
+        <seg>Una funzione 'Cerca nel progetto...' analizza il materiale già tradotto (sia nel presente documento che nelle memorie di traduzione precedenti), perché l'utente possa vedere come una parola o una frase sono state precedentemente tradotte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25376,8 +25376,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT for</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095258Z">
-        <seg>OmegaT perOmegaT_2.5.5_05_Windows.exe</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T105129Z">
+        <seg>OmegaT per</seg>
       </tuv>
     </tu>
     <tu>
@@ -28623,8 +28623,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Refers to OmegaT version: 2.0.0&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212029Z">
-        <seg>Si riferisce alla versione di OmegaT: 2.0.0 &lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T105238Z">
+        <seg>Si riferisce alla versione di OmegaT: 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
