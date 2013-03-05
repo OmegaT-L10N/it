@@ -12126,8 +12126,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+F calls up a search dialog with which you can search for any term throughout the project, i.e., within the source text and the legacy translation memory files, source segments, and target segments (but not glossary files).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184400Z">
-        <seg>CTRL+F richiama una finestra di dialogo di ricerca con cui è possibile cercare qualsiasi termine nel corso del progetto, cioè, all'interno del testo sorgente e nei file di memoria traduzione eredità, nei segmenti di origine e nei segmenti di arrivo (ma non nei file Glossario.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103600Z">
+        <seg>CTRL+F richiama una finestra di dialogo di ricerca con cui è possibile cercare qualsiasi termine nel corso del progetto, cioè, all'interno del testo sorgente e nei file di memoria traduzione eredità, nei segmenti di origine e nei segmenti di arrivo (ma non nei file Glossario).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16533,8 +16533,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Glossary files are simply plain-text files containing two columns of terms delimited by tabs, and saved with file extension .txt.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164356Z">
-        <seg>I file glossario sono semplicemente semplici file di testo contenenti tre colonne di termini delimitate da tabulazioni e salvate con estensione di file .txt .</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103355Z">
+        <seg>I file glossario sono file di testo semplice, contenenti tre colonne di termini delimitate da tabulazioni e salvate con estensione di file .txt .</seg>
       </tuv>
     </tu>
     <tu>
@@ -29319,8 +29319,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Review Step &lt;/f0&gt;&lt;f1&gt;7.A.1&lt;/f1&gt;&lt;f2&gt; on handling tags.&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214554Z">
-        <seg>Recensione passo &lt;/f0&gt; &lt;f1&gt;7.A.1&lt;/f1&gt; &lt;f2&gt; sulla gestione delle tag. &lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103127Z">
+        <seg>Rivedere, passo &lt;/f0&gt; &lt;f1&gt;7.A.1&lt;/f1&gt; &lt;f2&gt; sulla gestione delle tag. &lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35924,8 +35924,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T185404Z">
-        <seg>Lo scopo di questa licenza è di rendere un manuale, libro di testo o altri documenti funzionali e utili "gratuiti" nel senso di gratuità: di garantire a tutti la libertà effettiva di usarlo e distribuirlo, con o senza modifiche, commercialmente o non.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103652Z">
+        <seg>Lo scopo di questa licenza è di rendere un manuale, libro di testo o altri documenti funzionali e utili "gratuiti" nel senso di: garantire a tutti la libertà effettiva di usarlo e distribuirlo, con o senza modifiche, commercialmente o non.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38669,8 +38669,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="EN">
         <seg>Thus, if &lt;t0/&gt;your source document contains the words &lt;f1&gt;ein Mensch,&lt;/f1&gt; a glossary that has the source text as &lt;f2&gt;der Mensch &lt;/f2&gt;will not find it; use &lt;f3&gt;Mensch&lt;/f3&gt;&lt;f4&gt; for the glossary instead.&lt;/f4&gt;&lt;f5&gt; For more on glossaries, including adding new term&lt;/f5&gt;&lt;f6&gt;s, consult the User‘s Manual.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T183959Z">
-        <seg>Così, se &lt;t0/&gt; il vostro documento di origine contiene le parole &lt;f1&gt;ein Mensch,&lt;/f1&gt; un glossario che contiene il testo di origine &lt;f2&gt;der Mensch &lt;/f2&gt;non lo troverà; utilizzare invece &lt;f3&gt;Mensch&lt;/f3&gt; &lt;f4&gt; per il Glossario.&lt;/f4&gt;&lt;f5&gt;Per ulteriori informazioni su glossari, inclusa l'aggiunta di un nuovo termine&lt;/f5&gt;&lt;f6&gt; consultare il manuale utente.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103503Z">
+        <seg>Così, se &lt;t0/&gt; il vostro documento di origine contiene le parole &lt;f1&gt;ein Mensch,&lt;/f1&gt; un glossario che contiene il testo di origine &lt;f2&gt;der Mensch &lt;/f2&gt;non lo troverà; utilizzare invece &lt;f3&gt;Mensch&lt;/f3&gt; &lt;f4&gt; per il Glossario.&lt;/f4&gt;&lt;f5&gt; Per ulteriori informazioni su glossari, inclusa l'aggiunta di un nuovo termine&lt;/f5&gt;&lt;f6&gt; consultare il manuale utente.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41683,8 +41683,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>We recommend this License principally for works whose purpose is instruction or reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214930Z">
-        <seg>Si consiglia di questa licenza principalmente per opere il cui scopo è l'istruzione o il riferimento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103805Z">
+        <seg>Si consiglia questa licenza principalmente per opere il cui scopo è l'istruzione o il riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42641,8 +42641,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With heavily tagged text, you are likely to find that OmegaT yields numerous spurious fuzzy matches in which only the tags are identical, and which are not therefore useful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164232Z">
-        <seg>Con testo ricco di tag, è probabile trovare che OmegaT produce numerose concordanze parziali spurie, in cui solo i tag sono identici, e che non sono pertanto utili.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103225Z">
+        <seg>Con testo ricco di tag, è probabile trovare che OmegaT produca numerose concordanze parziali spurie, in cui solo i tag sono identici, e che non sono pertanto utili.</seg>
       </tuv>
     </tu>
     <tu>
