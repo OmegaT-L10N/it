@@ -13006,8 +13006,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do the same with the Language &lt;t0/&gt;Pattern field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T073353Z">
-        <seg>Fare lo stesso con la lingua &lt;t0/&gt; Schema linguistico.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T101925Z">
+        <seg>Fare lo stesso con il campo &lt;t0/&gt;Schema linguistico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23832,8 +23832,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Navigate to a suitable folder in which to create the project, e.g., the main folder you use for your translations, or you can place it on the Desktop for temporary ease of access, and later move it to My Documents or a similar location for storage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183436Z">
-        <seg>Passare a una cartella adatta in cui creare il progetto, ad esempio, la cartella principale che si utilizza per le traduzioni, o è possibile posizionarlo sul Desktop per la facilità di accesso temporaneo e poi passare a documenti o una simile posizione per l'archiviazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T101545Z">
+        <seg>Passare a una cartella adatta in cui creare il progetto, ad esempio, la cartella principale che si utilizza per le traduzioni, o è possibile posizionarlo sul Desktop per la facilità di accesso temporaneo e poi passare a documenti o a una simile posizione per l'archiviazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24864,8 +24864,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Of course, you must be connected to the Internet for this function to work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071414Z">
-        <seg>Naturalmente è necessario essere connessi a Internet perché questa funzione si esplicata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T101459Z">
+        <seg>Naturalmente è necessario essere connessi a Internet perché questa funzione sia esplicata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44142,8 +44142,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You will put your document to be translated into the &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt; folder; the &lt;/f6&gt;&lt;f7&gt;/target&lt;/f7&gt;&lt;f8&gt; folder will be filled with translated text as you translate the job; the &lt;/f8&gt;&lt;f9&gt;/omegat&lt;/f9&gt;&lt;f10&gt; &lt;s11/&gt;folder need not concern you now; the &lt;/f10&gt;&lt;f12&gt;/tm&lt;/f12&gt;&lt;f13&gt; and &lt;/f13&gt;&lt;f14&gt;/glossary&lt;/f14&gt;&lt;f15&gt; files will remain empty unless and until you create a .tmx file and a glossary and put them into those respective folders.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232543Z">
-        <seg>Si metteranno i documenti da tradurre nelle cartella &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt;; la cartella &lt;/f6&gt; &lt;f7&gt;/target&lt;/f7&gt; &lt;f8&gt; sarà riempita con i file tradotti dopo la il lavoro; la cartella &lt;/f8&gt; &lt;f9&gt;/omegat&lt;/f9&gt; &lt;f10&gt; &lt;s11/&gt; al momento non deve preoccupare; le cartelle &lt;/f10&gt; &lt;f12&gt;/tm&lt;/f12&gt; &lt;f13&gt; e &lt;/f13&gt; &lt;f14&gt;/glossary&lt;/f14&gt; &lt;f15&gt; rimarranno vuote almeno  fino a quando si creeranno un file .tmx e un glossario da mettere nelle rispettive cartelle.&lt;/f15&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T102032Z">
+        <seg>Si metteranno i documenti da tradurre nelle cartella &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt;; la cartella &lt;/f6&gt; &lt;f7&gt;/target&lt;/f7&gt; &lt;f8&gt; sarà riempita con i file tradotti dopo il lavoro; la cartella &lt;/f8&gt; &lt;f9&gt;/omegat&lt;/f9&gt; &lt;f10&gt; &lt;s11/&gt; al momento non deve preoccupare; le cartelle &lt;/f10&gt; &lt;f12&gt;/tm&lt;/f12&gt; &lt;f13&gt; e &lt;/f13&gt; &lt;f14&gt;/glossary&lt;/f14&gt; &lt;f15&gt; rimarranno vuote almeno  fino a quando si creeranno un file .tmx e un glossario da mettere nelle rispettive cartelle.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
