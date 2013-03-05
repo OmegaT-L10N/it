@@ -8345,8 +8345,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>After downloading OmegaT (Windows version), launch the .exe file and follow the on-screen instructions, which should be self-explanatory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064534Z">
-        <seg>Dopo il download di OmegaT (versione Windows), lanciare il file .exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095552Z">
+        <seg>, lanciare il file .exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9979,8 +9979,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Beginners</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230017Z">
-        <seg>Novizi</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095408Z">
+        <seg>Neofiti</seg>
       </tuv>
     </tu>
     <tu>
@@ -25376,8 +25376,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT for</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170654Z">
-        <seg>OmegaT per</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095258Z">
+        <seg>OmegaT perOmegaT_2.5.5_05_Windows.exe</seg>
       </tuv>
     </tu>
     <tu>
@@ -42335,8 +42335,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When/after downloading the zip file, place it in a suitable folder, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213705Z">
-        <seg>Dopo aver scaricato il file zip, posizionarlo in una cartella adatta, per esempio, per Windows, &lt;s0/&gt; C:\Programmi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095544Z">
+        <seg>Dopo aver scaricato OmegaT .</seg>
       </tuv>
     </tu>
     <tu>
