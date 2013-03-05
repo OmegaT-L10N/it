@@ -8345,8 +8345,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>After downloading OmegaT (Windows version), launch the .exe file and follow the on-screen instructions, which should be self-explanatory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095552Z">
-        <seg>, lanciare il file .exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095942Z">
+        <seg>Dopo aver scaricato OmegaT (versione Windows, attualmente la 2.5.5_05)lanciare il file OmegaT_2.5.5_05_Windows.exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40542,8 +40542,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unpack (extract, unzip) the zip archive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213757Z">
-        <seg>Decomprimere (estrarre) l'archivio zip.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100559Z">
+        <seg>Spacchettare (estrarre, decomprimere) l'archivio compresso .zip .</seg>
       </tuv>
     </tu>
     <tu>
@@ -42335,8 +42335,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When/after downloading the zip file, place it in a suitable folder, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095544Z">
-        <seg>Dopo aver scaricato OmegaT .</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100443Z">
+        <seg>Dopo aver scaricato il file .zip, ubicarlo in una cartella adatta, ad esempio per Windows, &lt;s0/&gt;C:\Programmi.</seg>
       </tuv>
     </tu>
     <tu>
