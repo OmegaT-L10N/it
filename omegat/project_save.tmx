@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg>"&lt;a0&gt;" and "&lt;/a0&gt;" do not necessarily indicate the beginning and end of bold text, however; if the word "that" were in italics in the source text rather than bold, the tags would be the same.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084040Z">
-        <seg>"&lt;a0&gt;"e"&lt;/a0&gt;" non indicano necessariamente l'inizio e la fine del testo in grassetto, tuttavia; Se la parola "che" era in corsivo nel testo di origine piuttosto che in grassetto, i tag sarebbero uguali.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T102230Z">
+        <seg>"&lt;a0&gt;"e"&lt;/a0&gt;" non indicano necessariamente l'inizio e la fine del testo in grassetto, tuttavia; Se la parola "che" fosse stata in corsivo nel testo di origine piuttosto che in grassetto, i tag sarebbero stati gli stessi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2617,8 +2617,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;Don't, however, make corrections in the Open Office Writer or MS Word file:&lt;/f1&gt; find the relevant segments in OmegaT (using the text search function, to be discussed below, Step &lt;f2&gt;7.B.4&lt;/f2&gt;) and make them there.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085200Z">
-        <seg>&lt;/f0&gt; &lt;f1&gt;Non apportare, tuttavia le correzioni nel file Open Office Writer o MS Word:&lt;/f1&gt; controllare invece i segmenti interessati in OmegaT (utilizzando la funzione di ricerca di testo, come vedremo di seguito, passo &lt;f2&gt;7.B.4&lt;/f2&gt;) ed ivi effettuare le necessarie correzioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T102547Z">
+        <seg>&lt;/f0&gt; &lt;f1&gt;Non apportare, tuttavia le correzioni subito nel file Open Office Writer o MS Word:&lt;/f1&gt; aggiornare invece i segmenti interessati in OmegaT (utilizzando la funzione di ricerca di testo, come vedremo di seguito, passo &lt;f2&gt;7.B.4&lt;/f2&gt;) ed ivi effettuare le necessarie correzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20275,8 +20275,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the case of OmegaT, the source is displayed above the target text of the active segment, facilitating &lt;t0/&gt;comparison:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084613Z">
-        <seg>Nel caso di OmegaT, l'origine viene visualizzato sopra il testo di destinazione del segmento attivo, facilitandone il &lt;t0/&gt; confronto:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T102416Z">
+        <seg>Nel caso di OmegaT, il testo di partenza del segmento attivo viene visualizzato sopra il testo di destinazione, facilitandone il &lt;t0/&gt;confronto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35812,8 +35812,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The procedures described in Project 1, Steps &lt;f2&gt;7.A.1-7.A.4,&lt;/f2&gt;&lt;f3&gt; all apply here too, for HTML files.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200641Z">
-        <seg>Le procedure descritte nel Progetto 1, passaggi &lt;f2&gt;7.A.1-7.A.4,&lt;/f2&gt; &lt;f3&gt; sono tutte valide anche per i file HTML.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T102818Z">
+        <seg>Le procedure descritte per 'Il mio progetto-1', passaggi &lt;f2&gt;7.A.1-7.A.4,&lt;/f2&gt; &lt;f3&gt; sono tutte valide anche per i file HTML.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41675,8 +41675,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>We provide here two projects for self-training.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080458Z">
-        <seg>Forniamo qui due progetti per auto-addestramento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T102117Z">
+        <seg>Forniamo qui due progetti per potersi esercitare.</seg>
       </tuv>
     </tu>
     <tu>
