@@ -8345,8 +8345,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>After downloading OmegaT (Windows version), launch the .exe file and follow the on-screen instructions, which should be self-explanatory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095942Z">
-        <seg>Dopo aver scaricato OmegaT (versione Windows, attualmente la 2.5.5_05)lanciare il file OmegaT_2.5.5_05_Windows.exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100928Z">
+        <seg>Per versione Windows invece, attualmente la 2.5.5_05, dopo aver scaricato OmegaT, lanciare il file OmegaT_2.5.5_05_Windows.exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8361,8 +8361,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>After launching OmegaT, the main OmegaT window should appear with three panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064728Z">
-        <seg>Dopo il lancio di OmegaT, dovrebbe apparire la finestra principale di OmegaT con tre riquadri: il riquadro di modifica (editor), il riquadro delle concordanze parziali e il riquadro dei glossari.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T101042Z">
+        <seg>Dopo il lancio di OmegaT, dovrebbe apparire la finestra principale di OmegaT con tre riquadri: il riquadro di modifica (Editor), il riquadro delle concordanze parziali (fuzzy) e il riquadro Glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13262,8 +13262,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Download OmegaT (here, version 2.0.0).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213431Z">
-        <seg>Scaricare OmegaT (qui, versione 2.0.0).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100824Z">
+        <seg>Scaricare OmegaT (attualmente, versione 2.5.5_05).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40542,8 +40542,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unpack (extract, unzip) the zip archive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100559Z">
-        <seg>Spacchettare (estrarre, decomprimere) l'archivio compresso .zip .</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100845Z">
+        <seg>Spacchettare ivi (estrarre, decomprimere) l'archivio compresso .zip .</seg>
       </tuv>
     </tu>
     <tu>
