@@ -10489,14 +10489,6 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>COLLECTIONS OF DOCUMENTS</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135518Z">
-        <seg>COLLECTIONS OF DOCUMENTS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>COMBINING DOCUMENTS</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172009Z">
@@ -33394,16 +33386,16 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Document," below, refers to any such manual or work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094502Z">
-        <seg>The "Document," below, refers to any such manual or work.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T145648Z">
+        <seg>Il "documento", seguente, si riferisce a qualsiasi manuale o opera.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T204619Z">
-        <seg>Le "sezioni invarianti" sono alcune sezioni secondarie i cui titoli sono indicati, come quelli di sezioni non modificabili, nell'avviso che dice che il documento è rilasciato sotto questa licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T150116Z">
+        <seg>Le "sezioni invarianti" sono alcune sezioni secondarie nei cui titoli sono indicate come sezioni non modificabili, nell'avviso che dice che il documento è rilasciato sotto questa licenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47626,28 +47618,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</prop>
-      <prop type="next">An image format is not Transparent if used for any substantial amount of text.</prop>
-      <tuv lang="EN">
-        <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T142024Z">
-        <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">An image format is not Transparent if used for any substantial amount of text.</prop>
-      <prop type="next">Examples of suitable formats for Transparent copies include plain ASCII without markup, Texinfo input format, LaTeX input format, SGML or XML using a publicly available DTD, and standard-conforming simple HTML, PostScript or PDF designed for human modification.</prop>
-      <tuv lang="EN">
-        <seg>A copy that is not "Transparent" is called "Opaque."</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T142200Z">
-        <seg>A copy that is not "Transparent" is called "Opaque."</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">7.</prop>
       <prop type="next">32</prop>
       <tuv lang="EN">
@@ -47666,28 +47636,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135409Z">
         <seg>APPLICABILITY AND DEFINITIONS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">1.</prop>
-      <prop type="next">This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</prop>
-      <tuv lang="EN">
-        <seg>APPLICABILITY AND DEFINITIONS</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094335Z">
-        <seg>APPLICABILITY AND DEFINITIONS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</prop>
-      <prop type="next">A copy that is not "Transparent" is called "Opaque."</prop>
-      <tuv lang="EN">
-        <seg>An image format is not Transparent if used for any substantial amount of text.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T142119Z">
-        <seg>An image format is not Transparent if used for any substantial amount of text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47758,17 +47706,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</prop>
-      <prop type="next">We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</prop>
-      <tuv lang="EN">
-        <seg>It complements the GNU General Public License, which is a copyleft license designed for free software.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094234Z">
-        <seg>It complements the GNU General Public License, which is a copyleft license designed for free software.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">4.</prop>
       <prop type="next">29</prop>
       <tuv lang="EN">
@@ -47796,30 +47733,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>Preamble</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094147Z">
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T150139Z">
         <seg>Preamble</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</prop>
-      <prop type="next">This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</prop>
-      <tuv lang="EN">
-        <seg>Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094215Z">
-        <seg>Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</prop>
-      <prop type="next">The "Document," below, refers to any such manual or work.</prop>
-      <tuv lang="EN">
-        <seg>Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094439Z">
-        <seg>Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47846,39 +47761,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">Preamble</prop>
-      <prop type="next">Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</prop>
-      <tuv lang="EN">
-        <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094159Z">
-        <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">APPLICABILITY AND DEFINITIONS</prop>
-      <prop type="next">Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</prop>
-      <tuv lang="EN">
-        <seg>This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094342Z">
-        <seg>This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</prop>
-      <prop type="next">It complements the GNU General Public License, which is a copyleft license designed for free software.</prop>
-      <tuv lang="EN">
-        <seg>This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094226Z">
-        <seg>This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">2.</prop>
       <prop type="next">29</prop>
       <tuv lang="EN">
@@ -47886,28 +47768,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135421Z">
         <seg>VERBATIM COPYING</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">It complements the GNU General Public License, which is a copyleft license designed for free software.</prop>
-      <prop type="next">But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book.</prop>
-      <tuv lang="EN">
-        <seg>We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094243Z">
-        <seg>We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book.</prop>
-      <prop type="next">1.</prop>
-      <tuv lang="EN">
-        <seg>We recommend this License principally for works whose purpose is instruction or reference.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094327Z">
-        <seg>We recommend this License principally for works whose purpose is instruction or reference.</seg>
       </tuv>
     </tu>
   </body>
