@@ -9230,8 +9230,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Any member of the public is a licensee, and is addressed as "you." You accept the license if you copy, modify or distribute the work in a way requiring permission under copyright law.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T093124Z">
-        <seg>Qualsiasi membro del pubblico è un licenziatario e gli si rivolge con "tu". Tu accetti la &lt;t0/&gt; licenza se copi, modifichi o distribuisci il lavoro in un modo che richieda autorizzazione ai sensi del diritto d'autore.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094533Z">
+        <seg>Qualsiasi membro del pubblico è un licenziatario e gli si rivolge con "tu". Tu accetti la licenza se copi, modifichi o distribuisci il lavoro in un modo che richieda autorizzazione ai sensi del diritto d'autore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10291,8 +10291,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T185608Z">
-        <seg>Ma questa licenza non è limitata ai manuali di software; può essere utilizzata per qualsiasi lavoro testuale, indipendentemente dal soggetto o se viene pubblicato come un libro stampato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094316Z">
+        <seg>But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16020,6 +16020,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215025Z">
         <seg>Per le opere in formati che non hanno &lt;t0/&gt; come tale, qualsiasi pagina del titolo "Titolo pagina" si intende il testo vicino l'aspetto più importante del titolo dell'opera, precedente l'inizio del corpo del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For works in formats which do not have any title page as such, "Title Page" means the text near the most prominent appearance of the work's title, preceding the beginning of the body of the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094005Z">
+        <seg>Per opere in formato in cui non sia contemplata esplicitamente la pagina del titolo, con "pagina del titolo" si intende il testo più prossimo alla più evidente simiglianza al titolo dell'opera, precedente l'inizio del corpo del testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33314,8 +33322,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Document," below, refers to any such manual or work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214939Z">
-        <seg>Il "documento", qui di seguito, si riferisce a qualsiasi manuale o opera.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094502Z">
+        <seg>The "Document," below, refers to any such manual or work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47519,6 +47527,39 @@ di creare la propria cartella di configurazione.</seg>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">Any member of the public is a licensee, and is addressed as "you." You accept the license if you copy, modify or distribute the work in a way requiring permission under copyright law.</prop>
+      <prop type="next">A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</prop>
+      <tuv lang="EN">
+        <seg>A "Modified Version" of the Document means any work containing the Document or a portion of it, either copied verbatim, or with modifications and/or translated into another language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094610Z">
+        <seg>A "Modified Version" of the Document means any work containing the Document or a portion of it, either copied verbatim, or with modifications and/or translated into another language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">1.</prop>
+      <prop type="next">This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</prop>
+      <tuv lang="EN">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094335Z">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">The "Document," below, refers to any such manual or work.</prop>
+      <prop type="next">A "Modified Version" of the Document means any work containing the Document or a portion of it, either copied verbatim, or with modifications and/or translated into another language.</prop>
+      <tuv lang="EN">
+        <seg>Any member of the public is a licensee, and is addressed as "you." You accept the license if you copy, modify or distribute the work in a way requiring permission under copyright law.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094549Z">
+        <seg>Any member of the public is a licensee, and is addressed as "you." You accept the license if you copy, modify or distribute the work in a way requiring permission under copyright law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">Appendix B</prop>
       <prop type="next">0.</prop>
       <tuv lang="EN">
@@ -47526,6 +47567,105 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T092857Z">
         <seg>GNU Free Documentation License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</prop>
+      <prop type="next">We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</prop>
+      <tuv lang="EN">
+        <seg>It complements the GNU General Public License, which is a copyleft license designed for free software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094234Z">
+        <seg>It complements the GNU General Public License, which is a copyleft license designed for free software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">0.</prop>
+      <prop type="next">The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</prop>
+      <tuv lang="EN">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094147Z">
+        <seg>Preamble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</prop>
+      <prop type="next">This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</prop>
+      <tuv lang="EN">
+        <seg>Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094215Z">
+        <seg>Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</prop>
+      <prop type="next">The "Document," below, refers to any such manual or work.</prop>
+      <tuv lang="EN">
+        <seg>Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094439Z">
+        <seg>Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">Preamble</prop>
+      <prop type="next">Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</prop>
+      <tuv lang="EN">
+        <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094159Z">
+        <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">APPLICABILITY AND DEFINITIONS</prop>
+      <prop type="next">Such a notice grants a world-wide, royalty-free license, unlimited in duration, to use that work under the conditions stated herein.</prop>
+      <tuv lang="EN">
+        <seg>This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094342Z">
+        <seg>This License applies to any manual or other work, in any medium, that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</prop>
+      <prop type="next">It complements the GNU General Public License, which is a copyleft license designed for free software.</prop>
+      <tuv lang="EN">
+        <seg>This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094226Z">
+        <seg>This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">It complements the GNU General Public License, which is a copyleft license designed for free software.</prop>
+      <prop type="next">But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book.</prop>
+      <tuv lang="EN">
+        <seg>We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094243Z">
+        <seg>We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book.</prop>
+      <prop type="next">1.</prop>
+      <tuv lang="EN">
+        <seg>We recommend this License principally for works whose purpose is instruction or reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094327Z">
+        <seg>We recommend this License principally for works whose purpose is instruction or reference.</seg>
       </tuv>
     </tu>
   </body>
