@@ -4473,24 +4473,24 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;L.&lt;/f0&gt; Preserve all the Invariant Sections of the Document, unaltered in their text and in their titles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T123807Z">
-        <seg>&lt;f0&gt;L.&lt;/f0&gt; Conservare tutte le sezioni invarianti del documento, inalterate nel loro testo e nei loro titoli.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T185859Z">
+        <seg>&lt;f0&gt;L.&lt;/f0&gt; Conserva tutte le sezioni invarianti del documento inalterate nel loro testo e nei loro titoli.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;M.&lt;/f0&gt; Delete any section Entitled "Endorsements." Such a section may not be included in the Modified Version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T132210Z">
-        <seg>&lt;f0&gt;M.&lt;/f0&gt; Eliminare qualsiasi sezione intitolata "Approvazioni". Una tale sezione non può essere inclusa nella versione modificata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T190029Z">
+        <seg>&lt;f0&gt;M.&lt;/f0&gt; Eliminare qualsiasi sezione intitolata "Riconoscimenti". Una tale sezione non può essere inclusa nella versione modificata.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;N.&lt;/f0&gt; Do not retitle any existing section to be Entitled "Endorsements" or to conflict in title with any Invariant Section.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T132304Z">
-        <seg>&lt;f0&gt;N.&lt;/f0&gt; Non rinominare qualsiasi sezione esistente come "Approvazioni" o in conflitto con il titolo di qualsiasi sezione invariante.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T190115Z">
+        <seg>&lt;f0&gt;N.&lt;/f0&gt; Non rinominare qualsiasi sezione esistente come "Riconoscimenti" o in conflitto con il titolo di qualsiasi sezione invariante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4505,8 +4505,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;O.&lt;/f0&gt; Preserve any Warranty Disclaimers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T124307Z">
-        <seg>&lt;f0&gt;O.&lt;/f0&gt; Conservare eventuali esclusioni di garanzia.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T190136Z">
+        <seg>&lt;f0&gt;O.&lt;/f0&gt; Conserva eventuali esclusioni di garanzia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30320,8 +30320,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Section numbers or the equivalent are not considered part of the section titles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T132133Z">
-        <seg>I numeri o gli equivalenti delle sezioni non sono considerati parte dei titoli delle sezioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T185936Z">
+        <seg>I numeri, o equivalenti, delle sezioni non sono considerati parte dei titoli delle sezioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39119,8 +39119,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To do this, add their titles to the list of Invariant Sections in the Modified Version's license notice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T122817Z">
-        <seg>A tale scopo, aggiungere i loro titoli all'elenco delle sezioni invarianti nell'avviso di licenza della versione modificata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T190407Z">
+        <seg>A tale scopo, aggiungi i loro titoli all'elenco delle sezioni invarianti nell'avviso di licenza della versione modificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43798,16 +43798,16 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may add a passage of up to five words as a Front-Cover Text, and a passage of up to 25 words as a Back-Cover Text, to the end of the list of Cover Texts in the Modified Version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T154220Z">
-        <seg>Si può aggiungere un brano fino a cinque parole come 'testo di copertina' e un brano fino a 25 parole come 'testo di retro copertina', alla fine dell'elenco dei testi di copertina nella versione modificata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T190742Z">
+        <seg>Si può aggiungere un brano al più di cinque parole come 'testo di frontespizio' e un brano fino a 25 parole come 'testo di retro copertina', alla fine dell'elenco dei testi di copertina nella versione modificata.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You may add a section Entitled "Endorsements," provided it contains nothing but endorsements of your Modified Version by various parties--for example, statements of peer review or that the text has been approved by an organization as the authoritative definition of a standard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T153830Z">
-        <seg>Si può aggiungere una sezione intitolata "Riconoscimenti", purché non contenga altro che riconoscimenti alla versione modificata da varie parti, ad esempio, le dichiarazioni di revisione o che il testo è stato approvato da un'organizzazione come l'autorevole definizione di uno standard.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T190535Z">
+        <seg>Puoi aggiungere una sezione intitolata "Riconoscimenti", purché non contenga altro che riconoscimenti alla versione modificata da varie parti, ad esempio, le dichiarazioni di revisione o che il testo sia stato approvato da un'organizzazione come l'autorevole definizione di uno standard.</seg>
       </tuv>
     </tu>
     <tu>
