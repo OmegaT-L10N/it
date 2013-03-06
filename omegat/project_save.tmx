@@ -28737,8 +28737,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Refers to OmegaT version: 2.0.0&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T105238Z">
-        <seg>Si riferisce alla versione di OmegaT: 2.5.5_05 &lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T205016Z">
+        <seg>Traduzione marzo 2013
+Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29961,8 +29962,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Screenshots from OmegaT versions: 1.6.0, 2.0.0</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212001Z">
-        <seg>Screenshot da OmegaT versioni: 1.6.0, 2.0.0</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T205120Z">
+        <seg>Screenshot da OmegaT in inglese versioni: 1.6.0, 2.0.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -38342,8 +38343,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is very useful for 1) making sure you don't skip text; 2) checking your work; and 3) putting both source and target text in a font and size that are comfortable for you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212622Z">
-        <seg>Questo è molto utile per 1) fare attenzione a non saltare testo; 2) controllare il vostro lavoro; e 3) mettere testo di origine e di destinazione in un tipo comodo di carattere e dimensione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T205222Z">
+        <seg>Questo è molto utile per 1) fare attenzione a non saltare testo; 2) controllare il vostro lavoro; e 3) mettere testo di origine e di destinazione in dimensione e tipo di carattere comodi.</seg>
       </tuv>
     </tu>
     <tu>
