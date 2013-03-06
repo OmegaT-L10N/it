@@ -7545,8 +7545,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A Front-Cover Text may be at most 5 words, and a Back-Cover Text may be at most 25 words.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190755Z">
-        <seg>Un testo di copertina può essere al massimo di 5 parole, e un testo di retro copertina può essere al massimo 25 parole.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140758Z">
+        <seg>Un testo di frontespizio può essere formato al massimo da 5 parole, e un testo di retro copertina può essere al massimo di 25 parole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18258,8 +18258,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Document does not identify any Invariant Sections then there are none.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T190713Z">
-        <seg>Se il documento non identifica eventuali sezioni invarianti allora non ci ne sono.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140240Z">
+        <seg>Se il documento non identifica eventuali sezioni invarianti allora non ce ne sono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33378,8 +33378,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T204835Z">
-        <seg>I testi di copertina sono alcuni brevi passaggi di testo che sono elencati, come testi di copertina o di retro copertina, nella nota che dice che il documento è rilasciato sotto questa licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140602Z">
+        <seg>I "testi di copertina" sono alcuni brevi brani di testo che sono elencati, come testi di frontespizio o testi di retro copertina, nella nota che indica che il documento è rilasciato sotto questa licenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47648,6 +47648,17 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</prop>
+      <prop type="next">A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</prop>
+      <tuv lang="EN">
+        <seg>A Front-Cover Text may be at most 5 words, and a Back-Cover Text may be at most 25 words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140825Z">
+        <seg>A Front-Cover Text may be at most 5 words, and a Back-Cover Text may be at most 25 words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">7.</prop>
       <prop type="next">32</prop>
       <tuv lang="EN">
@@ -47747,6 +47758,28 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</prop>
+      <prop type="next">The Document may contain zero Invariant Sections.</prop>
+      <tuv lang="EN">
+        <seg>If a section does not fit the above definition of Secondary then it is not allowed to be designated as Invariant.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140212Z">
+        <seg>If a section does not fit the above definition of Secondary then it is not allowed to be designated as Invariant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">The Document may contain zero Invariant Sections.</prop>
+      <prop type="next">The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</prop>
+      <tuv lang="EN">
+        <seg>If the Document does not identify any Invariant Sections then there are none.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140254Z">
+        <seg>If the Document does not identify any Invariant Sections then there are none.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</prop>
       <prop type="next">We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does.</prop>
       <tuv lang="EN">
@@ -47831,6 +47864,39 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135542Z">
         <seg>TRANSLATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">If the Document does not identify any Invariant Sections then there are none.</prop>
+      <prop type="next">A Front-Cover Text may be at most 5 words, and a Back-Cover Text may be at most 25 words.</prop>
+      <tuv lang="EN">
+        <seg>The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140630Z">
+        <seg>The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</prop>
+      <prop type="next">If a section does not fit the above definition of Secondary then it is not allowed to be designated as Invariant.</prop>
+      <tuv lang="EN">
+        <seg>The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140148Z">
+        <seg>The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">If a section does not fit the above definition of Secondary then it is not allowed to be designated as Invariant.</prop>
+      <prop type="next">If the Document does not identify any Invariant Sections then there are none.</prop>
+      <tuv lang="EN">
+        <seg>The Document may contain zero Invariant Sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140227Z">
+        <seg>The Document may contain zero Invariant Sections.</seg>
       </tuv>
     </tu>
     <tu>
