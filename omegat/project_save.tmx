@@ -7513,8 +7513,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T205127Z">
-        <seg>Una copia "trasparente" del documento indica una copia leggibile, rappresentata in un formato la cui specifica è disponibile al pubblico in generale, che è adatta per una revisione del documento semplicemente con un editor di testo generico o (per immagini composte di pixel) generici programmi di disegno o (per la grafica) alcuni editor di grafica ampiamente disponibili e adatti per l'ingresso di formattatori di testo o per la traduzione automatica in una varietà di formati adatti per l'input di formattatori di testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T141427Z">
+        <seg>Una copia "trasparente" del documento indica una copia leggibile, rappresentata in un formato la cui specifica è disponibile al pubblico in genere, adatta per la revisione del documento semplicemente con un editor di testo generico o (per immagini composte da pixel) con generici programmi di disegno o (per la grafica) alcuni editor di grafica ampiamente disponibili e adatti per l'ingresso ini formattatori di testo o per la traduzione automatica, in una varietà di formati adatti per l'input in formattatori di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,8 +7609,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T205308Z">
-        <seg>Una copia fatta in un formato di file altrimenti trasparente in cui il markup o l'assenza di markup, è stato organizzato per ostacolare o scoraggiare la successiva modifica da parte dei lettori, non è trasparente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T141932Z">
+        <seg>Una copia fatta in un formato di file altrimenti trasparente la cui marcatura (markup), o l'assenza di marcatura, è stata organizzata per intralciare o scoraggiare modifiche future da parte dei lettori non è trasparente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9054,8 +9054,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>An image format is not Transparent if used for any substantial amount of text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215014Z">
-        <seg>Un formato immagine non è trasparente se usato per qualsiasi quantità notevole di testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T142105Z">
+        <seg>Un formato immagine non è trasparente se usato per quantità notevoli di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47648,6 +47648,17 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">A Front-Cover Text may be at most 5 words, and a Back-Cover Text may be at most 25 words.</prop>
+      <prop type="next">A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</prop>
+      <tuv lang="EN">
+        <seg>A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T141445Z">
+        <seg>A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.</prop>
       <prop type="next">A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</prop>
       <tuv lang="EN">
@@ -47655,6 +47666,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T140825Z">
         <seg>A Front-Cover Text may be at most 5 words, and a Back-Cover Text may be at most 25 words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, that is suitable for revising the document straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters.</prop>
+      <prop type="next">An image format is not Transparent if used for any substantial amount of text.</prop>
+      <tuv lang="EN">
+        <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T142024Z">
+        <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47688,6 +47710,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094335Z">
         <seg>APPLICABILITY AND DEFINITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</prop>
+      <prop type="next">A copy that is not "Transparent" is called "Opaque."</prop>
+      <tuv lang="EN">
+        <seg>An image format is not Transparent if used for any substantial amount of text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T142119Z">
+        <seg>An image format is not Transparent if used for any substantial amount of text.</seg>
       </tuv>
     </tu>
     <tu>
