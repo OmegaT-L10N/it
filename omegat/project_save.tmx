@@ -2383,6 +2383,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>30</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095141Z">
+        <seg>30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184546Z">
@@ -4395,6 +4403,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130304T124504Z">
         <seg>&lt;f0&gt;J.&lt;/f0&gt; mantenere il percorso di rete, se esiste, fornito nel documento per &lt;t1/&gt; il pubblico accesso alla copia trasparente del documento e allo stesso modo i percorsi di rete forniti nel documento per le versioni precedenti sulle quali era basato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;J.&lt;/f0&gt; Preserve the network location, if any, given in the Document for public access to a Transparent copy of the Document, and likewise the network locations given in the Document for previous versions it was based on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094957Z">
+        <seg>&lt;f0&gt;J.&lt;/f0&gt; mantenere il percorso di rete, se esiste, fornito nel documento per  il pubblico accesso alla copia trasparente del documento e allo stesso modo i percorsi di rete forniti nel documento per le versioni precedenti sulle quali era basato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7569,8 +7585,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A copy of the license is included in the section entitled "GNU Free Documentation License."</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170839Z">
-        <seg>Una copia della licenza è inclusa nella sezione intitolata "GNU Free Documentation License."</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095332Z">
+        <seg>Una copia della licenza è inclusa nella sezione intitolata "GNU Free Documentation License." A copy of the license is included in the section entitled "GNU Free Documentation License."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9236,6 +9252,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any other attempt to copy, modify, &lt;t0/&gt;sublicense or distribute the Document is void, and will automatically terminate your rights under this License.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095127Z">
+        <seg>Qualsiasi altro tentativo di copiare, modificare, &lt;t0/&gt;sub-licenziare o distribuire il documento, è nullo e farà decadere automaticamente i diritti concessi dalla presente licenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any other attempt to copy, modify, sublicense or distribute the Document is void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130304T090846Z">
@@ -9278,8 +9302,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Appendix</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172116Z">
-        <seg>Appendice</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095516Z">
+        <seg>Appendice A</seg>
       </tuv>
     </tu>
     <tu>
@@ -27324,8 +27348,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230231Z">
-        <seg>È concesso il permesso di copiare, distribuire e/o modificare questo documento secondo i termini della GNU Free Documentation License, versione 1.2 o qualsiasi versione successiva, pubblicata dalla Free Software Foundation; senza sezioni non modificabili, nessun testo di copertina ne  di retro copertina.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095246Z">
+        <seg>È concesso il permesso di copiare, distribuire e/o modificare questo documento secondo i termini della GNU Free Documentation License, versione 1.2 o qualsiasi versione successiva, pubblicata dalla Free Software Foundation; senza sezioni non modificabili, nessun testo di copertina ne  di retro copertina. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43819,6 +43843,14 @@ SourceForge too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may copy and distribute a Modified Version of the Document under the &lt;t0/&gt;conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094858Z">
+        <seg>Si può copiare e distribuire una versione modificata del documento alle &lt;t0/&gt;condizioni dette delle sezioni 2 e 3, purché si rilasci anche la versione modificata con esattamente questa licenza, con la versione modificata  che ricopre il ruolo di documento, quindi con licenza di distribuzione e di modifica della versione modificata per chiunque possieda una copia di essa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may copy and distribute a Modified Version of the Document under the conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130304T083249Z">
@@ -43879,6 +43911,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T202949Z">
         <seg>Si può includere una traduzione di questa licenza, e tutti gli avvisi della licenza nel documento e le eventuali esclusioni di garanzia, a condizione che si includa anche la &lt;t0/&gt; versione originale inglese di questa licenza e le versioni originali di quegli avvisi e rinunce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may include a translation of this License, and all the license notices in the Document, and any Warranty Disclaimers, provided that you also include the original English version of this License and the original versions of those notices and disclaimers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095102Z">
+        <seg>Si può includere una traduzione di questa licenza, e tutti gli avvisi della licenza nel documento e le eventuali esclusioni di garanzia, a condizione che si includa anche la versione originale inglese e le versioni originali di quegli avvisi e rinunce.</seg>
       </tuv>
     </tu>
     <tu>
