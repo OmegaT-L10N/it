@@ -7633,8 +7633,9 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A copy of the license is included in the section entitled "GNU Free Documentation License."</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095332Z">
-        <seg>Una copia della licenza è inclusa nella sezione intitolata "GNU Free Documentation License." A copy of the license is included in the section entitled "GNU Free Documentation License."</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T155241Z">
+        <seg>Una copia della licenza è inclusa nella sezione intitolata "GNU Free Documentation License." 
+The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </seg>
       </tuv>
     </tu>
     <tu>
@@ -9350,8 +9351,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Appendix</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095516Z">
-        <seg>Appendice A</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T155249Z">
+        <seg>Appendice</seg>
       </tuv>
     </tu>
     <tu>
@@ -16330,8 +16331,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>GNU Free Documentation License</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172618Z">
-        <seg>Licenza GNU Free Documentation</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T155256Z">
+        <seg>GNU Free Documentation License</seg>
       </tuv>
     </tu>
     <tu>
