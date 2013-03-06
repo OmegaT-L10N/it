@@ -10489,6 +10489,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>COLLECTIONS OF DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T150423Z">
+        <seg>RACCOLTE DI DOCUMENTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>COMBINING DOCUMENTS</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172009Z">
@@ -19342,6 +19350,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you publish or distribute Opaque copies of the Document numbering more than 100, you must either include a machine-readable Transparent copy along with each Opaque copy, or state in or with each Opaque copy a computer-network location from which the general network-using public has access to download using public-standard network protocols a complete Transparent copy of the Document, free of added material.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T150840Z">
+        <seg>Se si pubblichi o distribuisci copie opache del documento in numero maggiore di 100, è necessario o includere una copia trasparente leggibile per ogni copia opaca o dichiarare su/con ogni copia opaca un indirizzo di un computer/percorso di rete a cui il pubblico ha accesso per scaricare, tramite rete e utilizzando protocolli di rete standard  una copia trasparente completa del documento, privo di materiale aggiunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you publish printed copies (or copies in media that commonly have printed covers) of the Document, numbering more than 100, and the Document's license notice requires Cover Texts, you must enclose the copies in covers that carry, clearly and legibly, all these Cover Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on the back cover.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T144953Z">
@@ -19416,8 +19432,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you use the latter option, you must take reasonably prudent steps, when you begin distribution of Opaque copies in quantity, to ensure that this Transparent copy will remain thus accessible at the stated location until at least one year after the last time you distribute an Opaque copy (directly or through your agents or retailers) of that edition to the public.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T082733Z">
-        <seg>Se si utilizza quest'ultima l'opzione è necessario usare ragionevole cautela, quando si inizia la distribuzione di copie opache in quantità, che questa copia trasparente rimanga accessibile nella posizione indicata fino a un anno dopo l'ultima volta che si è distribuita al pubblico (direttamente o tramite agenti o rivenditori) una copia opaca di quella edizione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T151010Z">
+        <seg>Se utilizzi quest'ultima l'opzione è necessario usare ragionevole cautela, quando inizi la distribuzione di copie opache in quantità, che questa copia trasparente rimanga accessibile nella posizione indicata fino a un anno dopo l'ultima volta che si è distribuita al pubblico (direttamente o tramite agenti o rivenditori) una copia opaca di quella edizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43797,8 +43813,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may add other material on the covers in addition.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T080049Z">
-        <seg>Sulle copertine si può anche aggiungere altro materiale.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T150446Z">
+        <seg>Sulle copertine puoi anche aggiungere altro materiale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43885,8 +43901,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may copy and distribute a Modified Version of the Document under the &lt;t0/&gt;conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094858Z">
-        <seg>Si può copiare e distribuire una versione modificata del documento alle &lt;t0/&gt;condizioni dette delle sezioni 2 e 3, purché si rilasci anche la versione modificata con esattamente questa licenza, con la versione modificata  che ricopre il ruolo di documento, quindi con licenza di distribuzione e di modifica della versione modificata per chiunque possieda una copia di essa.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T151053Z">
+        <seg>Puoi copiare e distribuire una versione modificata del documento alle &lt;t0/&gt;condizioni dette delle sezioni 2 e 3, purché rilasci anche la versione modificata con esattamente questa licenza, con la versione modificata  che ricopre il ruolo di documento, quindi con licenza di distribuzione e di modifica della versione modificata per chiunque possieda una copia di essa.</seg>
       </tuv>
     </tu>
     <tu>
