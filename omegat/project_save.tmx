@@ -9311,8 +9311,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Any other attempt to copy, modify, sublicense or distribute the Document is void, and will automatically terminate your rights under this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T090846Z">
-        <seg>Qualsiasi altro tentativo di copiare, modificare, sub-licenziare o distribuire il documento, è nullo e farà decadere automaticamente i diritti concessi dalla presente licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T201933Z">
+        <seg>Qualsiasi altro tentativo di copiare, modificare, attribuire un'altra licenza o distribuire il documento, è nullo e farà decadere automaticamente i diritti concessi dalla presente licenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17518,8 +17518,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, parties who have received copies, or rights, from you under this License will not have their licenses terminated so long as such parties remain in full compliance.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T090948Z">
-        <seg>Tuttavia, le parti che hanno ricevuto copie, o diritti, da voi sotto questa licenza non avranno annullate le loro licenze fintanto che tali parti ne resteranno nel pieno rispetto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T201957Z">
+        <seg>Tuttavia, le parti che hanno ricevuto copie, o diritti, da voi nei limiti di questa licenza non avranno annullate le loro licenze fintanto che tali parti ne resteranno nel pieno rispetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17871,8 +17871,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a section in the Document is Entitled "Acknowledgements," "Dedications," or "History," the requirement (section 4) to Preserve its Title (section 1) will typically require changing the actual title.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211049Z">
-        <seg>Se una sezione del documento è intitolata "Riconoscimenti", "Dediche", o "Storia", il requisito (sezione 4) di conservare il suo titolo (sezione 1), richiederà tipicamente di cambiare il titolo effettivo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T201712Z">
+        <seg>Se una sezione del documento è intitolata "Riconoscimenti", "Dediche", o "Storia", l'obbligo (sezione 4) di conservare il suo titolo (sezione 1), richiederà tipicamente di cambiare il titolo stesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18267,16 +18267,16 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Document does not specify a version number of this License, you may choose any version ever published (not as a draft) by the Free Software Foundation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210334Z">
-        <seg>Se il documento non specifica un numero di versione di questa licenza, si può scegliere qualsiasi versione mai pubblicata (non come bozza) dalla Free Software Foundation.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T202329Z">
+        <seg>Se il documento non specifica un numero di versione di questa licenza, puoi scegliere qualsiasi versione mai pubblicata (non come bozza) dalla Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the Document specifies that a particular numbered version of this License "or any later version" applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T203656Z">
-        <seg>Se il documento specifica che una particolare versione numerata di questa licenza, "or any later version" si applica ad esso, avete l'opzione di seguire i termini e le condizioni sia della versione specificata sia di qualsiasi versione successiva che è stata pubblicata (non come bozza) dalla Free Software Foundation.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T202222Z">
+        <seg>Se il documento specifica che una particolare versione numerata di questa licenza, o una versione successiva (or any later version) si applica ad esso, puoi seguire i termini e le condizioni sia della versione specificata che di qualsiasi versione successiva che sia stata pubblicata (non come bozza) dalla Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30384,8 +30384,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See &lt;a0&gt;http://www.gnu.org/copyleft/&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064340Z">
-        <seg>Vedere &lt;a0&gt;http://www.gnu.org/copyleft/&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T202117Z">
+        <seg>Vedi &lt;a0&gt;http://www.gnu.org/copyleft/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32530,8 +32530,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210452Z">
-        <seg>Tali nuove versioni saranno simili nello spirito alla versione attuale, ma possono differire nei dettagli per affrontare nuovi problemi o preoccupazioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T202043Z">
+        <seg>Tali nuove versioni saranno simili nello spirito alla versione attuale, ma possono differire nei dettagli per affrontare nuovi problemi o concetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32642,8 +32642,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>TERMINATION</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T173043Z">
-        <seg>TERMINAZIONE</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T201759Z">
+        <seg>LIMITI</seg>
       </tuv>
     </tu>
     <tu>
@@ -43966,8 +43966,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may include a translation of this License, and all the license notices in the Document, and any Warranty Disclaimers, provided that you also include the &lt;t0/&gt;original English version of this License and the original versions of those notices and disclaimers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T202949Z">
-        <seg>Si può includere una traduzione di questa licenza, e tutti gli avvisi della licenza nel documento e le eventuali esclusioni di garanzia, a condizione che si includa anche la &lt;t0/&gt; versione originale inglese di questa licenza e le versioni originali di quegli avvisi e rinunce.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T201549Z">
+        <seg>Si può includere una traduzione di questa licenza, e di tutti gli avvisi della licenza nel documento e le eventuali esclusioni di garanzia, a condizione che si includa anche la &lt;t0/&gt; versione originale inglese di questa licenza e le versioni originali di quegli avvisi delle rinunce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43990,8 +43990,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may not copy, modify, sublicense, or distribute the Document except as expressly provided for under this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T090808Z">
-        <seg>Non si possono copiare, modificare, sub-licenziare o distribuire il documento tranne come espressamente previsto da questa licenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T201855Z">
+        <seg>Non puoi copiare, modificare, attribuire un'altra licenza o distribuire il documento tranne come espressamente previsto da questa licenza.</seg>
       </tuv>
     </tu>
     <tu>
