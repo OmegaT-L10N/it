@@ -9228,6 +9228,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any member of the public is a licensee, and is addressed as "you." You accept the license if you copy, modify or distribute the work in a way requiring permission under copyright law.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T093124Z">
+        <seg>Qualsiasi membro del pubblico è un licenziatario e gli si rivolge con "tu". Tu accetti la &lt;t0/&gt; licenza se copi, modifichi o distribuisci il lavoro in un modo che richieda autorizzazione ai sensi del diritto d'autore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any other attempt to copy, modify, sublicense or distribute the Document is void, and will automatically terminate your rights under this License.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130304T090846Z">
@@ -9272,6 +9280,22 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172116Z">
         <seg>Appendice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix A</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T093032Z">
+        <seg>Appendice A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix B</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T092802Z">
+        <seg>Appendice B</seg>
       </tuv>
     </tu>
     <tu>
@@ -47493,5 +47517,16 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">Appendix B</prop>
+      <prop type="next">0.</prop>
+      <tuv lang="EN">
+        <seg>GNU Free Documentation License</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T092857Z">
+        <seg>GNU Free Documentation License</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
