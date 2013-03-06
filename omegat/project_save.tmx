@@ -1162,8 +1162,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(Here XYZ stands for a specific section name mentioned below, such as "Acknowledgements," "Dedications," "Endorsements," or "History.") To "Preserve the Title" of such a section when you modify the Document means that it remains a section "Entitled XYZ" according to this definition.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215028Z">
-        <seg>(Qui XYZ sta per un nome specifico sezione menzionato sotto, come ad esempio "Riconoscimenti", "Dediche", "Specializzazioni", o "Storia".) A "Preservare il titolo" di una tale sezione quando si modifica il documento significa che essa rimane una sezione "Intitolata XYZ" secondo questa definizione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T160735Z">
+        <seg>(Qui XYZ sta per un nome specifico sezione menzionato sotto, come ad esempio "Riconoscimenti", "Dediche", "Specializzazioni", o "Storia".) "Preservare il titolo" di una tale sezione quando si modifica il documento significa che essa rimane una sezione "Intitolata XYZ" secondo questa definizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17566,8 +17566,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, you may accept compensation in exchange for copies.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T210452Z">
-        <seg>Tuttavia, si possono ricavare compensi per le copie fornite.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T160825Z">
+        <seg>Tuttavia, puoi ricavare compensi per le copie fornite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18491,8 +18491,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the required texts for either cover are too voluminous to fit legibly, you should put the first ones listed (as many as fit reasonably) on the actual cover, and continue the rest onto adjacent pages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T081023Z">
-        <seg>Se il testo richiesto per le copertine è troppo lungo per essere ivi riprodotto in modo leggibile, si dovrebbe mettere la prima parte (fino a quanto ragionevolmente ci può stare) in copertina, e continuare nelle pagine immediatamente seguenti.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T161118Z">
+        <seg>Se il testo richiesto per le copertine è troppo lungo per essere ivi riprodotto in modo leggibile, dovresti mettere la prima parte (fino a quanto ragionevolmente ci può stare) in copertina, e continuare nelle pagine immediatamente seguenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19005,8 +19005,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you distribute a large enough number of copies you must also follow the conditions in section 3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T215050Z">
-        <seg>Se si distribuisce un numero abbastanza grande di copie è necessario seguire anche le condizioni nella sezione 3.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T160842Z">
+        <seg>Se distribuisci un numero abbastanza grande di copie è necessario seguire anche le condizioni nella sezione 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19345,8 +19345,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you publish or distribute Opaque copies of the Document numbering more than 100, you must either include a machine-readable Transparent copy along with each Opaque copy, or state in or with each Opaque copy a computer-&lt;t0/&gt;network location from which the general network-using public has access to download using public-standard network protocols a complete Transparent copy of the Document, free of added material.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T082221Z">
-        <seg>Se si pubblicano o distribuiscono copie opache del documento in numero maggiore di 100, è necessario o includere una copia trasparente leggibile per ogni copia opaca o dichiarare su/con ogni copia opaca un sito computer - &lt;t0/&gt; percorso di rete a cui il pubblico tramite rete ha accesso per scaricare utilizzando protocolli di rete standard una copia trasparente completa del documento, privo di materiale aggiunto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T161228Z">
+        <seg>Se pubblichi o distribuisci copie opache del documento in numero maggiore di 100, devi o includere una copia trasparente leggibile per ogni copia opaca o dichiarare su/con ogni copia opaca un sito computer - &lt;t0/&gt; percorso di rete a cui il pubblico tramite rete ha accesso per scaricare utilizzando protocolli di rete standard una copia trasparente completa del documento, privo di materiale aggiunto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19361,8 +19361,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you publish printed copies (or copies in media that commonly have printed covers) of the Document, numbering more than 100, and the Document's license notice requires Cover Texts, you must enclose the copies in covers that carry, clearly and legibly, all these Cover Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on the back cover.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T144953Z">
-        <seg>Se pubblichi delle copie stampate del documento (o copie su supporti che comunemente hanno anche copertine stampate), in numero maggiore di 100, e l'avviso di licenza del documento richiede testi di copertina, è necessario racchiudere le copie in coperture che trasportano, in modo chiaro e leggibile, tutti questi testi copertina: copertina testi sulla copertina e testi di copertina sul retro di copertina.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T160944Z">
+        <seg>Se pubblichi delle copie stampate del documento (o copie su supporti che comunemente hanno anche copertine stampate), in numero maggiore di 100, e l'avviso di licenza del documento richiede testi di copertina, devi racchiudere le copie in coperture che trasportano, in modo chiaro e leggibile, tutti questi testi copertina: copertina testi sulla copertina e testi di copertina sul retro di copertina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19433,8 +19433,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you use the latter option, you must take reasonably prudent steps, when you begin distribution of Opaque copies in quantity, to ensure that this Transparent copy will remain thus accessible at the stated location until at least one year after the last time you distribute an Opaque copy (directly or through your agents or retailers) of that edition to the public.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T151010Z">
-        <seg>Se utilizzi quest'ultima l'opzione è necessario usare ragionevole cautela, quando inizi la distribuzione di copie opache in quantità, che questa copia trasparente rimanga accessibile nella posizione indicata fino a un anno dopo l'ultima volta che si è distribuita al pubblico (direttamente o tramite agenti o rivenditori) una copia opaca di quella edizione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T161345Z">
+        <seg>Se utilizzi quest'ultima opzione devi usare ragionevole cautela, quando inizi la distribuzione di copie opache in quantità, affinché la relativa copia trasparente rimanga accessibile nella posizione indicata fino a un anno dopo l'ultima volta che si è distribuita al pubblico (direttamente o tramite agenti o rivenditori) una copia opaca di quella edizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35216,8 +35216,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The front cover must present the full title with all words of the title equally prominent and visible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T075945Z">
-        <seg>La copertina anteriore deve presentare il titolo completo con tutte le parole del titolo in modo altrettanto evidente e visibile.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T161041Z">
+        <seg>Il frontespizio deve presentare il titolo completo con tutte le parole del titolo in modo altrettanto evidente e visibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36037,8 +36037,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T153919Z">
-        <seg>Lo scopo di questa licenza è di rendere un manuale, libro di testo o altri documenti funzionali e utili "gratuiti" nel senso di: garantire a tutti la libertà effettiva di usarlo e distribuirlo, con o senza modifiche, commercialmente o non.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T160703Z">
+        <seg>Lo scopo di questa licenza è di rendere un manuale, libro di testo o altri documenti funzionali e utili "gratuiti" nel senso di: garantire a tutti la libertà effettiva di usarlo e distribuirlo, con o senza modifiche, commercialmente o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43846,8 +43846,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may also lend copies, under the same conditions stated above, and you may publicly display copies.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T074922Z">
-        <seg>Si possono anche prestare copie, sotto le stesse condizioni di cui sopra, e si possono visualizzare pubblicamente copie.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T160918Z">
+        <seg>Puoi anche prestare copie, sotto le stesse condizioni di cui sopra, e si possono visualizzare pubblicamente copie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43918,8 +43918,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may copy and distribute the Document in any medium, either commercially or noncommercially, provided that this License, the copyright notices, and the license notice saying this License applies to the Document are reproduced in all copies, and that you add no other conditions whatsoever to those of this License.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T210225Z">
-        <seg>Si può copiare e distribuire il documento con qualsiasi mezzo, per fini di lucro o non, a condizione che questa licenza, le note sul copyright e l'avviso che questa licenza si applica al documento, siano riprodotti in tutte le copie, e che non si aggiungano altre condizioni a quelle della licenza stessa.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T160758Z">
+        <seg>Puoi copiare e distribuire il documento con qualsiasi mezzo, per fini di lucro o non, a condizione che questa licenza, le note sul copyright e l'avviso che questa licenza si applica al documento, siano riprodotti in tutte le copie, e che non si aggiungano altre condizioni a quelle della licenza stessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43998,8 +43998,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may not use technical measures to obstruct or control the reading or further copying of the copies you make or distribute.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T210412Z">
-        <seg>Non si possono usare misure tecniche per ostacolare sia la lettura di controllo, sia l'ulteriore copiatura delle copie da fare o distribuire.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T160814Z">
+        <seg>Non puoi usare misure tecniche per ostacolare sia la lettura di controllo, sia l'ulteriore copiatura delle copie da fare o distribuire.</seg>
       </tuv>
     </tu>
     <tu>
