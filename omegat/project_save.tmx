@@ -47681,6 +47681,17 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">An image format is not Transparent if used for any substantial amount of text.</prop>
+      <prop type="next">Examples of suitable formats for Transparent copies include plain ASCII without markup, Texinfo input format, LaTeX input format, SGML or XML using a publicly available DTD, and standard-conforming simple HTML, PostScript or PDF designed for human modification.</prop>
+      <tuv lang="EN">
+        <seg>A copy that is not "Transparent" is called "Opaque."</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T142200Z">
+        <seg>A copy that is not "Transparent" is called "Opaque."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">7.</prop>
       <prop type="next">32</prop>
       <tuv lang="EN">
