@@ -18251,8 +18251,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Document already includes a cover text for the same cover, previously added by you or by arrangement made by the same entity you are acting on behalf of, you may not add another; but you may replace the old one, on explicit permission from the previous publisher that added the old one.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T155406Z">
-        <seg>Se il documento include già un 'testo di copertina' per la stessa copertina, precedentemente aggiunto da voi o da un accordo fatto con la stessa entità per conto della quale si agisce, non si può aggiungerne un altro, ma si può sostituire quello vecchio, su esplicita autorizzazione dall'editore precedente che ha aggiunto a quello vecchio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T191620Z">
+        <seg>Se il documento include già un testo di copertina per la stessa copertina, precedentemente aggiunto da voi o per un accordo fatto con la stessa ditta per conto della quale si agisce, non se ne può aggiungere un altro, ma si può sostituire quello vecchio, su esplicita autorizzazione dall'editore che lo aveva aggiunto precedentemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18563,8 +18563,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If there are multiple Invariant Sections with the same name but different contents, make the title of each such section unique by adding at the end of it, in parentheses, the name of the original author or publisher of that section if known, or else a unique number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T155841Z">
-        <seg>Se ci sono più sezioni invarianti con lo stesso nome ma con contenuti differenti, rendere unico il titolo di ognuna di tali sezione aggiungendo alla fine di esso, tra parentesi, il nome dell'autore originale o dell'editore di quella sezione, se noti, o altrimenti un numero univoco.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T191818Z">
+        <seg>Se ci sono più sezioni invarianti con lo stesso nome ma con contenuti differenti, rendi unico il titolo di ognuna di tali sezione aggiungendo alla fine di esso, tra parentesi, il nome dell'autore originale o dell'editore di quella sezione, se noti, o altrimenti un numero univoco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23089,8 +23089,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Make the same adjustment to the section titles in the list of Invariant Sections in the license notice of the combined work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T160027Z">
-        <seg>Effettuare la stessa rettifica ai titoli delle sezioni nell'elenco delle sezioni invarianti nella nota di licenza del lavoro combinato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T191833Z">
+        <seg>Effettua la stessa rettifica ai titoli delle sezioni nell'elenco delle sezioni invarianti nella nota di licenza del lavoro combinato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26643,8 +26643,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Only one passage of Front-Cover Text and one of Back-Cover Text may be added by (or through arrangements made by) any one entity.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T154336Z">
-        <seg>Solamente un brano del 'testo di copertina' e uno del 'testo di retro copertina' possono essere aggiunti da (o attraverso accordi con) qualsiasi entità.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T191053Z">
+        <seg>Solamente un brano del testo di frontespizio e uno del testo di retro copertina possono essere aggiunti (magari con adattamenti) da qualsiasi entità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43894,8 +43894,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may combine the Document with other documents released under this License, under the terms defined in section 4 above for modified versions, provided that you include in the combination all of the Invariant Sections of all of the original documents, unmodified, and list them all as Invariant Sections of your combined work in its license notice, and that you preserve all their Warranty Disclaimers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130304T155652Z">
-        <seg>È possibile combinare il documento con altri documenti rilasciati sotto questa licenza, secondo i termini definiti nella precedente sezione 4 per le versioni modificate, purché si includano nella combinazione tutte le sezioni invarianti di tutti i documenti originali, non modificati e si elenchino tutti come sezioni invarianti del nuovo lavoro combinato nella sua nota di licenza, e che si conservino tutte le relative esclusioni di garanzia.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T191759Z">
+        <seg>Puoi combinare il documento con altri documenti rilasciati sotto questa licenza, secondo i termini definiti nella precedente sezione 4 per le versioni modificate, purché tu includa nella combinazione tutte le sezioni invarianti di tutti i documenti originali, non modificati ed elenchi tutte come sezioni invarianti del nuovo lavoro combinato nella nota di licenza, e che si conservi tutte le relative esclusioni di garanzia.</seg>
       </tuv>
     </tu>
     <tu>
