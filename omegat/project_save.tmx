@@ -36034,14 +36034,6 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103652Z">
-        <seg>Lo scopo di questa licenza è di rendere un manuale, libro di testo o altri documenti funzionali e utili "gratuiti" nel senso di: garantire a tutti la libertà effettiva di usarlo e distribuirlo, con o senza modifiche, commercialmente o non.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T215406Z">
@@ -47744,17 +47736,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
-      <prop type="prev">0.</prop>
-      <prop type="next">The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</prop>
-      <tuv lang="EN">
-        <seg>Preamble</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T150139Z">
-        <seg>Preamble</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">9.</prop>
       <prop type="next">32</prop>
       <tuv lang="EN">
@@ -47773,6 +47754,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135542Z">
         <seg>TRANSLATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">Preamble</prop>
+      <prop type="next">Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</prop>
+      <tuv lang="EN">
+        <seg>The purpose of this License is to make a manual, textbook, or other functional and useful document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T151633Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
