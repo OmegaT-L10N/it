@@ -2225,6 +2225,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135207Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>19</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184628Z">
@@ -2335,6 +2343,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>27</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135305Z">
+        <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>29</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135422Z">
+        <seg>29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184537Z">
@@ -2387,6 +2411,30 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T095141Z">
         <seg>30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>31</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135511Z">
+        <seg>31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>32</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135519Z">
+        <seg>32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>33</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135604Z">
+        <seg>33</seg>
       </tuv>
     </tu>
     <tu>
@@ -9318,8 +9366,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Appendix B</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T092802Z">
-        <seg>Appendice B</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135317Z">
+        <seg>Appendix B</seg>
       </tuv>
     </tu>
     <tu>
@@ -10443,8 +10491,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>COLLECTIONS OF DOCUMENTS</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172907Z">
-        <seg>COLLEZIONE DI DOCUMENTI</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135518Z">
+        <seg>COLLECTIONS OF DOCUMENTS</seg>
       </tuv>
     </tu>
     <tu>
@@ -47567,6 +47615,17 @@ di creare la propria cartella di configurazione.</seg>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</prop>
+      <prop type="next">The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.</prop>
+      <tuv lang="EN">
+        <seg>(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135858Z">
+        <seg>(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">Any member of the public is a licensee, and is addressed as "you." You accept the license if you copy, modify or distribute the work in a way requiring permission under copyright law.</prop>
       <prop type="next">A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</prop>
       <tuv lang="EN">
@@ -47574,6 +47633,39 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094610Z">
         <seg>A "Modified Version" of the Document means any work containing the Document or a portion of it, either copied verbatim, or with modifications and/or translated into another language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">A "Modified Version" of the Document means any work containing the Document or a portion of it, either copied verbatim, or with modifications and/or translated into another language.</prop>
+      <prop type="next">(Thus, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.</prop>
+      <tuv lang="EN">
+        <seg>A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135844Z">
+        <seg>A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">7.</prop>
+      <prop type="next">32</prop>
+      <tuv lang="EN">
+        <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135533Z">
+        <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">1.</prop>
+      <prop type="next">27</prop>
+      <tuv lang="EN">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135409Z">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -47600,6 +47692,50 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">5.</prop>
+      <prop type="next">31</prop>
+      <tuv lang="EN">
+        <seg>COMBINING DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135508Z">
+        <seg>COMBINING DOCUMENTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">3.</prop>
+      <prop type="next">29</prop>
+      <tuv lang="EN">
+        <seg>COPYING IN QUANTITY</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135436Z">
+        <seg>COPYING IN QUANTITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">10.</prop>
+      <prop type="next">33</prop>
+      <tuv lang="EN">
+        <seg>FUTURE REVISIONS OF THIS LICENSE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135601Z">
+        <seg>FUTURE REVISIONS OF THIS LICENSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">27</prop>
+      <prop type="next">27</prop>
+      <tuv lang="EN">
+        <seg>GNU Free Documentation License</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135331Z">
+        <seg>GNU Free Documentation License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">Appendix B</prop>
       <prop type="next">0.</prop>
       <tuv lang="EN">
@@ -47618,6 +47754,28 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094234Z">
         <seg>It complements the GNU General Public License, which is a copyleft license designed for free software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">4.</prop>
+      <prop type="next">29</prop>
+      <tuv lang="EN">
+        <seg>MODIFICATIONS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135444Z">
+        <seg>MODIFICHE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">0.</prop>
+      <prop type="next">27</prop>
+      <tuv lang="EN">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135350Z">
+        <seg>Preamble</seg>
       </tuv>
     </tu>
     <tu>
@@ -47655,6 +47813,28 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">9.</prop>
+      <prop type="next">32</prop>
+      <tuv lang="EN">
+        <seg>TERMINATION</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135550Z">
+        <seg>TERMINATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">8.</prop>
+      <prop type="next">32</prop>
+      <tuv lang="EN">
+        <seg>TRANSLATION</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135542Z">
+        <seg>TRANSLATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
       <prop type="prev">Preamble</prop>
       <prop type="next">Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.</prop>
       <tuv lang="EN">
@@ -47684,6 +47864,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094226Z">
         <seg>This License is a kind of "copyleft," which means that derivative works of the document must themselves be free in the same sense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Copia di OmegaT for Beginners 2 append.odt</prop>
+      <prop type="prev">2.</prop>
+      <prop type="next">29</prop>
+      <tuv lang="EN">
+        <seg>VERBATIM COPYING</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135421Z">
+        <seg>VERBATIM COPYING</seg>
       </tuv>
     </tu>
     <tu>
