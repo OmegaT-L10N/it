@@ -1883,8 +1883,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- clear and comprehensive documentation and tutorial</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20100718T184341Z">
-        <seg>- - documentazione ed esercitazioni chiare ed esaustive</seg>
+      <tuv lang="IT" changeid="valtermura" changedate="20130310T114220Z">
+        <seg>- documentazione ed esercitazioni chiare ed esaustive</seg>
       </tuv>
     </tu>
     <tu>
@@ -2355,14 +2355,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T093953Z">
         <seg>3) Inviare una segnalazione di errore all'indirizzo http://sourceforge.net/projects/omegat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.1</seg>
-      </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130301T094211Z">
-        <seg>3.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -45637,14 +45629,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T095402Z">
         <seg>http://lists.sourceforge.net/mailman/listinfo/omegat-l10n</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
-      </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130301T094354Z">
-        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
