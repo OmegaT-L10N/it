@@ -11610,6 +11610,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact and support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204719Z">
+        <seg>Contatto e supporto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213727Z">
@@ -20943,6 +20951,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introducing OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204528Z">
+        <seg>Introduzione a OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091352Z">
@@ -24975,6 +24991,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204434Z">
+        <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT + You</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204728Z">
+        <seg>OmegaT + Tu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT - User's Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T203325Z">
@@ -26193,6 +26225,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT, the free translation memory tool</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204314Z">
+        <seg>OmegaT, lo strumento gratuito per memorie di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT-Scripting allows to run scripts written in different scripting languages in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T094658Z">
@@ -26967,6 +27007,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T193353Z">
         <seg>Altre icone - Sfoglia, e navigare fino alla sottocartella /images della cartella di programma di &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204626Z">
+        <seg>Altre risorse OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -29288,6 +29336,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204541Z">
+        <seg>Requisiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095046Z">
@@ -29372,6 +29428,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103127Z">
         <seg>Rivedere, passo &lt;/f0&gt; &lt;f1&gt;7.A.1&lt;/f1&gt; &lt;f2&gt; sulla gestione delle tag. &lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204743Z">
+        <seg>Revisioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -32076,6 +32140,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T121837Z">
         <seg>Impostazioni del correttore ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204852Z">
+        <seg>Dizionari ortografici</seg>
       </tuv>
     </tu>
     <tu>
@@ -35152,6 +35224,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The free (GPL) translation memory tool</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204518Z">
+        <seg>lo strumento gratuito (GPL) per memorie di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The front cover must present the full title with all words of the title equally prominent and visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T161041Z">
@@ -37589,6 +37669,22 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T112405Z">
         <seg>Essi appariranno come segmenti separati nella traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party software</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204749Z">
+        <seg>Software da terze parti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204833Z">
+        <seg>Software di terze parti da usare con OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -47093,6 +47189,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T140205Z">
         <seg>traduzione uguale all'originale (predefinita)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation memory tool, OpenOffice, GPL, CAT, computer aided translation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204425Z">
+        <seg>strumento per memorie di traduzione, OpenOffice, GPL, CAT, traduzione aiutata da computer</seg>
       </tuv>
     </tu>
     <tu>
