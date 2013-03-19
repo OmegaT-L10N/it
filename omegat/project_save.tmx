@@ -7543,6 +7543,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T205354Z">
+        <seg>Una suite di utensili esaustiva per preparare file alla traduzione in una applicazione CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A copy made in an otherwise Transparent file format whose markup, or absence of markup, has been arranged to thwart or discourage subsequent modification by readers is not Transparent.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T141932Z">
@@ -16141,6 +16149,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T184103Z">
         <seg>Frammenti da rimuovere dalla traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T205122Z">
+        <seg>Alternative gratuite (compatibili) a Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24951,6 +24967,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T205135Z">
+        <seg>Infrastruttura Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Okapi for Mono&lt;/a0&gt;, &lt;a2&gt;tutorial&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T180033Z">
@@ -26565,6 +26589,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T181811Z">
         <seg>Uno o più problemi citati sopra sono stati risolti ma il progetto non è stato ricaricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204957Z">
+        <seg>Archivi di dizionari ortografici online per utilizzo in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
