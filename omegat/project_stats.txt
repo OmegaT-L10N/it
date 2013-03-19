@@ -1,15 +1,15 @@
-09/03/13 16.22
+19/03/13 21.35
 Statistiche del progetto
 
                  	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	
 Totali:          	    1034	  9843	                  52708	                61245	
-Restanti:        	       0	     0	                      0	                    0	
+Restanti:        	      46	    41	                    749	                  749	
 Univoci:         	     838	  9405	                  49339	                57711	
-Univoci restanti:	       0	     0	                      0	                    0	
+Univoci restanti:	       9	    11	                    143	                  143	
 
 
 Statistiche file singoli:
 
 Nome del file           	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
-OmegaT for Beginners.odt	            696	                0	             535	                        0	         7851	              0	           7470	                       0	                         41377	                               0	                          38864	                                       0	                       48246	                             0	                        45592	                                     0	
-readme.utf8             	            338	                0	             303	                        0	         1992	              0	           1935	                       0	                         11331	                               0	                          10475	                                       0	                       12999	                             0	                        12119	                                     0	
+OmegaT for Beginners.odt	            696	               24	             535	                        6	         7851	             24	           7470	                       6	                         41377	                              48	                          38864	                                      12	                       48246	                            48	                        45592	                                    12	
+readme.utf8             	            338	               22	             303	                        3	         1992	             17	           1935	                       5	                         11331	                             701	                          10475	                                     131	                       12999	                           701	                        12119	                                   131	
