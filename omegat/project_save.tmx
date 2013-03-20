@@ -7858,8 +7858,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>A segmentation function displays one "segment" of source text at a time (usually a sentence), and the translation is done with the source text on the screen next to the target text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231553Z">
-        <seg>Una funzione di segmentazione visualizza un "segmento" alla volta del testo di origine (di solito una frase), e si può fare la traduzione con accostato sullo schermo il testo di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073909Z">
+        <seg>Una funzione di segmentazione espone un "segmento" del testo di origine alla volta (di solito una frase) e, accostato sullo schermo, il testo di destinazione per la traduzione e le modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25609,8 +25609,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is an excellent place to start, as the price is right, it is relatively easy to learn, and it runs on MAC and under Linux, as well as Windows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231757Z">
-        <seg>OmegaT è un ottimo posto per iniziare, come prezzo è giusto :-), è relativamente facile da imparare, e funziona su MAC, sotto Linux e sotto Windows.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073615Z">
+        <seg>OmegaT è un ottimo punto d'inizio, come prezzo è giusto :-), è relativamente facile da imparare, e funziona su MAC, sotto Linux e con Windows. </seg>
       </tuv>
     </tu>
     <tu>
