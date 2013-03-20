@@ -2447,26 +2447,10 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>7.A.1.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184551Z">
-        <seg>7.A.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>7.A.2.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184602Z">
         <seg>7.A.2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>7.A.3.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184553Z">
-        <seg>7.A.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2649,8 +2633,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;Please proceed to Project 2 after completing Project 1!&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183615Z">
-        <seg>&lt;/f2&gt; &lt;f3&gt;Si prega di procedere al progetto 2 dopo aver completato il progetto 1!&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T104023Z">
+        <seg>&lt;/f2&gt; &lt;f3&gt;Si prega di procedere al Progetto 2 dopo aver completato il Progetto 1!&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4385,8 +4369,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Important:&lt;/f0&gt; the purpose of this introduction to OmegaT is to acquaint you with the basic concepts of translation memory software.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081203Z">
-        <seg>&lt;f0&gt;Importante:&lt;/f0&gt; lo scopo di questa introduzione di OmegaT è quello di conoscere i concetti fondamentali di software di memoria di traduzione (Strumenti CAT).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T104042Z">
+        <seg>&lt;f0&gt;Importante:&lt;/f0&gt; lo scopo di questa introduzione di OmegaT è quello di conoscere i concetti fondamentali dei software di memoria di traduzione (Strumenti CAT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8899,8 +8883,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An advantage probably common to all translation memory applications is that they simplify checking: once you have completed the first draft of your translation, you can "walk" through it with the source and target versions of each sentence displayed next to each other.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183820Z">
-        <seg>Un vantaggio probabilmente comune a tutte le applicazioni di memoria di traduzione è che semplificano il controllo: dopo aver completato la prima bozza della vostra traduzione, si può "camminare" attraverso di essa con le versioni di origine e di destinazione di ogni frase visualizzati uno accanto a altro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T104600Z">
+        <seg>Un vantaggio probabilmente comune a tutte le applicazioni di memoria di traduzione è che semplificano il controllo: dopo aver completato la prima bozza della vostra traduzione, si può "camminare" attraverso di essa con le versioni di origine e di destinazione di ogni frase visualizzate una accanto all'altra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20348,8 +20332,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the case of OmegaT, the source is displayed above the target text of the active segment, facilitating &lt;t0/&gt;comparison:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T102416Z">
-        <seg>Nel caso di OmegaT, il testo di partenza del segmento attivo viene visualizzato sopra il testo di destinazione, facilitandone il &lt;t0/&gt;confronto:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T104723Z">
+        <seg>Nel caso di OmegaT, il testo di partenza del segmento attivo viene visualizzato sopra a quello di destinazione, facilitandone il &lt;t0/&gt;confronto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28737,8 +28721,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>References to OmegaT's more advanced or obscure functions have deliberately been omitted or kept to a minimum, since a description of them would almost certainly lead to you, as a new user, being unable to see the forest for the trees.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081455Z">
-        <seg>I riferimenti alle funzioni più avanzate o oscure di OmegaT sono stati deliberatamente omessi o ridotti al minimo, poiché una loro descrizione porterebbe quasi certamente voi, come nuovo utente, a non essere in grado di vedere la foresta, per vedere gli alberi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T104325Z">
+        <seg>I riferimenti alle funzioni più avanzate o oscure di OmegaT sono stati deliberatamente omessi o ridotti al minimo, poiché una loro descrizione porterebbe quasi certamente voi, come nuovo utente, per cercare di vedere gli alberi, a non essere in grado di vedere la foresta.</seg>
       </tuv>
     </tu>
     <tu>
