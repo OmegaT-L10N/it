@@ -7682,8 +7682,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>A more comprehensive User's Manual can be called up with the "Help" menu item or F1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065248Z">
-        <seg>Un manuale più completo può essere richiamato con la voce di menù «Aiuto» o F1.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080628Z">
+        <seg>Il manuale più completo si richiama con la voce di menù «Aiuto» o con F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8354,8 +8354,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>After downloading OmegaT (Windows version), launch the .exe file and follow the on-screen instructions, which should be self-explanatory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100928Z">
-        <seg>Per versione Windows invece, attualmente la 2.5.5_05, dopo aver scaricato OmegaT, lanciare il file OmegaT_2.5.5_05_Windows.exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080325Z">
+        <seg>Per versione Windows invece, attualmente la 2.6.3, dopo aver scaricato OmegaT, lanciare il file OmegaT_2.6.3_Windows.exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8370,8 +8370,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>After launching OmegaT, the main OmegaT window should appear with three panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T101042Z">
-        <seg>Dopo il lancio di OmegaT, dovrebbe apparire la finestra principale di OmegaT con tre riquadri: il riquadro di modifica (Editor), il riquadro delle concordanze parziali (fuzzy) e il riquadro Glossario.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080409Z">
+        <seg>Dopo il lancio di OmegaT, dovrebbe apparire la finestra principale di OmegaT con tre riquadri: il riquadro di modifica (Editor), il riquadro Concordanze parziali (fuzzy) e il riquadro Glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13311,8 +13311,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Download OmegaT (here, version 2.0.0).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100824Z">
-        <seg>Scaricare OmegaT (attualmente, versione 2.5.5_05).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080152Z">
+        <seg>Scaricare OmegaT (attualmente, versione 2.6.3).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15971,8 +15971,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For some languages, it is quite a bit out of date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232022Z">
-        <seg>Per alcune lingue, è proprio datata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080750Z">
+        <seg>Per alcune lingue, è molto datata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17430,8 +17430,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, OpenOffice.org facilitates the use of OmegaT (for example, as stated above, by making it easier to handle Microsoft Office files), and provides further &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;functions useful to translators and unrelated to OmegaT, such as the function &lt;/f3&gt;&lt;f4&gt;for creation of PDF files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231956Z">
-        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come già detto, rendendo più facile gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;funzioni utili per traduttori e indipendenti di OmegaT, come ad esempio la funzione  &lt;/f3&gt;&lt;f4&gt;per la creazione di file .pdf .</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080112Z">
+        <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come già detto, rendendo più facile gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;funzioni utili per traduttori e indipendenti da OmegaT, come ad esempio la funzione  &lt;/f3&gt;&lt;f4&gt;per la creazione di file .pdf .</seg>
       </tuv>
     </tu>
     <tu>
@@ -18243,8 +18243,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065207Z">
-        <seg>Se il riquadro di modifica è vuoto, la lingua di installazione di Windows non è probabilmente l'inglese e OmegaT non dispone della "Guida di avvio rapido" nella tua lingua.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080702Z">
+        <seg>Se il riquadro di modifica è vuoto, la lingua di installazione di Windows non è probabilmente l'inglese e OmegaT non dispone della "Guida di avvio rapido" nella vostra lingua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18882,8 +18882,8 @@ extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you can't see all three panes, drag the borders between them across your screen until they are arranged approximately as shown below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064900Z">
-        <seg>Se non si possono vedere tutti i tre riquadri, trascinare i loro bordi, per lo schermo, fino a quando sono disposti approssimativamente come mostrato di seguito.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080515Z">
+        <seg>Se non si possono vedere tutti e tre i riquadri, trascinare i loro bordi, per lo schermo, fino a quando sono disposti approssimativamente come mostrato più avanti.</seg>
       </tuv>
     </tu>
     <tu>
