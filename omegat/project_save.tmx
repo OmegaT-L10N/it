@@ -12159,8 +12159,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+F calls up a search dialog with which you can search for any term throughout the project, i.e., within the source text and the legacy translation memory files, source segments, and target segments (but not glossary files).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103600Z">
-        <seg>CTRL+F richiama una finestra di dialogo di ricerca con cui è possibile cercare qualsiasi termine nel corso del progetto, cioè, all'interno del testo sorgente e nei file di memoria traduzione eredità, nei segmenti di origine e nei segmenti di arrivo (ma non nei file Glossario).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T110318Z">
+        <seg>CTRL+F richiama una finestra di dialogo di ricerca con cui è possibile cercare qualsiasi termine nel progetto, cioè all'interno del testo sorgente, nei file di memoria di traduzione ereditati, nei segmenti di origine e nei segmenti di arrivo (ma non nei file Glossario).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17230,8 +17230,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Here, the current segment shows a fuzzy match with a segment elsewhere in the project that has already been translated:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163558Z">
-        <seg>Qui, il segmento corrente Mostra una concordanza parziale con un segmento che è stato già tradotto altrove nel progetto:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T105911Z">
+        <seg>Qui, il segmento corrente mostra una concordanza parziale con un segmento che è stato già tradotto altrove nel progetto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42804,8 +42804,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With heavily tagged text, you are likely to find that OmegaT yields numerous spurious fuzzy matches in which only the tags are identical, and which are not therefore useful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103225Z">
-        <seg>Con testo ricco di tag, è probabile trovare che OmegaT produca numerose concordanze parziali spurie, in cui solo i tag sono identici, e che non sono pertanto utili.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T105951Z">
+        <seg>Con testo ricco di tag, è probabile trovare che OmegaT produca numerose concordanze parziali spurie, in cui solo i tag sono identici, e pertanto inutili.</seg>
       </tuv>
     </tu>
     <tu>
