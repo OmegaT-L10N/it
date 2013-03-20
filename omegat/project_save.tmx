@@ -13007,8 +13007,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do not click on &lt;/f0&gt;&lt;f1&gt;"Browse" or otherwise change the default locations of the project folders &lt;/f1&gt;&lt;f2&gt;(directories).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;You have now created an empty project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183536Z">
-        <seg>Non fare clic su &lt;/f0&gt; &lt;f1&gt;"Sfoglia" o altrimenti modificare i percorsi predefiniti delle cartelle progetto &lt;/f1&gt; &lt;f2&gt;(directory).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Ora è stato creato un progetto vuoto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T101246Z">
+        <seg>Non fare clic su &lt;/f0&gt; &lt;f1&gt;"Sfoglia" o altrimenti cambiare i percorsi predefiniti delle cartelle del progetto &lt;/f1&gt; &lt;f2&gt;(directory).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Ora è stato creato un progetto vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36359,8 +36359,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The second project uses an HTML file or set of files, downloaded from the Internet, and demonstrates OmegaT's capability to deal with graphics, &lt;s0/&gt;complex layout, and complex file structure.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080823Z">
-        <seg>Il secondo progetto utilizza un file HTML o una struttura di file scaricati da Internet e dimostra le capacità di OmegaT con la grafica, &lt;s0/&gt; disposizione complesse e strutture di file complessi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T101415Z">
+        <seg>Il secondo progetto utilizza un file HTML o una struttura di file scaricati da Internet e dimostra le capacità di OmegaT con la grafica, &lt;s0/&gt; le disposizioni complesse e le strutture complesse di file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37345,8 +37345,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There you will learn how translation memories, glossaries, and the search function work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T080923Z">
-        <seg>Qui si impara come lavorano le funzioni di ricerca, glossari e memorie di traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T101451Z">
+        <seg>Qui si impara come lavorano le funzioni di ricerca, i glossari e le memorie di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41846,8 +41846,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>We ignore these in Project 1 only for training purposes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081044Z">
-        <seg>Ignoriamo queste nel progetto 1, solo per gli scopi di addestramento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T101541Z">
+        <seg>Ignoriamo queste nel Progetto 1, solo per gli scopi di addestramento.</seg>
       </tuv>
     </tu>
     <tu>
