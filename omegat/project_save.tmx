@@ -7473,8 +7473,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230828Z">
-        <seg>Un strumento per CAT, come il termine è generalmente inteso dai traduttori, è un programma (software) che crea una "memoria di traduzione" (TM) di un documento tradotto. Questa può quindi essere utilizzata per facilitare la traduzione di documenti futuri con notevole somiglianze con i segmenti già tradotti.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T072730Z">
+        <seg>Un strumento per CAT, come il termine è generalmente inteso dai traduttori, è un programma (software) che crea una "memoria di traduzione" (TM) dal documento tradotto. Questa può quindi essere utilizzata per facilitare la traduzione di documenti futuri con notevole somiglianze con i segmenti già tradotti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10420,16 +10420,16 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>CAT tools allow for greater consistency of translation, including when more than one translator is working on a job.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T211536Z">
-        <seg>Gli strumenti CAT consentono una maggiore coerenza della traduzione, anche quando più di un traduttore sta lavorando su un lavoro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073023Z">
+        <seg>Gli strumenti CAT consentono una maggiore coerenza della traduzione, anche quando più di un traduttore sta lavorando sullo stesso materiale.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>CAT tools range in price from free (OmegaT) to $2,500 or more.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212714Z">
-        <seg>Gli strumenti CAT variano nel prezzo da gratis (OmegaT) a 2500 $ o più.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073108Z">
+        <seg>Gli strumenti CAT variano nel prezzo da zero (e.g. OmegaT) a 2500 $ o più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37947,8 +37947,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230506Z">
-        <seg>Questo documento è destinato per i traduttori che non hanno esperienza con strumenti di Computer Assisted Translation (CAT) e tratta solo le nozioni di base.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T072658Z">
+        <seg>Questo documento è destinato ai traduttori che non hanno esperienza con strumenti di Computer Assisted Translation (CAT) e tratta solo le nozioni di base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38407,8 +38407,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is very useful for 1) making sure you don't skip text; 2) checking your work; and 3) putting both source and target text in a font and size that are comfortable for you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T205222Z">
-        <seg>Questo è molto utile per 1) fare attenzione a non saltare testo; 2) controllare il vostro lavoro; e 3) mettere testo di origine e di destinazione in dimensione e tipo di carattere comodi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T072953Z">
+        <seg>Ciò è molto utile per 1) evitare di saltare testo; 2) controllare il lavoro; e 3) visualizzare i testi di origine e di destinazione in dimensioni e tipi di carattere comodi.</seg>
       </tuv>
     </tu>
     <tu>
