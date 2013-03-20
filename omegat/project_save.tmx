@@ -8955,8 +8955,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An example is to create a “dictionaries” folder in your Program Files (Start &gt; My Computer &gt; &lt;s0/&gt;Local Disk (C:) &gt; Program Files &gt; right click &gt; New Folder, name it “dictionaries.”) Then from the OmegaT menu, click Options &gt; Spell checking.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070731Z">
-        <seg>Un esempio è quello di creare una cartella "dizionari" nella vostra cartella Programmi: (Avvio &gt; Risorse del Computer &gt; &lt;s0/&gt; Disco locale (C :) &gt; Programmi &gt; click destro &gt; Nuova cartella, il nome "Dizionari".) Dal menù di OmegaT, fare clic su Opzioni &gt; Correzione ortografica... .</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T081150Z">
+        <seg>Si può per esempio creare una cartella "dizionari" nella cartella Programmi: (Avvio &gt; Risorse del Computer &gt; &lt;s0/&gt; Disco locale (C :) &gt; Programmi &gt; clic destro &gt; Nuova cartella, il nome "Dizionari".) Dal menù di OmegaT, fare clic su Opzioni &gt; Correzione ortografica... .</seg>
       </tuv>
     </tu>
     <tu>
@@ -11118,8 +11118,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Click on the one or ones you want and click Install again, then close the box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071101Z">
-        <seg>Cliccare su quello o quelli che si desiderano e fare clic su "Installa", quindi chiudere la casella.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T081240Z">
+        <seg>Cliccare su quello o quelli che si desiderano e poi su "Installa", quindi chiudere la casella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24945,8 +24945,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Of course, you must be connected to the Internet for this function to work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T101459Z">
-        <seg>Naturalmente è necessario essere connessi a Internet perché questa funzione sia esplicata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T081637Z">
+        <seg>Naturalmente è necessario essere connessi a Internet perché sia svolta questa funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31130,8 +31130,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Selecting a dictionary and “Install” causes the relevant dictionary to be downloaded from the Internet to the folder which you specified in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071321Z">
-        <seg>Selezionare di un dizionario e installarlo effettua lo scaricamento da Internet  del dizionario scelto nella cartella specificata in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T081359Z">
+        <seg>La scelta e l'installazione di dizionari ne provoca lo scaricamento da Internet nella cartella specificata in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
