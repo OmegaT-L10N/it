@@ -11855,8 +11855,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+F calls up a search dialog with which you can search for any term throughout the project, i.e., within the source text and the legacy translation memory files, source segments, and target segments (but not glossary files).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T110318Z">
-        <seg>CTRL+F richiama una finestra di dialogo di ricerca con cui è possibile cercare qualsiasi termine nel progetto, cioè all'interno del testo sorgente, nei file di memoria di traduzione ereditati, nei segmenti di origine e nei segmenti di arrivo (ma non nei file Glossario).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T190147Z">
+        <seg>CTRL+F richiama una finestra di dialogo con cui è possibile cercare qualsiasi termine nel progetto, cioè all'interno del testo sorgente, nei file di memoria di traduzione vecchi, nei segmenti di origine e di arrivo (ma non nei file di glossario).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15586,8 +15586,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For more advanced users, there is a plugin called OmegaT-tokenizers (for use in OmegaT version 2.1.1 and later versions), which allows OmegaT to recognize inflected forms of a word.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184046Z">
-        <seg>Per gli utenti più avanzati, esiste un plugin chiamato OmegaT-tokenizer (per uso in OmegaT versione 2.1.1 e versioni successive), che permette a OmegaT di riconoscere le forme flesse di una parola.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T190035Z">
+        <seg>Per gli utenti più avanzati, esiste un plugin chiamato OmegaT-tokenizers (che funziona a partire dalla versione OmegaT 2.1.1) che permette al programma di riconoscere le forme flesse di una parola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38488,8 +38488,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="EN">
         <seg>Those interested may consult the User‘s Manual and the users' group on Yahoo.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214821Z">
-        <seg>Chi fosse interessato può consultare il manuale dell'utente e il gruppo degli utenti su Yahoo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T190040Z">
+        <seg>Chi fosse interessato può consultare il Manuale dell'utente e il gruppo degli utenti su Yahoo.</seg>
       </tuv>
     </tu>
     <tu>
