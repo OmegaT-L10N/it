@@ -17535,8 +17535,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If after looking at the fuzzy match you decide that it is useful, you can paste it into the active segment at any point (Ctrl+I), or replace (overwrite) the active segment with it completely (Ctrl+R) and then modify it, or copy and paste parts of it into the active segment (use the mouse to mark it, then Ctrl+C and Ctrl+V to copy and paste).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163849Z">
-        <seg>Se dopo aver esaminato la concordanza parziale si decide che è utile, si può incollare in qualsiasi punto (Ctrl+I) al segmento attivo, o sostituire (sovrascrivere) completamente il segmento attivo con (Ctrl+R) e poi modificarlo, o copiare e incollare parti di esso nel segmento attivo (utilizzare il mouse per segnare, poi Ctrl+C e Ctrl+V per copiare e incollare).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T184829Z">
+        <seg>Se, dopo aver esaminato la concordanza parziale, si decide che esso è utile, lo si può incollare in qualsiasi punto (Ctrl+I) del segmento attivo, o sostituire (sovrascrivere) completamente (Ctrl+R) il segmento attivo e poi modificarlo, oppure copiare e incollare parti di esso nel segmento attivo (utilizzare il mouse per selezionare poi Ctrl+C e Ctrl+V per copiare e incollare).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35091,8 +35091,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The legacy material provided for the purpose of this tutorial is intended to demonstrate the functions of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T163942Z">
-        <seg>Il materiale eredità fornito ai fini di questa esercitazione è destinato a dimostrare le funzioni di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T184918Z">
+        <seg>Il materiale "legacy" fornito ai fini di questa esercitazione serve per dimostrare le funzioni di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
