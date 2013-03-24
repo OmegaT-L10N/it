@@ -31170,8 +31170,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Since the legacy .tmx files in the &lt;f1&gt;/tm&lt;/f1&gt; folder are the product of previous translation jobs, &lt;f2&gt;you will not normally have any useful legacy .tmx files to call upon until you have completed a few jobs in OmegaT, and placed them into the &lt;/f2&gt;&lt;f3&gt;/tm&lt;/f3&gt;&lt;f4&gt; folder of your new job.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T105838Z">
-        <seg>Poiché tali file nella cartella &lt;f1&gt;/tm&lt;/f1&gt; sono il prodotto di precedenti lavori di traduzione, &lt;f2&gt;normalmente non avrete alcun file .tmx ereditato utile fino a quando non avrete completato alcuni lavori in OmegaT e li avrete posti nella cartella&lt;/f2&gt; &lt;f3&gt;/tm&lt;/f3&gt; &lt;f4&gt;del vostro nuovo lavoro.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T184512Z">
+        <seg>Poiché tali file nella cartella &lt;f1&gt;/tm&lt;/f1&gt; sono il prodotto di precedenti lavori di traduzione, &lt;f2&gt;in genere non ci sarà alcun file .tmx utile fino a quando non saranno completati alcuni lavori in OmegaT e inseriti nella cartella &lt;/f2&gt;&lt;f3&gt;/tm&lt;/f3&gt;&lt;f4&gt; del nuovo lavoro.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
