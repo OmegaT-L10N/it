@@ -7111,14 +7111,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;t1/&gt;en.wikipedia.org/wiki/Russian_American&lt;br2/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T085054Z">
-        <seg>&lt;t1/&gt;en.wikipedia.org/wiki/Russian_American&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T191001Z">
@@ -8250,8 +8242,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>All files selected for translation in this tutorial are from Wikipedia; some projects comprise more than one file, to familiarize you with OmegaT's usefulness for such structured documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175024Z">
-        <seg>Tutti i file selezionati per la traduzione in questa esercitazione provengono da Wikipedia; alcuni progetti comprendono più di un file in modo da familiarizzare con le utilità di OmegaT per tali documenti strutturati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175101Z">
+        <seg>Tutti i file selezionati per la traduzione in questa esercitazione provengono da Wikipedia; alcuni progetti comprendono più di un file in modo da familiarizzare con le utilità di OmegaT adatte a documenti strutturati di questo genere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36343,8 +36335,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The table provides a summary of web pages available, for which our tutorial's “legacy” files have been constructed:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200945Z">
-        <seg>La tabella fornisce un riepilogo delle pagine web disponibili, per le quali sono stati costruiti i file «legacy» del nostro tutorial:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175228Z">
+        <seg>La tabella fornisce un riepilogo delle pagine web disponibili, per le quali sono stati costruiti i file «datati» della nostra esercitazione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44753,14 +44745,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Biocoenosis&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063916Z">
-        <seg>en.wikipedia.org/wiki/Biocoenosis&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>en.wikipedia.org/wiki/Blind_Jack</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213936Z">
@@ -44769,58 +44753,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Durdle_Door</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063933Z">
-        <seg>en.wikipedia.org/wiki/Durdle_Door</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Great_Western_Hotel,_London&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063937Z">
-        <seg>en.wikipedia.org/wiki/Great_Western_Hotel,_London&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Hilton_Hotels&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063936Z">
-        <seg>en.wikipedia.org/wiki/Hilton_Hotels&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Hippocrates</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063935Z">
-        <seg>en.wikipedia.org/wiki/Hippocrates</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063927Z">
-        <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>en.wikipedia.org/wiki/Jnana_yoga</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064048Z">
         <seg>en.wikipedia.org/wiki/Jnana_yoga</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Jurassic_Coast&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063931Z">
-        <seg>en.wikipedia.org/wiki/Jurassic_Coast&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44857,58 +44793,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063932Z">
-        <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Panelling</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063941Z">
-        <seg>en.wikipedia.org/wiki/Panelling</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Phytosociology</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063920Z">
-        <seg>en.wikipedia.org/wiki/Phytosociology</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>en.wikipedia.org/wiki/Podlasie_Voivodship</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064054Z">
         <seg>en.wikipedia.org/wiki/Podlasie_Voivodship</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Russian&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063922Z">
-        <seg>en.wikipedia.org/wiki/Russian&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063923Z">
-        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063924Z">
-        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44921,34 +44809,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Russky_Island</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063926Z">
-        <seg>en.wikipedia.org/wiki/Russky_Island</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>en.wikipedia.org/wiki/Rye&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064140Z">
         <seg>en.wikipedia.org/wiki/Rye&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213933Z">
-        <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Shareholder</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063913Z">
-        <seg>en.wikipedia.org/wiki/Shareholder</seg>
       </tuv>
     </tu>
     <tu>
@@ -44973,38 +44837,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064141Z">
         <seg>en.wikipedia.org/wiki/Sorghum</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/The_London_Hilton_on_Park_Lane</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063939Z">
-        <seg>en.wikipedia.org/wiki/The_London_Hilton_on_Park_Lane</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Waldorf_Hilton&lt;br2/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063938Z">
-        <seg>en.wikipedia.org/wiki/Waldorf_Hilton&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/Wall&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063940Z">
-        <seg>en.wikipedia.org/wiki/Wall&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T063929Z">
-        <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
       </tuv>
     </tu>
     <tu>
