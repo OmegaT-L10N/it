@@ -15250,8 +15250,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For each language combination, a glossary (.txt) file has been created for you containing a few words for the combination concerned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164559Z">
-        <seg>Per ogni combinazione di lingua, un file di glossario (.txt) è stato creato per te, contenente un paio di parole per la combinazione di cui trattasi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185408Z">
+        <seg>Per ogni combinazione di lingua, è stato creato un file di glossario (.txt), contenente un paio di parole per la combinazione di cui trattasi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40369,8 +40369,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unlike translation memory (.tmx) files, glossary files in OmegaT are created manually.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164525Z">
-        <seg>A differenza dei file memoria di traduzione(.tmx), i file glossario in OmegaT vengono creati manualmente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185424Z">
+        <seg>A differenza dei file di memoria di traduzione(.tmx), i file di glossario in OmegaT sono creati manualmente.</seg>
       </tuv>
     </tu>
     <tu>
