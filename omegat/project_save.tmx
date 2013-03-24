@@ -2935,14 +2935,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214604Z">
-        <seg>&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;c0&gt;${extension}&lt;/c0&gt; -- the extension of the source file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T171719Z">
@@ -9199,8 +9191,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>As a general rule for the purpose of this tutorial, assume that if something is visible in your browser, it should be translated.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214603Z">
-        <seg>Come regola generale ai fini di questa esercitazione, si assume che se qualcosa è visibile nel browser, si dovrebbe tradurre. &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T182008Z">
+        <seg>Come regola ai fini di questa esercitazione, si presume che quello che è visibile nel browser deve essere tradotto. &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42476,8 +42468,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With heavily tagged HTML text, you may find it convenient to keep the source text open at the same time and to toggle between the two (Alt+tab) in order to be able to see more quickly what text actually has to be translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T105236Z">
-        <seg>Con testo ricco di tag HTML, può risultare conveniente mantenere il testo sorgente aperto allo stesso tempo, per passare tra i due (Alt+tab) e poter vedere più rapidamente quale testo conviene effettivamente tradurre.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T181900Z">
+        <seg>Con testo ricco di tag HTML può essere utile mantenere aperto anche il testo originale, in modo da alternare tra i due testi (col comando Alt+Tab) e capire più rapidamente quale porzione di testo debba essere effettivamente tradotta.</seg>
       </tuv>
     </tu>
     <tu>
