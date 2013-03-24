@@ -7065,8 +7065,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s3/&gt;(Various browsers have slightly different methods for doing this.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205851Z">
-        <seg>&lt;s3/&gt;(Vari browser hanno metodi leggermente diversi per fare questo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175736Z">
+        <seg>&lt;s3/&gt;(I browser hanno metodi leggermente diversi tra loro per fare questo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15177,8 +15177,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>For Internet Explorer 7.x, for example, File &gt; Save As&gt; Webpage, Complete; for Firefox 3.x, File &gt; Save As &gt; Web Page, Complete; for Firefox 2.x, File &gt; Save Page As.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T155752Z">
-        <seg>Per Internet Explorer 7.x, ad esempio, File &gt; Salva con nome &gt; Pagina Web,completa; per Firefox 3.x, File &gt; Salva come &gt; pagina Web, completa; per Firefox 2.x, File &gt; Salva pagina come).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175824Z">
+        <seg>Per Internet Explorer 7.x, ad esempio, il comando è File &gt; Salva con nome &gt; Pagina Web,completa; per Firefox 3.x,, File &gt; Salva come &gt; pagina Web, completa; per Firefox 2.x, File &gt; Salva pagina come).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26163,8 +26163,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once you have decided on a subject, download the files from the Internet, navigating so that they go directly into the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of &lt;/f1&gt;&lt;f2&gt;My Project-2&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T155459Z">
-        <seg>Una volta deciso un argomento, scaricare i file da Internet, fare in modo che vadano direttamente nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio progetto-2&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175710Z">
+        <seg>Una volta deciso un argomento, scaricare i file da Internet, salvarli direttamente nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio progetto-2&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44041,8 +44041,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>Your &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder will now contain&lt;/f1&gt; one or more HTML file(s), together with associated files such as graphics files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205955Z">
-        <seg>La tua cartella &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; conterrà ora&lt;/f1&gt; uno o più file HTML, insieme ai relativi file come i file di grafica.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175926Z">
+        <seg>La tua cartella &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; conterrà ora&lt;/f1&gt; uno o più file HTML, insieme con i file associati, come quelli grafici.</seg>
       </tuv>
     </tu>
     <tu>
