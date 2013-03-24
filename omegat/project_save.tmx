@@ -15242,8 +15242,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For details of the tag handling rules, refer to the User's Manual.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084334Z">
-        <seg>Per i dettagli della gestione delle regole dei tag, fare riferimento al manuale dell'utente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173727Z">
+        <seg>Per i dettagli della gestione delle regole dei tag, fare riferimento al Manuale dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26861,8 +26861,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Otherwise, you may risk corrupting your final document and preventing it from being opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084304Z">
-        <seg>In caso contrario, si può rischiare di corrompere il documento finale e persino di impedirne l'apertura.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173705Z">
+        <seg>In caso contrario, si può rischiare di danneggiare il documento finale e persino di impedirne l'apertura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37835,8 +37835,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is convenient with heavily tagged (formatted) text, since it is easier to retain the tags undamaged by simply replacing the text between them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083109Z">
-        <seg>Questo è conveniente con testo (formattato) ricco di tag, poiché è più facile mantenere intatti i tag sostituendo soltanto il testo racchiuso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173533Z">
+        <seg>Questo è conveniente quando si lavora con testo (formattato) ricco di tag, poiché è più facile mantenere intatti i tag sostituendo soltanto il testo racchiuso in essi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42500,8 +42500,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With less heavily tagged text, you can delete the content of the target text field and simply type in the translation, or you can instruct OmegaT to leave it blank by default (refer to the User's Manual for details).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083324Z">
-        <seg>Con testo meno ricco di tag, è possibile eliminare l'intero contenuto del campo di destinazione e immettere semplicemente la traduzione, o è possibile impostare OmegaT per lasciarla vuota (consultare il manuale utente per ulteriori dettagli).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173558Z">
+        <seg>Con testo meno ricco di tag è possibile eliminare l'intero contenuto del campo di destinazione e immettere semplicemente la traduzione, o è possibile impostare OmegaT per lasciarla vuota (consultare il manuale utente per ulteriori dettagli).</seg>
       </tuv>
     </tu>
     <tu>
