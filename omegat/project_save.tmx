@@ -37331,8 +37331,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They may be within the current project (either in the text you are currently translating or, where a project comprises more than one source text, in another text within the same project), or they may be in the legacy .tmx file(s) which you placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T105713Z">
-        <seg>Esse possono essere all'interno del progetto corrente (sia nel testo che si sta attualmente traducendo o, dove un progetto comprende più di un testo di origine, in un altro brano all'interno del progetto stesso), oppure possono essere nei file .tmx ereditati che si trovano nella cartella &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T183324Z">
+        <seg>Esse possono trovarsi all'interno del progetto corrente (o nel testo che si sta attualmente traducendo o, laddove un progetto comprenda più di un testo di origine, in un altro brano all'interno del progetto stesso), oppure nei file .tmx datati inseriti nella cartella &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
