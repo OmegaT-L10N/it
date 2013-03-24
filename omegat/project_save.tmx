@@ -25273,8 +25273,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is an "inline" translation memory application, meaning that you see only one copy of the text; segments which have already been translated appear as such, otherwise &lt;t0/&gt;the untranslated source text is displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173221Z">
-        <seg>OmegaT è un'applicazione di memoria di traduzione "incorporata", ossia si vede solo una copia del testo; i segmenti che sono già stati tradotti vengono visualizzati come tali, altrimenti &lt;t0/&gt; viene visualizzato il testo di origine, non tradotto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173351Z">
+        <seg>OmegaT è un'applicazione di memoria di traduzione "incorporata", ossia si vede solo una copia del testo; i segmenti che sono già stati tradotti vengono visualizzati come tali, altrimenti &lt;t0/&gt; viene visualizzato il testo di origine non tradotto.</seg>
       </tuv>
     </tu>
     <tu>
