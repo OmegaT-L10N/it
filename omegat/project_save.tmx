@@ -1213,8 +1213,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(See User's Manual for how to set up a glossary.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214714Z">
-        <seg>(Vedi manuale per come impostare un glossario).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185300Z">
+        <seg>(consultare il Manuale dell'utente per vedere come impostare un glossario).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9683,8 +9683,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Before beginning translating, you placed a glossary file in the &lt;f0&gt;/glossary&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T164250Z">
-        <seg>Prima di iniziare a tradurre, è stato inserito un file glossario nella cartella &lt;f0&gt;/glossary&lt;/f0&gt; .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185052Z">
+        <seg>Prima di iniziare a tradurre, è stato inserito un file glossario nella cartella &lt;f0&gt;/glossary&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16270,8 +16270,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Glossary files are simply plain-text files containing two columns of terms delimited by tabs, and saved with file extension .txt.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103355Z">
-        <seg>I file glossario sono file di testo semplice, contenenti tre colonne di termini delimitate da tabulazioni e salvate con estensione di file .txt .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185213Z">
+        <seg>I file glossario sono file di testo semplice, contenenti due colonne di termini delimitate da tabulazioni e salvate con estensione di file .txt </seg>
       </tuv>
     </tu>
     <tu>
