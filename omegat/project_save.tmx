@@ -6127,6 +6127,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T200101Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Regole&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Segmentation rules&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T102539Z">
@@ -8148,6 +8156,14 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T181921Z">
         <seg>Dopo aver ultimato la segmentazione del file di partenza in unità logiche, OmegaT avvierà un'ulteriore segmentazione di tali blocchi in frasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T200044Z">
+        <seg>Dopo aver ultimato la segmentazione del file di partenza in unità strutturali, &lt;a0&gt;OmegaT&lt;/a0&gt; avvierà un'ulteriore segmentazione di tali blocchi in frasi.</seg>
       </tuv>
     </tu>
     <tu>
