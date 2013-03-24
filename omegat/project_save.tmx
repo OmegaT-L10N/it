@@ -2575,6 +2575,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195619Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; prima analizza il testo alla ricerca di una segmentazione a livello della struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has by default the following short list available to make it easier for you to deal with some plain text files:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T212607Z">
@@ -2667,6 +2675,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T162856Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; utilizza la codifica predefinita adottata dal sistema operativo per i file di solo testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195512Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; usa i seguenti passaggi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6115,6 +6131,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T102539Z">
         <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Regole di segmentazione&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Source level segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195549Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Segmentazione a livello del documento originale&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18596,6 +18620,14 @@ extensions are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T161242Z">
         <seg>Se si modificano le regole dei filtri mentre è aperto un qualsiasi progetto, affinché tali regole abbiano effetto sarà necessario ricaricare l'intero progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195442Z">
+        <seg>Se si modificano le opzioni di segmentazione mentre un progetto è aperto, affinché le modifiche siano attivate il progetto va ricaricato.</seg>
       </tuv>
     </tu>
     <tu>
