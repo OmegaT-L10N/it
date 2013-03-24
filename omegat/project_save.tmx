@@ -1154,8 +1154,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(For the purposes of this tutorial, you may use .docx files according to this procedure, although in fact .docx files do not require the mediation of Open Office Writer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183632Z">
-        <seg>(Ai fini di questa esercitazione, è possibile utilizzare i file docx secondo questa procedura, anche se in realtà i file docx non richiedono la mediazione di Open Office Writer.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172435Z">
+        <seg>(Ai fini di questa esercitazione, è possibile utilizzare i file docx per questa procedura, sebbene essi non richiedano la mediazione di Open Office Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10724,8 +10724,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click and drag the newly created .odt file to the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of your &lt;/f1&gt;&lt;f2&gt;My Project-1&lt;/f2&gt;&lt;f3&gt; folder, which you created in Step &lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220725Z">
-        <seg>Fare clic e trascinare il file .odt appena creato nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio Progetto-1&lt;/f2&gt; &lt;f3&gt; creata nel passaggio &lt;/f3&gt; &lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172627Z">
+        <seg>Fare clic sul file .odt appena creato e trascinarlo nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio Progetto-1&lt;/f2&gt; &lt;f3&gt; creata nel passaggio &lt;/f3&gt; &lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14617,8 +14617,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>File &gt; Save As, name the file, and close it in .odt format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081824Z">
-        <seg>File &gt; Salva con nome in formato .odt, il nome del file, e chiuderlo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172553Z">
+        <seg>Usare il comando File &gt; Salva con nome, attribuirgli un nome e salvarlo in formato .odt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21879,8 +21879,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch OmegaT and click Project &gt; Open.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220737Z">
-        <seg>Avviare OmegaT e fare clic su Progetto &gt; Apri.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172644Z">
+        <seg>Avviare OmegaT e scegliere Progetto &gt; Apri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23577,8 +23577,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Navigate to &lt;f0&gt;My Project-1 &lt;/f0&gt;&lt;f1&gt;(it will have the OmegaT icon beside it).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220806Z">
-        <seg>Passare a &lt;f0&gt;Il mio Progetto-1 &lt;/f0&gt; &lt;f1&gt;(presenterà l'icona di OmegaT).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172710Z">
+        <seg>Passare a &lt;f0&gt;Il mio Progetto-1 &lt;/f0&gt; &lt;f1&gt;(che conterrà l'icona di OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
