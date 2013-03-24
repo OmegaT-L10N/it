@@ -26041,6 +26041,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T194834Z">
+        <seg>D'altro lato, questa funzionalità può essere molto utile nei particolari casi in cui è possibile incrementare la propria produttività regolando le regole di segmentazione in base al testo da tradurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the right, at the top, is the Match Viewer, where translation memory matches will be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T181501Z">
