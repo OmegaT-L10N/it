@@ -4161,8 +4161,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Note: Damaged or missing tags in XML file formats, such as OpenOffice.org, are likely to result in the output file failing to open at all.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084905Z">
-        <seg>&lt;f0&gt;Nota: i tag danneggiati o mancanti in file di formato XML e OpenOffice.org possono provocare la mancata apertura del file di arrivo.&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174043Z">
+        <seg>&lt;f0&gt;Nota: i tag danneggiati o mancanti in formati di file XML, quali quelli OpenOffice.org, possono provocare la mancata apertura del file di arrivo.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8050,8 +8050,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>After checking your translation, check that you have not damaged any tags during the translation process: Tools &gt; Validate Tags.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T084746Z">
-        <seg>Dopo aver verificato la traduzione, controllare che eventuali tag non abbiamo subito danno durante il processo di traduzione: Strumenti &gt; Convalida i tag.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173930Z">
+        <seg>Dopo aver verificato la traduzione, controllare che eventuali tag non abbiamo subito danno durante il processo di traduzione: il comando è Strumenti &gt; Convalida i tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8619,8 +8619,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An advantage probably common to all translation memory applications is that they simplify checking: once you have completed the first draft of your translation, you can "walk" through it with the source and target versions of each sentence displayed next to each other.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T104600Z">
-        <seg>Un vantaggio probabilmente comune a tutte le applicazioni di memoria di traduzione è che semplificano il controllo: dopo aver completato la prima bozza della vostra traduzione, si può "camminare" attraverso di essa con le versioni di origine e di destinazione di ogni frase visualizzate una accanto all'altra.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173853Z">
+        <seg>Un vantaggio probabilmente comune a tutte le applicazioni a memoria di traduzione è che semplificano il controllo: dopo aver completato la prima bozza della traduzione, vi può "camminare" attraverso con le versioni di origine e di destinazione di ogni frase visualizzate una accanto all'altra.</seg>
       </tuv>
     </tu>
     <tu>
