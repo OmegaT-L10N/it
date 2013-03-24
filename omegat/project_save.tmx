@@ -19186,8 +19186,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you wish to change the text in a segment within the current project which is displayed in the Text Search window, double-click on it and OmegaT will take you to the segment concerned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214839Z">
-        <seg>Se si desidera modificare il testo in un segmento all'interno del progetto corrente che viene visualizzato nella finestra di ricerca testo, fare doppio clic su di esso e OmegaT vi porterà al segmento interessato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T190328Z">
+        <seg>Per modificare il testo in un segmento all'interno del progetto corrente che viene visualizzato nella finestra di ricerca testo, farvi sopra doppio clic: OmegaT passerà al segmento interessato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24305,8 +24305,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that there is no automatic “global replace” function, but there are “workarounds” that can be used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184722Z">
-        <seg>Si noti che non non c'è nessuna funzione automatica "Sostituisci tutto", ma ci sono soluzioni "alternative" che possono essere utilizzate.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T190413Z">
+        <seg>Si noti che non c'è alcuna funzione automatica "Sostituisci tutto", ma possono essere utilizzate soluzioni "alternative".</seg>
       </tuv>
     </tu>
     <tu>
