@@ -23729,8 +23729,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Next, download the “legacy package” which we have created for use in this tutorial, which is at:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210155Z">
-        <seg>Poi scaricare il "pacchetto legacy" che abbiamo creato per l'uso in questo tutorial, che è presso:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T180031Z">
+        <seg>Scaricare poi il "pacchetto legacy" che abbiamo creato per l'uso in questa esercitazione, che si trova qui:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40409,8 +40409,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unpack the legacy.zip archive to any suitable temporary location (such as My Documents or the Desktop).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210252Z">
-        <seg>Scompattare l'archivio legacy.zip in qualsiasi posizione temporanea adatta (ad esempio documenti o Desktop).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T180112Z">
+        <seg>Scompattare l'archivio legacy.zip in qualsiasi posizione temporanea adatta (per esempio, nei documenti o nel desktop).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46757,14 +46757,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093205Z">
         <seg>senza JRE (indicata col nome della versione "Without_JRE").</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>www.omegat.org/training/materials/legacy.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064327Z">
-        <seg>www.omegat.org/training/materials/legacy.zip</seg>
       </tuv>
     </tu>
     <tu>
