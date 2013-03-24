@@ -35757,6 +35757,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T200439Z">
+        <seg>Il processo di segmentazione può essere raffigurato nel modo seguente: il cursore si sposta lungo il testo, un carattere alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The program will always check with you before closing down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T230251Z">
