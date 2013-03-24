@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2137,22 +2137,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>0.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184641Z">
-        <seg>0.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>1</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184535Z">
-        <seg>1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093632Z">
@@ -2169,66 +2153,10 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>10</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184552Z">
-        <seg>10</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>10.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184707Z">
-        <seg>10.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>11</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184603Z">
-        <seg>11</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>12</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184612Z">
-        <seg>12</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>16</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184623Z">
-        <seg>16</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>17</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184624Z">
-        <seg>17</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>18</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135207Z">
         <seg>18</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>19</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184628Z">
-        <seg>19</seg>
       </tuv>
     </tu>
     <tu>
@@ -2271,58 +2199,10 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>20</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184634Z">
-        <seg>20</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>2000 and XP: Documents and Settings\&lt;User Name&gt;\Application Data\OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193354Z">
         <seg>2000 e XP: Documents and Settings\&lt;Nome Utente&gt;\Dati applicazioni\OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>22</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184642Z">
-        <seg>22</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>23</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184646Z">
-        <seg>23</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>24</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184651Z">
-        <seg>24</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>25</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172958Z">
-        <seg>25</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>26</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184652Z">
-        <seg>26</seg>
       </tuv>
     </tu>
     <tu>
@@ -2339,14 +2219,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135422Z">
         <seg>29</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184537Z">
-        <seg>3</seg>
       </tuv>
     </tu>
     <tu>
@@ -2407,46 +2279,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>4</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184546Z">
-        <seg>4</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>5</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184548Z">
-        <seg>5</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>7</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184549Z">
-        <seg>7</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>7.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184549Z">
-        <seg>7.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>7.A.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184550Z">
-        <seg>7.A.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>7.A.2.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184602Z">
@@ -2463,30 +2295,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>7.B.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184611Z">
-        <seg>7.B.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>7.B.1.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184617Z">
-        <seg>7.B.1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>7.B.2.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184620Z">
-        <seg>7.B.2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>7.B.3 The glossary function</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172507Z">
@@ -2495,50 +2303,10 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>7.B.4.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184626Z">
-        <seg>7.B.4.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>8</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184550Z">
-        <seg>8</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>8-bit vs Unicode Text files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T230946Z">
         <seg>File di testo a 8-bit vs. Unicode</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>8.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184631Z">
-        <seg>8.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>9</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184551Z">
-        <seg>9</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>9.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184633Z">
-        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2609,16 +2377,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;s11/&gt;You will see that the dictionary or dictionaries appear listed in the “spellchecker setup” dialog window &lt;f12&gt;c)&lt;/f12&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232217Z">
-        <seg>&lt;/f10&gt; &lt;s11/&gt; Si vedrà che il dizionario o i dizionari appariranno elencati nella finestra di dialogo "Impostazioni del correttore ortografico" &lt;f12&gt;c)&lt;/f12&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214557Z">
-        <seg>&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T214020Z">
+        <seg>&lt;/f10&gt; &lt;s11/&gt; Il dizionario o i dizionari appariranno elencati nella finestra di dialogo "Impostazioni del correttore ortografico" &lt;f12&gt;c)&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,14 +2403,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T185100Z">
         <seg>&lt;/f3&gt;&lt;/c2&gt;), a sé stante, sia a 2 tag, sotto forma di coppia (come nel caso di  &lt;c4&gt;&lt;f5&gt;&lt;i0&gt;&lt;/f5&gt;&lt;/c4&gt; e &lt;c6&gt;&lt;f7&gt;&lt;/i0&gt;&lt;/f7&gt;&lt;/c6&gt;).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f4&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184710Z">
-        <seg>&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3187,22 +2939,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214604Z">
         <seg>&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br5/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184723Z">
-        <seg>&lt;br5/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br6/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184727Z">
-        <seg>&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7369,8 +7105,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;t1/&gt;Click Choose and navigate to the “dictionaries” folder (&lt;f2&gt;screenshot, &lt;/f2&gt;&lt;f3&gt;a, &lt;/f3&gt;&lt;f4&gt;below)&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T070859Z">
-        <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "Dizionari" (&lt;f2&gt;screenshot, &lt;/f2&gt; &lt;f3&gt;a, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213722Z">
+        <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "Dizionari" (&lt;f2&gt;schermata, &lt;/f2&gt; &lt;f3&gt;a, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7457,8 +7193,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T072730Z">
-        <seg>Un strumento per CAT, come il termine è generalmente inteso dai traduttori, è un programma (software) che crea una "memoria di traduzione" (TM) dal documento tradotto. Questa può quindi essere utilizzata per facilitare la traduzione di documenti futuri con notevole somiglianze con i segmenti già tradotti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121118Z">
+        <seg>Un strumento CAT, come il termine è generalmente inteso dai traduttori, è un programma (software) che crea una "memoria di traduzione" (TM) di un documento tradotto. Questa può quindi essere utilizzata per facilitare la traduzione di documenti futuri con notevole somiglianze con i segmenti già tradotti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7666,8 +7402,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>A more comprehensive User's Manual can be called up with the "Help" menu item or F1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080628Z">
-        <seg>Il manuale più completo si richiama con la voce di menù «Aiuto» o con F1.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T125050Z">
+        <seg>Un manuale più completo può essere richiamato con la voce di menù "Aiuto" o il tasto F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7818,8 +7554,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>A search function scans previously translated material (either in the present document or in a translation memory), so that the user can see how a word or phrase was previously translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T105346Z">
-        <seg>Una funzione 'Cerca nel progetto...' analizza il materiale già tradotto (sia nel presente documento che nelle memorie di traduzione precedenti), perché l'utente possa vedere come una parola o una frase sono state precedentemente tradotte.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121228Z">
+        <seg>Una funzione 'Cerca nel progetto...' analizza il materiale già tradotto (sia nel presente documento che nelle memorie di traduzione precedenti), affinché l'utente possa vedere come una parola o una frase sono state precedentemente tradotte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7842,8 +7578,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>A segmentation function displays one "segment" of source text at a time (usually a sentence), and the translation is done with the source text on the screen next to the target text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073909Z">
-        <seg>Una funzione di segmentazione espone un "segmento" del testo di origine alla volta (di solito una frase) e, accostato sullo schermo, il testo di destinazione per la traduzione e le modifiche.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121457Z">
+        <seg>Una funzione di segmentazione visualizza un "segmento" alla volta del testo di origine (di solito una frase), ed è possibile tradurre visualizzando il testo di partenza affianco a quello di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8338,8 +8074,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>After downloading OmegaT (Windows version), launch the .exe file and follow the on-screen instructions, which should be self-explanatory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080325Z">
-        <seg>Per versione Windows invece, attualmente la 2.6.3, dopo aver scaricato OmegaT, lanciare il file OmegaT_2.6.3_Windows.exe ed seguire le istruzioni sullo schermo, che dovrebbero essere auto-esplicative.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T124614Z">
+        <seg>Dopo aver scaricato OmegaT (nella versione Windows), avviare il file OmegaT_2.5.5_05_Windows.exe e seguire le istruzioni a video, che dovrebbero essere facilmente comprensibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8354,8 +8090,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>After launching OmegaT, the main OmegaT window should appear with three panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080409Z">
-        <seg>Dopo il lancio di OmegaT, dovrebbe apparire la finestra principale di OmegaT con tre riquadri: il riquadro di modifica (Editor), il riquadro Concordanze parziali (fuzzy) e il riquadro Glossario.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T124730Z">
+        <seg>Dopo aver avviato OmegaT dovrebbe apparire la sua finestra principale, con tre riquadri: il riquadro di modifica (Editor), il riquadro delle concordanze parziali (fuzzy) e quello del Glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8939,8 +8675,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An example is to create a “dictionaries” folder in your Program Files (Start &gt; My Computer &gt; &lt;s0/&gt;Local Disk (C:) &gt; Program Files &gt; right click &gt; New Folder, name it “dictionaries.”) Then from the OmegaT menu, click Options &gt; Spell checking.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T081150Z">
-        <seg>Si può per esempio creare una cartella "dizionari" nella cartella Programmi: (Avvio &gt; Risorse del Computer &gt; &lt;s0/&gt; Disco locale (C :) &gt; Programmi &gt; clic destro &gt; Nuova cartella, il nome "Dizionari".) Dal menù di OmegaT, fare clic su Opzioni &gt; Correzione ortografica... .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213707Z">
+        <seg>Un esempio è quello di creare una cartella "dizionari" nella cartella Programmi: (Avvio &gt; Risorse del Computer &gt; &lt;s0/&gt; Disco locale (C :) &gt; Programmi &gt; clic destro &gt; Nuova cartella, il nome "Dizionari".) Dal menù di OmegaT, fare clic su Opzioni &gt; Correzione ortografica... .</seg>
       </tuv>
     </tu>
     <tu>
@@ -9907,8 +9643,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Be warned that the documentation may be a little out of date, owing to the pace at which OmegaT is being developed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065511Z">
-        <seg>Attenzione che la documentazione può essere un po' datata, a causa del ritmo al quale OmegaT si sviluppa.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213455Z">
+        <seg>Fare attenzione che la documentazione può essere un po' datata, a causa del ritmo al quale OmegaT si sviluppa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10004,8 +9740,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Beginners</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T095408Z">
-        <seg>Neofiti</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120447Z">
+        <seg>Principianti</seg>
       </tuv>
     </tu>
     <tu>
@@ -10394,18 +10130,10 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>CAT</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093504Z">
-        <seg>cat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>CAT tools allow for greater consistency of translation, including when more than one translator is working on a job.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073023Z">
-        <seg>Gli strumenti CAT consentono una maggiore coerenza della traduzione, anche quando più di un traduttore sta lavorando sullo stesso materiale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121809Z">
+        <seg>Gli strumenti CAT consentono una maggiore coerenza della traduzione, anche quando più traduttori lavorano su uno stesso progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10996,8 +10724,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click and drag the newly created .odt file to the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of your &lt;/f1&gt;&lt;f2&gt;My Project-1&lt;/f2&gt;&lt;f3&gt; folder, which you created in Step &lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082033Z">
-        <seg>Fare clic e trascinare il file .odt appena creato nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; del tuo &lt;/f1&gt; &lt;f2&gt;Il mio Progetto-1&lt;/f2&gt; &lt;f3&gt; creata nel passaggio &lt;/f3&gt; &lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220725Z">
+        <seg>Fare clic e trascinare il file .odt appena creato nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio Progetto-1&lt;/f2&gt; &lt;f3&gt; creata nel passaggio &lt;/f3&gt; &lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11102,8 +10830,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Click on the one or ones you want and click Install again, then close the box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T081240Z">
-        <seg>Cliccare su quello o quelli che si desiderano e poi su "Installa", quindi chiudere la casella.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213841Z">
+        <seg>Fare clic su quello o quelli che si desiderano e premere "Installa", quindi chiudere il riquadro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11134,8 +10862,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Click “Install” and you will be given a list of many possible dictionaries (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071002Z">
-        <seg>Fare clic su "Installa nuovo dizionario..." e apparirà un elenco di dizionari possibili (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213741Z">
+        <seg>Fare clic su "Installa nuovo dizionario...": apparirà un elenco di dizionari possibili (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11500,8 +11228,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Confirm the segmentation rules and then creation of the project with OK.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183532Z">
-        <seg>Confermare la regole di segmentazione e quindi la creazione del progetto con OK.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T215443Z">
+        <seg>Confermare le regole di segmentazione e quindi la creazione del progetto con OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11801,22 +11529,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130304T080402Z">
         <seg>Le copie con modifiche limitate alle copertine, purché esse conservino il titolo del documento e soddisfino queste condizioni, possono essere trattate come copie letterali sotto altri aspetti.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Copyright</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184535Z">
-        <seg>Copyright</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212038Z">
-        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12991,8 +12703,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do not click on &lt;/f0&gt;&lt;f1&gt;"Browse" or otherwise change the default locations of the project folders &lt;/f1&gt;&lt;f2&gt;(directories).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;You have now created an empty project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T101246Z">
-        <seg>Non fare clic su &lt;/f0&gt; &lt;f1&gt;"Sfoglia" o altrimenti cambiare i percorsi predefiniti delle cartelle del progetto &lt;/f1&gt; &lt;f2&gt;(directory).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Ora è stato creato un progetto vuoto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T215548Z">
+        <seg>Non fare clic su &lt;/f0&gt; &lt;f1&gt;"Sfoglia" o altrimenti modificare i percorsi predefiniti delle cartelle del progetto &lt;/f1&gt; &lt;f2&gt;(directory).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Ora è stato creato un progetto vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14153,8 +13865,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Enter a suitable name for your project, such as the client's name and purchase order number, and click Save.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183439Z">
-        <seg>Immettere un nome adatto per il vostro progetto, ad esempio il nome del cliente, numero d'ordine di acquisto e fare clic su Salva.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T214912Z">
+        <seg>Attribuire il nome adatto al progetto, ad esempio il nome del cliente e il numero d'ordine di acquisto, poi fare clic su Salva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15201,8 +14913,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Final proofreading, correction, and delivery</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085058Z">
-        <seg>Correzione finale delle bozze, correzione, e consegna</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120752Z">
+        <seg>Correzione finale delle bozze, correzione e consegna</seg>
       </tuv>
     </tu>
     <tu>
@@ -16273,14 +15985,6 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>GNU Free Documentation License</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T155256Z">
-        <seg>GNU Free Documentation License</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Gaelic (Scotland)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212515Z">
@@ -16982,8 +16686,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Handling tags takes some practice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083356Z">
-        <seg>La gestione dei Tag impone un po' di pratica.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T221216Z">
+        <seg>La gestione dei tag impone un po' di pratica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18227,8 +17931,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080702Z">
-        <seg>Se il riquadro di modifica è vuoto, la lingua di installazione di Windows non è probabilmente l'inglese e OmegaT non dispone della "Guida di avvio rapido" nella vostra lingua.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T125114Z">
+        <seg>Se il riquadro di modifica è vuoto, la lingua di installazione di Windows non è probabilmente l'inglese e OmegaT non dispone della "Guida di avvio rapido" nella lingua usata dall'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18866,8 +18570,8 @@ extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you can't see all three panes, drag the borders between them across your screen until they are arranged approximately as shown below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080515Z">
-        <seg>Se non si possono vedere tutti e tre i riquadri, trascinare i loro bordi, per lo schermo, fino a quando sono disposti approssimativamente come mostrato più avanti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T124938Z">
+        <seg>Se tutti e tre riquadri non sono visibili, trascinare i loro bordi, per lo schermo, fino a quando sono disposti più o meno come mostrato di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20468,8 +20172,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this case, call up the OmegaT documentation by selecting Help &gt; User's Manual, or by pressing F1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T065417Z">
-        <seg>In questo caso, richiamare la documentazione di OmegaT selezionando Aiuto &gt; Manuale dell'utente, o premendo F1.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T125138Z">
+        <seg>In questo caso, richiamare la documentazione di OmegaT selezionando Aiuto &gt; Manuale dell'utente, oppure premendo il tasto F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21209,8 +20913,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It is &lt;f0&gt;not necessary to have OpenOffice&lt;/f0&gt;.org in order to use &lt;f1&gt;OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231825Z">
-        <seg>Non è &lt;f0&gt; necessario avere OpenOffice&lt;/f0&gt;.org per poter utilizzare &lt;f1&gt;OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T122219Z">
+        <seg>Non è &lt;f0&gt; necessario avere OpenOffice&lt;/f0&gt;.org per utilizzare &lt;f1&gt;OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21300,8 +21004,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is not worth getting bogged down with fine-tuning the segmentation rules at this stage; the basic rules as supplied should work adequately for demonstration purposes, even for a different (source) language, provided its sentence punctuation rules are broadly similar (i.e., don't use the Japanese segmentation rules if you are translating from Italian).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T074907Z">
-        <seg>In questa fase non vale la pena di impantanarsi con la messa a punto delle regole di segmentazione, le regole in dotazione di base dovrebbero funzionare adeguatamente per scopi dimostrativi, anche per una lingua (di origine) diversa, purché le regole di punteggiatura della frase siano sostanzialmente simili (cioè, non utilizzare le regole di segmentazione del giapponese se si sta traducendo dall'italiano).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T215437Z">
+        <seg>In questa fase non vale la pena di impantanarsi con la messa a punto delle regole di segmentazione; le regole di base in dotazione dovrebbero funzionare adeguatamente per scopi dimostrativi, anche per una lingua (di origine) diversa, purché le regole di punteggiatura della frase siano sostanzialmente simili (cioè, non utilizzare le regole di segmentazione del giapponese se si sta traducendo dall'italiano).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22175,8 +21879,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch OmegaT and click Project &gt; Open.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082108Z">
-        <seg>Lanciare OmegaT e fare clic su Progetto &gt; Apri.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220737Z">
+        <seg>Avviare OmegaT e fare clic su Progetto &gt; Apri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22199,8 +21903,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch Open Office Writer and create a new text document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081510Z">
-        <seg>Lanciare Open Office Writer e creare un nuovo documento di testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220437Z">
+        <seg>Avviare Open Office Writer e creare un nuovo documento di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22591,22 +22295,6 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T222113Z">
         <seg>Operatori logici</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083657Z">
-        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232612Z">
-        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23609,8 +23297,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Most CAT tools use the term "project" to refer to a collection of folders and files associated with a translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T071737Z">
-        <seg>La maggior parte degli strumenti CAT usano il termine "progetto" per fare riferimento a un insieme di cartelle e file associati a una traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T214048Z">
+        <seg>La maggior parte degli strumenti CAT usa il termine "progetto" per fare riferimento a un insieme di cartelle e file associati a una traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23889,16 +23577,16 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Navigate to &lt;f0&gt;My Project-1 &lt;/f0&gt;&lt;f1&gt;(it will have the OmegaT icon beside it).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082224Z">
-        <seg>Passare al &lt;f0&gt;Il mio Progetto-1 &lt;/f0&gt; &lt;f1&gt;(avrà l'icona di OmegaT).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220806Z">
+        <seg>Passare a &lt;f0&gt;Il mio Progetto-1 &lt;/f0&gt; &lt;f1&gt;(presenterà l'icona di OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Navigate to a suitable folder in which to create the project, e.g., the main folder you use for your translations, or you can place it on the Desktop for temporary ease of access, and later move it to My Documents or a similar location for storage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T101545Z">
-        <seg>Passare a una cartella adatta in cui creare il progetto, ad esempio, la cartella principale che si utilizza per le traduzioni, o è possibile posizionarlo sul Desktop per la facilità di accesso temporaneo e poi passare a documenti o a una simile posizione per l'archiviazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T214803Z">
+        <seg>Passare a una cartella adatta in cui creare il progetto, ad esempio, la cartella principale che si utilizza per le traduzioni, o è possibile posizionarlo sul desktop per la facilità di accesso temporaneo e poi spostarlo nei Documenti o a una posizione simile per l'archiviazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24417,8 +24105,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that OmegaT does not support the Microsoft Office 97-2003 binary file format directly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212841Z">
-        <seg>Si noti che OmegaT non supporta direttamente il formato di file binario di Microsoft Office 97-2003. (mentre supporta i file di Office 2007-10)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121945Z">
+        <seg>Si noti che OmegaT non supporta direttamente il formato di file binario di Microsoft Office 97-2003.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25593,8 +25281,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is an excellent place to start, as the price is right, it is relatively easy to learn, and it runs on MAC and under Linux, as well as Windows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073615Z">
-        <seg>OmegaT è un ottimo punto d'inizio, come prezzo è giusto :-), è relativamente facile da imparare, e funziona su MAC, sotto Linux e con Windows. </seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121910Z">
+        <seg>OmegaT è un ottimo posto per iniziare, il suo prezzo è giusto :-), è relativamente facile da imparare e funziona su MAC, Linux e Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28105,16 +27793,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project 1: A simple MS Word file</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171817Z">
-        <seg>Progetto 1: Un semplice file MS Word</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120735Z">
+        <seg>Progetto 1: un semplice file MS Word</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Project 2: An HTML document</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172325Z">
-        <seg>Progetto 2: Un documento HTML</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120756Z">
+        <seg>Progetto 2: un documento HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -28721,8 +28409,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>References to OmegaT's more advanced or obscure functions have deliberately been omitted or kept to a minimum, since a description of them would almost certainly lead to you, as a new user, being unable to see the forest for the trees.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T104325Z">
-        <seg>I riferimenti alle funzioni più avanzate o oscure di OmegaT sono stati deliberatamente omessi o ridotti al minimo, poiché una loro descrizione porterebbe quasi certamente voi, come nuovo utente, per cercare di vedere gli alberi, a non essere in grado di vedere la foresta.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220415Z">
+        <seg>I riferimenti alle funzioni più avanzate o oscure di OmegaT sono stati deliberatamente omessi o ridotti al minimo, poiché una loro descrizione porterebbe quasi certamente, come nuovo utente, a non essere in grado di vedere la foresta a causa degli alberi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29978,8 +29666,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Screenshots from OmegaT versions: 1.6.0, 2.0.0</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T205120Z">
-        <seg>Screenshot da OmegaT in inglese versioni: 1.6.0, 2.0.0</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120559Z">
+        <seg>Schermate catturate dalle versioni OmegaT in inglese: 1.6.0, 2.0.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -30498,8 +30186,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>See User‘s Manual when you are ready for the fine points.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T081712Z">
-        <seg>Vedere 'Manuale utente' quando si è pronti per i punti più affinati.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220601Z">
+        <seg>Consultare il 'Manuale utente' quando si è pronti per i punti più affinati.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30618,8 +30306,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>See the following for more information on CAT tools, including on the many varieties available:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231638Z">
-        <seg>Vedere la seguente voce per ulteriori informazioni su strumenti CAT, tra cui le molte varietà disponibili:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T122145Z">
+        <seg>Vedere la seguente pagina web per ulteriori informazioni sugli strumenti di traduzione assistita, che includono le molte varietà disponibili:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31034,8 +30722,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Select the desired source and target languages by clicking on the arrows to the right of these fields.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072244Z">
-        <seg>Selezionare le lingue sorgente e di destinazione desiderate facendo clic sulle frecce a destra di questi campi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T215001Z">
+        <seg>Selezionare le lingue di partenza e di destinazione desiderate facendo clic sulle frecce a destra di questi campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31114,8 +30802,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Selecting a dictionary and “Install” causes the relevant dictionary to be downloaded from the Internet to the folder which you specified in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T081359Z">
-        <seg>La scelta e l'installazione di dizionari ne provoca lo scaricamento da Internet nella cartella specificata in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213938Z">
+        <seg>Selezionare di un dizionario e premere il pulsante "Installa" effettua lo scaricamento da Internet del dizionario scelto nella cartella specificata in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32764,8 +32452,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Table of Contents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171004Z">
-        <seg>Tabella dei contenuti</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120613Z">
+        <seg>Sommario</seg>
       </tuv>
     </tu>
     <tu>
@@ -33933,8 +33621,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The OmegaT user group</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172128Z">
-        <seg>Gruppo utenti di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120839Z">
+        <seg>Il Gruppo utenti di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -33973,8 +33661,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Project Files &lt;/f1&gt;&lt;f2&gt;dialog will display your source document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T082344Z">
-        <seg>La finestra di dialogo&lt;/f1&gt; &lt;f2&gt;"file di progetto" mostrerà il documento di origine.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220834Z">
+        <seg>La finestra di dialogo&lt;/f1&gt; &lt;f2&gt;"File del progetto" mostrerà il documento di origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35772,8 +35460,8 @@ sure this has not already been reported.</seg>
       <tuv lang="EN">
         <seg>The on-screen download instructions should be self-explanatory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213509Z">
-        <seg>Sullo schermo le istruzioni per il download dovrebbero essere auto-esplicative.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T124254Z">
+        <seg>Sullo schermo le istruzioni per lo scaricamento dovrebbero essere auto-esplicative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36343,8 +36031,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The second project uses an HTML file or set of files, downloaded from the Internet, and demonstrates OmegaT's capability to deal with graphics, &lt;s0/&gt;complex layout, and complex file structure.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T101415Z">
-        <seg>Il secondo progetto utilizza un file HTML o una struttura di file scaricati da Internet e dimostra le capacità di OmegaT con la grafica, &lt;s0/&gt; le disposizioni complesse e le strutture complesse di file.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T215850Z">
+        <seg>Il secondo progetto utilizza un file HTML o una struttura di file scaricati da Internet e dimostra le capacità di OmegaT con la grafica, &lt;s0/&gt; l'impaginazione complessa e le strutture di file complessi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36759,8 +36447,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The text search (find) function</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172557Z">
-        <seg>La funzione di ricerca testo (find)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120831Z">
+        <seg>La funzione di ricerca (trova) del testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -36920,8 +36608,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The user who needs to handle MS Office files will find it helpful to convert them using Open Office free software; the files can can then be saved in a Microsoft format, if desired, after the translation is finished.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212909Z">
-        <seg>L'utente che ha bisogno di gestire file MS Office troverà utile convertirli utilizzando il software gratuito Open Office; i file possono possono poi essere salvati nel formato di Microsoft, se lo si desidera, una volta terminata la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T122027Z">
+        <seg>L'utente che ha bisogno di gestire file MS Office troverà utile convertirli utilizzando il software gratuito OpenOffice; i file possono possono poi essere salvati nel formato di Microsoft, se lo si desidera, una volta terminata la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37329,7 +37017,7 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There you will learn how translation memories, glossaries, and the search function work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T101451Z">
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T215903Z">
         <seg>Qui si impara come lavorano le funzioni di ricerca, i glossari e le memorie di traduzione.</seg>
       </tuv>
     </tu>
@@ -37931,8 +37619,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T072658Z">
-        <seg>Questo documento è destinato ai traduttori che non hanno esperienza con strumenti di Computer Assisted Translation (CAT) e tratta solo le nozioni di base.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121004Z">
+        <seg>Questo documento è rivolto ai traduttori che non hanno esperienza con strumenti di traduzione assistita tramite computer (Computer Assisted Translation, CAT) e tratta solo le nozioni di base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38391,8 +38079,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is very useful for 1) making sure you don't skip text; 2) checking your work; and 3) putting both source and target text in a font and size that are comfortable for you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T072953Z">
-        <seg>Ciò è molto utile per 1) evitare di saltare testo; 2) controllare il lavoro; e 3) visualizzare i testi di origine e di destinazione in dimensioni e tipi di carattere comodi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121725Z">
+        <seg>Questo è molto utile per: 1) fare attenzione a non saltare testo; 2) controllare il proprio lavoro; e 3) regolare a proprio piacimento la dimensione e il tipo di carattere del testo di origine e di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40201,8 +39889,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translation memory (fuzzy match function)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T172439Z">
-        <seg>Memoria di traduzione(funzione di concordanza parziale)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120804Z">
+        <seg>Memoria di traduzione (funzione di concordanza parziale)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40705,8 +40393,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unpack (extract, unzip) the zip archive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T100845Z">
-        <seg>Spacchettare ivi (estrarre, decomprimere) l'archivio compresso .zip .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T124417Z">
+        <seg>Spacchettare ivi (estrarre, decomprimere) l'archivio compresso zip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41897,8 +41585,8 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       <tuv lang="EN">
         <seg>What is a CAT tool and why are they useful?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T180320Z">
-        <seg>Cos'è uno strumento per CAT e a chi serve?</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120658Z">
+        <seg>Cos'è uno strumento CAT e a chi serve?</seg>
       </tuv>
     </tu>
     <tu>
@@ -44435,8 +44123,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>Your translation file is now displayed in the Editing pane, and you can begin translating.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183654Z">
-        <seg>Il file di traduzione è ora visualizzato nel riquadro di modifica, e si può iniziare a tradurre.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220911Z">
+        <seg>Il file di traduzione è ora visualizzato nel riquadro di modifica, si può iniziare a tradurre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44509,14 +44197,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163305Z">
         <seg>Da "a" a "z" o da "A" a "Z", inclusi (intervallo)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>a)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184734Z">
-        <seg>a)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44689,14 +44369,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>b)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184737Z">
-        <seg>b)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>biocoenosis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201148Z">
@@ -44723,8 +44395,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>by Susan Welsh &amp; Marc Prior</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170740Z">
-        <seg>da Susan Welsh &amp; Marc Prior</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120453Z">
+        <seg>di Susan Welsh &amp; Marc Prior</seg>
       </tuv>
     </tu>
     <tu>
@@ -44733,14 +44405,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092302Z">
         <seg>da altri strumenti di traduzione</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>c)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184743Z">
-        <seg>c)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45709,14 +45373,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104651Z">
         <seg>href (URL di co&amp;llegamenti)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T212913Z">
-        <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -47369,26 +47025,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>www.omegat.org</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184721Z">
-        <seg>www.omegat.org</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>www.omegat.org/training/materials/legacy.zip</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T064327Z">
         <seg>www.omegat.org/training/materials/legacy.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>www.openoffice.org</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184715Z">
-        <seg>www.openoffice.org</seg>
       </tuv>
     </tu>
     <tu>
