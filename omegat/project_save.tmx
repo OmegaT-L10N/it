@@ -18953,8 +18953,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you prefer to proofread your translation on paper, print out the &lt;f0&gt;target document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T195839Z">
-        <seg>Se si preferisce rileggere la traduzione su carta, si stampi il documento di destinazione &lt;f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174353Z">
+        <seg>Se si preferisce rileggere la traduzione su carta, si stampi il &lt;f0&gt;documento di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19299,8 +19299,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If your project consists of multiple source files, possibly in multiple sub-folders and with accompanying graphics files, etc., as is the case with the examples in our second, HTML, project, the entire structure of the files in &lt;f1&gt;/source&lt;/f1&gt; is reproduced in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T195749Z">
-        <seg>Se il vostro progetto è costituito da più file di origine, possibilmente in sottocartelle multiple e con accompagnamento di file grafici, ecc., come nel caso del nostro secondo progetto HTML, l'intera struttura dei file in &lt;f1&gt;/source&lt;/f1&gt; sarà riprodotta in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174303Z">
+        <seg>Se il vostro progetto è costituito da più file di origine, magari in sottocartelle multiple e con la presenza di file grafici, ecc., come nel caso del nostro secondo progetto HTML, l'intera struttura dei file in &lt;f1&gt;/source&lt;/f1&gt; sarà riprodotta in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
