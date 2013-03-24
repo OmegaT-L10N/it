@@ -15402,8 +15402,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T213959Z">
-        <seg>Per esempio, "&lt;e0&gt;Did it make sense?</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T214041Z">
+        <seg>Per esempio, la frase "&lt;e0&gt;Did it make sense?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17368,6 +17368,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T184814Z">
         <seg>Non ne ero sicuro."&lt;/i1&gt; dovrebbe essere separata in due segmenti coincidenti con due proposizioni, e ciò significa che dovrebbe esserci una regola di interruzione per "&lt;c2&gt;?&lt;/c2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T214050Z">
+        <seg>I was not sure&lt;/e0&gt;." dovrebbe essere divisa in due segmenti.</seg>
       </tuv>
     </tu>
     <tu>
