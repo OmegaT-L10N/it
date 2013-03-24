@@ -12117,6 +12117,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T194527Z">
+        <seg>Sono già disponibili regole di segmentazione affidabili per molte lingue, dunque molto probabilmente non si dovrà impegnare tempo a scrivere le proprie regole di segmentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the &lt;a0&gt;Editing behaviour&lt;/a0&gt; the editing field for the untranslated segment may be empty, contain the source text or the translation of the string most similar to the one you are going to translate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T164312Z">
