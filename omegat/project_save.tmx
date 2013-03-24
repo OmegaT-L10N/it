@@ -17398,8 +17398,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Identify the .tmx file and the glossary (.txt) file for your language combination.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214518Z">
-        <seg>Individuare i file .tmx e i glossari (.txt) per la combinazione linguistica.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T180413Z">
+        <seg>Individuare i file .tmx e quello del glossario (.txt) per la combinazione linguistica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19089,8 +19089,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you view these files in your browser on your PC, they will differ slightly in appearance from the pages on the Internet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160112Z">
-        <seg>Se si visualizzano questi file nel vostro browser sul vostro PC, magari differiscono leggermente nell'aspetto dalle pagine su Internet.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T180553Z">
+        <seg>Se si visualizzano questi file nel browser sul proprio PC, essi potrebbero differire leggermente nell'aspetto rispetto alle pagine presenti su Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20809,8 +20809,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It contains a number of translation memory files (with the extension .tmx) and OmegaT glossary files (with the extension .txt).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214414Z">
-        <seg>Esso contiene un numero file Glossario di OmegaT (con estensione txt) e i file di memoria di traduzione (con l'estensione .tmx).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T180304Z">
+        <seg>Esso contiene alcuni file di memoria di traduzione (con l'estensione .tmx) e del glossario di OmegaT (con l'estensione .txt).</seg>
       </tuv>
     </tu>
     <tu>
