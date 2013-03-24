@@ -6135,6 +6135,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Sentence level segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195906Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Segmentazione a livello di frase&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Source level segmentation&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195549Z">
@@ -14863,6 +14871,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files containing formatting (OpenOffice.org documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195807Z">
+        <seg>I file contenenti formattazione (documenti OpenOffice.org, HTML, ecc.) sono segmentati in base ai tag a livello di blocco (paragrafi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files to Translate - OmegaT 2.0 User Manual</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202821Z">
@@ -15516,6 +15532,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T191649Z">
         <seg>Per esempio, le regole per il francese del Canada (FR-CA) dovrebbero precedere quelle per il francese comune (FR.*) e anche quelle predefinite (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195707Z">
+        <seg>Per esempio, i file di testo possono essere segmentati in corrispondenza delle interruzioni di riga, in base alle righe vuote oppure potrebbero non venire affatto segmentati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39667,6 +39691,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T181711Z">
         <seg>Gli &lt;a1&gt;attributi&lt;/a1&gt; dell'oggetto traducibile nei file XHTML o HTML possono essere estratti come segmenti separati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195841Z">
+        <seg>Gli attributi dell'oggetto traducibile nei file XHTML o HTML possono essere estratti come segmenti separati.</seg>
       </tuv>
     </tu>
     <tu>
