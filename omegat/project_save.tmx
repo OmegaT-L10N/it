@@ -9369,6 +9369,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T213458Z">
+        <seg>Ad ogni posizione del cursore vengono applicate le regole, che consistono di un modello &lt;e0&gt;Prima&lt;/e0&gt; e &lt;e1&gt;Dopo&lt;/e1&gt;, nell'ordine dato al fine di verificare se tutti i modelli &lt;e2&gt; Prima&lt;/e2&gt; sono validi per il testo alla sinistra del cursore e il corrispondente modello &lt;e3&gt;Dopo&lt;/e3&gt; per il testo alla destra del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T153939Z">
