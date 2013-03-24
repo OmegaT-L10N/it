@@ -4089,8 +4089,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;HTML is generally very tolerant of corrupted or missing tags; the result is likely to be a file which will open, but with unexpected or undesired formatting results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160535Z">
-        <seg>&lt;f0&gt;HTML è in generale molto tollerante a tag mancanti o danneggiati; il risultato rischia di essere un file che si aprirà, ma con imprevisti o indesiderati risultati di formattazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T181524Z">
+        <seg>&lt;f0&gt;L'HTML è di solito molto tollerante a tag mancanti o danneggiati; spesso il risultato è un file che si apre ma che contiene risultati di formattazione inaspettati o indesiderati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31146,8 +31146,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Simply click through these by pressing Enter to confirm that the target is to remain the same.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T105418Z">
-        <seg>Clicca attraverso questi premendo Enter per confermare l'obiettivo di lasciarli invariati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T181332Z">
+        <seg>Oltrepassare questi elementi semplicemente premendo Invio per confermare che il segmento di destinazione resterà invariato.</seg>
       </tuv>
     </tu>
     <tu>
