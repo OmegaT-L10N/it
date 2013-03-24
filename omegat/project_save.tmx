@@ -12711,8 +12711,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do not put an article before the noun in a glossary; if you want to indicate the gender of the noun, put that after the first tab in the glossary, in the column where you put the translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T165018Z">
-        <seg>Non mettere un articolo prima del sostantivo in un glossario; se si desidera indicare il genere del sostantivo, si metta dopo la prima tab nel Glossario, nella colonna dove avete messo la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185708Z">
+        <seg>Non mettere un articolo prima del sostantivo in un glossario; se si vuole indicare il suo genere, si metta dopo la prima tabulazione nel Glossario, nella colonna in cui è stata inserita la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38504,8 +38504,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="EN">
         <seg>Thus, if &lt;t0/&gt;your source document contains the words &lt;f1&gt;ein Mensch,&lt;/f1&gt; a glossary that has the source text as &lt;f2&gt;der Mensch &lt;/f2&gt;will not find it; use &lt;f3&gt;Mensch&lt;/f3&gt;&lt;f4&gt; for the glossary instead.&lt;/f4&gt;&lt;f5&gt; For more on glossaries, including adding new term&lt;/f5&gt;&lt;f6&gt;s, consult the User‘s Manual.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T103503Z">
-        <seg>Così, se &lt;t0/&gt; il vostro documento di origine contiene le parole &lt;f1&gt;ein Mensch,&lt;/f1&gt; un glossario che contiene il testo di origine &lt;f2&gt;der Mensch &lt;/f2&gt;non lo troverà; utilizzare invece &lt;f3&gt;Mensch&lt;/f3&gt; &lt;f4&gt; per il Glossario.&lt;/f4&gt;&lt;f5&gt; Per ulteriori informazioni su glossari, inclusa l'aggiunta di un nuovo termine&lt;/f5&gt;&lt;f6&gt; consultare il manuale utente.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185819Z">
+        <seg>Se &lt;t0/&gt; il documento di origine, dunque, contiene le parole &lt;f1&gt;ein Mensch,&lt;/f1&gt; un glossario che contiene il testo di origine &lt;f2&gt;der Mensch &lt;/f2&gt;non lo troverà; utilizzare invece &lt;f3&gt;Mensch&lt;/f3&gt; &lt;f4&gt; per il Glossario.&lt;/f4&gt;&lt;f5&gt; Per ulteriori informazioni sui glossari, inclusa l'aggiunta di un nuovo termine&lt;/f5&gt;&lt;f6&gt;, consultare il Manuale dell'utente.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
