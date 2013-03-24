@@ -6135,6 +6135,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Break rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T213858Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Regole&lt;/s1&gt; &lt;t2&gt;Regola di interruzione&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Segmentation rules&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T102539Z">
@@ -9950,6 +9958,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T222050Z">
         <seg>Rilevatori di limitazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T213905Z">
+        <seg>Regola di interruzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -15384,6 +15400,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T213959Z">
+        <seg>Per esempio, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;a0&gt;text files&lt;/a0&gt; may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T180939Z">
@@ -18229,6 +18253,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T161118Z">
         <seg>Se il testo richiesto per le copertine è troppo lungo per essere ivi riprodotto in modo leggibile, dovresti mettere la prima parte (fino a quanto ragionevolmente ci può stare) in copertina, e continuare nelle pagine immediatamente seguenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T213757Z">
+        <seg>Se esiste una corrispondenza con la regola, o il cursore passa oltre senza inserire un'interruzione di segmento (per una regola di eccezione), oppure viene creata una nuova interruzione di segmento alla posizione attuale del cursore (per la regola di interruzione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30936,6 +30968,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T213928Z">
+        <seg>Separa il testo di origine in segmenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T183759Z">
@@ -36657,6 +36697,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T104147Z">
         <seg>La traduzione dei segmenti dipende dal parametro &lt;c4&gt;--pseudotranslatetype&lt;/c4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T213830Z">
+        <seg>Le due regole si comportano nel modo spiegato di seguito:</seg>
       </tuv>
     </tu>
     <tu>
