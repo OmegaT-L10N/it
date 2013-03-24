@@ -2369,8 +2369,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;Don't, however, make corrections in the Open Office Writer or MS Word file:&lt;/f1&gt; find the relevant segments in OmegaT (using the text search function, to be discussed below, Step &lt;f2&gt;7.B.4&lt;/f2&gt;) and make them there.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130320T105031Z">
-        <seg>&lt;/f0&gt; &lt;f1&gt;Non apportare, tuttavia le correzioni direttamente nel file Open Office Writer o MS Word:&lt;/f1&gt; aggiornate invece i segmenti interessati in OmegaT (utilizzando la funzione di ricerca di testo, come vedremo di seguito, passo &lt;f2&gt;7.B.4&lt;/f2&gt;) ed ivi effettuare le necessarie correzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174536Z">
+        <seg>&lt;/f0&gt; &lt;f1&gt;Non apportare, tuttavia le correzioni direttamente nel file Open Office Writer o MS Word:&lt;/f1&gt; cercare e aggiornare invece i segmenti interessati in OmegaT (utilizzando la funzione di ricerca del testo, come vedremo di seguito al passaggio &lt;f2&gt;7.B.4&lt;/f2&gt;) ed effettuare qui le correzioni necessarie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17971,8 +17971,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the client requires MS Office format, simply save the target file in OpenOffice.org in the relevant MS format (.doc, etc.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200425Z">
-        <seg>Se il cliente richiede il formato MS Office vecchio, semplicemente salvate il file di destinazione da OpenOffice.org nel formato MS pertinente (.doc, ecc.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174718Z">
+        <seg>Se il cliente richiede il formato MS Office, basta salvare il file di destinazione OpenOffice.org nel formato MS pertinente (.doc, e così via)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42788,8 +42788,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You are now ready to deliver the job.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085542Z">
-        <seg>Dopo un ultimo controllo positivo dei documenti tradotti nel loro formato originale, siete pronti a consegnare il lavoro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174610Z">
+        <seg>Dopo un ultimo controllo positivo dei documenti tradotti nel loro formato originale, il lavoro è pronto per essere consegnato.</seg>
       </tuv>
     </tu>
     <tu>
