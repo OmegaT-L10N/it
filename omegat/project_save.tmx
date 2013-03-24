@@ -8250,8 +8250,8 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       <tuv lang="EN">
         <seg>All files selected for translation in this tutorial are from Wikipedia; some projects comprise more than one file, to familiarize you with OmegaT's usefulness for such structured documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200905Z">
-        <seg>Tutti i file selezionati per la traduzione in questo tutorial sono da Wikipedia; alcuni progetti comprendono più di un file, per familiarizzare con utilità di OmegaT per tali documenti strutturati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175024Z">
+        <seg>Tutti i file selezionati per la traduzione in questa esercitazione provengono da Wikipedia; alcuni progetti comprendono più di un file in modo da familiarizzare con le utilità di OmegaT per tali documenti strutturati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21887,8 +21887,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch OmegaT and create a new project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200446Z">
-        <seg>Lanciare OmegaT e creare un nuovo progetto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174840Z">
+        <seg>Avviare OmegaT e creare un nuovo progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30858,8 +30858,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Set it up just as you did with &lt;f1&gt;My Project-1&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T200542Z">
-        <seg>Configurarlo come avete fatto con il &lt;f1&gt;Il mio progetto-1&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174858Z">
+        <seg>Configurarlo come è stato fatto con &lt;f1&gt;Il mio progetto-1&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
