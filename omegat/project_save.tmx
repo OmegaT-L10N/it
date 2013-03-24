@@ -3855,6 +3855,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195056Z">
+        <seg>&lt;e0&gt;Attenzione: &lt;/e0&gt;dato che il testo verrà segmentato in modo diverso dopo aver modificato le opzioni dei filtri, è possibile dover iniziare da zero la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T112635Z">
@@ -9333,6 +9341,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T080521Z">
         <seg>Allo stesso tempo, usa come riferimento le memorie di traduzione da traduzioni precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T195241Z">
+        <seg>Allo stesso tempo, i segmenti precedenti ritenuti validi, nella memoria di traduzione del progetto verranno trasformati in segmenti orfani.</seg>
       </tuv>
     </tu>
     <tu>
