@@ -7368,6 +7368,14 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175520Z">
+        <seg>È disponibile un'esercitazione dettagliata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog box appears with two options:  "&lt;s14&gt;Keep current format&lt;/s14&gt;" and  "&lt;s15&gt;Save in ODF format&lt;/s15&gt;".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T225812Z">
@@ -8777,6 +8785,22 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T142105Z">
         <seg>Un formato immagine non è trasparente se usato per quantità notevoli di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180013Z">
+        <seg>Uno strumento intelligente di allineamento a riga di comando per produrre file di memoria di traduzione da testi preesistenti con relative traduzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An online dictionary management tool that integrates with Omegat.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175904Z">
+        <seg>Strumento di gestione dizionario online che si integra con Omegat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12269,6 +12293,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180300Z">
+        <seg>Descrizioni e collegamenti a script/procedure di Samuel Murray.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dia&amp;grams</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T152503Z">
@@ -13697,6 +13729,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T093752Z">
         <seg>Abilitato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175723Z">
+        <seg>Consente ad alcuni formati di file, che non possono essere gestiti in modo nativo in OmegaT, di essere tradotti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16109,6 +16149,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T110023Z">
         <seg>GNOME potrebbe non visualizzare i file di icona nei formati disponibili e all'inizio attendere un file in formato SVG, ma se la cartella è selezionata i file dovrebbero apparire e OmegaT_icon.png essere selezionabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180033Z">
+        <seg>Strumento di allineamento GUI per produrre file di memoria di traduzione da testi preesistenti con relative traduzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21809,6 +21857,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212822Z">
         <seg>Curdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175911Z">
+        <seg>LF Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -29668,6 +29724,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095515Z">
         <seg>Samuel Murray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray's scripts and procedures</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180205Z">
+        <seg>Script e procedure di Samuel Murray</seg>
       </tuv>
     </tu>
     <tu>
