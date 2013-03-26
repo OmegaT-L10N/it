@@ -2559,6 +2559,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download Overview&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190721Z">
+        <seg>&lt;a0&gt;Informazioni generali sul download&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Download Selector&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190551Z">
+        <seg>&lt;a0&gt;Selettore di download&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Glossaries&lt;/a0&gt;, &lt;a1&gt;Dictionaries&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T095303Z">
@@ -8645,6 +8661,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T182415Z">
         <seg>In alternativa, fare doppio-clic sul file OmegaT.exe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, if you already know which version you wish to download, click on the link to the Download Overview.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190506Z">
+        <seg>In alternativa, se si sa già quale versione si desidera scaricare, clicca sul link per il Download Overview.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16808,6 +16832,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T121832Z">
         <seg>Greco, moderno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guides you step-by-step to selecting a suitable OmegaT version for download.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190700Z">
+        <seg>Guida passo-passo a scegliere una versione adatta di OmegaT per il download.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25639,6 +25671,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190445Z">
+        <seg>OmegaT è disponibile in diverse versioni per soddisfare una gamma di esigenze degli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T162834Z">
@@ -26253,6 +26293,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T174410Z">
         <seg>Le caratteristiche principali di OmegaT sono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, free memory translation tool</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191416Z">
+        <seg>OmegaT, free memory translation tool</seg>
       </tuv>
     </tu>
     <tu>
@@ -27231,6 +27279,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T203402Z">
         <seg>La sovrapposizione è il risultato della scorretta manipolazione della coppie di tag e porterà certamente a un danneggiamento della formattazione e, a volte, all'impossibilità di aprire il file tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Overview of OmegaT versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190814Z">
+        <seg>Informazioni generali sulle versioni di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39347,6 +39403,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T102310Z">
         <seg>Per concludere l'operazione di traduzione, aprire i documenti di arrivo con l'applicazione corrispondente (navigatore, elaboratore di testi ecc.) per verificare il contenuto e la corretta formattazione del documento finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190453Z">
+        <seg>Per trovare la versione più adatta per voi, seguire il link qui sotto per il selettore di Download.</seg>
       </tuv>
     </tu>
     <tu>
