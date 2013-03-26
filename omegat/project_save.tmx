@@ -1521,6 +1521,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Add numbers to all segments, making them all "unique"&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180919Z">
+        <seg>- Aggiungere numeri a tutti i segmenti, il che li rende tutti "unici" &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Add terms to a glossary whilst translating in OmegaT&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180821Z">
+        <seg>- Aggiungere termini a un glossario mentre si sta traducendo in OmegaT &lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Android resource</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T175806Z">
@@ -1549,6 +1565,22 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120511T191028Z">
         <seg>- Camtasia per Windows (*.camproj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180956Z">
+        <seg>-Controllo ortografico (varie procedure)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Create a TMX file containing all strings, with identical source and target&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180752Z">
+        <seg>- Creare un file TMX contenente tutte le stringhe, con testo di origine e di destinazione  identico&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1589,6 +1621,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120511T190700Z">
         <seg>- testo codificato (*.UTF8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Extract all source text from the project files into a single, large text file&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180625Z">
+        <seg>- Estrarre tutto il testo di partenza dal file di progetto in un unico file di testo, grande&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1777,10 +1817,26 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Remove all text except tags, or all tags except text&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180942Z">
+        <seg>- Rimuovere tutto il testo tranne i tag, o tutti i tag tranne il testo &lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- ResX files (*.resx)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120511T190904Z">
         <seg>- file ResX (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Skip segments containing a certain set of characters&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180452Z">
+        <seg>- Ignorare segmenti contenenti un certo insieme di caratteri &lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23567,6 +23623,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180342Z">
+        <seg>La maggior parte di questi script richiede MS Windows, anche se alcune possono lavorare anche su altre piattaforme. &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most users will find the default file filter options sufficient.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T101531Z">
@@ -29988,6 +30052,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224045Z">
         <seg>Cartella degli script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180351Z">
+        <seg>Script/procedure sono disponibili per consentire di effettuare le seguenti operazioni: &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41187,6 +41259,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181307Z">
+        <seg>Gruppo di utenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User interface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092503Z">
@@ -41544,6 +41624,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T101941Z">
         <seg>VLDocking Framework 2.1.4 di VLSolutions (licenza CeCILL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valid XHTML</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181008Z">
+        <seg>XHTML valido</seg>
       </tuv>
     </tu>
     <tu>
@@ -42508,6 +42596,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T212716Z">
         <seg>Durante il lavoro di traduzione, in questa cartella vengono creati (e aggiornati durante il processo di traduzione) file aggiuntivi (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx e project_name-level2.tmx&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who we are</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181251Z">
+        <seg>Chi siamo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46877,6 +46973,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204425Z">
         <seg>strumento per memorie di traduzione, OpenOffice, GPL, CAT, traduzione aiutata da computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation memory, TM, computer-aided translation, computer-assisted translation, CAT, GPL, open source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181213Z">
+        <seg>memoria di traduzione, TM, traduzione assistita da computer, CAT, GPL, open source</seg>
       </tuv>
     </tu>
     <tu>
