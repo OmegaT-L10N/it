@@ -2783,6 +2783,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T155953Z">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T205328Z">
@@ -12901,6 +12909,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T155949Z">
+        <seg>La documentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T212231Z">
@@ -13081,6 +13097,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T111843Z">
         <seg>Scaricare &lt;e0&gt;OmegaT_2.5.x_Mac.zip.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T155911Z">
+        <seg>Scaricare OmegaT</seg>
       </tuv>
     </tu>
     <tu>
