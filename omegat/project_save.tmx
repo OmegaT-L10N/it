@@ -25215,6 +25215,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185351Z">
+        <seg>OmegaT ha anche le seguenti mailing list e inseguitori, che sono ospitati su Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT also supports multi-word terms, but in a very basic manner: if both words of a term are found in the current segment, the term will be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T221344Z">
@@ -33919,6 +33927,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090418Z">
         <seg>Il gruppo degli sviluppatori di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185409Z">
+        <seg>Lista degli sviluppatori di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
