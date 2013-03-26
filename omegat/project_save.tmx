@@ -8120,6 +8120,14 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190348Z">
+        <seg>Amministrazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T130011Z">
@@ -10134,6 +10142,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T204458Z">
         <seg>Gli errori nel testo con tag tradotto sono spesso un problema nei file OpenDocument o OpenOffice.org, in quanto potrebbe non essere possibile aprirli a causa di problemi dei tag generati nel corso del processo di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190224Z">
+        <seg>Bug, richieste di nuove funzionalità e problemi di documentazione sono gestite su Sourceforge dai seguenti sistemi di revisione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13005,6 +13021,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190336Z">
+        <seg>Sistema di revisione della documentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T212231Z">
@@ -14779,6 +14803,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T151027Z">
         <seg>Errore irrecuperabile alla riga {0}, colonna {1} durante l'analisi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190232Z">
+        <seg>Sistema di revisione richieste di funzionalità</seg>
       </tuv>
     </tu>
     <tu>
@@ -20967,6 +20999,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190133Z">
+        <seg>Sistema di revisione di problemi/bug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also automatically translates any other identical segments that it detects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T124811Z">
@@ -25217,8 +25257,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185351Z">
-        <seg>OmegaT ha anche le seguenti mailing list e inseguitori, che sono ospitati su Sourceforge:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185807Z">
+        <seg>OmegaT ha anche le seguenti mailing list e tracciatori, che sono ospitati su Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27572,10 +27612,26 @@ per determinare l'origine dell'errore e riprovare.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project co-ordinator&lt;/a0&gt; regarding any administration issues.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190410Z">
+        <seg>Si prega di contattare il &lt;a0&gt;Coordinatore del progetto OmegaT&lt;/a0&gt; per quanto riguarda eventuali problemi di amministrazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the Yahoo user group&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183318Z">
         <seg>Si prega di contattare il gruppo di utenti di Yahoo&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185852Z">
+        <seg>Non utilizzare questi sistemi di rilevamento prima prima di aver sollevato la questione dell'user group e/o nella mailing list.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38477,6 +38533,22 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185625Z">
+        <seg>Questa lista è per le discussioni più tecniche di sviluppo e delle caratteristiche ed è destinata agli sviluppatori di OmegaT e altre parti interessate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185648Z">
+        <seg>Questa mailing list è per i localizzatori di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This makes it easy to search for pretranslated segments later.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T095601Z">
@@ -39947,6 +40019,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101207T185703Z">
         <seg>Su&amp;ggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190141Z">
+        <seg>Sistema di revisione</seg>
       </tuv>
     </tu>
     <tu>
@@ -45541,6 +45621,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095402Z">
         <seg>http://lists.sourceforge.net/mailman/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?atid=520347&amp;group_id=68187&amp;func=browse</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185819Z">
+        <seg>http://sourceforge.net/tracker/?atid=520347&amp;group_id=68187&amp;func=browse</seg>
       </tuv>
     </tu>
     <tu>
