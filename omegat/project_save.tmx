@@ -1211,6 +1211,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(It will, of course, check for Bolivian rather than Mexican Spanish!)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193637Z">
+        <seg>(, Naturalmente, controllerà per Boliviano anziché spagnolo messicano!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Lion).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094416Z">
@@ -8917,6 +8925,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193911Z">
+        <seg>Un aspetto importante di questa libertà è che gli utenti possono anche modificare il codice del programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180013Z">
@@ -9437,6 +9453,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T202013Z">
         <seg>Come qualsiasi altra applicazione, anche OmegaT presenta questo problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194215Z">
+        <seg>Come altrove nel progetto OmegaT, il lavoro di programmazione OmegaT è fatto da volontari, e in sintonia con la filosofia del progetto, gli sviluppi e i miglioramenti che fanno di OmegaT sono in definitiva a loro discrezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10834,6 +10858,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that you have write permissions for the spelling dictionary folder you have selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193616Z">
+        <seg>Verificare che si dispongano di autorizzazioni di scrittura per la cartella di dizionario di ortografia che avete selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T105952Z">
@@ -11691,6 +11723,14 @@ Submenu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194352Z">
+        <seg>Comode funzioni alternative o soluzioni possono anche esistere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copies selected text to clipboard and deletes selected text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T220851Z">
@@ -12481,6 +12521,22 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180300Z">
         <seg>Descrizioni e collegamenti a script/procedure di Samuel Murray.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194403Z">
+        <seg>Discussione tecnica dettagliata delle modifiche è meglio condotte direttamente con gli sviluppatori di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194143Z">
+        <seg>Sviluppo di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15808,6 +15864,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193653Z">
+        <seg>Ad esempio, se avete selezionato ES-MX (spagnolo messicano) come la lingua di destinazione, i file di dizionario devono essere denominati es_MX.dic ed es_MX.aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you want the text filter to handle readme files (&lt;c6&gt;readme&lt;/c6&gt;, &lt;c7&gt;read.me&lt;/c7&gt;, and &lt;c8&gt;readme.txt&lt;/c8&gt;) you should use the pattern &lt;c9&gt;read*&lt;/c9&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T165724Z">
@@ -15876,6 +15940,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T123647Z">
         <seg>Per esempio, il modello &lt;l0&gt;*.xhtml&lt;/l0&gt; è associato ai file con estensione &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194137Z">
+        <seg>Per esempio, non c'è nulla per fermare un utente a scrivere il proprio manuale dell'utente o un video dimostrativo di OmegaT, e se il progetto considera la distanza utile, è probabile essere reso disponibile alla comunità di OmegaT degli utenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16109,6 +16181,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T181911Z">
         <seg>A questo proposito, scaricare ed eseguire il file seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194409Z">
+        <seg>Per questo scopo, esiste una dedicata &lt;a0&gt;mailing list degli sviluppatori&lt;/a0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -17456,6 +17536,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T203335Z">
         <seg>Il modo in cui vengono fisicamente trasmesse le informazioni testuali nel set di caratteri specificato (per es., quali sono i codici numerici che il computer usa per interpretare e visualizzare il testo) dipende dalla &lt;s0&gt;codifica&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How they do so is very much up to them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194104Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;Come farlo è molto fino a loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20450,6 +20538,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Options &gt; Spell Checking dialog, select or create a dictionary file folder on your hard drive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193602Z">
+        <seg>In Opzioni &gt; finestra di dialogo controllo ortografico, selezionare o creare una cartella di file di dizionario sul vostro disco rigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Slovenian version both words have been translated as nouns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T091103Z">
@@ -20718,6 +20814,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T125959Z">
         <seg>Nelle &amp;traduzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194032Z">
+        <seg>A sua volta, essi sono liberi e anzi incoraggiati (ma non impegnati in alcun modo) a contribuire al progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21075,6 +21179,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T122125Z">
         <seg>Installazione non riuscita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing new spelling dictionaries manually</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193539Z">
+        <seg>L'installazione di nuovi dizionari ortografici manualmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -24223,6 +24335,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194333Z">
+        <seg>Nuovi utenti di OmegaT sono incoraggiati a fare qualche suggerimento qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New versions of OmegaT can be downloaded from &lt;a3&gt;OmegaT SourceForge.net Project&lt;/a3&gt;, where you may also file &lt;a4&gt;bug reports&lt;/a4&gt; and &lt;a5&gt;requests for enhancements&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T174031Z">
@@ -24587,6 +24707,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T133217Z">
         <seg>Non è un file XML valido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193857Z">
+        <seg>Non solo può essere utilizzato gratuitamente, gli utenti sono anche liberi di fare copie di esso e distribuirli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25903,6 +26031,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193814Z">
+        <seg>OmegaT è un'applicazione e un progetto open-source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is available bundled with a SUN Java JRE for Linux (Intel x86) and Windows platforms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T121907Z">
@@ -26761,6 +26897,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194415Z">
+        <seg>Una volta che un utente ha formulato una proposta di modifica o il potenziamento di OmegaT, esiste una procedura definita per la sua presentazione al team di sviluppo per la considerazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once all the segments have been translated (or before, if you request) &lt;a0&gt;OmegaT&lt;/a0&gt; uses the translation memory to generate the translated document(s) in a “Target” folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T101054Z">
@@ -26917,6 +27061,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T181811Z">
         <seg>Uno o più problemi citati sopra sono stati risolti ma il progetto non è stato ricaricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194342Z">
+        <seg>Uno dei motivi è che la funzione desiderata può già sono stata attuata, o che ci possono essere motivi perché non può essere attuato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27808,6 +27960,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095452Z">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193731Z">
+        <seg>Filosofia</seg>
       </tuv>
     </tu>
     <tu>
@@ -34363,6 +34523,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193958Z">
+        <seg>La filosofia del progetto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT screen consists of &lt;a0&gt;one space with three distinct windows&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T092010Z">
@@ -35488,6 +35656,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194316Z">
+        <seg>Il primo di questi è il &lt;a0&gt;gruppo di utenti di OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first of these is:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T081517Z">
@@ -36258,6 +36434,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193743Z">
+        <seg>La filosofia dell'open source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The original document is not changed; rather, a new document is created based on the content of an existing one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T101350Z">
@@ -36417,6 +36601,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T174634Z">
         <seg>Sarà aperto il segmento immediatamente precedente che contenga una nota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedure is termed an "RFE" (Request for Feature Enhancement) and is managed &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194434Z">
+        <seg>La procedura è definita un "RFE" (richiesta di funzionalità Enhancement) ed è gestita &lt;a0&gt;qui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36705,6 +36897,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T164007Z">
         <seg>Sia che si desideri aggiungere un nuovo modello o modificarne uno esistente, verrà comunque usata la stessa finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194006Z">
+        <seg>Lo stesso spirito può essere trovato all'interno del progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37767,6 +37967,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194305Z">
+        <seg>C'è tuttavia una notevole &amp;&amp;&amp;&amp;portata nell'ambito del progetto per gli utenti a suggerire miglioramenti e influenzare il corso di sviluppo futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T181650Z">
@@ -38449,6 +38657,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194423Z">
+        <seg>In questo modo i numerosi suggerimenti per essere gestito più facilmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T134600Z">
@@ -38649,6 +38865,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193952Z">
+        <seg>Questo è descritto come "libero come nel discorso", in contrasto al "libero come in birra".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is equivalent to not using the parameter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T113254Z">
@@ -38817,6 +39041,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193431Z">
         <seg>Questa è la cartella in cui verranno collocati i file dei dizionari ortografici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194323Z">
+        <seg>Questo è l'obiettivo principale della Comunità degli utenti di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38993,6 +39225,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T210004Z">
         <seg>Ciò significa che se la lingua di partenza è LTR e quella di arrivo è RTL, o viceversa, potrebbe essere necessario alternare le due modalità per visualizzare agevolmente i segmenti di partenza e digitare quelli di arrivo nella modalità relativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193844Z">
+        <seg>Questo significa che il codice sorgente del programma OmegaT è liberamente disponibile, e licenza di OmegaT dà agli utenti una notevole libertà di utilizzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40185,6 +40425,14 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193935Z">
+        <seg>Per il movimento open source, è più importante il fatto che non devono pagare per esso la libertà che gli utenti devono modificare il programma in base alle proprie esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To translate &lt;a0&gt;OmegaT&lt;/a0&gt;'s user interface, user manual or other related documents:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T220336Z">
@@ -40911,6 +41159,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Troubleshooting checklist</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193624Z">
+        <seg>Lista di controllo per la risoluzione dei problemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turkish</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213358Z">
@@ -40979,6 +41235,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T223911Z">
         <seg>URL dei dizionari in linea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs of repositories of spelling dictionaries:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193534Z">
+        <seg>URL dei repository di dizionari ortografici:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41936,6 +42200,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110125T230653Z">
         <seg>Utente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194010Z">
+        <seg>Gli utenti sono liberi di scaricare e utilizzare il programma.</seg>
       </tuv>
     </tu>
     <tu>
