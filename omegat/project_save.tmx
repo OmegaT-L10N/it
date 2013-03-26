@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192029Z">
+        <seg>Utilità di allineamento "Aligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192204Z">
+        <seg>Utilità di allineamento "Bligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Error", "Warning", "Exception", or "died unexpectedly" then you have probably</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093320Z">
@@ -1199,6 +1215,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094416Z">
         <seg>(Lion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191925Z">
+        <seg>(Da non confondere con la funzione "Esorta un testo", che permette anche script da utilizzare con OmegaT, ma su un livello più elementare.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7311,6 +7335,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191623Z">
+        <seg>È anche disponibile un &lt;a0&gt;opuscolo esplicativo che descrive il plug-in tokenizer&lt;/a0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121118Z">
@@ -10850,6 +10882,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks for language errors (style, grammar, etc.).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191758Z">
+        <seg>Verifica la presenza di errori di lingua (stile, grammatica, ecc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T225044Z">
@@ -11558,6 +11598,30 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T195412Z">
         <seg>Contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192259Z">
+        <seg>Dovuta al contributo di Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192250Z">
+        <seg>Dovuta al contributo di Dmitri Gabinski.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192324Z">
+        <seg>Dovuta al contributo di Henry Pijffers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13849,6 +13913,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T095402Z">
         <seg>Consente di avviare una ricerca che non consideri le lettere maiuscole e minuscole (per impostazione predefinita, il modello distingue tra maiuscole e minuscole).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables external scripts to access OmegaT's functionality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191813Z">
+        <seg>Abilita gli script esterni ad accedere a funzionalità di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19737,6 +19809,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192005Z">
+        <seg>Importante: per poter utilizzare il plug-in, è necessario installare una versione più recente di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Imported files handling</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101422Z">
@@ -20959,6 +21039,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191954Z">
+        <seg>Integra la funzionalità di traduzione automatica Apertium in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intended readership</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T180346Z">
@@ -21685,6 +21773,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java command-line script for merging two or more TMX files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192313Z">
+        <seg>Java script da riga di comando per la fusione di due o più file TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192435Z">
+        <seg>Java script da riga di comando per la rimozione di unità di traduzione "superflue" da un file TMX: elimina tutti le TU senza segmento di arrivo o in cui il segmento di arrivo è identico al segmento di origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java files are included here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T195633Z">
@@ -22089,6 +22193,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T092619Z">
         <seg>LanguageTool è un software di analisi grammaticale e sintattica per Inglese, Francese, Tedesco, Polacco, Olandese, Rumeno e molte altre lingue: l'elenco delle lingue supportate si può consultare in &lt;u0&gt;http://www.languagetool.org/languages/&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool plug-in</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191746Z">
+        <seg>LanguageTool plug-in</seg>
       </tuv>
     </tu>
     <tu>
@@ -25895,6 +26007,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT plug-ins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191707Z">
+        <seg>Plug-in di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT preferences</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T220209Z">
@@ -28563,6 +28683,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181434Z">
         <seg>Proprietà...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191944Z">
+        <seg>Fornisce filtri per la gestione di ulteriori formati di file, tra cui Trados TTX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191522Z">
+        <seg>Fornisce il riconoscimento delle forme flesse in voci di corrispondenze fuzzy e di glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39975,6 +40111,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers plug-in</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191739Z">
+        <seg>Plug-in Tokenizers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tonga (Tonga Islands)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T163614Z">
@@ -41788,6 +41932,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192010Z">
+        <seg>Programmi di utilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uzbek</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T164334Z">
@@ -43206,6 +43358,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T085023Z">
         <seg>La cartella del glossario scrivibile inserita non esiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192037Z">
+        <seg>Scritta in Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192214Z">
+        <seg>Scritta in Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
