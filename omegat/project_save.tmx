@@ -7560,6 +7560,14 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of repository URLs is provided below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193456Z">
+        <seg>Qui di seguito è fornito un elenco di URL di repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more comprehensive User's Manual can be called up with the "Help" menu item or F1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T125050Z">
@@ -11530,6 +11538,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192658Z">
+        <seg>È costituito da manuale di uno studente modello con le istruzioni per formatori per l'adattamento e le risorse del campione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console Mode - OmegaT 2.1 User Manual</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T141459Z">
@@ -11622,6 +11638,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192324Z">
         <seg>Dovuta al contributo di Henry Pijffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193012Z">
+        <seg>Dovuto al contributo di Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12513,6 +12537,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T091455Z">
         <seg>Dizionari già installati:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries are available for a large number of languages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193244Z">
+        <seg>I dizionari sono disponibili per un gran numero di lingue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16025,6 +16057,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For testing and demonstrating OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192835Z">
+        <seg>Per test e dimostrazione di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T214426Z">
@@ -17068,6 +17108,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has been tested on Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193108Z">
+        <seg>È stato testato su Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T201059Z">
@@ -17744,6 +17792,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T122614Z">
         <seg>Islandese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192955Z">
+        <seg>Icone</seg>
       </tuv>
     </tu>
     <tu>
@@ -20626,6 +20682,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this dialog, select or create a dictionary file folder on your hard drive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193348Z">
+        <seg>In questa finestra di dialogo, selezionare o creare una cartella di file di dizionario sul vostro disco rigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T171603Z">
@@ -21011,6 +21075,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T122125Z">
         <seg>Installazione non riuscita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing new spelling from within OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193315Z">
+        <seg>Installazione un nuovo dizionario ortografico all'interno di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -22731,6 +22803,22 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization TMX repository</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192811Z">
+        <seg>Repository di localizzazione TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization resources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192815Z">
+        <seg>Risorse per la localizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T130527Z">
@@ -23591,6 +23679,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Miscellaneous resources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192618Z">
+        <seg>Risorse varie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Miscellaneous subjects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T184224Z">
@@ -24099,6 +24195,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T102508Z">
         <seg>Nuovo progetto - finestra di dialogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193339Z">
+        <seg>Nuovi dizionari ortografici possono essere installati all'interno di OmegaT in Opzioni &gt; Finestra di dialogo controllo ortografico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25047,6 +25151,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193040Z">
+        <seg>Strumento di ricerca del dizionario online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OS menu setup</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T110815Z">
@@ -25299,6 +25411,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T172108Z">
         <seg>Progetto OmegaT sul Web, segnalazione errori e contributi - Manuale per l'Utente di OmegaT 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Spellchecking HowTo</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193210Z">
+        <seg>OmegaT Spellchecking HowTo</seg>
       </tuv>
     </tu>
     <tu>
@@ -25659,6 +25779,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181402Z">
         <seg>OmegaT ha un gruppo di utenti molto attivo, solidale e multilingue &lt;a0&gt;qui&lt;/a0&gt;, gli utenti sono fortemente incoraggiati a partecipare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193227Z">
+        <seg>OmegaT ha un correttore ortografico inline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26139,6 +26267,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T210023Z">
         <seg>Tag OmegaT nei segmenti RTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT training course.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192632Z">
+        <seg>Corso di formazione di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27351,6 +27487,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T121812Z">
         <seg>Altri sistemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192609Z">
+        <seg>Agli altri utenti si consiglia di utilizzare invece il &lt;a0&gt;Plugin filtri Okapi&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30040,6 +30184,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample texts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192824Z">
+        <seg>Testi campione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samual Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes" .</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T171205Z">
@@ -30276,6 +30428,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T184051Z">
         <seg>&amp;Linguaggio dello script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193146Z">
+        <seg>Script per l'estrazione del testo per la traduzione da file di testo (ad esempio il codice sorgente computer) per la traduzione di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31396,6 +31556,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T184711Z">
         <seg>La selezione dell'elemento con l'icona di OmegaT è sufficiente per aprire il progetto. Un progetto di traduzione &lt;b0&gt;Progetto_Esempio&lt;/b0&gt; creato con le impostazioni predefinite, verrà creato come una nuova sottocartella dalla struttura seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection of alternative icons for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192712Z">
+        <seg>Selezione di icone alternative per l'utilizzo con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33022,6 +33190,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231134Z">
         <seg>Posizione dei file TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192723Z">
+        <seg>File TMX delle localizzazioni della documentazione OmegaT e di questo sito, per l'utilizzo da parte dei localizzatori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35268,6 +35444,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T100659Z">
         <seg>I file sono di solo testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192801Z">
+        <seg>I file di questo sito, in un pacchetto conveniente per coloro che desiderano localizzarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38281,6 +38465,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This feature makes use of the spelling dictionaries used in LibreOffice and OpenOffice.org.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193236Z">
+        <seg>Questa caratteristica fa uso dei dizionari ortografici usati in LibreOffice e OpenOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This feature, however, is not implemented in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T190329Z">
@@ -38617,6 +38809,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T095944Z">
         <seg>Questa è l'impostazione predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the folder in which the spelling dictionary files will be placed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193431Z">
+        <seg>Questa è la cartella in cui verranno collocati i file dei dizionari ortografici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39025,6 +39225,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T174835Z">
         <seg>In tal modo, OmegaT consente di lavorare su vari tipi di formati di solo testo (compreso LaTex e altri) sempre che questi vengano prima convertiti nel formato PO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This web site</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192730Z">
+        <seg>Questo sito web</seg>
       </tuv>
     </tu>
     <tu>
@@ -40235,6 +40443,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190141Z">
         <seg>Sistema di revisione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training course</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192625Z">
+        <seg>Corso di formazione</seg>
       </tuv>
     </tu>
     <tu>
