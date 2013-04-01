@@ -20433,6 +20433,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T184049Z">
+        <seg>Nonostante il punto, &lt;e0&gt;"Sig. Rossi"&lt;/e0&gt; non dovrebbe essere separato in due segmenti e dovrebbe essere una regola di eccezione per Sig (come pure per Dott., Ing. Avv. e via discorrendo), seguita da un punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In spite of the period, &lt;i1&gt;"Mrs. Dalloway "&lt;/i1&gt; should not be separated in two segments, so an exception rule should be established for Mrs (and Mr and Dr and prof etc), followed by a period.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T191006Z">
