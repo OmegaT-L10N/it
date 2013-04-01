@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190657Z">
+        <seg>"\." indica il carattere punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"unrestricted access to the computer") are identical  to permissions you give</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093155Z">
@@ -6247,6 +6255,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Examples&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190527Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Esempi&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules priority&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T184421Z">
@@ -7572,6 +7588,14 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231051Z">
         <seg>Una funzione 'Glossario' permette all'utente di immettere parole del testo di partenza e le loro traduzioni in un file accessibile da subito, durante la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A good starting point will always be the existing rules.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190513Z">
+        <seg>Un buon punto di partenza sono sempre le regole esistenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31344,6 +31368,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the chapter on &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190449Z">
+        <seg>Si veda il capitolo sulle &lt;l2&gt;Espressioni regolari&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the following for more information on CAT tools, including on the many varieties available:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T122145Z">
@@ -31916,6 +31948,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174858Z">
         <seg>Configurarlo come è stato fatto con &lt;f1&gt;Il mio progetto-1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190637Z">
+        <seg>Impostare il segmento di inizio dopo un punto ('.') seguito da uno spazio, tabulazione...</seg>
       </tuv>
     </tu>
     <tu>
