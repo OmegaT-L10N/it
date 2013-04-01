@@ -20331,8 +20331,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20100801T191933Z">
-        <seg>Per modificare o espandere una serie di regole esistente, basta fare clic sulla serie nella tabella in alto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185502Z">
+        <seg>Per modificare o espandere un gruppo esistente di regole, basta farvi clic sopra nella tabella in alto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23371,6 +23371,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092636Z">
         <seg>Pannelli della finestra principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185400Z">
+        <seg>In genere si dovrebbe evitare di apportare grosse modifiche alle regole di segmentazione, in particolar modo dopo il completamento di una prima bozza di traduzione, ma potrebbero essere utili modifiche minori, come l'aggiunta di un'abbreviazione riconosciuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36961,6 +36969,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T093729Z">
         <seg>Le regole applicate (se presenti) dipenderanno dalla lingua di partenza e di arrivo del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185528Z">
+        <seg>Le regole di quel gruppo verranno visualizzate nella metà inferiore della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
