@@ -14807,6 +14807,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception rule - see the use of ?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T191036Z">
+        <seg>Regola di eccezione - si veda l'uso di ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T105243Z">
@@ -46741,6 +46749,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092415Z">
         <seg>in altri software per la traduzione assistita (CAT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in regular expressions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T191048Z">
+        <seg>nelle espressioni regolari</seg>
       </tuv>
     </tu>
     <tu>
