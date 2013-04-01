@@ -10058,6 +10058,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T213604Z">
+        <seg>Per utilizzare la funzione di correzione ortografica devono essere installati uno o più dizionari (per es., per la lingua di destinazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before you deliver the document to your client, you should therefore check your tags for errors.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T203902Z">
@@ -40411,6 +40419,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T102539Z">
         <seg>Per installare OmegaT decomprimere (untar) il file scaricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T213639Z">
+        <seg>Per installare i dizionari ortografici, seguire questa procedura:</seg>
       </tuv>
     </tu>
     <tu>
