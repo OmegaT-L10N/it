@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190749Z">
+        <seg>"\s" indica qualsiasi carattere di spazio vuoto (spazio, tabulazione, nuova pagina, ecc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"unrestricted access to the computer") are identical  to permissions you give</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093155Z">
@@ -13189,6 +13197,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T191020Z">
+        <seg>Non segmentare dopo M. Mr. Mrs. e Ms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not segment after Mr.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190821Z">
+        <seg>Non segmentare dopo Sig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104542Z">
@@ -24359,6 +24383,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mr\.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190826Z">
+        <seg>Sig\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T183901Z">
@@ -24947,6 +24979,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T201733Z">
         <seg>Notare che &lt;i0&gt;dopo&lt;/i0&gt; è vuoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190949Z">
+        <seg>Si noti che &lt;l0&gt;dopo&lt;/l0&gt; è vuoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -31936,6 +31976,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190930Z">
+        <seg>Impostare un segmento sopo "。" (punto giapponese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T223956Z">
@@ -38621,6 +38669,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T095030Z">
         <seg>Questo aggiunge un nuovo sottomenu &lt;g0&gt; Strumenti &gt; &lt;/g0&gt;&lt;g1&gt;Azioni di script.&lt;/g1&gt; Nel sottomenu &lt;g2&gt;Azioni di script&lt;/g2&gt; sono presenti cinque segnaposti disponibili per gli script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190912Z">
+        <seg>Questa è una regola di eccezione, dunque la casella non deve essere spuntata</seg>
       </tuv>
     </tu>
     <tu>
