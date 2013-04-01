@@ -8504,6 +8504,14 @@ The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T184731Z">
+        <seg>Tutte le serie di regole di segmentazione corrispondenti a un modello linguistico sono attive e applicate in un ordine di priorità specifico e, pertanto, sarà necessario che le lingue dalle quali comunemente si traduce si trovino in una posizione precedente rispetto a quelle presenti in modo predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the fields are editable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T214854Z">
@@ -15947,6 +15955,14 @@ Tutorial.</seg>
         <seg>For example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T191649Z">
+        <seg>Per esempio, le regole per il francese del Canada (FR-CA) dovrebbero precedere quelle per il francese comune (FR.*) e anche quelle predefinite (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T184822Z">
         <seg>Per esempio, le regole per il francese del Canada (FR-CA) dovrebbero precedere quelle per il francese comune (FR.*) e anche quelle predefinite (.*).</seg>
       </tuv>
     </tu>
@@ -39658,6 +39674,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185819Z">
         <seg>Se &lt;t0/&gt; il documento di origine, dunque, contiene le parole &lt;f1&gt;ein Mensch,&lt;/f1&gt; un glossario che contiene il testo di origine &lt;f2&gt;der Mensch &lt;/f2&gt;non lo troverà; utilizzare invece &lt;f3&gt;Mensch&lt;/f3&gt; &lt;f4&gt; per il Glossario.&lt;/f4&gt;&lt;f5&gt; Per ulteriori informazioni sui glossari, inclusa l'aggiunta di un nuovo termine&lt;/f5&gt;&lt;f6&gt;, consultare il Manuale dell'utente.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185015Z">
+        <seg>Ossia, quando si traduce dal francese del Canada, le regole relative, se presenti, dovranno essere applicate per prime, seguite da quelle per il francese comune e, infine, da quelle predefinite.</seg>
       </tuv>
     </tu>
     <tu>
