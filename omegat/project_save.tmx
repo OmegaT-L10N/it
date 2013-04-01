@@ -36607,8 +36607,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20100801T191148Z">
-        <seg>Le regole di interruzione predefinite dovrebbero essere sufficienti per la maggior parte delle lingue europee e per il giapponese.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T184307Z">
+        <seg>Le regole d'interruzione predefinite dovrebbero essere sufficienti per la maggior parte delle lingue europee e per il giapponese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39923,6 +39923,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183542Z">
         <seg>Per definire una regola d'interruzione, spuntare la casella Interruzione/Eccezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T184231Z">
+        <seg>Per definire una regola d'interruzione, lasciare disattivata la casella Interruzione/Eccezione.</seg>
       </tuv>
     </tu>
     <tu>
