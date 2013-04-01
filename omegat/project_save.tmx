@@ -10674,6 +10674,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190024Z">
+        <seg>Cambiare il nome del gruppo di regole e del modello linguistico nella lingua interessata e il suo codice di lingua (vedere &lt;x1/&gt; per l'elenco dei codici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T200748Z">
@@ -37425,6 +37433,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T182401Z">
         <seg>La sintassi è la seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190107Z">
+        <seg>La sintassi del modello della lingua è conforme a quella delle espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
