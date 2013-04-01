@@ -6255,6 +6255,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Exception rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183608Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Regole&lt;/s1&gt; &lt;t2&gt;Regola di eccezione&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Segmentation rules&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T102539Z">
@@ -14683,6 +14691,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T102417Z">
         <seg>Si è verificata l'eccezione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183617Z">
+        <seg>Regola di eccezione</seg>
       </tuv>
     </tu>
     <tu>
@@ -39897,8 +39913,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183333Z">
-        <seg>Per una regola di interruzione, spuntare la casella Break/Exception check box.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183542Z">
+        <seg>Per definire una regola d'interruzione, spuntare la casella Interruzione/Eccezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47445,6 +47461,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T124159Z">
         <seg>spazio mancante tra un punto e l'inizio di una nuova frase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183722Z">
+        <seg>definisce quali parti del testo NON devono essere separate.</seg>
       </tuv>
     </tu>
     <tu>
