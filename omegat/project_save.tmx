@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16205,6 +16205,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T083129Z">
         <seg>Per questo motivo, i due comandi sopra esposti sono contenuti in un file (uno "script" viene anche chiamato "file &lt;e0&gt;.bat&lt;/e0&gt;" nei sistemi Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183242Z">
+        <seg>Affinché questo accada, deve esserci una regola di interruzione per "?", quando seguito da spazi e una parola che inizia per maiuscola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39883,6 +39891,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T181755Z">
         <seg>Per personalizzare il proprio lavoro con i tag, è possibile impostare delle regole &lt;g0&gt;Opzioni &gt; finestra Convalida dei tag...&lt;/g0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183333Z">
+        <seg>Per una regola di interruzione, spuntare la casella Break/Exception check box.</seg>
       </tuv>
     </tu>
     <tu>
