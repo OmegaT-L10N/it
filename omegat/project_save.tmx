@@ -8873,6 +8873,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185811Z">
+        <seg>Apparirà una riga vuota nel fondo della tabella superiore (potrebbe rendersi necessario scorrere la tabella per visualizzare la riga).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An empty line will appear at the bottom of the upper table &lt;f1&gt;&lt;s2&gt;(you may have to scroll down to see it)&lt;/s2&gt;&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T200702Z">
@@ -20317,6 +20325,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101139Z">
         <seg>Affinché le modifiche abbiano effetto, è necessario chiudere e riaprire il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185640Z">
+        <seg>Per creare un gruppo vuoto di regole per un nuovo modello linguistico, fare clic sul pulsante &lt;e0&gt;Aggiungi&lt;/e0&gt; nella metà superiore della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
