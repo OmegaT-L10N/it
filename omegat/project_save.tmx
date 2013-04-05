@@ -7313,9 +7313,9 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A copy of the license is included in the section entitled "GNU Free Documentation License."</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T155241Z">
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130405T164741Z">
         <seg>Una copia della licenza è inclusa nella sezione intitolata "GNU Free Documentation License." 
-The reference copy of this license is at http://www.gnu.org/copyleft/fdl.html </seg>
+A copy of the license is included in the section entitled "GNU Free Documentation License." </seg>
       </tuv>
     </tu>
     <tu>
@@ -11721,14 +11721,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T201536Z">
         <seg>Impossibile creare le credenziali nel file di testo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Cover illustration is from &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt;, in the public domain.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130302T170919Z">
-        <seg>L'illustrazione di copertina proviene da &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt;, di dominio pubblico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28953,8 +28945,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Refers to OmegaT version: 2.0.0&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130306T205016Z">
-        <seg>Traduzione marzo 2013
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130405T165018Z">
+        <seg>Traduzione aprile 2013
 Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
     </tu>
