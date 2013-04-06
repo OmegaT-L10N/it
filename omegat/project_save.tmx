@@ -33979,6 +33979,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; file includes &lt;a1&gt;OmegaT&lt;/a1&gt; specific formatting tags so that the file can be used in other &lt;a2&gt;OmegaT&lt;/a2&gt; projects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T093801Z">
+        <seg>Il file &lt;a0&gt;OmegaT&lt;/a0&gt; include tag di formattazione specifici di &lt;a1&gt;OmegaT&lt;/a1&gt;, in modo che esso possa essere usato in altri progetti &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; screen consists of one workspace with five distinct panes&lt;i1/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110718T104331Z">
