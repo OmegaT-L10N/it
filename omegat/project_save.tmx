@@ -4127,6 +4127,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T100400Z">
+        <seg>cartella &lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;p&gt;&lt;/f0&gt;A different display font can be selected via the &lt;f1&gt;&lt;b&gt;&lt;/f1&gt;Display Font&lt;f2&gt;&lt;/b&gt;&lt;/f2&gt; dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T211100Z">
@@ -6739,6 +6747,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092430Z">
         <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Sottocartella omegat&lt;/s1&gt; &lt;s2&gt;File del progetto&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolder tm&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T100349Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Sottocartella tm&lt;/s1&gt; &lt;s2&gt;File del progetto&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
