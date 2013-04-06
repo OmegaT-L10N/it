@@ -6511,6 +6511,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;Translation memories&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T091115Z">
+        <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;Memorie di traduzione&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Tagged text&lt;/p0&gt; &lt;s1&gt;An example&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T172144Z">
@@ -19645,6 +19653,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094750Z">
         <seg>se, durante l'installazione , si è creato un collegamento sul desktop,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T091102Z">
+        <seg>Se, per una qualsiasi ragione, si dovesse eseguire di tanto in tanto questa operazione, si dovrebbero copiare i file coinvolti in una cartella diversa, riservata solo all'uso di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40783,6 +40799,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation memories in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T091125Z">
+        <seg>Memorie di traduzione in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memory</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T080339Z">
@@ -47365,6 +47389,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093216Z">
         <seg>questa versione non interferirà con esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tmx folders - location and purpose</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T091140Z">
+        <seg>cartelle tmx - posizione e scopo</seg>
       </tuv>
     </tu>
     <tu>
