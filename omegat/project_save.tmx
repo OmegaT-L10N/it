@@ -27403,6 +27403,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T111446Z">
+        <seg>Facoltativamente, si può consentire a &lt;a0&gt;OmegaT&lt;/a0&gt; di possedere un file TMX aggiuntivo (in stile &lt;a1&gt;OmegaT&lt;/a1&gt;) in una posizione qualunque, che contenga tutti i segmenti traducibili del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optionally, you can let OmegaT make an additional TMX file (OmegaT-style) anywhere you specify, containing all translateable segments of the project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T103752Z">
@@ -39505,6 +39513,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192442Z">
         <seg>L'operazione creerà una cartella omegat/ nella cartella prescelta, in cui saranno presenti tutti i file necessari per l'avvio di &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will effectively &lt;e2&gt;pre-translate &lt;/e2&gt;the source text: all the segments in the source text, for which translations can be found in those "auto" TMs, will land in the main TM of the project without any user intervention.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T111315Z">
+        <seg>Ciò &lt;e2&gt;pre-tradurrà&lt;/e2&gt; realmente il testo di origine: tutti i segmenti presenti nell'originale, le cui traduzioni siano presenti nelle memorie "automatiche", saranno trasferiti nella memoria principale del progetto senza alcun intervento dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
