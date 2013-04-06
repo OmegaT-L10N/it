@@ -24687,6 +24687,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T081416Z">
+        <seg>Si noti che la funzione "Installa" richiede una connessione Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the key is 38 characters long.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T164922Z">
@@ -36665,6 +36673,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T165339Z">
         <seg>La corrispondenza parziale selezionata sarà evidenziata &lt;s0&gt;grassetto&lt;/s0&gt;, le parole che non appaiono che si sta traducendo saranno segnalate in &lt;s1&gt;&lt;f2&gt;blu&lt;/f2&gt;&lt;/s1&gt; e quelle adiacenti alle parti mancanti in &lt;f3&gt;&lt;b4&gt;verde&lt;/b4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T081512Z">
+        <seg>Verranno installate le lingue selezionate, le quali potranno eventualmente apparire nella finestra di configurazione del correttore ortografico (ciò potrebbe richiedere del tempo).</seg>
       </tuv>
     </tu>
     <tu>
