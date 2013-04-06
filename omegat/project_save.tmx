@@ -10980,6 +10980,14 @@ application folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082709Z">
+        <seg>Premendo il pulsante &lt;g0&gt;Installa nuovo dizionario&lt;/g0&gt; si apre la finestra di installazione del dizionario, in cui poter scegliere i dizionari da installare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on a link as you would do in a web browser brings the desired page to the front.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T171409Z">
@@ -23075,6 +23083,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T085840Z">
         <seg>Assicurarsi che il codice della lingua dei file di arrivo corrispondano a quelli del dizionario: un dizionario IT-IT non funzionerà con un codice di arrivo impostato a IT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure the language code of your target files corresponds to the dictionary's language code: an FR-FR dictionary will not work with an FR target setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082859Z">
+        <seg>Assicurarsi che il codice della lingua dei file di arrivo corrisponda a quello del dizionario: un dizionario IT-IT non funzionerà con un codice di arrivo impostato a IT.</seg>
       </tuv>
     </tu>
     <tu>
