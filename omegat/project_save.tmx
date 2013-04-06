@@ -43838,6 +43838,14 @@ to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T081344Z">
+        <seg>O si copiano manualmente i file da un punto qualsiasi del proprio sistema, oppure si può usare la funzione &lt;e0&gt;"Installa nuovo dizionario"&lt;/e0&gt; di OmegaT, che fornisce un elenco dei dizionari disponibili da cui attingere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can either enter the languages by hand or use the drop down menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T214931Z">
