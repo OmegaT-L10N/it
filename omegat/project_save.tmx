@@ -9769,6 +9769,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back-ups are produced regularly of the project translation memory (see next chapter), and &lt;f0&gt;project_save.tmx&lt;/f0&gt; is also saved/updated when the project is closed or loaded again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T112027Z">
+        <seg>Copie di sicurezza della memoria di traduzione del progetto vengono create regolarmente (vedere il capitolo seguente), e il file &lt;f0&gt;project_save.tmx&lt;/f0&gt; è anch'esso salvato/aggiornato alla chiusura o riapertura del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T214630Z">
