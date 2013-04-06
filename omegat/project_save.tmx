@@ -37655,6 +37655,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T083519Z">
+        <seg>Non è necessario impartire particolari istruzioni a OmegaT per usare uno specifico dizionario ortografico; OmegaT userà il dizionario di lingua corretto basandosi sui codici di lingua del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is not an EXACT match between the glossary entry and the source text in your document - for instance when the item is in plural</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T232242Z">
