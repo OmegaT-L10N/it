@@ -22675,6 +22675,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Look for files with the name, indicating the language used and having extensions &lt;e1&gt;aff&lt;/e1&gt; and &lt;e2&gt;dic.&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T083008Z">
+        <seg>Eseguire una ricerca dei file col nome che indica la lingua utilizzata e dalle estensioni &lt;e1&gt;aff&lt;/e1&gt; e &lt;e2&gt;dic&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Look for files with the name, indicating the language used and having extensions &lt;i0&gt;aff&lt;/i0&gt; and &lt;i1&gt;dic.&lt;/i1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T090036Z">
@@ -42000,6 +42008,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091316Z">
         <seg>Uso delle espressioni regolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T083025Z">
+        <seg>Uso dei dizionari ortografici</seg>
       </tuv>
     </tu>
     <tu>
