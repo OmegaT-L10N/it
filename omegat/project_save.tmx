@@ -15914,8 +15914,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T102219Z">
-        <seg>Per esempio, se le impostazioni predefinite vengono lasciate inalterate, la traduzione della TM secondaria è accettata e marcata col prefisso &lt;e3&gt; [fuzzy]&lt;/e3&gt;, in modo da permentttere al traduttore di rivedere le traduzioni in un secondo momento e verificare se i segmenti contrassegnati siano stati tradotti correttamente (si veda il capitolo &lt;l4&gt;Comportamento di modifica&lt;/l4&gt;) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T102424Z">
+        <seg>Per esempio, se le impostazioni predefinite vengono lasciate inalterate, la traduzione della TM secondaria è accettata e marcata col prefisso &lt;e3&gt; [fuzzy]&lt;/e3&gt;, in modo da permettere al traduttore di rivedere le traduzioni in un secondo momento e verificare se i segmenti contrassegnati siano stati tradotti correttamente (si veda il capitolo &lt;l4&gt;Comportamento di modifica&lt;/l4&gt;) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21630,6 +21630,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T214749Z">
         <seg>La si può aprire servendosi della combinazione rapida da tastiera &lt;c0&gt;&lt;a1&gt;Ctrl+E&lt;/a1&gt;&lt;/c0&gt;, oppure richiamandola con il comando &lt;s2&gt;Progetto → Proprietà...&lt;/s2&gt; dal &lt;a3&gt;menu principale&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may happen, that translation memories, available in the&lt;f0&gt; tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T102412Z">
+        <seg>Può succedere che le memorie di traduzione contenute nella sottocartella &lt;f0&gt; tm&lt;/f0&gt;, contengano segmenti con testo di origine identico ma testo di destinazione diverso.</seg>
       </tuv>
     </tu>
     <tu>
