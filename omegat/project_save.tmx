@@ -2727,6 +2727,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; projects can have translation memory files - i.e. files with the extension tmx - in four different places:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092358Z">
+        <seg>I progetti &lt;a0&gt;OmegaT&lt;/a0&gt; possono possedere file di memoria di traduzione (ossia file con estensione tmx) in quattro posizioni differenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; provides a powerful range of search functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T165353Z">
