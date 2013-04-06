@@ -6479,6 +6479,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Spell checker setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082523Z">
+        <seg>&lt;p0&gt;Correttore ortografico&lt;/p0&gt; &lt;s1&gt;Impostazioni del correttore ortografico&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stardict&lt;/p0&gt; &lt;s1&gt;Dictionaries&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T110242Z">
@@ -21386,6 +21394,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082452Z">
+        <seg>È tuttavia più semplice cercare i dizionari su Internet, utilizzando il campo &lt;e0&gt;URL per i dizionari in linea&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is sometimes useful to be able make some tags untranslatable based on the value of attributes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T204237Z">
@@ -32467,6 +32483,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
         <seg>Spellchecker Setup</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T121837Z">
+        <seg>Impostazioni del correttore ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082530Z">
         <seg>Impostazioni del correttore ortografico</seg>
       </tuv>
     </tu>
