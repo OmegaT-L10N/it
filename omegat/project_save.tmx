@@ -15912,6 +15912,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T102219Z">
+        <seg>Per esempio, se le impostazioni predefinite vengono lasciate inalterate, la traduzione della TM secondaria è accettata e marcata col prefisso &lt;e3&gt; [fuzzy]&lt;/e3&gt;, in modo da permentttere al traduttore di rivedere le traduzioni in un secondo momento e verificare se i segmenti contrassegnati siano stati tradotti correttamente (si veda il capitolo &lt;l4&gt;Comportamento di modifica&lt;/l4&gt;) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, '&lt;s1&gt;run?&lt;/s1&gt;' would match '&lt;s2&gt;runs&lt;/s2&gt;' and '&lt;s3&gt;rung&lt;/s3&gt;', but not '&lt;s4&gt;run&lt;/s4&gt;' or '&lt;s5&gt;running&lt;/s5&gt;'.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T134709Z">
