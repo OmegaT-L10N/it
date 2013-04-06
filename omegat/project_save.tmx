@@ -8528,6 +8528,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T084852Z">
+        <seg>Confrontare anche il codice della lingua di destinazione del proprio progetto con i dizionari disponibili all'interno della finestra di configurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T211341Z">
