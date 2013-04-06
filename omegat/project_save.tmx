@@ -19697,6 +19697,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Options &gt; Spell Checking&lt;/g2&gt;, then click &lt;g3&gt;Choose &lt;/g3&gt;beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T080850Z">
+        <seg>In OmegaT, selezionare &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Opzioni &gt; Correzione ortografica&lt;/g2&gt;, poi premere il pulsante &lt;g3&gt;Scegli &lt;/g3&gt;situato affianco al campo della posizione del dizionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a file dialog opened by OmegaT, a translation project will look like a file with an OmegaT icon associated to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T184147Z">
@@ -23951,6 +23959,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T080917Z">
+        <seg>Navigare fino alla cartella creata per i dizionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigate to the folder where you wish to save the project files, and type in a name for the translation project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T092903Z">
@@ -27656,6 +27672,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093225Z">
         <seg>* Utenti di Linux:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T080953Z">
+        <seg>Copiare i file di dizionario da usare all'interno di questa cartella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37451,6 +37475,14 @@ Submenu and File - New Item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T163828Z">
         <seg>Vi sono due tipi principali di formati di file, i file in formato &lt;s0&gt;solo testo&lt;/s0&gt;  e quelli in &lt;s1&gt;testo formattato&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T081056Z">
+        <seg>Esistono fondamentalmente due modi per eseguire questa operazione.</seg>
       </tuv>
     </tu>
     <tu>
