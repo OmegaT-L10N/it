@@ -11661,6 +11661,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your OpenOffice.org or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082129Z">
+        <seg>La copiatura manuale dei file ha senso se nel proprio sistema si possiedono già file di dizionario adatti allo scopo, per esempio, quelli che fanno parte dell'installazione di OpenOffice.org o Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2010 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100509Z">
