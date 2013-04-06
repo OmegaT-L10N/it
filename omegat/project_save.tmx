@@ -6751,6 +6751,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolder tm/auto&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T110500Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Sottocartella tm/auto&lt;/s1&gt; &lt;s2&gt;File del progetto&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolder tm&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T100349Z">
@@ -35941,6 +35949,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154656Z">
         <seg>L'ultimo riquadro permette di dare uno sguardo al file leggimi e a quello delle modifiche relativo alla versione installata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T110435Z">
+        <seg>L'ultimo segmento con il testo di origine identico verrà considerato prioritario (nota: ha naturalmente più senso evitare, in primo luogo, che questo avvenga).</seg>
       </tuv>
     </tu>
     <tu>
