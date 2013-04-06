@@ -18601,6 +18601,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T090901Z">
+        <seg>Se essi sono utilizzati da qualche altra applicazione del sistema, scompariranno anche da quella applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181208Z">
@@ -19071,8 +19079,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.arr&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt._BR.arr&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T090519Z">
-        <seg>Se si è già tradotta un'ampia porzione di testo e ci si accorge che il codice della lingua di destinazione non corrisponde a quello della lingua del correttore ortografico (poiché è stata specificata pt_BR come lingua, per esempio, ma non è presente alcun dizionario pt_BR), basta copiare e rinominare i due file corrispondenti (per esempio, da &lt;e0&gt;pt_PT.arr&lt;/e0&gt; e &lt;e1&gt;pt_PT.dic&lt;/e1&gt; in &lt;e2&gt;pt._BR.arr&lt;/e2&gt; e &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T090713Z">
+        <seg>Se si è già tradotta un'ampia porzione di testo e ci si accorge che il codice della lingua di destinazione non corrisponde a quello della lingua del correttore ortografico (poiché è stata specificata pt_BR come lingua, per esempio, ma non è presente alcun dizionario pt_BR), basta copiare e rinominare i due file corrispondenti (per esempio, da &lt;e0&gt;pt_PT.arr&lt;/e0&gt; e &lt;e1&gt;pt_PT.dic&lt;/e1&gt; a &lt;e2&gt;pt._BR.arr&lt;/e2&gt; e &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24587,6 +24595,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173433Z">
         <seg>Si noti che '*' e '?' possiedono un significato speciale nelle espressioni regolari, dunque la ricerca con caratteri jolly, come qui descritta, è valida solo per la ricerca di parole chiave e la ricerca esatta (vedere sotto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T090756Z">
+        <seg>Si noti che il comando &lt;f0&gt;Rimuovi&lt;/f0&gt; elimina fisicamente i dizionari selezionati.</seg>
       </tuv>
     </tu>
     <tu>
