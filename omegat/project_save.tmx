@@ -37985,6 +37985,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These files are copies of the file &lt;f0&gt;project_save.tmx&lt;/f0&gt;, i.e. of the project's main translation memory, excluding the so-called orphan segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T095944Z">
+        <seg>Questi file sono copie di &lt;f0&gt;project_save.tmx&lt;/f0&gt;, ossia della memoria di traduzione principale del progetto, ad esclusione dei cosiddetti segmenti orfani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These files contain the source and target segments corresponding to the contents of the /source/ folder at the time of their creation (usually when the translated files have been created).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T192835Z">
