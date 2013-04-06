@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5323,6 +5323,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T222424Z">
         <seg>&lt;p0&gt;Menu Opzioni&lt;/p0&gt; &lt;s1&gt;Tipo di carattere...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Spell checking&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T080701Z">
+        <seg>&lt;p0&gt;Menu Opzioni&lt;/p0&gt; &lt;s1&gt;Correzione ortografica&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20486,6 +20494,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T184407Z">
         <seg>Data la loro flessibilità, è possibile considerare di definire ulteriori regole di eccezione per la lingua da cui si traduce, al fine di ottenere segmenti più comprensibili e coerenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T080624Z">
+        <seg>Creare, nel proprio gestore di file, una nuova cartella in cui memorizzare i dizionari ortografici (D:\Translations\spellcheckers nell'esempio sotto riportato).</seg>
       </tuv>
     </tu>
     <tu>
