@@ -35865,6 +35865,22 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The level1 file contains only textual information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T093418Z">
+        <seg>Il file level1 contiene solo informazioni di tipo testuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The level2 file encapsulates &lt;a0&gt;OmegaT&lt;/a0&gt; specific tags in correct tmx tags so that the file can be used with its formatting information in a translation tool that supports tmx level 2 memories, or &lt;a1&gt;OmegaT&lt;/a1&gt; itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T093623Z">
+        <seg>Il file level2 contiene i tag specifici di &lt;a0&gt;OmegaT&lt;/a0&gt; incapsulati nei tag TMX, in modo che il file possa essere usato, con le sue informazioni di formattazione, in strumenti di traduzione assistita in grado di riconoscere le memorie di traduzione TMX di livello 2, oppure nello stesso &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location depends on the platform you use:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193025Z">
@@ -35973,6 +35989,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202613Z">
         <seg>L'applicazione principale di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main project folder contains 3 tmx files, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; and &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name being the name of your project).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T093353Z">
+        <seg>La cartella principale del progetto contiene tre file tmx, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; e &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (dove project_name è il nome del proprio progetto).</seg>
       </tuv>
     </tu>
     <tu>
