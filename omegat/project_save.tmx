@@ -10602,6 +10602,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T083637Z">
+        <seg>Verificare comunque che i codici di lingua siano uguali: un dizionario IT-IT, ad esempio, non funzionerà con un codice di arrivo impostato a IT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check if the selected service offers it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T221351Z">
