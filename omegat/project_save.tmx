@@ -6727,6 +6727,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolder omegat&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092430Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Sottocartella omegat&lt;/s1&gt; &lt;s2&gt;File del progetto&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Upgrading OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T190248Z">
@@ -34075,6 +34083,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;project_save.tmx&lt;/f1&gt; file contains all the segments that have been recorded in memory since you started the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092654Z">
+        <seg>Il file &lt;f1&gt;project_save.tmx&lt;/f1&gt; contiene tutti i segmenti che sono stati memorizzati a partire dall'inizio della traduzione del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T220104Z">
@@ -36166,6 +36182,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T221619Z">
         <seg>La vecchia versione del servizio, indicato con "Google Translate" e disponibile nelle versioni meno recenti di OmegaT, è sconsigliato e non funziona più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The omegat folder contains the &lt;f0&gt;project_save.tmx&lt;/f0&gt; and possibly a number of backup TMX files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092608Z">
+        <seg>La cartella omegat contiene il file &lt;f0&gt;project_save.tmx&lt;/f0&gt; e pure varie copie di sicurezza dei file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46613,6 +46637,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094911Z">
         <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092437Z">
+        <seg>cartella omegat</seg>
       </tuv>
     </tu>
     <tu>
