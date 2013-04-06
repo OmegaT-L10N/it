@@ -33274,6 +33274,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T110101Z">
+        <seg>I file TMX sono letti ordinati per nome e segmenti all'interno di un file TMX dato riga per riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX files contain &lt;i0&gt;translation units&lt;/i0&gt; that are made of a number of equivalent segments in different languages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T104825Z">
