@@ -9133,6 +9133,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T101520Z">
+        <seg>Tutto il testo già tradotto e memorizzato in questi file, se sufficientemente simile al testo che si sta traducendo, apparirà tra le concordanze parziali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T173628Z">
@@ -35043,6 +35051,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T215813Z">
         <seg>Il contenuto della sotto-cartella target rifletterà lo stato corrente della traduzione, come salvata nella memoria di traduzione del progetto all'interno del file &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T101302Z">
+        <seg>Il contenuto delle memorie di traduzione, della sottocartella tm, serve per generare i suggerimenti per i segmenti di testo da tradurre.</seg>
       </tuv>
     </tu>
     <tu>
