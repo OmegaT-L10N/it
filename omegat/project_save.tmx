@@ -24847,6 +24847,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T100952Z">
+        <seg>Notare che gli altri strumenti CAT possono esportare (e importare) file tmx, di solito in tutte e tre le forme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that paragraph segmentation is pretty much outdated and that for the majority of projects the sentence segmentation is a choice to be preferred.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T145921Z">
@@ -34762,6 +34770,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T181933Z">
         <seg>Il comportamento qui impostato si applica a tutti di file di partenza e non solo ad alcuni tipi di file, come il testo formattato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T101121Z">
+        <seg>La cosa migliore da fare è, naturalmente, usare i file TMX specifici di OmegaT (vedere sopra), in modo che venga mantenuta la formattazione incorporata all'interno del segmento.</seg>
       </tuv>
     </tu>
     <tu>
