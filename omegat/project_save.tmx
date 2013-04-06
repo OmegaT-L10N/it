@@ -29824,6 +29824,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T084338Z">
+        <seg>Il clic col pulsante destro del mouse su una parola sottolineata (Artund nella figura sopra) apre un menu a discesa che elenca i suggerimenti per la correzione (Art und).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to left languages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202846Z">
@@ -43776,6 +43784,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T215117Z">
         <seg>È possibile anche inviare &lt;u6&gt;segnalazioni di errori&lt;/u6&gt; e &lt;u7&gt;proposte di miglioramenti.&lt;/u7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T084505Z">
+        <seg>È pure possibile istruire il correttore a ignorare tutte le occorrenze della parola evidenziata, oppure ad aggiungerla al dizionario.</seg>
       </tuv>
     </tu>
     <tu>
