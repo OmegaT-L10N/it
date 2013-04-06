@@ -36981,6 +36981,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T085904Z">
+        <seg>Il correttore ortografico usa il codice della lingua di destinazione per determinare la lingua da usare: se quest'ultima è il Portoghese brasiliano (PT_BR), la sottocartella contenente i vocabolari deve contenere due file di dizionario chiamati rispettivamente &lt;e0&gt;pt_br.aff&lt;/e0&gt; e &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The status bar displays work flow related messages at the bottom of the main window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222421Z">
