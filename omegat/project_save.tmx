@@ -6479,6 +6479,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Spell checker in action&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T084121Z">
+        <seg>&lt;p0&gt;Correttore ortografico&lt;/p0&gt; &lt;s1&gt;Correttore ortografico in azione&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Spell checker setup&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082523Z">
@@ -18069,6 +18077,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T104114Z">
         <seg>Se la modalità è is &lt;c2&gt;createpseudotranslatetmx&lt;/c2&gt;, esso creerà un file di memoria di traduzione (specificato dal parametro &lt;c3&gt;--pseudotranslatetmx&lt;/c3&gt;) che include tutti i segmenti del progetto, inclusi quei segmenti che prima non erano stati tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T083921Z">
+        <seg>Modificare, se necessario, i nomi dei file del dizionario, oppure cambiare le impostazioni linguistiche del proprio progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32520,6 +32536,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecker in action</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T084132Z">
+        <seg>Correttore ortografico in azione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecker setup</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082530Z">
@@ -39651,6 +39675,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T104402Z">
         <seg>Per modificare il modo in cui il filtro interviene sui file e sulla loro codifica, selezionare dall'elenco il filtro e fare clic su &lt;e1&gt;Modifica&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T084052Z">
+        <seg>Per abilitare il correttore ortografico, selezionare &lt;g0&gt;Opzioni &gt; Correzione ortografica&lt;/g0&gt; e spuntare la casella &lt;g1&gt;Controlla automaticamente l'ortografia&lt;/g1&gt; (vedere sopra).</seg>
       </tuv>
     </tu>
     <tu>
