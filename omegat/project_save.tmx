@@ -18151,8 +18151,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T110923Z">
-        <seg>Se si sa dal principio che le traduzioni di una data memoria di traduzione (o più d'una) sono tutte corrette, il traduttore può inserirle all'interno della cartella &lt;e0&gt;tm/auto&lt;/e0&gt; ed evitare di dover confermare i molteplici casi di &lt;e1&gt;concordanze parziali [fuzzy]&lt;/e1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T111752Z">
+        <seg>Se si sa da subito che le traduzioni di una certa memoria di traduzione (o più d'una) sono tutte corrette, esse possono essere inserite all'interno della cartella &lt;e0&gt;tm/auto&lt;/e0&gt;, al fine di evitare la conferma dei molteplici casi di &lt;e1&gt;concordanze parziali [fuzzy]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24803,6 +24803,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T134824Z">
         <seg>Si noti che tutti i file TMX contenuti nel deposito &lt;e0&gt;/tm&lt;/e0&gt; vengono analizzati durante l'avvio del programma, dunque l'inserimento al suo interno di tutti i file TMX che si posseggono rallenterà inevitabilmente OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that all the translation memories are loaded into memory when the project is opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T111833Z">
+        <seg>Si noti che tutte le memorie di traduzione vengono caricate in memoria all'apertura del progetto.</seg>
       </tuv>
     </tu>
     <tu>
