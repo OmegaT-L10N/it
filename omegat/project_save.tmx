@@ -11212,6 +11212,14 @@ application folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205232Z">
+        <seg>Chiudere il progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes or opens &lt;a0&gt;Project files window&lt;/a0&gt; (depending whether it is opened or closed).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T220554Z">
@@ -29740,6 +29748,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224004Z">
         <seg>Rimuovi traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205339Z">
+        <seg>Rinominare l'attuale file &lt;f0&gt;project_save.tmx&lt;/f0&gt; (per es., in &lt;f1&gt;project_save.tmx.temporaneo&lt;/f1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
