@@ -6767,6 +6767,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Language&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205557Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Lingua&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Matches&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T131031Z">
@@ -7804,6 +7812,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T170135Z">
         <seg>Un progetto di traduzione &lt;e0&gt;Progetto_Esempio&lt;/e0&gt; creato con le impostazioni predefinite, verrà creato come una nuova sottocartella dalla struttura seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A translation unit comprises at least two translation unit variants (TUV).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205815Z">
+        <seg>Una unità di traduzione è composta, almeno, da due varianti di unità di traduzione (TUV).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11775,6 +11791,14 @@ Submenu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T220759Z">
         <seg>Copia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy it to &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205534Z">
+        <seg>Copiarla in &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27363,6 +27387,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205542Z">
+        <seg>Aprire il progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095843Z">
@@ -31684,6 +31716,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T193407Z">
         <seg>Selezionare l'icona OmegaT.png.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the backup translation memory that is most likely - e.g. the most recent one, or the last version from the day before) to contain the data you are looking for</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205522Z">
+        <seg>Selezionare la copia di sicurezza della memoria di traduzione che si ritiene essere quella più probabile (per es., quella più recente o la versione del giorno precedente) a contenere i dati che si stanno cercando</seg>
       </tuv>
     </tu>
     <tu>
@@ -47837,6 +47877,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T204303Z">
         <seg>copia di sicurezza della TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tmx files and language</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205605Z">
+        <seg>file TMX e lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tmx files contain translation units, made of a number of equivalent segments in several languages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205705Z">
+        <seg>I file TMX contengono le unità di traduzione che corrispondono ai vari segmenti equivalenti, in lingue diverse.</seg>
       </tuv>
     </tu>
     <tu>
