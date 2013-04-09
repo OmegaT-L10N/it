@@ -4087,6 +4087,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target directories (Source = source/order1, target = target/order1 etc).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202418Z">
+        <seg>&lt;e0&gt;diversi progetti sullo stesso soggetto: &lt;/e0&gt;mantenere la struttura del progetto e modificare le cartelle di origine e di destinazione (Origine = origine/ordine1, destinazione = destinazione/ordine1, e così via).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; Instant start guide:&lt;/e0&gt; this chapter is intended as an Instant Start Guide for beginners and “tyre kickers”, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T231120Z">
