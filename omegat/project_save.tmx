@@ -7552,6 +7552,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new version of the master TM is then created, either to be put in team members' &lt;e3&gt;tm/auto&lt;/e3&gt;subdirectories or to replace their &lt;f4&gt;project_save.tmx&lt;/f4&gt; files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T203908Z">
+        <seg>Viene poi creata una nuova versione principale della memoria, o inserendo i file &lt;f4&gt;project_save.tmx&lt;/f4&gt; nelle sottocartelle &lt;e3&gt;tm/auto&lt;/e3&gt; dei membri della squadra, oppure sostituendoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164455Z">
