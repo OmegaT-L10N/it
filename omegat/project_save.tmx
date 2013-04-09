@@ -13973,6 +13973,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either can be used as the source or target.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205935Z">
+        <seg>Possono essere usate come segmento di origine o di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T173529Z">
@@ -37257,6 +37265,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T223656Z">
         <seg>La serie dei segmenti &lt;s0&gt;univoci&lt;/s0&gt; viene calcolata prendendo in esame tutti i segmenti del progetto e sottraendo i segmenti duplicati, in base alla presenza di maiuscole o minuscole (“Oggetto” e “oggetto” sono considerati due segmenti diversi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The settings in your project indicate which is the source and which the target language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210011Z">
+        <seg>La definizione della lingua sorgente e di quella di destinazione viene decisa dalle impostazioni del progetto.</seg>
       </tuv>
     </tu>
     <tu>
