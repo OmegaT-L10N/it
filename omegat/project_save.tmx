@@ -6743,6 +6743,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Backup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T204252Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Copia di sicurezza&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Fuzzy matches&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T163026Z">
@@ -37469,6 +37477,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The team can also use the same subfolder structure for the target files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T204031Z">
+        <seg>La squadra può utilizzare anche la stessa sottocartella per i file di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120122T200658Z">
@@ -38501,6 +38517,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T095030Z">
         <seg>Questo aggiunge un nuovo sottomenu &lt;g0&gt; Strumenti &gt; &lt;/g0&gt;&lt;g1&gt;Azioni di script.&lt;/g1&gt; Nel sottomenu &lt;g2&gt;Azioni di script&lt;/g2&gt; sono presenti cinque segnaposti disponibili per gli script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T204218Z">
+        <seg>Ciò consente loro, per esempio, di verificare in qualsiasi momento se la versione finale del progetto completo è a posto oppure no.</seg>
       </tuv>
     </tu>
     <tu>
