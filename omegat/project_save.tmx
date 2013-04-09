@@ -2265,6 +2265,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2 letters (e.g. JA for Japanese), or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210354Z">
+        <seg>2 lettere (per es., IT per l'italiano), o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -26431,6 +26439,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT recognizes the language codes using the following two standard conventions :</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210313Z">
+        <seg>OmegaT riconosce i codici di lingua utilizzando le seguenti due convenzioni standard:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT recognizes them using the following two standard conventions:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T111058Z">
@@ -26507,6 +26523,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T210023Z">
         <seg>Tag OmegaT nei segmenti RTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210223Z">
+        <seg>OmegaT preleva, dunque, i segmenti TUV che corrispondono ai codici di lingua di partenza e di arrivo del progetto e li utilizza rispettivamente come segmenti di origine e di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
