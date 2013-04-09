@@ -34283,6 +34283,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f2&gt;project_save.tmx&lt;/f2&gt; files are then collected and possible conflicts as regards terminology for instance get resolved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T203448Z">
+        <seg>I file &lt;f2&gt;project_save.tmx&lt;/f2&gt; vengono poi messi insieme e i possibili conflitti, per esempio di terminologia, risolti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T220104Z">
