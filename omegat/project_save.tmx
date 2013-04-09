@@ -12437,6 +12437,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the situation, different strategies are thus possible, for instance:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202053Z">
+        <seg>A seconda della situazione, sono dunque possibili strategie diverse, per esempio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T194229Z">
@@ -36149,6 +36157,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T220433Z">
         <seg>La posizione dei file utente dipende dalla piattaforma in uso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The locations of the various different translation memories for a given project are user-defined (see Project dialog window in &lt;l0&gt;Instant start guide)&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202013Z">
+        <seg>Le posizioni delle varie memorie di traduzione per uno specifico progetto sono definite dall'utente (si veda la finestra di dialogo Progetto nella &lt;l0&gt;Guida all'avvio rapido)&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
