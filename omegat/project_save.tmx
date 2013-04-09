@@ -4097,8 +4097,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;several translators working on the same project:&lt;/e0&gt; split the source files into source/Alice, source/Bob... and allocate them to team members (Alice, Bob ...).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202904Z">
-        <seg>&lt;e0&gt;diversi traduttori che lavorano su uno stesso progetto:&lt;/e0&gt; dividere i file di partenza in source/Alice, source/Bob... and allocate them to team members (Alice, Bob ...).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T203057Z">
+        <seg>&lt;e0&gt;diversi traduttori che lavorano su uno stesso progetto:&lt;/e0&gt; dividere i file di partenza in source/Alice, source/Mario... e distribuirli ai membri della squadra (Alice, Mario...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38349,6 +38349,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T173126Z">
         <seg>Essi sono i file con cui si ha a che fare quotidianamente durante la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can then create their own projects and, deliver their own &lt;f1&gt;project_save.tmx&lt;/f1&gt;, when finished or when a given milestone has been reached.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T203233Z">
+        <seg>Essi possono creare il proprio progetto e consegnare il proprio file &lt;f1&gt;project_save.tmx&lt;/f1&gt;, una volta terminato o raggiunto un determinato obiettivo.</seg>
       </tuv>
     </tu>
     <tu>
