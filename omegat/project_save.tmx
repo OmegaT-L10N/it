@@ -9521,6 +9521,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subdirectory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T204812Z">
+        <seg>Quando si traducono i file, &lt;a0&gt;OmegaT&lt;/a0&gt; memorizza continuamente il lavoro nel file &lt;f1&gt;project_save.tmx&lt;/f1&gt;, all'interno della sottocartella /&lt;f2&gt;omegat&lt;/f2&gt; del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Associating</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T230959Z">
