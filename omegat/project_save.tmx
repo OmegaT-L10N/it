@@ -16088,6 +16088,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the language pair of the project is DE-FR, it can be still be of some help to see hits in the DE-EN translation, if there's none in the DE-FR pair.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T211652Z">
+        <seg>Per esempio, se la coppia linguistica del progetto è IT-FR, può essere di qualche aiuto verificare le corrispondenze nella traduzione IT-EN, se non è presente nulla nella coppia IT-FR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T172637Z">
@@ -18201,6 +18209,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T180256Z">
         <seg>Se per uno specifico segmento di partenza non è ancora presente una traduzione nella memoria di traduzione del progetto (file project_save.tmx), l'attuale traduzione verrà salvata come traduzione predefinita nel file project_save.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If for a given source segment there is no entry for the selected target language, all other target segments are loaded, regardless of the language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T211427Z">
+        <seg>Se per uno specifico segmento di partenza non è presente alcuna voce per la lingua di destinazione selezionata, tutti gli altri segmenti di destinazione vengono caricati, indipendentemente dalla lingua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33534,6 +33550,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T110101Z">
         <seg>I file TMX sono letti ordinati per nome e segmenti all'interno di un file TMX dato riga per riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files can generally contain translation units with several candidate languages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T211055Z">
+        <seg>I file TMX possono, in genere, contenere unità di traduzione con diverse lingue candidate.</seg>
       </tuv>
     </tu>
     <tu>
