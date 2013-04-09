@@ -4089,8 +4089,16 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target directories (Source = source/order1, target = target/order1 etc).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202418Z">
-        <seg>&lt;e0&gt;diversi progetti sullo stesso soggetto: &lt;/e0&gt;mantenere la struttura del progetto e modificare le cartelle di origine e di destinazione (Origine = origine/ordine1, destinazione = destinazione/ordine1, e così via).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202923Z">
+        <seg>&lt;e0&gt;diversi progetti sullo stesso soggetto: &lt;/e0&gt;mantenere la struttura del progetto e modificare le cartelle di origine e di destinazione (Origine = source/ordine1, destinazione = target/ordine1, e così via).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;several translators working on the same project:&lt;/e0&gt; split the source files into source/Alice, source/Bob... and allocate them to team members (Alice, Bob ...).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202904Z">
+        <seg>&lt;e0&gt;diversi traduttori che lavorano su uno stesso progetto:&lt;/e0&gt; dividere i file di partenza in source/Alice, source/Bob... and allocate them to team members (Alice, Bob ...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25051,6 +25059,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T155238Z">
         <seg>Si noti che è possibile utilizzare gratuitamente fino a due milioni di caratteri al mese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that you segments from order1, that are not present in order2 and other subsequent jobs, will be tagged as orphan segments; however, they will still be useful for getting fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202808Z">
+        <seg>Si noti che ai segmenti derivanti da ordine1 non presenti in ordine2 e in altri lavori successivi, saranno contrassegnati come segmenti orfani; tuttavia essi ritorneranno utili per individuare concordanze parziali.</seg>
       </tuv>
     </tu>
     <tu>
