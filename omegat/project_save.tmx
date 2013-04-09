@@ -39237,6 +39237,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means for instance that you do not need to exit a project you are currently working on if you decide to add another ancillary TM to it: you simply reload the project, and the changes you have made will be included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T201803Z">
+        <seg>Questo significa, per esempio, che non è necessario uscire da un progetto su cui si sta lavorando, se si decide di aggiungervi un'altra memoria secondaria: per integrare le modifiche basterà ricaricare il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T221222Z">
