@@ -2639,6 +2639,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; also backups translation memory to &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; in the same subfolder whenever a project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205105Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; inoltre, nella stessa sottocartella, e ogni volta che un progetto viene aperto o ricaricato, crea anche file di backup della memoria di traduzione, ai quali assegna il nome &lt;f1&gt;project_save.tmx.ANNOMMGGHHNN.bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; automatically creates this file when the project is created and contains the project parameters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T211809Z">
@@ -18984,6 +18992,14 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T202511Z">
         <seg>Se si ritiene di aver perso i dati di traduzione, è possibile seguire la procedura seguente, che permetterà di ripristinare il progetto al punto di salvataggio più recente, in genere non più vecchio di circa dieci minuti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you believe you have lost translation data, follow the following procedure:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205203Z">
+        <seg>Se si ritiene di aver perso i dati di traduzione, attenersi alla procedura seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44110,6 +44126,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163817Z">
         <seg>XY come gruppo singolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YEAR is 4-digit year, MM is a month, DD day of the month, HH and NN are hours and minutes when the previous translation memory was saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205034Z">
+        <seg>ANNO è l'anno espresso in quattro cifre, MM è il mese, GG è il giorno del mese, HH e NN corrispondono alle ore e ai minuti in cui è stata salvata la precedente memoria di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
