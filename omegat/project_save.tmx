@@ -2287,6 +2287,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2- or 3-letter language code followed by the 2-letter country code (e.g. EN-US - See &lt;x0/&gt; for a partial list of language and country codes).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210559Z">
+        <seg>il codice di lingua a 2 o 3 lettere, seguito dal codice nazione a 2 lettere (per es., IT-IT - Si consulti &lt;x0/&gt; per un elenco parziale dei codici di lingua e nazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2-letter language code followed by the 2-letter country code (e.g. &lt;s0&gt;EN-US&lt;/s0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T111326Z">
@@ -18645,6 +18653,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T111551Z">
         <seg>Se i codici di lingua del progetto e quelli del file TMX sono completamente corrispondenti, i segmenti verranno caricati nella memoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the project language codes and the tmx language codes fully match, the segments are loaded in memory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210639Z">
+        <seg>Se i codici di lingua del progetto e quelli del file tmx sono completamente corrispondenti, i segmenti verranno caricati nella memoria.</seg>
       </tuv>
     </tu>
     <tu>
