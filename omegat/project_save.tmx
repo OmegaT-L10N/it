@@ -18125,6 +18125,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193504Z">
+        <seg>Se una frase specifica è stata già tradotta correttamente una volta, non è necessario che venga tradotta nuovamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T163027Z">
@@ -41443,6 +41451,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T091125Z">
         <seg>Memorie di traduzione in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193643Z">
+        <seg>Le memorie di traduzione possono contenere anche traduzioni di collegamenti: la legislazione multinazionale, come quella della Comunità Europea, è un tipico esempio.</seg>
       </tuv>
     </tu>
     <tu>
