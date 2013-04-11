@@ -11594,6 +11594,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204245Z">
+        <seg>Commenti dell'autore nei file PO, o il nome dell'attributo tradotto (in XHTML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comments pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204208Z">
+        <seg>Pannello dei commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T185049Z">
@@ -23495,6 +23511,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translations pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204009Z">
+        <seg>Pannello della Traduzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine translation - trouble shooting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T221208Z">
@@ -25555,6 +25579,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T163321Z">
         <seg>Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notes pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204049Z">
+        <seg>Pannello delle note</seg>
       </tuv>
     </tu>
     <tu>
@@ -46561,6 +46593,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>displays dictionary hits found for items in the current segment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203956Z">
+        <seg>mostra le corrispondenze di dizionario trovate per gli elementi del segmento attivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>displays terminology found for items in the current segment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203909Z">
@@ -46573,6 +46613,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203833Z">
         <seg>mostra i segmenti più simili ricavati dalle memorie di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>displays the translation, provided by MT services</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204040Z">
+        <seg>mostra la traduzione fornita dai servizi di traduzione automatica</seg>
       </tuv>
     </tu>
     <tu>
@@ -47581,6 +47629,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094523Z">
         <seg>non fornisce una versione JRE per sistemi PPC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>notes pertaining to the current segment, e.g. alternative translations or the current key in case of key=value file formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204157Z">
+        <seg>mostra le note appartenenti al segmento attivo, per es. le traduzioni alternative o la chiave attiva, nel caso di formati di file chiave=valore</seg>
       </tuv>
     </tu>
     <tu>
