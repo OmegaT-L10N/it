@@ -23535,6 +23535,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main OmegaT window, other windows and dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203513Z">
+        <seg>Finestra principale di OmegaT, altre finestre di dialogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main menu</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090641Z">
@@ -25263,6 +25271,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in some cases changes in file filters in &lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 may lead to totally different segmentation; as a result, you will have to upgrade your translation manually in such rare cases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203430Z">
+        <seg>Si noti anche che sono stati apportati alcuni cambiamenti ai filtri dei file di &lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 che potrebbero portare a una segmentazione totalmente diversa; pertanto si potrebbero eccezionalmente presentare condizioni in cui viene richiesto l'aggiornamento manuale della propria traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T210504Z">
@@ -26561,6 +26577,14 @@ la cartella home dell'utente.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T222359Z">
         <seg>Finestra principale di OmegaT (ad eccezione del visualizzatore del Dizionario)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT main window contains the main menu, status bar and several panes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203556Z">
+        <seg>La finstra principale di OmegaT contiene il menu principale, la barra di stato e vari pannelli.</seg>
       </tuv>
     </tu>
     <tu>
