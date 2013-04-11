@@ -6823,6 +6823,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Pseudotranslation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201232Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Pseudo-traduzione&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Reusing translation memories&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193055Z">
@@ -36445,6 +36453,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135501Z">
         <seg>L'esportazione di livello 2 non è un livello 2 standard, ma è sufficiente perché i programmi di traduzione assistita, che accettano i file TMX di livello 2, siano in grado di generare corrette corrispondenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201201Z">
+        <seg>Il livello di esportazione 2 non si conforma completamente con lo standard di livello 2, ma è sufficientemente simile e genera corrispondenze corrette negli altri strumenti di traduzione che supportano il livello TMX 2.</seg>
       </tuv>
     </tu>
     <tu>
