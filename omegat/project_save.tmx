@@ -22867,8 +22867,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T195828Z">
-        <seg>I file tmx di livello 2 vengono ancora importati e il loro contenuto di testo può essere visualizzato in OmegaT, ma la qualità delle corrispondenze parziali risulterà essere inferiore.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200037Z">
+        <seg>I file tmx di livello 2 saranno ancora importati e il contenuto del loro testo visualizzato in OmegaT, ma la qualità delle corrispondenze parziali risulterà essere in qualche modo inferiore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26147,6 +26147,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T134748Z">
         <seg>Quando OmegaT deve gestire le memorie di traduzione (ovvero i file TMX) adotta una procedura molto rigida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T195950Z">
+        <seg>Quando OmegaT deve caricare i file delle memorie di traduzione (tmx) adotta una procedura molto rigida.</seg>
       </tuv>
     </tu>
     <tu>
