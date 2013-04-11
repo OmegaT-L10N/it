@@ -6863,6 +6863,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Upgrading to sentence segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202339Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Aggiornare alla segmentazione di frase&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;multilingual, handling of&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210935Z">
@@ -22113,6 +22121,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092907Z">
         <seg>Il suo contenuto sarà sempre ordinato alfabeticamente dal segmento di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its value is either &lt;l3&gt;equal&lt;/l3&gt; (default value, for source=target) or &lt;l4&gt;empty&lt;/l4&gt; (target segment is empty).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202133Z">
+        <seg>Il suo valore è &lt;l3&gt;equal&lt;/l3&gt; (predefinito, per origine=destinazione) o &lt;l4&gt;empty&lt;/l4&gt; (segmento di arrivo vuoto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40917,6 +40933,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141752Z">
         <seg>Per rimuovere un filtro, premere il pulsante 'rimuovi filtro' o ricaricare il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To reuse it in &lt;a5&gt;OmegaT&lt;/a5&gt; rename it to &lt;e6&gt;project_save.tmx &lt;/e6&gt; and place it in the &lt;l7&gt;omegat&lt;/l7&gt;-folder of your project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202228Z">
+        <seg>Per riutilizzarlo in &lt;a5&gt;OmegaT&lt;/a5&gt;, rinominarlo in &lt;e6&gt;project_save.tmx &lt;/e6&gt; e copiarlo nella cartella &lt;l7&gt;omegat&lt;/l7&gt; del proprio progetto.</seg>
       </tuv>
     </tu>
     <tu>
