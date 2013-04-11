@@ -43188,6 +43188,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Very early versions of &lt;a0&gt;OmegaT&lt;/a0&gt; were capable of segmenting source files into paragraphs only and were inconsistent when numbering formatting tags in HTML and Open Document files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202630Z">
+        <seg>Le primissime versioni di &lt;a0&gt;OmegaT&lt;/a0&gt; segmentavano un file di partenza solo per paragrafi, e la numerazione dei tag di formattazione dei file HTML e Open Document non era coerente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vie&amp;w...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101207T185604Z">
