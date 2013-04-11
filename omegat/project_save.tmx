@@ -15543,6 +15543,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200708Z">
+        <seg>La correzione degli errori è un'operazione relativamente banale e OmegaT aiuterà alla loro risoluzione con opportuni messaggi di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fixes are trivial operations and OmegaT will give you indications in the related error message.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135325Z">
@@ -26123,6 +26131,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135438Z">
         <seg>OmegaT esporta file TMX in versione 1.4 (sia di livello 1, sia di livello 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200836Z">
+        <seg>OmegaT esporta i file tmx nella versione 1.4 (in entrambi i livelli 1 e 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44690,6 +44706,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135425Z">
         <seg>Se si sperimentano problemi, si potrà sempre chiedere assistenza al &lt;a0&gt;gruppo di utenti di OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200728Z">
+        <seg>Se si sperimentano problemi, si potrà sempre chiedere assistenza al gruppo di utenti di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
