@@ -10050,6 +10050,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before segments get translated, you may wish to pre-process them or address them in some other way than is possible with OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201516Z">
+        <seg>Prima di tradurre segmenti, si potrebbe avere necessità di eseguirne una pre-elaborazione o indirizzarli in uno dei modi possibili offerti da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T213604Z">
@@ -15996,6 +16004,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T124453Z">
         <seg>Per esempio, se si desidera utilizzare il filtro di testo per la gestione dei file "leggimi" (&lt;l3&gt;leggimi, leggi.mi&lt;/l3&gt;, e &lt;l4&gt;leggimi.txt&lt;/l4&gt;) si dovrebbe usare il modello &lt;l5&gt;leggi*&lt;/l5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you wish to create a pseudo-translation for testing purposes, OmegaT enables you to create an additional tmx file that contains all segments of the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201706Z">
+        <seg>Per esempio, se si volesse creare una pseudo-traduzione a fini di controllo, OmegaT permette di creare un file tmx aggiuntivo contenente tutti i segmenti del progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37929,6 +37945,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101017T175618Z">
         <seg>La terza percentuale (56) è più alta a causa delle differenze nella punteggiatura e nei tag utilizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tmx file can be given any name you specify.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201743Z">
+        <seg>È possibile assegnare al file tmx qualsiasi nome.</seg>
       </tuv>
     </tu>
     <tu>
