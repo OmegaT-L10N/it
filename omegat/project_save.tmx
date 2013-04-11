@@ -44955,8 +44955,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T194032Z">
-        <seg>È possibile considerare questi tre file tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; e &lt;f4&gt;-level2.tmx&lt;/f4&gt;) come una "memoria di traduzione di esportazione", ossia come un'esportazione del contenuto dell'attuale progetto in formato bilingue.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T194126Z">
+        <seg>È possibile considerare questi tre file tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; e &lt;f4&gt;-level2.tmx&lt;/f4&gt;) come una "memoria di traduzione da esportazione", ossia come un'esportazione del contenuto dell'attuale progetto in formato bilingue.</seg>
       </tuv>
     </tu>
     <tu>
