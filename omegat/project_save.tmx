@@ -7776,6 +7776,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A project's tmx will be upgraded only once, and will be written in upgraded form into the &lt;f0&gt;project-save.tmx&lt;/f0&gt;; legacy tmx files will be upgraded on the fly each time the project is loaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203222Z">
+        <seg>Un file tmx di un progetto verrà aggiornato solo una volta, e verrà scritto nel &lt;f0&gt;project-save.tmx&lt;/f0&gt; nella sua forma aggiornata; i file tmx ereditati saranno aggiornati immediatamente alla riapertura del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A pseudo-translated memory can be generated with the following command line parameters:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201833Z">
