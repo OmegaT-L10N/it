@@ -7760,6 +7760,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A pseudo-translated memory can be generated with the following command line parameters:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201833Z">
+        <seg>Una memoria pseudo-tradotta può essere generata con i parametri a riga di comando di seguito specificati:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A regular expression entered here will cause OmegaT treat the detected instances as customer tags.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T224818Z">
@@ -30096,6 +30104,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working directory (the directory you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202005Z">
+        <seg>Sostituire &lt;l0&gt;&lt;nome_file&gt;&lt;/l0&gt; col nome del file da creare, all'interno della cartella di lavoro assoluta o relativa (la cartella da cui si avvia &lt;a1&gt;OmegaT&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Match</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T130926Z">
@@ -37433,6 +37449,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T160057Z">
         <seg>La finestra di ricerca è formata da un campo di immissione testo, in cui le porzioni di testo da ricercare, da caselle di scelta e pulsanti, che consentono di impostare la ricerca, e da un'area per la visualizzazione dei risultati trovati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second argument &lt;l2&gt;--pseudotranslatetype&lt;/l2&gt; is optional.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202025Z">
+        <seg>Il secondo argomento &lt;l2&gt;--pseudotranslatetype&lt;/l2&gt; è facoltativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47133,6 +47157,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T192429Z">
         <seg>java -jar OmegaT.jar --mode=console-align /cartella-mio-progetto --alignDir=/FileTradotti/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201852Z">
+        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;nome_file&gt; [pseudotranslatetype=[equal|empty]]</seg>
       </tuv>
     </tu>
     <tu>
