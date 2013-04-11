@@ -6895,6 +6895,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;User Interface&lt;/p0&gt; &lt;s1&gt;Main OmegaT window&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203754Z">
+        <seg>&lt;p0&gt;Interfaccia utente&lt;/p0&gt; &lt;s1&gt;Finestra principale di OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Webster&lt;/p0&gt; &lt;s1&gt;Dictionaries&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T112201Z">
@@ -8228,6 +8236,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T205641Z">
         <seg>Sono disponibili ulteriori varianti per le variabili ${nameOnly} e ${Extension}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional windows are available, as well as dialogs, used to change OmegaT project settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203700Z">
+        <seg>Sono disponibili svariate altre finestre, utilizzate per modificare le impostazioni del progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12825,6 +12841,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091534Z">
         <seg>Ricerca nel dizionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictonary pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203925Z">
+        <seg>Pannello del dizionario</seg>
       </tuv>
     </tu>
     <tu>
@@ -23535,6 +23559,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main OmegaT window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203805Z">
+        <seg>Finestra principale di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main OmegaT window, other windows and dialogs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203513Z">
@@ -23867,6 +23899,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T184827Z">
         <seg>Modello visualizzazione concordanza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203814Z">
+        <seg>Pannello delle corrispondenze</seg>
       </tuv>
     </tu>
     <tu>
@@ -36472,6 +36512,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The information below summarizes their use and how they are invoked:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203736Z">
+        <seg>Le informazioni di seguito riportate riepilogano il loro uso e richiamo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The information it contains is more detailed that what is displayed in the &lt;e2&gt;Project Files&lt;/e2&gt; window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T185931Z">
@@ -46509,6 +46557,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093326Z">
         <seg>di un errore importante (il file log.txt viene memorizzato nella cartella delle preferenze </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>displays terminology found for items in the current segment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203909Z">
+        <seg>mostra la terminologia trovata per gli elementi del segmento attivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>displays the most similar segments from translation memories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203833Z">
+        <seg>mostra i segmenti più simili ricavati dalle memorie di traduzione</seg>
       </tuv>
     </tu>
     <tu>
