@@ -6783,6 +6783,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Import and export&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193034Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Importare ed esportare&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Language&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205557Z">
@@ -6811,6 +6819,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092927Z">
         <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Cartella principale del progetto&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Reusing translation memories&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193055Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Riutilizzo delle memorie di traduzione&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19455,6 +19471,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you modify the project segmentation or delete files from the source, some matches may appear as &lt;e1&gt;orphan strings&lt;/e1&gt; in the Match Viewer: such matches refer to segments that do not exist any more in the source documents, as they correspond to segments translated and recorded before the modifications took place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193016Z">
+        <seg>Se si modifica la segmentazione del progetto o si eliminano file dai file di origine, potrebbero apparire delle &lt;e1&gt;stringhe orfane&lt;/e1&gt; nel visualizzatore delle concordanze: tali concordanze si riferiscono a segmenti che non esistono più nei documenti di origine, dato che corrispondono a segmenti tradotti e registrati prima di eseguire le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need altered settings, the configuration files must be available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T165652Z">
@@ -30196,6 +30220,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T184108Z">
         <seg>Risultato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reusing translation memories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193107Z">
+        <seg>Riutilizzo delle memorie di traduzione</seg>
       </tuv>
     </tu>
     <tu>
