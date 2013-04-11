@@ -45481,8 +45481,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You will put your document to be translated into the &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt; folder; the &lt;/f6&gt;&lt;f7&gt;/target&lt;/f7&gt;&lt;f8&gt; folder will be filled with translated text as you translate the job; the &lt;/f8&gt;&lt;f9&gt;/omegat&lt;/f9&gt;&lt;f10&gt; &lt;s11/&gt;folder need not concern you now; the &lt;/f10&gt;&lt;f12&gt;/tm&lt;/f12&gt;&lt;f13&gt; and &lt;/f13&gt;&lt;f14&gt;/glossary&lt;/f14&gt;&lt;f15&gt; files will remain empty unless and until you create a .tmx file and a glossary and put them into those respective folders.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130305T102032Z">
-        <seg>Si metteranno i documenti da tradurre nelle cartella &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt;; la cartella &lt;/f6&gt; &lt;f7&gt;/target&lt;/f7&gt; &lt;f8&gt; sarà riempita con i file tradotti dopo il lavoro; la cartella &lt;/f8&gt; &lt;f9&gt;/omegat&lt;/f9&gt; &lt;f10&gt; &lt;s11/&gt; al momento non deve preoccupare; le cartelle &lt;/f10&gt; &lt;f12&gt;/tm&lt;/f12&gt; &lt;f13&gt; e &lt;/f13&gt; &lt;f14&gt;/glossary&lt;/f14&gt; &lt;f15&gt; rimarranno vuote almeno  fino a quando si creeranno un file .tmx e un glossario da mettere nelle rispettive cartelle.&lt;/f15&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T191858Z">
+        <seg>Si metteranno i documenti da tradurre nella cartella &lt;f5&gt;/source&lt;/f5&gt;&lt;f6&gt;; la cartella &lt;/f6&gt; &lt;f7&gt;/target&lt;/f7&gt; &lt;f8&gt; sarà riempita con i file tradotti dopo il lavoro; la cartella &lt;/f8&gt; &lt;f9&gt;/omegat&lt;/f9&gt; &lt;f10&gt; &lt;s11/&gt; al momento non deve preoccupare; le cartelle &lt;/f10&gt; &lt;f12&gt;/tm&lt;/f12&gt; &lt;f13&gt; e &lt;/f13&gt; &lt;f14&gt;/glossary&lt;/f14&gt; &lt;f15&gt; rimarranno vuote almeno  fino a quando si creeranno un file .tmx e un glossario da mettere nelle rispettive cartelle.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
