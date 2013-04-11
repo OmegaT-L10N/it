@@ -22865,6 +22865,14 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T195828Z">
+        <seg>I file tmx di livello 2 vengono ancora importati e il loro contenuto di testo può essere visualizzato in OmegaT, ma la qualità delle corrispondenze parziali risulterà essere inferiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T124747Z">
