@@ -5423,6 +5423,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;statistics&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204519Z">
+        <seg>&lt;p0&gt;Menu Strumenti&lt;/p0&gt; &lt;s1&gt;statistiche&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu options&lt;/p0&gt; &lt;s1&gt;Editing behavior...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T122451Z">
@@ -6407,6 +6415,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Help - F1&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204420Z">
+        <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Aiuto - F1&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Machine Translate - Ctrl+M&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T195152Z">
@@ -6899,6 +6915,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203754Z">
         <seg>&lt;p0&gt;Interfaccia utente&lt;/p0&gt; &lt;s1&gt;Finestra principale di OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Other windows&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204301Z">
+        <seg>&lt;p0&gt;Interfaccia utente&lt;/p0&gt; &lt;s1&gt;Altre finestre&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33432,6 +33456,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Statistics window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204506Z">
+        <seg>Finestra delle statistiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Status bar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092852Z">
@@ -42743,6 +42775,22 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T110632Z">
         <seg>Usare untar (o il suo equivalente, per esempio, &lt;f0&gt; winrar&lt;/f0&gt; in Windows) per estrarre il suo contenuto nella cartella del progetto "Dictionary".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;, close with &lt;k1&gt;Esc)&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204455Z">
+        <seg>Usato per visualizzare il manuale dell'utente (aprire con &lt;k0&gt;F1&lt;/k0&gt;, chiudere con &lt;k1&gt;Esc)&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to read the user manual (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, close with &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204403Z">
+        <seg>Usata per leggere il manuale dell'utente (aprire con &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, chiudere con &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
