@@ -10394,6 +10394,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T194633Z">
+        <seg>Per impostazione predefinita, la cartella /tm è contenuta all'interno della cartella principale del progetto (per es. &lt;e0&gt;/MioProgetto/tm&lt;/e0&gt;), ma è possibile scegliere una cartella diversa nella finestra di dialogo delle proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the &lt;e0&gt;\tm&lt;/e0&gt; folder is below the project's root folder (e.g. ..&lt;e1&gt;\MyProject\tm)&lt;/e1&gt;, but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T131415Z">
@@ -20838,6 +20846,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T191921Z">
         <seg>In tale caso, però:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T194434Z">
+        <seg>In tal caso, copiare le memorie di traduzione che si desidera utilizzare nella cartella &lt;e0&gt;/tm&lt;/e0&gt; o &lt;e1&gt;/tm&lt;/e1&gt;/auto del nuovo progetto: nel primo caso si otterranno risultati da queste memorie di traduzione nel riquadro delle corrispondenze parziali, nel secondo le memorie verranno usate per tradurre subito il testo di partenza.</seg>
       </tuv>
     </tu>
     <tu>
