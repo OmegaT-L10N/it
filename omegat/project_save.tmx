@@ -21026,6 +21026,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193238Z">
+        <seg>In principio, quando si crea il progetto, la memoria di traduzione principale, &lt;f0&gt;project_save.tmx&lt;/f0&gt;, è vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Match</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181538Z">
@@ -38761,6 +38769,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This TM gradually becomes filled during the translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193301Z">
+        <seg>Essa viene popolata gradualmente durante la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's five place holders available for scripts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T095030Z">
@@ -40789,6 +40805,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T112916Z">
         <seg>Per vedere quali formati di file sono gestiti da OmegaT, consultare il menu &lt;g0&gt;Opzioni &gt; Filtri dei file... &lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193335Z">
+        <seg>Per velocizzare il processo, possono essere riutilizzate le memorie esistenti.</seg>
       </tuv>
     </tu>
     <tu>
