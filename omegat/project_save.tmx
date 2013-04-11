@@ -43616,6 +43616,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T194852Z">
+        <seg>Quando si inizia un nuovo progetto sullo stesso oggetto o per lo stesso cliente, scegliere la cartella "deposito" nella finestra di dialogo &lt;g0&gt;Progetto &gt; Proprietà &gt; Modifica il progetto&lt;/g0&gt; e selezionarla come cartella della memoria di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you click OK to accept the project set-up, OmegaT prompts you to select the source documents for import.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T104328Z">
