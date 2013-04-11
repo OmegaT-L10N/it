@@ -20073,6 +20073,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing and exporting translation memories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T195318Z">
+        <seg>Importazione ed esportazione delle memorie di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231211Z">
@@ -25059,6 +25067,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T134824Z">
         <seg>Si noti che tutti i file TMX contenuti nel deposito &lt;e0&gt;/tm&lt;/e0&gt; vengono analizzati durante l'avvio del programma, dunque l'inserimento al suo interno di tutti i file TMX che si posseggono rallenterà inevitabilmente OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T195149Z">
+        <seg>Si noti che tutti i file tmx contenuti nel deposito /tm vengono analizzati all'apertura del progetto, dunque l'inserimento al suo interno di tutte le diverse memorie di traduzione potrebbe inevitabilmente rallentare OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45314,6 +45330,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T134511Z">
         <seg>Si potrebbe anche considerare di eliminare quelli che sono strettamente necessari (per esempio lasciandoli nella sottodirectory &lt;e1&gt;/tm&lt;/e1&gt;, ma modificandone l'estensione), una volta che il loro contenuto è stato trasferito nel file &lt;e2&gt;project_save.tmx&lt;/e2&gt; del progetto attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx &lt;/f0&gt;file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T195256Z">
+        <seg>Si potrebbe anche considerare di rimuovere quelle non più necessarie, una volta usato il loro contenuto e aver popolato il file &lt;f0&gt;project-save.tmx &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
