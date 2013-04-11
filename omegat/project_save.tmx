@@ -5423,6 +5423,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T205028Z">
+        <seg>&lt;p0&gt;Menu Progetto&lt;/p0&gt; &lt;s1&gt;Proprietà&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204736Z">
@@ -6931,6 +6939,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204301Z">
         <seg>&lt;p0&gt;Interfaccia utente&lt;/p0&gt; &lt;s1&gt;Altre finestre&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Settings dialogs&lt;/s1&gt; &lt;s2&gt;Project Settings&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T205010Z">
+        <seg>&lt;p0&gt;Interfaccia utente&lt;/p0&gt; &lt;s1&gt;Finestre Impostazioni&lt;/s1&gt; &lt;s2&gt;Impostazioni del progetto&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32440,6 +32456,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Settings dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T205003Z">
+        <seg>Finestre impostazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setup</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091806Z">
@@ -42791,6 +42815,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T110632Z">
         <seg>Usare untar (o il suo equivalente, per esempio, &lt;f0&gt; winrar&lt;/f0&gt; in Windows) per estrarre il suo contenuto nella cartella del progetto "Dictionary".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt;to open it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204922Z">
+        <seg>Usata per visualizzare le statistiche delle concordanze del progetto, per aprirlo selezionare &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Strumenti&lt;/g1&gt; &lt;g3&gt;Statistiche delle concordanze&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
