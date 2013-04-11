@@ -18205,6 +18205,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200242Z">
+        <seg>Se all'interno del file viene rilevato un errore, OmegaT indicherà la posizione all'interno del file in cui esso si trova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If any mistake is found in such a file, OmegaT will simply not load it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T134817Z">
@@ -19868,6 +19876,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T135251Z">
         <seg>Se si desidera ricercare segmenti contenenti &lt;s0&gt;*&lt;/s0&gt; o &lt;s1&gt;?&lt;/s1&gt;, si dovrà avviare una ricerca per espressioni regolari e prefissare questi caratteri a una barra rovesciata ('\'), per esempio 'x\*y' per trovare istanze di 'x*y' e 'x\?&lt;c2&gt;y&lt;/c2&gt;' per quelle di '&lt;c3&gt;x?y&lt;/c3&gt;'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200527Z">
+        <seg>Se si vuole utilizzare questo tipo di file come traduzioni di riferimento in OmegaT, essi devono essere riparati, altrimenti OmegaT segnalerà un errore e non li caricherà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32684,6 +32700,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135002Z">
         <seg>In certe condizioni, vi sono alcuni strumenti di traduzione assistita che, notoriamente, generano file TMX non corretti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200318Z">
+        <seg>In certe condizioni, vi sono alcuni strumenti di traduzione assistita che, notoriamente, generano file tmx non corretti.</seg>
       </tuv>
     </tu>
     <tu>
