@@ -35862,6 +35862,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T113304Z">
+        <seg>La traduzione in collaborazione offerta da OmegaT si basa sulla funzionalità di controllo della versione o revisione, largamente usata dalle comunità informatiche per tenere sotto controllo il codice di un programma e permettere la collaborazione senza intoppi all'interno del relativo team di sviluppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T164241Z">
