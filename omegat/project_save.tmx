@@ -7487,6 +7487,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T111621Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; è un software open source di analisi grammaticale e sintattica per Inglese, Francese, Tedesco, Polacco, Olandese, Rumeno e varie altre lingue: vedere l'&lt;u1&gt;elenco delle lingue supportate&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;u1&gt;Microsoft Terminology Collection&lt;/u1&gt; &lt;i2/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T192132Z">
@@ -35199,6 +35207,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T093120Z">
         <seg>LanguageTool in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin for OmegaT can be downloaded from the &lt;u0&gt;OmegaT plugins download site&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T111750Z">
+        <seg>Il plugin di LanguageTool per OmegaT è scaricabile dal &lt;u0&gt;sito di download dei plugin di OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
