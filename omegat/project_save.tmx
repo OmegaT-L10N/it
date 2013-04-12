@@ -12637,6 +12637,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cycle case to...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T112751Z">
+        <seg>Alterna maiuscola/minuscola in...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Czech</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212415Z">
@@ -36500,6 +36508,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T112205Z">
         <seg>Il file INI file che segue riserva 1GB di memoria, richiede come lingua dell'utente il Francese e il Portogallo come nazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translatione xists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T112559Z">
+        <seg>La seguente porzione di codice scritto in groovy, per esempio, esegue un'analisi di tutti i segmenti, all'interno di tutti i file del progetto attivo e, se esiste la traduzione, restituisce il testo di partenza e di arrivo del segmento:</seg>
       </tuv>
     </tu>
     <tu>
