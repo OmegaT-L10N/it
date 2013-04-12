@@ -5703,6 +5703,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T112845Z">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Progetti di squadra&lt;/s1&gt; &lt;s2&gt;Progetti di squadra&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T092257Z">
@@ -26183,6 +26191,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Team Projects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T112853Z">
+        <seg>Progetti di squadra di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T111740Z">
@@ -43608,6 +43624,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T141507Z">
         <seg>Scorciatoie varie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version control - introduction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T112908Z">
+        <seg>Controllo di versione - introduzione</seg>
       </tuv>
     </tu>
     <tu>
