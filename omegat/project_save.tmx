@@ -25615,6 +25615,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T111243Z">
+        <seg>Si noti che è possibile riassegnare le scorciatoie in base alle proprie preferenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that you segments from order1, that are not present in order2 and other subsequent jobs, will be tagged as orphan segments; however, they will still be useful for getting fuzzy matches.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202808Z">
@@ -31652,6 +31660,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T171710Z">
         <seg>Vedere &lt;f1&gt;7.B.1-7.B.4&lt;/f1&gt;&lt;f2&gt;, qui sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T111313Z">
+        <seg>&lt;l0&gt;Vedere Appendice - Personalizzazione delle scorciatoie&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
