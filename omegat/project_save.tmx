@@ -33946,6 +33946,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T111209Z">
+        <seg>Comandi di tipo globale Seleziona tutto (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Incolla (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Taglia (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copia (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Inserisci corrispondenza &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) e Inserisci il testo di partenza (&lt;e5&gt;Ctrl+Maiusc+I&lt;/e5&gt;) agiscono, in linea di principio, sul testo all'interno del solo segmento correntemente aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>System-wide commands: Paste (&lt;e0&gt;Ctrl+V&lt;/e0&gt; or &lt;e1&gt;Ctrl+Insert&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt; or &lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on any selection, including those that extend beyond the current segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T110926Z">
