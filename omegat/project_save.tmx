@@ -27079,6 +27079,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T114715Z">
+        <seg>OmegaT supporta due popolari sistemi di controllo della versione (abbreviati in VCS, Version Control System), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (spesso abbreviato in SVN, per il nome di comando svn) e &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT tags are composed of one or more letters followed by one or more digit, using the "/" character for closure (for example: &lt;f0&gt;, &lt;/f0&gt; &lt;br&gt;, &lt;/s2&gt; etc.).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T102721Z">
@@ -35561,6 +35569,14 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T122817Z">
         <seg>Il segmento attivo da tradurre è evidenziato in verde; subito sotto compare una copia del testo di partenza, inserito nel “campo di arrivo”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T114820Z">
+        <seg>I vantaggi di un sistema VC per una squadra di traduttori sono riepilogati di seguito:</seg>
       </tuv>
     </tu>
     <tu>
