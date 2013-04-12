@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12101,6 +12101,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2013 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T102856Z">
+        <seg>Copyright © 2000-2013 Keith Godfrey, Maxym Mykhalchuk et al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T121306Z">
@@ -22273,6 +22281,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094358Z">
         <seg>JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JSAP (LGPL License)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T102911Z">
+        <seg>JSAP (licenza LGPL)</seg>
       </tuv>
     </tu>
     <tu>
