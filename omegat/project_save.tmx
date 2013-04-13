@@ -37072,6 +37072,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt;(if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153749Z">
+        <seg>L'estensione deve essere &lt;f0&gt;.txt&lt;/f0&gt;(se così non fosse, essa verrà aggiunta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file &lt;e0&gt;project_save.tmx&lt;/e0&gt; contains all the segments that have been memorized since you started the project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101846Z">
@@ -37757,6 +37765,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T185312Z">
         <seg>Il file deve essere contenuto all'interno della cartella &lt;f1&gt;/glossary&lt;/f1&gt;, ma anche in un'ulteriore sottocartella (per es., &lt;f2&gt;glossary/sub/glossario.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f1&gt;/glossary&lt;/f1&gt;folder, but it can be in a deeper directory (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153927Z">
+        <seg>Il file deve essere contenuto all'interno della cartella &lt;f1&gt;/glossary&lt;/f1&gt;, ma può trovarsi anche in un'ulteriore sottocartella (per es., &lt;f2&gt;glossary/sub/glossario.txt&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39394,6 +39410,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T222439Z">
         <seg>Alla voce di glossario può essere aggiunto un commento (si veda "verbo transitivo" per il secondo elemento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153955Z">
+        <seg>Alla voce di glossario può essere aggiunto un commento.</seg>
       </tuv>
     </tu>
     <tu>
