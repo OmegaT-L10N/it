@@ -10425,6 +10425,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back-ups of the project translation memory are produced regularly (see next chapter), and &lt;f0&gt;project_save.tmx&lt;/f0&gt; is also saved/updated when the project is closed or loaded again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165153Z">
+        <seg>Copie di sicurezza della memoria di traduzione del progetto vengono create regolarmente (vedere il capitolo seguente), e il file &lt;f0&gt;project_save.tmx&lt;/f0&gt; è anch'esso salvato/aggiornato alla chiusura o riapertura del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T214630Z">
@@ -38145,6 +38153,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The locations of the various different translation memories for a given project are user-defined (see Project dialog window in &lt;l0&gt;Project properties)&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165241Z">
+        <seg>Le posizioni delle varie memorie di traduzione per uno specifico progetto sono definite dall'utente (si veda la finestra di dialogo Progetto in &lt;l0&gt;Proprietà del progetto)&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main OmegaT application.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202613Z">
@@ -41906,6 +41922,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181745Z">
         <seg>Prima lettera maiuscola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tmx files contain translation units, made of a number of equivalent segments in several languages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165259Z">
+        <seg>I file TMX contengono le unità di traduzione che corrispondono ai vari segmenti equivalenti, in lingue diverse.</seg>
       </tuv>
     </tu>
     <tu>
