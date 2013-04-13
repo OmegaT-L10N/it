@@ -9661,6 +9661,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161846Z">
+        <seg>Altro parametro di riga di comando aggiuntivo specifico della modalità console: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Antonio Vilei</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095504Z">
@@ -45360,6 +45368,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When this parameter is added, tag validation is done prior to translation/aligning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161926Z">
+        <seg>Quando viene aggiunto questo parametro, la convalida dei tag viene eseguita prima della traduzione/allineamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When translating between RTL and LTR langauges, to correctly read the tags from the source and to enter them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T210337Z">
@@ -45620,6 +45636,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T202028Z">
         <seg>Quando si traducono i file &lt;a2&gt;OmegaT&lt;/a2&gt; memorizza tutte le modifiche nella memoria di traduzione &lt;l3&gt;project_save.tmx&lt;/l3&gt; nella sottocartella &lt;l4&gt;/omegat&lt;/l4&gt; del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T162043Z">
+        <seg>Quando si traducono i file, &lt;a2&gt;OmegaT&lt;/a2&gt; memorizza tutte le modifiche nella memoria di traduzione &lt;l3&gt;project_save.tmx&lt;/l3&gt; nella sottocartella &lt;l4&gt;/omegat&lt;/l4&gt; del progetto.</seg>
       </tuv>
     </tu>
     <tu>
