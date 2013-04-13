@@ -12637,6 +12637,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Credentials are stored, so it isn't needed to enter them each time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125506Z">
+        <seg>Le credenziali di autenticazione vengono memorizzate, dunque non vi è necessità di digitarle ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Credits</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T100718Z">
@@ -41037,6 +41045,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will actually do a checkout of the project in a local folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125424Z">
+        <seg>Tale comando eseguirà un checkout del progetto in una cartella locale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create a folder called &lt;e1&gt;OmegaT&lt;/e1&gt;, with the OmegaT icon on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T115205Z">
@@ -42987,6 +43003,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T081024Z">
         <seg>Le frasi non modificate verranno proposte già completamente tradotte mentre per quelle che hanno subito aggiornamenti verrà proposta, come traduzione più probabile, la versione precedentemente tradotta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125622Z">
+        <seg>In Linux, se &lt;a2&gt;OmegaT&lt;/a2&gt; continua a chiedere l'inserimento delle credenziali, è possibile attivare la casella &lt;g3&gt;Forza il salvataggio della password come testo semplice&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
