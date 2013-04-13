@@ -2983,6 +2983,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153703Z">
+        <seg>La &lt;b0&gt;formattazione &lt;b1&gt;uno&lt;/b0&gt; &lt;/b1&gt;ora è molto disordinata.&lt;segmento 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b1&gt;&lt;/b0&gt; has been nested inside formatting zero.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T201407Z">
@@ -37548,6 +37556,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T183548Z">
         <seg>OmegaT mostra le informazioni interne di formattazione, rese possibili dai formati supportati (nello specifico DocBook, HTML, XHTML, Open Document, e OpenOffice.org), sotto forma di tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153550Z">
+        <seg>OmegaT mostra le informazioni interne di formattazione, rese possibili dai formati supportati [nello specifico DocBook, HTML, XHTML, Open Document Format (ODF) e Office Open XML (a partire da MS Office 2007)], sotto forma di tag.</seg>
       </tuv>
     </tu>
     <tu>
