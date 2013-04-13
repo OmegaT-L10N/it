@@ -37906,6 +37906,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T131640Z">
+        <seg>L'opzione permette a OmegaT di non tenere conto delle specifiche contenute nell'intestazione del file PO e usare le impostazioni predefinite per la lingua di destinazione selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The original document is not changed; rather, a new document is created based on the content of an existing one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T101350Z">
