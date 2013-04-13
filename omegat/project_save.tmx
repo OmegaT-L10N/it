@@ -7231,6 +7231,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;PO and OKAPI TTX files&lt;/s1&gt; &lt;s2&gt;Translation memories Subfolder tm/auto&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T180149Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;file PO e OKAPI TTX&lt;/s1&gt; &lt;s2&gt;Sottocartella delle memorie di traduzione tm/auto&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Project main folder&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092927Z">
@@ -34200,6 +34208,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some types of source files (for instance PO, TTX, etc.) are bilingual, i.e. they serve both as a source and as a translation memory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T180356Z">
+        <seg>Alcuni tipi di file di partenza (per esempio, PO, TTX e via discorrendo) sono bilingui, ossia funzionano sia come testo di partenza, sia come memoria di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes you may like to rename the files you translate automatically, for example adding a language code after file name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T170707Z">
@@ -34444,6 +34460,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093334Z">
         <seg>di SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sources with existing translations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T180217Z">
+        <seg>File di partenza con traduzioni esistenti</seg>
       </tuv>
     </tu>
     <tu>
