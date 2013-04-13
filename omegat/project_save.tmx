@@ -13797,6 +13797,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T130937Z">
+        <seg>La cartella contiene tre file con lo stesso nome, con estensioni?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does the folder contain  three files of the same name, with extensions &lt;s0&gt;dict.dz,  idx &lt;/s0&gt;and &lt;s1&gt;ifo&lt;/s1&gt;?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T152814Z">
@@ -38949,6 +38957,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T131112Z">
+        <seg>Il testo evidenziato dall'utente viene selezionato quando si preme &lt;k0&gt;Ctrl+Maiusc+C&lt;/k0&gt; o è selezionato il comando &lt;g1&gt;Modifica &gt; Esporta la selezione&lt;/g1&gt; (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl-Shift-C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T101223Z">
@@ -46154,6 +46170,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T113042Z">
         <seg>Si possono abilitare specifici filtri dei file per il progetto tramite &lt;e0&gt;Opzioni → Proprietà...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can enable project specific filters via the &lt;e0&gt;Project → Properties...&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T131215Z">
+        <seg>Si possono abilitare specifici filtri dei file per il progetto tramite &lt;e0&gt;Progetto → Proprietà...&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
