@@ -20447,6 +20447,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163331Z">
+        <seg>Se si dispone solo di un dizionario di Spagnolo standard, con i nomi file, per esempio, es_es.dic e es_es.aff, è possibile copiare questi file in es_MX.dic e es_MX.aff, e il correttore ortografico funzionerà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135543Z">
@@ -38205,6 +38213,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T140743Z">
         <seg>Il nome può essere assoluto o relativo alla directory di lavoro (la directory da cui si avvia OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163119Z">
+        <seg>I nomi dei file devono corrispondere ai codici di lingua della lingua di destinazione, come definito nella finestra di dialogo di proprietà del progetto (&lt;g0&gt;Progetto &gt; Proprietà&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
