@@ -4055,6 +4055,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T094931Z">
+        <seg>&lt;e0&gt;Server VCS - &lt;/e0&gt;cioè il server SVN o Git è l'ambiente remoto di rete in cui è conservato e mantenuto il materiale condiviso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Warning!&lt;/e0&gt; Should you change filter options whilst a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T102249Z">
