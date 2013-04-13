@@ -10137,6 +10137,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T113839Z">
+        <seg>Evitare, in tutti i casi, l'aggiunta di file &lt;f6&gt;bak&lt;/f6&gt;, &lt;f7&gt;project_stats.txt&lt;/f7&gt; e &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, nella sottocartella &lt;f9&gt;omegat&lt;/f9&gt;, dato che essi aumenterebbero, senza alcun beneficio o scopo, le dimensioni del deposito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Azerbaijani</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212142Z">
@@ -46530,6 +46538,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093530Z">
         <seg>Si può cercare di risolvere il problema nei seguenti modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might want to apply the same to the &lt;f10&gt;target&lt;/f10&gt; folder and its contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T113924Z">
+        <seg>Si potrebbe volere applicare la stessa cartella &lt;f10&gt;target&lt;/f10&gt; e i relativi contenuti.</seg>
       </tuv>
     </tu>
     <tu>
