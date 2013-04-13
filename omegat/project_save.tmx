@@ -21850,6 +21850,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL-ZH translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175139Z">
+        <seg>In questo caso, la memoria di traduzione NL-EN può servire da ponte per aiutare a generare la traduzione NL-ZH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case pay extra attention to tag pairs since deleting one side of the pair but forgetting to delete the other is guaranteed to corrupt your document's formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203528Z">
@@ -39425,6 +39433,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T111725Z">
         <seg>Il metodo più semplice è, comunque, eseguire il programma OmegaT.exe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm subfolder and rename it ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175305Z">
+        <seg>La soluzione, nel nostro esempio, è copiare la memoria di traduzione esistente all'interno della sottocartella tm e rinominarla ZH_CN.tmx per indicare la lingua di destinazione della tmx.</seg>
       </tuv>
     </tu>
     <tu>
