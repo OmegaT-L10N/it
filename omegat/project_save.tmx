@@ -5647,6 +5647,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing Behavior&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182609Z">
+        <seg>&lt;p0&gt;Menu Opzioni&lt;/p0&gt; &lt;s1&gt;Comportamento di modifica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T124139Z">
@@ -5715,6 +5723,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T222424Z">
         <seg>&lt;p0&gt;Menu Opzioni&lt;/p0&gt; &lt;s1&gt;Tipo di carattere...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182406Z">
+        <seg>&lt;p0&gt;Menu Opzioni&lt;/p0&gt; &lt;s1&gt;Segmentazione&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6015,6 +6031,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;Editing Behavior&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182625Z">
+        <seg>&lt;p0&gt;Impostazioni del progetto&lt;/p0&gt; &lt;s1&gt;Comportamento di modifica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;File filters&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182050Z">
@@ -6027,6 +6051,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T205228Z">
         <seg>&lt;p0&gt;Impostazioni progetto&lt;/p0&gt; &lt;s1&gt;Carattere&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182355Z">
+        <seg>&lt;p0&gt;Impostazioni del progetto&lt;/p0&gt; &lt;s1&gt;Segmentazione&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44693,8 +44725,16 @@ alla riga {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182247Z">
-        <seg>Usata per regolare la gestione dei formati di file supportati (si accede tramite &lt;m0&gt; &lt;g1&gt;Opzioni&lt;/g1&gt; &lt;g2&gt;Filtri dei file...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182517Z">
+        <seg>Usata per regolare la gestione dei formati di file supportati (si accede da &lt;m0&gt; &lt;g1&gt;Opzioni&lt;/g1&gt; &lt;g2&gt;Filtri dei file...&lt;/g2&gt; &lt;/m0&gt;, si chiude con &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to change the way your text is segmented into sentences (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182548Z">
+        <seg>Usata per modificare il modo in cui il testo è segmentato in frasi (si accede da &lt;m0&gt; &lt;g1&gt;Opzioni&lt;/g1&gt; &lt;g2&gt;Segmentazione&lt;/g2&gt; &lt;/m0&gt;, si chiude con &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44717,8 +44757,8 @@ alla riga {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to modify the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; to display source, translation, matches and glossary terms, (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182037Z">
-        <seg>Usata per modificare il carattere usato da &lt;a0&gt;OmegaT&lt;/a0&gt; visualizzare i file di partenza, la traduzione, le corrispondenze e i termini di glossario (si accede tramite &lt;m1&gt; &lt;g2&gt;Opzioni&lt;/g2&gt; &lt;g3&gt;Tipo di carattere...&lt;/g3&gt; &lt;/m1&gt;, si chiude con &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182509Z">
+        <seg>Usata per modificare il carattere usato da &lt;a0&gt;OmegaT&lt;/a0&gt; visualizzare i file di partenza, la traduzione, le corrispondenze e i termini di glossario (si accede da &lt;m1&gt; &lt;g2&gt;Opzioni&lt;/g2&gt; &lt;g3&gt;Tipo di carattere...&lt;/g3&gt; &lt;/m1&gt;, si chiude con &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
     </tu>
     <tu>
