@@ -24055,6 +24055,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112148Z">
+        <seg>Assicurarsi che il campo &lt;e1&gt;Checkout directory&lt;/e1&gt; sia corretto, ossia che specifichi la cartella vuota creata, poi premere &lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure the language code of target files corresponds to the dictionary's language code: an FR-FR dictionary will not work with an FR target setting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T085840Z">
