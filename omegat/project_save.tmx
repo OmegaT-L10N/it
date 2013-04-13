@@ -35346,6 +35346,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T162139Z">
+        <seg>Prestare particolare attenzione quando si apportano modifiche ai file contenuti nella cartella &lt;l0&gt;/source&lt;/l0&gt; mentre ci si trova a un livello intermedio del lavoro di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target HTML segment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T174510Z">
@@ -49717,6 +49725,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T132923Z">
         <seg>nella TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>search for “is”, not “this” or “isn't” etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T162257Z">
+        <seg>cerca “is”, non “this” o “isn't”, ecc.</seg>
       </tuv>
     </tu>
     <tu>
