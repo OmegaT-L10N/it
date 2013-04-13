@@ -32736,6 +32736,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sharing a project using SVN</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T100858Z">
+        <seg>Condividere un progetto tramite SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+C</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T105246Z">
