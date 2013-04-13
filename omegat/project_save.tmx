@@ -7439,6 +7439,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Pane widgets&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183423Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Widget del pannello&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;A different display font can be selected via the &lt;b&gt;Display Font&lt;/b&gt;dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T173222Z">
@@ -20238,6 +20246,14 @@ change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183348Z">
+        <seg>Se non è possibile visualizzare tutti i pannelli (siano essi aperti o minimizzati), premere il comando &lt;g0&gt; Opzioni &gt; Ripristina finestra principale&lt;/g0&gt; in modo da ripristinarli allo stato predefinito nell'installazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can see the file OmegaT but not OmegaT.exe in your</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094813Z">
@@ -29567,6 +29583,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T192939Z">
         <seg>Coppie e singoli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pane widgets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183435Z">
+        <seg>Widget del pannello</seg>
       </tuv>
     </tu>
     <tu>
@@ -49737,6 +49761,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>maximizes the pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183522Z">
+        <seg>massimizza il pannello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>medicine</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201344Z">
@@ -49757,6 +49789,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083552Z">
         <seg>potrebbe apparire così in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183510Z">
+        <seg>minimizza il pannello, in modo che sia mostrato solo il suo nome nella parte inferiore della finestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -50277,6 +50317,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T184759Z">
         <seg>riservato per uso futuro da parte dei plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>restores the layout before the maximizing step</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183559Z">
+        <seg>ripristina la disposizione prima del passaggio di massimizzazione</seg>
       </tuv>
     </tu>
     <tu>
