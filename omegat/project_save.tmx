@@ -40319,6 +40319,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T173648Z">
+        <seg>Potrebbero verificarsi casi in cui è stato creato un progetto, per esempio, con file di origine olandese e una traduzione, diciamo, in Inglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There might be a case in which you want to do pre-processing or other processing of the segments than OmegaT allows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135830Z">
