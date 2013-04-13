@@ -39071,6 +39071,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two possibilities to run an SVN server: you can install SVN on your own server or you can use a hosted service.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T102850Z">
+        <seg>Esistono due possibilità per avviare un server SVN: è possibile installare SVN sul proprio server o usare servizio di hosting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are two strategies for segments that contain only such invariable text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T095724Z">
