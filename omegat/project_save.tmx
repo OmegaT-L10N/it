@@ -22516,6 +22516,14 @@ all'interno della cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124702Z">
+        <seg>Verranno prima inviati i contenuti correnti al deposito del server, poi aggiornata la copia locale del deposito - ossia i contenuti della sottocartella .svn - in modo da essere aggiornati all'ultima versione del deposito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will install the correct environment for your computer and the application</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093154Z">
