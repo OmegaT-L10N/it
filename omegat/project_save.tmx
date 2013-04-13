@@ -6007,6 +6007,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Restoring to factory setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183814Z">
+        <seg>&lt;p0&gt;Finestre di OmegaT&lt;/p0&gt; &lt;s1&gt;Ripristino alle impostazioni di fabbrica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Windows and panes in OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183744Z">
+        <seg>&lt;p0&gt;Finestre di OmegaT&lt;/p0&gt; &lt;s1&gt;Finestre e pannelli in OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T112845Z">
@@ -47505,6 +47521,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183840Z">
+        <seg>È possibile sovrapporre i pannelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can process the generated tmx with any tool you want.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T140632Z">
@@ -50169,6 +50193,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183724Z">
+        <seg>posiziona il pannello dietro all'interno della finestra principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>railways</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204724Z">
@@ -51045,6 +51077,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181659Z">
         <seg>translationMemories.html#pseudo_translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>undocks the pane from the main window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183617Z">
+        <seg>separa il pannello dalla finestra principale</seg>
       </tuv>
     </tu>
     <tu>
