@@ -16303,6 +16303,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For .docx files, a number of changes are however done automatically:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T152109Z">
+        <seg>Per i file .docx, vengono comunque eseguite automaticamente una serie di modifiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Internet Explorer 7.x, for example, File &gt; Save As&gt; Webpage, Complete; for Firefox 3.x, File &gt; Save As &gt; Web Page, Complete; for Firefox 2.x, File &gt; Save Page As.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175824Z">
@@ -48685,6 +48693,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204501Z">
         <seg>linguistica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>load the target file in ODF writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T151921Z">
+        <seg>caricare il file di destinazione nel writer ODF</seg>
       </tuv>
     </tu>
     <tu>
