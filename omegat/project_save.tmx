@@ -2657,8 +2657,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Directories</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120401T164139Z">
-        <seg>File e directory di &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132351Z">
+        <seg>File e cartelle di &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4679,6 +4679,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132340Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Documento.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T204749Z">
@@ -4699,6 +4707,30 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132151Z">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - la codifica del file di arrivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132315Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132321Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Documento.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132330Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Documento.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,6 +4803,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T164013Z">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– lingua e codice nazione di arrivo (nella forma "XX-YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132201Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - l locale di destinazione Microsoft</seg>
       </tuv>
     </tu>
     <tu>
@@ -9219,8 +9259,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and directories.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120401T164908Z">
-        <seg>Un progetto di traduzione di &lt;a0&gt;OmegaT&lt;/a0&gt; è composto da diversi file e directory.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132423Z">
+        <seg>Un progetto di traduzione di &lt;a0&gt;OmegaT&lt;/a0&gt; è composto da diversi file e cartelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20865,6 +20905,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132308Z">
+        <seg>Nel caso in cui il nome_file possieda nome ambivalente, si possono applicare variabili della forma &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-numero delle estensioni&lt;/e1&gt;} e &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;numero delle estensioni} &lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case the tokenizer plug-in is used, the words in the two segments get first reduced to their stems.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T171041Z">
@@ -27369,8 +27417,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT projects and subdirectories</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T184320Z">
-        <seg>Progetti e sottodirectory di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132411Z">
+        <seg>Progetti e sottocartelle di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
