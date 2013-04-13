@@ -7183,6 +7183,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Importing and exporting&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165520Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Importare ed esportare&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Language&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205557Z">
@@ -12833,6 +12841,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103645Z">
         <seg>Creazione di un deposito (repository)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a translation memory for selected documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165548Z">
+        <seg>Creazione di una memoria di traduzione per i documenti selezionati</seg>
       </tuv>
     </tu>
     <tu>
@@ -45696,6 +45712,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165427Z">
+        <seg>Quando, in un progetto &lt;a0&gt;OmegaT&lt;/a0&gt;, si creano i documenti di arrivo, la sua memoria di traduzione viene memorizzata sotto forma di tre file all'interno della cartella principale del progetto &lt;a1&gt;OmegaT&lt;/a1&gt; cui fa riferimento (si veda la descrizione sopra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is outputted in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193829Z">
@@ -47410,6 +47434,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T195256Z">
         <seg>Si potrebbe anche considerare di rimuovere quelle non più necessarie, una volta usato il loro contenuto e aver popolato il file &lt;f0&gt;project-save.tmx &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165456Z">
+        <seg>Si potrebbe anche considerare di rimuovere quelle non più necessarie, una volta usato il loro contenuto e aver popolato il file &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
