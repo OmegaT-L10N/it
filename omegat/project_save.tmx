@@ -7159,6 +7159,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Alternative language pairs&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T172417Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Coppie di lingua alternative&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Backup&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T204252Z">
@@ -21221,6 +21229,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T210203Z">
         <seg>Nel caso in cui l'elenco non sia aggiornato o la lingua desiderata non sia inclusa, bisogna cercare manualmente i vocabolari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T172321Z">
+        <seg>Nel caso di OmegaT, le cartelle complete del progetto - in altre parole, le relative memorie di traduzione, le cartelle di partenza, le impostazioni del progetto e via discorrendo - sono gestite dal RCS scelto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44876,6 +44892,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using TMX with alternative language pairs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T172438Z">
+        <seg>Uso delle TMX con coppie di lingua alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMs created&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092307Z">
@@ -50077,6 +50101,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093522Z">
         <seg>senza necessità di iscrizione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>see more in Chapter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T172349Z">
+        <seg>ulteriori informazioni nel capitolo</seg>
       </tuv>
     </tu>
     <tu>
