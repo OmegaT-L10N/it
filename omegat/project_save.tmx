@@ -4055,6 +4055,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095634Z">
+        <seg>&lt;e0&gt;Client VCS: &lt;/e0&gt;per interfacciarsi col server è necessario installare, nei computer dei "gestori del progetto" facenti parte del progetto OmegaT, un client SVN o Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T094931Z">
@@ -27773,6 +27781,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120122T195216Z">
         <seg>Non avete idea di quanti articoli "a" e "the" sarebbero mancati senza il suo incomparabile aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095409Z">
+        <seg>Un membro della squadra, l'amministratore del progetto, deve essere in grado di gestire il lato server: deve, cioè, impostare l'ambiente, importare il progetto OmegaT, assegnare i diritti di accesso ai membri della squadra, risolvere i conflitti, e via discorrendo.</seg>
       </tuv>
     </tu>
     <tu>
