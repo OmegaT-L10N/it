@@ -20261,6 +20261,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt._BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163635Z">
+        <seg>Se si è già tradotta un'ampia porzione di testo e ci si accorge che il codice della lingua di destinazione non corrisponde a quello della lingua del correttore ortografico (poiché è stata specificata pt_BR come lingua, per esempio, ma non è presente alcun dizionario pt_BR), basta copiare e rinominare i due file corrispondenti (per esempio, da &lt;e0&gt;pt_PT.aff&lt;/e0&gt; e &lt;e1&gt;pt_PT.dic&lt;/e1&gt; a &lt;e2&gt;pt._BR.aff&lt;/e2&gt; e &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.arr&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt._BR.arr&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T090713Z">
@@ -26323,6 +26331,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T204021Z">
         <seg>Si noti che questo è un correttore ortografico in linea: se si deve eseguire un controllo generale dei testi è necessario navigare nei testi e ricercare le varie sottolineature rosse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163509Z">
+        <seg>Si noti che questo eseguirà i controlli per lo Spagnolo standard (castigliano) piuttosto che per quello messicano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44688,6 +44704,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091316Z">
         <seg>Uso delle espressioni regolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spellchecker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163530Z">
+        <seg>Uso del correttore ortografico</seg>
       </tuv>
     </tu>
     <tu>
