@@ -4175,6 +4175,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095935Z">
+        <seg>&lt;e0&gt;repository (deposito): &lt;/e0&gt;il luogo in cui viene salvato e mantenuto il materiale condiviso, sia su una rete di accesso locale, sia su Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;search TMs&lt;/e0&gt;: translation memories in the &lt;f1&gt;tm&lt;/f1&gt; folder are included in the search.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T180944Z">
@@ -28331,6 +28339,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095746Z">
+        <seg>Gli altri sistemi operativi (Linux, OS X) offrono pacchetti simili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other packages include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a MacOSX installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213228Z">
@@ -29627,6 +29643,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T134518Z">
         <seg>Scorciatoie per la gestione del progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project members connect with it via their VCS client.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095932Z">
+        <seg>I membri del progetto si collegano ad esso tramite il loro client VCS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43752,6 +43776,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202630Z">
         <seg>Le primissime versioni di &lt;a0&gt;OmegaT&lt;/a0&gt; segmentavano un file di partenza solo per paragrafi, e la numerazione dei tag di formattazione dei file HTML e Open Document non era coerente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Very popular clients for Windows environment are &lt;u1&gt;TortoiseSVN&lt;/u1&gt; and &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095723Z">
+        <seg>Per l'ambiente Windows, &lt;u1&gt;TortoiseSVN&lt;/u1&gt; e &lt;u2&gt;TortoiseGit&lt;/u2&gt; sono client molto popolari.</seg>
       </tuv>
     </tu>
     <tu>
