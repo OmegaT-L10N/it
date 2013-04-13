@@ -38457,6 +38457,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183033Z">
+        <seg>La finestra principale di OmegaT è composta da varie finestre, dalla barra dei menu e dalla barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The matches will be displayed in bold blue.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T173211Z">
@@ -47146,6 +47154,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T220418Z">
         <seg>si ha la possibilità di cambiare l'ordine dei segnaposto, ma in questo caso si deve aggiungere, se non presente, ARGUMENTSWAPSPECIFIER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183116Z">
+        <seg>Si può intervenire sulla posizione e dimensione di ogni finestra e sbloccarla in modo da poterla riposizionare premendo e trascinando con il mouse la sua barra del titolo.</seg>
       </tuv>
     </tu>
     <tu>
