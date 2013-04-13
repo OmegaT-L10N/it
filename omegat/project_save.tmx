@@ -11274,6 +11274,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125105Z">
+        <seg>Verificare il contenuto della cartella per confermare che la copia locale del deposito, e i file e le cartelle in essa contenuti, corrispondano all'ultima versione del server:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the following text: "&lt;e0&gt;Before: \.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T190428Z">
@@ -15963,6 +15971,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212506Z">
         <seg>Finlandese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125358Z">
+        <seg>Per prima cosa, devono usare il comando &lt;g1&gt;Progetto &gt; Scarica il progetto in collaborazione&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27965,6 +27981,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T202931Z">
         <seg>Dopo aver attivato il correttore ortografico e reso disponibile il vocabolario per la lingua di destinazione, il correttore controllerà i segmenti tradotti visualizzati nel riquadro di modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125309Z">
+        <seg>Una volta configurato il progetto in collaborazione, i membri della squadra necessitano solo &lt;a0&gt;OmegaT&lt;/a0&gt; per accedere al progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44056,6 +44080,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T185108Z">
         <seg>Tramite la modalità console, è possibile generare un'interfaccia localizzata come parte del processo di creazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the team project in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125319Z">
+        <seg>Utilizzo del progetto in collaborazione in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
