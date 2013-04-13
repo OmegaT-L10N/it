@@ -7263,6 +7263,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;compressed&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163957Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;compresse&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;multilingual, handling of&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210935Z">
@@ -19649,6 +19657,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163857Z">
+        <seg>OmegaT agisce come definito nella finestra di dialogo &lt;m0&gt; &lt;g1&gt;Opzioni&lt;/g1&gt; &lt;g2&gt;Comportamento di modifica...&lt;/g2&gt; &lt;/m0&gt;, se il segmento di origine, in una delle memorie di traduzione secondarie, è identico al testo da tradurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialogue window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T101848Z">
@@ -22846,6 +22862,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T214749Z">
         <seg>La si può aprire servendosi della combinazione rapida da tastiera &lt;c0&gt;&lt;a1&gt;Ctrl+E&lt;/a1&gt;&lt;/c0&gt;, oppure richiamandola con il comando &lt;s2&gt;Progetto → Proprietà...&lt;/s2&gt; dal &lt;a3&gt;menu principale&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163932Z">
+        <seg>Può succedere che le memorie di traduzione contenute nella sottocartella &lt;f0&gt;tm&lt;/f0&gt;, contengano segmenti con testo di origine identico ma testo di destinazione diverso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40405,6 +40429,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T203233Z">
         <seg>Essi possono creare il proprio progetto e consegnare il proprio file &lt;f1&gt;project_save.tmx&lt;/f1&gt;, una volta terminato o raggiunto un determinato obiettivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They carry appropriately changed names, so that its contents still remain identifiable, when used elsewhere, for instance in the &lt;f1&gt;tm&lt;/f1&gt; subfolder of some other project (see below).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163810Z">
+        <seg>Il loro nome è stato opportunamente cambiato, in modo che il loro contenuto resti identificabile in qualsiasi situazione di utilizzo, per esempio nella sottocartella &lt;f1&gt;tm&lt;/f1&gt; di un altro progetto (vedere sotto).</seg>
       </tuv>
     </tu>
     <tu>
