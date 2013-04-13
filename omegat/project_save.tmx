@@ -1152,6 +1152,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>( &lt;l0&gt;OmegaT&lt;/l0&gt; and &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;in the example used here)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104521Z">
+        <seg>( &lt;l0&gt;OmegaT&lt;/l0&gt; e &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;nell'esempio usato qui)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(#N is a digit from 1 to 5) - Selects the Nth fuzzy match displayed in the match viewer to replace or insert it to the segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T173121Z">
@@ -11282,6 +11290,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104524Z">
+        <seg>Scegliere &lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chuvash</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T121049Z">
@@ -12377,6 +12393,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T132131Z">
         <seg>Creare una cartella (una "cartella deposito"), in una posizione appropriata del proprio disco rigido, per le memorie di traduzione di un particolare cliente od oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a new project on ProjectLocker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104420Z">
+        <seg>Creare un nuovo progetto in ProjectLocker</seg>
       </tuv>
     </tu>
     <tu>
@@ -25703,6 +25727,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104235Z">
+        <seg>Si noti che il creatore del deposito ne possiede implicitamente di diritti di amministrazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the key is 38 characters long.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T164922Z">
@@ -32964,6 +32996,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T185951Z">
         <seg>Apre la finestra di dialogo nella quale si potrà modificare il carattere di visualizzazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sign in to the site first or - if it is your first time on the site, register for it and note your user name and password for the future projects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104409Z">
+        <seg>Per prima cosa autenticarsi al sito o, se è la prima volta che vi si accede, registrarsi e annotare nome utente e password per i futuri progetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42531,6 +42571,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T193612Z">
         <seg>Digitare &lt;e2&gt;kmenuedit+invio&lt;/e2&gt; per eseguire il comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the name and description of the repository.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104504Z">
+        <seg>Digitare il e la descrizione del deposito</seg>
       </tuv>
     </tu>
     <tu>
