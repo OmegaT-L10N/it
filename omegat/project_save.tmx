@@ -45458,6 +45458,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the Mac OS X OmegaT.app package, double-click on the &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; located in /OmegaT.app/Contents/MacOS/ (see above to access it) to launch OmegaT from the console and get immediate access to the log.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T130525Z">
+        <seg>Col pacchetto OmegaT.app per Mac OS X è necessario fare doppio clic su &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; che si trova in /OmegaT.app/Contents/MacOS/ (per accedervi, si veda sopra), per avviare OmegaT dalla console e ottenere accesso immediato al registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the Mac OS X OmegaT.app package, you'll need to double-click on the &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; located in /OmegaT.app/Contents/MacOS/ (see above to access it) to launch OmegaT from the console and have immediate access to the log.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T202809Z">
