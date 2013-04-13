@@ -16745,6 +16745,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125750Z">
+        <seg>Per il suo uso successivo basta solo aprire il progetto come qualsiasi progetto &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192835Z">
@@ -26505,8 +26513,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT Team Projects</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T112853Z">
-        <seg>Progetti di squadra di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125900Z">
+        <seg>Progetti in collaborazione di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -27613,6 +27621,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T205244Z">
         <seg>OmegaT riconoscerà tutti i dizionari disponibili in quella posizione e li mostrerà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125851Z">
+        <seg>OmegaT riconoscerà che è un progetto in collaborazione e lo sincronizzerà in modo automatico, per impostazione predefinita ogni tre minuti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36336,8 +36352,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T113304Z">
-        <seg>La traduzione in collaborazione offerta da OmegaT si basa sulla funzionalità di controllo della versione o revisione, largamente usata dalle comunità informatiche per tenere sotto controllo il codice di un programma e permettere la collaborazione senza intoppi all'interno del relativo team di sviluppo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125920Z">
+        <seg>La traduzione in collaborazione offerta da OmegaT si basa sulla funzionalità di controllo della versione o revisione, largamente usata dalle comunità informatiche per tenere sotto controllo il codice di un programma e permettere la collaborazione senza intoppi all'interno della relativa squadra di sviluppo.</seg>
       </tuv>
     </tu>
     <tu>
