@@ -9065,6 +9065,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103309Z">
+        <seg>In alternativa, al fine di evitare questo problema, è possibile configurare un server SVN privato, per esempio, se si possiede già un server Apache che include il software in questione (per es., VisualSVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T220736Z">
@@ -16019,6 +16027,22 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175824Z">
         <seg>Per Internet Explorer 7.x, ad esempio, il comando è File &gt; Salva con nome &gt; Pagina Web,completa; per Firefox 3.x,, File &gt; Salva come &gt; pagina Web, completa; per Firefox 2.x, File &gt; Salva pagina come).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103558Z">
+        <seg>Per Mac si può scaricare il client, per esempio, da &lt;u1&gt;SourceForge&lt;/u1&gt;, per Linux vedere &lt;u2&gt;Comandi Subversion e script&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103503Z">
+        <seg>Per Windows raccomandiamo &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27725,6 +27749,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T173747Z">
         <seg>Una volta modificato il file &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, &lt;a1&gt;OmegaT&lt;/a1&gt; deve essere riavviato in modo da attivare le nuove scorciatoie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103453Z">
+        <seg>Una volta che il server SVN è disponibile, per gestire i contenuti del progetto nei loro computer, i gestori del progetto devono installare localmente un client SVN.</seg>
       </tuv>
     </tu>
     <tu>
