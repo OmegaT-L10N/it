@@ -13917,6 +13917,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DokuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T151606Z">
+        <seg>file DokuWiki (*.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double click on &lt;e0&gt;OmegaT_2.0.x_Mac.zip&lt;/e0&gt; to unpack it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T115111Z">
@@ -45906,6 +45914,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T151737Z">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - della varietà origine=destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XLIFF Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095040Z">
@@ -48413,6 +48429,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181524Z">
         <seg>images/OmegaT_icon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>import the file into ODF writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T151851Z">
+        <seg>importare il file nel writer ODF</seg>
       </tuv>
     </tu>
     <tu>
