@@ -4255,6 +4255,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124853Z">
+        <seg>&lt;e0&gt;aggiornare i file locali dalla copia del deposito locale&lt;/e0&gt; - le modifiche ricevute dal deposito del server risiedono all'interno della sottocartella .svn, ma non ancora all'interno dei file e delle cartelle in sé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;user&lt;/e0&gt;: a member of the team, collaborating on the common project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T100812Z">
@@ -42079,6 +42087,14 @@ read:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192501Z">
         <seg>Per decomprimere il file &lt;e1&gt;.tar.gz&lt;/e1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To update the local files, right/click on the checkout directory and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124937Z">
+        <seg>Per aggiornare i file locali, fare clic col pulsante destro del mouse sulla cartella checkout e selezionare &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
