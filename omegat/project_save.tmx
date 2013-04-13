@@ -21609,6 +21609,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In such cases, an existing translation, found in the file, is included in the &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T180515Z">
+        <seg>In tali casi, una traduzione esistente, trovata all'interno del file, viene inclusa nel &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T193220Z">
