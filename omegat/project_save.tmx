@@ -32624,6 +32624,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091316Z">
+        <seg>I vari membri della squadra possono lavorare simultaneamente sul progetto di traduzione, senza interferire con gli altri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+C</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T105246Z">
