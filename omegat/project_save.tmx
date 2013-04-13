@@ -41709,6 +41709,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This may be confusing, so you may consider unchecking this option in this case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T181645Z">
+        <seg>Ciò potrebbe condurre a confusione, dunque varrebbe la pena di considerare, nei casi come questo, di disattivare questa opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means adding a sequence number and a dollar sign after the &lt;c0&gt;%&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T220534Z">
@@ -46076,6 +46084,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T214818Z">
         <seg>Quando si indicherà a OmegaT che si ha la necessità di tradurre questi file, il programma cerca i file che è in grado di riconoscere, in base alle regole di filtraggio dei file; riconosce le parti testuali al loro interno, le suddivide in gruppi di testo in base alle regole di segmentazione e, infine, visualizza i singoli segmenti in modo da consentirne la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you load a segmented TTX file, segments with source = target will be included, if "Allow translation to be equal to source" in Options → Editing Behavior... has been checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T181438Z">
+        <seg>Quando si carica un file TTX segmentato, verranno inclusi i segmenti con partenza = destinazione, se è stata attivata l'opzione "Permetti traduzione uguale all'originale" in Opzioni → Comportamento di modifica...</seg>
       </tuv>
     </tu>
     <tu>
