@@ -29871,6 +29871,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Projects can be managed according to your development style and needs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T105209Z">
+        <seg>I progetti possono essere gestiti in base allo stile di sviluppo e necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T220406Z">
@@ -33028,6 +33036,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104409Z">
         <seg>Per prima cosa autenticarsi al sito o, se è la prima volta che vi si accede, registrarsi e annotare nome utente e password per i futuri progetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T105346Z">
+        <seg>In modo simile ai progetti OmegaT, si avrà bisogno di depositi separati per diverse coppie di lingua.</seg>
       </tuv>
     </tu>
     <tu>
