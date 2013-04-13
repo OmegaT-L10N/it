@@ -4143,6 +4143,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T100027Z">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; l'operazione che crea una copia funzionante dal deposito al proprio computer locale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;display all results: &lt;/e0&gt;clearing this check box will case OmegaT show just the first occurrence of a hit, if several hits exist</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T181255Z">
@@ -38121,6 +38129,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095054Z">
         <seg>Esso può esistere nella rete locale, ma nella maggior parte dei casi sarà disponibile su Internet, ossia tramite un indirizzo URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T100138Z">
+        <seg>Il server mantiene le informazioni sui checkout, affinché i commit (vedere sotto) successivi possano essere eseguiti in modo ordinato.</seg>
       </tuv>
     </tu>
     <tu>
