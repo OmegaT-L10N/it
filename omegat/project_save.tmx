@@ -38077,6 +38077,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095054Z">
+        <seg>Esso può esistere nella rete locale, ma nella maggior parte dei casi sarà disponibile su Internet, ossia tramite un indirizzo URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The set of &lt;s0&gt;Unique&lt;/s0&gt; segments is computed by taking all the segments and removing all the duplicate segments equal up to letter case ("Run" and "run" are thought different).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T223656Z">
