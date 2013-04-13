@@ -7255,6 +7255,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolders tm/penalty-xxx&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T164116Z">
+        <seg>&lt;p0&gt;Memorie di traduzione&lt;/p0&gt; &lt;s1&gt;Sottocartelle tm/penalty-xxx&lt;/s1&gt; &lt;s2&gt;File del progetto&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Upgrading to sentence segmentation&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202339Z">
@@ -26267,6 +26275,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T081416Z">
         <seg>Si noti che la funzione "Installa" richiede una connessione Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T164036Z">
+        <seg>Si noti che i file TMX contenuti nella cartella tm possono essere compressi con gzip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50269,6 +50285,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T110546Z">
         <seg>cartella tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/penalty-xxx folders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T164124Z">
+        <seg>cartelle tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
