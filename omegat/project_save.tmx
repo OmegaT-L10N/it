@@ -12517,6 +12517,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170228Z">
+        <seg>Copiare i documenti, sarà necessaria la memoria di traduzione per essi, all'interno della cartella di partenza del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T115320Z">
@@ -12713,6 +12721,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104420Z">
         <seg>Creare un nuovo progetto in ProjectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170058Z">
+        <seg>Creare un progetto dal nome appropriato, separato dagli altri, nella coppia linguistica desiderata: si noti che le TMX create useranno questo nome.</seg>
       </tuv>
     </tu>
     <tu>
