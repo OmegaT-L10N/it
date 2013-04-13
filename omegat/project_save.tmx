@@ -6927,6 +6927,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Creating SVN repository&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103631Z">
+        <seg>&lt;p0&gt;Progetti di squadra&lt;/p0&gt; &lt;s1&gt;Creazione di un deposito SVN&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Subversion&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T100826Z">
@@ -12481,6 +12489,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171701Z">
         <seg>Creare un progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a repository</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103645Z">
+        <seg>Creazione di un deposito (repository)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37681,6 +37697,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194434Z">
         <seg>La procedura è definita un "RFE" (richiesta di funzionalità Enhancement) ed è gestita &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103731Z">
+        <seg>La procedura spiegata qui si basa sul server SVN gratuito (limitato a due utenti) offerto da &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
