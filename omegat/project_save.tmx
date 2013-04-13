@@ -7447,6 +7447,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Editor pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T185333Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Finestra dell'Editor&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203852Z">
@@ -39101,6 +39109,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T185258Z">
+        <seg>Il progetto, nell'esempio, è evidentemente terminato, dato che tutti i segmenti univoci sono stati tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project main folder will contain 3 TMX files:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101923Z">
@@ -41793,6 +41809,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121725Z">
         <seg>Questo è molto utile per: 1) fare attenzione a non saltare testo; 2) controllare il proprio lavoro; e 3) regolare a proprio piacimento la dimensione e il tipo di carattere del testo di origine e di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is where you type and edit your translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T185402Z">
+        <seg>Questo è luogo in cui scrivere e modificare la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
