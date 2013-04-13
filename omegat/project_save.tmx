@@ -4175,6 +4175,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout directory and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124238Z">
+        <seg>&lt;e0&gt;eseguire il commit delle modifiche locali nel server: &lt;/e0&gt;fare clic col pulsante destro del mouse sulla cartella di checkout locale e selezionare &lt;g1&gt;SVN Commit....&lt;/g1&gt; Si aprirà la finestra Commit (vedere sotto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T100359Z">
@@ -11250,6 +11258,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124321Z">
+        <seg>Selezionare le modifiche da fare - ossia le cartelle e i file aggiunti in questo caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the following text: "&lt;e0&gt;Before: \.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T190428Z">
@@ -14771,6 +14787,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T214912Z">
         <seg>Attribuire il nome adatto al progetto, ad esempio il nome del cliente e il numero d'ordine di acquisto, poi fare clic su Salva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter an appropriate message into the message window and press &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124351Z">
+        <seg>Inserire un appropriato messaggio nella relativa finestra e premere &lt;g0&gt;OK&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35495,6 +35519,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T201136Z">
         <seg>Le caselle di scelta della colonna “Interruzione/Eccezione” determineranno se si tratta di una regola di interruzione (casella attivata) o di eccezione (casella non attivata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Commit window will open and show the progress of the commit command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124439Z">
+        <seg>Si aprirà la finestra Commit, che mostrerà l'avanzamento dell'invio.</seg>
       </tuv>
     </tu>
     <tu>
