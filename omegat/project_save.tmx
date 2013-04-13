@@ -2655,6 +2655,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 2.6 requires Java 1.5 to run.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154313Z">
+        <seg>Per essere avviato, &lt;a0&gt;OmegaT&lt;/a0&gt; 2.6 richiede Java 1.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Directories</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132351Z">
@@ -3799,10 +3807,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;e1&gt;OmegaT_2.6.x_Linux.tar.bz2.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154248Z">
+        <seg>&lt;e0&gt;No / Non so:&lt;/e0&gt; scaricare &lt;e1&gt;OmegaT_2.6.x_Linux.tar.bz2.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_2.5.x_Windows.exe.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T182255Z">
         <seg>&lt;e0&gt;No / Non so:&lt;/e0&gt; scaricare &lt;e1&gt; OmegaT_2.5.x_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_2.6.x_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154214Z">
+        <seg>&lt;e0&gt;No / Non so:&lt;/e0&gt; scaricare &lt;e1&gt; OmegaT_2.6.x_Windows.exe.&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4155,6 +4179,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192249Z">
         <seg>&lt;e0&gt;Sì: &lt;/e0&gt;scaricare &lt;e1&gt;OmegaT_2.5.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_2.6.x_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154148Z">
+        <seg>&lt;e0&gt;Sì: &lt;/e0&gt;scaricare &lt;e1&gt;OmegaT_2.6.x_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154236Z">
+        <seg>&lt;e0&gt;Sì: &lt;/e0&gt;scaricare &lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7898,8 +7938,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120515T220241Z">
-        <seg>Si aprirà una finestra che consentirà di inserire sia il termine di partenza, sia quello di destinazione ed eventuali commenti alla voce:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154107Z">
+        <seg>Si aprirà una finestra che consentirà d'inserire sia il termine di partenza, sia quello di destinazione ed eventuali commenti alla voce:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13949,6 +13989,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click on &lt;e0&gt;OmegaT_2.6.x_Mac.zip&lt;/e0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154343Z">
+        <seg>Fare doppio-clic su &lt;e0&gt;OmegaT_2.6.x_Mac.zip&lt;/e0&gt; per decomprimere il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T170012Z">
@@ -14057,6 +14105,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T111843Z">
         <seg>Scaricare &lt;e0&gt;OmegaT_2.5.x_Mac.zip.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &lt;e0&gt;OmegaT_2.6.x_Mac.zip.&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154320Z">
+        <seg>Scaricare &lt;e0&gt;OmegaT_2.6.x_Mac.zip.&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31308,6 +31364,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T203312Z">
         <seg>Lingue da destra a sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154101Z">
+        <seg>Fare clic col destro nel pannello del glossario o premere &lt;k0&gt;Ctrl+Maiusc+G&lt;/k0&gt; per aggiungere una nuova voce.</seg>
       </tuv>
     </tu>
     <tu>
