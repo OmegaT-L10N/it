@@ -47151,6 +47151,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You will then be able to launch OmegaT by executing this file from the command line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132539Z">
+        <seg>Si sarà in grado di avviare OmegaT eseguendo questo file dalla riga di comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You'll be able to run multiple instances of OmegaT, as well as to use the Lucene stemmer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T120919Z">
