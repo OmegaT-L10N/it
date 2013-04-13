@@ -12509,6 +12509,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your OpenOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T162953Z">
+        <seg>La copiatura manuale dei file ha senso se nel proprio sistema si possiedono già file di dizionario adatti allo scopo, per esempio, quelli che fanno parte dell'installazione di OpenOffice, Firefox o Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your OpenOffice.org or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T082129Z">
@@ -16059,6 +16067,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T172630Z">
         <seg>File e directory - Manuale per l'Utente di OmegaT 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T162744Z">
+        <seg>I file contenenti formattazione (documenti ODF, HTML, ecc.) sono segmentati in base ai tag a livello di blocco (paragrafi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27207,6 +27223,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in the Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T162902Z">
+        <seg>OmegaT possiede un correttore ortografico incorporato che si basa su quello usato in Apache OpenOffice, LibreOffice, Firefox e Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a friendly and helpful user group.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T193013Z">
@@ -33306,8 +33330,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190930Z">
-        <seg>Impostare un segmento sopo "。" (punto giapponese)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T162809Z">
+        <seg>Impostare un segmento dopo "。" (punto giapponese)</seg>
       </tuv>
     </tu>
     <tu>
