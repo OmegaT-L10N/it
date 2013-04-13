@@ -14751,6 +14751,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the URL, provided by the ProjectLocker, into the field &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T111848Z">
+        <seg>Digitare l'URL fornito da ProjectLocker all'interno del campo &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101251Z">
