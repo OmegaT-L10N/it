@@ -11386,6 +11386,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170526Z">
+        <seg>Verificare possibili errori nei tag con &lt;k0&gt;Ctrl+T&lt;/k0&gt; e segmenti non tradotti con &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T083637Z">
@@ -12537,6 +12545,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T142725Z">
         <seg>Copiare i file delle impostazioni da qualche altra installazione di OmegaT su un'altra macchina in una directory specifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170400Z">
+        <seg>Copiare le memorie di traduzione, contenenti le traduzioni dei documenti sopra citati, all'interno della sottocartella &lt;f0&gt;tm/auto&lt;/f0&gt; del nuovo progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34584,6 +34600,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170417Z">
+        <seg>Avviare il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start using OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T093456Z">
@@ -42131,6 +42155,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T165501Z">
         <seg>Per modificare la posizione delle cartelle dopo la creazione di un progetto, aprire il menu &lt;g0&gt;Progetto &gt; Proprietà...&lt;/g0&gt;, o usare la combinazione di tasti &lt;g1&gt;Ctrl+E&lt;/g1&gt;, e apportare le necessarie modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170638Z">
+        <seg>Per verificare il risultato finale atteso, è possibile premere &lt;k2&gt;Ctrl+D&lt;/k2&gt; per creare i documenti di arrivo e controllarne il contenuto.</seg>
       </tuv>
     </tu>
     <tu>
