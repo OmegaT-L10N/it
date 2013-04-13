@@ -16521,8 +16521,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20101004T143527Z">
-        <seg>Carattere</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T181753Z">
+        <seg>Tipo di carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -44711,6 +44711,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204403Z">
         <seg>Usata per leggere il manuale dell'utente (aprire con &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, chiudere con &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, close with &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T181726Z">
+        <seg>Usata per convalidare i tag (aprire con &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, chiudere con &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
