@@ -14927,6 +14927,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091455Z">
+        <seg>Per impostazione predefinita, ogni tre minuti una versione aggiornata dei dati condivisi è disponibile al resto della squadra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exact match:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T130753Z">
@@ -38269,6 +38277,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The system maintains versioning for data shared</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091617Z">
+        <seg>Il controllo di versione dei dati condivisi viene mantenuto dal sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212406Z">
@@ -39269,6 +39285,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T173126Z">
         <seg>Essi sono i file con cui si ha a che fare quotidianamente durante la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can share common material, like project translation memory and its glossary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091349Z">
+        <seg>Possono condividere materiale comune, come la memoria di traduzione e il glossario</seg>
       </tuv>
     </tu>
     <tu>
