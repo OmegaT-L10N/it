@@ -21209,6 +21209,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case translators need like to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165755Z">
+        <seg>Nel caso in cui i traduttori desiderino condividere le loro TMX escludendo però alcune parti, o includendo solo le traduzioni di alcuni file, la condivisione del file &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; completo è fuori discussione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case you are in doubt, don't hesitate to ask project members directly either by sending them a mail from the Source Forge page or by sending a public mail to the user group.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T201731Z">
@@ -37676,6 +37684,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164533Z">
         <seg>L'elenco seguente include espressioni che potrebbero risultare utili quando si eseguono ricerche attraverso la memoria di traduzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165946Z">
+        <seg>La soluzione seguente è solo una delle possibilità, abbastanza semplice, però, da seguire senza che il proprio patrimonio di lavoro possa subire perdite.</seg>
       </tuv>
     </tu>
     <tu>
