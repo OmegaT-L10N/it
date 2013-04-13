@@ -5007,6 +5007,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T130757Z">
+        <seg>&lt;p0&gt;Dizionari&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T105719Z">
@@ -13113,6 +13121,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193244Z">
         <seg>I dizionari sono disponibili per un gran numero di lingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T130749Z">
+        <seg>I dizionari in &lt;a0&gt;OmegaT&lt;/a0&gt; sono basati sul formato StarDict o quello Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31840,6 +31856,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StarDict Platform&lt;/u0&gt; above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T130910Z">
+        <seg>Cercare la combinazione di lingua richiesta - per esempio sulla &lt;u0&gt;&lt;i1/&gt;Piattaforma StarDict&lt;/u0&gt; citata sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StartDict Platform&lt;/u0&gt; above or on &lt;u2&gt;FreeDict&lt;/u2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T105705Z">
@@ -41747,6 +41771,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T213639Z">
         <seg>Per installare i dizionari ortografici, seguire questa procedura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T130736Z">
+        <seg>Per installare i file necessari per il formato StarDict procedere come illustrato di seguito:</seg>
       </tuv>
     </tu>
     <tu>
