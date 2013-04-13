@@ -35869,6 +35869,14 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T105700Z">
+        <seg>L'alternativa è avere un singolo deposito con sottocartelle &lt;l0&gt;Progetto1&lt;/l0&gt;, &lt;l1&gt;Progetto2&lt;/l1&gt;, ecc., e condividere il materiale comune tramite cartelle &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; e &lt;l4&gt;dictionary&lt;/l4&gt; comuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The alternative is to spell check the target files with an editor, in other words outside of OmegaT so the changes you may make will not be in the translation memory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T204232Z">
@@ -45238,6 +45246,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T191540Z">
         <seg>Con questo metodo è possibile scaricare anche la versione "Windows without JRE", dato che la nuova installazione utilizzerà il JRE esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T105536Z">
+        <seg>All'interno di una coppia di lingua specifica, è meglio mantenere anche oggetti e client diversi come depositi separati.</seg>
       </tuv>
     </tu>
     <tu>
