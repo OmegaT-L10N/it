@@ -40118,6 +40118,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175035Z">
+        <seg>Si ha ora necessità di una traduzione in Cinese, ma la traduttrice non conosce l'Olandese; ella, tuttavia, padroneggia perfettamente l'Inglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New Submenu and File - New Item&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T103813Z">
