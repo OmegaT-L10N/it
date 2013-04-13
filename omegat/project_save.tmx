@@ -11802,6 +11802,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091740Z">
+        <seg>I conflitti - per esempio, le versioni alternative dello stesso segmento o di una voce di glossario - possono essere tenuti sotto controllo, risolti e uniti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T133454Z">
@@ -36652,6 +36660,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T133822Z">
         <seg>Dalla finestra principale sono disponibili le seguenti scorciatoie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following terms, to be used in the text below, deserve a short explanation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091826Z">
+        <seg>I termini seguenti, da usare nel testo sotto riportato, necessitano di una breve spiegazione:</seg>
       </tuv>
     </tu>
     <tu>
