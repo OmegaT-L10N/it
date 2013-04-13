@@ -34080,6 +34080,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T164535Z">
+        <seg>A volte può risultare utile distinguere tra memorie di traduzione di alta qualità e quelle, a causa dell'argomento, il cliente, lo stato di revisione e via discorrendo, meno affidabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201054Z">
