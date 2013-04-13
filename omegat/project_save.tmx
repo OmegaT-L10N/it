@@ -9136,6 +9136,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All translations from source documents are also displayed in the Comment pane, in addition to the Match pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T181029Z">
+        <seg>Tutte le traduzioni provenienti dai documenti di partenza saranno visualizzati anche nel pannello Commenti, oltre che al pannello delle Concordanze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110718T102156Z">
@@ -22982,6 +22990,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202022Z">
         <seg>È tradotto in varie lingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is treated as a default translation, if no match has been found, or as an alternative translation, in case the same source segment exists, but with a target text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T180818Z">
+        <seg>Nel caso in cui non venisse trovata alcuna corrispondenza, essa verrà considerata come traduzione predefinita, o, se dovesse essere presente lo stesso segmento di partenza ma con la corrispondente traduzione, come traduzione alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39073,6 +39089,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T202902Z">
         <seg>Il risultato finale è quello mostrato sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result will thus depend on the order in which the source segments have been loaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T180855Z">
+        <seg>Il risultato dipenderà, perciò, dall'ordine in cui i segmenti di partenza sono stati caricati.</seg>
       </tuv>
     </tu>
     <tu>
