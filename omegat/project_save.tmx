@@ -21265,6 +21265,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case of PO files, a 20% penalty applied to the alternative translation (i.e., a 100% match becomes an 80% match).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T181142Z">
+        <seg>Nel caso dei file PO, verrà applicata una penalità del 20% alla traduzione alternativa, (ossia, una corrispondenza del 100% diventerà 80%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;$(name only&lt;/l0&gt;&lt;e1&gt;-number of extensions&lt;/e1&gt;) and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;number of extensions} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T205915Z">
@@ -40090,6 +40098,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T182408Z">
         <seg>Le finestre nello schermata qui sopra sono state rimpicciolite per mostrare il modo di mantenere contemporaneamente aperti OmegaT e il testo sorgente (nel browser); normalmente, però, la finestra OmegaT viene usata massimizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word [Fuzzy] is displayed on the source segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T181207Z">
+        <seg>La parola [Fuzzy] viene visualizzata nel segmento di partenza.</seg>
       </tuv>
     </tu>
     <tu>
