@@ -31490,8 +31490,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T152904Z">
-        <seg>Le serie (elementi di testo) sono impostate a RTL</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153137Z">
+        <seg>Le direzioni (elementi di testo) sono impostate a RTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -34566,6 +34566,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T112210Z">
         <seg>Tali corrispondenze non faranno più riferimento a segmenti esistenti nei documenti esistenti, ma solo a segmenti registrati prima di aver apportato le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such modifications are possible in ODF files for example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153256Z">
+        <seg>Tali modifiche sono possibili nei file ODF, per esempio.</seg>
       </tuv>
     </tu>
     <tu>
