@@ -26367,6 +26367,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that only one TMX for a given language pair is possible, so If several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T180052Z">
+        <seg>Si noti che è possibile solo una TMX per una coppia linguistica specifica, perciò, nel caso in cui fossero presenti più memorie, sarà necessario unirle tutte all'interno del file XX_YY.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T100952Z">
@@ -38849,6 +38857,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T174143Z">
         <seg>Il file &lt;i0/&gt;&lt;e1&gt;stats.txt&lt;/e1&gt; del progetto (...) contiene le statistiche del progetto attivo e può essere aperto in un foglio elettronico per visualizzare le informazioni sul conteggio delle parole e dei segmenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175820Z">
+        <seg>Il progetto e le lingue di origine della TMX devono essere, ovviamente, identiche - NL nel nostro esempio.</seg>
       </tuv>
     </tu>
     <tu>
