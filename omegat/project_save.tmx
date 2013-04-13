@@ -17169,6 +17169,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For translation memories in folders with a name "penalty-xxx" (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called Penalty-30 for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T164902Z">
+        <seg>Per le memorie di traduzione contenute nelle cartelle di nome "penalty-xxx" (xxx tra 0 e 100), le corrispondenze verranno ridotte in base al nome della cartella: una corrispondenza del 100% di una qualsiasi TM contenuta in una cartella chiamata Penalty-30, per esempio, verrà ridotta al 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For works in formats which do not have any title page as such, "Title Page" means the text near the most prominent appearance of the work's title, preceding the beginning of the body of the text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094005Z">
@@ -38502,6 +38510,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T192601Z">
         <seg>I parametri inclusi in questo file possono essere modificati dalla finestra "Proprietà del progetto".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165046Z">
+        <seg>La penalità si applica a tutt'e tre le percentuali di corrispondenza: le corrispondenze 75, 80, 90, in questo caso, saranno abbassate a 45, 50, 60.</seg>
       </tuv>
     </tu>
     <tu>
