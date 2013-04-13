@@ -21218,6 +21218,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the next step, we will add the OmegaT files to the local directory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112512Z">
+        <seg>Nel passaggio successivo aggiungeremo i file OmegaT alla cartella locale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the window you'll see the manual and two buttons: &lt;s0&gt;Back&lt;/s0&gt; and &lt;s1&gt;Contents&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T171338Z">
@@ -36920,6 +36928,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following files are to be shared among the members of the team and thus have to be included in any case:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112704Z">
+        <seg>I file seguenti devono essere condivisi tra i membri della squadra e devono essere dunque, in ogni modo, inclusi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following information is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222846Z">
@@ -49145,6 +49161,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the contents of the source folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112751Z">
+        <seg>i contenuti della cartella di origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T232643Z">
@@ -49225,6 +49249,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the omegat project file - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112719Z">
+        <seg>il file del progetto omegat - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the project as well as in the reference translation memories in /tm/ (check &lt;i0&gt;Search TMs&lt;/i0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T131027Z">
@@ -49237,6 +49269,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T130803Z">
         <seg>solo nel progetto (impostazione predefinita)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the translation memory - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112727Z">
+        <seg>la memoria di traduzione - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
