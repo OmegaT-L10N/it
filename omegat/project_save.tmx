@@ -29061,8 +29061,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Paragraphs, sections and tables are set to bidi</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T152323Z">
-        <seg> I paragrafi, le sezioni e le tabelle sono impostati bidirezionali</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T152652Z">
+        <seg>I paragrafi, le sezioni e le tabelle sono impostate nel formato bidirezionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -31484,6 +31484,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T101342Z">
         <seg>Avviare OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Runs (text elements) are set to RTL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T152800Z">
+        <seg>Le serie (elementi di testo) sono impostati a RTL</seg>
       </tuv>
     </tu>
     <tu>
