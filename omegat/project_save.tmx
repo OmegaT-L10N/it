@@ -27873,6 +27873,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the operation has finished, you can check the said folder: it should now contain a subdirectory .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112442Z">
+        <seg>Una volta completata l'operazione, è possibile controllare la suddetta cartella: deve ora contenere una sottocartella .svn e un segno di spunta OK verde sulla sua icona, che indica che i contenuti della cartella sono aggiornati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the spell checker has been activated and the vocabulary for the target language is available, the spell checker will monitor target segments, that are being displayed in the editing pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T202931Z">
