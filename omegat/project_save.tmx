@@ -13573,6 +13573,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays a dialog to conduct searches in the project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161412Z">
+        <seg>Visualizza una finestra di dialogo per avviare ricerche testuali all'interno del progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays a dialog to locate an existing project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161354Z">
+        <seg>Visualizza una finestra di dialogo per la selezione di un progetto esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays a dialogue to conduct searches in the project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T140903Z">
@@ -13641,6 +13657,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T231519Z">
         <seg>Apre la finestra di dialogo &lt;a0&gt;Configurazione del correttore ortografico&lt;/a0&gt; che consente di installare, configurare e attivare la correzione ortografica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the &lt;l0&gt;File filters&lt;/l0&gt; dialog to configure file handling and parsing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161229Z">
+        <seg>Apre la finestra di dialogo &lt;l0&gt;Filtri dei file&lt;/l0&gt; in cui configurare la gestione e l'analisi dei file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16948,6 +16972,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
         <seg>For programmers: Allows you to configure the Tag Validator options to also check programming (%...) variables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T132823Z">
+        <seg>Per i programmatori: permette di configurare le opzioni della Convalida dei tag anche per il controllo delle variabili di programmazione (%...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For programmers: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161341Z">
         <seg>Per i programmatori: permette di configurare le opzioni della Convalida dei tag anche per il controllo delle variabili di programmazione (%...).</seg>
       </tuv>
     </tu>
@@ -28763,6 +28795,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161238Z">
+        <seg>Apre la finestra di dialogo &lt;l0&gt;Segmentazione origine&lt;/l0&gt; per configurare la segmentazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialogue to configure text segmentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T132423Z">
@@ -33532,6 +33572,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T230848Z">
         <seg>Apre la finestra di dialogo &lt;a0&gt;Anteprima caratteri&lt;/a0&gt; nella quale si potrà modificare il carattere di visualizzazione del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the dialog to modify the text display font.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161217Z">
+        <seg>Apre la finestra di dialogo nella quale si potrà modificare il carattere di visualizzazione del testo.</seg>
       </tuv>
     </tu>
     <tu>
