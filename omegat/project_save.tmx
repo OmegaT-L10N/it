@@ -28859,6 +28859,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO header will be skipped and left unchanged, if this option is checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T131436Z">
+        <seg>Se questa opzione viene attivata, l'intestazione PO sarà saltata e non modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO header will be skipped and left unchanged, if this option is not checked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T195200Z">
@@ -33052,6 +33060,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091806Z">
         <seg>Configurazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T131338Z">
+        <seg>Diversi filtri (file di testo, file XHTML, file HTML e XHTML, file OpenDocument Microsoft Open XML) hanno una o più opzioni particolari.</seg>
       </tuv>
     </tu>
     <tu>
