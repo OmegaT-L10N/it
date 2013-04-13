@@ -8944,6 +8944,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T113113Z">
+        <seg>Anche i file &lt;f3&gt;ignored_words.txt&lt;/f3&gt; e &lt;f4&gt;learned_words.txt&lt;/f4&gt; contenuti nella cartella &lt;f5&gt;omegat&lt;/f5&gt; possono essere condivisi e mantenuti a livello di squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also allow per-project external commands</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T194123Z">
@@ -35893,6 +35901,14 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The administrator may decide to include following folders and their contents as well: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; and &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112913Z">
+        <seg>L'amministratore può decidere di includere anche le seguenti cartelle e i relativi contenuti: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; e &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T114820Z">
@@ -49269,6 +49285,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T130803Z">
         <seg>solo nel progetto (impostazione predefinita)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the project-specific filters definition - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112815Z">
+        <seg>la definizione dei filtri specifici del progetto - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
