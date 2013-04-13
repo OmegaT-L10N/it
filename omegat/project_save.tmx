@@ -33952,6 +33952,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T184148Z">
+        <seg>Se si perde traccia delle modifiche apportate alla propria interfaccia, si può usare il comando &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Opzioni → Ripristina la finestra principale&lt;/g0&gt; in qualsiasi momento per tornare alla disposizione originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212005Z">
@@ -46012,6 +46020,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T083431Z">
         <seg>Quando viene eseguito questo file, vengono automaticamente eseguiti anche i comandi al suo interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T184023Z">
+        <seg>Quando questo comando viene eseguito, i pannelli presentano un indicatore di scheda nella loro sommità.</seg>
       </tuv>
     </tu>
     <tu>
