@@ -3719,6 +3719,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175655Z">
+        <seg>&lt;e0&gt;Importante: &lt;/e0&gt;la TMX di aiuto deve essere rinominata XX_YY.tmx, dove XX_YY è la lingua di destinazione della tmx, per esempio in ZH_CN.tmx, nell'esempio sopra riportato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Install over the existing installation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T190848Z">
@@ -39833,6 +39841,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T104147Z">
         <seg>La traduzione dei segmenti dipende dal parametro &lt;c4&gt;--pseudotranslatetype&lt;/c4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translaiton.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175539Z">
+        <seg>Alla traduttrice si presenteranno traduzioni in Inglese per i segmenti di partenza in Olandese, che saranno usate per creare la traduzione in Cinese.</seg>
       </tuv>
     </tu>
     <tu>
