@@ -6455,6 +6455,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;no-team option&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T160354Z">
+        <seg>&lt;p0&gt;Avvio di OmegaT&lt;/p0&gt; &lt;s1&gt;Argomenti dello script di avvio&lt;/s1&gt; &lt;t2&gt;opzione no-team&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T194119Z">
@@ -29219,6 +29227,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;e0&gt;omegat&lt;/e0&gt; instead of &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T160241Z">
+        <seg>È importante prestare attenzione alle maiuscole: nei sistemi operativi diversi da Windows, il programma non si avvierà se si digita &lt;e0&gt;omegat&lt;/e0&gt; anziché &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pay attention to the capitalization - it is important.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T082102Z">
@@ -35318,6 +35334,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T110259Z">
         <seg>Progetti di squadra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team project option</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T160424Z">
+        <seg>Opzione progetto in collaborazione</seg>
       </tuv>
     </tu>
     <tu>
