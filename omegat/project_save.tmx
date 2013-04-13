@@ -12413,6 +12413,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an empty folder, where you will keep your project and right/click on it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110248Z">
+        <seg>Creare una cartella vuota in cui mantenere il progetto e farvi sopra clic col pulsante destro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create and open a new project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091346Z">
@@ -20517,6 +20525,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231211Z">
         <seg>Importazione di file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing the project to SVN repository - Windows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110104Z">
+        <seg>Importazione del progetto nel deposito SVN - Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -32648,6 +32664,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110322Z">
+        <seg>Selezionare &lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; Apparirà la seguente finestra di dialogo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selected Engine : {0}</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111107T130713Z">
@@ -38017,6 +38041,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T142931Z">
         <seg>I file importanti sono filters.conf e segmentation.conf che si possono trovare nella directory home dell'utente (Es., C:\Documents and Settings\%User%\OmegaT sotto Windows, %user%/.omegat/ sotto Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The repository is empty at this moment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110119Z">
+        <seg>Il deposito al momento è vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46258,6 +46290,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T214238Z">
         <seg>È possibile visualizzarlo selezionando il comando &lt;g0&gt;Strumenti &gt; Statistiche&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You create first an empty client folder on your disk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110158Z">
+        <seg>Nel proprio disco rigido, creare prima una cartella client vuota.</seg>
       </tuv>
     </tu>
     <tu>
