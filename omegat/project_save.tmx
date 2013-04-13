@@ -8536,6 +8536,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After copying the required files into the checkout directory you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T114133Z">
+        <seg>Dopo aver copiato i file richiesti all'interno della cartella di checkout, si noterà che la sua icona è cambiata: il segno di spunta OK verde si è trasformato in un segno di esclamazione rosso, il che indica una modifica nella copia locale del deposito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After creating an OmegaT project, copy or move this file into the project's &lt;s25&gt;\glossary&lt;/s25&gt; folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T230215Z">
@@ -37004,6 +37012,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091826Z">
         <seg>I termini seguenti, da usare nel testo sotto riportato, necessitano di una breve spiegazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following two steps will bring the server version up to date:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T114230Z">
+        <seg>I due passaggi seguenti aggiorneranno la versione del server:</seg>
       </tuv>
     </tu>
     <tu>
