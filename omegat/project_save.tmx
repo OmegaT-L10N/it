@@ -9469,6 +9469,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161717Z">
+        <seg>Parametro di riga di comando aggiuntivo specifico della modalità console: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193911Z">
@@ -20367,6 +20375,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need non-standard settings, the corresponding configuration files (&lt;l0&gt;filters.conf&lt;/l0&gt; and &lt;l1&gt;segmentation.conf&lt;/l1&gt;) must be present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161534Z">
+        <seg>Se si necessitano impostazioni non standard, devono essere presenti i file di configurazione (&lt;l0&gt;filters.conf&lt;/l0&gt; e &lt;l1&gt;segmentation.conf)&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to run multiple instances of &lt;e2&gt;OmegaT.app&lt;/e2&gt;, use the file &lt;e3&gt;JavaApplicationStub&lt;/e3&gt; located in &lt;e4&gt;OmegaT.app/ Contents/MacOS/&lt;/e4&gt; instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T120320Z">
@@ -21606,6 +21622,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112512Z">
         <seg>Nel passaggio successivo aggiungeremo i file OmegaT alla cartella locale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161756Z">
+        <seg>Nella modalità quiet vengono registrate meno informazioni a video.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38085,6 +38109,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T190121Z">
         <seg>Il più importante di questi è &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; e, facoltativamente, &lt;l1&gt;--config-dir=&lt;config-dir&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important of these is &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt;, and optionally&lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161636Z">
+        <seg>Il più importante di questi è &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; e, facoltativamente, &lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
