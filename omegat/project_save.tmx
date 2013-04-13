@@ -44416,6 +44416,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T103103Z">
+        <seg>Quando si usa un servizio esterno, bisogna essere consapevoli delle possibili implicazioni in termini di riservatezza, dato che si carica la documentazione originale in un server fuori dal proprio controllo diretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using it the first time, you will need to execute "Restore Main Window" - last menu entry in Options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T091707Z">
