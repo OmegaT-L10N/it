@@ -3479,6 +3479,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T131947Z">
+        <seg>&lt;e0&gt;Aggiungi o riscrivi la dichiarazione di codifica nei file HTML e XHTML&lt;/e0&gt;: spesso i file di destinazione devono contenere una codifica dei caratteri diversa da quella specificata nei file di partenza (che sia definita o no esplicitamente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T113024Z">
@@ -4679,10 +4687,50 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132143Z">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - la codifica del file di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132151Z">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - la codifica del file di arrivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T163925Z">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– consente di inserire solo il nome del file di partenza senza associarlo all'estensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132133Z">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - il nome host di sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132059Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - il sistema operativo del computer usato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-user-name)&lt;/l0&gt; - system user name</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132120Z">
+        <seg>&lt;l0&gt;${system-user-name)&lt;/l0&gt; - il nome utente di sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -4731,6 +4779,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T164017Z">
         <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– codice locale di arrivo (nella forma "xx_YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132037Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – la data e l'ora di sistema al momento della generazione, in vari modelli</seg>
       </tuv>
     </tu>
     <tu>
@@ -28295,6 +28351,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T215950Z">
         <seg>Apri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132003Z">
+        <seg>File Open Document Format (ODF)</seg>
       </tuv>
     </tu>
     <tu>
