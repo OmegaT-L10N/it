@@ -12557,6 +12557,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy them to a safe place for future referrals.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170938Z">
+        <seg>Copiarli y them to a safe place for future referrals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy/cut/paste shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T164434Z">
@@ -45800,6 +45808,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you exit the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170701Z">
+        <seg>Uscire dal progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you find errors in the text in the browser window, make the corresponding changes within OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T182842Z">
@@ -50237,6 +50253,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093144Z">
         <seg>con tale programma, in modo che gli utenti non debbano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the TMX files in the main project folder (see above) now contain the transltions in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T170929Z">
+        <seg>I file TMX contenuti nella cartella principale del progetto (vedere sopra) ora contengono le traduzioni nella coppia di lingua selezionata, per i file copiati all'interno della cartella source.</seg>
       </tuv>
     </tu>
     <tu>
