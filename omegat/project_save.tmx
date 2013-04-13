@@ -18796,6 +18796,22 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T160917Z">
+        <seg>Se si &lt;l0&gt;termina &lt;/l0&gt;la procedura, la convalida di tag si bloccherà sul primo segmento non valido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T160954Z">
+        <seg>Se si seleziona l'opzione di &lt;l1&gt;warn&lt;/l1&gt;, il programma di convalida analizzerà tutti i segmenti e registrerà gli avvisi di quelli con tag non validi, all'interno del file specificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Google Translate is activated in Menu → Options, the &lt;a0&gt;Google Translate&lt;/a0&gt; pane will provide the Google Translate translation of the current segment, which you can insert in the target part of the segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T221928Z">
@@ -43659,6 +43675,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T175036Z">
         <seg>Decomprimere il file &lt;e1&gt;OmegaT_2.5.x_Source.zip&lt;/e1&gt; ed entrare nella cartella OmegaT_2.5.x_Source oppure nella cartella &lt;e2&gt;./omegat/&lt;/e2&gt; del codice scaricato di SVN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack the &lt;e1&gt;OmegaT_2.6.x_Source.zip&lt;/e1&gt; file and enter the OmegaT_2.6.x_Source directory or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; directory of the SVN checked out code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161035Z">
+        <seg>Decomprimere il file &lt;e1&gt;OmegaT_2.6.x_Source.zip&lt;/e1&gt; ed entrare nella cartella OmegaT_2.6.x_Source oppure nella cartella &lt;e2&gt;./omegat/&lt;/e2&gt; del codice scaricato di SVN.</seg>
       </tuv>
     </tu>
     <tu>
