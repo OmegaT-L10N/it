@@ -16673,6 +16673,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110024Z">
+        <seg>Per l'esempio mostrato qui abbiamo deciso, per ragioni di semplicità, a fronte di un progetto OmegaT, l'uso di un singolo deposito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T215013Z">
