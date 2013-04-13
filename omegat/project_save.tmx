@@ -17545,6 +17545,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T185142Z">
+        <seg>Da un punto di vista pratico, la coppia di numeri più importante è la seconda: indica quanto lavoro è stato svolto, in relazione al totale, o secondo numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From now on a suggestion for the translation will appear in the Google Translate pane for every new source segment opened.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T092319Z">
@@ -50025,6 +50033,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>number of segments - translated vs total for the current file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T184844Z">
+        <seg>numero di segmenti - tradotti risp. totale del file corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>number of segments -  translated / total, for the current file</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T145106Z">
@@ -50033,10 +50049,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>number of source and target characters in the current segment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T185009Z">
+        <seg>numero di caratteri di origine e di destinazione nel segmento attivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>number of unique segments - translated / total in the project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T145150Z">
         <seg>numero di segmenti univoci - tradotti / totali nel progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of unique segments - translated vs total in the project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T184914Z">
+        <seg>numero di segmenti univoci - tradotti risp. totale nel progetto</seg>
       </tuv>
     </tu>
     <tu>
