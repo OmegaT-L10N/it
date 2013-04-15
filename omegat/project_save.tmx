@@ -7031,6 +7031,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Translating updated source&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190426Z">
+        <seg>&lt;p0&gt;File di partenza&lt;/p0&gt; &lt;s1&gt;Traduzione del file di origine aggiornato&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T084527Z">
@@ -13321,6 +13329,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T095629Z">
         <seg>Personalizzazione di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing the Fuzzy matches pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190530Z">
+        <seg>Personalizzare il pannello delle Concordanze parziali</seg>
       </tuv>
     </tu>
     <tu>
@@ -21357,6 +21373,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T201124Z">
         <seg>In parole (molto) povere, ciò significa che il computer presupporrà, per impostazione predefinita, che il testo sia scritto nello stessa lingua usata dal sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190642Z">
+        <seg>In &lt;g0&gt;Opzioni &gt; TMX esterne&lt;/g0&gt;, sono presenti diverse variabili che permettono di configurare il modo in cui visualizzare il pannello delle concordanze:</seg>
       </tuv>
     </tu>
     <tu>
