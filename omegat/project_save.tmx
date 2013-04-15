@@ -17697,6 +17697,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full path of the TMX</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191623Z">
+        <seg>Percorso completo della TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full validation fully supports this format, except for the &lt;c0&gt;WIDTHSPECIFIER&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T220151Z">
@@ -25959,6 +25967,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name of the TMX</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191612Z">
+        <seg>Nome della TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Namely &lt;s1&gt;Latin-1&lt;/s1&gt;, or some variation of it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T202703Z">
@@ -29999,6 +30015,30 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203401Z">
         <seg>È importante prestare attenzione alle coppie di tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage adjusted</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191606Z">
+        <seg>Percentuale regolata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage with tokenizer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191535Z">
+        <seg>Percentuale con tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage without numbers and tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191553Z">
+        <seg>Percentuale senza numeri e tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -35236,6 +35276,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T174116Z">
         <seg>Sequenza operativa da riprodurre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translated, that has been updated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191528Z">
+        <seg>Stringa che mostra le differenze tra il testo di origine e la concordanza.&lt;e0&gt; Suggerimento:&lt;/e0&gt; usarla se il testo che si è tradotto è stato aggiornato.</seg>
       </tuv>
     </tu>
     <tu>
