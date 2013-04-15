@@ -13453,6 +13453,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T182125Z">
+        <seg>A seconda dell'impostazione del comportamento di modifica, il campo di modifica del segmento da tradurre può risultare vuoto oppure contenere il testo di partenza o la traduzione della stringa più simile a quella da tradurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T194229Z">
@@ -44855,6 +44863,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T182518Z">
         <seg>Usare le freccette per regolare la dimensione del carattere selezionato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T181923Z">
+        <seg>La parte superiore del segmento viene utilizzata come riferimento del testo da tradurre, mentre la parte inferiore (il “campo di modifica”) è quella dove viene scritta, o modificata, la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
