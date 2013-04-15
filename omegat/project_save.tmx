@@ -21898,6 +21898,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T174822Z">
+        <seg>Nell'esempio mostrato sopra, i segmenti già tradotti sono mostrati in giallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T095923Z">
@@ -23094,6 +23102,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T162748Z">
         <seg>Il segmento sul quale si deve operare è suddiviso in due parti; la parte superiore riporta, in neretto ed evidenziato in verde, il testo di partenza (il testo da tradurre), mentre la parte inferiore corrisponde al “campo di modifica” (ovvero dove si dovrà scrivere, o modificare, la traduzione) racchiuso tra due marcatori: a sinistra &lt;s0&gt;&lt;c1&gt;&lt;segmento nnnn&gt;&lt;/c1&gt;&lt;/s0&gt;, dove &lt;s2&gt;&lt;c3&gt;nnnn&lt;/c3&gt;&lt;/s2&gt; corrisponde al numero del segmento attivo, e a destra &lt;s4&gt;&lt;c5&gt;&lt;fine segmento&gt;&lt;/c5&gt;&lt;/s4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T174945Z">
+        <seg>È il segmento visualizzato in due parti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28857,6 +28873,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the above segments is the current segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T174910Z">
+        <seg>Uno dei segmenti mostrati sopra è quello attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One of the segments is the active segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T153057Z">
@@ -33172,6 +33196,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T151557Z">
         <seg>È stato riscontrato un segmento al di fuori della variante dell'unità di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T174840Z">
+        <seg>Evidenziatore di segmenti</seg>
       </tuv>
     </tu>
     <tu>
