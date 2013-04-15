@@ -36891,6 +36891,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T192018Z">
+        <seg>Il pannello del Glossario consente di accedere alle raccolte di espressioni e voci terminologiche compilate nei propri file di glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The HTML tags, highlighted in &lt;f0&gt;blue,&lt;/f0&gt; will be ignored by OmegaT as they fully enclose the segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T103110Z">
