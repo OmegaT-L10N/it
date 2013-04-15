@@ -29459,6 +29459,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T185836Z">
+        <seg>I segmenti orfani&lt;i2/&gt; (la concordanza #2) indicano i segmenti della memoria di traduzione predefinita del progetto che non presentano corrispondenza nel segmento di origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ossetian, Ossetic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T130846Z">
@@ -40679,6 +40687,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are actually three match estimates available (66/66/30 in the case of the match #4 above).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190003Z">
+        <seg>Esistono in realtà tre percentuali di stima disponibili (66/66/30 nel caso della concordanza #4 di cui sopra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T211006Z">
@@ -41069,6 +41085,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T170101Z">
         <seg>Vengono di solito creati da software di elaborazione del testo o da editor per la creazione di pagine Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are defined as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190019Z">
+        <seg>Possono definirsi nel modo seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50093,6 +50117,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092940Z">
         <seg>cartella principale del progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>match percentage when the tokenizer plugin is used</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190059Z">
+        <seg>la percentuale di concordanza quando viene utilizzato il plugin tokenizer</seg>
       </tuv>
     </tu>
     <tu>
