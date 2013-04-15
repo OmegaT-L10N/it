@@ -27767,6 +27767,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T182435Z">
+        <seg>OmegaT è in grado di memorizzare traduzioni che risultano uguali al testo di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is an "inline" translation memory application, meaning that you see only one copy of the text; segments which have already been translated appear as such, otherwise &lt;t0/&gt;the untranslated source text is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173351Z">
@@ -32964,6 +32972,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T122904Z">
         <seg>Per eseguire verifiche con uno strumento indipendente, nelle versioni per Windows, Linux, Mac e FreeBSD, usare &lt;a5&gt;The Regex Coach&lt;/a5&gt;, che funziona in modo quasi identico all'esempio di cui sopra.&lt;br6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T182554Z">
+        <seg>Per ulteriori informazioni si veda &lt;e2&gt;Modifica della traduzione&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41833,6 +41849,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T102222Z">
         <seg>Ecco come apparirà il testo visualizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T182516Z">
+        <seg>Si tratta di una funzione particolarmente utile quando i documenti contengono marchi di fabbrica, nomi o altri nomi propri, oppure parti che devono rimanere nella loro lingua originaria e non richiedono, quindi, traduzione.</seg>
       </tuv>
     </tu>
     <tu>
