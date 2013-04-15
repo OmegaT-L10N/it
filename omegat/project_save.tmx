@@ -6895,6 +6895,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Selecting the match - Ctrl+N&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183641Z">
+        <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Selezione della corrispondenza - Ctrl+N&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Shift+F3 - Case selection&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T172308Z">
@@ -38669,6 +38677,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183033Z">
         <seg>La finestra principale di OmegaT è composta da varie finestre, dalla barra dei menu e dalla barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183604Z">
+        <seg>La finestra delle "Concordanze" mostra i segmenti più simili a quelli contenuti nelle memorie di traduzione, sia quella interna del progetto creata in tempo reale durante la traduzione, sia quelle secondarie importate da lavori precedenti o ricevute dal proprio cliente o agenzia di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
