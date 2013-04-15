@@ -38721,6 +38721,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T184525Z">
+        <seg>La percentuale di concordanza equivale approssimativamente al numero di parole comuni nel segmento di origine e quello concordante, diviso per il numero di parole contenute nel più lungo dei due.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named "omegat" can be used in OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T220819Z">
@@ -43536,8 +43544,8 @@ script with ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T184219Z">
-        <seg>Per utilizzare la corrispondenza selezionata all'interno della traduzione, premere &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; per sostituire il testo del campo di modifica oppure &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; se lo si vuole inserire alla posizione del cursore.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T184556Z">
+        <seg>Per utilizzare la concordanza selezionata all'interno della traduzione, premere &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; per sostituire il testo del campo di modifica oppure &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; se lo si vuole inserire alla posizione del cursore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48216,8 +48224,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183942Z">
-        <seg>Si può selezionare un'altra corrispondenza premendo &lt;g0&gt;Ctrl+2, 3, 4 o 5&lt;/g0&gt;.&lt;i1/&gt; Se non dovesse esistere una corrispondenza #5, ovviamente la combinazione &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; non sortirà alcun effetto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T184536Z">
+        <seg>Si può selezionare un'altra concordanza premendo &lt;g0&gt;Ctrl+2, 3, 4 o 5&lt;/g0&gt;.&lt;i1/&gt; Se non dovesse esistere una corrispondenza #5, ovviamente la combinazione &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; non sortirà alcun effetto.</seg>
       </tuv>
     </tu>
     <tu>
