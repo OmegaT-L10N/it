@@ -43534,6 +43534,14 @@ script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T184219Z">
+        <seg>Per utilizzare la corrispondenza selezionata all'interno della traduzione, premere &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; per sostituire il testo del campo di modifica oppure &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; se lo si vuole inserire alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script you must first install</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095204Z">
