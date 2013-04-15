@@ -21986,6 +21986,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T185025Z">
+        <seg>Nell'esempio sopra citato, il segmento di origine è &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T095923Z">
@@ -39717,6 +39725,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T185121Z">
+        <seg>La concordanza parziale selezionata è evidenziata in grassetto, le parole che non appaiono nel segmento che si sta traducendo sono segnalate in blu e quelle adiacenti alle parti mancanti in verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected fuzzy match will be highlighted in &lt;s0&gt;bold&lt;/s0&gt;, words that are missing from the segment you translate will be colored in &lt;s1&gt;&lt;f2&gt;blue&lt;/f2&gt;&lt;/s1&gt; and word adjacent to missing parts in &lt;f3&gt;&lt;b4&gt;green&lt;/b4&gt;&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T165339Z">
@@ -40201,6 +40217,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T182557Z">
         <seg>I nomi dei tokenizer sono indicati nel file Readme.txt distribuito con i file del tokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The top match is 100%, because all words match.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T185142Z">
+        <seg>La prima concordanza è 100%, perché tutte le parole corrispondono.</seg>
       </tuv>
     </tu>
     <tu>
