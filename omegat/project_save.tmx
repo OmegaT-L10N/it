@@ -5655,6 +5655,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190729Z">
+        <seg>&lt;p0&gt;Concordanze&lt;/p0&gt; &lt;s1&gt;Configurazione del pannello delle concordanze - figura&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches statistics&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T212203Z">
@@ -7455,6 +7463,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;User Interface&lt;/p0&gt; &lt;s1&gt;Match pane setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191007Z">
+        <seg>&lt;p0&gt;Interfaccia utente&lt;/p0&gt; &lt;s1&gt;Configurazione del pannello delle concordanze&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Other windows&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204301Z">
@@ -7531,6 +7547,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183150Z">
         <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Pannello delle concordanze - figura&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190815Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Configurazione del pannello delle concordanze - figura&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25247,6 +25271,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match pane setup</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191020Z">
+        <seg>Configurazione del pannello delle concordanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match statistics window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T204809Z">
@@ -25283,6 +25315,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T130013Z">
         <seg>Pannello delle concordanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches pane setup</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190823Z">
+        <seg>Configurazione del pannello delle concordanze</seg>
       </tuv>
     </tu>
     <tu>
@@ -37551,6 +37591,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents can be customized using following variables:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190936Z">
+        <seg>Il contenuto può essere personalizzato tramite le seguenti variabili:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T220614Z">
@@ -37996,6 +38044,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153749Z">
         <seg>L'estensione deve essere &lt;f0&gt;.txt&lt;/f0&gt;(se così non fosse, essa verrà aggiunta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The figure above shows the default match display template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190907Z">
+        <seg>La figura mostrata sopra mostra il modello di visualizzazione delle concordanze predefinito.</seg>
       </tuv>
     </tu>
     <tu>
