@@ -40181,6 +40181,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: &lt;i0/&gt;the marker is &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T181748Z">
+        <seg>La parte superiore riporta, in grassetto e in uno sfondo verde, il testo di partenza (da tradurre), mentre la parte inferiore è il “campo di modifica” (ovvero dove si dovrà scrivere, o modificare, la traduzione), che termina con un marcatore: &lt;i0/&gt;il marcatore è il &lt;l1&gt;&lt;segmento nnnn&gt;&lt;/l1&gt; dove nnnn corrisponde al numero del segmento all'interno del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181455Z">
