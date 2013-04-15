@@ -36531,6 +36531,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T174610Z">
+        <seg>La finestra dell'Editor visualizza il testo del documento parzialmente tradotto: il testo già tradotto viene visualizzato nella traduzione, mentre il testo non ancora tradotto viene visualizzato nella lingua di partenza originaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T201353Z">
@@ -37620,6 +37628,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T222913Z">
         <seg>L'aggiornamento della visualizzazione può richiedere diverso tempo se il numero dei segmenti da visualizzare è consistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T174728Z">
+        <seg>Il testo visualizzato è suddiviso in segmenti e ogni singolo segmento potrà essere aperto e modificato facendovi sopra doppio clic.</seg>
       </tuv>
     </tu>
     <tu>
