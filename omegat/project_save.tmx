@@ -20911,6 +20911,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T182347Z">
+        <seg>Se si desidera che la traduzione sia uguale al testo originario, sarà sufficiente svuotare il campo di modifica, rimuovendo tutto il testo (selezionare il contenuto con &lt;k0&gt;Ctrl+A&lt;/k0&gt; ed eliminarlo con &lt;k1&gt;Canc&lt;/k1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to add values to &lt;e4&gt;VMOptions&lt;/e4&gt;, put a space between them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T120021Z">
