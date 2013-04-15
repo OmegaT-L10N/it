@@ -20049,6 +20049,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T185600Z">
+        <seg>Se non viene visualizzato alcun nome di file, l'origine è la memoria di traduzione interna del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there's nothing appearing in the Google Translate pane, then check the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T092909Z">
@@ -38557,6 +38565,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T093623Z">
         <seg>Il file level2 contiene i tag specifici di &lt;a0&gt;OmegaT&lt;/a0&gt; incapsulati nei tag TMX, in modo che il file possa essere usato, con le sue informazioni di formattazione, in strumenti di traduzione assistita in grado di riconoscere le memorie di traduzione TMX di livello 2, oppure nello stesso &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T185524Z">
+        <seg>La riga con la percentuale di concordanza include anche il nome della memoria di traduzione &lt;i1/&gt; che la contiene.</seg>
       </tuv>
     </tu>
     <tu>
