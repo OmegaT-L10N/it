@@ -23426,6 +23426,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It shows translation of terms found in the current segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T192554Z">
+        <seg>Mostra la traduzione dei termini trovati nel segmento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
