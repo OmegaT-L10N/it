@@ -5647,6 +5647,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183100Z">
+        <seg>&lt;p0&gt;Concordanze&lt;/p0&gt; &lt;s1&gt;Pannello delle concordanze - figura&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches statistics&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T212203Z">
@@ -7457,8 +7465,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183016Z">
-        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Finestra delle concordanze parziali&lt;/s1&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183111Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Pannello delle concordanze parziali&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7475,6 +7483,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182932Z">
         <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Finestra principale&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183150Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Pannello delle concordanze - figura&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17635,8 +17651,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>Fuzzy matches pane</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183019Z">
-        <seg>Finestra delle concordanze parziali</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183116Z">
+        <seg>Pannello delle concordanze parziali</seg>
       </tuv>
     </tu>
     <tu>
