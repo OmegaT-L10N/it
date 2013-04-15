@@ -10521,6 +10521,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author of the match</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191709Z">
+        <seg>Autore della concordanza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T085241Z">
@@ -13433,6 +13441,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T181133Z">
         <seg>I dati esportati da Trados MultiTerm possono essere utilizzati come glossari &lt;a0&gt;OmegaT&lt;/a0&gt; senza ulteriori elaborazioni, a patto che contengano l'estensione &lt;f1&gt;.tab&lt;/f1&gt; e che i campi del termine di partenza e di arrivo siano rispettivamente il primo e il secondo. Usando, per l'esportazione, l'opzione di sistema "Tab-delimited export", si dovranno eliminare le prime cinque colonne (Seq.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191717Z">
+        <seg>Data della concordanza</seg>
       </tuv>
     </tu>
     <tu>
@@ -22394,6 +22410,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191825Z">
+        <seg>Indica che questa concordanza è parziale (attualmente funziona solo per le traduzioni dai file PO con marcatore #fuzzy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T111739Z">
@@ -29959,6 +29983,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T164540Z">
         <seg>Incolla il testo degli Appunti alla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path of the TMX starting from the root of /tm</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191700Z">
+        <seg>Percorso della TMX a partire dalla radice di /tm</seg>
       </tuv>
     </tu>
     <tu>
