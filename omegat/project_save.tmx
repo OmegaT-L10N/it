@@ -7495,6 +7495,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt; &lt;t2&gt;Customizing&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190357Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Pannello delle concordanze parziali&lt;/s1&gt; &lt;t2&gt;Personalizzazione&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203852Z">
@@ -28025,6 +28033,14 @@ la cartella home dell'utente.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203556Z">
         <seg>La finstra principale di OmegaT contiene il menu principale, la barra di stato e vari pannelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT match, including numbers, tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190315Z">
+        <seg>Concordanza di OmegaT, incluso i numeri e i tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -49213,6 +49229,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T192540Z">
         <seg>giustificazione (ad es., della lingua) predefinita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>default OmegaT match - number of matched words - with numerals and tags ignored - divided by the total word count</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T190254Z">
+        <seg>la concordanza predefinita di OmegaT - il numero delle parole individuate - senza tener conto dei numerali e i tag - diviso per il numero totale delle parole</seg>
       </tuv>
     </tu>
     <tu>
