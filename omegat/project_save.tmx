@@ -40629,6 +40629,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T191628Z">
+        <seg>Il traduttore può aggiungere note al segmento aperto, per esempio per ritornarci in un secondo tempo e lavorare sulla traduzione, accertarsi che le traduzioni siano corrette o chiedere un'opinione ai propri colleghi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translaiton.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175539Z">
