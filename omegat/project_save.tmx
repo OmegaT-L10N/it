@@ -38168,6 +38168,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201830Z">
+        <seg>La differenza fra il “Numero dei segmenti” e il “Numero dei segmenti univoci” potrà fornire un quadro approssimativo del numero delle ripetizioni contenute nel testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The differences between them are technical (see below for details), and if you wish to use a translation memory from a past project, they are largely interchangeable, i.e. they will all work equally well.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T103508Z">
@@ -40271,8 +40279,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201551Z">
-        <seg>La serie dei segmenti &lt;e0&gt;univoci&lt;/e0&gt;viene calcolata prendendo in considerazione tutti i segmenti e rimuovendo tutti i segmenti duplicati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201714Z">
+        <seg>La serie dei segmenti &lt;e0&gt;univoci&lt;/e0&gt;viene calcolata prendendo in considerazione tutti i segmenti e rimuovendo tutti i segmenti duplicati </seg>
       </tuv>
     </tu>
     <tu>
