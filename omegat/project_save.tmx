@@ -6967,6 +6967,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Adding files to the project&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202606Z">
+        <seg>&lt;p0&gt;File di partenza&lt;/p0&gt; &lt;s1&gt;Aggiunta di file al progetto&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Default encoding&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T203641Z">
@@ -25799,6 +25807,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202338Z">
+        <seg>La modifica delle regole di segmentazione possono provocare la variazione del numero di segmenti/segmenti univoci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mongolian</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212928Z">
@@ -33620,6 +33636,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T165905Z">
         <seg>Per ulteriori informazioni si rimanda alla GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202535Z">
+        <seg>Per ulteriori informazioni si veda il capitolo &lt;e0&gt;Regole di segmentazione&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43074,6 +43098,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T155202Z">
         <seg>Questa procedura dovrebbe, però, essere evitata in qualunque modo, dopo aver iniziato la traduzione di un progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This, however, should generally be avoided once you have started translating the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202410Z">
+        <seg>Questa procedura dovrebbe, però, essere evitata dopo aver iniziato la traduzione di un progetto.</seg>
       </tuv>
     </tu>
     <tu>
