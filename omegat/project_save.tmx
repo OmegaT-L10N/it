@@ -22306,6 +22306,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the first and third case above tags are paired incorrectly, and in the second case the &lt; sign is missing from the starting tag.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203943Z">
+        <seg>Nel primo e nel terzo caso, di cui sopra, i tag sono accoppiati in modo scorretto, nel secondo caso manca il segno &lt; nel tag iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the first and third case above tags are paired incorrectly, and in the second case the starting tag is missing the &lt; sign.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T162939Z">
@@ -36190,6 +36198,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092027Z">
         <seg>Errori dei tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag errors are cases in which the tags in the translation do not correspond in order and number to the original segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T204105Z">
+        <seg>Gli errori sui tag sono casi in cui i tag nella traduzione non corrispondono, in ordine e numero, a quelli del segmento originario.</seg>
       </tuv>
     </tu>
     <tu>
