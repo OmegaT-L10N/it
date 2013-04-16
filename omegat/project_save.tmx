@@ -2519,6 +2519,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/g0&gt;The window features a 3 column table with a link to the segment and its source and target contents:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203546Z">
+        <seg>&lt;/g0&gt;La finestra mostra una tabella a tre colonne con un collegamento al segmento e ai suoi contenuti partenza e di arrivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/l1&gt;Example:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T190129Z">
@@ -7131,6 +7139,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203411Z">
         <seg>&lt;p0&gt;Convalida dei tag&lt;/p0&gt; &lt;s1&gt;Scorciatoie, Tag&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tag validation&lt;/p0&gt; &lt;s1&gt;Window - figure&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203604Z">
+        <seg>&lt;p0&gt;Convalida dei tag&lt;/p0&gt; &lt;s1&gt;Finestra - figura&lt;/s1&gt; &lt;s2&gt;Tag&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12985,6 +13001,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T205817Z">
         <seg>Correggere l'errore, se necessario, e premere &lt;c0&gt;&lt;a1&gt;Ctrl+T&lt;/a1&gt;&lt;/c0&gt; per tornare alla finestra di convalida e correggere gli altri errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Correct the error if necessary and press &lt;g0&gt;Ctrl+T&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203653Z">
+        <seg>Correggere l'errore, se necessario, e premere &lt;g0&gt;Ctrl+T&lt;/g0&gt; per tornare alla finestra di convalida e correggere gli altri errori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36350,6 +36374,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193017Z">
         <seg>I tag sono sempre singoli o accoppiati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203618Z">
+        <seg>I tag sono evidenziati in grassetto azzurro per un confronto migliore tra il contenuto originale e quello tradotto.</seg>
       </tuv>
     </tu>
     <tu>
