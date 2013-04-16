@@ -6831,6 +6831,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T204425Z">
+        <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Copia il testo - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Ctrl+D - Create Translated Documents&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T170616Z">
@@ -6927,6 +6935,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Paste text - Ctrl+V&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T204440Z">
+        <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Incolla il testo - Ctrl+V&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project files list - Ctrl+L&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200732Z">
@@ -6955,6 +6971,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170035Z">
         <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Cerca - Ctrl+F&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Select All - Ctrl+A&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T204411Z">
+        <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Seleziona tutto - Ctrl+A&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7123,6 +7147,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T110242Z">
         <seg>&lt;s1&gt;Dizionari&lt;/s1&gt; &lt;p0&gt;Stardict&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T204355Z">
+        <seg>&lt;p0&gt;Statistiche&lt;/p0&gt; &lt;s1&gt;Menu Strumenti&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34728,6 +34760,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplifying the original text formatting in the source file before commencing translation greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T204344Z">
+        <seg>Semplificare la formattazione del testo originale, prima di iniziare la traduzione, contribuisce in modo sostanziale alla riduzione del numero dei tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simply click through these by pressing Enter to confirm that the target is to remain the same.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T181332Z">
@@ -35004,6 +35044,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T212559Z">
         <seg>Certe elaborazioni sono necessarie e non creano problemi, altre ne possono causare al momento della creazione del documento di arrivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some tag scenarios flagged in the tag validation window are necessary and are benign, others will cause problems when the translated document is created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T204236Z">
+        <seg>Alcuni casi di tag evidenziati nella finestra di convalida dei tag sono necessari e non creano problemi, altri ne possono causare al momento della creazione del documento di arrivo.</seg>
       </tuv>
     </tu>
     <tu>
