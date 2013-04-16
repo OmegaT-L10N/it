@@ -5063,6 +5063,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Comments&lt;/p0&gt; &lt;s1&gt;Comments pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192043Z">
+        <seg>&lt;p0&gt;Commenti&lt;/p0&gt; &lt;s1&gt;Pannello dei commenti&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Customizing OmegaT&lt;/p0&gt; &lt;s1&gt;GNOME&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T193500Z">
@@ -7539,6 +7547,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203852Z">
         <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Pannello del Glossario&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Machine Translation pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192120Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Pannello della Traduzione automatica&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22186,6 +22202,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192032Z">
+        <seg>Nell'esempio sotto riportato, l'autore del file PO ha incluso un avvertimento del traduttore per verificare la lunghezza della traduzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the first and third case above tags are paired incorrectly, and in the second case the starting tag is missing the &lt; sign.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T162939Z">
@@ -24923,6 +24947,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T095408Z">
         <seg>Traduzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translation pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192127Z">
+        <seg>Pannello della Traduzione automatica</seg>
       </tuv>
     </tu>
     <tu>
@@ -39013,6 +39045,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165241Z">
         <seg>Le posizioni delle varie memorie di traduzione per uno specifico progetto sono definite dall'utente (si veda la finestra di dialogo Progetto in &lt;l0&gt;Proprietà del progetto)&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192305Z">
+        <seg>Se aperto, il pannello della traduzione automatica contiene i suggerimenti, per il segmento attivo, provenienti dagli strumenti di traduzione automatica.</seg>
       </tuv>
     </tu>
     <tu>
