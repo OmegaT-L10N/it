@@ -33992,6 +33992,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T183626Z">
+        <seg>La selezione di uno di essi ne inserirà il contenuto, all'interno del segmento di destinazione, in corrispondenza della posizione attuale del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting the item with the OmegaT icon is enough to open the project A translation project &lt;b0&gt;Example_Project&lt;/b0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T184711Z">
