@@ -25791,6 +25791,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More in the chapter &lt;l1&gt;Machine translation&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192424Z">
+        <seg>È possibile reperire ulteriori informazioni nel capitolo &lt;l1&gt;Traduzione automatica&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T123545Z">
@@ -30730,6 +30738,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T164128Z">
         <seg>Premere &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt; &lt;/k0&gt; &lt;i3/&gt;&lt;i4/&gt; per sovrascrivere l'intero segmento con il contenuto della corrispondenza preselezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M &lt;/k0&gt;to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192342Z">
+        <seg>Premere &lt;k0&gt;Ctrl+M&lt;/k0&gt; sostituire la traduzione del segmento attivo con quella della traduzione automatica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39061,6 +39077,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202613Z">
         <seg>L'applicazione principale di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main menu provides access to all &lt;a0&gt;OmegaT&lt;/a0&gt; functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192448Z">
+        <seg>Il menu principale permette l'accesso a tutte le funzioni di &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
