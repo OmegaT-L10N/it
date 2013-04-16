@@ -7503,6 +7503,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Dictionary pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T184000Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Pannello del dizionario&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Editor pane&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T185333Z">
@@ -13753,6 +13761,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T125312Z">
         <seg>La cartella dei file del dizionario inserita non esiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary pane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T184013Z">
+        <seg>Pannello del dizionario</seg>
       </tuv>
     </tu>
     <tu>
@@ -47688,6 +47704,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T215117Z">
         <seg>È possibile anche inviare &lt;u6&gt;segnalazioni di errori&lt;/u6&gt; e &lt;u7&gt;proposte di miglioramenti.&lt;/u7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T183942Z">
+        <seg>È possibile anche evidenziare la propria alternativa preferita all'interno del riquadro del glossario e, tramite clic col pulsante destro del mouse, inserirla nel segmento di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
