@@ -7127,6 +7127,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Tag validation&lt;/p0&gt; &lt;s1&gt;Shortcuts, Tags&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203411Z">
+        <seg>&lt;p0&gt;Convalida dei tag&lt;/p0&gt; &lt;s1&gt;Scorciatoie, Tag&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Tagged text&lt;/p0&gt; &lt;s1&gt;An example&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T172144Z">
@@ -7643,6 +7651,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202953Z">
         <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Finestra di ricerca&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Tag validation&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203434Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Convalida dei tag&lt;/s1&gt; &lt;s2&gt;Tag&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29555,6 +29571,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203521Z">
+        <seg>Aprire la finestra con &lt;g0&gt;Ctrl+T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the&lt;e0&gt; Projects&lt;/e0&gt; view for your account.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104822Z">
@@ -33668,6 +33692,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190449Z">
         <seg>Si veda il capitolo sulle &lt;l2&gt;Espressioni regolari&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the chapter&lt;e3&gt; &lt;l4&gt;Searches&lt;/l4&gt; &lt;/e3&gt;for more information about the search window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203346Z">
+        <seg>Per ulteriori informazioni sulla finestra di ricerca, si veda il capitolo &lt;e3&gt; &lt;l4&gt;Ricerche&lt;/l4&gt; &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40165,6 +40197,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search window consists of a text field for search strings or keywords, flags and radio buttons for setting up the search and a display area containing the results of the search.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203246Z">
+        <seg>La finestra di ricerca è formata da un campo di immissione testo, in cui ricercare le porzioni di testo, da caselle di scelta e pulsanti, che consentono di impostare la ricerca, e da un'area per la visualizzazione dei risultati trovati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second argument &lt;l2&gt;--pseudotranslatetype&lt;/l2&gt; is optional.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202025Z">
@@ -40617,6 +40657,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T180739Z">
         <seg>La tabella fornisce un riepilogo delle pagine web disponibili, per le quali sono stati costruiti i file «legacy» della nostra esercitazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tag validation window detects and lists any tag errors and inconsistencies in the translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203511Z">
+        <seg>La finestra per la convalida dei tag individua ed elenca gli errori di formattazione e le inconsistenze nella traduzione.</seg>
       </tuv>
     </tu>
     <tu>
