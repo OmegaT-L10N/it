@@ -6903,6 +6903,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project files list - Ctrl+L&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200732Z">
+        <seg>&lt;p0&gt;Scorciatoie&lt;/p0&gt; &lt;s1&gt;Elenco dei file del progetto - Ctrl+L&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T105920Z">
@@ -7595,6 +7603,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183423Z">
         <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Widget del pannello&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Project files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200711Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;File del progetto&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33480,6 +33496,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See chapter &lt;l2&gt;Menu and Keyboard shortcuts&lt;/l2&gt; for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200618Z">
+        <seg>Per ulteriori dettagli, consultare il capitolo &lt;l2&gt;Menu e scorciatoie da tastiera&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See chapter&lt;l3&gt; File filters &lt;/l3&gt;for more on the subject.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T210241Z">
@@ -37267,6 +37291,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Project Files window lists the project files and displays other project information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200749Z">
+        <seg>La finestra “File del progetto” visualizza l'elenco dei file del progetto, con indicazione di altre informazioni relative al progetto stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Scripting dialog allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T095526Z">
@@ -39185,6 +39217,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200533Z">
+        <seg>Le funzioni più frequentemente utilizzate sono attivabili anche con scorciatoie da tastiera; pertanto, dopo averle imparate, non sarà più necessario accedere alla barra dei menu per attivarne la funzione corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T213551Z">
@@ -40392,6 +40432,14 @@ an access to the hard drive of the computer.</seg>
         <seg>The status bar displays work flow related messages at the bottom of the main window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222421Z">
+        <seg>La barra di stato è destinata a contenere i messaggi relativi al flusso di lavoro e si trova nella parte inferiore della schermata principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200631Z">
         <seg>La barra di stato è destinata a contenere i messaggi relativi al flusso di lavoro e si trova nella parte inferiore della schermata principale.</seg>
       </tuv>
     </tu>
@@ -41748,6 +41796,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
         <seg>This bar gives the user feedback messages about specific operations that are in progress.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222426Z">
+        <seg>Questa barra comunica all'utente quali sono le operazioni specifiche in corso di esecuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200655Z">
         <seg>Questa barra comunica all'utente quali sono le operazioni specifiche in corso di esecuzione.</seg>
       </tuv>
     </tu>
