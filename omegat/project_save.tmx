@@ -16351,6 +16351,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201225Z">
+        <seg>Le voci del file comprendono i loro nomi, i tipi di filtri dei file, la loro codifica e il numero dei segmenti che ciascun file contiene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File filters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T095815Z">
@@ -30770,6 +30778,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141018Z">
         <seg>Per limitare le voci visualizzate nella finestra dell'editor a quelle che corrispondono alla ricerca corrente, premere il pulsante 'filtro' in basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt;Enter&lt;/k0&gt; will move the Editor pane to the top of the file selected</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201127Z">
+        <seg>Premere &lt;k0&gt;Invio&lt;/k0&gt; per spostare il pannello dell'Editor all'inizio del file selezionato</seg>
       </tuv>
     </tu>
     <tu>
