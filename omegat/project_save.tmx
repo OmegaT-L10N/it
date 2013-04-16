@@ -7639,6 +7639,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Search pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202953Z">
+        <seg>&lt;p0&gt;Finestre e pannelli in OmegaT&lt;/p0&gt; &lt;s1&gt;Finestra di ricerca&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;A different display font can be selected via the &lt;b&gt;Display Font&lt;/b&gt;dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T173222Z">
@@ -43920,6 +43928,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To open a new search window, use &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; in the Main window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203138Z">
+        <seg>Per aprire una nuova finestra di ricerca, dalla schermata principale utilizzare la combinazione rapida da tastiera &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open the window, use &lt;c0&gt;&lt;a1&gt;Ctrl+T&lt;/a1&gt;&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T161701Z">
@@ -48052,6 +48068,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also have several search windows open simultaneously.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203102Z">
+        <seg>È possibile pure aprire simultaneamente più finestre di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T183942Z">
@@ -48713,6 +48737,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141218Z">
         <seg>Utilizzare la normale navigazione per spostarsi, ad esempio, al successivo segmento (non tradotto) che corrisponde al criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the search window to find specific segments in a project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T203028Z">
+        <seg>La finestra di ricerca testo si può utilizzare per trovare segmenti specifici all'interno di un progetto.</seg>
       </tuv>
     </tu>
     <tu>
