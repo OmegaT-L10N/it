@@ -26687,6 +26687,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202017Z">
+        <seg>Si noti, comunque, che i numeri non indicano quanto importanti siano le ripetizioni: queste possono corrispondere a frasi relativamente lunghe che vengono ripetute per più volte (in questo caso si è molto fortunati), oppure possono descrivere una tabella di parole chiave (e allora non si è poi così fortunati).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note however, that the numbers do not say how relevant the repetitions are: it could mean relatively long sentences repeated a number of times (very lucky!) or it could describe a table of keywords (not as lucky...) The &lt;c0&gt;project_stats.txt&lt;/c0&gt; located in the &lt;c1&gt;/omegat&lt;/c1&gt; folder of your project contains more detailed segment information per file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T155209Z">
@@ -36935,6 +36943,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T214626Z">
         <seg>La sotto-cartella &lt;e0&gt;omegat&lt;/e0&gt; contiene almeno un file ed eventualmente vari altri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202214Z">
+        <seg>Il file &lt;f0&gt;project_stats.txt&lt;/f0&gt; che si trova nella cartella omegat del progetto contiene informazioni più dettagliate sui segmenti, suddivisi per file.</seg>
       </tuv>
     </tu>
     <tu>
