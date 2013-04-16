@@ -1275,6 +1275,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201700Z">
+        <seg>(la definizione di “univoco” è sensibile alle maiuscole/minuscole: "Avvio" e "avvio" sono considerati differenti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104121Z">
@@ -40261,6 +40269,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201551Z">
+        <seg>La serie dei segmenti &lt;e0&gt;univoci&lt;/e0&gt;viene calcolata prendendo in considerazione tutti i segmenti e rimuovendo tutti i segmenti duplicati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The set of &lt;s0&gt;Unique&lt;/s0&gt; segments is computed by taking all the segments and removing all the duplicate segments equal up to letter case ("Run" and "run" are thought different).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T223656Z">
@@ -51757,6 +51773,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112815Z">
         <seg>la definizione dei filtri specifici del progetto - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201424Z">
+        <seg>nella parte inferiore sono visualizzati il numero totale dei segmenti, il numero di segmenti univoci contenuti nell'intero processo e quello dei segmenti univoci già tradotti</seg>
       </tuv>
     </tu>
     <tu>
