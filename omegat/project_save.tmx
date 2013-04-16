@@ -3503,6 +3503,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;i1/&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g2&gt;Import Source Files..."&lt;/g2&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202728Z">
+        <seg>&lt;e0&gt;&lt;i1/&gt;Aggiunta di file al progetto: &lt;/e0&gt;Facendo clic sul pulsante "&lt;g2&gt;Importa i file di partenza..."&lt;/g2&gt; si ha la possibilità di aggiungere nuovi file al progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode to perform one of the following services automatically</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T171236Z">
@@ -42009,6 +42017,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202828Z">
+        <seg>Il comando copia i file selezionati nella cartella &lt;f3&gt;source&lt;/f3&gt; e ricarica il progetto per importare i nuovi file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This creates a folder called &lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T112011Z">
@@ -47983,6 +47999,14 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120519T101031Z">
         <seg>È possibile anche arrivare direttamente alla cartella dalla riga di comando (con "cd") e aprire &lt;a4&gt;&lt;e5&gt;Info.plist&lt;/e5&gt; in un editor a riga di comando come emacs o vi&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T202931Z">
+        <seg>Facendo clic sul pulsante &lt;g4&gt;"Importa da MediaWiki"&lt;/g4&gt; e indicando l'URL corrispondente, si ha la possibilità di aggiungere pagine internet scritte in formato MediaWiki.</seg>
       </tuv>
     </tu>
     <tu>
