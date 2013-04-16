@@ -20643,6 +20643,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T182644Z">
+        <seg>Se l'opzione per i suggerimenti è attivata (&lt;g0&gt;Opzioni → Abilita suggerimenti&lt;/g0&gt;), è possibile fare clic col pulsante destro del mouse sulla parola evidenziata e aprire un menu contestuale contenente la traduzione suggerita dal glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java, one way to install the current version of</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093146Z">
