@@ -37283,6 +37283,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Project Files Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200850Z">
+        <seg>La finestra “File del progetto” visualizza le seguenti informazioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Project Files window is displayed, which is empty since your project does not yet contain any files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183538Z">
@@ -41385,6 +41393,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are the files present in the Source files folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201004Z">
+        <seg>Si tratta dei file contenuti nella cartella dei file di partenza in un formato che OmegaT è in grado di riconoscere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These are the files present in the source files folder, that &lt;a0&gt;OmegaT can handle&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222951Z">
@@ -45391,6 +45407,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120519T103009Z">
         <seg>Per avviare il programma dalla riga di comando, usare il file &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; che si trova in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/Resources/Java/&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200825Z">
+        <seg>Utilizzare &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; per aprirla ed &lt;k2&gt;Esc&lt;/k2&gt; per chiuderla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51617,6 +51641,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the file currently available in the Editor pane is highlighted with a blue background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201028Z">
+        <seg>il file attivo disponibile nella finestra dell'Editor viene evidenziato con uno sfondo azzurro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the glossary file does not have the correct encoding</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T232300Z">
@@ -51644,6 +51676,14 @@ di creare la propria cartella di configurazione.</seg>
         <seg>the list of all the translatable files in the project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222907Z">
+        <seg>l'elenco di tutti i file da tradurre che compongono il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200905Z">
         <seg>l'elenco di tutti i file da tradurre che compongono il progetto.</seg>
       </tuv>
     </tu>
