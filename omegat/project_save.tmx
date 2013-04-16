@@ -34744,6 +34744,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T191847Z">
+        <seg>Alcuni formati di file, specifici per le traduzioni, come quelli PO, consentono l'inserimento di commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T114353Z">
@@ -42733,6 +42741,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T191935Z">
+        <seg>In questo modo al traduttore viene offerto il contesto relativo alla segmento da tradurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This way you will be able to follow external links too, as the built-in help browser does not accept external Internet links.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T171942Z">
@@ -47834,6 +47850,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200728Z">
         <seg>Se si sperimentano problemi, si potrà sempre chiedere assistenza al gruppo di utenti di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T191738Z">
+        <seg>È possibile navigare tra le note tramite il comando &lt;g0&gt;Vai → Nota successiva&lt;/g0&gt; e &lt;g1&gt;Vai → Nota precedente&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
