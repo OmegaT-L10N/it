@@ -40165,6 +40165,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T182153Z">
+        <seg>Il segmento originario, nell'esempio sotto, è “&lt;e0&gt;Context menu command&lt;/e0&gt;”, come nell'esempio sopra riportato delle concordanze parziali, e i termini mostrati sono stati rinvenuti nei glossari disponibili (raccolta di termini Microsoft e glossario del Slovenian Linux User group).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T215211Z">
@@ -50477,6 +50485,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T105400Z">
         <seg>si sposta all'inizio del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>multi-word entry in the glossary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T182234Z">
+        <seg>voce con più termini nel glossario</seg>
       </tuv>
     </tu>
     <tu>
