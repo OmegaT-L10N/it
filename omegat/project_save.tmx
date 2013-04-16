@@ -8280,6 +8280,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A given source segment may require several different translations, depending on the context.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T184357Z">
+        <seg>Un segmento originario specifico può comportare traduzioni diverse a seconda del contesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A glossary function allows the user to enter source words and their translations into a file which can be accessed while translating.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T231051Z">
@@ -19885,6 +19893,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T174245Z">
         <seg>Se il segmento attivo è l'ultimo di un file, verrà attivato il primo segmento del file successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T184508Z">
+        <seg>Se l'attuale traduzione del segmento non è adatta, l'utente può selezionare &lt;g0&gt;Modifica → Crea traduzione alternativa&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40433,6 +40449,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T163204Z">
         <seg>Il modello del nome del file di arrivo utilizza una sintassi particolare; pertanto, se si desidera intervenire su questo campo, si deve fare clic su &lt;e0&gt;Modifica...&lt;/e0&gt; e usare la finestra di dialogo &lt;i1/&gt;Modifica filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T184625Z">
+        <seg>Il testo tradotto inserito dopo tale comando verrà considerato come una traduzione alternativa del segmento di partenza.</seg>
       </tuv>
     </tu>
     <tu>
