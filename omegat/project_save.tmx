@@ -5711,6 +5711,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;Help browser&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T192619Z">
+        <seg>&lt;p0&gt;Menu Aiuto&lt;/p0&gt; &lt;s1&gt;Navigatore della Guida&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing Behavior&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T182609Z">
@@ -29269,6 +29277,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T092454Z">
         <seg>Al termine della traduzione di tutti i segmenti (o prima, quando necessario), OmegaT utilizzerà la memoria di traduzione per creare, nella cartella “Target”, i documenti tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T192603Z">
+        <seg>Una volta calcolati, i dati vengono resi disponibili anche nel file &lt;f6&gt;omegat/project_stats_match.txt&lt;/f6&gt;. Si noti che il file reca la data e l'ora, dato che il calcolo non è istantaneo (a differenza delle statistiche standard) è può dunque diventare obsoleto.</seg>
       </tuv>
     </tu>
     <tu>
