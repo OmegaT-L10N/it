@@ -41294,6 +41294,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual is located in the docs subfolder under the OmegaT installation folder, so you may can, for instance, view the English documentation by opening the &lt;f0&gt;docs/en/index.html &lt;/f0&gt;file in your browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T193305Z">
+        <seg>Il manuale dell'utente si trova nella sottocartella "docs" della cartella di installazione di OmegaT, pertanto si potrà, per esempio, consultare la documentazione in inglese aprendo nel proprio navigatore il file &lt;f0&gt;docs/en/index.html &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user who needs to handle MS Office files will find it helpful to convert them using Open Office free software; the files can can then be saved in a Microsoft format, if desired, after the translation is finished.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T122027Z">
