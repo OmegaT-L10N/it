@@ -29811,6 +29811,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T193542Z">
+        <seg>Aprire in tal modo il manuale dell'utente significa anche poter aprire i collegamenti esterni, dato che il navigatore interno integrato non è in grado di gestire i collegamenti per Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Openoffice.org Dictionaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090038Z">
