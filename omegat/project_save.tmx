@@ -20289,6 +20289,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the translation for several identical source segments already exists in the translation memory of the project, these segments, together with other, already translated unique segments, will be classified as an "Exact match".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T184851Z">
+        <seg>Se, nella memoria di traduzione del progetto, esiste già la traduzione per vari segmenti di origine uguali, questi, insieme con altri segmenti univoci già tradotti, verranno classificati come "corrispondenza esatta".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T174450Z">
@@ -39670,6 +39678,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T194450Z">
         <seg>La successiva cosa da fare è di chiedere conferma di quanto è accaduto agli altri utenti, in modo da verificare se si tratta di un problema già segnalato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number of unique segments, if needed, is provided in the standard statistics window, regardless of whether they have been translated or not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T185024Z">
+        <seg>Se necessario, il numero dei segmenti univoci viene fornito nella finestra delle statistiche standard, a prescindere dal fatto che siano stati o no tradotti.</seg>
       </tuv>
     </tu>
     <tu>
