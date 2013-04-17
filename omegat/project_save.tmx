@@ -39385,6 +39385,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T183330Z">
+        <seg>Alle statistiche delle concordanze si accede dal menu &lt;g0&gt;Strumenti &gt; Statistiche delle concordanze.&lt;/g0&gt; Il calcolo usa il processore in modo elevato e può occupare del tempo, per tale motivo durante l'operazione viene mostrata una barra di avanzamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183604Z">
