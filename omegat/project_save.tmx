@@ -17945,6 +17945,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy matches can come from the &lt;f0&gt;/tm&lt;/f0&gt; folder as well - and not just from the internal translation memory in &lt;f1&gt;/omegaT,&lt;/f1&gt; as is the case for repetitions and exact matches.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T191748Z">
+        <seg>Le concordanze parziali possono derivare anche dalla cartella &lt;f0&gt;/tm&lt;/f0&gt; - e non solo dalla memoria di traduzione interna presente in &lt;f1&gt;/omegat&lt;/f1&gt;, come nel caso delle ripetizioni e delle concordanze esatte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183116Z">
@@ -40193,6 +40201,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110119Z">
         <seg>Il deposito al momento è vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rest of the categories (50-100%) involves untranslated segments with a fuzzy match.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T191529Z">
+        <seg>Il resto delle categorie (50-100%) comprende i segmenti non tradotti che hanno una concordanza parziale.</seg>
       </tuv>
     </tu>
     <tu>
