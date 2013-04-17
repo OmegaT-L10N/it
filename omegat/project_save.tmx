@@ -32232,6 +32232,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repetitions stand for identical segments present several times in the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T184425Z">
+        <seg>Le ripetizioni indicano i segmenti identici presenti più volte nel testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T111921Z">
@@ -38748,6 +38756,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T081517Z">
         <seg>Il primo di questi è:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first segment and its contents will be classified as "no match", and the rest of them as a repetition of the first.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T184610Z">
+        <seg>Il primo segmento e il suo contenuto sarà classificato come "nessuna concordanza", mentre i restanti come una ripetizione del primo.</seg>
       </tuv>
     </tu>
     <tu>
