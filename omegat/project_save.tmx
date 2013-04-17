@@ -19929,6 +19929,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If one does not wish to use external TMs for counting, one will either have to empty the /tm folder or change the project setup (temporarily) so that the value for /tm points to a different location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T192112Z">
+        <seg>Se non si desidera utilizzare le memorie esterne per il conteggio, si deve eliminare il contenuto della cartella /tm o modificare (temporaneamente) le impostazioni del progetto, in modo che il valore per la cartella /tm punti a una posizione differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T122245Z">
@@ -39758,6 +39766,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T190306Z">
         <seg>La versione in linea di Google Translate consente all'utente di correggere il suggerimento e inviare il segmento corretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only difference with matches from the &lt;f2&gt;project_save&lt;/f2&gt; translation memory is that external TMs cannot give exact matches, only 100%.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T191901Z">
+        <seg>L'unica differenza rispetto alla memoria di traduzione &lt;f2&gt;project_save&lt;/f2&gt; è che le memorie esterne non possono restituire concordanze esatte ma solo 100%.</seg>
       </tuv>
     </tu>
     <tu>
