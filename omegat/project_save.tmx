@@ -40669,6 +40669,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The statistics window - accessed via &lt;e0&gt;Tools&gt;Statistics &lt;/e0&gt;- shows the statistics of the current OmegaT project, both in the summary form as well as in detail for every file to be translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T182504Z">
+        <seg>La finestra delle statistiche - cui si può accedere tramite &lt;e0&gt;Strumenti &gt; Statistiche &lt;/e0&gt;- mostra le statistiche del progetto OmegaT attivo, sia sotto forma di riepilogo, sia nel dettaglio per ciascun file da tradurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The status bar displays work flow related messages at the bottom of the main window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T222421Z">
