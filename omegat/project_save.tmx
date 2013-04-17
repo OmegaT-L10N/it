@@ -27183,6 +27183,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that these totals are a good (or as good as they can be) approximation of the work involved in the project and thus can serve as a basis for your cost and price calculations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T184018Z">
+        <seg>Si noti che questi totali sono una buona approssimazione del lavoro impiegato nel progetto, dunque si possono utilizzare come base per calcolare i costi e il prezzo del proprio lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T182515Z">
@@ -35396,6 +35404,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213226Z">
         <seg>Sesotho del Sud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spaces between segments are not taken into account in the last column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T184050Z">
+        <seg>Gli spazi tra i segmenti non vengono considerati nell'ultima colonna.</seg>
       </tuv>
     </tu>
     <tu>
