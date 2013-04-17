@@ -12254,8 +12254,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Clicking on a link as you would do in a web browser brings the desired page to the front.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20101005T171409Z">
-        <seg>Quando si fa clic su un collegamento, proprio come si farebbe all'interno di una comune pagina Web, si accederà direttamente alla prima pagina del capitolo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T193039Z">
+        <seg>Quando si fa clic su un collegamento, proprio come si farebbe all'interno di una comune pagina Web, si accede direttamente alla prima pagina del capitolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22454,6 +22454,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T171338Z">
         <seg>La finestra che viene aperta contiene il manuale e due pulsanti: &lt;s0&gt;Indietro&lt;/s0&gt; e &lt;s1&gt;Sommario&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the window, the manual and two buttons are displayed: Back and Contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T192956Z">
+        <seg>La finestra che viene aperta contiene il manuale e due pulsanti: Indietro e Sommario.</seg>
       </tuv>
     </tu>
     <tu>
