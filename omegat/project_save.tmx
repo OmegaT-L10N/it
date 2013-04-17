@@ -10433,6 +10433,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As far as categories are concerned, the de facto industry standard of classifying matches into the following groups is used: Repetitions, Exact match, 95%-100%, 85%-94%, 75%-84%, 50%-74% and No match.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T183541Z">
+        <seg>Per ciò che concerne le categorie utilizzate per l'operazione, viene lo standard de facto di classificazione delle concordanze, ossia: ripetizioni, concordanza esatta, 95%-100%, 85%-94%, 75%-84%, 50%-74% e nessuna concordanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T181327Z">
@@ -27159,6 +27167,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that there could be minor differences between the OmegaT counts and the numbers, provided by other CAT tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T183756Z">
+        <seg>Si noti che possono verificarsi piccole differenze tra i conteggi eseguiti da OmegaT e quelli forniti da altri strumenti CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that there is no automatic “global replace” function, but there are “workarounds” that can be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T190413Z">
@@ -42461,6 +42477,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120519T105105Z">
         <seg>Queste informazioni sono valide per sistemi tipo Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information is computed for segments as well as for words and for characters (without and including spaces).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T183645Z">
+        <seg>Questa informazione viene calcolata sia per i segmenti, sia per le parole e i caratteri (con o senza spazi).</seg>
       </tuv>
     </tu>
     <tu>
