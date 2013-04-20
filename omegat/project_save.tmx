@@ -17729,6 +17729,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the sake of convenience, they will be referred to below as "MS Office 2007 file formats".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151318Z">
+        <seg>Per motivi di convenienza, si farà riferimento a sotto "formati file MS Office 2007".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T181911Z">
@@ -17925,6 +17933,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T221529Z">
         <seg>Convalidare i tag frequentemente (consultare Convalida dei tag) e produrre i documenti di arrivo (vedere sotto e Menu) a intervalli regolari per rendere più semplice individuare qualsiasi problema che possa sorgere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From Version 1.7.1 onwards, OmegaT has been able to handle Microsoft Office 2007 files directly, without conversion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151333Z">
+        <seg>Dalla versione 1.7.1 in poi, OmegaT è stato in grado di gestire i file di Microsoft Office 2007 direttamente, senza conversione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39168,6 +39184,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formats are also used in MS Office 2010.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151222Z">
+        <seg>I formati sono utilizzati anche in MS Office 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formatting information can be as simple as “this is bold”, or as complex as table data with different font sizes, colors, positions, etc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T184432Z">
@@ -42021,6 +42045,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T211928Z">
         <seg>Questi file contengono i segmenti di partenza e di arrivo che corrispondono al contenuto della cartella &lt;f0&gt;source&lt;/f0&gt; al momento della loro creazione (in genere quando vengono creati i file tradotti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151213Z">
+        <seg>Questi formati sono formalmente conosciuti come "Office Open XML" e sono rispettivamente le estensioni docx, xlsx e pptx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48158,6 +48190,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T184808Z">
         <seg>Col pacchetto OmegaT.app per Mac OSX, è necessario fare doppio clic su &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; che si trova in /OmegaT.app/Contents/MacOS/ (per accedervi, si veda sopra) per avviare OmegaT dalla console e ottenere accesso immediato al registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the advent of Microsoft Office 2007, Microsoft Word, Excel and Powerpoint have new default file formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151132Z">
+        <seg>Con l'avvento di Microsoft Office 2007, Microsoft Word, Excel e Powerpoint sono nuovi formati di file di default.</seg>
       </tuv>
     </tu>
     <tu>
