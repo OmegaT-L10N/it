@@ -13805,6 +13805,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150134Z">
+        <seg>Sviluppatori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Development manager</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145853Z">
+        <seg>Responsabile dello sviluppo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Development of OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194143Z">
@@ -14537,6 +14553,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T155949Z">
         <seg>La documentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150032Z">
+        <seg>Responsabile della documentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -24593,6 +24617,14 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145932Z">
+        <seg>Sviluppatore cliente potenziale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T181359Z">
@@ -24895,6 +24927,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192811Z">
         <seg>Repository di localizzazione TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150125Z">
+        <seg>Responsabile della localizzazione, proprietario del gruppo utenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -31347,6 +31387,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T121647Z">
         <seg>Progetto chiuso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project co-ordinator and website manager</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150004Z">
+        <seg>Responsabile sito e coordinatore del progetto</seg>
       </tuv>
     </tu>
     <tu>
