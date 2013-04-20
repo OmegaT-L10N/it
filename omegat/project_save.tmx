@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Levelling" the formatting means applying the format of the first character in a selection of text (such as a whole paragraph) to all subsequent characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153004Z">
+        <seg>"Livellare" la formattazione significa applicare il formato del primo carattere in una selezione di testo (ad esempio un paragrafo intero) di tutti i caratteri successivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Linux").</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094408Z">
@@ -9833,6 +9841,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153000Z">
+        <seg>Un'alternativa all'esecuzione della macro CodeZapper sul vostro testo è quello di "livello" la formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An area for setting project folders</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T211357Z">
@@ -10465,6 +10481,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As already mentioned, this problem with MS Office 2007 is not unique to OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152941Z">
+        <seg>Come già accennato, questo problema con MS Office 2007 non è univoco di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As any other application, OmegaT is subject to this problem too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T202013Z">
@@ -10785,6 +10809,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152832Z">
+        <seg>Sillabazione automatica aggiunge anche il tag inutili, quindi disattivarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic match insertion</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T130136Z">
@@ -10977,6 +11009,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful to choose a font that contains both the necessary Asian and "normal" characters, such as MS Mincho, but without the "[text body]" style suffix.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152857Z">
+        <seg>Fare attenzione a scegliere un font che contiene caratteri "normale", come ad esempio MS Mincho, ma senza il suffisso di stile "[corpo testo]" e asiatici necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be warned that the documentation may be a little out of date, owing to the pace at which OmegaT is being developed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213455Z">
@@ -11037,6 +11077,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185052Z">
         <seg>Prima di iniziare a tradurre, è stato inserito un file glossario nella cartella &lt;f0&gt;/glossary&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before following the instructions below for removal of the nuisance codes, however, remember to make the configuration changes in Word first, or Word may simply re-insert nuisance codes again when the file is next opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152929Z">
+        <seg>Prima di seguire le istruzioni qui sotto per la rimozione del fastidio codici, tuttavia, ricordano apportare le modifiche di configurazione in parola in primo luogo, o parola può semplicemente reinserire codici fastidio nuovamente quando il file viene aperto successivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19236,6 +19284,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to remove unwanted formatting code from .docx files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152801Z">
+        <seg>Come rimuovere il codice di formattazione indesiderati da file. docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to translate using OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091337Z">
@@ -19841,6 +19897,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T223655Z">
         <seg>Se il segmento attivo è l'ultimo di un file, verrà attivato il primo segmento del file successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If every single word in OmegaT is enclosed within tags, it is possible that Word has attempted to spell-check the text without access to a suitable spelling dictionary, and has therefore marked each word as mis-spelt.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152819Z">
+        <seg>Se ogni singola parola in OmegaT è racchiuso all'interno di tag, è possibile che la parola ha tentato di eseguire il controllo ortografico del testo senza accesso a un dizionario di ortografia adatto e quindi ha segnato ogni parola come mis-spelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21653,6 +21717,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T213738Z">
         <seg>Se il file di partenza è formattato, per es., come Microsoft Word, LibreOffice Writer o HTML, OmegaT convertirà la formattazione in tag che racchiudono il testo che si traduce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your text contains both Asian and "normal" (e.g. Latin) characters, use Ctrl+A to select the entire text, then select a single font for it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152852Z">
+        <seg>Se il testo contiene caratteri (ad esempio latino) "normale" e asiatici, utilizzare Ctrl + A per selezionare tutto il testo, quindi selezionare un singolo carattere per esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23770,6 +23842,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152838Z">
+        <seg>Può essere necessario fare questo per ogni documento, nel qual caso la procedura in Word 2007 è: scegliere la scheda Layout di pagina; nel gruppo di Imposta pagina, fare clic su Sillabazione; quindi fare clic su nessuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may be opened by pressing &lt;c0&gt;&lt;a1&gt;Ctrl+E&lt;/a1&gt;&lt;/c0&gt; or by calling &lt;s2&gt;Project → Properties...&lt;/s2&gt; from the &lt;a3&gt;main menu&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T214749Z">
@@ -24785,6 +24865,22 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Levelling character formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152954Z">
+        <seg>Formattazione del carattere di livellamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Levelling the character formatting of a paragraph manually</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153018Z">
+        <seg>Il personaggio di livellamento manuale di formattazione di un paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T124747Z">
@@ -25703,6 +25799,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153029Z">
+        <seg>Contrassegnare ogni paragrafo facendo clic su di esso ripetutamente finché non viene evidenziato l'intero paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark the first non-&amp;unique segment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101207T183548Z">
@@ -26251,6 +26355,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T101531Z">
         <seg>La maggior parte degli utenti dovrebbe trovare soddisfacenti le opzioni predefinite dei filtri dei file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most users will probably find that the greater ease of use outweighs this drawback.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152733Z">
+        <seg>Maggior parte degli utenti probabilmente troveranno che la maggiore facilità di utilizzo supera questo inconveniente.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27175,6 +27287,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152914Z">
+        <seg>Si noti che anche dopo che le impostazioni di Word sono state modificate in modo che esso non inserire codici "fastidio", ad esempio per la sillabazione automatica, tali codici possono essere ancora presenti nel file e non rimosso dal cambiamento nella configurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that if you need any launch command arguments (see above), you will have to use the normal installation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091233Z">
@@ -27411,6 +27531,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T204021Z">
         <seg>Si noti che questo è un correttore ortografico in linea: se si deve eseguire un controllo generale dei testi è necessario navigare nei testi e ricercare le varie sottolineature rosse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that this is not the same as "deleting" the formatting, which would cause the character formatting to revert to the document's default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153008Z">
+        <seg>Si noti che questo non è lo stesso di "eliminare" la formattazione, che causerebbe la formattazione del carattere tornare all'impostazione predefinita del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28823,6 +28951,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152756Z">
+        <seg>OmegaT condivide questo problema con altri strumenti CAT che gestire il formato docx, e le soluzioni sono simili o uguali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT sites and OmegaT SourceForge project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T172144Z">
@@ -29637,6 +29773,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194342Z">
         <seg>Uno dei motivi è che la funzione desiderata può già sono stata attuata, o che ci possono essere motivi perché non può essere attuato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One solution is to switch off automatic spelling checking in Word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152827Z">
+        <seg>Una soluzione è spegnere ortografia automatico controllo in parola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32384,6 +32528,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removal of these codes is described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152921Z">
+        <seg>Rimozione di questi codici è descritto di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T085511Z">
@@ -35096,6 +35248,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152749Z">
+        <seg>Poiché queste sono scomodi durante la traduzione, vale la pena tentare di rimuovere questi tag fastidio prima di iniziare la traduzione in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Single tags indicate formatting information that does not affect the surrounding text (an extra space or line break for example).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193121Z">
@@ -35956,6 +36116,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092852Z">
         <seg>Barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Unhide the paragraph mark.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153025Z">
+        <seg>Passo 1: Scopri il segno di paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37263,6 +37431,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T124216Z">
         <seg>Il carattere '?' corrisponde esattamente a un carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The .docx format is also prone to the introduction of "nuisance" formatting code which results in unwanted and unnecessary tags appearing in OmegaT's editor pane.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152740Z">
+        <seg>Il formato docx è anche soggetto all'introduzione di "fastidio" Formattazione codice che si traduce in tag indesiderati e inutili che appaiono nel riquadro dell'editor di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43581,6 +43757,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This tag apparently cannot be removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152910Z">
+        <seg>Questo tag apparentemente non può essere rimosso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093113Z">
@@ -45463,6 +45647,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translator &lt;a0&gt;David Turner&lt;/a0&gt; has written an MS Word macro (strongly recommended!) to deal with the problem.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152947Z">
+        <seg>Traduttore &lt;a0&gt;David Turner&lt;/a0&gt; ha scritto una macro di MS Word (consigliata!) per affrontare il problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translator comments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T184458Z">
@@ -46191,6 +46383,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T165929Z">
         <seg>Uso dei servizi di traduzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Search and Replace to remove double spaces (replacing them with a single space).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152846Z">
+        <seg>Utilizzare cerca e Sostituisci per rimuovere gli spazi doppi (sostituendoli con un singolo spazio).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48282,6 +48482,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the "aggregate tags" function enabled, this is not possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152729Z">
+        <seg>Con la funzione di "aggregazione tag" abilitata, questo non è possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the Mac OS X OmegaT.app package, double-click on the &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; located in /OmegaT.app/Contents/MacOS/ (see above to access it) to launch OmegaT from the console and get immediate access to the log.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T130525Z">
@@ -48390,6 +48598,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T185226Z">
         <seg>All'interno di un segmento, il primo gruppo (in coppia o singolo) è associato al numero &lt;s8&gt;0&lt;/s8&gt;, il secondo al numero &lt;s9&gt;1&lt;/s9&gt;, e così di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152902Z">
+        <seg>Word 2007 inserisce un tag a interruzioni di pagina, interruzioni di pagina automatiche anche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word 2007 marks any words not in its spelling dictionary with tags, so even a couple of words which it considers to be mis-spelt will result in a plethora of tags.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152809Z">
+        <seg>Word 2007 segna tutte le parole non nel suo dizionario ortografico con tag, quindi anche un paio di parole che ritiene di essere mis-spelt si tradurrà in una pletora di tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49133,6 +49357,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T111543Z">
         <seg>È possibile avviare OmegaT dalla riga di comando con uno script che includa le opzioni di avvio, oppure lo si può avviare direttamente facendo clic su &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153014Z">
+        <seg>È possibile la formattazione dei paragrafi essenzialmente copiare interi paragrafi in MS Word e incollandole indietro su se stessi, tale che l'intero paragrafo presuppone la formattazione del primo carattere di livello.</seg>
       </tuv>
     </tu>
     <tu>
