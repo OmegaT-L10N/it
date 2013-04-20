@@ -8888,6 +8888,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About this site</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145154Z">
+        <seg>Informazioni su questo sito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T232332Z">
@@ -37539,6 +37547,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145513Z">
+        <seg>Il progetto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT project philosophy</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193958Z">
@@ -42997,6 +43013,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This language version:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145506Z">
+        <seg>Questa versione di lingua:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This license allows you to do certain things with &lt;a0&gt;OmegaT&lt;/a0&gt;, including modifying and distributing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T214139Z">
@@ -43289,6 +43313,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T202453Z">
         <seg>Non sorprenderà sapere che OmegaT usa il correttore ortografico &lt;a0&gt;Hunspell&lt;/a0&gt;, utilizzato anche, tra gli altri, in OpenOffice.org, Firefox e Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This site is maintained on behalf of the OmegaT project by:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145407Z">
+        <seg>Questo sito è gestito per conto del progetto OmegaT da:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46947,6 +46979,22 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183812Z">
         <seg>Raccomandiamo dunque di scaricare e installare "Oracle Java Runtime Environment" (JRE) o il pacchetto OmegaT completo di JRE (quello .tar.bz2) contrassegnato "Linux").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website content by:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145445Z">
+        <seg>Contenuto del sito Web da:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website graphics by:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145327Z">
+        <seg>Grafica del sito Web da:</seg>
       </tuv>
     </tu>
     <tu>
