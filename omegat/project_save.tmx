@@ -1267,6 +1267,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152141Z">
+        <seg>(Poiché questo è ora il formato standard, è semplicemente descritto come Word, Excel o Powerpoint in MS Office 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192711Z">
@@ -17801,6 +17809,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152240Z">
+        <seg>Per gli utenti che non dispongono di MS Office 2007 o 2010 e non vogliono comprarlo, Microsoft fornisce un &lt;a0&gt;plug-in di compatibilità&lt;/a0&gt; per le versioni precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For works in formats which do not have any title page as such, "Title Page" means the text near the most prominent appearance of the work's title, preceding the beginning of the body of the text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T094005Z">
@@ -30930,6 +30946,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090552Z">
         <seg>Pagina ufficiale di Po4a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points to note when using the .docx, .xlsx and .pptx formats in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152357Z">
+        <seg>Punti da tenere presente nell'uso dei formati docx, xlsx e pptx in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -48858,6 +48882,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T131642Z">
         <seg>Si possono scegliere due metodi di ricerca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can convert MS Office 1997/2000/2003/XP files to MS Office 2007 format by opening them in MS Office 2007 and saving them with "Save As" in the new format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152129Z">
+        <seg>È possibile convertire file di MS Office 1997/2000/2003/XP in formato MS Office 2007 aprendoli con MS Office 2007 e salvandoli con "Salva con nome" nel nuovo formato.</seg>
       </tuv>
     </tu>
     <tu>
