@@ -13405,6 +13405,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a macro to level the character formatting of a paragraph</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153231Z">
+        <seg>Creazione di una macro per la formattazione del carattere di un paragrafo di livello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a new rule</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185052Z">
@@ -41894,6 +41902,22 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153042Z">
+        <seg>Quindi di spostare il fine dell'evidenziando il carattere a sinistra, in modo che non include il segno di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then select "Paste Special" (Word 2003) or click on the arrow at the bottom of the "Insert" button (Word 2007) to obtain the extended Paste options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153124Z">
+        <seg>Quindi selezionare "Incolla speciale" (Word 2003) o fare clic sulla freccia nella parte inferiore del pulsante "Inserisci" (Word 2007) per ottenere le opzioni incolla estese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then use File &gt; Open to open any short MS Word document in the source language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172236Z">
@@ -43077,6 +43101,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T195831Z">
         <seg>Questo è un normale file html che se aperto nel proprio browser web reindirizzerà l'utente al gruppo utenti di OmegaT ospitato in Yahoo Groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153052Z">
+        <seg>Questo è un paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
