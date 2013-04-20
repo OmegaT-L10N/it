@@ -10457,6 +10457,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As customers/authors upgrade Microsoft Office/Word to more recent versions, translators can expect to receive files increasingly in the new format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151756Z">
+        <seg>Poiché  i clienti/gli autori si aggiornano alle versioni più recenti di Microsoft Office/Word, i traduttori possono aspettarsi di ricevere sempre più file nel nuovo formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194215Z">
@@ -12863,6 +12871,14 @@ Submenu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194352Z">
         <seg>Comode funzioni alternative o soluzioni possono anche esistere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting to MS Office 2007 format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152047Z">
+        <seg>Conversione in formato MS Office 2007</seg>
       </tuv>
     </tu>
     <tu>
@@ -39833,6 +39849,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151955Z">
+        <seg>Il nuovo formato può servire anche come un modo utile di gestire i  formati preesistenti .doc, .xls e .ppt, dal momento che possono essere convertiti ai loro corrispettivi di MS Office 2007, tradotto in OmegaT e convertite indietro ancora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120729T172835Z">
@@ -43437,6 +43461,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152039Z">
+        <seg>Questa procedura è quindi un'alternativa per i traduttori che preferirebbero non utilizzare OpenOffice.org per questo scopo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T102239Z">
@@ -45787,6 +45819,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T093339Z">
         <seg>Tipo di plugin sconosciuto in '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike the legacy .doc, .xls and .ppt formats, these files can be handled directly in OmegaT, with no loss of formatting as a result of conversion to and from other formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151812Z">
+        <seg>A differenza dei precedenti formati. doc,. xls e. ppt, questi file possono essere gestiti direttamente in OmegaT, senza perdita di formattazione come risultato della conversione da e verso altri formati.</seg>
       </tuv>
     </tu>
     <tu>
