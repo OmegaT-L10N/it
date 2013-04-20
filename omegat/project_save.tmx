@@ -37957,6 +37957,14 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The advantages of using the .docx format in conjunction with OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151546Z">
+        <seg>I vantaggi di usare il formato docx in congiunzione con OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212444Z">
@@ -48198,6 +48206,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151132Z">
         <seg>Con l'avvento di Microsoft Office 2007, Microsoft Word, Excel e Powerpoint sono nuovi formati di file di default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the appearance of OmegaT Version 2.1.8, the handling of this file format in OmegaT also became much more user-friendly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151532Z">
+        <seg>Con la comparsa di OmegaT versione 2.1.8, il trattamento di questo formato di file in OmegaT inoltre è diventato molto più facile da usare.</seg>
       </tuv>
     </tu>
     <tu>
