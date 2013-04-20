@@ -34992,6 +34992,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150409Z">
+        <seg>Fin dall'inizio del progetto, ha ricevuto il sostegno di decine di altri collaboratori, troppo numerosi da menzionare qui, ma per cui aiuto siamo molto grati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Single tags indicate formatting information that does not affect the surrounding text (an extra space or line break for example).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193121Z">
@@ -40041,6 +40049,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T090345Z">
         <seg>I permessi che si concedono a questa versione (che potremmo chiamare "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale (per es., essi consentono l'accesso al disco rigido del computer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150213Z">
+        <seg>La filosofia del progetto è descritta &lt;a0&gt;qui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
