@@ -9618,6 +9618,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171222Z">
+        <seg>Consenti la modifica dei tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow the translation to be equal to source</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T093502Z">
@@ -24761,6 +24769,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171003Z">
+        <seg>Ultime modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101940Z">
@@ -31410,6 +31426,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171201Z">
+        <seg>Preserva gli spazi per tutti i tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press "&lt;s2&gt;ENTER&lt;/s2&gt;" to advance to the next segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T095215Z">
@@ -32752,6 +32776,22 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T212421Z">
         <seg>Rimuovi i tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171111Z">
+        <seg>Rimuovi i tag di inizio e fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171143Z">
+        <seg>Rimuovi lo spazio di inizio e fine nei progetti non segmentati</seg>
       </tuv>
     </tu>
     <tu>
