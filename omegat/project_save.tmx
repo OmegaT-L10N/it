@@ -23052,6 +23052,22 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165439Z">
+        <seg>Inserisci i &amp;tag di partenza mancanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165500Z">
+        <seg>Inserisci il tag mancante successivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Source</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181605Z">
@@ -23072,6 +23088,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181619Z">
         <seg>Inserisci tag di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165513Z">
+        <seg>Inserisci il tag {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34574,6 +34598,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181724Z">
         <seg>Seleziona concordanza parziale 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165654Z">
+        <seg>Seleziona la &amp;concordanza</seg>
       </tuv>
     </tu>
     <tu>
