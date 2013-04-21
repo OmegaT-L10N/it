@@ -9402,6 +9402,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172902Z">
+        <seg>Una volta che si è tradotto un segmento, premere &lt;k0&gt;Ctrl+U&lt;/k0&gt; per spostarsi al segmento successivo da tradurre (o &lt;k1&gt;Ctrl+Maiusc+U&lt;/k1&gt; per spostarsi a quello successivo tradotto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T190201Z">
@@ -15269,6 +15277,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T180527Z">
         <seg>Utilizzare, mentre si traduce, i menu &lt;g2&gt;Modifica&lt;/g2&gt; e &lt;g3&gt;Vai&lt;/g3&gt; per eseguire varie e utili funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During translation, use the &lt;g3&gt;Edit&lt;/g3&gt; and &lt;g4&gt;Go To&lt;/g4&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173032Z">
+        <seg>Utilizzare, mentre si traduce, i menu &lt;g3&gt;Modifica&lt;/g3&gt; e &lt;g4&gt;Vai&lt;/g4&gt; per eseguire varie e utili funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48640,6 +48656,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T190342Z">
         <seg>Per visualizzare come apparirà la traduzione nella sua forma finale, premere &lt;k1&gt;Ctrl+D&lt;/k1&gt; per generare il documento tradotto, che verrà creato nella sottocartella /target/ all'interno della cartella del proprio progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated document, which will be created in the /target/ subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172943Z">
+        <seg>Per visualizzare come apparirà la traduzione nella sua forma finale, premere &lt;k2&gt;Ctrl+D&lt;/k2&gt; per generare il documento tradotto, che verrà creato nella sottocartella /target/ all'interno della cartella del proprio progetto.</seg>
       </tuv>
     </tu>
     <tu>
