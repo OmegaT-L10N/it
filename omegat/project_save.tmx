@@ -10415,6 +10415,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to fix all tags automatically?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172500Z">
+        <seg>Sicuri di voler correggere automaticamente tutti i tag?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T111355Z">
@@ -16031,6 +16039,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110125T230721Z">
         <seg>Errore durante la decodifica dell'utente e la password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172600Z">
+        <seg>Errore durante la correzione dei tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -31264,6 +31280,14 @@ per determinare l'origine dell'errore e riprovare.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172658Z">
+        <seg>Ripetere la convalida dei tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please regard this as a sign that the verifier prefers to err on the side of caution.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T181730Z">
@@ -41937,6 +41961,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172612Z">
+        <seg>La traduzione è stata modificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation in this tmx can be either</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T140213Z">
@@ -43965,6 +43997,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T092922Z">
         <seg>Il nome immesso verrà assegnato alla cartella del progetto, e tutti i file che fanno parte del progetto verranno memorizzati in questa cartella, oppure nelle sottocartelle dalla stessa dipendenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This operation will affect {0} segments and cannot be undone.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172546Z">
+        <seg>Questa operazione riguarderà {0} segmenti e non potrà essere annullata.</seg>
       </tuv>
     </tu>
     <tu>
