@@ -560,6 +560,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Fix All</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T164926Z">
+        <seg>Correggi t&amp;utto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T102144Z">
@@ -50267,8 +50275,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20100714T094321Z">
-        <seg>Il progetto non contiene alcun file nei formati di file supportati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T164948Z">
+        <seg>Il progetto non contiene alcun file nei formati di file supportati</seg>
       </tuv>
     </tu>
     <tu>
