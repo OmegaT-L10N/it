@@ -8345,6 +8345,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>@@TRANSLATION_NOTICE@@</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173426Z">
+        <seg>Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "project" is usually synonymous with a translation job.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183424Z">
@@ -19104,14 +19112,6 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Hans-Peter Jacobs</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095454Z">
-        <seg>Hans-Peter Jacobs</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Has been tested on Linux.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193108Z">
@@ -28271,6 +28271,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T173416Z">
         <seg>File Leggimi di OmegaT 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.0, Read Me file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173440Z">
+        <seg>File Leggimi di OmegaT 3.0</seg>
       </tuv>
     </tu>
     <tu>
