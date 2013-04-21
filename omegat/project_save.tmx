@@ -11043,6 +11043,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171942Z">
+        <seg>Annidamento non corretto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T101843Z">
@@ -15176,6 +15184,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171932Z">
+        <seg>Duplica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093154Z">
@@ -16567,6 +16583,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T160806Z">
         <seg>Estrarre dal file il contenuto che dovrà essere tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172021Z">
+        <seg>Non pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -26307,6 +26331,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171956Z">
+        <seg>Mancante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T211115Z">
@@ -30651,6 +30683,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173705Z">
         <seg>In caso contrario, si può rischiare di danneggiare il documento finale e persino di impedirne l'apertura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172049Z">
+        <seg>Difettoso</seg>
       </tuv>
     </tu>
     <tu>
@@ -36930,6 +36970,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170553Z">
         <seg>TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172120Z">
+        <seg>Tabulazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -48552,6 +48600,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T212716Z">
         <seg>Durante il lavoro di traduzione, in questa cartella vengono creati (e aggiornati durante il processo di traduzione) file aggiuntivi (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx e project_name-level2.tmx&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172109Z">
+        <seg>Spazio vuoto</seg>
       </tuv>
     </tu>
     <tu>
