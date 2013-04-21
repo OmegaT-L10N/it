@@ -688,6 +688,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170029Z">
+        <seg>&amp;Ultime modifiche...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T111826Z">
@@ -24018,6 +24026,14 @@ inside the configuration folder.</seg>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T120915Z">
         <seg>Non è stato possibile creare la cartella per lo script
 all'interno della cartella di configurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170117Z">
+        <seg>Non è stato possibile creare i documenti tradotti poiché alcuni tag sono danneggiati o mancanti.</seg>
       </tuv>
     </tu>
     <tu>
