@@ -552,6 +552,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170620Z">
+        <seg>&amp;File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T092849Z">
@@ -1056,10 +1064,26 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170508Z">
+        <seg>Tokenizer lingua di &amp;partenza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T095412Z">
         <seg>&amp;Statistiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170531Z">
+        <seg>Tokenizer lingua di &amp;arrivo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26065,6 +26089,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memory</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170550Z">
+        <seg>Memoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memory assignment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T163858Z">
@@ -31062,6 +31094,14 @@ per determinare l'origine dell'errore e riprovare.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170430Z">
+        <seg>Correggere i problemi con i tag prima di usare nuovamente il comando 'Crea i documenti di arrivo'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185852Z">
@@ -31557,6 +31597,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T090803Z">
         <seg>Privacy:&lt;/s6&gt; OmegaT Java Web Start non salva informazioni utente all'esterno del computer in cui viene eseguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170625Z">
+        <seg>Pro&amp;getto</seg>
       </tuv>
     </tu>
     <tu>
@@ -33814,6 +33862,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T125551Z">
         <seg>Cerca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170547Z">
+        <seg>Cerca in</seg>
       </tuv>
     </tu>
     <tu>
@@ -36776,6 +36832,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192723Z">
         <seg>File TMX delle localizzazioni della documentazione OmegaT e di questo sito, per l'utilizzo da parte dei localizzatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170553Z">
+        <seg>TM</seg>
       </tuv>
     </tu>
     <tu>
@@ -45445,6 +45509,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091353Z">
         <seg>Traduzione dei singoli segmenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170615Z">
+        <seg>Tradotti</seg>
       </tuv>
     </tu>
     <tu>
