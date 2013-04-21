@@ -17155,6 +17155,22 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fix</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172420Z">
+        <seg>Correggi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix all</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172426Z">
+        <seg>Correggi tutto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200708Z">
@@ -30503,6 +30519,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172409Z">
+        <seg>Orfano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ossetian, Ossetic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T130846Z">
@@ -32846,8 +32870,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171143Z">
-        <seg>Rimuovi lo spazio di inizio e fine nei progetti non segmentati</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172339Z">
+        <seg>Rimuovi lo spazio vuoto di inizio e fine nei progetti non segmentati</seg>
       </tuv>
     </tu>
     <tu>
@@ -46523,6 +46547,14 @@ on line {1}, column {2}.</seg>
         <seg>Errore irrecuperabile durante l'analisi del file TMX
 {0}
 alla riga {1}, colonna {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172415Z">
+        <seg>Non specificato</seg>
       </tuv>
     </tu>
     <tu>
