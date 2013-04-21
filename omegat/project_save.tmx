@@ -1234,6 +1234,16 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
     <tu>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165220Z">
+        <seg>(per un elenco dei formati di file supportati, consultare 'File da tradurre' &gt; 'Formati dei file' nel manuale dell'utente)
+Per aggiungere file al progetto, fare clic sul pulsante Copia i file nella cartella di partenza... nella finestra File di progetto oppure richiamare la funzione dal menu Progetto; selezionare quindi i file da copiare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Import Source Files... button in the Project Files window or call this action from the Project menu and select the source files you want to import.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T092828Z">
@@ -12963,6 +12973,14 @@ Submenu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165258Z">
+        <seg>Cop&amp;ia i file nella cartella di partenza...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copies selected text to clipboard and deletes selected text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T220851Z">
@@ -13015,6 +13033,14 @@ Submenu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T220759Z">
         <seg>Copia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165308Z">
+        <seg>Copia i file nella cartella di partenza...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14901,6 +14927,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165320Z">
+        <seg>Scarica la pagina Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165339Z">
+        <seg>Scarica la pagina MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T155911Z">
@@ -16571,6 +16613,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172553Z">
         <seg>Usare il comando File &gt; Salva con nome, attribuirgli un nome e salvarlo in formato .odt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165359Z">
+        <seg>Copia dei file non riuscita</seg>
       </tuv>
     </tu>
     <tu>
