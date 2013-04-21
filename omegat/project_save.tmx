@@ -14609,6 +14609,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag issues</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171458Z">
+        <seg>Non consentire la creazione di documenti di arrivo con problemi di tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not click on &lt;/f0&gt;&lt;f1&gt;"Browse" or otherwise change the default locations of the project folders &lt;/f1&gt;&lt;f2&gt;(directories).&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;You have now created an empty project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T215548Z">
@@ -35854,8 +35862,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Source File Encoding:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20100715T103605Z">
-        <seg>Codifica file sorgente:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171516Z">
+        <seg>Codifica file di partenza:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45613,8 +45621,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translated File Encoding:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20100715T103636Z">
-        <seg>Codifica file tradotto:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171523Z">
+        <seg>Codifica file di arrivo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47492,6 +47500,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100717T094007Z">
         <seg>Convalida i tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171334Z">
+        <seg>Convalida i tag quando esci da un segmento</seg>
       </tuv>
     </tu>
     <tu>
