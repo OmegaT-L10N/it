@@ -17413,8 +17413,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120526T180732Z">
-        <seg>È disponibile un'introduzione più completa in &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; nel sito web di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173253Z">
+        <seg>È disponibile un'introduzione più completa nel documento &lt;u0&gt;OmegaT per principianti&lt;/u0&gt; presente nel sito web di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51865,6 +51865,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095358Z">
         <seg>http://www.omegat.org/en/translation-info.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173208Z">
+        <seg>http://www.omegat.org/it/tutorial/OmegaT%20for%20Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
