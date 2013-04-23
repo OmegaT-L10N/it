@@ -11161,8 +11161,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132431Z">
-        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono propri tag in linea di OmegaT (la funzionalità tag inline di OmegaT, come ad esempio la funzione di convalida tag, non è disponibile in questo caso, comunque).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132952Z">
+        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono i tag  propri di OmegaT (la funzionalità tag inline di OmegaT, come ad esempio la funzione di convalida tag, non è disponibile in questo caso, comunque).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23261,9 +23261,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132446Z">
-        <seg>
-Tag inline all'interno dei segmenti hanno la forma di numeri di serie tra parentesi graffe, ad esempio {1}, {2}, ecc.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132905Z">
+        <seg>I tag all'interno dei segmenti hanno la forma di serie di numeri tra parentesi graffe, ad esempio {1}, {2}, ecc.</seg>
       </tuv>
     </tu>
     <tu>
