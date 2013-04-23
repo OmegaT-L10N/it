@@ -11023,8 +11023,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130734Z">
-        <seg>Un file di Déjà Vu "External View" prende la forma di un file RTF che contiene una tabella a più colonne, tra cui colonne per la fonte e testo di destinazione, in cui ogni segmento occupa una cella di tabella.
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132009Z">
+        <seg>Un file "External View" di Déjà Vu prende la forma di un file RTF che contiene una tabella a più colonne, tra cui colonne per il testo di origine e di destinazione, in cui ogni segmento occupa una cella di tabella.
 </seg>
       </tuv>
     </tu>
@@ -22235,8 +22235,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In an as-yet untranslated "External View" file, the target column is empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130755Z">
-        <seg>In un file come-ancora non tradotto "Vista esterna", la colonna di destinazione è vuota.
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132118Z">
+        <seg>In un file "Vista esterna" ancora non tradotto, la colonna di destinazione è vuota.
 </seg>
       </tuv>
     </tu>
