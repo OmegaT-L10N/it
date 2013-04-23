@@ -9292,6 +9292,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;s0&gt;target&lt;/s0&gt; column of the original file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132413Z">
+        <seg>Dopo aver completato la traduzione e la creazione dei documenti tradotti, copiare la colonna tradotta dal file tradotto nuovamente dentro il bersaglio &lt;s0&gt; &lt;/ s0&gt; colonna del file originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout directory you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T114133Z">
@@ -11147,6 +11155,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152857Z">
         <seg>Fare attenzione a scegliere un font che contiene caratteri "normale", come ad esempio MS Mincho, ma senza il suffisso di stile "[corpo testo]" e asiatici necessari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132431Z">
+        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono propri tag in linea di OmegaT (la funzionalità tag inline di OmegaT, come ad esempio la funzione di convalida tag, non è disponibile in questo caso, comunque).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23231,6 +23247,15 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193238Z">
         <seg>In principio, quando si crea il progetto, la memoria di traduzione principale, &lt;f0&gt;project_save.tmx&lt;/f0&gt;, è vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132446Z">
+        <seg>
+Tag inline all'interno dei segmenti hanno la forma di numeri di serie tra parentesi graffe, ad esempio {1}, {2}, ecc.</seg>
       </tuv>
     </tu>
     <tu>
