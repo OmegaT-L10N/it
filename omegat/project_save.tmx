@@ -27717,8 +27717,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152914Z">
-        <seg>Si noti che anche dopo che le impostazioni di Word sono state modificate in modo che esso non inserire codici "fastidio", ad esempio per la sillabazione automatica, tali codici possono essere ancora presenti nel file e non rimosso dal cambiamento nella configurazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143830Z">
+        <seg>Si noti che anche dopo che le impostazioni di Word sono state modificate in modo che esso non inserisca codici "fastidiosi", ad esempio per la sillabazione automatica, tali codici possono essere ancora presenti nel file e non siano rimossi dal cambiamento nella configurazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33030,8 +33030,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Removal of these codes is described below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152921Z">
-        <seg>Rimozione di questi codici è descritto di seguito.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143938Z">
+        <seg>La rimozione di questi codici è descritta di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44396,8 +44396,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This tag apparently cannot be removed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152910Z">
-        <seg>Questo tag apparentemente non può essere rimosso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143749Z">
+        <seg>Questo tag sembra non possa essere rimosso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49305,8 +49305,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152902Z">
-        <seg>Word 2007 inserisce un tag a interruzioni di pagina, interruzioni di pagina automatiche anche.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143710Z">
+        <seg>Word 2007 inserisce un tag alle interruzioni di pagina, anche per le interruzioni di pagina automatiche.</seg>
       </tuv>
     </tu>
     <tu>
