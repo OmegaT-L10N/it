@@ -49313,8 +49313,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Word 2007 marks any words not in its spelling dictionary with tags, so even a couple of words which it considers to be mis-spelt will result in a plethora of tags.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152809Z">
-        <seg>Word 2007 segna tutte le parole non nel suo dizionario ortografico con tag, quindi anche un paio di parole che ritiene di essere mis-spelt si tradurrà in una pletora di tag.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T142509Z">
+        <seg>Word 2007 segna tutte le parole non presenti nel suo dizionario ortografico con tag, quindi anche un paio di parole che ritiene essere errori ortografici si tradurranno in una pletora di tag.</seg>
       </tuv>
     </tu>
     <tu>
