@@ -11072,8 +11072,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Background</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150705Z">
-        <seg>Sfondo</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T140819Z">
+        <seg>Premesse</seg>
       </tuv>
     </tu>
     <tu>
@@ -25362,6 +25362,14 @@ experience bugs, display problems or missing features.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux users: both MS Office 2007 and the Microsoft compatibility plug-in run on &lt;a0&gt;Crossover Linux.&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141227Z">
+        <seg>Utenti di Linux: sia MS Office 2007 che i plug-in di compatibilità con Microsoft  funzionano in &lt;a0&gt;Linux Crossover.&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux users: note that OmegaT does not work with the free/open-source Java 
 implementations that are packaged with many Linux distributions (for example, 
 Ubuntu), as these are either outdated or incomplete.</seg>
@@ -31604,8 +31612,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Points to note when using the .docx, .xlsx and .pptx formats in OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152357Z">
-        <seg>Punti da tenere presente nell'uso dei formati docx, xlsx e pptx in OmegaT</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141246Z">
+        <seg>Punti da tenere presente nell'uso dei formati .docx, .xlsx e .pptx in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
