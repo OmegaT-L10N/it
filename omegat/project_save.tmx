@@ -8369,6 +8369,17 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130816Z">
+        <seg>
+Un file di Vista esterna "tradotto" è prodotto inserendo la traduzione nella colonna di destinazione.
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191623Z">
@@ -11007,6 +11018,15 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212142Z">
         <seg>Azero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130734Z">
+        <seg>Un file di Déjà Vu "External View" prende la forma di un file RTF che contiene una tabella a più colonne, tra cui colonne per la fonte e testo di destinazione, in cui ogni segmento occupa una cella di tabella.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -22214,6 +22234,15 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In an as-yet untranslated "External View" file, the target column is empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130755Z">
+        <seg>In un file come-ancora non tradotto "Vista esterna", la colonna di destinazione è vuota.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172421Z">
@@ -22867,6 +22896,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161756Z">
         <seg>Nella modalità quiet vengono registrate meno informazioni a video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130709Z">
+        <seg>Allo stesso modo, gli utenti di strumenti CAT, tra OmegaT, che non possiedono deja vu in grado di tradurre i file preparati da un utente Déjà Vu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45465,6 +45502,14 @@ read:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T180458Z">
         <seg>Per tradurre l'interfaccia utente di OmegaT, il manuale per l'utente o altri documenti correlati, leggere prima la guida &lt;a0&gt;Localizing and customizing OmegaT&lt;/a0&gt; e iscriversi al &lt;a1&gt;gruppo di traduttori di OmegaT&lt;/a1&gt; (via web o inviando un messaggio di posta elettronica a &lt;a2&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a2&gt; inserendo "subscribe" nella riga dell'oggetto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate the file in OmegaT, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130829Z">
+        <seg>Per tradurre il file in OmegaT, procedere come segue:</seg>
       </tuv>
     </tu>
     <tu>
