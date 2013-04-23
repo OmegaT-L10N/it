@@ -1367,8 +1367,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152703Z">
-        <seg>(La maggiore facilità di tag gestione con i file docx arriva al costo di una leggera perdita di controllo sulla formattazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141553Z">
+        <seg>(La maggiore facilità di gestione dei tag con i file .docx arriva al costo di una leggera perdita di controllo sulla formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22187,8 +22187,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152500Z">
-        <seg>Nelle versioni di OmegaT prima 2.1.8, ogni cambiamento di formattazione in un file di MS Office 2007 ha provocato una lunga serie di tag multipli, che spesso ha reso impraticabile gestire questo formato di file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141445Z">
+        <seg>Nelle versioni di OmegaT precedenti alla 2.1.8, ogni cambiamento di formattazione in un file di MS Office 2007 ha provocato una lunga serie di tag multipli, che spesso hanno reso impraticabile gestire questo formato di file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26781,8 +26781,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Most users will probably find that the greater ease of use outweighs this drawback.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152733Z">
-        <seg>Maggior parte degli utenti probabilmente troveranno che la maggiore facilità di utilizzo supera questo inconveniente.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141737Z">
+        <seg>La maggior parte degli utenti probabilmente troverà che la maggiore facilità di utilizzo supera questo inconveniente.)</seg>
       </tuv>
     </tu>
     <tu>
