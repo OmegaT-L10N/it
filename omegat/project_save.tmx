@@ -11153,8 +11153,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Be careful to choose a font that contains both the necessary Asian and "normal" characters, such as MS Mincho, but without the "[text body]" style suffix.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152857Z">
-        <seg>Fare attenzione a scegliere un font che contiene caratteri "normale", come ad esempio MS Mincho, ma senza il suffisso di stile "[corpo testo]" e asiatici necessari.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143611Z">
+        <seg>Fare attenzione a scegliere un tipo di carattere che contiene i caratteri "normali", come ad esempio "MS Mincho", ma senza il suffisso di stile "[corpo testo]" che quelli asiatici necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22003,8 +22003,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If your text contains both Asian and "normal" (e.g. Latin) characters, use Ctrl+A to select the entire text, then select a single font for it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152852Z">
-        <seg>Se il testo contiene caratteri (ad esempio latino) "normale" e asiatici, utilizzare Ctrl + A per selezionare tutto il testo, quindi selezionare un singolo carattere per esso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143432Z">
+        <seg>Se il testo contiene sia caratteri "normale" (ad esempio latini) che asiatici, utilizzare Ctrl + A per selezionare tutto il testo, quindi selezionare un singolo carattere per esso.</seg>
       </tuv>
     </tu>
     <tu>
