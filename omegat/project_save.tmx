@@ -13107,6 +13107,14 @@ Submenu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert the file from RTF to OpenOffice.org format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132534Z">
+        <seg>Convertire il file dal formato RTF in formato OpenOffice.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converting to MS Office 2007 format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152047Z">
@@ -25887,6 +25895,15 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185400Z">
         <seg>In genere si dovrebbe evitare di apportare grosse modifiche alle regole di segmentazione, in particolar modo dopo il completamento di una prima bozza di traduzione, ma potrebbero essere utili modifiche minori, come l'aggiunta di un'abbreviazione riconosciuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make a copy of the External View file, and delete from it the content of all columns except the source-text column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132656Z">
+        <seg>Creare una copia del file Vista esterna, ed eliminare da esso il contenuto di tutte le colonne tranne la colonna del testo di origine.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -45864,6 +45881,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091353Z">
         <seg>Traduzione dei singoli segmenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate this file in OmegaT in the usual way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132724Z">
+        <seg>Tradurre il file con OmegaT nel solito modo.</seg>
       </tuv>
     </tu>
     <tu>
