@@ -9951,8 +9951,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153000Z">
-        <seg>Un'alternativa all'esecuzione della macro CodeZapper sul vostro testo è quello di "livello" la formattazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144535Z">
+        <seg>Un'alternativa all'esecuzione della macro CodeZapper sul vostro testo è quello di "livellare" la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10599,8 +10599,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As already mentioned, this problem with MS Office 2007 is not unique to OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152941Z">
-        <seg>Come già accennato, questo problema con MS Office 2007 non è univoco di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144328Z">
+        <seg>Come già accennato, questo problema con MS Office 2007 non è limitato solo a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12726,6 +12726,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (release manager), Kim Bruning, Alex 
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T231107Z">
         <seg>Hanno contribuito al codice:
 Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, Alex Buloichik, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Thomas Huriaux, Ibai Lakunza Velasco, Fabián Mandelbaum, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Antonio Vilei e Martin Wunderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CodeZapper macro</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144252Z">
+        <seg>Macro CodeZapper</seg>
       </tuv>
     </tu>
     <tu>
@@ -46318,8 +46326,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translator &lt;a0&gt;David Turner&lt;/a0&gt; has written an MS Word macro (strongly recommended!) to deal with the problem.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152947Z">
-        <seg>Traduttore &lt;a0&gt;David Turner&lt;/a0&gt; ha scritto una macro di MS Word (consigliata!) per affrontare il problema.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144428Z">
+        <seg>Il traduttore &lt;a0&gt;David Turner&lt;/a0&gt; ha scritto una macro di MS Word (vivamente consigliata!) per affrontare il problema.</seg>
       </tuv>
     </tu>
     <tu>
