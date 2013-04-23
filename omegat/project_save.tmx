@@ -13107,6 +13107,14 @@ Submenu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert the file back to RTF format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T133452Z">
+        <seg>Riconvertire il file di nuovo in formato RTF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert the file from RTF to OpenOffice.org format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132534Z">
