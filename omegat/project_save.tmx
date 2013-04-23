@@ -11053,8 +11053,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Background situation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130125Z">
-        <seg>situazione di fondo
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130255Z">
+        <seg>Situazione di fondo
 </seg>
       </tuv>
     </tu>
@@ -23792,6 +23792,18 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T092955Z">
         <seg>Non include la correzione ortografica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130602Z">
+        <seg>
+
+Consente editori che non possiedono deja vu per modificare le traduzioni prodotte in Déjà Vu, in modo che le modifiche possano essere reintrodotte facilmente.
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -38128,6 +38140,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130539Z">
+        <seg>La "vista esterna" Déjà Vu formato di file è una caratteristica di Déjà Vu DVX..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T204725Z">
@@ -43168,8 +43188,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External Views" file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130235Z">
-        <seg>Ciò può essere ottenuto (per Déjà Vu DVX) mediante l'uso di formato di file di Déjà Vu "Esterno Vista".
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130518Z">
+        <seg>Ciò può essere ottenuto (per Déjà Vu DVX) mediante l'uso di formato di file di Déjà Vu "Viste esterne".
 </seg>
       </tuv>
     </tu>
@@ -49394,9 +49414,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You are an OmegaT user and are requested by a customer to deliver a translation in Déjà Vu's file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130208Z">
-        <seg>
-Sei un utente OmegaT e viene richiesto da un cliente per fornire una traduzione in formato di file di Déjà Vu.
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130333Z">
+        <seg>Sei un utente OmegaT e viene richiesto da un cliente di fornire una traduzione in formato file di Déjà Vu.
 </seg>
       </tuv>
     </tu>
