@@ -26197,8 +26197,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153029Z">
-        <seg>Contrassegnare ogni paragrafo facendo clic su di esso ripetutamente finché non viene evidenziato l'intero paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145223Z">
+        <seg>Seleziona ogni paragrafo facendo clic su di esso ripetutamente finché non viene evidenziato l'intero paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36692,6 +36692,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 2: Copy this highlighted text (Ctrl+C).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145425Z">
+        <seg>Passo 2: copiare il testo evidenziato (Ctrl+C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Steps to reproduce</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T174116Z">
@@ -42492,8 +42500,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153042Z">
-        <seg>Quindi di spostare il fine dell'evidenziando il carattere a sinistra, in modo che non include il segno di paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145308Z">
+        <seg>Quindi di spostare la fine della selezione un carattere a sinistra, in modo che non includa il segno di paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
