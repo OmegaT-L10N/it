@@ -20183,8 +20183,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If every single word in OmegaT is enclosed within tags, it is possible that Word has attempted to spell-check the text without access to a suitable spelling dictionary, and has therefore marked each word as mis-spelt.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152819Z">
-        <seg>Se ogni singola parola in OmegaT è racchiuso all'interno di tag, è possibile che la parola ha tentato di eseguire il controllo ortografico del testo senza accesso a un dizionario di ortografia adatto e quindi ha segnato ogni parola come mis-spelt.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T142935Z">
+        <seg>Se ogni singola parola in OmegaT è racchiusa all'interno di tag, è possibile che Word che abbia tentato di eseguire il controllo ortografico del testo senza accesso a un dizionario di ortografia adatto e quindi ha segnato ogni parola come errore ortografico.</seg>
       </tuv>
     </tu>
     <tu>
