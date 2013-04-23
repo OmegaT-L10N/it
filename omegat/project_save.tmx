@@ -22474,6 +22474,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for this procedure to be used, the Déjà Vu user must prepare the source text file and supply it to the translator in the Déjà Vu "External View" format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T133955Z">
+        <seg>Per usare questa procedura, l'utente Déjà Vu deve preparare il file di testo di origine e fornirlo al traduttore nel formato Déjà Vu "External View".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185640Z">
@@ -26655,6 +26663,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192424Z">
         <seg>È possibile reperire ulteriori informazioni nel capitolo &lt;l1&gt;Traduzione automatica&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools, can be found on the &lt;a0&gt;relevant Atril page&lt;/a0&gt;, and on the helpful &lt;a1&gt;blog maintained by Kevin Lossner&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T133912Z">
+        <seg>Maggiori informazioni sul formato e la procedura per la sua creazione, sia per gli utenti di Déjà Vu e che di altri strumenti CAT, si possono trovare sulla &lt;a0&gt; pagina rilevante di Atril &lt;/a0&gt;, e sull'utile blog &lt;a1&gt; mantenuto da Kevin Lossner &lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
