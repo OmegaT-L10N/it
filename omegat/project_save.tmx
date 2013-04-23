@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>"Levelling" the formatting means applying the format of the first character in a selection of text (such as a whole paragraph) to all subsequent characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153004Z">
-        <seg>"Livellare" la formattazione significa applicare il formato del primo carattere in una selezione di testo (ad esempio un paragrafo intero) di tutti i caratteri successivi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144641Z">
+        <seg>"Livellare" la formattazione significa applicare il formato del primo carattere in una selezione di testo (ad esempio un paragrafo intero) a tutti i caratteri successivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25238,8 +25238,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Levelling character formatting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152954Z">
-        <seg>Formattazione del carattere di livellamento</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144627Z">
+        <seg>Livellamento della formattazione dei caratteri</seg>
       </tuv>
     </tu>
     <tu>
@@ -27973,8 +27973,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that this is not the same as "deleting" the formatting, which would cause the character formatting to revert to the document's default.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153008Z">
-        <seg>Si noti che questo non è lo stesso di "eliminare" la formattazione, che causerebbe la formattazione del carattere tornare all'impostazione predefinita del documento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144751Z">
+        <seg>Si noti che questo non è lo stesso di "eliminare" la formattazione, che causerebbe alla formattazione del carattere di tornare all'impostazione predefinita del documento.</seg>
       </tuv>
     </tu>
     <tu>
