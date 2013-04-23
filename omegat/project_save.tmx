@@ -8371,9 +8371,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130816Z">
-        <seg>
-Un file di Vista esterna "tradotto" è prodotto inserendo la traduzione nella colonna di destinazione.
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130940Z">
+        <seg>Un file di Vista esterna "tradotto" è prodotto inserendo la traduzione nella colonna di destinazione.
 
 </seg>
       </tuv>
@@ -43225,8 +43224,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External Views" file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130518Z">
-        <seg>Ciò può essere ottenuto (per Déjà Vu DVX) mediante l'uso di formato di file di Déjà Vu "Viste esterne".
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T131211Z">
+        <seg>Ciò può essere ottenuto (per Déjà Vu DVX) mediante l'uso del formato di file "Viste esterne" di Déjà Vu.
 </seg>
       </tuv>
     </tu>
@@ -49459,8 +49458,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You are an OmegaT user and are requested by a customer to deliver a translation in Déjà Vu's file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130333Z">
-        <seg>Sei un utente OmegaT e viene richiesto da un cliente di fornire una traduzione in formato file di Déjà Vu.
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T131049Z">
+        <seg>Sei un utente OmegaT e viene richiesto da un cliente di fornirgli una traduzione in formato file Déjà Vu.
 </seg>
       </tuv>
     </tu>
