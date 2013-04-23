@@ -9294,8 +9294,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;s0&gt;target&lt;/s0&gt; column of the original file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132413Z">
-        <seg>Dopo aver completato la traduzione e la creazione dei documenti tradotti, copiare la colonna tradotta dal file tradotto nuovamente dentro il bersaglio &lt;s0&gt; &lt;/ s0&gt; colonna del file originale.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T133246Z">
+        <seg>Dopo aver completato la traduzione e la creazione dei documenti tradotti, copiare la colonna tradotta dal file tradotto nuovamente dentro la colonna &lt;s0&gt; destinazione &lt;/s0&gt; del file originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11161,8 +11161,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132952Z">
-        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono i tag  propri di OmegaT (la funzionalità tag inline di OmegaT, come ad esempio la funzione di convalida tag, non è disponibile in questo caso, comunque).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T133133Z">
+        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono i tag propri di OmegaT (la funzionalità tag inline di OmegaT, come pure la funzione di convalida tag, non è disponibile in questo caso, comunque).</seg>
       </tuv>
     </tu>
     <tu>
