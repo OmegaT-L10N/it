@@ -11578,8 +11578,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190224Z">
-        <seg>Bug, richieste di nuove funzionalità e problemi di documentazione sono gestite su Sourceforge dai seguenti sistemi di revisione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T151339Z">
+        <seg>Errori (bug), richieste di nuove funzionalità e problemi di documentazione sono gestite su Sourceforge dai seguenti sistemi di revisione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23938,8 +23938,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190133Z">
-        <seg>Sistema di revisione di problemi/bug</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T151314Z">
+        <seg>Sistema di revisione dei problemi (bug)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31786,8 +31786,8 @@ per determinare l'origine dell'errore e riprovare.</seg>
       <tuv lang="EN">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185852Z">
-        <seg>Non utilizzare questi sistemi di rilevamento prima prima di aver sollevato la questione dell'user group e/o nella mailing list.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T151249Z">
+        <seg>Non utilizzare questi sistemi di revisione prima di aver sollevato la questione nel gruppo utenti e/o nella mailing list.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44596,8 +44596,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This mailing list is for localizers of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185648Z">
-        <seg>Questa mailing list è per i localizzatori di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T151059Z">
+        <seg>Questa mailing list è dedicata ai localizzatori di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
