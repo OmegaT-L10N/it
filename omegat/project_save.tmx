@@ -1447,8 +1447,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.) OmegaT has the following features:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150249Z">
-        <seg>(Software che fa questo è chiamato "traduzione automatica", e si dovrà cercare altrove). OmegaT ha le seguenti caratteristiche:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T211722Z">
+        <seg>(Il software che fa questo è chiamato "traduttore automatico", e si dovrà cercare altrove). OmegaT ha le seguenti caratteristiche:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20283,8 +20283,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>Fuzzy matching</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150253Z">
-        <seg>Corrispondenza fuzzy</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T211744Z">
+        <seg>Corrispondenza parziale (fuzzy)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26530,8 +26530,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It does not translate for you!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150246Z">
-        <seg>Essa non si traduce per te!</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T211646Z">
+        <seg>Essa non traduce per te!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29237,8 +29237,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Match propagation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150255Z">
-        <seg>Propagazione di corrispondenza</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T211758Z">
+        <seg>Propagazione della corrispondenza</seg>
       </tuv>
     </tu>
     <tu>
@@ -32221,8 +32221,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is a free translation memory application written in Java.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150242Z">
-        <seg>OmegaT è un'applicazione di memoria di traduzione gratuito scritta in Java.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T211630Z">
+        <seg>OmegaT è un'applicazione di memoria di traduzione gratuita scritta in Java.</seg>
       </tuv>
     </tu>
     <tu>
