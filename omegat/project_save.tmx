@@ -1349,6 +1349,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.) OmegaT has the following features:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150249Z">
+        <seg>(Software che fa questo è chiamato "traduzione automatica", e si dovrà cercare altrove). OmegaT ha le seguenti caratteristiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192711Z">
@@ -2295,6 +2303,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212219Z">
         <seg>...corrisponde al seguente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150340Z">
+        <seg>... e circa 30 altri formati di file</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,6 +12922,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150401Z">
+        <seg>Compatibile con altre applicazioni di memoria di traduzione (TMX, TTX, XML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T085442Z">
@@ -14921,6 +14945,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T121148Z">
         <seg>file DocuWiki (*.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Document file formats include:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150306Z">
+        <seg>Formati di file di documento includono: &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18533,6 +18565,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T183116Z">
         <seg>Pannello delle concordanze parziali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150253Z">
+        <seg>Corrispondenza fuzzy</seg>
       </tuv>
     </tu>
     <tu>
@@ -23792,6 +23832,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150357Z">
+        <seg>Correttore ortografico integrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191954Z">
@@ -24056,6 +24104,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150246Z">
+        <seg>Essa non si traduce per te!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T131556Z">
@@ -24110,6 +24166,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T102910Z">
         <seg>È un linguaggio a paradigma multiplo, che supporta gli stili di programmazione funzionali, imperativi e orientati agli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150244Z">
+        <seg>È uno strumento progettato per traduttori professionisti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26459,6 +26523,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150255Z">
+        <seg>Propagazione di corrispondenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match statistics</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T182940Z">
@@ -26679,6 +26751,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T194157Z">
         <seg>Il Client ID o il Client Secret di Microsoft Translator non è disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Word, Excel, Powerpoint (.docx, .xlsx, .pptx)&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150308Z">
+        <seg>Microsoft Word, Excel, Powerpoint (con estensione docx, xlsx, pptx) &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29227,6 +29307,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free translation memory application written in Java.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150242Z">
+        <seg>OmegaT è un'applicazione di memoria di traduzione gratuito scritta in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a robust application.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T211959Z">
@@ -30631,6 +30719,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150319Z">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org) &lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132003Z">
@@ -31604,6 +31700,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231303Z">
         <seg>Metodi per file di solo testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150331Z">
+        <seg>Testo &lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36060,6 +36164,22 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150258Z">
+        <seg>Elaborazione simultanea di più file progetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150300Z">
+        <seg>Uso simultaneo di diverse memorie di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use &lt;a1&gt;Segmentation rules&lt;/a1&gt; to create segments with less tags.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T214629Z">
@@ -37314,6 +37434,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T162828Z">
         <seg>Sondanese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150350Z">
+        <seg>Supporto per le lingue destra-sinistra</seg>
       </tuv>
     </tu>
     <tu>
@@ -46972,6 +47100,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150346Z">
+        <seg>Supporto Unicode (UTF-8): può essere utilizzato con alfabeti non latini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unifying used fonts, font sizes, colors etc should be considered if possible as it could simplify the translation and reduce the possibility for tag errors.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T212933Z">
@@ -47780,6 +47916,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T192856Z">
         <seg>Posizione dei file dell'utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150303Z">
+        <seg>Glossari di utente con riconoscimento delle forme flesse</seg>
       </tuv>
     </tu>
     <tu>
