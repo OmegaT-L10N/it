@@ -23864,6 +23864,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150422Z">
+        <seg>Interfaccia di Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Internet references</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T085615Z">
@@ -48341,14 +48349,6 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T101941Z">
         <seg>VLDocking Framework 2.1.4 di VLSolutions (licenza CeCILL)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Valid XHTML</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181008Z">
-        <seg>XHTML valido</seg>
       </tuv>
     </tu>
     <tu>
