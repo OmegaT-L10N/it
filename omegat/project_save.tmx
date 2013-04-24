@@ -1333,6 +1333,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183339Z">
+        <seg>(OmegaT è lungi dall'essere unica a questo proposito: molti altri strumenti CAT convertono i file di origine in un formato diverso, in alcuni casi in background senza il traduttore, essendo a conoscenza del fatto, prima che essi sono tradotti.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See User's Manual for how to set up a glossary.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185300Z">
@@ -8572,6 +8580,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A general observation: "compatibility" is rarely a black and white, "yes" or "no" issue.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183144Z">
+        <seg>Un'osservazione generale: "compatibilità" è raramente un bianco e nero, "sì" o "no" problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T184357Z">
@@ -10809,6 +10825,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T220615Z">
         <seg>Alla fine del lavoro, OmegaT esporta nella cartella del progetto tre memorie di traduzione chiamate "level1", "level2" e "omegat".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183204Z">
+        <seg>Al momento attuale, questo include tutte le versioni di Microsoft Windows, da Windows 98 in poi, la maggior parte delle distribuzioni Linux e Mac OS X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13199,6 +13223,14 @@ Submenu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194352Z">
         <seg>Comode funzioni alternative o soluzioni possono anche esistere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conversely, where products are clearly not directly compatible, it is often possible to find procedures by which they can work together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183149Z">
+        <seg>Al contrario, quando i prodotti non siano chiaramente direttamente compatibile, è spesso possibile trovare procedure che possono lavorare insieme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18305,6 +18337,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183251Z">
+        <seg>Per gli utenti di Microsoft Office che non (ancora) dispone della versione 2007, conversione tra il formato Office Open XML e di Microsoft Office 98-2003 può essere ottenuta utilizzando un convertitore plug-in gratuito disponibile &lt;a0&gt;qui&lt;/a0&gt; da Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152240Z">
@@ -18648,6 +18688,14 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T184427Z">
         <seg>Generale
 Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Environment (JRE) versione 1.5 o superiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General comments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183130Z">
+        <seg>Commenti generali &amp;&amp;&amp;&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22626,6 +22674,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183238Z">
+        <seg>Infatti, la loro struttura è molto simile a quello dei file di OpenOffice.org: consiste in un archivio zip contenente più file e i file contenenti il testo sono basati su standard XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T082021Z">
@@ -22742,6 +22798,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T142225Z">
         <seg>Per selezionare il tipo di segmentazione, selezionare &lt;s0&gt;Progetto → Proprietà...&lt;/s0&gt; dalla barra dei menu e attivare la casella ivi presente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other words, "compatibility" is not only about products, but also about workflows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183154Z">
+        <seg>In altre parole, la "compatibilità" è non solo sui prodotti, ma anche sui flussi di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23828,6 +23892,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091255Z">
         <seg>Guida di avvio rapido - Manuale per l'Utente di OmegaT 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183336Z">
+        <seg>Invece, si deve prima essere convertiti manualmente Office Open XML (MS Office 2007/2010) o Open Document format (LibreOffice o OpenOffice.org) prima che possono essere gestiti in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25591,6 +25663,14 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux users can use this version of the standalone &lt;a0&gt;conversion utility&lt;/a0&gt; to convert directly between Office Open XML and OpenDocument Format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183315Z">
+        <seg>Gli utenti Linux possono utilizzare questa versione standalone &lt;a0&gt;utility di conversione&lt;/a0&gt; per convertire direttamente tra Office Open XML e il formato OpenDocument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux users may find that, depending upon the font type and size selected, "on" or "lcd" enhance the appearance of fonts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100418Z">
@@ -25922,6 +26002,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T101420Z">
         <seg>Utenti di Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X users can convert directly from Office Open XML to OpenDocument Format and back in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183310Z">
+        <seg>Gli utenti Mac OS X possono convertire direttamente da Office Open XML nel formato OpenDocument e torna in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28603,6 +28691,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183300Z">
+        <seg>Office Open XML possono essere convertiti direttamente in formato di documento aperto e indietro attraverso il convertitore ODF, disponibile &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important.In the source file (and in the translated file), A source sentence might look like</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T214125Z">
@@ -29075,6 +29171,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not support these formats directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183334Z">
+        <seg>OmegaT non supporta questi formati direttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT doesn't automatically detect faulty tagging in the translated document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T203834Z">
@@ -29235,6 +29339,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183411Z">
+        <seg>OmegaT ha filtri file per entrambi Open Document Format e per il formato di Star Office che ha sostituito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T212659Z">
@@ -29375,6 +29487,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190445Z">
         <seg>OmegaT è disponibile in diverse versioni per soddisfare una gamma di esigenze degli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183223Z">
+        <seg>OmegaT è in grado di gestire che la corrente Microsoft Office formati direttamente, senza conversione da o verso altri formati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29735,6 +29855,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T224255Z">
         <seg>OmegaT tiene traccia dei segmenti eseguiti. Con questo comando si può saltare al segmento lasciato in precedenza tramite il comando "indietro nella cronologia".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT runs on any operating system on which a suitable version of the Java Runtime Environment (JRE) can be run.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183201Z">
+        <seg>OmegaT gira su qualsiasi sistema operativo su cui è possibile eseguire una versione adatta di Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30987,6 +31115,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T141555Z">
         <seg>Apre la finestra di convalida dei tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating systems</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183157Z">
+        <seg>Sistemi operativi</seg>
       </tuv>
     </tu>
     <tu>
@@ -32907,6 +33043,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RTF is structurally quite different from the Microsoft Office 98-2003 file format, but with regard to OmegaT, the same applies: it is not supported directly and must first be converted to .docx (MS Office 2007/2010) or Open Document format (LibreOffice/OpenOffice.org).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183347Z">
+        <seg>RTF è strutturalmente molto diverso dal formato di file Microsoft Office 98-2003, ma per quanto riguarda OmegaT, lo stesso si applica: esso non è supportato direttamente, è necessario prima convertire docx (MS Office 2007/2010) o Open Document format (LibreOffice/OpenOffice.org).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL - changing the direction</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092848Z">
@@ -32987,6 +33131,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recent versions of OpenOffice.org are able to convert between Microsoft Office 2007 and Open Document Format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183322Z">
+        <seg>Le versioni recenti di OpenOffice.org sono in grado di convertire tra Microsoft Office 2007 e Open Document Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T150951Z">
@@ -33031,6 +33183,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T135355Z">
         <seg>Ripristina le ultime azioni di modifica nel segmento di destinazione attivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refer to the OmegaT user manual for an up-to-date list of all supported file formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183210Z">
+        <seg>Consultare il manuale utente di OmegaT per un elenco aggiornato di tutti i formati di file supportati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36188,6 +36348,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183138Z">
+        <seg>Dal momento che è la procedura standard per traduttori professionisti ricevere e consegnare testi in formato digitale, gli utenti di OmegaT naturalmente sono interessati nella sua compatibilità con altri prodotti software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use &lt;a1&gt;Segmentation rules&lt;/a1&gt; to create segments with less tags.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T214629Z">
@@ -36384,6 +36552,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T162722Z">
         <seg>Somalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183330Z">
+        <seg>Alcuni strumenti CAT risolvere questo problema, almeno per MS Word, lavorando all'interno della parola stessa; la maggior parte dei altri strumenti CAT convertono in RTF e schiena, spesso invisibile per il traduttore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36736,6 +36912,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191054Z">
         <seg>Testo di origine della concordanza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source texts (files for translation)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183207Z">
+        <seg>Testi di origine (file per la traduzione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38943,6 +39127,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183235Z">
+        <seg>I formati di file di Microsoft Office 2007-2010 (noti anche come Office Open XML e con le estensioni di file con estensione docx, xlsx e pptx) è radicalmente diversa per i formati di Office 97-2003 che essi sostituiscono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats can be processed directly in OmegaT; more information can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183247Z">
+        <seg>I formati di file di Microsoft Office 2007-2010 possono essere elaborati direttamente in OmegaT; ulteriori informazioni possono essere trovate &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT developer group</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090418Z">
@@ -39043,6 +39243,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T090406Z">
         <seg>L'utente di OmegaT non è obbligato a usare Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183407Z">
+        <seg>Il formato di documento aperto è uno standard internazionale e ha sostituito l'ex proprietario (ma aperto) Star Office formato file (due formati di file diversi ma molto simili).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40813,6 +41021,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183213Z">
+        <seg>L'elenco sottostante è &lt;s0&gt;non&lt;/s0&gt; un elenco esaustivo di tutti i formati di file supportati da OmegaT, ma è limitata a quelle di particolare interesse per gli utenti tipici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location depends on the platform you use:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193025Z">
@@ -41701,6 +41917,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T084234Z">
         <seg>La qualità della traduzione dipende, naturalmente, da una parte dalla quantità presente di testi di destinazione e dalla disponibilità di una loro versione bilingue, dall'altro dalla qualità dei modelli costruiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The question which must be answered is whether these procedures are acceptable in terms of the result and the effort involved, and the answer is likely to vary from one user to another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183152Z">
+        <seg>La domanda che deve essere risolta è se queste procedure sono accettabili in termini di risultato coinvolto lo sforzo e la risposta è probabilmente variano da un utente a altro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43397,6 +43621,30 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183423Z">
+        <seg>Questi filtri di file sono eccellenti, e il rischio di danneggiare la formattazione di un LibreOffice, OpenOffice.org, file ecc durante la traduzione di OmegaT è estremamente basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183326Z">
+        <seg>Questi formati di file sono proprietarie, binario e fino a poco tempo non sono state pubblicamente documentato, tutte caratteristiche che li rendono estremamente difficile da gestire in uno strumento CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These file formats are the equivalent of Microsoft Office's formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183358Z">
+        <seg>Questi formati di file sono l'equivalente dei formati di Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These files are copies of the file &lt;f0&gt;project_save.tmx&lt;/f0&gt;, i.e. of the project's main translation memory, excluding the so-called orphan segments.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T095944Z">
@@ -43717,6 +43965,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HOWTO aims to provide information in this area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183141Z">
+        <seg>Questo HOWTO mira a fornire informazioni in questo settore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T182852Z">
@@ -43922,6 +44178,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T194029Z">
         <seg>Questo comando verrà eseguito dopo aver creato i documenti tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This converter is available for Windows and Mac.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183256Z">
+        <seg>Questo convertitore è disponibile per Windows e Mac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44618,6 +44882,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This makes it much easier for CAT tools to support it and edit it directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183241Z">
+        <seg>Questo rende molto più facile per strumenti CAT per sostenerla e modificarlo direttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual is not perfect and will be modified over the course of time and following the evolution of OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110126T194626Z">
@@ -44926,6 +45198,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T100811Z">
         <seg>Questo manuale per l'utente è frutto del lavoro congiunto di Jean-Christophe Helary, Samuel Murray, Maxym Mykhalchuk, Henry Pijffers e Vito Smolej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This utility requires a version of MS Office (XP/2003/2007).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183305Z">
+        <seg>Questa utilità richiede una versione di MS Office (XP/2003/2007).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49417,6 +49697,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T185003Z">
         <seg>Quando è possibile, si dovrebbe prendere in considerazione l'uniformazione dei caratteri utilizzati, della loro dimensione, dei loro colori ecc., in modo da semplificare il processo di traduzione e ridurre la quantità di possibili errori nei tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183147Z">
+        <seg>Il fornitore di un prodotto software che affermi che il prodotto è compatibile con un altro pezzo di software, questa compatibilità è raramente al 100%.</seg>
       </tuv>
     </tu>
     <tu>
