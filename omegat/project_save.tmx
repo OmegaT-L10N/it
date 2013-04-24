@@ -9452,6 +9452,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After entering these commands, click Stop Recording.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194340Z">
+        <seg>Dopo aver inserito questi comandi, fare clic su Stop Recording.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After launching OmegaT, the main OmegaT window should appear with three panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T124730Z">
@@ -10537,6 +10545,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anything you now do will be recorded in the macro, so follow this procedure carefully:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194314Z">
+        <seg>Qualsiasi cosa voi fare ora sarà registrato nella macro, quindi seguire questa procedura con attenzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium uses a shallow-transfer machine translation engine which processes the input text in stages, as in an assembly line: de-formatting, morphological analysis, part-of-speech disambiguation, shallow structural transfer, lexical transfer, morphological generation, and re-formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T220707Z">
@@ -10953,6 +10969,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T153939Z">
         <seg>All'inizio dell'installazione è possibile selezionare la lingua da utilizzare durante l'installazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the bottom of the dialog next to Keyboard shortcuts, click on Customize.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194517Z">
+        <seg>Nella parte inferiore della finestra di dialogo accanto a scelte rapide da tastiera, fare clic su Personalizza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12176,6 +12200,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the line:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194413Z">
+        <seg>Modificare la riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190024Z">
@@ -12544,6 +12576,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Macros from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194501Z">
+        <seg>Scegliere macro dall'elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104524Z">
@@ -12600,6 +12640,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click Customize &gt; Choose commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194456Z">
+        <seg>Fare clic su Personalizza &amp;amp;gt; scegliere comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click Popular in the Word Options dialog box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194153Z">
@@ -12612,6 +12660,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172627Z">
         <seg>Fare clic sul file .odt appena creato e trascinarlo nella cartella &lt;f0&gt;/source&lt;/f0&gt; &lt;f1&gt; de &lt;/f1&gt; &lt;f2&gt;Il mio Progetto-1&lt;/f2&gt; &lt;f3&gt; creata nel passaggio &lt;/f3&gt; &lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the box for a new keyboard combination, then experiment with keyboard combinations to find one that is not assigned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194241Z">
+        <seg>Fare clic nella casella per una nuova combinazione di tasti, poi sperimentare con combinazioni di tasti per trovare quello che non è assegnato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12644,6 +12700,30 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T205105Z">
         <seg>Fare clic Click su &lt;s0&gt;Scegli...&lt;/s0&gt; per aprire una finestra in cui selezionare la sottocartella dei vocabolari di OpenOffice.org o di Mozilla esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on Assign to assign the shortcut to the macro that you are about to record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194309Z">
+        <seg>Fare clic su assegna per assegnare la scorciatoia per la macro che si sta per registrare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on Macros and select levelformat (or whatever name you gave to your macro), then Edit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194344Z">
+        <seg>Fare clic su macro e seleziona levelformat (o qualunque sia il nome ha dato alla vostra macro), quindi modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the Keyboard button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194238Z">
+        <seg>Fare clic sul pulsante tastiera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12718,6 +12798,14 @@ application folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213841Z">
         <seg>Fare clic su quello o quelli che si desiderano e premere "Installa", quindi chiudere il riquadro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the paragraph mark button to make paragraph marks visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194213Z">
+        <seg>Clicca sul pulsante mark paragrafo fare punto contrassegna visibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13885,6 +13973,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create the macro:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194221Z">
+        <seg>Creare la macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create the target documents by selecting Project &gt; Create Translated Documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T085028Z">
@@ -14061,6 +14157,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+C (this copies the paragraph)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194333Z">
+        <seg>CTRL + C (questo copia il paragrafo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Cursor Up (this takes the cursor to the beginning of the paragraph)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194321Z">
+        <seg>CTRL + cursore Up (questo richiede il cursore all'inizio del paragrafo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Delete</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T105821Z">
@@ -14125,6 +14237,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+9 appears not to be assigned to any other function in the basic Word installation, but you can use any other combination that has not already been assigned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194305Z">
+        <seg>CTRL+MAIUSC+9 non sembra essere assegnate a qualsiasi altra funzione nell'installazione base di Word, ma è possibile utilizzare qualsiasi altra combinazione che non è già stata assegnata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+Cursor Down (this selects the paragraph, including the paragraph mark)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194325Z">
+        <seg>CTRL + MAIUSC + cursore verso il basso (seleziona il paragrafo, includendo il segno di paragrafo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+I</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T222441Z">
@@ -14169,6 +14297,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T220240Z">
         <seg>Ctrl+Maiusc+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+V (this pastes the text of the paragraph back over the paragraph)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194336Z">
+        <seg>CTRL + V (questo viene incollato il testo del paragrafo indietro sopra il paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18464,6 +18600,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For levelformat, this should be:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194405Z">
+        <seg>Per levelformat, questo dovrebbe essere:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more advanced users, there is a plugin called OmegaT-tokenizers (for use in OmegaT version 2.1.1 and later versions), which allows OmegaT to recognize inflected forms of a word.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T190035Z">
@@ -20597,6 +20741,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a combination you try is already assigned, a message to this effect is displayed in the dialogue, and you can delete the combination and try another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194246Z">
+        <seg>Se una combinazione che si cerca è già assegnata, verrà visualizzato un messaggio in tal senso nel dialogo, e si può eliminare la combinazione e provare con un altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a file does not loads into the Editor pane, then it could be that your source file is in a format that doesn't work in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T215716Z">
@@ -20641,6 +20793,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T184829Z">
         <seg>Se, dopo aver esaminato la concordanza parziale, si decide che esso è utile, lo si può incollare in qualsiasi punto (Ctrl+I) del segmento attivo, o sostituire (sovrascrivere) completamente (Ctrl+R) il segmento attivo e poi modificarlo, oppure copiare e incollare parti di esso nel segmento attivo (utilizzare il mouse per selezionare poi Ctrl+C e Ctrl+V per copiare e incollare).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If all has gone according to plan, your macro should now work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194431Z">
+        <seg>Se tutto è andato secondo i piani, la macro ora dovrebbe funzionare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22061,6 +22221,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have made changes to your Normal.dotm, you might want to back this up first.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194234Z">
+        <seg>Se sono state apportate modifiche al vostro Normal. dotm, si potrebbe voler questo backup prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have made changes to your&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt;file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192054Z">
@@ -23475,6 +23643,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Categories box, scroll down to Macros and select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194520Z">
+        <seg>Nella casella Categorie, arrotoli giù le macro e selezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Editor pane OmegaT presents the source text 'segmented' into either sentences or paragraphs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T095447Z">
@@ -23511,6 +23687,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T170225Z">
         <seg>Nel pannello della Traduzione automatica, se è  stato attivato uno dei servizi (vedere &lt;e0&gt;Opzioni &gt; Traduzione automatica&lt;/e0&gt;), si può ottenere un suggerimento automatico per la traduzione del segmento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194227Z">
+        <seg>Nella casella Nome Macro digitare un nome per la macro, ad esempio "levelformat".</seg>
       </tuv>
     </tu>
     <tu>
@@ -29147,6 +29331,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now simply place the cursor anywhere in the paragraph and press Ctrl+Shift+9 (or whatever other keyboard shortcut you selected), and you should see the formatting disappear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194439Z">
+        <seg>Ora basta posizionare il cursore in un punto qualsiasi del paragrafo e premere Ctrl + Maiusc + 9 (o qualunque altro tasto di scelta rapida selezionata), e si dovrebbe vedere la formattazione sparire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now, if you are a Russian translator who translates from Japanese, the Japanese files you will get, if they are &lt;s0&gt;plain text&lt;/s0&gt; files, will most probably be considered by the computer to be files containing Russian.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T201418Z">
@@ -31085,6 +31277,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Developer tab, click on Record Macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194224Z">
+        <seg>Nella scheda Developer, fare clic su Registra Macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T175545Z">
@@ -32524,6 +32724,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093225Z">
         <seg>* Utenti di Linux:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in your paragraph of text (not in the first or last lines).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194217Z">
+        <seg>Posizionare il cursore nel tuo paragrafo di testo (non nelle linee prime o l'ultime).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35244,6 +35452,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save with Ctrl+S, and close the macro editing window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194427Z">
+        <seg>Salvare con Ctrl + S e chiudere la finestra di modifica di macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120724T205225Z">
@@ -36276,6 +36492,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select "levelformat" (or whatever you called it).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194512Z">
+        <seg>Selezionare "levelformat" (o come si chiama e).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165756Z">
@@ -36928,6 +37152,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100717T092926Z">
         <seg>Maiusc+Ctrl+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Cursor Left (this moves the end of the selection one character to the left so that it no longer includes the paragraph mark)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194328Z">
+        <seg>MAIUSC + cursore sinistra (questo sposta la fine del una personaggio selezione a sinistra così che esso non include più il segno di paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40782,6 +41014,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T111033Z">
         <seg>Le opzioni nella metà inferiore della finestra di dialogo hanno le seguenti funzioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The code of your macro(s) will be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194349Z">
+        <seg>Verrà visualizzato il codice della vostra macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47004,6 +47244,14 @@ una nuova segnalazione di errore:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, click the main "Office" button, then Word options (bottom right of the dialog).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194447Z">
+        <seg>Per fare questo, fare clic sul pulsante "Office" principale, poi opzioni di Word (in basso a destra della finestra di dialogo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, select &lt;m1&gt; &lt;s2&gt; &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;D&lt;/k5&gt; &lt;/k3&gt; &lt;/s2&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Create Translated Documents&lt;/g7&gt; &lt;/m1&gt;&lt;i8/&gt; &lt;i9/&gt;from the menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T171129Z">
@@ -47305,6 +47553,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T184523Z">
         <seg>Per verificare che i tokenizer siano utilizzati, aprire un progetto e controllare le informazioni del registro fornite dalla console.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make the macro available in all documents, select Normal.dotm in the "Store macro in" box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194231Z">
+        <seg>Per rendere la macro disponibile in tutti i documenti, selezionare la casella "Memorizza macro in" Normal. dotm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51948,6 +52204,14 @@ to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the keyboard shortcut at any time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194444Z">
+        <seg>È possibile modificare la scelta rapida da tastiera in qualsiasi momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the order of the placeholders, but then you have to add the ARGUMENTSWAPSPECIFIER if it is not there yet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T220418Z">
@@ -55971,6 +56235,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093156Z">
         <seg> alla versione locale (per es., essi consentono </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194419Z">
+        <seg>A:</seg>
       </tuv>
     </tu>
     <tu>
