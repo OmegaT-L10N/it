@@ -1309,6 +1309,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Infix is also reported to work on WINE.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195431Z">
+        <seg>(Infix è anche riferito a lavorare sul vino).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(It will, of course, check for Bolivian rather than Mexican Spanish!)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193637Z">
@@ -3141,6 +3149,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T171955Z">
         <seg>I tag di &lt;a1&gt;OmegaT&lt;/a1&gt; sono composti da una o più lettere seguite da una o più cifre, e utilizzando come carattere di chiusura "/" (la barra inclinata; per esempio: &lt;f0&gt;, &lt;/f0&gt; &lt;br&gt;, &lt;/s2&gt; ecc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Specific information on running Iceni Infix on Crossover Linux or Crossover Macintosh&lt;/a1&gt; is also available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195401Z">
+        <seg>&lt;a1&gt;Informazioni specifiche sull'esecuzione Iceni Infisso sul Crossover Linux o Macintosh Crossover&lt;/a1&gt; è inoltre disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8473,6 +8489,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A "scanned" PDF file is a file in which the PDF format merely serves as a convenient container for scans of hardcopy pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195214Z">
+        <seg>Un file PDF "digitalizzato" è un file in cui il formato PDF serve solo come un comodo contenitore per scansioni di pagine di hardcopy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "term" can be a single word or a whole phrase.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T223800Z">
@@ -8592,6 +8616,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T105231Z">
         <seg>Simbolo di valuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A demonstration version is available; at the time of writing, the full version costs around US$150.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195418Z">
+        <seg>Una versione dimostrativa è disponibile; al momento della scrittura, la versione completa costa circa US$ 150.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9636,6 +9668,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again, free demonstration versions are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195352Z">
+        <seg>Ancora una volta, sono disponibili versioni di dimostrazione gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggregate Tags</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T084428Z">
@@ -10061,10 +10101,34 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195455Z">
+        <seg>In alternativa, si dovrebbe essere in grado di tradurre il file XML di infisso con buoni risultati utilizzando versioni precedenti di OmegaT mediante il filtro HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T220736Z">
         <seg>Le alternative includono un pacchetto Linux .tar, un installatore Windows, con o senza Java Runtime Environment, un installatore Mac OS X e un pacchetto di codice sorgente per gli sviluppatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195342Z">
+        <seg>Anche se l'infisso è un'applicazione Windows, Iceni ha compiuto sforzi per soddisfare gli utenti Linux e Macintosh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195319Z">
+        <seg>Anche se è discutibile se i risultati di questa procedura sarà paragonabili a re-layouting della traduzione da un DTP professionale, rischiano di essere molto meglio di conversione di formati completamente diversi (ad esempio RTF).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14061,6 +14125,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an OmegaT project in the usual way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195450Z">
+        <seg>Creare un progetto OmegaT nel modo consueto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create an empty folder, where you will keep your project and right/click on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110248Z">
@@ -14281,6 +14353,22 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212523Z">
         <seg>Croato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195355Z">
+        <seg>Crossover Linux e Macintosh Crossover può essere ottenuto dal &lt;a0&gt;sito Web di Codeweavers'&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Crossover Linux and Crossover Macintosh cost approximately €40.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195346Z">
+        <seg>Crossover Linux e Macintosh Crossover costo circa €40.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17239,6 +17327,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export the text from the PDF in Infix's XML format with Document &gt; Translate &gt; Export XML.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195442Z">
+        <seg>Esportare il testo da file PDF in formato XML di infisso con documento &amp;amp;gt; Traduci &amp;amp;gt; esportazione XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exporting from OmegaT to "Trados uncleaned RTF" format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194726Z">
@@ -18256,6 +18352,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a true PDF file to be translated, the correct procedure is usually to produce the translation in the original (DTP) application, and then to follow the same procedure for production of the PDF that was followed for the original.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195243Z">
+        <seg>Per un vero file PDF da tradurre, la procedura corretta è di solito per produrre la traduzione nell'applicazione originale (DTP) e poi seguire la stessa procedura per la produzione di PDF che è stata seguita per l'originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T230128Z">
@@ -18957,6 +19061,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T164902Z">
         <seg>Per le memorie di traduzione contenute nelle cartelle di nome "penalty-xxx" (xxx tra 0 e 100), le corrispondenze verranno ridotte in base al nome della cartella: una corrispondenza del 100% di una qualsiasi TM contenuta in una cartella chiamata Penalty-30, per esempio, verrà ridotta al 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195251Z">
+        <seg>Per la traduzione dei file PDF "per informazioni", traduttori ricorrono spesso alla conversione file PDF in un altro formato di file prima di traduzione, come ad esempio RTF; i risultati possono essere adeguati per questo scopo, ma non soddisferà gli standard professionali del processo originale di DTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20456,6 +20568,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T091355Z">
         <seg>Come usare Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HowTo: Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195154Z">
+        <seg>HowTo: Tradurre i file PDF con Iceni Infisso e OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -22036,10 +22156,34 @@ that you install an OmegaT version with JRE included.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195422Z">
+        <seg>Se si utilizza Linux o Macintosh, ottenere e installare la versione Crossover rilevante prima di installare Iceni Infisso Professional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using OmegaT version 2.3 or later, simply place the XML file exported from Infix as described above in the /source folder of your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195452Z">
+        <seg>Se si utilizza OmegaT versione 2.3 o successive, è sufficiente posizionare il file XML esportato da Infix come descritto sopra nella cartella del progetto OmegaT /source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110125T230635Z">
         <seg>Se si sta utilizzando un proxy con autenticazione, inserire qui il proprio nome utente e password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using an earlier version of OmegaT, upgrading your OmegaT installation is recommended.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195454Z">
+        <seg>Se si utilizza una versione precedente di OmegaT, aggiornare l'installazione di OmegaT è raccomandato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24355,6 +24499,22 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix Professional can be used on these platforms in conjunction with Crossover Linux and Crossover Macintosh respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195344Z">
+        <seg>InFix Professional può essere utilizzato su queste piattaforme in concomitanza con il Crossover Linux e Macintosh Crossover rispettivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Infix is a PDF editor, i.e. the text in the PDF can be edited directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195303Z">
+        <seg>Infisso è un editor PDF, cioè il testo in PDF può essere modificato direttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T173420Z">
@@ -26292,6 +26452,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212828Z">
         <seg>Lettone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch Iceni Infix and open the PDF file you wish to translate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195434Z">
+        <seg>Lancio Iceni Infisso e aprire il file PDF che si desidera tradurre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29699,6 +29867,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Obtain and install Iceni Infix Professional from the &lt;a0&gt;Iceni webpage&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195414Z">
+        <seg>Ottenere e installare Iceni Infisso Professional da &lt;a0&gt;Iceni webpage&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Obviously, you can use main menu to access all OmegaT functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T221944Z">
@@ -29759,6 +29935,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T214125Z">
         <seg>Spesso i documenti possiedono pure tag che non si riferiscono alla formattazione, ma che sono altrettanto importanti. Nel file di partenza (e in quello di arrivo), una frase può assomigliare a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, these scans contain text for translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195219Z">
+        <seg>Spesso, queste scansioni contengono testo per la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30543,6 +30727,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183802Z">
         <seg>OmegaT è anche in grado di leggere i glossari in TBX, il formato standard di settore per i file Glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is among the CAT tools for which this process can be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195328Z">
+        <seg>OmegaT è tra gli strumenti CAT per il quale questo processo può essere utilizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32663,6 +32855,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files fall into two categories: true and "scanned" PDFs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195207Z">
+        <seg>I file PDF si dividono in due categorie: PDF vero e "scansione".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T094511Z">
@@ -33100,6 +33300,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150331Z">
         <seg>Testo &lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Platforms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195332Z">
+        <seg>Piattaforme</seg>
       </tuv>
     </tu>
     <tu>
@@ -34724,6 +34932,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reload your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195458Z">
+        <seg>Ricaricare il vostro progetto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reloads the project to take external changes in source files, legacy translation memories or glossaries into account.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T220220Z">
@@ -35772,6 +35988,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save the PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195444Z">
+        <seg>Salvare il file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T180954Z">
@@ -35864,6 +36088,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101542Z">
         <seg>Il progetto viene salvato...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scanned PDFs are not the subject of this HowTo.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195235Z">
+        <seg>Scansionate i file PDF non sono oggetto di questo HowTo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40095,6 +40327,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195322Z">
+        <seg>La versione "Professionale" di infisso ha una funzione ulteriore di interesse per i traduttori: esportazione di testo XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line brak into the text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T110733Z">
@@ -41932,6 +42172,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The example in the screenshot is the &lt;a0&gt;European Commission's SME user guide in Hungarian&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195439Z">
+        <seg>L'esempio nello screenshot è la &lt;a0&gt;Guida di utente delle PMI della Commissione europea in ungherese&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T172101Z">
@@ -43385,6 +43633,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedure is described in this HowTo.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195331Z">
+        <seg>La procedura è descritta in questo HowTo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The procedure is termed an "RFE" (Request for Feature Enhancement) and is managed &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T194434Z">
@@ -44561,6 +44817,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translated text can then be re-imported into Infix Professional.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195327Z">
+        <seg>Testo tradotto può poi essere reimportato in Professional Infix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation has changed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172612Z">
@@ -45195,6 +45459,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no way of translating a scanned PDF file other than to recreate the text, either by typing it out again or by OCR (optical character recognition), and to recreate the file layout from scratch.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195230Z">
+        <seg>Non c'è nessun modo di tradurre un file PDF scansionato altro che ricreare il testo, o digitando fuori nuovamente o di OCR (riconoscimento ottico dei caratteri) e per ricreare il file di layout da zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is not an EXACT match between the glossary entry and the source text in your document - for instance when the item is in plural</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T232242Z">
@@ -45741,6 +46013,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo provides information on using OmegaT and Iceni Infix to translate PDF files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195201Z">
+        <seg>Questo HowTo fornisce informazioni sull'utilizzo di OmegaT e Iceni Infisso per tradurre file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo provides tips on translating MS Office 2007 (and later) files in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T140743Z">
@@ -46094,6 +46374,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195325Z">
+        <seg>In questo modo il testo essere esportati in un file XML che può essere tradotto in un CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T134600Z">
@@ -46434,6 +46722,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T161920Z">
         <seg>Ecco come funziona:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195447Z">
+        <seg>Questo è importante: quando si esporta il file XML da file PDF, Infix rende nota nel file di cui appartengono tutti i pezzi di testo ("storie"), quindi è necessario utilizzare questa versione del file quando il file XML tradotto la reimportazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48379,6 +48675,14 @@ script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this filter, simply change the file extension of the XML file exported by Infix from .xml to .html.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195456Z">
+        <seg>Per utilizzare questo filtro, è sufficiente modificare l'estensione del file del file XML esportato da infisso da XML a HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script you must first install</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095204Z">
@@ -48820,10 +49124,26 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating a PDF file: procedure</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195408Z">
+        <seg>Tradurre un file PDF: procedura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating segments one by one</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T122415Z">
         <seg>Traduzione dei singoli segmenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating the PDF file by editing it directly is not usually a practical proposition.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195246Z">
+        <seg>Tradurre file PDF modificando direttamente non è solitamente una proposta pratica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49104,6 +49424,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193624Z">
         <seg>Lista di controllo per la risoluzione dei problemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>True PDF files (sometimes called "native" or "distilled" PDF files, though "distilled" has a more precise meaning) are PDF files that have been exported from another application, usually a desktop publishing (DTP) program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195239Z">
+        <seg>Veri file PDF (a volte chiamato "nativo" o "distillati" file PDF, anche se "distillata" ha un significato più preciso) sono i file PDF che sono stati esportati da un'altra applicazione, solitamente un programma di desktop publishing (DTP).</seg>
       </tuv>
     </tu>
     <tu>
