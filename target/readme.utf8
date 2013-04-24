@@ -17,8 +17,7 @@ Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2012 revision
 Le informazioni più aggiornate su OmegaT possono essere reperite accedendo a:
       http://www.omegat.org/
 
-Assistenza all'utente, nel gruppo utenti di Yahoo (multilingue), in cui è possibile ricercare negli archivi 
-senza necessità di iscrizione:
+Assistenza all'utente, nel gruppo utenti di Yahoo (multilingue), in cui è possibile ricercare negli archivi senza necessità di iscrizione:
      http://groups.yahoo.com/group/OmegaT/
 
 Richieste di miglioramenti (in Inglese), nel sito SourceForge:
@@ -30,10 +29,7 @@ Segnalazione errori (in Inglese), nel sito SourceForge:
 ==============================================================================
   2.  Che cosa è OmegaT?
 
-OmegaT è uno strumento per la traduzione assistita da computer (CAT). È gratuito, cioè  
-non devi pagare nulla per usarlo, persino per uso professionale, 
-e sei libero di modificarlo o ridistribuirlo purché rispetti 
-la licenza per l'utente.
+OmegaT è uno strumento per la traduzione assistita da computer (CAT). È gratuito, ossia non si deve pagare nulla per usarlo, anche per un uso professionale ed è possibile modificarlo e, o in alternativa, redistribuirlo fintanto che viene rispettata la licenza per l'utente.
 
 Le caratteristiche principali di OmegaT sono:
   - possibilità di funzionare su qualsiasi sistema operativo che supporti Java
@@ -87,157 +83,82 @@ OmegaT è in grado di riconoscere immediatamente i seguenti formati di file form
 
 OmegaT può essere personalizzato per gestire anche altri tipi di formati di file.
 
-OmegaT analizzerà automaticamente anche le più complesse strutture di cartelle origine, 
-per accedere poi a tutti i file riconosciuti e generare una struttura di cartelle destinazione 
-esattamente uguale a quella di partenza, comprendente anche le copie di tutti i file non riconosciuti.
+OmegaT analizza automaticamente anche la struttura di cartelle più complessa per accedere poi a tutti i file riconosciuti e generare una struttura di cartelle di destinazione esattamente uguale a quella di partenza, comprendente anche le copie di tutti i file non riconosciuti.
 
-Per iniziare a operare subito con OmegaT, avviare il programma e leggere la "Guida di avvio rapido"  
-proposta.
+Per iniziare a operare subito con OmegaT, avviare il programma e leggere la "Guida di avvio rapido" che viene proposta.
 
-Il manuale per l'utente si trova nel pacchetto appena scaricato e vi si potrà accedere dal 
-menù [Aiuto] dopo aver avviato OmegaT.
+Il manuale per l'utente si trova nel pacchetto appena scaricato e vi si potrà accedere dal menu Aiuto dopo aver avviato OmegaT.
 
 ==============================================================================
  3. Installazione di OmegaT
 
 3.1 Generale
-Per far funzionare, OmegaT si richiede che sul sistema sia installato Java Runtime Environment (JRE)  
-versione 1.5 o superiore. OmegaT è ora fornito normalmente 
-con tale programma, in modo che gli utenti non debbano 
- cercarlo, scaricarlo e installarlo. 
+Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Environment (JRE) versione 1.5 o superiore. Sono ora disponibili i pacchetti OmegaT che includono il Java Runtime Environment, e che evitano agli utenti l'incombenza di selezionarlo, scaricarlo e installarlo. 
 
-Se Java è già installato nel sistema, il metodo più semplice per installare la versione corrente di  
-OmegaT è usare Java Web Start. 
+Se Java è già installato, un metodo per installare la versione corrente di OmegaT è usare "Java Web Start". 
 A questo proposito, scaricare ed eseguire il file seguente:
 
    http://omegat.sourceforge.net/webstart/OmegaT.jnlp
 
-Esso installerà l'ambiente corretto per il proprio computer e l'applicazione  
-stessa al primo avvio. Non è necessario eseguire online le chiamate successive.
+Esso installerà l'ambiente corretto per il proprio computer e l'applicazione per il primo avvio. Non è necessario eseguire online le chiamate successive.
 
-Durante l'installazione, in base al sistema operativo, si potrebbero ricevere  
-diversi avvisi di sicurezza. Il certificato è firmato da "Didier Briel". 
-I permessi che si concedono a questa versione (che potremmo chiamare 
- "accesso illimitato al computer") sono gli stessi che si attribuiscono 
- alla versione locale (per es., essi consentono  
-l'accesso al disco rigido del computer). I clic successivi su OmegaT.jnlp  
-verificheranno e installeranno gli aggiornamenti, se presenti,  
-e avvieranno OmegaT. 
+Durante l'installazione, in base al sistema operativo, si potrebbero ricevere diversi avvisi di sicurezza. Il certificato è firmato da "Didier Briel". 
+I permessi che si concedono a questa versione (che potremmo chiamare "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale, come installati da una procedura descritta in seguito: essi consentono l'accesso al disco rigido del computer. I clic successivi su OmegaT.jnlp verificheranno e installeranno gli aggiornamenti, se presenti, e avvieranno OmegaT. 
 
-e avvieranno OmegaT.
-sono descritti di seguito. 
+Di seguito, sono descritti i metodi alternativi e gli strumenti per scaricare e installare OmegaT. 
 
-sono descritti di seguito. 
-versione adatta di JRE, è possibile installare la versione OmegaT  
-senza JRE (indicata col nome della versione "Without_JRE"). 
-Se si è in dubbio, raccomandiamo di usare la versione "standard", con  
-JRE. Essa è sicura, nonostante JRE sia già installato nel sistema,  
-questa versione non interferirà con esso.
+Per gli utenti di Windows e Linux: se si è a conoscenza che il proprio sistema possiede già una versione adatta di JRE, è possibile installare la versione OmegaT senza JRE (indicata col nome della versione "Without_JRE"). 
+Se si è in dubbio, raccomandiamo di usare la versione fornita con JRE. Essa è sicura: nonostante JRE sia già installato nel sistema, questa versione non interferirà con esso.
 
-Utenti di Linux 
-OmegaT funzionerà sulla open-implementation source Java 
-nel pacchetto di molte distribuzioni Linux (per esempio Ubuntu), ma si potrebbero 
-riscontrare errori, problemi o perdite di caratteristiche. Raccomandiamo pertanto 
-che si scarichi e installi sia Oracle Java Runtime Environment (JRE) 
-sia la versione di OmegaT completa di JRE (il pacchetto .tar.gz contrassegnato  
-"Linux"). Se si installa una versione di Java a livello di sistema, accertarsi che 
-Se si installa una versione di Java a livello di sistema, accertarsi che 
-Usare la lingua d'installazione in OmegaT Se non avete molta confidenza con linux , raccomandiamo di  
-installare una versione di OmegaT che includa JRE Questo è sicuro 
-perché questa JRE "locale" non interferirà con alcun altra JRE installata 
-sul vostro sistema.
+Per gli utenti di Linux: OmegaT funzionerà con l'implementazione Java open source fornita in molte distribuzioni Linux (per esempio Ubuntu), ma in tale caso è possibile riscontrare errori, problemi di visualizzazione o mancanza di alcune funzionalità. Raccomandiamo dunque di scaricare e installare "Oracle Java Runtime Environment" (JRE) o il pacchetto OmegaT completo di JRE (quello .tar.bz2) contrassegnato "Linux"). Se si installa una versione di Java a livello di sistema, è necessario assicurarsi che questa sia nel proprio percorso di avvio o che sia richiamata in modo esplicito durante l'avvio di OmegaT. Se non si è esperti di Linux, raccomandiamo di installare una versione di OmegaT con JRE. Essa è sicura, dato che questo JRE "locale" non interferisce con gli altri JRE installati nel sistema.
 
-Utenti di Mac 
- JRE è già installato su Mac OS X prima del Mac OS X 10.7 
-(Lion). Gli utenti Lion saranno avvertiti dal sistema appena lanciano per la prima volta  
-un'applicazione che richiede Java e il sistema eventualmente 
-lo scaricherà e installerà automaticamente.
+Per gli utenti di Mac: JRE è già installato nel Mac OS X precedente alla versione 10.7 (Lion). Agli utenti di Lion verrà fatta una richiesta dal sistema (al primo avvio di un'applicazione che ha bisogno di Java), il quale eventualmente lo scaricherà e installerà in modo automatico.
 
-Per Linux sui sistemi PowerPC: 
-gli utenti devono scaricare il JRE di IBM, dato che Sun  
-non fornisce una versione JRE per sistemi PPC. In questo caso, scaricarlo da:
+Per Linux sui sistemi PowerPC: gli utenti devono scaricare il JRE di IBM, dato che Sun non fornisce una versione JRE per sistemi PPC. In questo caso, scaricarlo da:
 
     http://www.ibm.com/developerworks/java/jdk/linux/download.html 
 
 
 3.2 Installazione
-* Utenti di Windows: 
-* Utenti di Windows: Se si desidera,  
-il programma di installazione può creare collegamenti per l'avvio di OmegaT.
+* Utenti di Windows: avviare il programma di installazione. Il programma di installazione può creare, se richiesto, collegamenti per l'avvio di OmegaT.
 
-* Utenti di Linux:
-* Utenti di Linux: 
-pronto ad essere lanciato. Si può comunque ottenere una installazione più semplice e facile 
-tramite lo script d'installazione (linux-install.sh). Per usare 
-questo script, si apra una finestra terminale (console), si cambi la directory con quella  
-contenente OmegaT.jar e lo script linux-install.sh, si esegua  
-lo script con ./linux-install.sh.
+* Utenti di Linux: salvare ed estrarre l'archivio in una cartella di propria scelta; OmegaT è pronto per essere avviato. È possibile comunque eseguire un'installazione più pulita e semplice tramite lo script di installazione (linux-install.sh). Per utilizzare questo script, aprire una finestra di terminale (console), passare alla cartella in cui sono contenuti OmegaT.jar e lo script linux-install.sh, ed eseguire lo script col comando ./linux-install.sh.
 
-* Utenti di Mac:
-Copiare ed estrarre l'archivio OmegaT.zip in una cartella opportuna 
-per ottenere una cartella che contiene un file HTML indice della documentazione e  
-OmegaT.app, il file applicazione.
+* Utenti di Mac: copiare ed estrarre l'archivio OmegaT.zip in una cartella di propria scelta - essa conterrà il file indice della documentazione HTML e quello dell'applicazione OmegaT.app
 
-* Altri (e.g., Solaris, FreeBSD: 
-Per installare OmegaT, creare semplicemente una cartella appropriata per il programma (per es., /usr/local/lib in Linux). Si copi e si scompatti  
-l'archivio OmegaT zip o tar.bz2 in tale cartella.
+* Altri sistemi (per es., Solaris, FreeBSD: per installare OmegaT, creare semplicemente una cartella a esso dedicata. Copiare ed estrarre l'archivio zip o tar.bz2 di OmegaT in questa cartella.
 
-3.3 Lanciare OmegaT
-Si lanci OmegaT come segue.
+3.3 Avvio di OmegaT
+Avviare OmegaT nei modi che seguono.
 
-* Utenti di Windows: 
-se, durante l'installazione , si è creato un collegamento sul desktop, 
-fare doppio clic sul collegamento. Oppure, fare doppio clic sul file  
-OmegaT.exe. Se è visibile soltanto il file OmegaT ma non OmegaT.exe sul 
-gestore di file (Windows Explorer), cambiare le impostazioni  in modo che risultino 
-visibili le estensioni dei file.
+* Utenti di Windows:  se durante l'installazione è stato creato un collegamento nel desktop, fare doppio-clic sul collegamento. In alternativa, fare doppio-clic sul file OmegaT.exe. Se in Esplora risorse si visualizza il file OmegaT ma non OmegaT.exe modificare le impostazioni affinché siano visibili le estensioni.
 
-* Utenti di Linux:
-Se si sta usando lo script d'installazione fornito, sarà possibile be lanciare OmegaT con:
-Alt+F2
-e quindi:
-omegat
+* Utenti di Linux: se si utilizza lo script di installazione fornito col programma, si dovrebbe riuscire ad avviare OmegaT con Alt+F2 poi omegat
 
-* Utenti di Mac:
-Fare doppio clic sul file OmegaT.app.
+* Utenti di Mac: fare doppio-clic sul file OmegaT.app.
 
-* Dal gestore di (tutti i siatemi):
-Fare doppio clic sul file OmegaT.jar. Questo metodo funzionerà solo se 
-il tipo di file .jar è associato con Java nel proprio sistema.
+* Dal proprio gestore di file (tutti i sistemi): fare doppio-clic sul file OmegaT.jar. Questo metodo funzionerà solo se il tipo di file .jar è associato con Java nel proprio sistema.
 
-* Da riga di comando (tutti i sistemi): 
-Il comando per avviare OmegaT è:
+* Dalla riga di comando (tutti i sistemi): il comando per avviare OmegaT è:
 
 cd <cartella dove si trova il file OmegaT.jar>
 
 <nome e percorso del file eseguibile Java> -jar OmegaT.jar
 
 (il file eseguibile Java è il file java in Linux e java.exe in Windows.
-Se Java è installato a livello di sistema, il percorso  
-completo non deve essere indicato).
+Se Java è installato a livello di sistema ed è nel percorso del comando, il percorso completo non deve essere indicato).
 
 Personalizzazione dell'avvio di OmegaT:
 
-* Utenti di Windows: 
-Il programma di installazione può creare collegamenti nel menù start,  
-nel desktop e nell'area di avvio rapido. È possibile anche trascinare a mano  
-il file OmegaT.exe nel menù start, nel desktop o nella barra di avvio rapido 
-per creare il relativo collegamento.
+* Utenti di Windows: il programma di installazione può creare collegamenti nel menu start, nel desktop e nell'area di avvio rapido. Per creare il collegamento, è possibile anche trascinare a mano il file OmegaT.exe nel menu start, nel desktop o nella barra di avvio rapido.
 
-* Utenti di Linux:
-Per un modo più agevole di lanciare OmegaT, si può usare lo script 
-Kaptain fornito (omegat.kaptn). Per usare questo script occorre prima installare 
-Kaptain. Si potrà allora avviare lo script di lancio in Kaptain con 
+* Utenti di Linux: l'uso dello script Kaptain (omegat.kaptn), compreso nel pacchetto, fornisce un metodo più semplice per avviare OmegaT. Per utilizzare lo script è necessario prima installare Kaptain. È poi possibile utilizzare lo script di avvio Kaptain con 
 Alt+F2
 omegat.kaptn
 
-Per maggiori informazioni sullo script Kaptain e su come aggiungere elementi di menù e  
-lanciare icone di avvio su Linux, si consulti la guida "OmegaT su Linux".
+Maggiori informazioni sullo script Kaptain e sull'aggiunta di elementi di menu e icone di avvio in Linux, sono reperibili nel Linux HowTo di OmegaT.
 
-Utenti di Mac
-Trascinare OmegaT.app sul dock o nella barra degli attrezzi di una finestra di ricerca per 
-poter lanciarla da qualsiasi posizione. E anche possibile chiamarla nel 
-campo ricerca evidenziato.
+Utenti di Mac: trascinare OmegaT.app nella propria dock o nella barra degli strumenti di una finestra di Finder per poterlo avviare da qualsiasi posizione. Potete anche richiamarlo nell'area di ricerca di Spotlight.
 
 ==============================================================================
  4. Partecipare al progetto OmegaT
@@ -245,9 +166,7 @@ campo ricerca evidenziato.
 Per partecipare allo sviluppo di OmegaT, mettersi in contatto con gli sviluppatori all'indirizzo:
     http://lists.sourceforge.net/lists/listinfo/omegat-development
 
-Per tradurre l'interfaccia utente di OmegaT, il manuale per l'utente o
-altri documenti correlati, 
-leggere:
+Per tradurre l'interfaccia utente di OmegaT, il manuale per l'utente o altri documenti correlati, leggere:
       
       http://www.omegat.org/en/translation-info.html
 
@@ -262,8 +181,7 @@ Avrete così un'idea di che cosa accade nel mondo di OmegaT...
   OmegaT è un lavoro originale di Keith Godfrey.
   Marc Prior è il coordinatore del progetto OmegaT.
 
-Elenco dei contributi precedenti 
-(in ordine alfabetico)
+Elenco dei contributi precedenti (in ordine alfabetico)
 
 Contributi al codice:
   (in ordine alfabetico)
@@ -306,8 +224,7 @@ Altri contributi:
   Marc Prior  
   e molte, molte altre persone che hanno contribuito
 
-(se ritenete di aver contribuito in modo significativo al Progetto OmegaT  
-(se ritenete di aver contribuito in modo significativo al Progetto OmegaT 
+(se ritenete di aver contribuito in modo significativo al Progetto OmegaT ma il vostro nome non è presente nell'elenco, contattateci senza problemi).
 
 OmegaT usa le seguenti librerie:
   HTMLParser 1.6 di Somik Raha, Derrick Oswald et al (licenza LGPL)
@@ -331,26 +248,16 @@ OmegaT usa le seguenti librerie:
 ==============================================================================
  5.  OmegaT genera problemi? Si ha bisogno di assistenza?
 
-Prima di segnalare un difetto, accertarsi di aver consultato attentamente 
-la documentazione. Ciò che viene proposto potrebbe essere una caratteristica particolare di OmegaT 
-che si è appena scoperta. Se si apre il file di registro di OmegaT, e nello stesso vengono riportate parole come 
-"Error", "Warning", "Exception" oppure "died unexpectedly", allora si è in presenza 
-di un errore importante (il file log.txt viene memorizzato nella cartella delle preferenze 
-dell'utente; per il percorso di memorizzazione si rimanda al manuale).
+Prima di segnalare un difetto, accertarsi di aver consultato attentamente la documentazione. Ciò che viene proposto potrebbe essere una caratteristica particolare di OmegaT che si è appena scoperta. Se si apre il file di registro di OmegaT, e nello stesso vengono riportate parole come "Error", "Warning", "Exception" oppure "died unexpectedly", allora si è in presenza di un errore importante (il file log.txt viene memorizzato nella cartella delle preferenze dell'utente; per il percorso di memorizzazione si rimanda al manuale).
 
-La successiva cosa da fare è di chiedere conferma di quanto è accaduto agli altri utenti, in modo da  
-verificare se si tratta di un problema già segnalato. Si può anche accedere alla pagina di segnalazione degli errori 
-di SourceForge. Solo quando si è sicuri di essere stati i primi ad aver rilevato 
-una sequenza riproducibile di un evento che ha generato qualche cosa che non sarebbe dovuta accadere, 
-inviare una segnalazione di errore.
+La successiva cosa da fare è di chiedere conferma di quanto è accaduto agli altri utenti, in modo da verificare se si tratta di un problema già segnalato. Si può anche accedere alla pagina di segnalazione degli errori di SourceForge. Inviare una segnalazione di errore solo quando si è sicuri di essere stati i primi ad aver rilevato una sequenza riproducibile di un evento che ha generato qualche cosa che non sarebbe dovuta accadere.
 
 Una qualsiasi segnalazione di errore dovrebbe prevedere tre elementi:
   - sequenza operativa da riprodurre,
   - che cosa ci si aspettava di ottenere, e
   - che cosa, invece, si è ottenuto.
 
-Si possono allegare copie di file, parti del file di registro, schermate e tutto ciò 
-che si ritiene possa essere d'aiuto agli sviluppatori per il reperimento e la correzione dell'errore.
+Si possono allegare copie di file, parti del file di registro, schermate e tutto ciò che si ritiene possa essere d'aiuto agli sviluppatori per il reperimento e la correzione dell'errore.
 
 Per accedere agli archivi del gruppo di utenti:
      http://groups.yahoo.com/group/OmegaT/
@@ -359,14 +266,12 @@ Per accedere alla pagina delle segnalazioni degli errori e registrare
 una nuova segnalazione di errore:
      http://sourceforge.net/tracker/?group_id=68187&atid=520347
 
-Per seguire il corso degli eventi relativi a una segnalazione di errore ci si dovrebbe iscrivere 
-come utente Source Forge.
+Per seguire il corso degli eventi relativi a una segnalazione di errore ci si dovrebbe iscrivere come utente Source Forge.
 
 ==============================================================================
 6.   Informazioni sul rilascio
 
-Si veda il file "changes.txt" per informazioni particolareggiate su 
-questo rilascio, e tutti quelli precedenti.
+Per informazioni particolareggiate su questo rilascio, e tutti quelli precedenti, si veda il file "changes.txt".
 
 
 ==============================================================================

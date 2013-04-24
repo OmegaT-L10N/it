@@ -1,17 +1,16 @@
-24/04/13 22.32
+24/04/13 22.38
 Statistiche del progetto
 
                  	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	
-Totali:          	    9368	 82300	                 452918	               522268	
-Restanti:        	    2421	 13986	                  92733	               101128	
-Univoci:         	    6867	 71161	                 384781	               446312	
-Univoci restanti:	    1682	 12196	                  77580	                85629	
+Totali:          	    9305	 79415	                 431533	               499552	
+Restanti:        	    2358	 11101	                  71348	                78412	
+Univoci:         	    6806	 68278	                 363405	               423605	
+Univoci restanti:	    1621	  9313	                  56204	                62922	
 
 
 Statistiche file singoli:
 
 Nome del file                                      	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
-cat-2-omegat.UTF8                                  	             63	               63	              61	                       61	         2885	           2885	           2883	                    2883	                         21385	                           21385	                          21376	                                   21376	                       22716	                         22716	                        22707	                                 22707	
 doc_src\en\AboutOmegaT.xml                         	             56	                0	              56	                        0	          954	              0	            954	                       0	                          5312	                               0	                           5312	                                       0	                        6214	                             0	                         6214	                                     0	
 doc_src\en\App_Aknowledgements.xml                 	             15	                1	              15	                        1	          199	              7	            199	                       7	                          1044	                              58	                           1044	                                      58	                        1222	                            58	                         1222	                                    58	
 doc_src\en\App_Keyboard.xml                        	             54	                5	              54	                        5	          385	              8	            385	                       8	                          1801	                              44	                           1801	                                      44	                        2109	                            44	                         2109	                                    44	
