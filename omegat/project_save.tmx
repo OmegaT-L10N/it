@@ -3057,6 +3057,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183745Z">
+        <seg>&lt;a1&gt;Across&lt;/a1&gt; può anche essere utilizzato per questo scopo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202926Z">
@@ -8820,6 +8828,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A script (for Windows only) and procedure was recently (2008) developed enabling OmegaT users to produce Trados uncleaned RTF files for delivery at the end of their translation stage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184020Z">
+        <seg>Uno script (solo per Windows) e la procedura è stata recentemente (2008) sviluppato che consente agli utenti di OmegaT per produrre Trados ripuliti i file RTF per la consegna al termine della loro fase di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A search function scans previously translated material (either in the present document or in a translation memory), so that the user can see how a word or phrase was previously translated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121228Z">
@@ -9981,6 +9997,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT plugin&lt;/a0&gt; is now available by means of which this format can be handled in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184046Z">
+        <seg>Un &lt;a0&gt;plugin di OmegaT&lt;/a0&gt; è ora disponibile con mezzi di cui questo formato può essere gestito in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and directories.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132423Z">
@@ -10157,6 +10181,14 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175904Z">
         <seg>Strumento di gestione dizionario online che si integra con Omegat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An understanding of the processes involved is however important.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183914Z">
+        <seg>La comprensione dei processi coinvolti è comunque importante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11476,6 +11508,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095502Z">
         <seg>Benjamin Siband</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bilingual CAT-tool formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183808Z">
+        <seg>Formati di CAT-strumento bilingui</seg>
       </tuv>
     </tu>
     <tu>
@@ -16479,6 +16519,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Essentially, this format consists of an RTF file in which the source and target segments alternate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184011Z">
+        <seg>Essenzialmente, questo formato è costituito da un file RTF in cui si alternano i segmenti di origine e di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Estonian</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212459Z">
@@ -17756,6 +17804,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184635Z">
         <seg>Per ulteriori informazioni, vedere &lt;t0/&gt; il Manuale dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details, see the &lt;a0&gt;"Exporting from OmegaT to uncleaned RTF" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184025Z">
+        <seg>Per ulteriori informazioni, vedere la &lt;a0&gt;"Esportazione da OmegaT a RTF non ripuliti" HOWTO&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20809,6 +20865,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183848Z">
+        <seg>Se modifiche del correttore è da includere in un repository di memoria di traduzione effettuato da parte del cliente, le modifiche occorre &lt;i0&gt;prima&lt;/i0&gt; che vengono creati i documenti finali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the client requires MS Office format, simply save the target file in OpenOffice.org in the relevant MS format (.doc, etc.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174718Z">
@@ -22561,6 +22625,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to Trados, however, several other CAT tools also support the "uncleaned RTF" format, notably Wordfast Classic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184007Z">
+        <seg>Oltre a Trados, tuttavia, diversi altri strumenti CAT supportano anche il formato "RTF non puliti", in particolare Wordfast Classic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T213849Z">
@@ -22810,6 +22882,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for this process to be as automatic as possible, two conditions must in particular be met: firstly, the translation memory must contain formatting information (see above); and secondly, the segmentation rules applied to the text must be the same as those applied when the translation memory (or part of it) was produced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183902Z">
+        <seg>Affinché questo processo possa essere così automatico come possibili, in particolare devono essere soddisfatte due condizioni: in primo luogo, la memoria di traduzione deve contenere informazioni di formattazione (vedi sopra); e in secondo luogo, le regole di segmentazione applicate al testo devono essere gli stessi di quelli applicati quando la memoria di traduzione (o parte di esso) è stato prodotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185640Z">
@@ -22926,6 +23006,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T081742Z">
         <seg>Nella pratica, questo comando assomiglierà ai seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In practice, working with the XLIFF workflow often requires the use of tools that are not very user-friendly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183939Z">
+        <seg>In pratica, lavorando con il flusso di lavoro XLIFF richiede spesso l'uso di strumenti che non sono molto user-friendly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24517,6 +24605,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is supported by several CAT tools, and in fact some CAT tools are effectively "designed around" the XLIFF standard: Heartsome and Swordfish are examples.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183928Z">
+        <seg>È supportato da diversi strumenti CAT, e infatti alcuni strumenti CAT sono efficacemente "progettato intorno a" standard XLIFF: esempi è Heartsome e pesce spada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the only one that is displayed in two parts: the upper part is in the original language, in bold characters with a green background color, the lower part is the editing field, delimited by two markers: the leftmost marker is &lt;s0&gt;&lt;c1&gt;&lt;segment nnnn&gt;&lt;/c1&gt;&lt;/s0&gt; where &lt;s2&gt;&lt;c3&gt;nnnn&lt;/c3&gt;&lt;/s2&gt; is a number of the segment in the project, the rightmost marker is &lt;s4&gt;&lt;c5&gt;&lt;end segment&gt;&lt;/c5&gt;&lt;/s4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T162748Z">
@@ -24625,6 +24721,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T102412Z">
         <seg>Può succedere che le memorie di traduzione contenute nella sottocartella &lt;f0&gt; tm&lt;/f0&gt;, contengano segmenti con testo di origine identico ma testo di destinazione diverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It owes its origins to the use of MS Word as an interface for the Trados CAT tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184004Z">
+        <seg>Deve le sue origini all'utilizzo di MS Word come un'interfaccia per il tool Trados CAT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26543,6 +26647,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T125000Z">
         <seg>Mannese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many CAT tools make use of an intermediate bilingual file format, i.e. a file containing both source and target language segments, and in some cases also the structure of the original file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183815Z">
+        <seg>Molti strumenti CAT fare uso di un formato di file intermedio bilingue, cioè un file che contiene sia fonte e segmenti di lingua di destinazione e in alcuni casi anche la struttura del file originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29259,6 +29371,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183812Z">
+        <seg>OmegaT non può importare o leggere i file in formati binari proprietari, quali Trados Multiterm Glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT comes as a package you can download from SourceForge.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T194525Z">
@@ -29483,6 +29603,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has rudimentary support for XLIFF, and a procedure for using XLIFF in OmegaT in conjunction with the Rainbow tools can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183947Z">
+        <seg>OmegaT è rudimentale supporto per XLIFF, e una procedura per l'utilizzo di XLIFF in OmegaT in combinazione con gli strumenti di arcobaleno può essere trovata &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T212659Z">
@@ -29583,6 +29711,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T182435Z">
         <seg>OmegaT è in grado di memorizzare traduzioni che risultano uguali al testo di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is also capable of reading glossaries in TBX, the industry-standard format for glossary files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183802Z">
+        <seg>OmegaT è anche in grado di leggere i glossari in TBX, il formato standard di settore per i file Glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30417,6 +30553,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094725Z">
         <seg>l'archivio OmegaT zip o tar.bz2 in tale cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's glossary files are plain-text files in the format:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183750Z">
+        <seg>File Glossario di OmegaT sono semplici files di testo nel formato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31355,6 +31499,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145823Z">
         <seg>Autore originale dell'applicazione OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183819Z">
+        <seg>Originariamente, questi formati di file bilingue potrebbero essere stato un sottoprodotto dell'architettura dello strumento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36228,6 +36380,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several of the bilingual file formats can be handled by OmegaT, and not necessarily with great effort.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183910Z">
+        <seg>Molti dei formati di file bilingue possono essere gestiti da OmegaT e non necessariamente con grande sforzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091316Z">
@@ -36532,6 +36692,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since it is a standard, an advantage of XLIFF is that file filters provided by one CAT tool vendor for conversion between a certain format and XLIFF (and, following completion of the translation workflow, back again) can in theory be used to prepare files in the format concerned for translation in any CAT tool capable of supporting XLIFF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183934Z">
+        <seg>Poiché è uno standard, un vantaggio di XLIFF è che filtri file fornito da un fornitore di CAT tool per la conversione tra un certo formato e XLIFF (e, dopo il completamento del workflow di traduzione, torna ancora una volta) in teoria può essere utilizzata per preparare i file nel formato di cui trattasi per la traduzione di qualsiasi CAT tool in grado di supportare XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183138Z">
@@ -36756,6 +36924,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some CAT tools, notably TRADOS, are able to import a wide range of file formats, including desktop publishing formats, and to prepare them for translation in the tool concerned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183829Z">
+        <seg>Alcuni strumenti CAT, TRADOS in particolare, sono in grado di importare una vasta gamma di formati di file, inclusi i formati di desktop publishing, e prepararli per la traduzione dello strumento in questione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some more points to note about the HTML files for translation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160041Z">
@@ -36792,6 +36968,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T191847Z">
         <seg>Alcuni formati di file, specifici per le traduzioni, come quelli PO, consentono l'inserimento di commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183759Z">
+        <seg>Alcuni altri strumenti CAT sono in grado di importare ed esportare file glossario in questo formato, o in un formato di testo simile che può essere prodotto da esso molto facilmente (ad esempio da un'operazione di ricerca &amp;amp; sostituire in Microsoft Word).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38062,6 +38246,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TTX is an XML-based format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184039Z">
+        <seg>TTX è un formato basato su XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172120Z">
@@ -38855,6 +39047,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "prepared" form is typically the tool's bilingual file format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183831Z">
+        <seg>La forma "preparata" è in genere formato bilingue dello strumento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &amp;source text</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T112028Z">
@@ -39633,6 +39833,14 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Trados "uncleaned" RTF file format, often referred to simply as "uncleaned files", has for many years been the most common bilingual file format used in translation workflows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184000Z">
+        <seg>Il Trados "ripuliti" RTF formato file, spesso indicata semplicemente come "file non puliti", è stata per molti anni il formato file bilingue più comune utilizzato nei flussi di lavoro di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Translate Toolkit, a python tool set, provides users with a number of converters to and from Portable Object, including Mozilla .properties and dtd files, CSV files, Qt .ts files, XLIFF files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T181437Z">
@@ -40252,6 +40460,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The customer wishes to receive a translation memory against which texts can be run in the future: in other words, to "pretranslate" future texts against an existing translation memory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183857Z">
+        <seg>Il cliente desidera ricevere una memoria di traduzione, contro il quale è possono eseguire in futuro testi: in altre parole, a "pretranslate" futuri testi contro una memoria di traduzione esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T095947Z">
@@ -40540,6 +40756,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The easiest way for a customers to ensure that these two conditions are met is for them to pretranslate the text themselves before passing it to the translator (thereby defining how it is segmented), and to create the translation memory in the CAT tool of their choice after receiving the translated intermediate bilingual file from the translator (thereby ensuring that the formatting information contained within the translation memory will be compatible with future projects).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183906Z">
+        <seg>Il modo più semplice per un clienti garantire che queste due condizioni sono soddisfatte è per loro di pretranslate il testo se stessi prima di passarlo al traduttore (definendo così come esso è segmentato) e a creare la memoria di traduzione nello strumento CAT di loro scelta, dopo aver ricevuto il file bilingue intermedio tradotto da traduttore (assicurando che le informazioni di formattazione contenute all'interno della memoria di traduzione sarà compatibile con i progetti futuri).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T110146Z">
@@ -40696,6 +40920,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192801Z">
         <seg>I file di questo sito, in un pacchetto conveniente per coloro che desiderano localizzarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183951Z">
+        <seg>I filtri disponibili sono principalmente per formati di file particolari ai file IT industria piuttosto che per l'utente finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41160,6 +41392,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153550Z">
         <seg>OmegaT mostra le informazioni interne di formattazione, rese possibili dai formati supportati [nello specifico DocBook, HTML, XHTML, Open Document Format (ODF) e Office Open XML (a partire da MS Office 2007)], sotto forma di tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The individual bilingual file formats are described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183919Z">
+        <seg>I formati di file singoli bilingue sono descritte di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43177,6 +43417,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation may for example be passed to a checker for editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183844Z">
+        <seg>La traduzione può essere passata ad esempio a un correttore per la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation memories can be very useful when a document, that's been already translated, needs to be updated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T080952Z">
@@ -43197,6 +43445,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T104147Z">
         <seg>La traduzione dei segmenti dipende dal parametro &lt;c4&gt;--pseudotranslatetype&lt;/c4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation stage is only part of the customer's workflow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183840Z">
+        <seg>La fase di traduzione è solo una parte del flusso di lavoro del cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43611,6 +43867,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are at least three reasons why a customer may request delivery of a translation in a particular bilingual file format (rather than simply delivery of the translated file and possibly also the translation memory):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183825Z">
+        <seg>Ci sono almeno tre ragioni perché un cliente può richiedere la consegna di una traduzione in un particolare formato bilingue (piuttosto che semplicemente consegna del file tradotto e possibilmente anche la memoria di traduzione):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T211006Z">
@@ -43957,6 +44221,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184015Z">
+        <seg>Questi segmenti sono contrassegnati e delimitati da caratteri speciali e MS Word stili di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T213240Z">
@@ -44173,6 +44445,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They have however become an important phenomenon in translation workflows involving CAT tools, and they often present the greatest obstacle to compatibility between OmegaT and other CAT tools (or for that matter between CAT tools in general).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183822Z">
+        <seg>Tuttavia, essi sono diventati un fenomeno importante nella traduzione dei flussi di lavoro che coinvolgono strumenti CAT e sono spesso presenti il più grande ostacolo alla compatibilità tra OmegaT e altri strumenti CAT (o per quella materia tra strumenti CAT in generale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They have the meaning, familiar to Word users:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172506Z">
@@ -44378,6 +44658,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T142352Z">
         <seg>Questo può essere eseguito in due modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be done either within the CAT tool concerned, or in some cases in an external bilingual file format which the tool is capable of reading.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183852Z">
+        <seg>Questo può essere fatto all'interno dello strumento CAT interessato, o in alcuni casi in un formato di file esterno bilingue che lo strumento è in grado di leggere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44682,6 +44970,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T213236Z">
         <seg>Al principio questa cartella è vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This format can be converted easily to the TMX format by third-party utilities such as &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183739Z">
+        <seg>Questo formato può essere convertito facilmente in formato TMX da Utility di terze parti come &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46952,6 +47248,22 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190141Z">
         <seg>Sistema di revisione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados "uncleaned RTF"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183955Z">
+        <seg>Trados "ripuliti RTF"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados TTX format is the counterpart to the "uncleaned RTF" format for Trados Tag Editor, which unlike Trados Workbench, does not work in direct combination with MS Word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184035Z">
+        <seg>Formato Trados TTX è la controparte per il formato "RTF non puliti" per Trados Tag Editor, che a differenza di Trados Workbench, non funziona in combinazione diretta con MS Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50431,6 +50743,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Without preparation in this way, the original file format may be accessible to the translator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183835Z">
+        <seg>Senza preparazione in questo modo, il formato di file originale possa essere accessibile al traduttore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143710Z">
@@ -50635,6 +50955,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170718Z">
         <seg>Opzioni filtro XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF is the industry-standard bilingual file format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183924Z">
+        <seg>XLIFF è il formato standard di settore bilingue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54411,6 +54739,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204243Z">
         <seg>Skye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183755Z">
+        <seg>termine &lt;tab&gt;di origine destinazione termine &lt;tab&gt;informazioni aggiuntive</seg>
       </tuv>
     </tu>
     <tu>
