@@ -3017,6 +3017,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202245Z">
+        <seg>&lt;a0&gt;Scarica Abiword qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Download LibreOffice here&lt;/a0&gt;; &lt;a1&gt;download the Unoconv plug-in here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202258Z">
+        <seg>&lt;a0&gt;Scarica LibreOffice qui&lt;/a0&gt;; &lt;a1&gt;Scarica qui il plug-in Unoconv&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download Overview&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190721Z">
@@ -3341,6 +3357,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183745Z">
         <seg>&lt;a1&gt;Across&lt;/a1&gt; può anche essere utilizzato per questo scopo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Download Chrome from www.google.com/chrome&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202145Z">
+        <seg>&lt;a1&gt;Scarica Chrome da www.google.com/chrome&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Download it from www.opera.com&lt;/a1&gt; (or for Linux users: through your distribution's repository).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202131Z">
+        <seg>&lt;a1&gt;Scaricalo da www.opera.com&lt;/a1&gt; (o per gli utenti Linux: tramite repository della vostra distribuzione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9140,6 +9172,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A schematic diagram is shown below:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202316Z">
+        <seg>Di seguito è riportato un diagramma schematico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A script (for Windows only) and procedure was recently (2008) developed enabling OmegaT users to produce Trados uncleaned RTF files for delivery at the end of their translation stage.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184020Z">
@@ -9328,6 +9368,22 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095455Z">
         <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abiword and LibreOffice are a word processor and an office suite respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202227Z">
+        <seg>AbiWord e LibreOffice sono rispettivamente un word processor e una suite per ufficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abiword is a relatively small download and is very fast in use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202235Z">
+        <seg>AbiWord è un relativamente piccolo download ed è molto veloce nell'uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9792,6 +9848,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T200044Z">
         <seg>Dopo aver ultimato la segmentazione del file di partenza in unità strutturali, &lt;a0&gt;OmegaT&lt;/a0&gt; avvierà un'ulteriore segmentazione di tali blocchi in frasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After selecting and installing a suitable browser (and/or the required add-on), open your translated file in the /target folder of your project:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202152Z">
+        <seg>Dopo la selezione e l'installazione di un browser adatto (e/o il componente aggiuntivo richiesto), aprire il file convertito nella cartella del progetto /target:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10389,6 +10453,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although this has many advantages, it can be very useful for the translator to be able to see the ultimate layout and formatting whilst translating.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202048Z">
+        <seg>Anche se questo ha molti vantaggi, possono essere molto utile per il traduttore essere in grado di vedere l'ultimo layout e la formattazione mentre tradurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T230201Z">
@@ -10513,6 +10585,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213707Z">
         <seg>Un esempio è quello di creare una cartella "dizionari" nella cartella Programmi: (Avvio &gt; Risorse del Computer &gt; &lt;s0/&gt; Disco locale (C :) &gt; Programmi &gt; clic destro &gt; Nuova cartella, il nome "Dizionari".) Dal menù di OmegaT, fare clic su Opzioni &gt; Correzione ortografica... .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example script that achieves this function is described in the &lt;a0&gt;Priorview Howto&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202325Z">
+        <seg>Un esempio di script che realizza questa funzione è descritta nel &lt;a0&gt;Priorview Howto&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,6 +11854,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background and principles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202343Z">
+        <seg>Background e principi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background situation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130255Z">
@@ -12184,6 +12272,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both are free, available for a number of different platforms, and can convert .docx and .odt files to .html format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202230Z">
+        <seg>Entrambi sono gratis, disponibili per un numero di piattaforme differenti e può convertire i file docx e ODT in formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both search types support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T132339Z">
@@ -12356,6 +12452,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145917Z">
         <seg>Ma non riesco a programmare tutto, sento dire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But it will at least stay at the same point in the text when the view is updated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202217Z">
+        <seg>Ma almeno rimarrà nello stesso punto del testo quando viene aggiornata la visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13164,6 +13268,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104524Z">
         <seg>Scegliere &lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chrome is also available for all platforms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202142Z">
+        <seg>Chrome è anche disponibile per tutte le piattaforme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17735,6 +17847,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Examples of browsers with an automatic refresh function:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202113Z">
+        <seg>Esempi di browser con una funzione di aggiornamento automatico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Examples:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T105949Z">
@@ -19585,6 +19705,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this reason, many CAT tools provide a preview function that shows the layout and formatting without the translator having to create the final document and open it in a separate application (usually a word processor).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202051Z">
+        <seg>Per questo motivo, molti strumenti CAT forniscono una funzione di anteprima che mostra il layout e la formattazione senza il traduttore dover creare il documento finale e aprirlo in un'applicazione separata (solitamente un word processor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a ".bat file" on Windows systems).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T162054Z">
@@ -21148,6 +21276,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HowTo: The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202340Z">
+        <seg>HowTo: L'utilità di anteprima di "Priorview"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HowTo: Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195154Z">
@@ -21480,6 +21616,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T195618Z">
         <seg>Le icone e le immagini del logo si trovano qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ideally, a viewer should do two things:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202058Z">
+        <seg>Idealmente, un visualizzatore dovrebbe fare due cose:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22800,6 +22944,14 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T213656Z">
         <seg>Se si hanno a disposizione memorie di traduzione create in precedenza, per esempio dall'agenzia di traduzione, o dal cliente, OmegaT le può utilizzare come memorie di riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are translating .html files, a convenient solution is to use a browser with an automatic refresh function to provide a ready-made preview function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202103Z">
+        <seg>Se si sono traducendo i file. html, una comoda soluzione è utilizzare un browser con una funzione di aggiornamento automatico per fornire una funzione di anteprima già pronti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24174,6 +24326,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132118Z">
         <seg>In un file "Vista esterna" ancora non tradotto, la colonna di destinazione è vuota.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both Firefox and Opera, this can be done by right-clicking in the translated .html file you have opened, then Reload every &gt; select a desired interval (e.g. 5 seconds).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202200Z">
+        <seg>In Firefox e Opera, questo può essere fatto facendo clic destro nel file HTML tradotto si sono aperti, quindi ricaricare ogni &amp;amp;gt; selezionare un intervallo desiderato (ad esempio 5 secondi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25928,6 +26088,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202255Z">
+        <seg>Può anche essere utilizzato per convertire i file docx e ODT in formato HTML, ma per farlo dalla riga di comando, si richiede anche Unoconv, un plug-in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T133623Z">
@@ -26062,6 +26230,14 @@ Simply launch the installation program.</seg>
         <seg>Consente ai redattori che non possiedono Déjà Vu di modificare le traduzioni prodotte in Déjà Vu, in modo che le modifiche possano essere reintrodotte facilmente.
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It has a command-line function for converting .docx and .odt files to .html format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202238Z">
+        <seg>Dispone di una funzione della riga di comando per convertire file docx e ODT in formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26413,6 +26589,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is very easy for Linux users and fairly easy for Windows users to install.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202241Z">
+        <seg>È molto facile per gli utenti Linux e abbastanza facile per gli utenti di Windows da installare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192525Z">
@@ -26497,6 +26681,22 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T210903Z">
         <seg>Dovrebbe essere possibile tradurre una versione del testo in testo semplice e aggiungere in seguito lo stile necessario con l'appropriata applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should be updated continually.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202101Z">
+        <seg>Esso deve essere aggiornato continuamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should display the text with something approaching the final layout and formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202059Z">
+        <seg>Si dovrebbe visualizzare il testo con qualcosa si avvicina il finale layout e la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27592,6 +27792,14 @@ OmegaT può essere avviato in vari modi.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200738Z">
         <seg>Più recenti versioni di OpenOffice.org e LibreOffice ora utilizzano il formato "estensioni" per questi dizionari, in cui i file sono forniti in un archivio zip con hanno l'estensione .oxt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is a fully featured office suite similar to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202252Z">
+        <seg>LibreOffice è una suite di office completa simile a Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29243,6 +29451,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most modern CAT tools display the text in segment-oriented form rather than with its ultimate layout and formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202047Z">
+        <seg>Più moderni strumenti CAT visualizzano il testo in forma di segmento orientato piuttosto che con l'ultimo layout e la formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T172852Z">
@@ -30715,6 +30931,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now enable automatic refreshing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202158Z">
+        <seg>Ora attiva aggiornamento automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now simply place the cursor anywhere in the paragraph and press Ctrl+Shift+9 (or whatever other keyboard shortcut you selected), and you should see the formatting disappear.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194439Z">
@@ -31383,6 +31607,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213840Z">
         <seg>OmegaT consente di eliminare i tag e di modificarne l'ordine, ma solo se determinate regole vengono seguite attentamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202053Z">
+        <seg>OmegaT non hanno una funzione di anteprima integrale, ma è possibile fornire molto la stessa funzionalità utilizzando software aggiuntivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33013,6 +33245,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have installed either Abiword or the LibreOffice+Uniconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202300Z">
+        <seg>Una volta che avete installato Abiword o la combinazione di LibreOffice + Uniconv, è possibile convertire i file di destinazione prodotti da OmegaT in formato html in ordine per poter essere letto dal browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have joined, you can post questions there regarding OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T193035Z">
@@ -33471,6 +33711,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening your translated target file in a browser is easy when your source file is in .html format, but translations more often involve word-processing files, which in OmegaT are usually handled in .docx or .odt format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202221Z">
+        <seg>Aprire il file di destinazione tradotte in un browser è facile quando il file di origine è in formato HTML, ma traduzioni coinvolgono più spesso file di elaborazione testi, che in OmegaT sono solitamente gestiti in formato docx o ODT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Openoffice.org Dictionaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090038Z">
@@ -33555,6 +33803,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T141555Z">
         <seg>Apre la finestra di convalida dei tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opera is available for all platforms; it is also very fast and requires low hardware resources.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202127Z">
+        <seg>Opera è disponibile per tutte le piattaforme; Inoltre è molto velocizza e richiede risorse hardware di basso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34882,6 +35138,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previewing word-processing files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202220Z">
+        <seg>L'anteprima dei file elaborazione testi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T101534Z">
@@ -34939,6 +35203,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Principles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202056Z">
+        <seg>Principi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printf variables - do not check, check simple, check all</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T182151Z">
@@ -34951,6 +35223,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141825Z">
         <seg>Priorità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priorview is a small utility that provides a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202351Z">
+        <seg>Priorview è una piccola utility che fornisce una funzione di anteprima per uso con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36120,6 +36400,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203340Z">
         <seg>Tenere presente che, se si ha difficoltà nella gestione dei tag in OmegaT e se la formattazione non ha un'importanza primaria per la traduzione, rimuovere i tag potrebbe essere il sistema migliore per risolvere i problemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202303Z">
+        <seg>Ricordate che prima dovrete salvare in OmegaT e produrre i documenti tradotti, avviare l'utilità di conversione e quindi attendere che il display essere aggiornata nel browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42634,6 +42922,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The automatic refresh function is built in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202134Z">
+        <seg>La funzione di aggiornamento automatico è costruita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The available options are:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T161840Z">
@@ -42742,6 +43038,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T090024Z">
         <seg>Il certificato è firmato da "Didier Briel".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202205Z">
+        <seg>Il cambiamento quindi diventerà visibile dopo un ritardo di al massimo dell'intervallo selezionato (più il tempo impiegato da OmegaT per risparmiare e produrre i file di destinazione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46843,6 +47147,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are numerous ways of achiving this, but one practical solution is to use a script which "listens" for changes in the translated file(s) produced by OmegaT and then, when a change is detected, automatically launches the utility which converts the file(s) to html format in order for them to be read by the browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202306Z">
+        <seg>Ci sono molti modi di achiving questo, ma una soluzione pratica è quella di utilizzare uno script che "ascolta" per eventuali modifiche ai file tradotti prodotto da OmegaT e poi, quando viene rilevata una modifica, avvia automaticamente il programma di utilità che converte i file in formato html in ordine per poter essere letto dal browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are several &lt;a0&gt;methods&lt;/a0&gt; to specify the file's encoding so that its contents is not garbled when opened in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T164204Z">
@@ -47537,6 +47849,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130044Z">
         <seg>Questa guida spiega come utilizzare OmegaT in collaborazione con Déjà Vu strumento CAT di Atril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo describes the general principles for setting up a preview function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202055Z">
+        <seg>Questo HowTo descrive i principi generali per l'impostazione di una funzione di anteprima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49339,6 +49659,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202122Z">
+        <seg>Per aggiungere una funzione di aggiornamento automatico di Firefox, &lt;a2&gt;installare il componente aggiuntivo "ReloadEvery"&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T215411Z">
@@ -49359,6 +49687,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T084740Z">
         <seg>Per aggiungere gli argomenti, è necessario digitare i comandi di avvio con gli argomenti nella riga di comando oppure modificare lo script in base alle proprie necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add the auto refresh function to Chrome, &lt;a2&gt;download and install the Auto Refresh Plus extension&lt;/a2&gt; from the Web Store.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202147Z">
+        <seg>Per aggiungere la funzione di aggiornamento automatico per Chrome, &lt;a2&gt;scaricare e installare l'estensione Auto Refresh Plus&lt;/a2&gt; dall'archivio Web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50352,6 +50688,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To update the display, you must still save and create your target document in OmegaT with Ctrl+s, Ctrl+d.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202203Z">
+        <seg>Per aggiornare la visualizzazione, è necessario ancora salvare e creare il vostro documento di destinazione in OmegaT con Ctrl + s, Ctrl + d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To update the local files, right/click on the checkout directory and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124937Z">
@@ -51208,6 +51552,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T095145Z">
         <seg>Due linguette nella parte inferiore della finestra aprono rispettivamente i pannelli del "Dizionario" e della "Traduzione automatica".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Two programs that can be used as converters are described here: Abiword and LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202225Z">
+        <seg>Due programmi che possono essere utilizzati come convertitori sono descritti qui: Abiword e LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52521,6 +52873,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Firefox: with File &gt; Open File</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202154Z">
+        <seg>Utilizzando Firefox: Con File &amp;amp;gt; Apri file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Google Translate in OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194833Z">
@@ -52557,6 +52917,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101448Z">
         <seg>Uso delle memorie di OmegaT in altri strumenti di traduzione assistita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Opera: with Opera &gt; Page &gt; Open</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202156Z">
+        <seg>Usando Opera: Con Opera &amp;amp;gt; pagina &amp;amp;gt; Apri</seg>
       </tuv>
     </tu>
     <tu>
@@ -54111,6 +54479,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202116Z">
+        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; maggior parte degli utenti Linux avrà già installato, o può essere installato tramite repository loro distribuzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows users:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194906Z">
@@ -55383,6 +55759,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can still use the browser solution described above to preview the translations of these files, but you will then also need a) a converter to convert the file to .html format, and b) a utility to launch the converter automatically so that you don't have to convert the files manually.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202224Z">
+        <seg>È comunque possibile utilizzare la soluzione di browser descritta sopra per visualizzare in anteprima le traduzioni di questi file, ma poi sarà necessario anche un) un convertitore per convertire il file in formato. html e b) un programma di utilità per lanciare automaticamente il convertitore così che non devi convertire i file manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can tell OmegaT to insert any first match above a specified percentage into the target field automatically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T164730Z">
@@ -55732,6 +56116,14 @@ SourceForge too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may prefer &lt;i0&gt;not&lt;/i0&gt; to use your usual browser for the preview function so as to keep it free for Internet browsing rather than having constantly to switch tabs, so you can regard installing an additional browser for the preview function as an advantage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202150Z">
+        <seg>È preferibile &lt;i0&gt;non&lt;/i0&gt; utilizzare il vostro browser abituale per la funzione di anteprima in modo da tenerlo libero per Internet browsing, piuttosto che dover continuamente passare schede, così si può considerare l'installazione di un browser supplementare per la funzione di anteprima come un vantaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may prefer to leave the untranslated segments as they are and come back later to them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T100536Z">
@@ -55864,6 +56256,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110126T200848Z">
         <seg>È necessario aggiornare il proprio JDK 1.6 all'ultima versione, oppure rimuovere i file jaxb-*.jar dalla directory /lib di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You now have a preview function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202202Z">
+        <seg>Ora avete una funzione di anteprima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56065,6 +56465,14 @@ them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175926Z">
         <seg>La tua cartella &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; conterrà ora&lt;/f1&gt; uno o più file HTML, insieme con i file associati, come quelli grafici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your browser won't automatically scroll as you work through the text; you have to do that yourself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202214Z">
+        <seg>Il tuo browser non scorre automaticamente mentre si lavora attraverso il testo; devi fare che voi stessi.</seg>
       </tuv>
     </tu>
     <tu>
