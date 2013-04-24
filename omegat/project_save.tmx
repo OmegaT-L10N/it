@@ -2817,6 +2817,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194857Z">
+        <seg>&lt;a0&gt;Segui questo link per applicare a Google&lt;/a0&gt; per la chiave di Google Translate API v2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Glossaries&lt;/a0&gt;, &lt;a1&gt;Dictionaries&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T095303Z">
@@ -9236,6 +9244,22 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the following argument to the launch command:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195030Z">
+        <seg>Aggiungere il seguente argomento per il comando di lancio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the following line to the text in the file:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194929Z">
+        <seg>Aggiungere la seguente riga di testo nel file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to the Dock</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T112245Z">
@@ -10861,6 +10885,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As of December 2011, Google has required payment from users for use of this service.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194839Z">
+        <seg>A partire da dicembre 2011, Google ha richiesto il pagamento da parte degli utenti per l'utilizzo di questo servizio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152512Z">
@@ -10969,6 +11001,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T204812Z">
         <seg>Quando si traducono i file, &lt;a0&gt;OmegaT&lt;/a0&gt; memorizza continuamente il lavoro nel file &lt;f1&gt;project_save.tmx&lt;/f1&gt;, all'interno della sottocartella /&lt;f2&gt;omegat&lt;/f2&gt; del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assign the key to OmegaT's launch procedure as follows, depending upon whether you are using Windows, Mac, or launching OmegaT from the command line or by means of a script:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194904Z">
+        <seg>Assegnare la chiave alla procedura di lancio di OmegaT come segue, a seconda se si utilizzano Windows, Mac, o lanciare OmegaT dalla riga di comando o mediante uno script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11628,6 +11668,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095502Z">
         <seg>Benjamin Siband</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194835Z">
+        <seg>Inoltre la pagina web in cui gli utenti possono semplicemente incollare il testo per la traduzione, Google Translate anche fornisce un'interfaccia (API) che può essere utilizzata da CAT-tools per accedere al servizio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12388,6 +12436,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T093158Z">
         <seg>Controllare Google Translate in linea per verificare la lingua accoppiata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195108Z">
+        <seg>Controllare Google Translate v2 (lasciando le altre opzioni non controllato)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13326,6 +13382,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T092943Z">
         <seg>So&amp;mmario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Configuration in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195044Z">
+        <seg>Configurazione in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19684,6 +19748,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Machine Translation is a paid service (US$20.00 per million characters).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195119Z">
+        <seg>Traduzione automatica di Google è un servizio a pagamento (US$ 20,00 per milioni di caratteri).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Translate - example</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T185109Z">
@@ -19760,6 +19832,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T193540Z">
         <seg>Google Translate - Manuale per l'Utente di OmegaT 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google will generate your API key, a string with approximately 39 characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194901Z">
+        <seg>Google genererà la chiave API, una stringa con caratteri circa 39.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22179,6 +22259,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you don't already have one, open an account with google.com.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194848Z">
+        <seg>Se non ne avete già uno, aprire un conto con google.com.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you don't want to use OmegaT to translate the files of some type, you may turn off the filter by checking off the check box near its name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T161352Z">
@@ -23975,6 +24063,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T131802Z">
         <seg>Allo stesso modo, gli utenti di strumenti CAT, compreso OmegaT, che non possiedono Déjà Vu possono tradurre i file preparati da un utente Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the upper menu:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195136Z">
+        <seg>Nel menu in alto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26750,6 +26846,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Locate the configuration file OmegaT.l4J.ini (the default location is C:\Program Files (x86)\OmegaT).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194909Z">
+        <seg>Individuare il file di configurazione OmegaT.l4J.ini (la posizione predefinita è C:\Program Files (x86) \OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T130527Z">
@@ -27223,6 +27327,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154824Z">
         <seg>Assicurarsi di avere un account Microsoft gratuito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that you have the Kaptain launcher installed (&lt;a0&gt;refer if necessary to the Linux Howto)&lt;/a0&gt;, then enter the Google Translate API key in the relevant field on the Connectivity tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195021Z">
+        <seg>Assicurarsi di avere il lanciatore Kaptain installato (&lt;a0&gt;riferirsi eventualmente di Linux Howto)&lt;/a0&gt;, quindi immettere la chiave API di Google Translate nel relativo campo della scheda di connettività.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that you have your credit card details handy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194859Z">
+        <seg>Assicurarsi di avere i dati della carta di credito utili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31951,6 +32071,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open OmegaT.l4J.ini in a plain-text editor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194920Z">
+        <seg>OmegaT.l4J.ini aperto in un editor di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T112127Z">
@@ -35196,10 +35324,26 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on OmegaT.app and select "Show Package Contents".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194938Z">
+        <seg>Tasto destro del mouse su OmegaT.app e selezionare "Mostra contenuto pacchetto".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;5&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T095829Z">
         <seg>Fare clic col destro su un pulsante da "&lt;1&gt;" a "&lt;5&gt;" nella parte inferiore del pannello e selezionare "Aggiungi".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the file Info.plist and select your preferred editor to open the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194945Z">
+        <seg>Tasto destro del mouse sul file info. plist e selezionare il vostro editor preferito per aprire il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36872,6 +37016,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T165832Z">
         <seg>Seleziona la concordanza #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Options &gt; Machine Translate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195100Z">
+        <seg>Selezionare Opzioni &gt; macchina tradurre</seg>
       </tuv>
     </tu>
     <tu>
@@ -41022,6 +41174,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172748Z">
         <seg>L'idea di base è che il testo viene presentato un segmento alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The basic launch command with the Google Translate API added will therefore be:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195037Z">
+        <seg>Il comando di lancio base con il Google Translate API aggiunto sarà quindi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45557,6 +45717,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo describes how to configure the function in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194841Z">
+        <seg>Questo HowTo descrive come configurare la funzione di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130044Z">
@@ -47528,6 +47696,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T195714Z">
         <seg>per duplicare gruppi di tag sarà sufficiente copiarli nella posizione finale corretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit this file, you may need Administrator mode, or to move it temporarily to a different location on your hard drive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194911Z">
+        <seg>Per modificare questo file, potrebbe essere necessario modalità amministratore, o per spostare temporaneamente in una posizione diversa sul disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50169,6 +50345,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users launching OmegaT from the command line or by a script:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195026Z">
+        <seg>Utenti di lanciare OmegaT dalla riga di comando o da uno script:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T231054Z">
@@ -50229,6 +50413,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T204610Z">
         <seg>L'uso di Ctrl+Maiusc+O modifica in RTL la visualizzazione e l'immissione del testo in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194833Z">
+        <seg>Utilizzando Google Translate in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -51775,6 +51967,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows users:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194906Z">
+        <seg>Utenti Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows you may use now and then</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T143047Z">
@@ -52560,6 +52760,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T211505Z">
         <seg>Lo si potrà verificare di persona selezionando il comando &lt;s0&gt;Filtri dei file&lt;/s0&gt; del menu &lt;s1&gt;Opzioni&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can check the daily usage from your Google account.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195124Z">
+        <seg>È possibile controllare l'utilizzo quotidiano dal tuo account Google.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53859,6 +54067,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T232736Z">
         <seg>ed essere tradotto così da OmegaT in tedesco:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and immediately after them, add the lines:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195007Z">
+        <seg>e subito dopo di loro, aggiungere le righe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56691,6 +56907,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T091113Z">
         <seg>quando OmegaT è avviato senza argomenti, il programma individua prima la lingua del sistema operativo dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where "XXXXXXXX" is your Google Translate API key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195016Z">
+        <seg>dove "XXXXXXXX" è la vostra chiave API di Google Translate.</seg>
       </tuv>
     </tu>
     <tu>
