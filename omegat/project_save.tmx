@@ -29099,6 +29099,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T144848Z">
+        <seg>OmegaT è software gratuito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T162834Z">
@@ -29121,6 +29129,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T184433Z">
         <seg>OmegaT è ora fornito normalmente con tale programma, in modo che gli utenti non debbano cercarlo, scaricarlo e installarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145021Z">
+        <seg>OmegaT è un software open source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29173,6 +29189,14 @@ la cartella home dell'utente.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093149Z">
         <seg>OmegaT è usare Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T144830Z">
+        <seg>OmegaT non è solo un prodotto; è un progetto entusiasmante, e si può essere parte di esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37898,6 +37922,22 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120122T135807Z">
         <seg>Grazie a tutti!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145130Z">
+        <seg>Ciò significa che se ti senti così inclinato, è possibile modificare OmegaT per soddisfare le proprie esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T144942Z">
+        <seg>Ciò significa che gli utenti come te sono liberi di scaricare e utilizzare con ben poche restrizioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49595,6 +49635,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T110709Z">
         <seg>È possibile eseguire la stessa azione cancellando il segmento di destinazione e premendo il tasto &lt;g4&gt;Invio.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145009Z">
+        <seg>Siete anche liberi di copiarlo e di darlo ad altre persone.</seg>
       </tuv>
     </tu>
     <tu>
