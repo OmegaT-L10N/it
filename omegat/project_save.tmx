@@ -12072,6 +12072,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change folder to the main folder in the OmegaT source code (the folder containing the file build.xml), e.g.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193823Z">
+        <seg>Cambiare la cartella nella cartella principale del codice sorgente di OmegaT (la cartella contenente il file Build. Xml), ad esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the encoding of your files to Unicode</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T211125Z">
@@ -13078,6 +13086,30 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150401Z">
         <seg>Compatibile con altre applicazioni di memoria di traduzione (TMX, TTX, XML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compile the code</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193809Z">
+        <seg>Compilare il codice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193716Z">
+        <seg>OmegaT compilazione da codice sorgente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compiling OmegaT is relevant for developers who wish to make modifications of their own to its code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193739Z">
+        <seg>Compilazione di OmegaT è rilevante per gli sviluppatori che desiderano apportare modifiche di propria al relativo codice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14341,6 +14373,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon how you install the Java Development Kit, you may have to change your "JAVA_HOME" attribute in order for it to function with Ant.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193805Z">
+        <seg>Dipendendo dal come si installa il Kit di sviluppo Java, potrebbe essere necessario modificare l'attributo di "JAVA_HOME" in ordine per farlo funzionare con ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T182125Z">
@@ -15440,6 +15480,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T185251Z">
         <seg>Scaricare e installare Java Runtime Environment (JRE) di Sun servendosi del collegamento sopra riportato, oppure scaricare e installare la versione di OmegaT completa di JRE (il pacchetto .tar.gz contrassegnato "Linux").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download and install the Java Development Kit (JDK) and Apache Ant</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193745Z">
+        <seg>Scaricare e installare il Java Development Kit (JDK) e Apache Ant</seg>
       </tuv>
     </tu>
     <tu>
@@ -18745,6 +18793,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From within this folder, execute Apache Ant by entering the ant executable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193827Z">
+        <seg>All'interno di questa cartella, eseguire Apache Ant inserendo la formica eseguibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T112532Z">
@@ -20825,6 +20881,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not, debugging messages will be shown which will (hopefully) provide some idea of where the problem is.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193842Z">
+        <seg>In caso contrario, i messaggi di debug verrà mostrato (si spera) che fornirà un'idea di dove è il problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not, why not write an article on using OmegaT?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150043Z">
@@ -20973,6 +21037,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174718Z">
         <seg>Se il cliente richiede il formato MS Office, basta salvare il file di destinazione OpenOffice.org nel formato MS pertinente (.doc, e così via)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the code compiles successfully, you will see the "BUILD SUCCESSFUL" message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193838Z">
+        <seg>Se il codice viene compilato correttamente, si vedrà il messaggio «Costruire successo».</seg>
       </tuv>
     </tu>
     <tu>
@@ -24837,6 +24909,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may be necessary to enter the full path, e.g.:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193834Z">
+        <seg>Potrebbe essere necessario immettere il percorso completo, ad esempio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may be opened by pressing &lt;c0&gt;&lt;a1&gt;Ctrl+E&lt;/a1&gt;&lt;/c0&gt; or by calling &lt;s2&gt;Project → Properties...&lt;/s2&gt; from the &lt;a3&gt;main menu&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T214749Z">
@@ -25684,6 +25764,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212828Z">
         <seg>Lettone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193850Z">
+        <seg>Lanciare OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -29235,6 +29323,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT HowTo: &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193704Z">
+        <seg>Guida OmegaT: &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT HowTo: OmegaT compatibility with Déjà Vu</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T125945Z">
@@ -30005,6 +30101,14 @@ la cartella home dell'utente.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213051Z">
         <seg>OmegaT è fornito come pacchetto scaricabile da SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied ready-compiled for a number of platforms, including a cross-platform version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193726Z">
+        <seg>OmegaT è fornito pronto-compilato per un certo numero di piattaforme, tra cui una versione cross-platform.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31379,6 +31483,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100035Z">
         <seg>Opzioni filtro Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open a command-line window (console, DOS window).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193816Z">
+        <seg>Aprire una finestra della riga di comando (console, finestra DOS).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39415,6 +39527,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a1&gt;Java Development Kit&lt;/a1&gt; (JDK) is also required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193800Z">
+        <seg>È necessario anche il &lt;a1&gt;Java Development Kit&lt;/a1&gt; (JDK).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a2&gt; FAQ&lt;/a2&gt; corner there may be a good start for your questions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T172656Z">
@@ -41272,6 +41392,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T112108Z">
         <seg>La cartella contiene due file: index.html e &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copiare la cartella nella cartella prescelta (per es., Applicazioni).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The folder names indicated below are for illustration only; version numbers will change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193812Z">
+        <seg>I nomi delle cartelle sotto indicati sono per illustrazione solo; cambieranno i numeri di versione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44801,6 +44929,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T182852Z">
         <seg>Questa GUIDA descrive la compatibilità di OmegaT con altri prodotti software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193721Z">
+        <seg>Questo HowTo descrive come compilare OmegaT dal codice sorgente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49337,6 +49473,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users do not therefore need to compile OmegaT themselves.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193731Z">
+        <seg>Gli utenti non pertanto necessario compilare OmegaT stessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T231054Z">
@@ -49685,6 +49829,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T150629Z">
         <seg>Saranno visualizzate le varianti nelle seguenti langue: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Various programs can be used to compile the source code again after you have modified it, but among the most convenient is &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193750Z">
+        <seg>Vari programmi possono essere utilizzati per compilare il codice sorgente nuovamente dopo aver modificato si, ma tra la più conveniente sono &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
