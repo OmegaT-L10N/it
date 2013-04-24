@@ -1349,6 +1349,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Record as described above, but only recording the command Ctrl+C followed by Ctrl+V.) You can then highlight text between the points at which formatting changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194641Z">
+        <seg>(Record come descritto sopra, ma solo registrare il comando Ctrl + C seguito da Ctrl + V). Si può quindi evidenziare il testo tra i punti in cui le modifiche di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See User's Manual for how to set up a glossary.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T185300Z">
@@ -9596,6 +9604,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again, click the main "Office" button, then Word options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194546Z">
+        <seg>Ancora una volta, fare clic su pulsante "Office" principale, poi opzioni di Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggregate Tags</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T084428Z">
@@ -10613,6 +10629,14 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T173556Z">
         <seg>File dell'applicazione: essi sono inclusi nel pacchetto scaricato e la maggior parte di essi sono necessari affinché OmegaT funzioni correttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply styles to delimiters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194804Z">
+        <seg>Applicare stili di delimitatori</seg>
       </tuv>
     </tu>
     <tu>
@@ -12704,6 +12728,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on Add.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194604Z">
+        <seg>Fare clic su Aggiungi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on Assign to assign the shortcut to the macro that you are about to record.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194309Z">
@@ -12716,6 +12748,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194344Z">
         <seg>Fare clic su macro e seleziona levelformat (o qualunque sia il nome ha dato alla vostra macro), quindi modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on Modify.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194610Z">
+        <seg>Fare clic su Modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12942,6 +12982,14 @@ application folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205232Z">
         <seg>Chiudere il progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close/confirm the dialogs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194539Z">
+        <seg>Chiudi/confermare le finestre di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13941,6 +13989,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a second macro (with its own button and/or keyboard shortcut) of your own that only levels highlighted text, rather than the entire paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194636Z">
+        <seg>Creare una seconda macro (con un proprio collegamento pulsante e/o tastiera) dei vostri propri che solo livelli testo evidenziato, piuttosto che l'intero paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create an empty folder, where you will keep your project and right/click on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110248Z">
@@ -13965,6 +14021,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create target documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194758Z">
+        <seg>Creare documenti di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create the "plugins" folder first, if it does not exist.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T093428Z">
@@ -13977,6 +14041,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194221Z">
         <seg>Creare la macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create the target documents as usual and convert the file to Microsoft Word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194802Z">
+        <seg>Creare i documenti di destinazione come al solito e convertire il file in Microsoft Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17103,6 +17175,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exporting from OmegaT to "Trados uncleaned RTF" format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194726Z">
+        <seg>Esportazione da OmegaT in formato "RTF Trados non ripuliti"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exporting the current segment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T095800Z">
@@ -18693,6 +18773,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125750Z">
         <seg>Per il suo uso successivo basta solo aprire il progetto come qualsiasi progetto &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For such paragraphs, consider the following alternatives:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194626Z">
+        <seg>Per tali paragrafi, considerare le seguenti alternative:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23017,6 +23105,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Microsoft Word, run the following macro to apply the relevant styles to the target document(s):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194806Z">
+        <seg>In Microsoft Word, eseguire la seguente macro per applicare gli stili pertinenti per la documenti dei destinazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141445Z">
@@ -23250,6 +23346,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In conjunction with the te-st-notags script, this provides a separate window in which tags are not displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194654Z">
+        <seg>In combinazione con lo script di te-st-notags, questo fornisce una finestra separata in cui tag non vengono visualizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183238Z">
@@ -23422,6 +23526,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T201220Z">
         <seg>In altre parole, assicurarsi che, quando si spostano tag accoppiati, entrambi i tag di apertura e chiusura siano all'esterno o all'interno dell'altra coppia di tag, in caso contrario file tradotto potrebbe risultare danneggiato e potrebbe anche non essere possibile aprirlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In paragraphs containing lots of formatting, restoring the deleted formatting can be quite a lot of work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194624Z">
+        <seg>Nei paragrafi che contengono un sacco di formattazione, ripristinare la formattazione eliminati possono essere un sacco di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24267,6 +24379,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Trados segment delimiters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194746Z">
+        <seg>Inserire i delimitatori di segmento di Trados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert match</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T130501Z">
@@ -24824,6 +24944,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It does not enable them to "translate" bilingual files supplied by their customers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194741Z">
+        <seg>Non permettere loro di "tradurre" file bilingui forniti dai clienti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T092955Z">
@@ -25233,6 +25361,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T102412Z">
         <seg>Può succedere che le memorie di traduzione contenute nella sottocartella &lt;f0&gt; tm&lt;/f0&gt;, contengano segmenti con testo di origine identico ma testo di destinazione diverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It only enables translators to generate (i.e. deliver) Trados uncleaned files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194740Z">
+        <seg>Permette solo di traduttori generare (cioè consegnare) Trados ripuliti i file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27807,6 +27943,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212928Z">
         <seg>Mongolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More advanced users may wish to try OmegaT's Text Export function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194653Z">
+        <seg>Gli utenti più avanzati potrebbero desiderare di provare la funzione Esporta testo di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31229,6 +31373,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Error Resume Next&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194811Z">
+        <seg>On Error Resume Next &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T081801Z">
@@ -32519,6 +32671,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraphs that you have not "levelled" will then contain nuisance tags, but at least the others will be much "cleaner".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194651Z">
+        <seg>Paragrafi che non sono "mosse" conterrà quindi i tag di fastidio, ma almeno l'altri saranno molto più "puliti".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraphs, sections and tables are set to bidi</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T152652Z">
@@ -32708,6 +32868,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193731Z">
         <seg>Filosofia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick a symbol, then OK &gt; OK.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194613Z">
+        <seg>Scegliete un simbolo, quindi OK &amp;amp;gt; OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33082,6 +33250,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Points to note:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194732Z">
+        <seg>Punti da tenere presente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213150Z">
@@ -33399,6 +33575,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T090803Z">
         <seg>Privacy:&lt;/s6&gt; OmegaT Java Web Start non salva informazioni utente all'esterno del computer in cui viene eseguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Sub AddTw4winStyles()&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194808Z">
+        <seg>Private Sub AddTw4winStyles() &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36848,6 +37032,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T174043Z">
         <seg>Selezionare questa voce di menu, se l'attuale traduzione, non è adatta e inserire la traduzione alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select your macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194602Z">
+        <seg>Selezionare la macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41220,6 +41412,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current shortcut will be displayed in the relevant box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194525Z">
+        <seg>Scelta rapida corrente verranno visualizzato nella casella pertinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current version of the service is based on usage, with the price of 20 USD per million characters at the time of writing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T182850Z">
@@ -43401,6 +43601,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script is available for the Windows platform only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194737Z">
+        <seg>Lo script è disponibile per la piattaforma Windows solo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script is running...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T184132Z">
@@ -43909,6 +44117,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T230718Z">
         <seg>Il suggerimento può essere verificato, prima della sua immissione, all'interno della finestra the Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The symbol for your macro should appear in the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194616Z">
+        <seg>Il simbolo per la macro dovrebbe apparire nella barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44534,6 +44750,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145308Z">
         <seg>Quindi di spostare la fine della selezione un carattere a sinistra, in modo che non includa il segno di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then on the right, under Macros, select levelformat (or whatever you called your macro).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194522Z">
+        <seg>Poi a destra, sotto le macro, selezionare levelformat (o come si chiama il tuo macro).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45341,6 +45565,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194728Z">
+        <seg>Questo HowTo spiega come produrre un file "RTF non ripuliti" da un progetto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo provides tips on translating MS Office 2007 (and later) files in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T140743Z">
@@ -45490,6 +45722,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213133Z">
         <seg>Questo capitolo considererà il pacchetto indipendente da piattaforma, che contiene l'applicazione in una forma Java standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This code/procedure combination has not yet been thoroughly tested (though initial reports are promising).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194735Z">
+        <seg>Questa combinazione di codice/procedura non è ancora stato accuratamente testata (anche se i rapporti iniziali sono promettenti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45802,6 +46042,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T211525Z">
         <seg>Questo formato è uguale a quello separato da tabulazione: termine sorgente, termine di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This format may be a practical interchange format for users of other CAT tools, particularly Trados and Wordfast Classic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194731Z">
+        <seg>Questo formato può essere un formato di interscambio pratico per gli utenti di altri strumenti CAT, particolarmente Trados e Wordfast Classic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46290,6 +46538,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This macro is useful for levelling the formatting of a whole paragraph that contains no visible formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194619Z">
+        <seg>Questa macro è utile per la formattazione di un paragrafo intero che non contiene alcuna formattazione visibile di livellamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This mailing list is for localizers of OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T151059Z">
@@ -46742,6 +46998,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120729T170728Z">
         <seg>Ciò li riporterebbe alla condizione di "non tradotti", dato che, nonostante la vecchia traduzione sia ancora presente, non corrisponderebbero più ai segmenti registrati nella memoria del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will level the formatting over sections of text that have the same, desired formatting, and you will not then need to restore deleted formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194644Z">
+        <seg>Questo livello di formattazione sopra sezioni di testo che hanno la formattazione desiderata, stesso, e non sarà quindi necessario ripristinare la formattazione eliminati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47658,6 +47922,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T184201Z">
         <seg>Per partecipare allo sviluppo di OmegaT, mettersi in contatto con gli sviluppatori all'indirizzo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To produce a bilingual OpenOffice.Org file containing the Trados segment delimiters, close the OmegaT project, then run the following AutoIt script (requires Windows) on the project's project_save.tmx file:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194754Z">
+        <seg>Per produrre un file di OpenOffice.Org bilingue contenente i delimitatori di segmento di Trados, chiudere il progetto OmegaT, quindi eseguire il seguente script AutoIt (richiede Windows) il file del progetto project_save.tmx:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49480,6 +49752,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the level formatting macro only on paragraphs with little or no formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194649Z">
+        <seg>Utilizzare il livello di formattazione macro solo su paragrafi con poca o nessuna formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the spin box to adjust size of the selected font</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T182518Z">
@@ -51221,6 +51501,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where a paragraph contains desired formatting, you must restore the deleted formatting after levelling the paragraph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194621Z">
+        <seg>Dove un paragrafo contiene formattazione desiderata, è necessario ripristinare la formattazione eliminati dopo il paragrafo di livellamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Where circumstances permit, unifying used fonts, font sizes, colors, etc. should be considered, as it could simplify the translation and reduce the potential for tag errors.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T203156Z">
@@ -52292,6 +52580,14 @@ to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can clear it by selecting it and hitting Delete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194528Z">
+        <seg>È possibile cancellare selezionandola e premendo CANC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can convert MS Office 1997/2000/2003/XP files to MS Office 2007 format by opening them in MS Office 2007 and saving them with "Save As" in the new format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152129Z">
@@ -52703,6 +52999,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then enter a new shortcut and assign it with Assign as you did before.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194532Z">
+        <seg>Puoi poi inserire un nuovo collegamento e assegnarla con assegnare come avete fatto prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then launch the Kaptain launch script with</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095213Z">
@@ -52799,6 +53103,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T182858Z">
         <seg>Per copiare e incollare il suo contenuto, è possibile usare la sequenza di comandi &lt;g3&gt;Ctrl+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;, Ctrl+C &lt;i6/&gt;&lt;/g5&gt;, &lt;g7&gt;Ctrl+V &lt;i8/&gt;&lt;/g7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use a similar procedure to create a button for your macro:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194543Z">
+        <seg>È possibile utilizzare una procedura simile per creare un pulsante per la macro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53084,6 +53396,14 @@ SourceForge too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You must still handle tags properly when producing and editing your translation, but you can view it in a separate window without the clutter of tags ("tag soup").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194657Z">
+        <seg>È ancora necessario gestire Tag correttamente quando produrre e modificare la traduzione, ma è possibile visualizzare in una finestra separata senza l'ingombro dei tag ("zuppa di tag").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You need OpenOffice.org Writer for it, so - if you haven't already done so - download and install OpenOffice.org.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T223218Z">
@@ -53168,6 +53488,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210114Z">
         <seg>Si dovrebbe essere in grado di aprire i file HTML nel browser &lt;t2/&gt; e vederli approssimativamente come appaiono su Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should see the macro command appear in the right-hand column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194607Z">
+        <seg>Si dovrebbe vedere il comando macro vengono visualizzati nella colonna di destra.</seg>
       </tuv>
     </tu>
     <tu>
