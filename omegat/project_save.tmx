@@ -10169,6 +10169,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An interesting feature of Déjà Vu DVX is its "External View" file format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184107Z">
+        <seg>Una caratteristica interessante di Déjà Vu DVX è formato di file "Vista esterna".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An international standard exists for translation memories: TMX, or Translation Memory eXchange.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183443Z">
@@ -10753,6 +10761,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T183541Z">
         <seg>Per ciò che concerne le categorie utilizzate per l'operazione, viene lo standard de facto di classificazione delle concordanze, ossia: ripetizioni, concordanza esatta, 95%-100%, 85%-94%, 75%-84%, 50%-74% e nessuna concordanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As its name suggests, it is an XML-based format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184055Z">
+        <seg>Come suggerisce il nome, è un formato basato su XML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17808,6 +17824,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details, see the &lt;a0&gt;Déjà Vu "External View" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184142Z">
+        <seg>Per ulteriori informazioni, vedere il &lt;a0&gt;Déjà Vu "Vista esterna" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details, see the &lt;a0&gt;"Exporting from OmegaT to uncleaned RTF" HOWTO&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184025Z">
@@ -24513,6 +24537,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T120527Z">
         <seg>Non è possibile usare lo "stemmer" Lucene dal pacchetto &lt;e0&gt;OmegaT.app&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is not supported by OmegaT at present, and according to Wordfast representatives, it is likely to be superseded by XLIFF in the medium term.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184102Z">
+        <seg>Non è supportato da OmegaT attualmente, e secondo i rappresentanti di Wordfast, rischia di essere superata dalla XLIFF nel medio termine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44926,6 +44958,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This file format enables OmegaT users to deliver bilingual files to users of Déjà Vu DVX, who are then able to edit them further or to incorporate them into automated workflows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184111Z">
+        <seg>Questo formato di file consente agli utenti di OmegaT consegnare i file bilingui per gli utenti di DVX Déjà Vu, che sono quindi in grado di modificarli ulteriormente o di incorporarli in flussi di lavoro automatizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T214438Z">
@@ -50771,6 +50811,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T180002Z">
         <seg>File Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML is the native internal format of Wordfast's new Wordfast Professional (also known as Wordfast 6.0).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184050Z">
+        <seg>Wordfast TXML è il formato nativo di interno di Wordfast nuovo Wordfast Professional (noto anche come Wordfast 6.0).</seg>
       </tuv>
     </tu>
     <tu>
