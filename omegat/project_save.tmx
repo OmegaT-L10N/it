@@ -1493,6 +1493,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200417Z">
+        <seg>(per il percorso della cartella utente OmegaT sul tuo sistema operativo, vedere il manuale dell'utente (F1 all'interno di OmegaT) &amp;amp;gt; file e directory &amp;amp;gt; file utente):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* By double-clicking on the file OmegaT.jar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192422Z">
@@ -1899,6 +1907,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200400Z">
+        <seg>-Testo evidenziato nel testo di destinazione, quando viene premuto il relativo collegamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- INI (key=value) files (*.ini)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120511T190655Z">
@@ -2079,6 +2095,22 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120511T190733Z">
         <seg>- formati di file di testo con tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- The content of the segment source text, when the segment is opened&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200357Z">
+        <seg>-Il contenuto del testo sorgente segmento, quando il segmento è aperto &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- The content of the segment target text, when the segment is opened&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200358Z">
+        <seg>-Il contenuto di testo di destinazione il segmento, quando il segmento è aperto &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11173,6 +11205,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At present, the data exported are:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200355Z">
+        <seg>Attualmente, i dati esportati sono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T153939Z">
@@ -14841,6 +14881,30 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193312Z">
         <seg>Tesi di laurea di Sébastien Guillardeau, 2010 (in tedesco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200138Z">
+        <seg>Eliminare qualsiasi script di lancio e rimuovere eventuali voci personalizzate per OmegaT nel tuo desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete the OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200126Z">
+        <seg>Eliminare la cartella di programma di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete the folder /home/&lt;user&gt;/.omegat of any user account from which OmegaT has been launched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200134Z">
+        <seg>Eliminare la cartella /home/&lt;user&gt;/.omegat di qualsiasi account utente da cui è stato lanciato OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19137,6 +19201,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the text export function to be used, you must first enable it within OmegaT itself:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200407Z">
+        <seg>Per la funzione di esportazione di testo essere utilizzato, è necessario abilitarlo prima all'interno di OmegaT stessa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T181911Z">
@@ -19968,6 +20040,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T215739Z">
         <seg>Vai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to the &lt;a0&gt;new Tokenizers HowTo&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200319Z">
+        <seg>Vai alla &lt;a0&gt;Nuova tokenizer HowTo&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21493,6 +21573,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T104114Z">
         <seg>Se la modalità è is &lt;c2&gt;createpseudotranslatetmx&lt;/c2&gt;, esso creerà un file di memoria di traduzione (specificato dal parametro &lt;c3&gt;--pseudotranslatetmx&lt;/c3&gt;) che include tutti i segmenti del progetto, inclusi quei segmenti che prima non erano stati tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If multiple functions were to be used at the same time in practice, it would be more efficient to combine them in a single script file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200439Z">
+        <seg>Se molteplici funzioni dovevano essere utilizzati allo stesso tempo in pratica, sarebbe più efficiente per combinarli in un unico script file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23649,6 +23737,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, the package &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contains some very simple tcl/tk scripts which are intended to illustrate use of the function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200351Z">
+        <seg>Inoltre, il pacchetto &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contiene alcuni script tcl/tk molto semplici che sono destinati ad illustrare l'utilizzo della funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In all other cases no tag validation is done.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T191311Z">
@@ -23918,6 +24014,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T185502Z">
         <seg>Per modificare o espandere un gruppo esistente di regole, basta farvi clic sopra nella tabella in alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200436Z">
+        <seg>Al fine di rendere il funzionamento del codice script più chiaro, ogni script esegue essenzialmente solo una funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27490,6 +27594,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T182941Z">
         <seg>Specifiche per Mac OSX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OSX users should install tcl/tk from their system media and Linux users should find it in their distribution's repository, if it is not already installed by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200431Z">
+        <seg>Gli utenti Mac OSX dovrebbero installare tcl/tk dai loro supporti di sistema e gli utenti Linux dovrebbero trovare nel repository della loro distribuzione, se non è già installato di default.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32951,6 +33063,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options &gt; Editing behaviour</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200409Z">
+        <seg>Opzioni &amp;amp;gt; modifica il comportamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options Menu</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T182946Z">
@@ -34363,6 +34483,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200401Z">
+        <seg>Programmatori e Scripter può utilizzare i file contenente questo testo al fine di aggiungere ulteriori funzioni di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Programming (Java)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145836Z">
@@ -34839,6 +34967,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145948Z">
         <seg>Pubblicità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Purpose</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200353Z">
+        <seg>Scopo</seg>
       </tuv>
     </tu>
     <tu>
@@ -38476,6 +38612,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200338Z">
+        <seg>A partire dalla versione 2.0.1, OmegaT ha avuto un testo funzione di esportazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Single tags indicate formatting information that does not affect the surrounding text (an extra space or line break for example).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193121Z">
@@ -40462,6 +40606,22 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tcl/tk can be obtained from a number of sources; tcl.activestate.com is one popular source.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200429Z">
+        <seg>Tcl/tk possono essere ottenuti da un certo numero di fonti; Tcl.ActiveState.com è una fonte popolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tcl/tk must be installed, if it is not already.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200428Z">
+        <seg>Tcl/tk deve essere installato, se non è già.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193033Z">
@@ -42221,8 +42381,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120401T100615Z">
-        <seg>Il contenuto dei file viene sovrascritto se si apre un nuovo segmento (source.txt e target.txt) o si esporta una nuova selezione (selection.txt).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200423Z">
+        <seg>Il contenuto dei file viene sovrascritto o quando un nuovo segmento è aperto (source e target.txt) o quando una nuova selezione è esportato (selection.txt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42716,6 +42876,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The example scripts provided &lt;a0&gt;here&lt;/a0&gt; all launch a window, but scripts that carry out functions in the background are quite conceivable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200442Z">
+        <seg>L'esempio script fornito &lt;a0&gt;qui&lt;/a0&gt; tutti lanciare una finestra, ma gli script che svolgono funzioni in background sono abbastanza immaginabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T172101Z">
@@ -42828,10 +42996,26 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200415Z">
+        <seg>I file vengono visualizzati nella sottocartella nella cartella utente OmegaT/script &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files are unformatted plain text files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T100659Z">
         <seg>I file sono di solo testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files are unformatted plain-text files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200425Z">
+        <seg>I file sono file di testo non formattati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45321,6 +45505,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text export function exports data from within the current OmegaT project to plain-text files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200354Z">
+        <seg>La funzione di esportazione di testo Esporta dati all'interno del progetto corrente di OmegaT per file di testo normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T131112Z">
@@ -45838,6 +46030,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153124Z">
         <seg>Quindi selezionare "Incolla speciale" (Word 2003) o fare clic sulla freccia nella parte inferiore del pulsante "Inserisci" (Word 2007) per ottenere le opzioni incolla estese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then tick the "Export the segment to text files" box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200412Z">
+        <seg>Quindi spuntare la casella "Il segmento di esportazione in file di testo".</seg>
       </tuv>
     </tu>
     <tu>
@@ -46581,6 +46781,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200404Z">
+        <seg>Hanno non bisogno di alcuna conoscenza di Java; la maggior parte se non tutti i linguaggi possono essere utilizzati invece, e funzioni utili conseguiti anche con solo relativamente limitata abilità di programmazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They serve as a backup for the project TM and are being added each time you reopen a project, thus reflecting its contents before the current session has changed it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T185645Z">
@@ -46649,6 +46857,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T182852Z">
         <seg>Questa GUIDA descrive la compatibilità di OmegaT con altri prodotti software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HOWTO describes the function and possible uses for it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200348Z">
+        <seg>Questo HOWTO descrive le funzioni e possibili usi per esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46818,6 +47034,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183852Z">
         <seg>Questo può essere fatto all'interno dello strumento CAT interessato, o in alcuni casi in un formato di file esterno bilingue che lo strumento è in grado di leggere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can easily be restored again in the future.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200128Z">
+        <seg>Questo può facilmente essere ripristinato nuovamente in futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48218,6 +48442,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200137Z">
+        <seg>Questo si tradurrà nella eliminazione di eventuali impostazioni di configurazione utente che sono state fatte (ad esempio, modifiche alle regole di segmentazione) e – se la cartella viene eliminata "correttamente", cioè non semplicemente spostato nel cestino, non può essere ripristinato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will work only if the .jar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094957Z">
@@ -49170,6 +49402,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141752Z">
         <seg>Per rimuovere un filtro, premere il pulsante 'rimuovi filtro' o ricaricare il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove all traces of OmegaT from your system:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200124Z">
+        <seg>Per rimuovere tutte le tracce di OmegaT dal sistema:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50468,6 +50708,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200145Z">
+        <seg>Disinstallazione di OmegaT non rimuoverà tutti i progetti di OmegaT dal sistema, a meno che non avete posto tali progetti all'interno del programma di OmegaT o cartelle, che non sono una buona posizione per loro in ogni caso i file di configurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uninstalling failed</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T122116Z">
@@ -51641,6 +51889,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200333Z">
+        <seg>Utilizzando la funzione di esportazione di testo di OmegaT (interfaccia di scripting)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T220302Z">
@@ -51665,10 +51921,26 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the sample scripts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200426Z">
+        <seg>Utilizzando gli script di esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the team project in OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125319Z">
         <seg>Utilizzo del progetto in collaborazione in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the text export function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200405Z">
+        <seg>Utilizzando la funzione di esportazione di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -57439,6 +57711,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200422Z">
+        <seg>Selection.txt - contiene il testo evidenziato dall'utente, quando si preme Ctrl-Shift-C o si modifica &amp;amp;gt; Esporta selezione è selezionato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>set a segment after "。" (Japanese period)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T201711Z">
@@ -57491,6 +57771,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183755Z">
         <seg>termine &lt;tab&gt;di origine destinazione termine &lt;tab&gt;informazioni aggiuntive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source.txt - contains the source text of the segment&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200419Z">
+        <seg>Source - contiene il testo sorgente del segmento &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57579,6 +57867,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T203808Z">
         <seg>segmento con tag - tradotto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target.txt - contains the target text of the segment&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200420Z">
+        <seg>target.txt - contiene il testo di destinazione del segmento &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
