@@ -8395,8 +8395,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130940Z">
-        <seg>Un file di Vista esterna "tradotto" è prodotto inserendo la traduzione nella colonna di destinazione.
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T152310Z">
+        <seg>Un file Vista esterna "tradotto" è generato inserendo la traduzione nella colonna di destinazione.
 
 </seg>
       </tuv>
@@ -11071,8 +11071,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132009Z">
-        <seg>Un file "External View" di Déjà Vu prende la forma di un file RTF che contiene una tabella a più colonne, tra cui colonne per il testo di origine e di destinazione, in cui ogni segmento occupa una cella di tabella.
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T152203Z">
+        <seg>Un file "Vista esterna" di Déjà Vu prende la forma di un file RTF con una tabella a più colonne, tra cui le colonne per il testo di origine e per quello tradotto; ogni segmento occupa una cella(riga?) della tabella.
 </seg>
       </tuv>
     </tu>
