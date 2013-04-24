@@ -1373,6 +1373,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See screenshot: only the first three segments have been translated.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195523Z">
+        <seg>(Vedi screenshot: solo i primi tre segmenti tradotti.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152141Z">
@@ -4749,6 +4757,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T162533Z">
         <seg>&lt;i0&gt;Aggiungi o riscrivi una dichiarazione di codifica:&lt;/i0&gt; OmegaT può aggiungere o riscrivere la dichiarazione di codifica del file basata sulla codifica selezionata del file di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;i0&gt;If you changed the file extension to .html, change the extension of the translated file back to .xml.&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195516Z">
+        <seg>&lt;i0&gt;Se cambiato l'estensione del file. html, modificare l'estensione del file tradotto torna a XML.&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9476,6 +9492,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After completing your translation, create the translated document in the usual way (Ctrl+S, Ctrl+D).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195513Z">
+        <seg>Dopo aver completato la vostra traduzione, creare il documento tradotto nel modo consueto (Ctrl + S, Ctrl + D).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout directory you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T114133Z">
@@ -9712,6 +9736,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T173529Z">
         <seg>Tutti i file HTML saranno tradotti - si noti che il punto nel normale *.html deve contenere il carattere di escape (\.), come specificato dalle regole per le espressioni regolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All being well, your translation will come out looking like the original, but translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195521Z">
+        <seg>Tutto bene, che la traduzione verrà fuori alla ricerca come l'originale, ma tradotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10941,6 +10973,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195538Z">
+        <seg>Come è così spesso il caso con le cose tecniche (e la traduzione di cose), ci sono le catture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, it is an XML-based format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184055Z">
@@ -11394,6 +11434,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T112439Z">
         <seg>S&amp;foglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195518Z">
+        <seg>Torna in Iceni Infisso, importare il file XML tradotto nuovamente dentro &lt;i0&gt;il PDF da cui l'esportato&lt;/i0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13062,6 +13110,14 @@ application folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T144720Z">
         <seg>Facendo clic su tale indicatore si porterà la finestra in primo piano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on the text in question will display a text box and formatting marks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195605Z">
+        <seg>Fare clic sul testo in questione per visualizzare una casella di testo e segni di formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19073,6 +19129,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For translations intended "for information", this may not be a problem.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195528Z">
+        <seg>Per le traduzioni destinate "informazioni", questo non può essere un problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183251Z">
@@ -20876,6 +20940,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195531Z">
+        <seg>Iceni Infisso consente inoltre di salvare i file PDF in formato RTF, ma in questo caso la versione di dimostrazione davvero è adatta solo a scopo dimostrativo, dato che contiene le sostituzioni di caratteri casuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Icons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192955Z">
@@ -20960,6 +21032,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104105Z">
         <seg>Se il file contiene la codifica, essa verrà utilizzata indipendentemente da qualsiasi valore impostato in questa finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Java is already installed on your system (which is probably the case) and you plan to use this existing, system-wide Java installation in conjunction with OmegaT, first check that it is suitable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195651Z">
+        <seg>Se Java è già installato sul vostro sistema (che probabilmente è il caso) e si prevede di utilizzare l'installazione di Java esistente, a livello di sistema in combinazione con OmegaT, controlla prima che è adatto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21277,6 +21357,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it does not, you still have the option to install a local version of Java or a different version of Java at system level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195729Z">
+        <seg>Se non avete ancora la possibilità di installare una versione locale di Java o una diversa versione di Java a livello di sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T122354Z">
@@ -21501,6 +21589,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T164225Z">
         <seg>Se sono state rilevate più concordanze, e si preferisce utilizzarne una diversa da quella preselezionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If so, this makes installation much easier.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195742Z">
+        <seg>Se è così, questo rende l'installazione molto più semplice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22156,6 +22252,14 @@ that you install an OmegaT version with JRE included.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether your Java version is suitable, you can:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195724Z">
+        <seg>Se non siete sicuri se la tua versione di Java è adatta, è possibile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195422Z">
@@ -22423,6 +22527,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T211719Z">
         <seg>Se si inseriscono manualmente i nomi delle cartelle non ancora esistenti, &lt;a0&gt;OmegaT&lt;/a0&gt; si occuperà automaticamente per la loro creazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you establish that the version of Java installed at system level is not compatible with OmegaT and you wish to replace this Java version with the Oracle Java version, check first whether an Oracle package is available for your Linux distribution (SUSE, Ubuntu, etc.).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195741Z">
+        <seg>Se si stabilisce che la versione di Java installata a livello di sistema non è compatibile con OmegaT e si desidera sostituire questa versione Java con la versione Java di Oracle, verificare prima se un pacchetto di Oracle è disponibile per la vostra distribuzione di Linux (SUSE, Ubuntu, ecc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22715,6 +22827,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101017T172943Z">
         <seg>Se si notano discrepanze fra quanto descritto in questo manuale e il comportamento di OmegaT, non esitare a mettersi in contatto con Vito Smolej all'indirizzo vitosmolej AT users DOT sourceforge DOT net.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you obtain the Oracle version of Java directly from Oracle, installation is likely to be straightforward, but you will have to configure it manually in order to make it the default version at system level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195745Z">
+        <seg>Se si ottiene la versione di Oracle di Java direttamente da Oracle, l'installazione è probabile che sia semplice, ma dovrete configurarlo manualmente al fine di rendere la versione predefinita a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23109,6 +23229,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192207Z">
         <seg>Se la vecchia installazione di OmegaT è una versione "Windows with JRE" version, anche la nuova deve essere "Windows with JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your file contains lots of such inconvenient breaks, it is more efficient to remove them all at once, toggling between OmegaT and Infix to see where they are.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195612Z">
+        <seg>Se il file contiene un sacco di tali interruzioni scomodi, è più efficiente per rimuoverli tutti in una volta, alterna tra OmegaT e infisso per vedere dove sono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24235,6 +24363,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In these cases, it is practical to remove them before exporting the file to XML, so that you are presented with cohesive segments for translation, and then to re-insert them in Infix at the end of the process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195621Z">
+        <seg>In questi casi, è pratico per rimuoverli prima di esportare il file XML, che si sono presentati con segmenti coesive per la traduzione e poi reinserirle in infisso alla fine del processo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In these examples we've highlighted the tags to make them easier to see, but in &lt;a0&gt;OmegaT&lt;/a0&gt; they will not be highlighted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T172231Z">
@@ -24507,6 +24643,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix has functions for dealing with this and other problems that are beyond the scope of this HowTo.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195549Z">
+        <seg>Infisso ha funzioni per affrontare questo e altri problemi che esulano dall'ambito di questo HowTo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Infix is a PDF editor, i.e. the text in the PDF can be edited directly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195303Z">
@@ -24743,6 +24887,22 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T122359Z">
         <seg>Installa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195731Z">
+        <seg>Installare una seconda versione di Java a livello di sistema non predefinito e lanciare OmegaT in modo esplicito utilizzando questa versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install the OmegaT version with Java included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195738Z">
+        <seg>Installare la versione di OmegaT con Java incluso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25409,6 +25569,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T221637Z">
         <seg>È spesso utile ricercare parole e frasi all'interno del testo di partenza e della traduzione: è possibile aprire la finestra di "Ricerca testo" tramite la combinazione &lt;k0&gt;Ctrl+F&lt;/k0&gt;, in qualsiasi momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is particularly aimed at users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195644Z">
+        <seg>Esso è particolarmente rivolto agli utenti che sono nuovi di Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27018,6 +27186,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194909Z">
         <seg>Individuare il file di configurazione OmegaT.l4J.ini (la posizione predefinita è C:\Program Files (x86) \OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locate the translated XML file in the OmegaT project's /target folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195515Z">
+        <seg>Individuare il file XML tradotto nella cartella /target del progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29659,6 +29835,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: OmegaT's Infix filter maps the &lt;BR/&gt; of Infix to &lt;brx/&gt; tags.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195509Z">
+        <seg>Nota: Filtro infisso di OmegaT mappe il &lt;BR/&gt; dell'infisso a &lt;brx/&gt; tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T105439Z">
@@ -30427,6 +30611,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not run satisfactorily on all versions of Java.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195646Z">
+        <seg>OmegaT non viene eseguito in modo soddisfacente su tutte le versioni di Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not support these formats directly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183334Z">
@@ -31017,6 +31209,14 @@ la cartella home dell'utente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195636Z">
+        <seg>OmegaT su Linux HowTo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T134252Z">
@@ -31465,6 +31665,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T084101Z">
         <seg>OmegaT memorizzerà le traduzioni e proporrà scelte per segmenti simili a quelli registrati in memoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195722Z">
+        <seg>OmegaT verrà eseguito sull'implementazione OpenJDK Java fornita con alcune distribuzioni di Linux, ma alcune funzioni (ad esempio, l'insieme completo di opzioni della riga di comando) potrebbero non essere disponibili; può essere fornito un set di font diversi; e alcuni glitch sono stati segnalati, come con la finestra di visualizzazione e la funzione di segmentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32579,6 +32787,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T184133Z">
         <seg>Menu Opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle (formerly Sun) Java versions: check the system requirements in the OmegaT documentation (readme.txt) for the precise Oracle Java version required (i.e. whether your version of Java is sufficiently recent).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195714Z">
+        <seg>Versioni Java Oracle (precedentemente Sun): verificare i requisiti di sistema nella documentazione di OmegaT (Readme. txt) per la versione Java di Oracle precisa richiesta (cioè se la versione di Java è sufficientemente recente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35996,6 +36212,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save the changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195520Z">
+        <seg>Salvare le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T180954Z">
@@ -37260,6 +37484,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Tools &gt; Text tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195604Z">
+        <seg>Selezionare Strumenti &amp;amp;gt; strumento di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Word Options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194148Z">
@@ -37456,6 +37688,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213938Z">
         <seg>Selezionare di un dizionario e premere il pulsante "Installa" effettua lo scaricamento da Internet del dizionario scelto nella cartella specificata in &lt;f9&gt;a)&lt;/f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting and downloading OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195751Z">
+        <seg>Selezione e download di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -37948,6 +38188,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simply install an OmegaT version without Java and see whether it works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195726Z">
+        <seg>Basta installare una versione di OmegaT senza Java e vedere se funziona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093224Z">
@@ -38208,6 +38456,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183829Z">
         <seg>Alcuni strumenti CAT, TRADOS in particolare, sono in grado di importare una vasta gamma di formati di file, inclusi i formati di desktop publishing, e prepararli per la traduzione dello strumento in questione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some inconvenient line breaks may be required for correct positioning of the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195613Z">
+        <seg>Alcune interruzioni di riga scomoda possono essere richiesti per un corretto posizionamento del testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42540,6 +42796,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following versions of OmegaT are available for Linux:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195755Z">
+        <seg>Le seguenti versioni di OmegaT sono disponibili per Linux:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following window shows an example of a) the English source b) Spanish and c) Slovenian Google Translate translation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T185100Z">
@@ -44009,6 +44273,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The screenshot shows an example: &lt;i0/&gt; Remove the line break.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195607Z">
+        <seg>La schermata mostra un esempio: &lt;i0/&gt; rimuovere l'interruzione di riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111107T122716Z">
@@ -44569,6 +44841,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The system will output details of the Java version already installed at system level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195712Z">
+        <seg>Il sistema visualizzerà i dettagli della versione Java già installato a livello di sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212406Z">
@@ -44733,6 +45013,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T211111Z">
         <seg>La terza colonna è utilizzata per l'inserimento di ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The third option, i.e. installing an OmegaT version with Java included at local level, is always the "safe" option, and is recommended.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195749Z">
+        <seg>La terza opzione, cioè l'installazione di una versione di OmegaT con Java incluso a livello locale, è sempre l'opzione "sicura" ed è consigliato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45186,6 +45474,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then save the changes and re-export the PDF to the XML file (and change the file extension etc.), and reload your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195609Z">
+        <seg>Quindi salvare le modifiche e riesportare il PDF al file XML (e cambiare l'estensione del file ecc.) e ricaricare il progetto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then select "Paste Special" (Word 2003) or click on the arrow at the bottom of the "Insert" button (Word 2007) to obtain the extended Paste options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153124Z">
@@ -45423,6 +45719,14 @@ Submenu and File - New Item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T155705Z">
         <seg>Si potranno aprire simultaneamente più finestre di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195542Z">
+        <seg>C'è una forte possibilità che in alcuni punti, la traduzione sarà più lungo rispetto all'originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45949,6 +46253,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195716Z">
+        <seg>Versioni di Java di terze parti: fino a relativamente recentemente, OmegaT ha funzionato solo su Oracle/Sun proprio Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Third-party software</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204749Z">
@@ -46017,6 +46329,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195201Z">
         <seg>Questo HowTo fornisce informazioni sull'utilizzo di OmegaT e Iceni Infisso per tradurre file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo provides information on using OmegaT on Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195639Z">
+        <seg>Questo HowTo fornisce informazioni sull'utilizzo di OmegaT su Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46362,6 +46682,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T171534Z">
         <seg>Questo esempio non dimostra tutte le potenzialità di OmegaT, ma aiuterà il "principiante" a far proprie le procedure più essenziali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the HTML segmentation rule to be used to choose whether or not segmentation should occur at these points.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195512Z">
+        <seg>In questo modo la regola di segmentazione HTML deve essere utilizzata per scegliere o meno segmentazione dovrebbe verificarsi in questi punti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46774,6 +47102,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is not recommended, particularly if you are unfamiliar with Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195747Z">
+        <seg>Questo non è consigliato, soprattutto se si ha familiarità con Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is pretty useful for the text containing many trade marks and other proper nouns you need to leave intact.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T094639Z">
@@ -47138,6 +47474,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This needs to be dealt with in Infix, for example by enlarging the box containing the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195543Z">
+        <seg>Questo deve essere affrontato in infissa, ad esempio ampliando la casella contenente il testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This operation will affect {0} segments and cannot be undone.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T172546Z">
@@ -47302,6 +47646,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145407Z">
         <seg>Questo sito è gestito per conto del progetto OmegaT da:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This situation will probably be familiar to you if you have translated Powerpoint files in OmegaT, or for that matter other CAT tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195554Z">
+        <seg>Questa situazione probabilmente sarà familiare a voi se hanno tradotto i file di Powerpoint in OmegaT, o per quella materia altri strumenti CAT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47980,6 +48332,14 @@ una nuova segnalazione di errore:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, open a terminal (also known as a console or command-line window; common programs for this are konsole (KDE) and gnome-terminal (GNOME)), and type:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195654Z">
+        <seg>Per fare questo, aprire un terminale (anche conosciuto come console o finestra della riga di comando; programmi comuni per questo sono konsole (KDE) e il terminale di gnome (GNOME)) e digitare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, select &lt;m1&gt; &lt;s2&gt; &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;D&lt;/k5&gt; &lt;/k3&gt; &lt;/s2&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Create Translated Documents&lt;/g7&gt; &lt;/m1&gt;&lt;i8/&gt; &lt;i9/&gt;from the menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T171129Z">
@@ -48418,6 +48778,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141752Z">
         <seg>Per rimuovere un filtro, premere il pulsante 'rimuovi filtro' o ricaricare il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resolve this, open the original PDF file again in Infix.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195558Z">
+        <seg>Per risolvere questo problema, aprire il file PDF originale nuovamente nell'infisso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53375,6 +53743,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can now translate the text (see screenshot).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195502Z">
+        <seg>Ora è possibile tradurre il testo (vedi screenshot).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can open them in An Internet browser to obtain access to external links.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213659Z">
@@ -53403,6 +53779,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183840Z">
         <seg>È possibile sovrapporre i pannelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195540Z">
+        <seg>Presumibilmente può risolvere il problema di come ottenere e installare i font necessari; oppure è possibile selezionare un carattere diverso per questo scopo – che può essere o non essere una soluzione adeguata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53824,6 +54208,22 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165456Z">
         <seg>Si potrebbe anche considerare di rimuovere quelle non più necessarie, una volta usato il loro contenuto e aver popolato il file &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may find that segments are broken by hard line breaks at inconvenient places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195552Z">
+        <seg>Potete trovare che i segmenti sono rotto da interruzioni di linea dura in luoghi scomodi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195539Z">
+        <seg>Potete trovare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri di cui che hai bisogno.</seg>
       </tuv>
     </tu>
     <tu>
