@@ -14132,8 +14132,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150401Z">
-        <seg>Compatibile con altre applicazioni di memoria di traduzione (TMX, TTX, XML, XLIFF, SDLXLIFF)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T212206Z">
+        <seg>Compatibile con altre applicazioni per memorie di traduzione (TMX, TTX, XML, XLIFF, SDLXLIFF)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41184,8 +41184,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Support for right-to-left languages</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150350Z">
-        <seg>Supporto per le lingue destra-sinistra</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T212129Z">
+        <seg>Supporto per le lingue da destra a sinistra</seg>
       </tuv>
     </tu>
     <tu>
