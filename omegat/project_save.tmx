@@ -17343,6 +17343,22 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192632Z">
+        <seg>File in formato Microsoft Office XML possono essere tradotto direttamente in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192636Z">
+        <seg>I file nei vecchi formati di MS Word, Excel e Powerpoint possono essere tradotta conversione seguente per l'equivalente attuale formati Microsoft Office, o in alternativa al formato Office Open XML, che può essere fatto in OpenOffice.org o LibreOffice (anche gratuito).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files to Translate - OmegaT 2.0 User Manual</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202821Z">
@@ -21783,6 +21799,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T182644Z">
         <seg>Se l'opzione per i suggerimenti è attivata (&lt;g0&gt;Opzioni → Abilita suggerimenti&lt;/g0&gt;), è possibile fare clic col pulsante destro del mouse sulla parola evidenziata e aprire un menu contestuale contenente la traduzione suggerita dal glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192656Z">
+        <seg>Se avete una naturale avversione per leggere le istruzioni, e il vostro approccio al nuovo software è fare clic su ogni pulsante che si vede fino a quando qualcosa di simile all'effetto desiderato si verifica, quindi OmegaT probabilmente non è adatto per voi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29667,6 +29691,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192627Z">
+        <seg>OmegaT è stato installato con successo su Windows (tutte le versioni da 98 in poi), Macintosh OS X e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has by default the following short list available to make it easier for you to deal with some plain text files:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T210431Z">
@@ -29879,6 +29911,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T162834Z">
         <seg>OmegaT è impostato per utilizzare una codifica obbligatoria per alcuni formati di file (Java properties, ecc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192649Z">
+        <seg>Non è particolarmente difficile da installare o usare OmegaT, ma richiede la volontà di leggere e seguire le istruzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30561,6 +30601,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T125851Z">
         <seg>OmegaT riconoscerà che è un progetto in collaborazione e lo sincronizzerà in modo automatico, per impostazione predefinita ogni tre minuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192615Z">
+        <seg>OmegaT verrà eseguito su qualsiasi sistema su cui il JRE (Java Runtime Environment) è stata o può essere installato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38190,6 +38238,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192611Z">
+        <seg>Requisiti di sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T111209Z">
@@ -39571,6 +39627,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093653Z">
         <seg> JRE è già installato su Mac OS X prima del Mac OS X 10.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192620Z">
+        <seg>JRE viene ora fornito con OmegaT e non deve essere ottenuto separatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44806,6 +44870,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192847Z">
+        <seg>Questa raccolta di script può essere utile per Scripter con una conoscenza di tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This command assigns more memory to OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100632Z">
@@ -46893,6 +46965,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192641Z">
+        <seg>Per ottenere OpenOffice.org o LibreOffice, segui il link dal pulsante "software di terze parti" sulla sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open a new one, use &lt;c0&gt;&lt;a1&gt;Ctrl+F&lt;/a1&gt;&lt;/c0&gt; in main window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T155754Z">
@@ -47360,6 +47440,22 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T111124Z">
         <seg>Totali:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic for Linux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192810Z">
+        <seg>Toxic per Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic was contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192904Z">
+        <seg>Toxic è stata inviata da Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49024,6 +49120,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192644Z">
+        <seg>Requisiti utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User setting files: They are created when OmegaT's behavior is modified by user accessible preference settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T173252Z">
@@ -49373,6 +49477,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192010Z">
         <seg>Programmi di utilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192822Z">
+        <seg>Utilità per la conversione di file di Trados TagEditor (TTX) in un formato intermedio, permettendo loro di essere tradotto in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
