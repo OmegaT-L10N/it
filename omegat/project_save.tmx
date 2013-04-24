@@ -1389,6 +1389,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183719Z">
+        <seg>(Per inciso questa è una limitazione di Java, non di OmegaT stesso.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104121Z">
@@ -9508,6 +9516,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again, OmegaT has excellent file filters for both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183429Z">
+        <seg>OmegaT ha di nuovo, filtri file eccellente per entrambi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggregate Tags</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T084428Z">
@@ -10129,6 +10145,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An international standard exists for translation memories: TMX, or Translation Memory eXchange.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183443Z">
+        <seg>Esiste uno standard internazionale per le memorie di traduzione: TMX, o Translation Memory eXchange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An online dictionary management tool that integrates with Omegat.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175904Z">
@@ -10309,6 +10333,14 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161846Z">
         <seg>Altro parametro di riga di comando aggiuntivo specifico della modalità console: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another possible source of incompatibility are three-digit language codes, which are not supported by OmegaT at all.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183715Z">
+        <seg>Un'altra possibile fonte di incompatibilità sono codici di linguaggio a tre cifre, che non sono supportati da OmegaT a tutti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11944,6 +11976,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Certain other CAT tools (such as TRADOS) are able to export different TMX files in different versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183552Z">
+        <seg>Alcuni altri strumenti CAT (come TRADOS) sono in grado di esportare file TMX diversi in diverse versioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chan&amp;ged after:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T130108Z">
@@ -12942,6 +12982,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T220857Z">
         <seg>Problemi comuni dei glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compatibility problems may be caused by differences in the language codes employed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183655Z">
+        <seg>Problemi di compatibilità causati da differenze nei codici del linguaggio impiegati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18577,6 +18625,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Further points to note regarding TMX files:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183627Z">
+        <seg>Ulteriori punti di nota per quanto riguarda i file TMX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T163244Z">
@@ -22810,6 +22866,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183532Z">
+        <seg>In altre parole, se un utente di OmegaT rileva una corrispondenza del 100% in un file di livello 2 OmegaT TMX, può essere accettato senza la necessità di adattamento, ma lo stesso non sarebbe vero per un livello 2 TMX file prodotto da un diverso strumento CAT (o viceversa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, typing the term correctly without bothering with highlighting and rightclicking is probably faster.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T210918Z">
@@ -22846,6 +22910,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T211639Z">
         <seg>In termini pratici, OmegaT unisce le informazioni di traduzioni salvate in &lt;e8&gt;/omegat/project_save,tmx&lt;/e8&gt; con i documenti di partenza per produrre il contenuto di arrivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In practice, it is therefore possible for translators to deliver translation memories to customers and vice-versa, and for the recipient to use these files for immediate or future reference; if the files are to be used within an automated workflow, however, the constraint described above applies.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183619Z">
+        <seg>In pratica, è quindi possibile per i traduttori di consegnare memorie di traduzione per i clienti e viceversa e per il destinatario per utilizzare questi file per riferimento immediato o futuro; Se i file devono essere utilizzati all'interno di un flusso di lavoro automatizzato, tuttavia, si applica il vincolo sopra descritto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24210,6 +24282,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has been widely adopted and is supported by almost all current CAT tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183447Z">
+        <seg>Essa è stata ampiamente adottata ed è supportato da quasi tutti gli attuali strumenti CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes a number of tools to manipulate such files before or after their translation in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T181238Z">
@@ -24329,6 +24409,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T184553Z">
         <seg>È gratuito, ossia non si deve pagare nulla per usarlo, anche per un uso professionale ed è possibile modificarlo e, o in alternativa, redistribuirlo fintanto che viene rispettata la licenza per l'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is however worth customizing the filter settings for optimum results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183437Z">
+        <seg>Vale tuttavia la pena di personalizzazione delle impostazioni di filtro per ottenere risultati ottimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25548,10 +25636,34 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 1 TMX files contain no formatting information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183523Z">
+        <seg>Livello 1 file TMX non contengono nessun informazioni di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183528Z">
+        <seg>Livello 2 TMX file contengono informazioni di formattazione, ma questi file sono in genere compatibili esclusivamente quando viene utilizzato lo stesso strumento CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200037Z">
         <seg>I file tmx di livello 2 saranno ancora importati e il contenuto del loro testo visualizzato in OmegaT, ma la qualità delle corrispondenze parziali risulterà essere in qualche modo inferiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183542Z">
+        <seg>Livello 3 TMX file contengono informazioni di formattazione in una forma che può essere letto da altri strumenti CAT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25568,6 +25680,14 @@ OmegaT può essere avviato in vari modi.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145148Z">
         <seg>Livellamento manuale della formattazione di un paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like OpenOffice.org files, these file formats can be translated in OmegaT with very little risk of corruption.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183433Z">
+        <seg>Come file di OpenOffice.org, questi formati di file possono essere tradotti in OmegaT con pochissimo rischio di corruzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27883,6 +28003,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not all CAT tools are equally strict in their observance of these definitions; consequently, some CAT tools are unable to open TMX files produced by certain other CAT tools directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183635Z">
+        <seg>Non tutti gli strumenti CAT sono altrettanto rigorosi nella loro osservanza di queste definizioni; di conseguenza, alcuni strumenti CAT sono in grado di aprire file TMX prodotti direttamente da alcuni altri strumenti CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not all CAT tools exhibit the same tolerance and some may not therefore display the expected matches if the language codes are not sufficiently compliant.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183708Z">
+        <seg>Non tutti gli strumenti CAT presentano la stessa tolleranza e alcuni potrebbero non essere quindi visualizzate le partite previste se i codici di lingua non sono sufficientemente conformi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193857Z">
@@ -29507,6 +29643,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183639Z">
+        <seg>OmegaT è generalmente attento delle condizioni e tollerante di inosservanza altri strumenti dovessero insorgere problemi qui, tuttavia, si può generalmente essere risolto abbastanza facilmente da una ricerca &amp;amp; sostituire in un editor di testo del carattere illegale nel file TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T162834Z">
@@ -29589,6 +29733,14 @@ la cartella home dell'utente.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093149Z">
         <seg>OmegaT è usare Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is tolerant when reading TMX files: it will accept files with en-GB, en-US, en, EN, etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183705Z">
+        <seg>OmegaT è tollerante quando si leggono i file TMX: accetterà file con en-GB, en-US, it, EN, ecc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29907,6 +30059,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT supports all current versions of TMX, but is likely to deliver better match results if the TMX file is version 1.4b.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183600Z">
+        <seg>OmegaT supporta tutte le versioni correnti di TMX, ma è probabile che fornire risultati migliori match se il file TMX è versione 1.4 b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T195410Z">
@@ -29919,6 +30079,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T134537Z">
         <seg>OmegaT è in grado di importare le memorie di traduzione TMX, versione 1.1-1.4b (di livello 1  e 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT supports language codes in the format "xx", "XX", "xx-YY" and "XX-YY", where xx or XX is the language, yy or YY the region.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183658Z">
+        <seg>OmegaT supporta i codici di lingua nel formato "xx", "XX", "xx-YY" e "XX-YY", dove xx o XX è la lingua, AA o AA della regione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30007,6 +30175,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T101858Z">
         <seg>OmegaT usa le seguenti librerie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the international TMX standard as its native translation memory format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183615Z">
+        <seg>OmegaT utilizza lo standard TMX internazionale come suo formato di memoria di traduzione nativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32102,6 +32278,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090552Z">
         <seg>Pagina ufficiale di Po4a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points regarding proprietary translation memory files:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183730Z">
+        <seg>Punti per quanto riguarda i file di memoria di traduzione proprietarie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36564,6 +36748,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some CAT tools still employ dedicated proprietary translation memory formats, but virtually all support the import and export of TMX files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183623Z">
+        <seg>Alcuni strumenti CAT ancora utilizzano formati di memoria di traduzione proprietario dedicato, ma praticamente tutti supporta l'importazione e l'esportazione di file TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some more points to note about the HTML files for translation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T160041Z">
@@ -37308,6 +37500,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183701Z">
+        <seg>Strettamente parlando, lo standard ISO per i codici di lingua richiede "xx-YY" (ad esempio: "en-GB" per l'inglese britannico); anche se questa variante è supportata da OmegaT, la convenzione di default offerta da OmegaT è "XX-YY", ad esempio "EN-GB".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translated, that has been updated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191528Z">
@@ -37630,6 +37830,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Support for Level 3 in CAT tools is rare.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183546Z">
+        <seg>Supporto di livello 3 in strumenti CAT è raro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Support for right-to-left languages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150350Z">
@@ -37790,6 +37998,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files are in the Unicode encoding, but may be UTF-8 or UTF-16.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183642Z">
+        <seg>File TMX sono la codifica Unicode, ma possono essere UTF-8 o UTF-16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T110101Z">
@@ -37826,6 +38042,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192723Z">
         <seg>File TMX delle localizzazioni della documentazione OmegaT e di questo sito, per l'utilizzo da parte dei localizzatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files produced on Windows systems may begin with a byte-order mark (BOM).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183651Z">
+        <seg>File TMX prodotti su sistemi Windows possono iniziare con un byte-order mark (BOM).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39377,6 +39601,22 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX standard contains definitions of what characters are permissible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183631Z">
+        <seg>Lo standard TMX contiene le definizioni di quali caratteri sono ammessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX standard exists both in different &lt;s0&gt;versions&lt;/s0&gt; and in different &lt;s1&gt;levels&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183451Z">
+        <seg>Lo standard TMX esiste in diverse &lt;s0&gt;versioni&lt;/s0&gt; e in diversi &lt;s1&gt;livelli&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Text Extraction Utility from the Okapi Framework has an option for creating an OmegaT project folder tree.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T180502Z">
@@ -40212,6 +40452,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The distinction is important for compatibility purposes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183455Z">
+        <seg>La distinzione è importante per la compatibilità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; 2.5 includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T165300Z">
@@ -40748,6 +40996,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formatting information contained in the higher levels will be meaningless to the "other" tool, but the textual information can still be viewed, fuzzy matches found, etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183610Z">
+        <seg>Le informazioni di formattazione contenute nei livelli più alti sarà priva di significato per lo strumento di "altri", ma le informazioni testuali possono ancora essere visti, fuzzy corrispondenze trovate, ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formatting represented by the group you duplicated will be applied to the section where you duplicated it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T201410Z">
@@ -41009,6 +41265,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T093623Z">
         <seg>Il file level2 contiene i tag specifici di &lt;a0&gt;OmegaT&lt;/a0&gt; incapsulati nei tag TMX, in modo che il file possa essere usato, con le sue informazioni di formattazione, in strumenti di traduzione assistita in grado di riconoscere le memorie di traduzione TMX di livello 2, oppure nello stesso &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The levels refer to the formatting information that is contained in the TMX file:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183519Z">
+        <seg>I livelli di riferiscono per le informazioni di formattazione contenute nel file TMX:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42561,6 +42825,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The standard is still undergoing development; this is what the different versions refer to.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183504Z">
+        <seg>Lo standard è ancora in fase di sviluppo; Questo è ciò che le varie versioni si riferiscono a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T182801Z">
@@ -42853,6 +43125,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T185142Z">
         <seg>La prima concordanza è 100%, perché tutte le parole corrispondono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The traditional Wordfast translation memory file format is of particular interest owing to its simplicity: it consists of a plain-text file with a translation unit (segment) on each line in which the source and target are separated by a tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183735Z">
+        <seg>Il tradizionale formato di file memoria di traduzione Wordfast è di particolare interesse a causa della sua semplicità: si compone di un file di testo con un'unità di traduzione (segmento) su ogni riga in cui l'origine e la destinazione sono separati da una tabulazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44270,6 +44550,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This differences do not generally lead to compatibility problems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183647Z">
+        <seg>Questa differenze non generalmente portano a problemi di compatibilità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121004Z">
@@ -44422,10 +44710,26 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183536Z">
+        <seg>Ciò ha ripercussioni per i flussi di lavoro in cui gli utenti di strumento CAT (tipicamente i clienti) si aspettano di ricevere file di memoria di traduzione e per avere 100% partite inserito automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T191406Z">
         <seg>Queste includono le preferenze impostate all'interno di OmegaT, tutte le modifiche apportate al file &lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; e al proprio script di avvio (file .bat), se se ne utilizza uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This incompatibility can be resolved by searching for and replacing the relevant language codes in the TMX file in a suitable text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183712Z">
+        <seg>Questa incompatibilità può essere risolto attraverso la ricerca e sostituire i codici di lingua pertinente nel file TMX in un editor di testo adatto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46560,6 +46864,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T212138Z">
         <seg>Menu Strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools which support different levels of TMX files are in principle still compatible with each other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183605Z">
+        <seg>Strumenti che supportano i livelli differenti di file TMX sono in linea di principio ancora compatibile con a vicenda.</seg>
       </tuv>
     </tu>
     <tu>
