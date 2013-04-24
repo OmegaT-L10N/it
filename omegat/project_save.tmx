@@ -1256,6 +1256,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194140Z">
+        <seg>(Per istruzioni più dettagliate, consultare il manuale di istruzioni o clicca &lt;a0&gt;qui&lt;/a0&gt;, &lt;a1&gt;qui&lt;/a1&gt; o &lt;a2&gt;qui&lt;/a2&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(For the purposes of this tutorial, you may use .docx files according to this procedure, although in fact .docx files do not require the mediation of Open Office Writer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172435Z">
@@ -2139,10 +2147,26 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- level the formatting from these paragraphs using the macro as described above, then re-insert the formatting; or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194120Z">
+        <seg>-livello di formattazione da questi paragrafi utilizzando la macro come descritto sopra, quindi reinserire la formattazione; o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- localization in a number of languages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T184345Z">
         <seg>- localizzazione in più lingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- mark only the text up to the beginning of the formatted part, copy this text and paste it back over itself, then repeat the process on the text after the formatted part.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194129Z">
+        <seg>-segnare solo il testo fino all'inizio della parte formattata, copia questo testo e incollarlo sopra se stesso, quindi ripetere il processo sul testo dopo la formattazione parte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2395,6 +2419,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1st example modification: changing the colour of segment highlighting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193928Z">
+        <seg>1 ° modifica esempio: cambiare il colore di evidenziazione del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T210257Z">
@@ -2469,6 +2501,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135422Z">
         <seg>29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2nd example modification: increasing the number of fuzzy matches displayed from five to ten</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194030Z">
+        <seg>2 ° modifica esempio: aumentando il numero di corrispondenze fuzzy visualizzati da cinque a dieci</seg>
       </tuv>
     </tu>
     <tu>
@@ -11648,6 +11688,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194136Z">
+        <seg>Brevi istruzioni per la creazione di macro (in MS Office 2007) sono fornite di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Briefly, how OmegaT works</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091330Z">
@@ -12552,6 +12600,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click Popular in the Word Options dialog box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194153Z">
+        <seg>Fare clic su popolare nella finestra di dialogo Opzioni di Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click and drag the newly created .odt file to the &lt;f0&gt;/source&lt;/f0&gt;&lt;f1&gt; folder of your &lt;/f1&gt;&lt;f2&gt;My Project-1&lt;/f2&gt;&lt;f3&gt; folder, which you created in Step &lt;/f3&gt;&lt;f4&gt;6&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172627Z">
@@ -12774,6 +12830,14 @@ application folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100717T092919Z">
         <seg>Chiudi progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close Word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194202Z">
+        <seg>Chiudere Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17583,6 +17647,22 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find the line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194012Z">
+        <seg>Trovare la riga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the lines:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193943Z">
+        <seg>Trovare le linee:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Find your project in your file manager: it is a folder with the name of the project, containing the sub-folders &lt;f0&gt;/source&lt;/f0&gt;, &lt;f1&gt;/target&lt;/f1&gt;, &lt;f2&gt;/omegat&lt;/f2&gt;, &lt;f3&gt;/tm,&lt;/f3&gt; and &lt;f4&gt;/glossary&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T075743Z">
@@ -17908,6 +17988,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145305Z">
         <seg>Per i sostenitori del software open source, questa libertà è persino più importante dell'esenzione da dover pagare alcunché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For both examples, compile and test as described above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194100Z">
+        <seg>Per entrambi gli esempi, compilare e testare come descritto sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21981,6 +22069,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have not already done so, add the Developer tab to the ribbon as follows: click on the Office button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194144Z">
+        <seg>Se non l'avete già fatto, aggiungere la scheda di sviluppo per il nastro come segue: fare clic sul pulsante Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T192324Z">
@@ -22509,6 +22605,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T093914Z">
         <seg>Se si sono erroneamente importati documenti non corretti, oppure un numero maggiore di documenti rispetto a quello necessario, i file in eccesso potranno essere semplicemente rimossi dalla cartella sorgente del progetto OmegaT (servendosi, per esempio, del gestore dei file del sistema in uso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your code has compiled successfully, the compiled OmegaT is placed in:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193905Z">
+        <seg>Se il codice è compilato con successo, il compilato OmegaT è posizionato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23527,6 +23631,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T162939Z">
         <seg>Nel caso di cui alla figura, il testo di origine presenta una parola e dei tag in più, I tag sono compresi tra i segni &lt;&gt; ed evidenziati in blu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193932Z">
+        <seg>Nella cartella</seg>
       </tuv>
     </tu>
     <tu>
@@ -25812,6 +25924,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T223259Z">
         <seg>Avviare OpenOffice.org e aprire un documento di testo, oppure avviare "OpenOffice.org Writer".&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch Word again, create a new Word file and add a paragraph of sample text, at least three lines long, e.g.:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194209Z">
+        <seg>Lancio nuovo Word, creare un nuovo file di Word e aggiungere un paragrafo di testo campione, almeno tre linee lunghe, ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30997,6 +31117,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the ribbon, check Show Developer tab and confirm with OK.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194158Z">
+        <seg>Sulla barra multifunzione, controllare la scheda Visualizza sviluppo e confermare con OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the right, at the top, is the Match Viewer, where translation memory matches will be displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T181501Z">
@@ -34332,6 +34460,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194020Z">
+        <seg>Sostituire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working directory (the directory you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202005Z">
@@ -36332,6 +36468,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Word Options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194148Z">
+        <seg>Selezionare opzioni di Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an entry to view comments if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T183222Z">
@@ -38016,6 +38160,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T174116Z">
         <seg>Sequenza operativa da riprodurre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still in your command-line window, change to this folder, e.g. with:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193912Z">
+        <seg>Ancora nella finestra della riga di comando, cambiare questa cartella, ad esempio con:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50821,6 +50973,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where paragraphs do contain inline formatting (bold, italics, hyperlinks, etc.), you can either:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194116Z">
+        <seg>Dove paragrafi contengono inline formattazione (grassetto, corsivo, collegamenti ipertestuali, ecc.), è possibile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T185003Z">
@@ -51752,6 +51912,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200728Z">
         <seg>Se si sperimentano problemi, si potrà sempre chiedere assistenza al gruppo di utenti di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can automate the above procedure somewhat by creating a macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194132Z">
+        <seg>È possibile automatizzare la procedura di cui sopra un po ' con la creazione di una macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53079,6 +53247,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193948Z">
+        <seg>e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T175711Z">
@@ -53095,6 +53271,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193919Z">
+        <seg>e lanciare OmegaT con:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T194014Z">
@@ -53107,6 +53291,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T105656Z">
         <seg>e navigare fino alla sottocartella /images della cartella di programma di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193953Z">
+        <seg>e sostituire</seg>
       </tuv>
     </tu>
     <tu>
@@ -54783,6 +54975,30 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>open the file OConsts.java in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194040Z">
+        <seg>Aprire il file OConsts.java in un editor di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open the file SegmentBuilder.java in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193938Z">
+        <seg>Aprire il file SegmentBuilder.java in un editor di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open the file Styles.java in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194005Z">
+        <seg>Aprire il file Styles.java in un editor di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>open the project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T213643Z">
@@ -55931,6 +56147,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214159Z">
         <seg>vino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>with</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194002Z">
+        <seg>con</seg>
       </tuv>
     </tu>
     <tu>
