@@ -2283,6 +2283,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>... it's by no means the case that all programming need be done in Java.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145904Z">
+        <seg>... non è il caso che tutta la programmazione deve essere fatto in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>... matches the following</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T212219Z">
@@ -10217,6 +10225,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145832Z">
+        <seg>E quando trovano le cose che non funzionano, o carenze nella documentazione, per raccontarci la loro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Android Resource Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095646Z">
@@ -11596,6 +11612,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T120714Z">
         <seg>Birmano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145917Z">
+        <seg>Ma non riesco a programmare tutto, sento dire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13062,6 +13086,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T195412Z">
         <seg>Contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145943Z">
+        <seg>Continuing Professional Development è la parola d'ordine attuale!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19268,6 +19300,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145952Z">
+        <seg>Hai mai scritto un articolo per la rivista dell'associazione professionale?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T201059Z">
@@ -20489,6 +20529,22 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150043Z">
+        <seg>Se così non fosse, perché non scrivere un articolo sull'uso di OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145846Z">
+        <seg>Se non...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If on, when a PO segment (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T105529Z">
@@ -21081,6 +21137,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145927Z">
+        <seg>Se sei già abbastanza familiarità con i computer in generale e scegliere un semplice linguaggio di scripting come Tcl/Tk, si potrebbe insegnare a te stesso abbastanza per essere in grado di scrivere script semplice ma utile all'interno di un paio di settimane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are in any doubt, we recommend that you use the "standard" version, 
 i.e. with JRE.</seg>
       </tuv>
@@ -21234,6 +21298,14 @@ change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183348Z">
         <seg>Se non è possibile visualizzare tutti i pannelli (siano essi aperti o minimizzati), premere il comando &lt;g0&gt; Opzioni &gt; Ripristina finestra principale&lt;/g0&gt; in modo da ripristinarli allo stato predefinito nell'installazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145908Z">
+        <seg>Se è possibile programmare in un'altra lingua, è possibile scrivere codice per supportare l'applicazione di nucleo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22029,6 +22101,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T221211Z">
         <seg>Il sostegno economico per consentire lo sviluppo di OmegaT nel tempo è altamente apprezzato: fate clic su questo collegamento per accedere all'&lt;u0&gt;account PayPal di OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, we'd like to hear from you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145853Z">
+        <seg>Se sei un programmatore e ti capita di conoscere Java, ci piacerebbe sentire da voi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25610,6 +25690,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192815Z">
         <seg>Risorse per la localizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145815Z">
+        <seg>Localizzazione di OmegaT in altre lingue è anche un'attività in corso, dal momento che le funzioni e le nuove funzionalità vengono aggiunti tutto il tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29297,6 +29385,14 @@ la cartella home dell'utente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145840Z">
+        <seg>OmegaT è scritto in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T144830Z">
@@ -30353,6 +30449,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T174910Z">
         <seg>Uno dei segmenti mostrati sopra è quello attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145828Z">
+        <seg>Una delle cose più utili agli utenti di OmegaT può fare è... per usare OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32139,6 +32243,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145836Z">
+        <seg>Programmazione (Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145900Z">
+        <seg>Programmazione (non Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145335Z">
@@ -32591,6 +32711,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101510Z">
         <seg>Memoria pseudo-tradotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145948Z">
+        <seg>Pubblicità</seg>
       </tuv>
     </tu>
     <tu>
@@ -34808,6 +34936,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T111531Z">
         <seg>Si veda memoria pseudo-tradotta (più sotto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145819Z">
+        <seg>Vedere la &lt;a0&gt;Localizzazione di OmegaT HowTo&lt;/a0&gt; per dettagli di ciò che è coinvolto nella traduzione/localizzazione di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37078,6 +37214,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such auxiliary code has already been written in Star Basic and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145912Z">
+        <seg>Tale codice ausiliario è già stato scritto nelle stelle base e Tcl/Tk, per esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such file formats are conceived so that they retain formatting information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T170110Z">
@@ -37930,6 +38074,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T205427Z">
         <seg>I termini del segmento corrente che &lt;a3&gt;OmegaT&lt;/a3&gt; reperisce all'interno del/dei file di glossario vengono visualizzati all'interno del pannello “Glossario” della schermata principale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145824Z">
+        <seg>Test</seg>
       </tuv>
     </tu>
     <tu>
@@ -48360,6 +48512,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145327Z">
         <seg>Grafica del sito Web da:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145922Z">
+        <seg>Bene, avete considerato apprendimento?</seg>
       </tuv>
     </tu>
     <tu>
