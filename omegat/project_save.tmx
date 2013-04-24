@@ -3025,6 +3025,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192522Z">
+        <seg>&lt;a0&gt;Garanzia di sviluppo ha già provocato l'aggiunta di determinate caratteristiche.&lt;/a0&gt; Se siete disposti a finanziare il lavoro di implementare la funzionalità desiderata, puoi contattare il team di sviluppo privatamente per un preventivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Tag&lt;/a0&gt; errors are &lt;a1&gt;tag manipulations&lt;/a1&gt; in the translation that do not reflect the number of  tags and their order in the original segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T163141Z">
@@ -10829,6 +10837,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192552Z">
+        <seg>Come con sviluppi liberi, tuttavia, il principio è comunque applicabile che eventuali modifiche di OmegaT devono essere vantaggioso per l'applicazione e i suoi utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with the glossary function, you can use keyboard shortcuts to copy and paste content from the Text Search window into the active translation segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T184539Z">
@@ -17984,6 +18000,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192445Z">
+        <seg>Ad esempio, chiunque è libero di apportare modifiche al codice del programma di OmegaT e a presentare queste modifiche al team di sviluppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, by default &lt;c0&gt;.txt&lt;/c0&gt; files will be loaded using OS-default encoding.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T170018Z">
@@ -20016,6 +20040,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T201242Z">
         <seg>È bene sapere, tuttavia, cosa è possibile fare e come farlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192509Z">
+        <seg>Presentazione di un RFE non significa tuttavia che la funzione desiderata o il miglioramento sarà automaticamente attuato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23074,6 +23106,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192440Z">
+        <seg>In alcune zone, certo grado di coordinamento è necessaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some cases tag errors may even prevent a document from opening.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T204330Z">
@@ -24725,6 +24765,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192525Z">
+        <seg>È possibile anche per gli sviluppi commissionati da sviluppatori esterni per essere implementato all'interno di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152838Z">
@@ -25986,6 +26034,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T184029Z">
         <seg>Agli utenti di Lion verrà fatta una richiesta dal sistema (al primo avvio di un'applicazione che ha bisogno di Java), il quale eventualmente lo scaricherà e installerà in modo automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192505Z">
+        <seg>Letteralmente centinaia di RFEs è già stati fatti, e molti di loro già implementato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30589,6 +30645,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192517Z">
+        <seg>Gli sviluppatori di OmegaT, che sono tutti volontari, possono essere più disposti a implementare un RFE se il lavoro di sviluppo è finanziato dal richiedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183750Z">
@@ -31097,6 +31161,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104621Z">
         <seg>Solo se il file (X)HTML contiene una dichiarazion&amp;e di codifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192451Z">
+        <seg>Solo se sono considerati benefici per gli utenti di OmegaT, tuttavia, il team di sviluppo comprenderà li in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44926,6 +44998,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% clean" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192501Z">
+        <seg>Questo assicura che gli interessi degli utenti sono protetti e ha anche portato a OmegaT premio &lt;a0&gt;Softpedia 100% clean "garanzia&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T181158Z">
@@ -45034,6 +45114,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T200735Z">
         <seg>Questa formattazione è stata eliminata.&lt;segmento 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192431Z">
+        <seg>Questo approccio hands-off è descritto dall'attuale OmegaT coordinatore del progetto come "delega anarchia".</seg>
       </tuv>
     </tu>
     <tu>
@@ -50365,10 +50453,26 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192437Z">
+        <seg>Per quanto riguarda le mansioni sistematiche, volontari che lavorano sul progetto OmegaT sono generalmente dato tanta libertà possibile nel determinare la forma del loro contributo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183147Z">
         <seg>Il fornitore di un prodotto software che affermi che il prodotto è compatibile con un altro pezzo di software, questa compatibilità è raramente al 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192513Z">
+        <seg>Se non viene adottata dipende in primo luogo su se il team di sviluppo ritiene utile OmegaT, e in secondo luogo, su uno degli sviluppatori sia disposto a fare il lavoro di attuazione della stessa.</seg>
       </tuv>
     </tu>
     <tu>
