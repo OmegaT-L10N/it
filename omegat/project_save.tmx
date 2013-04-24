@@ -10365,6 +10365,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201123Z">
+        <seg>Anche se può sembrare strano a voler tradurre file TMX (il motivo usuale per la creazione di un filtro di file), l'aggiunta di un filtro TMX ha un interessante effetto che ti permette di file TMX in qualsiasi posizione di essere cercato all'interno di qualsiasi progetto OmegaT utilizzando la funzione "Ricerca file", qualcosa di non possibile nella build standard di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145330Z">
@@ -18840,6 +18848,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201127Z">
+        <seg>Per la compilazione di OmegaT dal codice sorgente, vedere &lt;a0&gt;Compilazione di OmegaT da fonte HowTo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details of the tag handling rules, refer to the User's Manual.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173727Z">
@@ -21420,6 +21436,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identify the paragraph-level tag(s) for your new file format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201158Z">
+        <seg>Identificare il livello di paragrafo Tag (s) per il nuovo formato di file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;a0&gt;OmegaT&lt;/a0&gt; finds any fuzzy matches (30% or over) for the next segment in the translation memories in the project, it displays them in the Match Viewer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T163836Z">
@@ -23985,6 +24009,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In TMX, the paragraph-level tag corresponding to a segment is "tu".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201206Z">
+        <seg>In TMX, il tag di paragrafo corrispondente a un segmento è "tu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a file dialog opened by OmegaT, a translation project will look like a file with an OmegaT icon associated to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T184147Z">
@@ -24086,6 +24118,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T133040Z">
         <seg>Sia le ricerche esatte, sia quelle di parole chiave consentono di utilizzare i caratteri jolly '&lt;c0&gt;*&lt;/c0&gt;' e '&lt;c1&gt;?&lt;/c1&gt;'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both files, search for (matching the case) and replace:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201153Z">
+        <seg>In entrambi i file, cercare (nel caso di corrispondenza) e sostituire:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25031,6 +25071,22 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193348Z">
         <seg>In questa finestra di dialogo, selezionare o creare una cartella di file di dizionario sul vostro disco rigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example, the Help &amp; Manual filter has been selected as a basis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201135Z">
+        <seg>In questo esempio, il filtro manuale di aiuto &amp;amp; è stato selezionato come base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this folder, rename the two files HelpandManualDialect.java and HelpandManualFilter.java to TmxDialect.java and TmxFilter.java respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201142Z">
+        <seg>In questa cartella, rinominare i due file HelpandManualDialect.java e HelpandManualFilter.java TmxDialect.java e TmxFilter.java rispettivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27746,6 +27802,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194909Z">
         <seg>Individuare il file di configurazione OmegaT.l4J.ini (la posizione predefinita è C:\Program Files (x86) \OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locate the folder src/org/omegat/filters3/xml, and make a copy the subfolder /helpandmanual, naming it /tmx.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201138Z">
+        <seg>Individuare la cartella src/org/omegat/filters3/xml e fare una copia della sottocartella /helpandmanual, chiamandolo /tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30891,6 +30955,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT HowTo: Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201113Z">
+        <seg>OmegaT HowTo: Creazione di un nuovo filtro di file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT HowTo: OmegaT compatibility with Déjà Vu</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T125945Z">
@@ -33203,6 +33275,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T115827Z">
         <seg>Aprire il file "Info.plist" facendovi sopra clic col pulsante destro del mouse e selezionando il proprio editor di testo preferito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the files TMXDialect.java and TMX filter in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201146Z">
+        <seg>Aprite il file TMXDialect.java e TMX filtro in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38216,6 +38296,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T182834Z">
         <seg>Seleziona una voce per visualizzare, aggiungere, rimuovere o modificare un'unità di traduzione delle note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an existing filter for a format similar to that for the new filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201131Z">
+        <seg>Selezionare un filtro esistente per un formato simile a quello per il nuovo filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47341,6 +47429,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201117Z">
+        <seg>Questo HowTo spiega come creare un nuovo filtro di file per l'uso con OmegaT descrivendo la creazione di un filtro di file rudimentale per il formato TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194728Z">
@@ -49496,6 +49592,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T102310Z">
         <seg>Per concludere l'operazione di traduzione, aprire i documenti di arrivo con l'applicazione corrispondente (navigatore, elaboratore di testi ecc.) per verificare il contenuto e la corretta formattazione del documento finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find out what the paragraph tags should be, examine a sample file in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201202Z">
+        <seg>Per scoprire quali dovrebbero essere i tag di paragrafo, esaminare un esempio di file in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
