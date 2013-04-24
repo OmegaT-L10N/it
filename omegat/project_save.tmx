@@ -1264,6 +1264,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202429Z">
+        <seg>(Scaricare dal link fornito; Gli utenti Linux possono preferiscono installare dai repository della loro distribuzione, dove questo è possibile)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194140Z">
@@ -1369,6 +1377,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183339Z">
         <seg>(OmegaT è lungi dall'essere unica a questo proposito: molti altri strumenti CAT convertono i file di origine in un formato diverso, in alcuni casi in background senza il traduttore, essendo a conoscenza del fatto, prima che essi sono tradotti.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Other methods of closing Priorview will not delete the temporary files.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202548Z">
+        <seg>(Altri metodi di chiusura Priorview non eliminerà i file temporanei.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3049,6 +3065,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202424Z">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; insieme &lt;a1&gt;"ReloadEvery" Add-on per Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194857Z">
@@ -3077,6 +3101,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091205Z">
         <seg>&lt;a0&gt;Codici di lingua&lt;/a0&gt;, &lt;a1&gt;Lingue&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; together with the &lt;a1&gt;Unoconv plug-in&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202443Z">
+        <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; , insieme con il &lt;a1&gt;plug-in Unoconv&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3461,6 +3493,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193411Z">
         <seg>&lt;b0&gt; e &lt;/b0&gt; qui sotto sono tag accoppiati e influiscono sul testo log.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;A browser&lt;/b0&gt;, specifically either:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202416Z">
+        <seg>&lt;b0&gt;Un browser&lt;/b0&gt;, sia in particolare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;A conversion utility&lt;/b0&gt;, specifically either:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202438Z">
+        <seg>&lt;b0&gt;Un'utilità di conversione&lt;/b0&gt;, in particolare sia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8779,6 +8827,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202604Z">
+        <seg>Un Commissione europea comunicato stampa (in formato ODT) in OmegaT e sotto di esso il testo di destinazione istantanea visualizzata in Opera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T214822Z">
@@ -10004,6 +10060,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All being well, Priorview should appear when launched as described above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202519Z">
+        <seg>Tutto bene, Priorview dovrebbe comparire quando lanciato come descritto sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All being well, your translation will come out looking like the original, but translated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195521Z">
@@ -10240,6 +10304,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T184422Z">
         <seg>Permette di attivare/disattivare gli strumenti di Traduzione automatica offerti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Almost any current version of Tcl/Tk will probably be suitable, but you must have both Tcl (the scripting interpreter) and Tk (the graphical component).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202449Z">
+        <seg>Quasi qualsiasi versione corrente di Tcl/Tk sarà probabilmente adatto, ma è necessario avere sia Tcl (l'interprete di script) e Tk (il componente grafico).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12284,6 +12356,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T132339Z">
         <seg>Tutti e due i tipi di ricerca sono in grado di riconoscere i caratteri jolly * e ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bottom right: the Priorview utility.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202608Z">
+        <seg>In basso a destra: l'utilità Priorview.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15433,6 +15513,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T194229Z">
         <seg>A seconda delle regole di segmentazione, la coppia di tag potrebbe risultare separata in due segmenti consecutivi, perciò la convalida dei tag deve procedere con cautela e operare sui due segmenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending upon the version of Tcl/Tk that you have installed, you may have to add the version number to the wish command, e.g.:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202625Z">
+        <seg>A seconda della versione di Tcl/Tk che avete installato, potrebbe essere necessario aggiungere il numero di versione per il comando di desiderio, ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18927,10 +19015,26 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Abiword:&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202657Z">
+        <seg>Per Abiword: &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Internet Explorer 7.x, for example, File &gt; Save As&gt; Webpage, Complete; for Firefox 3.x, File &gt; Save As &gt; Web Page, Complete; for Firefox 2.x, File &gt; Save Page As.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T175824Z">
         <seg>Per Internet Explorer 7.x, ad esempio, il comando è File &gt; Salva con nome &gt; Pagina Web,completa; per Firefox 3.x,, File &gt; Salva come &gt; pagina Web, completa; per Firefox 2.x, File &gt; Salva pagina come).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For LibreOffice+Unoconv:br/&gt; unoconv -f html &lt;i5&gt;file&lt;/i5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202703Z">
+        <seg>Per LibreOffice + Unoconv: br / &amp;amp;gt; unoconv -f html &lt;i5&gt;file.&lt;/i5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19621,6 +19725,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T214426Z">
         <seg>Per l'applicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the background and principles, refer to the &lt;a0&gt;Preview Howto&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202354Z">
+        <seg>Per lo sfondo e principi, consultare l' &lt;a0&gt;Anteprima Howto&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21749,6 +21861,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Priorview fails to launch:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202619Z">
+        <seg>Se Priorview non riesce a lanciare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120519T105923Z">
@@ -21833,6 +21953,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194431Z">
         <seg>Se tutto è andato secondo i piani, la macro ora dovrebbe funzionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If all is well, an .html version of the file will be produced:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202648Z">
+        <seg>Se tutto va bene, sarà prodotta una versione HTML del file: &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22425,6 +22553,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the file displayed in the browser is not being updated, check the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202636Z">
+        <seg>Se non viene aggiornato il file visualizzato nel browser, controllare quanto segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the filename does not end with &lt;c1&gt;.tmx&lt;/c1&gt; it will add the extension.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T171929Z">
@@ -22517,6 +22653,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T172949Z">
         <seg>Se il parametro non è specificato, verranno elaborati tutti i file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the path to the location of priorview.tcl contains spaces, put it in quotes, e.g.:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202616Z">
+        <seg>Se il percorso del priorview.tcl contiene spazi, messo tra virgolette, ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22976,6 +23120,14 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195422Z">
         <seg>Se si utilizza Linux o Macintosh, ottenere e installare la versione Crossover rilevante prima di installare Iceni Infisso Professional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using Mac OSX, you can &lt;a2&gt;download a version of Priorview for Mac here&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202357Z">
+        <seg>Se si utilizza Mac OS x, è possibile &lt;a2&gt;scaricare una versione di Priorview per Mac qui&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24490,6 +24642,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In each case, &lt;i0&gt;file&lt;/i0&gt; is the name of a .docx or .odt file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202646Z">
+        <seg>In ogni caso, il &lt;i0&gt;file&lt;/i0&gt; è il nome di un file con estensione docx o ODT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183238Z">
@@ -25719,6 +25879,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T122359Z">
         <seg>Installa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install Firefox first (if you do not already have it installed), then ReloadEvery.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202426Z">
+        <seg>Installare Firefox prima (se non hai già installato), poi ReloadEvery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33045,6 +33213,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On this, select:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202520Z">
+        <seg>Su questo, selezionare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On warn the errors are printed but the program continues.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T191244Z">
@@ -33081,6 +33257,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T111643Z">
         <seg>Una volta installato OmegaT, è possibile avviarlo dalla riga di comando, creare uno script che includa i parametri per la riga oppure fare clic su &lt;e0&gt;OmegaT.jar&lt;/e0&gt; per avviarlo in modo diretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202540Z">
+        <seg>Una volta Priorview è stato lanciato, tuttavia, non potete selezionare un browser diverso o un utilità di conversione; Queste opzioni sono quindi nascosti dopo il lancio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34387,6 +34571,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T110422Z">
         <seg>Modello prima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pay attention to lower/upper case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202631Z">
+        <seg>Prestare attenzione al caso inferiore/superiore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39636,6 +39828,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Software required</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202400Z">
+        <seg>Software richiesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T162722Z">
@@ -41766,10 +41966,26 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That the file conversion utility is installed properly and is working.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202642Z">
+        <seg>Che l'utilità di conversione di file è installato correttamente e sta lavorando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That works well when the computer works in French for instance and the files are in English, or when the computer is German and you deal with get Italian files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T202411Z">
         <seg>Questo non genera problemi, fintanto che il computer lavora in francese, per esempio, e si aprono file in Inglese, o quando il computer è tedesco e si gestiscono file in Italiano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202639Z">
+        <seg>Che si sono ricordando di premere Ctrl + s, Ctrl + d in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42391,6 +42607,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Mac OSX version is not yet documented and the information below does &lt;b3&gt;not&lt;/b3&gt; apply to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202358Z">
+        <seg>La versione Mac OSX non è ancora documentata e fa le seguenti informazioni &lt;b3&gt;non&lt;/b3&gt; si applicano ad esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Match Statistics are tab-separated and you can use &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; to copy/paste them, for instance into a spreadsheet or into your cost-accounting application.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T192353Z">
@@ -42587,6 +42811,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200749Z">
         <seg>La finestra “File del progetto” visualizza l'elenco dei file del progetto, con indicazione di altre informazioni relative al progetto stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202543Z">
+        <seg>Il pulsante Esci chiude Priorview ed elimina anche i file temporanei che crea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44545,6 +44777,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195929Z">
         <seg>Gli script di avvio non verranno scritta per il vostro percorso di esecuzione in questo caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The layout shown here is just for the sake of example; you can of course arrange the windows as you like.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202612Z">
+        <seg>Il layout mostrato qui è solo per il gusto nell'esempio; Naturalmente è possibile organizzare le finestre, come ti piace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46986,6 +47226,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then type in:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202510Z">
+        <seg>Poi digitare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then use File &gt; Open to open any short MS Word document in the source language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172236Z">
@@ -47857,6 +48105,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202055Z">
         <seg>Questo HowTo descrive i principi generali per l'impostazione di una funzione di anteprima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo describes the use of Priorview for &lt;b1&gt;Windows and Linux&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202355Z">
+        <seg>Questo HowTo descrive l'uso di Priorview per &lt;b1&gt;Windows e Linux&lt;/b1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50196,6 +50452,14 @@ una nuova segnalazione di errore:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202453Z">
+        <seg>Per installare Priorview, basta scompattare l'archivio zip in qualsiasi luogo adatto sul tuo disco rigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T213639Z">
@@ -50305,6 +50569,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T081506Z">
         <seg>Per avviare OmegaT, si devono, in genere, digitare due comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch Priorview, open a command prompt/terminal/console and type in:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202459Z">
+        <seg>Per il lancio di Priorview, aprire una prompt dei comandi, il terminale e la console e digitare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50566,6 +50838,14 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select a different browser or conversion utility, you must close Priorview and relaunch it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202542Z">
+        <seg>Per selezionare un browser diverso o un utility di conversione, è necessario chiudere Priorview e rilanciare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193335Z">
@@ -50719,6 +50999,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183302Z">
         <seg>Per utilizzare questo script, aprire una finestra di terminale (console), passare alla cartella in cui sono contenuti OmegaT.jar e lo script linux-install.sh, ed eseguire lo script col comando ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use Priorview on Windows or Linux, you need the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202405Z">
+        <seg>Per utilizzare Priorview su Windows o Linux, è necessario quanto segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52088,6 +52376,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Until/unless you do, there will be no changes to detect/display!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202641Z">
+        <seg>Fino a quando / se non si fa, non ci sarà alcuna modifica per rilevare/display!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T215904Z">
@@ -52929,6 +53225,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Priorview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202517Z">
+        <seg>Utilizzando Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T172438Z">
@@ -53653,6 +53957,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When actuated, this launches your browser with a dummy page instructing you to set the automatic refresh function, which you should then do, and then to hit Ctrl+s, Ctrl+d in OmegaT to launch automatic updating of the browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202556Z">
+        <seg>Quando azionato, questo lancia il tuo browser con una pagina di dummy istruire è possibile impostare la funzione di aggiornamento automatico, che poi si dovrebbe fare, e quindi premere Ctrl + s, Ctrl + d in OmegaT per avviare l'aggiornamento automatico del browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When an OmegaT encounters a file in its source folder, it tries to select the filter using file's extension.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T172400Z">
@@ -54021,6 +54333,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have selected all of these, the Start button appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202529Z">
+        <seg>Dopo aver selezionato tutti i questi, viene visualizzato il pulsante di Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you have translated all the segments (or earlier if you wish), &lt;a0&gt;OmegaT&lt;/a0&gt; will create the target document(s) using the translations stored in the translation memory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T170954Z">
@@ -54273,6 +54593,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T212716Z">
         <seg>Durante il lavoro di traduzione, in questa cartella vengono creati (e aggiornati durante il processo di traduzione) file aggiuntivi (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx e project_name-level2.tmx&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whilst Priorview is running, you can:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202532Z">
+        <seg>Mentre Priorview è in esecuzione, è possibile:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55695,6 +56023,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can simplify launching by writing a script file, i.e. a plain-text file containing these two lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202513Z">
+        <seg>È possibile semplificare l'avvio tramite la scrittura di un file di script, cioè un file di testo contenenti queste due linee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can simply accept the default locations of the subfolders, but be sure to check that the source language and target language codes are correct.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T103526Z">
@@ -55771,6 +56107,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T164730Z">
         <seg>Si può indicare a OmegaT di inserire automaticamente, all'interno del campo di arrivo, tutte le prime concordanze superiori a un valore percentuale specificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can test this with the relevant command below on the command line (terminal/console/DOS prompt).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202644Z">
+        <seg>È possibile verificare questo con il relativo comando sotto la riga di comando (console/terminale/DOS prompt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56959,6 +57303,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>change the polling interval.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202539Z">
+        <seg>modificare l'intervallo di polling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>civil-engineering</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T213951Z">
@@ -57859,6 +58211,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181552Z">
         <seg>installingAndRunning.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>interrupt and restart it;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202534Z">
+        <seg>interrompere e riavviare</seg>
       </tuv>
     </tu>
     <tu>
@@ -58887,6 +59247,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>select a new file (if you are working in a project containing several files, you do not have to relaunch Priorview when you reach the end of one file; you can simply select the next);</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202537Z">
+        <seg>selezionare un nuovo file (se lavora in un progetto contenente diversi file, non devi rilanciare Priorview quando si raggiunge la fine di un file si può semplicemente selezionare il successivo);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T105938Z">
@@ -59135,6 +59503,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the browser you have installed;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202524Z">
+        <seg>il browser che si è installato;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the contents of the source folder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T112751Z">
@@ -59159,6 +59535,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the file conversion utility that you have installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202527Z">
+        <seg>l'utilità di conversione file che avete installato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the file currently available in the Editor pane is highlighted with a blue background</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T223233Z">
@@ -59171,6 +59555,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T201028Z">
         <seg>il file attivo disponibile nella finestra dell'Editor viene evidenziato con uno sfondo azzurro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the frequency with which the script is to check whether this file has changed (polling interval);</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202526Z">
+        <seg>la frequenza con cui lo script è quello di verificare se questo file è stato modificato (intervallo di polling);</seg>
       </tuv>
     </tu>
     <tu>
@@ -59211,6 +59603,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200905Z">
         <seg>l'elenco di tutti i file da tradurre che compongono il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the name of the target file (in /target in your OmegaT project);</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202522Z">
+        <seg>il nome del file di destinazione (in /target nel progetto OmegaT);</seg>
       </tuv>
     </tu>
     <tu>
@@ -59611,6 +60011,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T081645Z">
         <seg>dove &lt;e0&gt;{cartella}&lt;/e0&gt; è il nome della cartella, nel suo percorso completo, in cui risiede il programma OmegaT (in particolare il &lt;e1&gt;OmegaT.jar&lt;/e1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where &lt;i0&gt;path&lt;/i0&gt; is the full pathname of the folder in which you placed preview.tcl.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202503Z">
+        <seg>dove &lt;i0&gt;percorso&lt;/i0&gt; è il percorso completo della cartella in cui avete posizionato preview.tcl.</seg>
       </tuv>
     </tu>
     <tu>
