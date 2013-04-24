@@ -1925,8 +1925,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Extract all source text from the project files into a single, large text file&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180625Z">
-        <seg>- Estrarre tutto il testo di partenza dal file di progetto in un unico file di testo, grande&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T205357Z">
+        <seg>- Estrarre tutto il testo di partenza dai file del progetto in un unico grande file di testo&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10795,8 +10795,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180013Z">
-        <seg>Uno strumento intelligente di allineamento a riga di comando per produrre file di memoria di traduzione da testi preesistenti con relative traduzioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T205221Z">
+        <seg>Uno strumento intelligente di allineamento, a riga di comando, per produrre file di memoria di traduzione da testi preesistenti con relative traduzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29797,8 +29797,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180342Z">
-        <seg>La maggior parte di questi script richiede MS Windows, anche se alcune possono lavorare anche su altre piattaforme. &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T205306Z">
+        <seg>La maggior parte di questi script richiede MS Windows, anche se alcuni possono lavorare anche su altre piattaforme. &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
