@@ -26981,8 +26981,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools, can be found on the &lt;a0&gt;relevant Atril page&lt;/a0&gt;, and on the helpful &lt;a1&gt;blog maintained by Kevin Lossner&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T133912Z">
-        <seg>Maggiori informazioni sul formato e la procedura per la sua creazione, sia per gli utenti di Déjà Vu e che di altri strumenti CAT, si possono trovare sulla &lt;a0&gt; pagina rilevante di Atril &lt;/a0&gt;, e sull'utile blog &lt;a1&gt; mantenuto da Kevin Lossner &lt;/a1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T152701Z">
+        <seg>Maggiori informazioni sul formato e sulla procedura,l per la sua creazione, sia per gli utenti di Déjà Vu che per utenti di altri strumenti CAT, si possono trovare sulla &lt;a0&gt; pagina attinente di Atril &lt;/a0&gt;, e sull'utile blog &lt;a1&gt; mantenuto da Kevin Lossner &lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43713,6 +43713,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204833Z">
         <seg>Software di terze parti da usare con OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T152816Z">
+        <seg>This GUIDA describes OmegaT's compatibility with other software products.</seg>
       </tuv>
     </tu>
     <tu>
