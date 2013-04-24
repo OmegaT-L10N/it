@@ -9901,6 +9901,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145330Z">
+        <seg>Anche se molti utenti sono consapevoli di questo, spesso la loro reazione è "ma io non riesco a programmare!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T230201Z">
@@ -11328,6 +11336,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145342Z">
+        <seg>Di seguito è riportato un elenco delle zone per cui ulteriori volontari sarebbero state più che benvenuto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below this is the Glossary Viewer, where glossary matches are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T163621Z">
@@ -11584,6 +11600,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145338Z">
+        <seg>Ma la programmazione non è l'unico lavoro che necessitano di essere fatto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, 256 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100756Z">
@@ -11668,6 +11692,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T201900Z">
         <seg>L'eliminazione di un gruppo di tag rimuoverà dal file finale tradotto tutte le informazioni di formattazione correlate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By the same token, the OmegaT project is run by volunteers who receive no payment for the work they do and time they spend on the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145316Z">
+        <seg>Per lo stesso motivo, il progetto OmegaT è gestito da volontari che non ricevono alcun pagamento per il lavoro che fanno e il tempo che trascorrono sul progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14869,6 +14901,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145346Z">
+        <seg>Creazione di documentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation is very important.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145351Z">
+        <seg>La documentazione è molto importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150032Z">
@@ -17544,6 +17592,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145305Z">
+        <seg>Per i sostenitori del software open source, questa libertà è persino più importante dell'esenzione da dover pagare alcunché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details of the tag handling rules, refer to the User's Manual.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173727Z">
@@ -19204,6 +19260,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145358Z">
+        <seg>Hai pensato di scrivere qualche documentazione utente te stesso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T201059Z">
@@ -19712,6 +19776,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T080954Z">
         <seg>L'avvio da riga di comando, tuttavia, abilita aspetti del comportamento del programma controllabili con strumenti di modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the project relies for its survival and progress much more on OmegaT users providing support in other forms than upon financial contributions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145323Z">
+        <seg>Tuttavia, il progetto si basa per la sua sopravvivenza e il progresso molto di più su OmegaT utenti fornendo supporto in altre forme rispetto a contributi finanziari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21425,6 +21497,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T214610Z">
         <seg>Se si possiede già un sistema di gestione terminologica - per esempio, MultiTerm - è molto probabile che esso preveda l'esportazione dei dati terminologici nel formato TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have found OmegaT useful, you are welcome to contact the development team and make a donation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145319Z">
+        <seg>Se hai trovato OmegaT utile, siete invitati a contattare il team di sviluppo e fare una donazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24344,6 +24424,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145403Z">
+        <seg>È una vera rivelazione!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's an exception rule, so the rule check box must be unchecked</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T201648Z">
@@ -25494,6 +25582,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145408Z">
+        <seg>Localizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization TMX repository</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192811Z">
@@ -26079,6 +26175,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T125000Z">
         <seg>Mannese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145354Z">
+        <seg>Molti di voi leggendo questo saranno traduttori che hanno tradotto un sacco di documentazione per l'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32035,6 +32139,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145335Z">
+        <seg>La programmazione è certamente la più importante funzione, e senza programmazione, non non c'è nessun programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T215719Z">
@@ -37926,6 +38038,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145414Z">
+        <seg>Grazie al lavoro di traduttori in passato, di OmegaT interfaccia utente o aiuto i testi sono stati tradotti in diverse lingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145130Z">
@@ -38571,6 +38691,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193958Z">
         <seg>La filosofia del progetto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145327Z">
+        <seg>Il progetto OmegaT beneficerebbe di maggiore sostegno da volontari in quasi tutti i settori.</seg>
       </tuv>
     </tu>
     <tu>
