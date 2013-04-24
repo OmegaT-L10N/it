@@ -1297,6 +1297,14 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201950Z">
+        <seg>(Se si desidera lanciare OmegaT con una lingua di interfaccia utente diversa dall'inglese, apportare la stessa modifica nel file bundle localizzato rilevante.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -12024,6 +12032,22 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below them, insert the lines:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202004Z">
+        <seg>Sotto di loro, inserire le righe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below these lines, insert the lines</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201945Z">
+        <seg>Sotto queste righe, inserire le righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below this is the Glossary Viewer, where glossary matches are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T163621Z">
@@ -12036,6 +12060,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T092154Z">
         <seg>Immediatamente sotto si trova la finestra “Glossario”, nella quale vengono visualizzate le corrispondenze con il glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beneath these lines, you can also insert the code:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201911Z">
+        <seg>Sotto queste righe, è possibile anche inserire il codice:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12704,6 +12736,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the file extension, in this case to .tmx, by changing the line:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201933Z">
+        <seg>Cambiare l'estensione del file, in questo caso di TMX, modificando la riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the line:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194413Z">
@@ -12908,6 +12948,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120304T122011Z">
         <seg>Verificare &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g7&gt;Proprietà&lt;/g7&gt; &lt;/m0&gt; del &lt;g6&gt;progetto&lt;/g6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check in Options &gt; File Filters that the new filter is present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202012Z">
+        <seg>Il check-in Opzioni &amp;amp;gt; filtri di File che è presente il filtro nuovo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13806,6 +13854,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150401Z">
         <seg>Compatibile con altre applicazioni di memoria di traduzione (TMX, TTX, XML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202008Z">
+        <seg>Compilare come descritto nella compilazione di OmegaT da fonte HowTo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15129,6 +15185,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181352Z">
         <seg>Scorciatoia predefinita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Define the paragraph tags, in this case by changing the line:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201820Z">
+        <seg>Definire i tag di paragrafo, in questo caso modificando la riga:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21076,6 +21140,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HowTo: Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202042Z">
+        <seg>HowTo: Aggiunta di una funzione di anteprima di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HowTo: Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195154Z">
@@ -24851,6 +24923,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the folder /src/org/omegat, open the file Bundle.properties in a text editor and find the lines</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201939Z">
+        <seg>In /src/org/omegat la cartella, aprire il file bundle in un editor di testo e individuare le linee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T210540Z">
@@ -24863,6 +24943,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154035Z">
         <seg>Nella finestra successiva è possibile indicare che la quale lingua selezionata dovrà essere utilizzata in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201958Z">
+        <seg>Nella cartella principale del codice sorgente, aprire il file manifesto-template.mf in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27284,6 +27372,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T083636Z">
         <seg>Argomenti di comando per l'avvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the newly compiled version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202010Z">
+        <seg>Lancio della versione appena compilata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43524,6 +43620,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filter will however still work if you do not do this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201902Z">
+        <seg>Il filtro funzionerà ancora però se non fate questo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183951Z">
@@ -46997,6 +47101,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201848Z">
+        <seg>Questi definiscono sottosegmenti che vengono presentati di fuori del segmento in cui sono contenuti (le note sono un buon esempio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183423Z">
@@ -49010,6 +49122,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will make the display of the TMX files neater, but again, it is not absolutely essential.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201914Z">
+        <seg>Questo renderà la visualizzazione dei file TMX più ordinato, ma ancora una volta, non è assolutamente indispensabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will occasionally lead to the display of &lt;s0&gt;orphan strings&lt;/s0&gt; in the Match Viewer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T112019Z">
@@ -49348,6 +49468,14 @@ una nuova segnalazione di errore:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202016Z">
+        <seg>Per verificare se funziona, è possibile inserire un file TMX nella cartella /source (più utile) o un progetto, eseguire una ricerca di testo &amp;amp;gt; Cerca file operazione su file TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To check your list of files to be translated, consult the &lt;e0&gt;Project Files&lt;/e0&gt; &lt;i1/&gt;window (Menu: &lt;m2&gt; &lt;g3&gt;Project&lt;/g3&gt; &lt;g4&gt;Project Files...&lt;/g4&gt; &lt;/m2&gt;,&lt;i5/&gt; if it does not open automatically).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T110133Z">
@@ -49512,6 +49640,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T102155Z">
         <seg>Per avviare questa operazione, dalla barra dei menu avviare il comando &lt;s0&gt;Progetto → Crea i documenti di arrivo&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this for the TMX filter, insert the line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201853Z">
+        <seg>Per fare questo per il filtro TMX, inserire la riga</seg>
       </tuv>
     </tu>
     <tu>
@@ -54884,6 +55020,22 @@ to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can define out-of-turn tags.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201844Z">
+        <seg>È possibile definire Tag out-of-turn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can delete the line:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201836Z">
+        <seg>È possibile eliminare la riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T081344Z">
@@ -56239,6 +56391,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>as it is irrelevant to TMX, although the new filter will still work if you do not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201841Z">
+        <seg>come è irrilevante per TMX, anche se il nuovo filtro continuerà a funzionare se non lo fate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>as well as &lt;a1&gt;regular expressions&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T160720Z">
@@ -56267,6 +56427,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093628Z">
         <seg>lo scaricherà e installerà automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>beneath the line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201858Z">
+        <seg>sotto la linea di</seg>
       </tuv>
     </tu>
     <tu>
