@@ -1797,8 +1797,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Add numbers to all segments, making them all "unique"&lt;br6/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180919Z">
-        <seg>- Aggiungere numeri a tutti i segmenti, il che li rende tutti "unici" &lt;br6/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T205521Z">
+        <seg>- Aggiungere numeri a tutti i segmenti e così renderli tutti "unici" &lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1853,8 +1853,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Check spelling (various procedures)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180956Z">
-        <seg>-Controllo ortografico (varie procedure)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T205535Z">
+        <seg>- Controllo ortografico (varie procedure)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1877,8 +1877,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Create a TMX file containing all strings, with identical source and target&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180752Z">
-        <seg>- Creare un file TMX contenente tutte le stringhe, con testo di origine e di destinazione  identico&lt;br4/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T205452Z">
+        <seg>- Creare un file TMX contenente tutte le stringhe che contengano testo di origine e di destinazione identico&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
