@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Non-unique segment" covers both default and alternative translations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203010Z">
+        <seg>"Non-unico segmento" copre traduzioni sia predefinito e alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Standard", "Latest", "/trunk" and "Webstart".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195812Z">
@@ -1284,6 +1292,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172435Z">
         <seg>(Ai fini di questa esercitazione, è possibile utilizzare i file docx per questa procedura, sebbene essi non richiedano la mediazione di Open Office Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202915Z">
+        <seg>(Se le opzioni &amp;amp;gt; Vista &amp;amp;gt; "Includono il primo segmento non univoco quando segmenti non univoci di marcatura" è selezionata, tutti i segmenti non univoci, tra cui il primo sono contrassegnati in questo modo.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,6 +3529,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Create Alternative Translation&lt;/b0&gt;: makes the segment unique.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202953Z">
+        <seg>&lt;b0&gt;Traduzione alternativa creare&lt;/b0&gt;: rende unico il segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;end segment 0001&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T201754Z">
@@ -3553,6 +3577,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Mark Non-Unique Segments&lt;/b0&gt;: identical segments are marked in grey (changes the display, but not the behaviour).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202951Z">
+        <seg>&lt;b0&gt;Mark segmenti Non univoci&lt;/b0&gt;: segmenti identici sono evidenziate in grigio (cambia il display, ma non il comportamento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Modifying the order of tag groups:&lt;/b0&gt;To change the order of a tag group to reflect a different language structure in the translation, simply put the tag group where it should be in the translation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T202147Z">
@@ -3561,10 +3593,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;None&lt;/b0&gt; (default behaviour): all identical segments are automatically translated the same way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202949Z">
+        <seg>&lt;b0&gt;Nessuno&lt;/b0&gt; (comportamento di default): tutti i segmenti identici sono automaticamente tradotti allo stesso modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Pairs and singletons:&lt;/b0&gt;Tags always come either in singletons or in pairs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T185351Z">
         <seg>&lt;b0&gt;Coppie e singoli:&lt;/b0&gt; i tag sono sempre singoli o in coppia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Remove Translation&lt;/b0&gt;: deletes the content of the segment, causing (when Enter is pressed) the default translation to be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202957Z">
+        <seg>&lt;b0&gt;Rimuovere traduzione&lt;/b0&gt;: cancella il contenuto del segmento, causando (quando si preme INVIO) la traduzione di default da inserire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3621,6 +3669,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T200009Z">
         <seg>&lt;b0&gt;Questa formattazione&lt;/b0&gt; sta per essere duplicata qui.&lt;segmento 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Use as Default Translation&lt;/b0&gt;: causes the active segment to be made the default translation and therefore all previous "default translation" segments to be brought into line with it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203001Z">
+        <seg>&lt;b0&gt;Uso come Default traduzione&lt;/b0&gt;: provoca il segmento attivo per essere fatto la traduzione di default e quindi tutti i precedenti segmenti "Traduzione di default" per essere portato in linea con esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10132,6 +10188,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202934Z">
+        <seg>Tutte le altre istanze del segmento stesso che in precedenza erano la traduzione"predefinito" saranno ora portate in linea con questa traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T184731Z">
@@ -12568,6 +12632,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT uses automatic match propagation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202801Z">
+        <seg>Per impostazione predefinita, OmegaT utilizza la propagazione automatica corrispondenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, a translation project directories are all grouped under the main project folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T181603Z">
@@ -12604,6 +12676,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T131415Z">
         <seg>Per impostazione predefinita,la cartella &lt;e0&gt;\tm&lt;/e0&gt; è contenuta all'interno della cartella principale del progetto (per es., &lt;e1&gt;\MioProgetto\tm)&lt;/e1&gt;, ma dalla finestra di dialogo delle proprietà è possibile scegliere una cartella differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203014Z">
+        <seg>Per impostazione predefinita, l'andare al prossimo segmento Untranslated comando (Ctrl + U) salta al prossimo segmento non tradotte, saltando propagato traduzioni nel processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12972,6 +13052,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T084216Z">
         <seg>Le modifiche a questo comando implicano l'aggiunta di "argomenti".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes to this segment have no effect upon other segments, nor do changes to the "default translation" affect it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202954Z">
+        <seg>Modifiche a questo segmento non hanno alcun effetto su altri segmenti, né fanno modifiche alla traduzione"predefinito" possono influenzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14186,6 +14274,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203012Z">
+        <seg>Di conseguenza, segmenti contrassegnate come non univoco (con il carattere grigio) sono contrassegnati come non univoci indipendentemente se traduzioni alternative sono state create o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T083528Z">
@@ -14953,6 +15049,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T165548Z">
         <seg>Creazione di una memoria di traduzione per i documenti selezionati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an "alternative translation" therefore relies upon identical segments having different preceding and following segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203006Z">
+        <seg>Creazione di una «traduzione alternativa» si basa pertanto su segmenti identici di avere diversi precedenti e seguenti segmenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19136,6 +19240,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202919Z">
+        <seg>Per i casi in cui due o più segmenti identici richiedono diverse traduzioni, OmegaT offre "corrispondenza uno-a-molti".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201127Z">
@@ -19685,6 +19797,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T215336Z">
         <seg>Per ragioni di leggibilità, i tasti alfabetici vengono qui rappresentati in maiuscolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For some file types, OmegaT uses the preceding and following segments to make segments unique.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203005Z">
+        <seg>Per alcuni tipi di file, OmegaT utilizza i segmenti precedenti e seguenti a fare segmenti unici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21861,6 +21981,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203016Z">
+        <seg>Se le opzioni &amp;amp;gt; comportamento modifica &amp;amp;gt; "Vai al prossimo segmento Untranslated si ferma quando c'è almeno una traduzione alternativa" è selezionata comunque e almeno una traduzione alternativa di un segmento non univoco è stata creata, questa funzione considera tutte le istanze di quel segmento (se traduzioni predefinito o alternativa) come non tradotte, cioè non saltarli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Priorview fails to launch:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202619Z">
@@ -21913,6 +22041,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T193504Z">
         <seg>Se una frase specifica è stata già tradotta correttamente una volta, non è necessario che venga tradotta nuovamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202823Z">
+        <seg>Se un segmento è già stato tradotto e un identico segmento più avanti nel testo poi è cambiato, il segmento precedente sarà portato in linea con il segmento modificato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24686,6 +24822,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T201317Z">
         <seg>Nella maggior parte dei casi, il computer prende le decisioni corrette per quanto riguarda il contenuto dei file, almeno in linea generale: contiene la lingua russa e sarà in grado di visualizzare solo i caratteri russi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, the translator will wish to translate identical segments within a project in the same way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202918Z">
+        <seg>Nella maggior parte dei casi, il traduttore si desidera tradurre segmenti identici all'interno di un progetto allo stesso modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33021,6 +33165,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202921Z">
+        <seg>Funzione di corrispondenza uno-a-molti di OmegaT prima presuppone che segmenti identici a essere tradotto nello stesso modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T214210Z">
@@ -33529,6 +33681,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143131Z">
         <seg>Una soluzione è togliere in Word il controllo automatico dell'ortografia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One-to-many matching (version 2.5.0 onwards)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202916Z">
+        <seg>Uno-a-molti corrispondenti (versione 2.5.0 in poi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35074,6 +35234,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Points to note</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203003Z">
+        <seg>Punti da notare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Points to note when using the .docx, .xlsx and .pptx formats in OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141246Z">
@@ -35887,6 +36055,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T105209Z">
         <seg>I progetti possono essere gestiti in base allo stile di sviluppo e necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202752Z">
+        <seg>Propagazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -38612,6 +38788,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202832Z">
+        <seg>Segmenti che si verificano più di una volta sono descritti in OmegaT come "non-unique segmenti".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093057Z">
@@ -39048,6 +39232,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224058Z">
         <seg>Motore selezionato: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202903Z">
+        <seg>Selezionando Visualizza &gt; Mark Non univoci segmenti provoca solo la prima istanza di un segmento non univoco per essere visualizzati in nero e la seconda e successive istanze per essere visualizzata in grigio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40966,6 +41158,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summary of propagation and one-to-many matching commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202947Z">
+        <seg>Sommario dei comandi corrispondenza uno-a-molti e propagazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sundanese</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T162828Z">
@@ -41986,6 +42186,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202639Z">
         <seg>Che si sono ricordando di premere Ctrl + s, Ctrl + d in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That you have set the auto-refresh interval in the browser.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202708Z">
+        <seg>Aver impostato l'intervallo di aggiornamento automatico nel browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43495,6 +43703,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T095130Z">
         <seg>Il costrutto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of a segment can be deleted completely either by means of the keyboard shortcuts Ctrl+A &gt; Ctrl+X &gt; Enter, by right-clicking with the mouse and the Remove Translation menu item, or simply by using the delete key (repeatedly).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202941Z">
+        <seg>Il contenuto di un segmento può essere eliminato completamente o mediante i tasti di scelta rapida Ctrl + A &amp;amp;gt; Ctrl + X &amp;amp;gt; invio, facendovi clic sopra con il mouse e la voce di menu traduzione di rimuovere, o semplicemente utilizzando il tasto CANC (ripetutamente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46929,6 +47145,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202913Z">
+        <seg>L'utente può quindi vedere immediatamente che un segmento in grigio anziché nero, è già stato controllato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181455Z">
@@ -48077,6 +48301,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo describes OmegaT's functions for automatic match propagation and one-to-many matching.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202750Z">
+        <seg>Questo HowTo descrive le funzioni di OmegaT per propagazione automatica corrispondenza e corrispondenza uno-a-molti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193721Z">
@@ -48686,6 +48918,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202938Z">
+        <seg>Questo ha l'effetto di eliminare lo stato di «traduzione alternativa» allo stesso tempo; la traduzione del segmento tornerà quindi a quello della traduzione predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T191406Z">
@@ -49098,6 +49338,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202909Z">
+        <seg>Questo è utile quando si è verificata una traduzione, dal momento che solo la prima istanza di segmenti identici può essere necessario controllare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is useful when dealing with texts where inline formatting has no real use (e.g., OCRed PDF, bad converted .odt or .docx, etc.) Only inline tags are removed, so normally there should be no problem with opening the target documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120528T200345Z">
@@ -49246,6 +49494,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T201803Z">
         <seg>Questo significa, per esempio, che non è necessario uscire da un progetto su cui si sta lavorando, se si decide di aggiungervi un'altra memoria secondaria: per integrare le modifiche basterà ricaricare il progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202809Z">
+        <seg>Questo significa che non appena un segmento è tradotto, la traduzione stessa viene inserita automaticamente in tutti i segmenti identici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49490,6 +49746,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This segment can be now translated as desired without other instances of it automatically being made identical to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202927Z">
+        <seg>Questo segmento può essere ora tradotto come desiderato senza altre istanze di esso automaticamente essere fatto identico ad esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120122T200403Z">
@@ -49542,6 +49806,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143749Z">
         <seg>Questo tag sembra non possa essere rimosso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This translation is described as the "default translation".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202923Z">
+        <seg>Questa traduzione è descritta come la traduzione"predefinito".</seg>
       </tuv>
     </tu>
     <tu>
@@ -49694,6 +49966,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194644Z">
         <seg>Questo livello di formattazione sopra sezioni di testo che hanno la formattazione desiderata, stesso, e non sarà quindi necessario ripristinare la formattazione eliminati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will make the current translation the default translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202931Z">
+        <seg>Questo renderà la traduzione corrente traduzione di default.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50605,6 +50885,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make an alternative translation the default translation, right-click with the mouse and select "Use as Default Translation".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202930Z">
+        <seg>Per fare una traduzione alternativa la traduzione predefinito, fare clic destro con il mouse e selezionare «Uso come Default traduzione».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200055Z">
@@ -50734,6 +51022,14 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202925Z">
+        <seg>Per produrre una traduzione che è diversa dalla traduzione"predefinito", fare clic destro con il mouse all'interno del segmento e selezionare «Creare traduzione alternativa».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T220231Z">
@@ -50754,6 +51050,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200124Z">
         <seg>Per rimuovere tutte le tracce di OmegaT dal sistema:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove the "alternative translation" status of a single segment and bring it back into line with the "default translation", simply delete the content of the segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202935Z">
+        <seg>Per rimuovere lo status di «traduzione alternativa» di un singolo segmento e riportarlo in linea con la traduzione"predefinito", è sufficiente eliminare il contenuto del segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54565,6 +54869,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203009Z">
+        <seg>Dove due segmenti hanno anche identici precedono e seguono segmenti (per esempio quando un'intera pagina compare due volte nel testo), essi non possono essere tradotti in modo diverso gli uni dagli altri in OmegaT, cioè non è possibile fare uno di loro una «traduzione alternativa».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200113Z">
@@ -55802,6 +56114,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195910Z">
         <seg>È possibile ad esempio utilizzare per selezionare la lingua dell'interfaccia utente, assegnare più memoria di OmegaT o inserire una password di Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can have as many "alternative translations" as you like of identical segments, but there can only be one default translation (or none at all).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202928Z">
+        <seg>Si possono avere come molti "traduzioni alternative" come ti piace di segmenti identici, ma ci può essere solo una traduzione di default (o nessuno).</seg>
       </tuv>
     </tu>
     <tu>
