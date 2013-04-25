@@ -11011,8 +11011,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Another possible source of incompatibility are three-digit language codes, which are not supported by OmegaT at all.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183715Z">
-        <seg>Un'altra possibile fonte di incompatibilità sono codici di linguaggio a tre cifre, che non sono supportati da OmegaT a tutti.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214016Z">
+        <seg>Un'altra possibile fonte di incompatibilità sono codici di linguaggio a tre cifre, che non sono per niente supportati da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33271,8 +33271,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183750Z">
-        <seg>File Glossario di OmegaT sono semplici files di testo nel formato:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214159Z">
+        <seg>I file Glossario di OmegaT sono semplici file di testo semplice nel formato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35356,8 +35356,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Points regarding proprietary translation memory files:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183730Z">
-        <seg>Punti per quanto riguarda i file di memoria di traduzione proprietarie:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214115Z">
+        <seg>Punti relativi ai file di memoria di traduzione proprietari:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59897,8 +59897,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183755Z">
-        <seg>termine &lt;tab&gt;di origine destinazione termine &lt;tab&gt;informazioni aggiuntive</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214249Z">
+        <seg>termine di origine &lt;tab&gt;termine di destinazione &lt;tab&gt; informazioni aggiuntive</seg>
       </tuv>
     </tu>
     <tu>
