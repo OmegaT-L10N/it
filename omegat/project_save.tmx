@@ -1391,8 +1391,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183339Z">
-        <seg>(OmegaT è lungi dall'essere unica a questo proposito: molti altri strumenti CAT convertono i file di origine in un formato diverso, in alcuni casi in background senza il traduttore, essendo a conoscenza del fatto, prima che essi sono tradotti.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210307Z">
+        <seg>(OmegaT è lungi dall'essere unico a questo proposito: molti altri strumenti CAT convertono i file di origine in un formato diverso prima che siano tradotti, in alcuni casi in modo trasparente al traduttore.)</seg>
       </tuv>
     </tu>
     <tu>
