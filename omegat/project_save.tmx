@@ -29149,8 +29149,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Many CAT tools make use of an intermediate bilingual file format, i.e. a file containing both source and target language segments, and in some cases also the structure of the original file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183815Z">
-        <seg>Molti strumenti CAT fare uso di un formato di file intermedio bilingue, cioè un file che contiene sia fonte e segmenti di lingua di destinazione e in alcuni casi anche la struttura del file originale.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214803Z">
+        <seg>Molti strumenti CAT fanno uso di un formato di file intermedio bilingue, cioè un file che contiene segmenti sia di lingua di partenza che di destinazione e in alcuni casi anche la struttura del file originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34369,8 +34369,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183819Z">
-        <seg>Originariamente, questi formati di file bilingue potrebbero essere stato un sottoprodotto dell'architettura dello strumento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214857Z">
+        <seg>Originariamente, questi formati di file bilingue potrebbero essere stati un sottoprodotto dell'architettura dello strumento.</seg>
       </tuv>
     </tu>
     <tu>
