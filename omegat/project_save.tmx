@@ -32445,8 +32445,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183639Z">
-        <seg>OmegaT è generalmente attento delle condizioni e tollerante di inosservanza altri strumenti dovessero insorgere problemi qui, tuttavia, si può generalmente essere risolto abbastanza facilmente da una ricerca &amp;amp; sostituire in un editor di testo del carattere illegale nel file TMX.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213319Z">
+        <seg>OmegaT è generalmente attento delle condizioni e tollerante delle inosservanze di altri strumenti; dovessero insorgere problemi qui, tuttavia, si può generalmente risolverli abbastanza facilmente da una ricerca &amp; sostituzione in un editor di testo del carattere illegale nel file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41576,8 +41576,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>TMX files are in the Unicode encoding, but may be UTF-8 or UTF-16.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183642Z">
-        <seg>File TMX sono la codifica Unicode, ma possono essere UTF-8 o UTF-16.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213335Z">
+        <seg>I file TMX sono la codifica Unicode, ma possono essere UTF-8 o UTF-16.</seg>
       </tuv>
     </tu>
     <tu>
