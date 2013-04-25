@@ -10054,8 +10054,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Again, OmegaT has excellent file filters for both.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183429Z">
-        <seg>OmegaT ha di nuovo, filtri file eccellente per entrambi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T211055Z">
+        <seg>OmegaT ha ancora filtri di file eccellenti per entrambi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21072,6 +21072,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T110516Z">
         <seg>Segmentazione file HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML, its XML equivalent, are the most common file format for web pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210938Z">
+        <seg>HTML e XHTML, l'equivalente XML, sono i formati di file più comuni per le pagine web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32245,8 +32253,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183411Z">
-        <seg>OmegaT ha filtri file per entrambi Open Document Format e per il formato di Star Office che ha sostituito.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210802Z">
+        <seg>OmegaT ha i filtri dei file per entrambi, il formato Open Document e il formato di Star Office sostituito.</seg>
       </tuv>
     </tu>
     <tu>
