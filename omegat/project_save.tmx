@@ -25052,8 +25052,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183532Z">
-        <seg>In altre parole, se un utente di OmegaT rileva una corrispondenza del 100% in un file di livello 2 OmegaT TMX, può essere accettato senza la necessità di adattamento, ma lo stesso non sarebbe vero per un livello 2 TMX file prodotto da un diverso strumento CAT (o viceversa).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T211957Z">
+        <seg>In altre parole, se un utente di OmegaT rileva una corrispondenza del 100% in un file TMX di livello 2 di OmegaT, può essere accettata senza la necessità di adattamento, ma lo stesso non sarebbe vero per un file TMX livello 2 prodotto da uno strumento CAT diverso (o viceversa).</seg>
       </tuv>
     </tu>
     <tu>
