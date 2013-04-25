@@ -28182,8 +28182,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183542Z">
-        <seg>Livello 3 TMX file contengono informazioni di formattazione in una forma che può essere letto da altri strumenti CAT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212241Z">
+        <seg>I file TMX livello 3 contengono informazioni di formattazione in una forma che può essere letta da altri strumenti CAT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41392,8 +41392,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Support for Level 3 in CAT tools is rare.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183546Z">
-        <seg>Supporto di livello 3 in strumenti CAT è raro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212313Z">
+        <seg>Il supporto del livello 3 nei strumenti CAT è raro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49128,8 +49128,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183536Z">
-        <seg>Ciò ha ripercussioni per i flussi di lavoro in cui gli utenti di strumento CAT (tipicamente i clienti) si aspettano di ricevere file di memoria di traduzione e per avere 100% partite inserito automaticamente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212208Z">
+        <seg>Ciò ha ripercussioni per i flussi di lavoro in cui gli utenti di strumento CAT (tipicamente i clienti) si aspettano di ricevere file di memoria di traduzione e di avere le concordanze con il 100% inserite automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
