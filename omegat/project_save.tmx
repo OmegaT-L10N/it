@@ -12626,8 +12626,40 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195613Z">
-        <seg>Di Arno Peters e Mariëtte van Drunen (in hollandese).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195750Z">
+        <seg>Di Arno Peters e Mariëtte van Drunen (in olandese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195807Z">
+        <seg>Di Asier Sarasua Garmendia (in basco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Corinne McKay (in English).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195920Z">
+        <seg>Di Corinne McKay (in inglese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Jan Reitsma (in Dutch).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T200013Z">
+        <seg>Di Jan Reitsma (in olandese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195832Z">
+        <seg>Di Takashi Miyamoto (in giapponese).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12636,6 +12668,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T180105Z">
         <seg>Di Torsten Rox (in tedesco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195724Z">
+        <seg>Di Václav Hejda (in ceco).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37340,10 +37380,26 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Review of OmegaT, 11 April 2008.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195903Z">
+        <seg>Recensione di OmegaT, 11 aprile 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Review of OmegaT, 19 July 2007.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T180026Z">
         <seg>Recensione di OmegaT, 19 luglio 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2008.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195953Z">
+        <seg>Recensione di OmegaT, 2008.</seg>
       </tuv>
     </tu>
     <tu>
