@@ -14418,6 +14418,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174944Z">
+        <seg>Dovuto al contributo di Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T215900Z">
@@ -21078,8 +21086,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Has been tested on Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193108Z">
-        <seg>È stato testato su Linux.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175112Z">
+        <seg>È stato provata su Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37172,6 +37180,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175045Z">
+        <seg>richiede tcl/tk, Abiword e pdftotext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requires tcl/tk.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174854Z">
@@ -41344,8 +41360,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>TKount text counting utility.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193008Z">
-        <seg>Testo di TKount utilità di conteggio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175014Z">
+        <seg>Utilità di conteggio testo TKount.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60953,6 +60969,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135421Z">
         <seg>VERBATIM COPYING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT Website en/resources.html</prop>
+      <prop type="prev">Has been tested on Linux.</prop>
+      <prop type="next">../omegatk/ondiloto.zip</prop>
+      <tuv lang="EN">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175135Z">
+        <seg>Dovuta al contributo di Marc Prior.</seg>
       </tuv>
     </tu>
   </body>
