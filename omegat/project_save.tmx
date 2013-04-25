@@ -30661,8 +30661,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Not all CAT tools exhibit the same tolerance and some may not therefore display the expected matches if the language codes are not sufficiently compliant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183708Z">
-        <seg>Non tutti gli strumenti CAT presentano la stessa tolleranza e alcuni potrebbero non essere quindi visualizzate le partite previste se i codici di lingua non sono sufficientemente conformi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213725Z">
+        <seg>Non tutti gli strumenti CAT presentano la stessa tolleranza e alcuni potrebbero non essere quindi visualizzate le concordanze previste se i codici di lingua non sono sufficientemente conformi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49152,8 +49152,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This incompatibility can be resolved by searching for and replacing the relevant language codes in the TMX file in a suitable text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183712Z">
-        <seg>Questa incompatibilità può essere risolto attraverso la ricerca e sostituire i codici di lingua pertinente nel file TMX in un editor di testo adatto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213904Z">
+        <seg>Questa incompatibilità può essere risolta attraverso la ricerca e sostituzione dei codici di lingua pertinenti nel file TMX con un editor di testo adatto.</seg>
       </tuv>
     </tu>
     <tu>
