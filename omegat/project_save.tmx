@@ -12362,8 +12362,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Bilingual CAT-tool formats</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183808Z">
-        <seg>Formati di CAT-strumento bilingui</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214619Z">
+        <seg>Formati di strumenti CAT bilingui</seg>
       </tuv>
     </tu>
     <tu>
@@ -31997,8 +31997,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183812Z">
-        <seg>OmegaT non può importare o leggere i file in formati binari proprietari, quali Trados Multiterm Glossario.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214524Z">
+        <seg>OmegaT non può importare o leggere i file glossario in formati binari proprietari, quali Trados Multiterm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40326,8 +40326,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183759Z">
-        <seg>Alcuni altri strumenti CAT sono in grado di importare ed esportare file glossario in questo formato, o in un formato di testo simile che può essere prodotto da esso molto facilmente (ad esempio da un'operazione di ricerca &amp;amp; sostituire in Microsoft Word).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214412Z">
+        <seg>Alcuni altri strumenti CAT sono in grado di importare ed esportare file glossario in questo formato, o in un formato di testo simile che può essere prodotto da esso molto facilmente (ad esempio da un'operazione di ricerca &amp; sostituzione in Microsoft Word).</seg>
       </tuv>
     </tu>
     <tu>
