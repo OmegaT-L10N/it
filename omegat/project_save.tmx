@@ -28188,6 +28188,14 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux binary version of Toxic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174656Z">
+        <seg>Versione binaria di Toxic eseguibile in Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux on PowerPC systems:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094502Z">
@@ -34976,6 +34984,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174843Z">
+        <seg>Indipendente dalla piattaforma; richiede tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Platforms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195332Z">
@@ -37156,6 +37172,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requires tcl/tk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174854Z">
+        <seg>Richiede tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095046Z">
@@ -37960,6 +37984,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193146Z">
         <seg>Script per l'estrazione del testo per la traduzione da file di testo (ad esempio il codice sorgente computer) per la traduzione di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script versions of Toxic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174740Z">
+        <seg>Versione script di Toxic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51560,6 +51592,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192926Z">
         <seg>Toxic per Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174707Z">
+        <seg>Toxic script</seg>
       </tuv>
     </tu>
     <tu>
