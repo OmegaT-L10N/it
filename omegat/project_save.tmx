@@ -48576,8 +48576,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192847Z">
-        <seg>Questa raccolta di script può essere utile per Scripter con una conoscenza di tcl/tk.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174439Z">
+        <seg>Questa raccolta di script può essere utile per Creatori di script con una conoscenza di tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53747,8 +53747,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192822Z">
-        <seg>Utilità per la conversione di file di Trados TagEditor (TTX) in un formato intermedio, permettendo loro di essere tradotto in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174337Z">
+        <seg>Utilità per la conversione di file di Trados TagEditor (TTX) in un formato intermedio, permettendo loro di essere tradotti con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55107,6 +55107,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T184648Z">
         <seg>Per gli utenti di Windows e Linux: se si è a conoscenza che il proprio sistema possiede già una versione adatta di JRE, è possibile installare la versione OmegaT senza JRE (indicata col nome della versione "Without_JRE").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows executable version of Toxic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174601Z">
+        <seg>Versione di Toxic eseguibile in Windows.</seg>
       </tuv>
     </tu>
     <tu>
