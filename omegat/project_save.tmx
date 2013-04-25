@@ -21606,8 +21606,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T062715Z">
-        <seg>Presentazione di una RFE non significa tuttavia che la funzione desiderata o il miglioramento saranno automaticamente attuati.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T072302Z">
+        <seg>La sola presentazione di una RFE non significa tuttavia che la funzione o il miglioramento desiderati saranno automaticamente attuati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33143,8 +33143,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192517Z">
-        <seg>Gli sviluppatori di OmegaT, che sono tutti volontari, possono essere più disposti a implementare un RFE se il lavoro di sviluppo è finanziato dal richiedente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T072425Z">
+        <seg>Gli sviluppatori di OmegaT, che sono tutti volontari, possono essere più disposti a implementare una RFE se il lavoro di sviluppo è finanziato dal richiedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45803,8 +45803,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The procedure is termed an "RFE" (Request for Feature Enhancement) and is managed &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T062347Z">
-        <seg>La procedura è definita  "RFE" (richiesta di potenziamento di funzionalità) ed è gestita &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T072203Z">
+        <seg>E' definita  "RFE" (acronimo dall'inglese di "richiesta di potenziamento di funzionalità") ed è gestita &lt;a0&gt;qui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54887,8 +54887,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T063248Z">
-        <seg>Se viene adottata o no dipende in primo luogo dal fatto che il team di sviluppo la ritenga utile a OmegaT, e in secondo luogo, che uno degli sviluppatori sia disposto a fare il lavoro di realizzazione della stessa.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T072336Z">
+        <seg>Se viene adottata o no dipende in primo luogo dal fatto che il team di sviluppo la ritenga utile a OmegaT, e in secondo luogo che uno degli sviluppatori sia disposto a farne il lavoro di realizzazione.</seg>
       </tuv>
     </tu>
     <tu>
