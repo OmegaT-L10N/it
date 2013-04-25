@@ -40270,8 +40270,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some CAT tools, notably TRADOS, are able to import a wide range of file formats, including desktop publishing formats, and to prepare them for translation in the tool concerned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183829Z">
-        <seg>Alcuni strumenti CAT, TRADOS in particolare, sono in grado di importare una vasta gamma di formati di file, inclusi i formati di desktop publishing, e prepararli per la traduzione dello strumento in questione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T215246Z">
+        <seg>Alcuni strumenti CAT, TRADOS in particolare, sono in grado di importare una vasta gamma di formati di file, inclusi i formati di desktop publishing, e di prepararli per la traduzione dello strumento in questione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47781,8 +47781,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There are at least three reasons why a customer may request delivery of a translation in a particular bilingual file format (rather than simply delivery of the translated file and possibly also the translation memory):</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183825Z">
-        <seg>Ci sono almeno tre ragioni perché un cliente può richiedere la consegna di una traduzione in un particolare formato bilingue (piuttosto che semplicemente consegna del file tradotto e possibilmente anche la memoria di traduzione):</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T215145Z">
+        <seg>Ci sono almeno tre ragioni perché un cliente possa richiedere la consegna di una traduzione in un particolare formato bilingue (piuttosto che semplicemente la consegna del file tradotto e possibilmente anche la memoria di traduzione):</seg>
       </tuv>
     </tu>
     <tu>
@@ -48391,8 +48391,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They have however become an important phenomenon in translation workflows involving CAT tools, and they often present the greatest obstacle to compatibility between OmegaT and other CAT tools (or for that matter between CAT tools in general).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183822Z">
-        <seg>Tuttavia, essi sono diventati un fenomeno importante nella traduzione dei flussi di lavoro che coinvolgono strumenti CAT e sono spesso presenti il più grande ostacolo alla compatibilità tra OmegaT e altri strumenti CAT (o per quella materia tra strumenti CAT in generale).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T215113Z">
+        <seg>Tuttavia, essi sono diventati un fenomeno importante nei flussi di lavoro della traduzione che coinvolgono strumenti CAT e spesso rappresentano il più grande ostacolo alla compatibilità tra OmegaT e altri strumenti CAT (o per quella materia tra strumenti CAT in generale).</seg>
       </tuv>
     </tu>
     <tu>
