@@ -40246,8 +40246,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183330Z">
-        <seg>Alcuni strumenti CAT risolvere questo problema, almeno per MS Word, lavorando all'interno della parola stessa; la maggior parte dei altri strumenti CAT convertono in RTF e schiena, spesso invisibile per il traduttore.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T203942Z">
+        <seg>Alcuni strumenti CAT risolvono questo problema, almeno per MS Word, lavorando all'interno della parola stessa; la maggior parte dei altri strumenti CAT convertono in RTF e ritorno, spesso in modo trasparente per il traduttore.</seg>
       </tuv>
     </tu>
     <tu>
