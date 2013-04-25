@@ -28158,16 +28158,16 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Level 1 TMX files contain no formatting information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183523Z">
-        <seg>Livello 1 file TMX non contengono nessun informazioni di formattazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T211508Z">
+        <seg>I file TMX livello 1 non contengono nessuna informazione di formattazione.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183528Z">
-        <seg>Livello 2 TMX file contengono informazioni di formattazione, ma questi file sono in genere compatibili esclusivamente quando viene utilizzato lo stesso strumento CAT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T211606Z">
+        <seg>I file TMX livello 2 contengono informazioni di formattazione, ma questi file sono in genere compatibili esclusivamente quando viene utilizzato lo stesso strumento CAT.</seg>
       </tuv>
     </tu>
     <tu>
