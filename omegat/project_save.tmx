@@ -24884,8 +24884,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183238Z">
-        <seg>Infatti, la loro struttura è molto simile a quello dei file di OpenOffice.org: consiste in un archivio zip contenente più file e i file contenenti il testo sono basati su standard XML.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T202803Z">
+        <seg>Infatti, la loro struttura è molto simile a quella dei file di OpenOffice.org: consiste in un archivio zip contenente più file e i file contenenti il testo sono basati sullo standard XML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43049,8 +43049,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183235Z">
-        <seg>I formati di file di Microsoft Office 2007-2010 (noti anche come Office Open XML e con le estensioni di file con estensione docx, xlsx e pptx) è radicalmente diversa per i formati di Office 97-2003 che essi sostituiscono.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T202709Z">
+        <seg>I formati di file di Microsoft Office 2007-2010 (noti anche come Office Open XML e con le estensioni di file .docx, .xlsx e .pptx) è radicalmente diversa dai formati di Office 97-2003 che essi hanno ormai sostituito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49652,8 +49652,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This makes it much easier for CAT tools to support it and edit it directly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183241Z">
-        <seg>Questo rende molto più facile per strumenti CAT per sostenerla e modificarlo direttamente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T202902Z">
+        <seg>Questo rende molto più facile per gli strumenti CAT supportarli e modificarli direttamente.</seg>
       </tuv>
     </tu>
     <tu>
