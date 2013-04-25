@@ -9118,8 +9118,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A new version of the master TM is then created, either to be put in team members' &lt;e3&gt;tm/auto&lt;/e3&gt;subdirectories or to replace their &lt;f4&gt;project_save.tmx&lt;/f4&gt; files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T203908Z">
-        <seg>Viene poi creata una nuova versione principale della memoria, o inserendo i file &lt;f4&gt;project_save.tmx&lt;/f4&gt; nelle sottocartelle &lt;e3&gt;tm/auto&lt;/e3&gt; dei membri della squadra, oppure sostituendoli.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T054007Z">
+        <seg>Viene poi creata una nuova versione principale della memoria, o inserendo nelle sottocartelle &lt;e3&gt;tm/auto&lt;/e3&gt; dei membri della squadra i file &lt;f4&gt;project_save.tmx&lt;/f4&gt;, oppure sostituendoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40006,8 +40006,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>So, if the user's operating system is Russian and &lt;a4&gt;OmegaT&lt;/a4&gt; has been localized in Russian, &lt;a5&gt;OmegaT&lt;/a5&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120526T163148Z">
-        <seg>Ad esempio, se il sistema operativo dell'utente è in Italiano e &lt;a4&gt;OmegaT&lt;/a4&gt; è stato localizzato in Italiano, il programma visualizzerà l'interfaccia italiana, i menu italiani, e via discorrendo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T053830Z">
+        <seg>Ad esempio, se il sistema operativo dell'utente è in Italiano e &lt;a4&gt;OmegaT&lt;/a4&gt; è stato localizzato in Italiano,  &lt;a5&gt;OmegaT&lt;/a5&gt; visualizzerà l'interfaccia italiana, i menù italiani, e via discorrendo.</seg>
       </tuv>
     </tu>
     <tu>
