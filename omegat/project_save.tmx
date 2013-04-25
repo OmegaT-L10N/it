@@ -32909,8 +32909,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT supports language codes in the format "xx", "XX", "xx-YY" and "XX-YY", where xx or XX is the language, yy or YY the region.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183658Z">
-        <seg>OmegaT supporta i codici di lingua nel formato "xx", "XX", "xx-YY" e "XX-YY", dove xx o XX è la lingua, AA o AA della regione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213610Z">
+        <seg>OmegaT supporta i codici di lingua nel formato "xx", "XX", "xx-YY" e "XX-YY", dove xx o XX è la lingua, yy o YY la regione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41624,8 +41624,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>TMX files produced on Windows systems may begin with a byte-order mark (BOM).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183651Z">
-        <seg>File TMX prodotti su sistemi Windows possono iniziare con un byte-order mark (BOM).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213414Z">
+        <seg>I file TMX prodotti su sistemi Windows possono iniziare con un byte-order mark (BOM).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48912,8 +48912,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This differences do not generally lead to compatibility problems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183647Z">
-        <seg>Questa differenze non generalmente portano a problemi di compatibilità.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213434Z">
+        <seg>Questa differenze non portano generalmente a problemi di compatibilità.</seg>
       </tuv>
     </tu>
     <tu>
