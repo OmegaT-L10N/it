@@ -36373,8 +36373,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>RTF is structurally quite different from the Microsoft Office 98-2003 file format, but with regard to OmegaT, the same applies: it is not supported directly and must first be converted to .docx (MS Office 2007/2010) or Open Document format (LibreOffice/OpenOffice.org).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183347Z">
-        <seg>RTF è strutturalmente molto diverso dal formato di file Microsoft Office 98-2003, ma per quanto riguarda OmegaT, lo stesso si applica: esso non è supportato direttamente, è necessario prima convertire docx (MS Office 2007/2010) o Open Document format (LibreOffice/OpenOffice.org).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210528Z">
+        <seg>RTF è strutturalmente molto diverso dal formato di file Microsoft Office 98-2003, ma per quanto riguarda OmegaT, si applica lo stesso: esso non è supportato direttamente, è necessario prima convertire in formato .docx (MS Office 2007/2010) o Open Document (LibreOffice/OpenOffice.org).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43177,8 +43177,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183407Z">
-        <seg>Il formato di documento aperto è uno standard internazionale e ha sostituito l'ex proprietario (ma aperto) Star Office formato file (due formati di file diversi ma molto simili).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210708Z">
+        <seg>Il formato di Open Document è uno standard internazionale e ha sostituito l'ex formato file proprietario (ma aperto) di Star Office (due formati di file diversi ma molto simili).</seg>
       </tuv>
     </tu>
     <tu>
