@@ -17567,8 +17567,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120516T193749Z">
-        <seg>Inserire "&lt;a0&gt;OmegaT&lt;/a0&gt;" nel campo "Nome"; nel campo "Comando", usare il pulsante di navigazione, individuare lo script di avvio (il file chiamato &lt;a2&gt;OmegaT&lt;/a2&gt; nella cartella decompressa).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T052132Z">
+        <seg>Inserire "&lt;a0&gt;OmegaT&lt;/a0&gt;" nel campo "Nome"; nel campo "Comando", usare il pulsante di navigazione, individuare lo script di avvio &lt;a1&gt;OmegaT&lt;/a1&gt;(il file chiamato &lt;a2&gt;OmegaT&lt;/a2&gt; nella cartella decompressa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25140,8 +25140,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120516T193220Z">
-        <seg>Nel campo "Comando", usare il pulsante di navigazione, individuare lo script di avvio (il file chiamato &lt;a1&gt;OmegaT&lt;/a1&gt; nella cartella decompressa) e selezionarlo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T052015Z">
+        <seg>Nel campo "Comando", usare il pulsante di navigazione, individuare lo script di avvio di &lt;a0&gt;OmegaT&lt;/a0&gt; (il file chiamato &lt;a1&gt;OmegaT&lt;/a1&gt; nella cartella decompressa) e selezionarlo.</seg>
       </tuv>
     </tu>
     <tu>
