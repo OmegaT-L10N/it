@@ -25108,8 +25108,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In practice, it is therefore possible for translators to deliver translation memories to customers and vice-versa, and for the recipient to use these files for immediate or future reference; if the files are to be used within an automated workflow, however, the constraint described above applies.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183619Z">
-        <seg>In pratica, è quindi possibile per i traduttori di consegnare memorie di traduzione per i clienti e viceversa e per il destinatario per utilizzare questi file per riferimento immediato o futuro; Se i file devono essere utilizzati all'interno di un flusso di lavoro automatizzato, tuttavia, si applica il vincolo sopra descritto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212708Z">
+        <seg>In pratica, è quindi possibile per i traduttori consegnare memorie di traduzione per i clienti e viceversa e per il destinatario utilizzare questi file per riferimento immediato o futuro; se i file devono essere utilizzati all'interno di un flusso di lavoro automatizzato, tuttavia, si applica il vincolo sopra descritto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32885,8 +32885,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT supports all current versions of TMX, but is likely to deliver better match results if the TMX file is version 1.4b.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183600Z">
-        <seg>OmegaT supporta tutte le versioni correnti di TMX, ma è probabile che fornire risultati migliori match se il file TMX è versione 1.4 b.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212434Z">
+        <seg>OmegaT supporta tutte le versioni correnti di TMX, ma è probabile che fornisca risultati di concordanza migliori se il file TMX è versione 1.4b.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40262,8 +40262,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some CAT tools still employ dedicated proprietary translation memory formats, but virtually all support the import and export of TMX files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183623Z">
-        <seg>Alcuni strumenti CAT ancora utilizzano formati di memoria di traduzione proprietario dedicato, ma praticamente tutti supporta l'importazione e l'esportazione di file TMX.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212622Z">
+        <seg>Alcuni strumenti CAT ancora utilizzano formati di memoria di traduzione proprietari dedicati, ma praticamente tutti supportano l'importazione e l'esportazione di file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44934,8 +44934,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The formatting information contained in the higher levels will be meaningless to the "other" tool, but the textual information can still be viewed, fuzzy matches found, etc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183610Z">
-        <seg>Le informazioni di formattazione contenute nei livelli più alti sarà priva di significato per lo strumento di "altri", ma le informazioni testuali possono ancora essere visti, fuzzy corrispondenze trovate, ecc.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212603Z">
+        <seg>Le informazioni di formattazione contenute nei livelli più alti sarà priva di significato per lo strumento di "altri", ma le informazioni testuali possono ancora essere visti, corrispondenze parziali trovate, ecc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51670,8 +51670,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Tools which support different levels of TMX files are in principle still compatible with each other.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183605Z">
-        <seg>Strumenti che supportano i livelli differenti di file TMX sono in linea di principio ancora compatibile con a vicenda.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212523Z">
+        <seg>Gli strumenti che supportano i livelli differenti di file TMX sono in linea di principio ancora compatibili a vicenda.</seg>
       </tuv>
     </tu>
     <tu>
