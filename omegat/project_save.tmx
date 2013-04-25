@@ -5611,8 +5611,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to be translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120603T190258Z">
-        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; dice a &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;l0&gt; dove trovare il progetto da tradurre.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T054203Z">
+        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; dice a &lt;a1&gt;OmegaT&lt;/a1&gt; dove trovare il progetto da tradurre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28624,8 +28624,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Mac users should instead use &lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;key&lt;/k6&gt; &lt;/k4&gt; instead.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120527T162614Z">
-        <seg>Gli utenti di Mac dovrebbero invece usare il &lt;k4&gt;&lt;k6&gt;tasto&lt;/k6&gt; &lt;k5&gt;Cmd&lt;/k5&gt;  &lt;/k4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T054334Z">
+        <seg>Gli utenti di Mac dovrebbero invece usare il &lt;k4&gt;&lt;k5&gt;tasto&lt;/k5&gt; &lt;k6&gt;Cmd&lt;/k6&gt;  &lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
