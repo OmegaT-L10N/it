@@ -34401,8 +34401,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20120512T193125Z">
-        <seg>Gli altri tipi di file di solo testo possono essere gestiti associando la loro estensione a un tipo di file supportato (per esempio, i file .pod si possono associare al filtro di testo ASCII) e pre-elaborandoli con regole di segmentazione specifiche.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T051917Z">
+        <seg>Gli altri tipi di file di solo testo possono essere gestiti associando la loro estensione a un tipo di file supportato da &lt;a0&gt;OmegaT&lt;/a0&gt; (per esempio, i file .pod si possono associare al filtro di testo ASCII) e pre-elaborandoli con regole di segmentazione specifiche.</seg>
       </tuv>
     </tu>
     <tu>
