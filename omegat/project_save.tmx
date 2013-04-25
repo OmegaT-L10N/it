@@ -1375,8 +1375,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191925Z">
-        <seg>(Da non confondere con la funzione "Esorta un testo", che permette anche script da utilizzare con OmegaT, ma su un livello più elementare.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173932Z">
+        <seg>(Da non confondere con la funzione "Esporta un testo", che permette anche di utilizzare script con OmegaT, ma a un livello più elementare.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36101,8 +36101,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191522Z">
-        <seg>Fornisce il riconoscimento delle forme flesse in voci di corrispondenze fuzzy e di glossario.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173751Z">
+        <seg>Fornisce il riconoscimento delle forme flesse in voci di corrispondenze parziali e di glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37960,6 +37960,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T184032Z">
         <seg>Azioni di script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting plug-in</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173824Z">
+        <seg>Il plug-in Scripting</seg>
       </tuv>
     </tu>
     <tu>
