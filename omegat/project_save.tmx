@@ -2763,8 +2763,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>2nd example modification: increasing the number of fuzzy matches displayed from five to ten</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T081303Z">
-        <seg>2 ° modifica esempio: aumentando il numero di corrispondenze fuzzy visualizzati da cinque a dieci&amp;&amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T105222Z">
+        <seg>2 ° esempiodi  modifica: aumentare il numero di corrispondenze parziali visualizzate da cinque a dieci</seg>
       </tuv>
     </tu>
     <tu>
@@ -52022,8 +52022,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translating Word 2007 (Office Open XML, .docx) files in OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150632Z">
-        <seg>Traduzione di file di Word 2007 (Office Open XML, con estensione docx) in OmegaT</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T105343Z">
+        <seg>Traduzione di file di Word 2007 (Office Open XML, con estensione .docx) in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -59361,8 +59361,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>open the file OConsts.java in a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194040Z">
-        <seg>Aprire il file OConsts.java in un editor di testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T105243Z">
+        <seg>Aprire il file OConsts.java con un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60475,14 +60475,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204425Z">
         <seg>strumento per memorie di traduzione, OpenOffice, GPL, CAT, traduzione aiutata da computer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>translation memory, TM, computer-aided translation, computer-assisted translation, CAT, GPL, open source</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T181213Z">
-        <seg>memoria di traduzione, TM, traduzione assistita da computer, CAT, GPL, open source</seg>
       </tuv>
     </tu>
     <tu>
