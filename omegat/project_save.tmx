@@ -1829,8 +1829,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Begin using OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201036Z">
-        <seg>-Iniziare a usare OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T205025Z">
+        <seg>- Iniziare a usare OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2157,8 +2157,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Once you have made the above entries, double check that the values are correct and then save and close your info.plist file.&lt;br34/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201009Z">
-        <seg>-Una volta che avete fatto le voci di cui sopra, verificare che i valori sono corretto e quindi salvare e chiudere il file info. plist. &lt;br34/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204928Z">
+        <seg>- Una volta che avete fatto le voci di cui sopra, verificare che i valori siano corretti e quindi salvare e chiudere il file info.plist. &lt;br34/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34345,8 +34345,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Options &gt; Machine Translate ... and select the options you would like to turn on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201020Z">
-        <seg>Opzioni &amp;amp;gt; macchina tradurre... e selezionare le opzioni che vuoi attivare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T205014Z">
+        <seg>Opzioni &gt; Traduzione Automatica... e selezionare le opzioni che vuoi attivare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50590,8 +50590,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202016Z">
-        <seg>Per verificare se funziona, è possibile inserire un file TMX nella cartella /source (più utile) o un progetto, eseguire una ricerca di testo &amp;amp;gt; Cerca file operazione su file TMX.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T205212Z">
+        <seg>Per verificare se funziona, è possibile inserire un file TMX nella cartella /source (più utile) o un progetto, eseguire una ricerca di testo &gt; Cerca file operazione su file TMX.</seg>
       </tuv>
     </tu>
     <tu>
