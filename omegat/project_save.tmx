@@ -2405,8 +2405,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- level the formatting from these paragraphs using the macro as described above, then re-insert the formatting; or</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194120Z">
-        <seg>-livello di formattazione da questi paragrafi utilizzando la macro come descritto sopra, quindi reinserire la formattazione; o</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171646Z">
+        <seg>-livellare la formattazione da questi paragrafi utilizzando la macro come descritto sopra, quindi reinserire la formattazione; o</seg>
       </tuv>
     </tu>
     <tu>
@@ -2421,8 +2421,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- mark only the text up to the beginning of the formatted part, copy this text and paste it back over itself, then repeat the process on the text after the formatted part.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194129Z">
-        <seg>-segnare solo il testo fino all'inizio della parte formattata, copia questo testo e incollarlo sopra se stesso, quindi ripetere il processo sul testo dopo la formattazione parte.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171805Z">
+        <seg>-evidenziare solo il testo fino all'inizio della parte formattata, copiare questo testo e incollarlo sopra se stesso, quindi ripetere il processo sul testo dopo la parte formattata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15103,8 +15103,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Creating a macro to level the character formatting of a paragraph</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153231Z">
-        <seg>Creazione di una macro per la formattazione del carattere di un paragrafo di livello</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171841Z">
+        <seg>Creazione di una macro per livellare la formattazione del carattere di un paragrafo</seg>
       </tuv>
     </tu>
     <tu>
