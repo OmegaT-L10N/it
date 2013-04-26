@@ -1282,8 +1282,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194140Z">
-        <seg>(Per istruzioni più dettagliate, consultare il manuale di istruzioni o clicca &lt;a0&gt;qui&lt;/a0&gt;, &lt;a1&gt;qui&lt;/a1&gt; o &lt;a2&gt;qui&lt;/a2&gt;.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172001Z">
+        <seg>(Per istruzioni più dettagliate, consultare il manuale di istruzioni o cliccare &lt;a0&gt;qui&lt;/a0&gt;, &lt;a1&gt;qui&lt;/a1&gt; o &lt;a2&gt;qui&lt;/a2&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13586,8 +13586,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click Popular in the Word Options dialog box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194153Z">
-        <seg>Fare clic su popolare nella finestra di dialogo Opzioni di Word.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172111Z">
+        <seg>Fare clic su 'Popolare' nella finestra di dialogo Opzioni di Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23791,8 +23791,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have not already done so, add the Developer tab to the ribbon as follows: click on the Office button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194144Z">
-        <seg>Se non l'avete già fatto, aggiungere la scheda di sviluppo per il nastro come segue: fare clic sul pulsante Office.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172215Z">
+        <seg>Se non l'avete già fatto, aggiungete la scheda di sviluppo alla barra multifunzione come segue: fare clic sul pulsante Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56070,8 +56070,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can automate the above procedure somewhat by creating a macro.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194132Z">
-        <seg>È possibile automatizzare la procedura di cui sopra un po ' con la creazione di una macro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171950Z">
+        <seg>È possibile automatizzare un po' la procedura di cui sopra con la creazione di una macro.</seg>
       </tuv>
     </tu>
     <tu>
