@@ -10615,8 +10615,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An &lt;a0&gt;OmegaT plugin&lt;/a0&gt; is now available by means of which this format can be handled in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T065053Z">
-        <seg>Un &lt;a0&gt;plugin di OmegaT&lt;/a0&gt; è ora disponibile per mezzo di cui questo formato può essere gestito in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T065249Z">
+        <seg>Un &lt;a0&gt;plugin di OmegaT&lt;/a0&gt; è ora disponibile per gestire questo formato in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51798,8 +51798,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Trados TTX format is the counterpart to the "uncleaned RTF" format for Trados Tag Editor, which unlike Trados Workbench, does not work in direct combination with MS Word.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184035Z">
-        <seg>Formato Trados TTX è la controparte per il formato "RTF non puliti" per Trados Tag Editor, che a differenza di Trados Workbench, non funziona in combinazione diretta con MS Word.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T065139Z">
+        <seg>Formato Trados TTX è la controparte per il formato "RTF non pulito" per Trados Tag Editor, che a differenza di Trados Workbench, non funziona in combinazione diretta con MS Word.</seg>
       </tuv>
     </tu>
     <tu>
