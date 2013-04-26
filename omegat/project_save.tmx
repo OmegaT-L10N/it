@@ -47628,8 +47628,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145308Z">
-        <seg>Quindi di spostare la fine della selezione un carattere a sinistra, in modo che non includa il segno di paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171433Z">
+        <seg>Quindi spostare la fine della selezione un carattere a sinistra, in modo che si escluda il segno di paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55063,8 +55063,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Where paragraphs do contain inline formatting (bold, italics, hyperlinks, etc.), you can either:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194116Z">
-        <seg>Dove paragrafi contengono inline formattazione (grassetto, corsivo, collegamenti ipertestuali, ecc.), è possibile:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171559Z">
+        <seg>Dove i paragrafi contengono formattazione incorporata (grassetto, corsivo, collegamenti ipertestuali, ecc.), è possibile:</seg>
       </tuv>
     </tu>
     <tu>
