@@ -9294,8 +9294,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A script (for Windows only) and procedure was recently (2008) developed enabling OmegaT users to produce Trados uncleaned RTF files for delivery at the end of their translation stage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184020Z">
-        <seg>Uno script (solo per Windows) e la procedura è stata recentemente (2008) sviluppato che consente agli utenti di OmegaT per produrre Trados ripuliti i file RTF per la consegna al termine della loro fase di traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T074944Z">
+        <seg>Uno script (solo per Windows) e una procedura sono stati recentemente (2008) sviluppati che consentono agli utenti di OmegaT di produrre i file in formato Trados RTF non ripulito per la consegna al termine della loro fase di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40270,8 +40270,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some CAT tools, notably TRADOS, are able to import a wide range of file formats, including desktop publishing formats, and to prepare them for translation in the tool concerned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T215246Z">
-        <seg>Alcuni strumenti CAT, TRADOS in particolare, sono in grado di importare una vasta gamma di formati di file, inclusi i formati di desktop publishing, e di prepararli per la traduzione dello strumento in questione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075017Z">
+        <seg>Alcune applicazioni CAT, TRADOS in particolare, sono in grado di importare una vasta gamma di formati di file, inclusi i formati di desktop publishing, e di prepararli per la traduzione dello strumento in questione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48167,8 +48167,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184015Z">
-        <seg>Questi segmenti sono contrassegnati e delimitati da caratteri speciali e MS Word stili di formattazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T074743Z">
+        <seg>Questi segmenti sono contrassegnati e delimitati da caratteri speciali e stili di formattazione MS Word.</seg>
       </tuv>
     </tu>
     <tu>
