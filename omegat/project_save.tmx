@@ -1272,6 +1272,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T210536Z">
+        <seg>(Non confondere questa cartella con la cartella "dizionario" nei progetti di OmegaT). Selezionare quindi l'URL (indirizzo Web) di un repository online da cui scaricare il dizionario o dizionari e incollare questo URL nel campo "URL di dizionari on-line".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202429Z">
