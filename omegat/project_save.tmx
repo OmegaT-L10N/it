@@ -39766,8 +39766,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Shift+Cursor Left (this moves the end of the selection one character to the left so that it no longer includes the paragraph mark)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194328Z">
-        <seg>MAIUSC + cursore sinistra (questo sposta la fine del una personaggio selezione a sinistra così che esso non include più il segno di paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T192332Z">
+        <seg>MAIUSC+cursore sinistra (sposta la fine della selezione a sinistra così che esso non include più il segno di paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
