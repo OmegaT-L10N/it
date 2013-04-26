@@ -27063,8 +27063,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It only enables translators to generate (i.e. deliver) Trados uncleaned files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194740Z">
-        <seg>Permette solo di traduttori generare (cioè consegnare) Trados ripuliti i file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195750Z">
+        <seg>Permette solo ai traduttori di generare (cioè consegnare) file Trados non ripuliti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46403,8 +46403,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The script is available for the Windows platform only.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194737Z">
-        <seg>Lo script è disponibile per la piattaforma Windows solo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195647Z">
+        <seg>Lo script è disponibile solo per la piattaforma Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48760,8 +48760,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This code/procedure combination has not yet been thoroughly tested (though initial reports are promising).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194735Z">
-        <seg>Questa combinazione di codice/procedura non è ancora stato accuratamente testata (anche se i rapporti iniziali sono promettenti).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195606Z">
+        <seg>Questa combinazione di codice/procedura non è ancora stata accuratamente testata (anche se i rapporti iniziali sono promettenti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49096,8 +49096,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This format may be a practical interchange format for users of other CAT tools, particularly Trados and Wordfast Classic.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194731Z">
-        <seg>Questo formato può essere un formato di interscambio pratico per gli utenti di altri strumenti CAT, particolarmente Trados e Wordfast Classic.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195506Z">
+        <seg>Questo può essere un pratico formato di interscambio per gli utenti di altre applicazioni CAT, particolarmente Trados e Wordfast Classic.</seg>
       </tuv>
     </tu>
     <tu>
