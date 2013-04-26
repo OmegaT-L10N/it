@@ -21574,8 +21574,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>How to remove unwanted formatting code from .docx files</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T142155Z">
-        <seg>Come rimuovere il codice di formattazione indesiderato da file. docx</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111553Z">
+        <seg>Come rimuovere il codice di formattazione indesiderato dai file. docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -29925,8 +29925,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Most users will probably find that the greater ease of use outweighs this drawback.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141737Z">
-        <seg>La maggior parte degli utenti probabilmente troverà che la maggiore facilità di utilizzo supera questo inconveniente.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111301Z">
+        <seg>La maggior parte degli utenti probabilmente troverà che la maggiore facilità di utilizzo compensa bene questo inconveniente.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32845,8 +32845,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T142120Z">
-        <seg>OmegaT condivide questo problema con altri strumenti CAT che gestiscono il formato .docx, e le soluzioni sono simili o uguali.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111503Z">
+        <seg>OmegaT condivide questo problema con altri strumenti CAT che gestiscono il formato .docx, e le loro soluzioni sono simili o uguali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40070,8 +40070,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T142008Z">
-        <seg>Poiché questi sono scomodi durante la traduzione, vale la pena tentare di rimuovere questi tag fastidiosi prima di iniziare la traduzione in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111446Z">
+        <seg>Poiché questi sono scomodi durante la traduzione, vale la pena tentare di rimuoverli prima di iniziare la traduzione stessa con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42569,8 +42569,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The .docx format is also prone to the introduction of "nuisance" formatting code which results in unwanted and unnecessary tags appearing in OmegaT's editor pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141855Z">
-        <seg>Il formato .docx è anche soggetto all'introduzione di "fastidioso" codice di formattazione che si traduce in tag indesiderati e inutili che appaiono nel riquadro dell'editor di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111401Z">
+        <seg>Il formato .docx è anche soggetto all'introduzione di "fastidioso" codice di formattazione, che si traduce in tag indesiderati e inutili visibili nel riquadro dell'editor di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
