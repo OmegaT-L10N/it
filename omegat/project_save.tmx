@@ -15679,8 +15679,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Depending upon how you install the Java Development Kit, you may have to change your "JAVA_HOME" attribute in order for it to function with Ant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193805Z">
-        <seg>Dipendendo dal come si installa il Kit di sviluppo Java, potrebbe essere necessario modificare l'attributo di "JAVA_HOME" in ordine per farlo funzionare con ant.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080224Z">
+        <seg>In base a come si installa il Kit di sviluppo Java, potrebbe essere necessario modificare l'attributo "JAVA_HOME" per farlo funzionare con Ant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54043,8 +54043,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Various programs can be used to compile the source code again after you have modified it, but among the most convenient is &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193750Z">
-        <seg>Vari programmi possono essere utilizzati per compilare il codice sorgente nuovamente dopo aver modificato si, ma tra la più conveniente sono &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080101Z">
+        <seg>Vari programmi possono essere utilizzati per ricompilare il codice sorgente dopo averlo modificato, ma tra i più convenienti è &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
