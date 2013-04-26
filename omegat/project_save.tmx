@@ -33977,8 +33977,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open OmegaT.l4J.ini in a plain-text editor</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194920Z">
-        <seg>OmegaT.l4J.ini aperto in un editor di testo</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200616Z">
+        <seg>Aprire OmegaT.l4J.ini in un editor di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -37478,8 +37478,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Right-click on OmegaT.app and select "Show Package Contents".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194938Z">
-        <seg>Tasto destro del mouse su OmegaT.app e selezionare "Mostra contenuto pacchetto".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200641Z">
+        <seg>Tasto destro del mouse su OmegaT.app e selezionare "Mostra contenuto del pacchetto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -50774,8 +50774,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To edit this file, you may need Administrator mode, or to move it temporarily to a different location on your hard drive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194911Z">
-        <seg>Per modificare questo file, potrebbe essere necessario modalità amministratore, o per spostare temporaneamente in una posizione diversa sul disco rigido.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200547Z">
+        <seg>Per modificare questo file potrebbe essere necessaria la modalità amministratore, o spostarlo temporaneamente in una posizione diversa sul disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57617,8 +57617,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>and immediately after them, add the lines:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195007Z">
-        <seg>e subito dopo di loro, aggiungere le righe:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200722Z">
+        <seg>e subito dopo esse, aggiungere le righe:</seg>
       </tuv>
     </tu>
     <tu>
