@@ -22715,8 +22715,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T065751Z">
-        <seg>Se le modifiche del correttore si dovranno conservare in un repository per memorie di traduzione mantenuto da parte del cliente, le modifiche devono essere fatte &lt;i0&gt;prima&lt;/i0&gt; che vengano creati i documenti finali.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075217Z">
+        <seg>Se le modifiche del correttore si dovranno conservare in un deposito per memorie di traduzione mantenuto da parte del cliente, le modifiche devono essere fatte &lt;i0&gt;prima&lt;/i0&gt; che vengano creati i documenti finali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42513,8 +42513,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "prepared" form is typically the tool's bilingual file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T215304Z">
-        <seg>La forma "preparata" è in genere il formato bilingue dello strumento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075102Z">
+        <seg>La forma "preparata" è in genere il formato bilingue dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47299,8 +47299,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The translation stage is only part of the customer's workflow.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T215530Z">
-        <seg>La fase di traduzione è solo una parte del flusso di lavoro del cliente.&amp;&amp;&amp;&amp;&amp;&amp;&amp;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075137Z">
+        <seg>La fase di traduzione è solo una parte del flusso di lavoro del cliente.</seg>
       </tuv>
     </tu>
     <tu>
