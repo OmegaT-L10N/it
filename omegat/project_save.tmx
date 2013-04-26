@@ -24980,8 +24980,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In order for this process to be as automatic as possible, two conditions must in particular be met: firstly, the translation memory must contain formatting information (see above); and secondly, the segmentation rules applied to the text must be the same as those applied when the translation memory (or part of it) was produced.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183902Z">
-        <seg>Affinché questo processo possa essere così automatico come possibili, in particolare devono essere soddisfatte due condizioni: in primo luogo, la memoria di traduzione deve contenere informazioni di formattazione (vedi sopra); e in secondo luogo, le regole di segmentazione applicate al testo devono essere gli stessi di quelli applicati quando la memoria di traduzione (o parte di esso) è stato prodotto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T070749Z">
+        <seg>Affinché questo processo possa essere automatizzato al meglio devono essere soddisfatte due condizioni in particolare: in primo luogo, la memoria di traduzione deve contenere informazioni di formattazione (vedi sopra); e in secondo luogo, le regole di segmentazione applicate al testo devono essere identiche a quelle applicate quando la memoria di traduzione (o parte di essa) è stata prodotta.</seg>
       </tuv>
     </tu>
     <tu>
