@@ -11211,8 +11211,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Apply styles to delimiters</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194804Z">
-        <seg>Applicare stili di delimitatori</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195946Z">
+        <seg>Applicare stili ai delimitatori</seg>
       </tuv>
     </tu>
     <tu>
@@ -24595,8 +24595,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In Microsoft Word, run the following macro to apply the relevant styles to the target document(s):</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194806Z">
-        <seg>In Microsoft Word, eseguire la seguente macro per applicare gli stili pertinenti per la documenti dei destinazione:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200020Z">
+        <seg>In Microsoft Word, eseguire la seguente macro per applicare gli stili pertinenti per i documenti di destinazione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51232,8 +51232,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To produce a bilingual OpenOffice.Org file containing the Trados segment delimiters, close the OmegaT project, then run the following AutoIt script (requires Windows) on the project's project_save.tmx file:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194754Z">
-        <seg>Per produrre un file di OpenOffice.Org bilingue contenente i delimitatori di segmento di Trados, chiudere il progetto OmegaT, quindi eseguire il seguente script AutoIt (richiede Windows) il file del progetto project_save.tmx:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195923Z">
+        <seg>Per produrre un file di OpenOffice.Org bilingue contenente i delimitatori di segmento di Trados, chiudere il progetto OmegaT, quindi eseguire il seguente script AutoIt (richiede Windows) sul file del progetto project_save.tmx:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53723,8 +53723,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using Google Translate in OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194833Z">
-        <seg>Utilizzando Google Translate in OmegaT</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200107Z">
+        <seg>Usare Google Translate in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
