@@ -44382,8 +44382,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The easiest way for a customers to ensure that these two conditions are met is for them to pretranslate the text themselves before passing it to the translator (thereby defining how it is segmented), and to create the translation memory in the CAT tool of their choice after receiving the translated intermediate bilingual file from the translator (thereby ensuring that the formatting information contained within the translation memory will be compatible with future projects).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183906Z">
-        <seg>Il modo più semplice per un clienti garantire che queste due condizioni sono soddisfatte è per loro di pretranslate il testo se stessi prima di passarlo al traduttore (definendo così come esso è segmentato) e a creare la memoria di traduzione nello strumento CAT di loro scelta, dopo aver ricevuto il file bilingue intermedio tradotto da traduttore (assicurando che le informazioni di formattazione contenute all'interno della memoria di traduzione sarà compatibile con i progetti futuri).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T071653Z">
+        <seg>Il modo più semplice per un clienti di garantire che queste due condizioni siano soddisfatte è di pre-tradurre il loro stesso testo prima di passarlo al traduttore (definendo pertanto come esso è segmentato) e di creare la memoria di traduzione nel formato dello strumento CAT di loro scelta, dopo aver ricevuto il file bilingue intermedio tradotto (garantendo così che le informazioni di formattazione contenute all'interno della memoria di traduzione saranno compatibili con i progetti futuri).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45118,8 +45118,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183919Z">
-        <seg>I formati di file singoli bilingue sono descritte di seguito.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T071822Z">
+        <seg>I singoli formati di file bilingue sono descritti di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55801,8 +55801,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>XLIFF is the industry-standard bilingual file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183924Z">
-        <seg>XLIFF è il formato standard di settore bilingue.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T071846Z">
+        <seg>XLIFF è il formato bilingue standard di settore.</seg>
       </tuv>
     </tu>
     <tu>
