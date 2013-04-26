@@ -15311,8 +15311,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Shift+9 appears not to be assigned to any other function in the basic Word installation, but you can use any other combination that has not already been assigned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194305Z">
-        <seg>CTRL+MAIUSC+9 non sembra essere assegnate a qualsiasi altra funzione nell'installazione base di Word, ma è possibile utilizzare qualsiasi altra combinazione che non è già stata assegnata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T190930Z">
+        <seg>CTRL+MAIUSC+9 non sembra essere assegnata nell'installazione base di Word, ma è possibile utilizzare qualsiasi altra combinazione che non è ancora assegnata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22127,8 +22127,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a combination you try is already assigned, a message to this effect is displayed in the dialogue, and you can delete the combination and try another.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194246Z">
-        <seg>Se una combinazione che si cerca è già assegnata, verrà visualizzato un messaggio in tal senso nel dialogo, e si può eliminare la combinazione e provare con un altro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T190824Z">
+        <seg>Se una combinazione che si prova è già assegnata, verrà visualizzato un messaggio in tal senso nella finestra di dialogo, e si può cancellare la combinazione e provare con un altra.</seg>
       </tuv>
     </tu>
     <tu>
