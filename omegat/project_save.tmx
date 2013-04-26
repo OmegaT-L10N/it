@@ -11839,8 +11839,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143236Z">
-        <seg>Anche la sillabazione automatica aggiunge tag inutili, quindi disattivarla.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111841Z">
+        <seg>Anche la sillabazione automatica aggiunge tag inutili, quindi conviene disattivarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22311,8 +22311,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If every single word in OmegaT is enclosed within tags, it is possible that Word has attempted to spell-check the text without access to a suitable spelling dictionary, and has therefore marked each word as mis-spelt.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T142935Z">
-        <seg>Se ogni singola parola in OmegaT è racchiusa all'interno di tag, è possibile che Word che abbia tentato di eseguire il controllo ortografico del testo senza accesso a un dizionario di ortografia adatto e quindi ha segnato ogni parola come errore ortografico.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111739Z">
+        <seg>Se tutte le singole parole appaiono in OmegaT racchiuse da tag, è possibile che Word abbia tentato di eseguire il controllo ortografico del testo senza accesso a un dizionario di ortografia adatto e quindi abbia segnato ogni parola come errata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33799,8 +33799,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>One solution is to switch off automatic spelling checking in Word.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143131Z">
-        <seg>Una soluzione è togliere in Word il controllo automatico dell'ortografia.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111822Z">
+        <seg>In tal caso basta togliere in Word il controllo automatico dell'ortografia.</seg>
       </tuv>
     </tu>
     <tu>
