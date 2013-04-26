@@ -8843,8 +8843,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A "scanned" PDF file is a file in which the PDF format merely serves as a convenient container for scans of hardcopy pages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195214Z">
-        <seg>Un file PDF "digitalizzato" è un file in cui il formato PDF serve solo come un comodo contenitore per scansioni di pagine di hardcopy.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T201441Z">
+        <seg>Un file PDF "scandito" è un file in cui il formato PDF serve solo come un comodo contenitore per scansioni di pagine di cartacee.</seg>
       </tuv>
     </tu>
     <tu>
