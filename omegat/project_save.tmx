@@ -3091,8 +3091,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194857Z">
-        <seg>&lt;a0&gt;Segui questo link per applicare a Google&lt;/a0&gt; per la chiave di Google Translate API v2.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200323Z">
+        <seg>&lt;a0&gt;Segui questo link da applicare a Google&lt;/a0&gt; per la chiave di Google Translate API v2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11615,8 +11615,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Assign the key to OmegaT's launch procedure as follows, depending upon whether you are using Windows, Mac, or launching OmegaT from the command line or by means of a script:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194904Z">
-        <seg>Assegnare la chiave alla procedura di lancio di OmegaT come segue, a seconda se si utilizzano Windows, Mac, o lanciare OmegaT dalla riga di comando o mediante uno script:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200414Z">
+        <seg>Assegnare la chiave alla procedura di lancio di OmegaT come segue, a seconda se si utilizza Windows, Mac, o lanciare OmegaT dalla riga di comando o mediante uno script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12354,8 +12354,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194835Z">
-        <seg>Inoltre la pagina web in cui gli utenti possono semplicemente incollare il testo per la traduzione, Google Translate anche fornisce un'interfaccia (API) che può essere utilizzata da CAT-tools per accedere al servizio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200233Z">
+        <seg>Oltre alla pagina web in cui gli utenti possono semplicemente incollare il testo per la traduzione, Google Translate fornisce anche un'interfaccia (API) che può essere utilizzata dalle applicazioni CAT per accedere al servizio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20974,8 +20974,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Google will generate your API key, a string with approximately 39 characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194901Z">
-        <seg>Google genererà la chiave API, una stringa con caratteri circa 39.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200354Z">
+        <seg>Google genererà la chiave API, una stringa con circa 39 caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23613,8 +23613,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you don't already have one, open an account with google.com.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194848Z">
-        <seg>Se non ne avete già uno, aprire un conto con google.com.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200249Z">
+        <seg>Se non ne avete già uno, aprite un conto con google.com.</seg>
       </tuv>
     </tu>
     <tu>
