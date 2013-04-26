@@ -45647,8 +45647,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151955Z">
-        <seg>Il nuovo formato può servire anche come un modo utile di gestire i  formati preesistenti .doc, .xls e .ppt, dal momento che possono essere convertiti ai loro corrispettivi di MS Office 2007, tradotto in OmegaT e convertite indietro ancora.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110218Z">
+        <seg>Il nuovo formato può servire anche come un modo utile di gestire i  formati preesistenti .doc, .xls e .ppt, dal momento che possono essere convertiti ai loro corrispettivi di MS Office 2007, tradotti in OmegaT e quindi riconvertite ancora nel vecchio formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49908,8 +49908,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152039Z">
-        <seg>Questa procedura è quindi un'alternativa per i traduttori che preferirebbero non utilizzare OpenOffice.org per questo scopo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110322Z">
+        <seg>Questa procedura è quindi alternativa per i traduttori che preferirebbero non utilizzare OpenOffice.org per questa conversione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52758,8 +52758,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unlike the legacy .doc, .xls and .ppt formats, these files can be handled directly in OmegaT, with no loss of formatting as a result of conversion to and from other formats.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T151812Z">
-        <seg>A differenza dei precedenti formati. doc,. xls e. ppt, questi file possono essere gestiti direttamente in OmegaT, senza perdita di formattazione come risultato della conversione da e verso altri formati.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110116Z">
+        <seg>A differenza dei precedenti formati. doc,. xls e. ppt, questi file possono essere gestiti direttamente in OmegaT, senza perdite di formattazione per colpa delle conversioni di formato altrimenti necessarie.</seg>
       </tuv>
     </tu>
     <tu>
