@@ -20307,8 +20307,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>From within this folder, execute Apache Ant by entering the ant executable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193827Z">
-        <seg>All'interno di questa cartella, eseguire Apache Ant inserendo la formica eseguibile.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080522Z">
+        <seg>All'interno di questa cartella, eseguire Apache Ant con il file eseguibile di Ant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22731,8 +22731,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the code compiles successfully, you will see the "BUILD SUCCESSFUL" message.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193838Z">
-        <seg>Se il codice viene compilato correttamente, si vedrà il messaggio «Costruire successo».</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080604Z">
+        <seg>Se il codice viene compilato correttamente, si vedrà il messaggio "BUILD SUCCESSFUL".</seg>
       </tuv>
     </tu>
     <tu>
@@ -44702,8 +44702,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The folder names indicated below are for illustration only; version numbers will change.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193812Z">
-        <seg>I nomi delle cartelle sotto indicati sono per illustrazione solo; cambieranno i numeri di versione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080422Z">
+        <seg>I nomi sotto indicati delle cartelle, sono solo per illustrazione; i numeri di versione cambieranno.</seg>
       </tuv>
     </tu>
     <tu>
