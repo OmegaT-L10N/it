@@ -22555,8 +22555,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If not, debugging messages will be shown which will (hopefully) provide some idea of where the problem is.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193842Z">
-        <seg>In caso contrario, i messaggi di debug verrà mostrato (si spera) che fornirà un'idea di dove è il problema.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080752Z">
+        <seg>In caso contrario verranno mostrati i messaggi di debug che (si spera) forniranno un'idea di dov'è il problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24347,8 +24347,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If your code has compiled successfully, the compiled OmegaT is placed in:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193905Z">
-        <seg>Se il codice è compilato con successo, il compilato OmegaT è posizionato:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080901Z">
+        <seg>Se il codice è stato compilato con successo, il file OmegaT compilato si troverà in:</seg>
       </tuv>
     </tu>
     <tu>
