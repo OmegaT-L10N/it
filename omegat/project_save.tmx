@@ -1765,8 +1765,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>*If you do not already have an Azure Marketplace account you will need to register one first.&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200905Z">
-        <seg>* Se non hai già un account Azure Marketplace sarà necessario registrare una prima. &lt;br4/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204518Z">
+        <seg>*Se non hai già un conto Azure Marketplace sarà necessario prima registrarne uno. &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1869,8 +1869,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Click on the My Account option at the top of the page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200916Z">
-        <seg>-Fare clic sull'opzione il mio conto nella parte superiore della pagina.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204532Z">
+        <seg>- Fare clic sull'opzione il mio conto nella parte superiore della pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2101,8 +2101,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Log into Microsoft Azure Marketplace:&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200900Z">
-        <seg>-Accedi al Microsoft Azure Marketplace: &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204401Z">
+        <seg>- Accedi al Microsoft Azure Marketplace: &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3701,6 +3701,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193209Z">
         <seg>&lt;b2&gt;&lt;Invio&gt;&lt;/b2&gt;&lt;segmento 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204407Z">
+        <seg>&lt;br5/</seg>
       </tuv>
     </tu>
     <tu>
@@ -49336,8 +49344,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195447Z">
-        <seg>Questo è importante: quando si esporta il file XML da file PDF, Infix rende nota nel file di cui appartengono tutti i pezzi di testo ("storie"), quindi è necessario utilizzare questa versione del file quando il file XML tradotto la reimportazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204307Z">
+        <seg>Importante: quando si esporta il file XML da file PDF, Infix produce una nota nel file di cui &amp;&amp;&amp;&amp;&amp; appartengono tutti i pezzi di testo ("storie"), quindi è necessario utilizzare questa versione del file quando si  reimporta il file XML tradotto.</seg>
       </tuv>
     </tu>
     <tu>
