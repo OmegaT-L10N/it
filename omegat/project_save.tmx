@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>"Levelling" the formatting means applying the format of the first character in a selection of text (such as a whole paragraph) to all subsequent characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144641Z">
-        <seg>"Livellare" la formattazione significa applicare il formato del primo carattere in una selezione di testo (ad esempio un paragrafo intero) a tutti i caratteri successivi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171231Z">
+        <seg>"Livellare" la formattazione significa applicare il formato del primo carattere a tutti i caratteri successivi, in una selezione di testo (ad esempio un paragrafo intero).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10655,8 +10655,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144535Z">
-        <seg>Un'alternativa all'esecuzione della macro CodeZapper sul vostro testo è quello di "livellare" la formattazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171158Z">
+        <seg>Un'alternativa all'esecuzione della macro CodeZapper sul vostro testo è quella di "livellare" la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12161,8 +12161,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Before following the instructions below for removal of the nuisance codes, however, remember to make the configuration changes in Word first, or Word may simply re-insert nuisance codes again when the file is next opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144226Z">
-        <seg>Prima di seguire le seguenti istruzioni per la rimozione dei codici fastidiosi, tuttavia, si rammenti di apportare prima le modifiche di configurazione in Word, o Word può semplicemente reinserire ancora i codici fastidiosi quando il file viene aperto successivamente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171122Z">
+        <seg>Prima di seguire le seguenti istruzioni per la rimozione dei codici fastidiosi, tuttavia, si rammenti di apportare le modifiche di configurazione in Word, altrimenti Word potrà semplicemente reinserire i codici fastidiosi appena il file viene riaperto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31149,8 +31149,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that this is not the same as "deleting" the formatting, which would cause the character formatting to revert to the document's default.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T144751Z">
-        <seg>Si noti che questo non è lo stesso di "eliminare" la formattazione, che causerebbe alla formattazione del carattere di tornare all'impostazione predefinita del documento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171330Z">
+        <seg>Si noti che questo non è lo stesso che "eliminare" la formattazione, che causerebbe alla formattazione dei caratteri di tornare all'impostazione predefinita del documento.</seg>
       </tuv>
     </tu>
     <tu>
