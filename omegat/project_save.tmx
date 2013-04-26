@@ -1471,8 +1471,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141553Z">
-        <seg>(La maggiore facilità di gestione dei tag con i file .docx arriva al costo di una leggera perdita di controllo sulla formattazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111153Z">
+        <seg>(La maggiore facilità di gestione dei tag con i file .docx arriva al costo di una leggera perdita del controllo sulla formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24603,8 +24603,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141445Z">
-        <seg>Nelle versioni di OmegaT precedenti alla 2.1.8, ogni cambiamento di formattazione in un file di MS Office 2007 ha provocato una lunga serie di tag multipli, che spesso hanno reso impraticabile gestire questo formato di file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111109Z">
+        <seg>Nelle versioni di OmegaT precedenti alla 2.1.8, ogni cambiamento di formattazione in un file di MS Office 2007 provocava una lunga serie di tag multipli, che spesso hanno reso impraticabile gestire questo formato di file.</seg>
       </tuv>
     </tu>
     <tu>
