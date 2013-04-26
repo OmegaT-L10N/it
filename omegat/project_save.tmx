@@ -32389,8 +32389,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is among the CAT tools for which this process can be used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195328Z">
-        <seg>OmegaT è tra gli strumenti CAT per il quale questo processo può essere utilizzato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203254Z">
+        <seg>OmegaT è tra le applicazioni CAT per le quali questo processo può essere utilizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47251,8 +47251,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The translated text can then be re-imported into Infix Professional.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195327Z">
-        <seg>Testo tradotto può poi essere reimportato in Professional Infix.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203217Z">
+        <seg>Il testo tradotto può poi essere reimportato in Infix Professional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48976,8 +48976,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195325Z">
-        <seg>In questo modo il testo essere esportati in un file XML che può essere tradotto in un CAT tool.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203128Z">
+        <seg>Consente al testo essere esportato in un file XML che può essere tradotto con un'applicazione CAT.</seg>
       </tuv>
     </tu>
     <tu>
