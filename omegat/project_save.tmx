@@ -14244,8 +14244,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compiling OmegaT is relevant for developers who wish to make modifications of their own to its code.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193739Z">
-        <seg>Compilazione di OmegaT è rilevante per gli sviluppatori che desiderano apportare modifiche di propria al relativo codice.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075949Z">
+        <seg>La compilazione di OmegaT è rilevante per gli sviluppatori che desiderano apportare proprie modifiche al codice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53619,8 +53619,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users do not therefore need to compile OmegaT themselves.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193731Z">
-        <seg>Gli utenti non pertanto necessario compilare OmegaT stessi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075819Z">
+        <seg>Gli utenti pertanto non necessitano di compilare loro stessi OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
