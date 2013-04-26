@@ -13658,8 +13658,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click on Macros and select levelformat (or whatever name you gave to your macro), then Edit.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194344Z">
-        <seg>Fare clic su macro e seleziona levelformat (o qualunque sia il nome ha dato alla vostra macro), quindi modifica.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193125Z">
+        <seg>Fare clic su macro e seleziona levelformat (o qualunque sia il nome dato alla vostra macro), quindi modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15231,8 +15231,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+C (this copies the paragraph)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194333Z">
-        <seg>CTRL + C (questo copia il paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T192950Z">
+        <seg>CTRL+C (copia il paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15375,8 +15375,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+V (this pastes the text of the paragraph back over the paragraph)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194336Z">
-        <seg>CTRL + V (questo viene incollato il testo del paragrafo indietro sopra il paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193023Z">
+        <seg>CTRL+V (viene incollato il testo del paragrafo di nuovo sopra il paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39766,8 +39766,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Shift+Cursor Left (this moves the end of the selection one character to the left so that it no longer includes the paragraph mark)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T192332Z">
-        <seg>MAIUSC+cursore sinistra (sposta la fine della selezione a sinistra così che esso non include più il segno di paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T192935Z">
+        <seg>MAIUSC+cursore sinistra (sposta la fine della selezione a sinistra di in carattere, così da escludere il segno di paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
