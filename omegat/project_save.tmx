@@ -31365,8 +31365,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Now simply place the cursor anywhere in the paragraph and press Ctrl+Shift+9 (or whatever other keyboard shortcut you selected), and you should see the formatting disappear.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194439Z">
-        <seg>Ora basta posizionare il cursore in un punto qualsiasi del paragrafo e premere Ctrl + Maiusc + 9 (o qualunque altro tasto di scelta rapida selezionata), e si dovrebbe vedere la formattazione sparire.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193355Z">
+        <seg>Ora basta posizionare il cursore in un punto qualsiasi del paragrafo e premere Ctrl+Maiusc+9 (o qualunque altro tasto di scelta rapida selezionata), e si dovrebbe vedere la formattazione sparire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37950,8 +37950,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Save with Ctrl+S, and close the macro editing window.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194427Z">
-        <seg>Salvare con Ctrl + S e chiudere la finestra di modifica di macro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193217Z">
+        <seg>Salvare con Ctrl+S e chiudere la finestra di modifica di macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51422,6 +51422,14 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test it, add some formatting to your Word document, for example by making one word bold.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193338Z">
+        <seg>Per provarlo, aggiungere alcuni elementi di formattazione a un documento di Word, ad esempio convertendo una parola in grassetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T054607Z">
@@ -61113,6 +61121,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135421Z">
         <seg>VERBATIM COPYING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT Website en/howtos/docx.html</prop>
+      <prop type="prev">Selection.PasteAndFormat (wdPasteDefault)</prop>
+      <prop type="next">Selection.PasteSpecial DataType:=wdPasteText</prop>
+      <tuv lang="EN">
+        <seg>to:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193200Z">
+        <seg>in:</seg>
       </tuv>
     </tu>
     <tu>
