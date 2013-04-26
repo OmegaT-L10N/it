@@ -1439,8 +1439,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152141Z">
-        <seg>(Poiché questo è ora il formato standard, è semplicemente descritto come Word, Excel o Powerpoint in MS Office 2007).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110354Z">
+        <seg>(Poiché questo è ora il formato standard, è semplicemente definito come formato Word, Excel o Powerpoint in MS Office 2007).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20099,8 +20099,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152240Z">
-        <seg>Per gli utenti che non dispongono di MS Office 2007 o 2010 e non vogliono comprarlo, Microsoft fornisce un &lt;a0&gt;plug-in di compatibilità&lt;/a0&gt; per le versioni precedenti.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110429Z">
+        <seg>Per gli utenti che non dispongono di MS Office 2007 o 2010 e non vogliono comprarlo, Microsoft fornisce anche un &lt;a0&gt;plug-in di compatibilità&lt;/a0&gt; gratuito per le versioni precedenti.</seg>
       </tuv>
     </tu>
     <tu>
