@@ -20075,8 +20075,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195251Z">
-        <seg>Per la traduzione dei file PDF "per informazioni", traduttori ricorrono spesso alla conversione file PDF in un altro formato di file prima di traduzione, come ad esempio RTF; i risultati possono essere adeguati per questo scopo, ma non soddisferà gli standard professionali del processo originale di DTP.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202550Z">
+        <seg>Per la traduzione dei file PDF "per informazioni", i traduttori ricorrono spesso alla conversione del file PDF in un altro formato di file, come ad esempio RTF, prima della traduzione; i risultati possono essere adeguati per questo scopo, ma non soddisfaranno gli standard professionali del processo originale di DTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21928,6 +21928,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195531Z">
         <seg>Iceni Infisso consente inoltre di salvare i file PDF in formato RTF, ma in questo caso la versione di dimostrazione davvero è adatta solo a scopo dimostrativo, dato che contiene le sostituzioni di caratteri casuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iceni Infix offers a further option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202639Z">
+        <seg>Iceni Infix offre una opzione ulteriore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52054,8 +52062,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translating the PDF file by editing it directly is not usually a practical proposition.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195246Z">
-        <seg>Tradurre file PDF modificando direttamente non è solitamente una proposta pratica.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202354Z">
+        <seg>Tradurre un file PDF modificandolo direttamente non è solitamente una proposta pratica.</seg>
       </tuv>
     </tu>
     <tu>
