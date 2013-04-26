@@ -1997,8 +1997,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Here you will add entries for your Azure Marketplace Primary Account Key and Customer ID values (remember that microsoft.api.client_id = your Azure Marketplace Customer ID and microsoft.api.client_secret = your Azure Marketplace Primary Account Key):&lt;br18/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201041Z">
-        <seg>-Qui si aggiungerà le voci per i valori di Azure Marketplace Primary Key Account e ID cliente (ricordo che microsoft.api.client_id = il tuo ID cliente di Azure Marketplace e microsoft.api.client_secret = il tuo Azure Marketplace Primary Key Account): &lt;br18/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204845Z">
+        <seg>- Qui si aggiungeranno le voci per i valori di Azure Marketplace Primary Key Account e ID cliente (ricordo che microsoft.api.client_id = il tuo ID cliente di Azure Marketplace e microsoft.api.client_secret = il tuo Azure Marketplace Primary Key Account): &lt;br18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2141,8 +2141,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Near the bottom you will see entries and values for:&lt;br7/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200920Z">
-        <seg>-Vicino al fondo si vedrà le voci e i valori per: &lt;br7/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204558Z">
+        <seg>- Vicino al fondo si vedranno le voci e i valori per: &lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2165,8 +2165,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Open your info.plist file in your favourite text editor and locate the Properties section.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201045Z">
-        <seg>-Aprire il file info. plist nel vostro editor di testo preferito e individuare la sezione Proprietà.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204808Z">
+        <seg>- Aprire il file info.plist nel vostro editor di testo preferito e individuare la sezione Proprietà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15437,6 +15437,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customer ID = microsoft.api.client_id (needed to configure your Microsoft Translator access)&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204748Z">
+        <seg>Customer ID = microsoft.api.client_id (necessario per configurare il vostro accesso Microsoft Translator) &lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T095629Z">
@@ -16359,8 +16367,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do NOT include these in your actual entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201004Z">
-        <seg>Non includere queste nel tuo voci reali.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204856Z">
+        <seg>Non includere queste nelle tue voci reali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35703,6 +35711,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T141027Z">
         <seg>Le versioni precedenti di OmegaT segmentavano un file di partenza solo per paragrafi, e la numerazione dei tag di formattazione dei file HTML e Open Document non era coerente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary Account Key = microsoft.api.client_secret (needed to configure your Microsoft Translator access)&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204701Z">
+        <seg>Primary Key Account = microsoft.api.client_secret (necessaria per configurare il vostro accesso a Microsoft Translator) &lt;br12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
