@@ -1407,8 +1407,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Record as described above, but only recording the command Ctrl+C followed by Ctrl+V.) You can then highlight text between the points at which formatting changes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194641Z">
-        <seg>(Record come descritto sopra, ma solo registrare il comando Ctrl + C seguito da Ctrl + V). Si può quindi evidenziare il testo tra i punti in cui le modifiche di formattazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T194804Z">
+        <seg>(Registrare come descritto sopra, ma registrare solo il comando Ctrl+C seguito da Ctrl+V). Si può quindi evidenziare il testo tra i punti fra cui modificare la formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14959,8 +14959,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Create a second macro (with its own button and/or keyboard shortcut) of your own that only levels highlighted text, rather than the entire paragraph.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194636Z">
-        <seg>Creare una seconda macro (con un proprio collegamento pulsante e/o tastiera) dei vostri propri che solo livelli testo evidenziato, piuttosto che l'intero paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T194618Z">
+        <seg>Creare una seconda macro (con un proprio pulsante e/o tastiera di collegamento) che livelli solo il testo evidenziato, piuttosto che l'intero paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
