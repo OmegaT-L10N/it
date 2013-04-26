@@ -13756,8 +13756,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Click on the paragraph mark button to make paragraph marks visible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194213Z">
-        <seg>Clicca sul pulsante mark paragrafo fare punto contrassegna visibile.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172623Z">
+        <seg>Cliccare sul pulsante 'evidenzia paragrafo' per rendere visibili i segni di paragrafo .</seg>
       </tuv>
     </tu>
     <tu>
@@ -23775,8 +23775,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have made changes to your Normal.dotm, you might want to back this up first.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194234Z">
-        <seg>Se sono state apportate modifiche al vostro Normal. dotm, si potrebbe voler questo backup prima.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172914Z">
+        <seg>Se sono state apportate modifiche al vostro Normal.dotm, potrebbe convenire prima fare un salvataggio a scorta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35002,8 +35002,8 @@ Permission is granted to copy, distribute and/or modify this document under the 
       <tuv lang="EN">
         <seg>Place the cursor in your paragraph of text (not in the first or last lines).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194217Z">
-        <seg>Posizionare il cursore nel tuo paragrafo di testo (non nelle linee prime o l'ultime).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172738Z">
+        <seg>Posizionare il cursore nel paragrafo di testo (non nelle prime linee o nelle ultime).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51127,8 +51127,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To make the macro available in all documents, select Normal.dotm in the "Store macro in" box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194231Z">
-        <seg>Per rendere la macro disponibile in tutti i documenti, selezionare la casella "Memorizza macro in" Normal. dotm.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172757Z">
+        <seg>Per rendere la macro disponibile in tutti i documenti, selezionare la casella "Memorizza macro in" Normal.dotm.</seg>
       </tuv>
     </tu>
     <tu>
