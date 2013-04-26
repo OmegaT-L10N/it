@@ -25084,8 +25084,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In paragraphs containing lots of formatting, restoring the deleted formatting can be quite a lot of work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194624Z">
-        <seg>Nei paragrafi che contengono un sacco di formattazione, ripristinare la formattazione eliminati possono essere un sacco di lavoro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T194336Z">
+        <seg>Nei paragrafi che contengono molta formattazione, ripristinare la formattazione eliminata può richiedere molto lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53076,6 +53076,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T200825Z">
         <seg>Utilizzare &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; per aprirla ed &lt;k2&gt;Esc&lt;/k2&gt; per chiuderla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Dave Turner's CodeZapper macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T194446Z">
+        <seg>Usare macro CodeZapper di Dave Turner'.</seg>
       </tuv>
     </tu>
     <tu>
