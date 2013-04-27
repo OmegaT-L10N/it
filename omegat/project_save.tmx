@@ -10542,8 +10542,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>All being well, your translation will come out looking like the original, but translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195521Z">
-        <seg>Tutto bene, che la traduzione verrà fuori alla ricerca come l'originale, ma tradotto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125048Z">
+        <seg>Tutto bene, la traduzione verrà fuori all'apparenza come l'originale, ma tradotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20611,8 +20611,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For translations intended "for information", this may not be a problem.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195528Z">
-        <seg>Per le traduzioni destinate "informazioni", questo non può essere un problema.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125231Z">
+        <seg>Per le traduzioni destinate "per informazioni", questo può non essere un problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31487,6 +31487,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T160810Z">
         <seg>È da notare che se si necessitano usare argomenti di comando per l'avvio (vedere sopra), si deve utilizzare un'installazione normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that if you use the demonstration version of Iceni Infix in this procedure, your translated PDF file will bear an Iceni watermark.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125157Z">
+        <seg>Notare che se si utilizza la versione di dimostrazione di Iceni Infix in questa procedura, il vostro file PDF tradotto sopporterà una filigrana Iceni.</seg>
       </tuv>
     </tu>
     <tu>
