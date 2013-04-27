@@ -1192,10 +1192,42 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>' levelformat macro&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123738Z">
+        <seg>' levelformat macro&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172618Z">
         <seg>'*' corrisponde a zero caratteri o più caratteri consecutivi, dalla posizione attuale in una parola data fino alla sua fine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123738Z">
+        <seg>'&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123739Z">
+        <seg>'&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123740Z">
+        <seg>'&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16245,6 +16277,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123805Z">
+        <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directories</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231139Z">
@@ -17737,6 +17777,46 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095035Z">
         <seg>Riscontrata sequenza \u non valida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Sub</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123838Z">
+        <seg>End Sub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123747Z">
+        <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123819Z">
+        <seg>End With&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123823Z">
+        <seg>End With&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123829Z">
+        <seg>End With&lt;br27/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39868,6 +39948,62 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection.Copy&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123744Z">
+        <seg>Selection.Copy&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123742Z">
+        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123742Z">
+        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123740Z">
+        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123752Z">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123745Z">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123755Z">
+        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091617Z">
@@ -39928,6 +40064,30 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T174858Z">
         <seg>Configurarlo come è stato fatto con &lt;f1&gt;Il mio progetto-1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sExt = ActiveDocument.Styles.Add(Name:="tw4winExternal", _&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123824Z">
+        <seg>Set sExt = ActiveDocument.Styles.Add(Name:="tw4winExternal", _&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sInt = ActiveDocument.Styles.Add(Name:="tw4winInternal", _&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123820Z">
+        <seg>Set sInt = ActiveDocument.Styles.Add(Name:="tw4winInternal", _&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sMark = ActiveDocument.Styles.Add(Name:="tw4winMark", _&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123806Z">
+        <seg>Set sMark = ActiveDocument.Styles.Add(Name:="tw4winMark", _&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41456,6 +41616,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091626Z">
         <seg>Segmentazione a livello di struttura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sub levelformat()&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123737Z">
+        <seg>Sub levelformat()&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48911,8 +49079,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This HowTo describes how to configure the function in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194841Z">
-        <seg>Questo HowTo descrive come configurare la funzione di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123927Z">
+        <seg>Questa guida descrive come configurare la funzione di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55847,6 +56015,30 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With sExt.Font&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123826Z">
+        <seg>With sExt.Font&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With sInt.Font&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123821Z">
+        <seg>With sInt.Font&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With sMark.Font&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123808Z">
+        <seg>With sMark.Font&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the "aggregate tags" function enabled, this is not possible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152729Z">
@@ -57903,6 +58095,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>___________________</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123749Z">
+        <seg>___________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>___________________&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123736Z">
+        <seg>___________________&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a file might have no matching entries, so it will show empty.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141632Z">
@@ -59071,6 +59279,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://asap-traduction.com/CodeZapper</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123721Z">
+        <seg>http://asap-traduction.com/CodeZapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093958Z">
@@ -59123,6 +59339,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122349Z">
         <seg>http://odf-converter.sourceforge.net/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://office.microsoft.com/en-us/word-help/record-or-run-a-macro-HA010099769.aspx</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123723Z">
+        <seg>http://office.microsoft.com/en-us/word-help/record-or-run-a-macro-HA010099769.aspx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://oit.nd.edu/training/documentation/documents/macro_qrg.pdf</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123734Z">
+        <seg>http://oit.nd.edu/training/documentation/documents/macro_qrg.pdf</seg>
       </tuv>
     </tu>
     <tu>
@@ -59247,10 +59479,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.codeweavers.com</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123717Z">
+        <seg>http://www.codeweavers.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122348Z">
         <seg>http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.dummies.com/how-to/content/how-to-create-a-word-2007-macro.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123732Z">
+        <seg>http://www.dummies.com/how-to/content/how-to-create-a-word-2007-macro.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -59279,10 +59527,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.leuce.com/tempfile/omtautoit/uncleanifyTMX.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123758Z">
+        <seg>http://www.leuce.com/tempfile/omtautoit/uncleanifyTMX.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.libreoffice.org/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121912Z">
         <seg>http://www.libreoffice.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.microsoft.com/downloads/details.aspx?familyid=941b3470-3ae9-4aee-8f43-c6bb74cd1466&amp;display</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123715Z">
+        <seg>http://www.microsoft.com/downloads/details.aspx?familyid=941b3470-3ae9-4aee-8f43-c6bb74cd1466&amp;display</seg>
       </tuv>
     </tu>
     <tu>
@@ -60527,6 +60791,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sExt.LanguageID = wdNoProofing&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123825Z">
+        <seg>sExt.LanguageID = wdNoProofing&lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sInt.LanguageID = wdNoProofing&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123821Z">
+        <seg>sInt.LanguageID = wdNoProofing&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>save file as dialog for the glossary</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T224643Z">
@@ -61583,6 +61863,94 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>  .ColorIndex = wdGray50&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123828Z">
+        <seg>  .ColorIndex = wdGray50&lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .ColorIndex = wdRed&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123823Z">
+        <seg>  .ColorIndex = wdRed&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .ColorIndex = wdViolet&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123819Z">
+        <seg>  .ColorIndex = wdViolet&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Hidden = True&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123817Z">
+        <seg>  .Hidden = True&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123822Z">
+        <seg>  .Name = "Courier"&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123827Z">
+        <seg>  .Name = "Courier"&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123809Z">
+        <seg>  .Name = "Courier"&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123822Z">
+        <seg>  .Size = 11&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123827Z">
+        <seg>  .Size = 11&lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123809Z">
+        <seg>  .Size = 11&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123818Z">
+        <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg> Confirm with OK.&lt;br23&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T230040Z">
@@ -61619,6 +61987,30 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T165732Z">
         <seg>Si può &lt;a5&gt;selezionare&lt;/a5&gt; un'altra corrispondenza tramite la combinazione di tasti &lt;c6&gt;Ctrl+2&lt;/c6&gt;, &lt;c7&gt;3&lt;/c7&gt;, &lt;c8&gt;4&lt;/c8&gt; o &lt;c9&gt;5.&lt;/c9&gt; Se non dovesse esistere una corrispondenza #5, naturalmente la combinazione &lt;c10&gt;Ctrl+5&lt;/c10&gt; non sortirebbe alcun effetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123820Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123825Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123806Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
