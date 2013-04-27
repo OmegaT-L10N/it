@@ -2731,6 +2731,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../images/infix3.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125324Z">
+        <seg>../../images/infix3.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../images/xhtml.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
@@ -11873,14 +11881,6 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200618Z">
         <seg>Come per te-gloss-clou, ma sostituisce i termini di origine nel glossario con i termini di destinazione.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195538Z">
-        <seg>Come è così spesso il caso con le cose tecniche (e la traduzione di cose), ci sono le catture.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22470,8 +22470,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195531Z">
-        <seg>Iceni Infisso consente inoltre di salvare i file PDF in formato RTF, ma in questo caso la versione di dimostrazione davvero è adatta solo a scopo dimostrativo, dato che contiene le sostituzioni di caratteri casuale.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125322Z">
+        <seg>Iceni Infix consente inoltre di salvare i file PDF in formato RTF, ma in questo caso la versione di dimostrazione davvero è adatta solo a scopo dimostrativo, dato che contiene sostituzioni casuali di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57830,8 +57830,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195539Z">
-        <seg>Potete trovare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri di cui che hai bisogno.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125543Z">
+        <seg>Potete trovare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri che hai bisogno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59979,6 +59979,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124915Z">
         <seg>infix2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix3.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125344Z">
+        <seg>infix3.png</seg>
       </tuv>
     </tu>
     <tu>
