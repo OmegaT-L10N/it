@@ -2723,6 +2723,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../images/infix2.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124840Z">
+        <seg>../../images/infix2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../images/xhtml.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
@@ -10943,8 +10951,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195455Z">
-        <seg>In alternativa, si dovrebbe essere in grado di tradurre il file XML di infisso con buoni risultati utilizzando versioni precedenti di OmegaT mediante il filtro HTML.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124821Z">
+        <seg>In alternativa, si dovrebbe essere in grado di tradurre il file XML di Infix con buoni risultati utilizzando versioni precedenti di OmegaT mediante il filtro HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23918,8 +23926,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are using OmegaT version 2.3 or later, simply place the XML file exported from Infix as described above in the /source folder of your OmegaT project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195452Z">
-        <seg>Se si utilizza OmegaT versione 2.3 o successive, è sufficiente posizionare il file XML esportato da Infix come descritto sopra nella cartella del progetto OmegaT /source.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124717Z">
+        <seg>Se si utilizza OmegaT versione 2.3 o successive, è sufficiente posizionare il file XML esportato da Infix come descritto sopra, nella cartella del progetto OmegaT /source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23934,8 +23942,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are using an earlier version of OmegaT, upgrading your OmegaT installation is recommended.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195454Z">
-        <seg>Se si utilizza una versione precedente di OmegaT, aggiornare l'installazione di OmegaT è raccomandato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124747Z">
+        <seg>Se si utilizza una versione precedente di OmegaT, è raccomandato aggiornare l'installazione di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50080,8 +50088,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204307Z">
-        <seg>Importante: quando si esporta il file XML da file PDF, Infix produce una nota nel file di cui &amp;&amp;&amp;&amp;&amp; appartengono tutti i pezzi di testo ("storie"), quindi è necessario utilizzare questa versione del file quando si  reimporta il file XML tradotto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124704Z">
+        <seg>Importante: quando si esporta il file XML da file PDF, Infix produce una nota nel file a cui appartengono tutti i pezzi di testo ("storie"), quindi è necessario utilizzare questa versione del file quando si  reimporta il file XML tradotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59955,6 +59963,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T115722Z">
         <seg>voci di indici, segnalibri, collegamenti a segnalibri, note, commenti, note di presentazione, collegamenti (URL), nomi dei fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix2.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124915Z">
+        <seg>infix2.png</seg>
       </tuv>
     </tu>
     <tu>
