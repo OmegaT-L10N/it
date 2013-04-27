@@ -2969,6 +2969,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.10</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124419Z">
+        <seg>3.10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124428Z">
+        <seg>3.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094530Z">
@@ -3097,6 +3113,30 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124435Z">
+        <seg>4.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124436Z">
+        <seg>4.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124439Z">
+        <seg>4.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4a.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122439Z">
@@ -3117,6 +3157,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122328Z">
         <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124447Z">
+        <seg>5.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -15185,6 +15233,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122623Z">
         <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Milan Hubacek and Marc Prior 2011</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124516Z">
+        <seg>Copyright Milan Hubacek and Marc Prior 2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -29525,8 +29581,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Make sure that you have the Kaptain launcher installed (&lt;a0&gt;refer if necessary to the Linux Howto)&lt;/a0&gt;, then enter the Google Translate API key in the relevant field on the Connectivity tab.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195021Z">
-        <seg>Assicurarsi di avere il lanciatore Kaptain installato (&lt;a0&gt;riferirsi eventualmente di Linux Howto)&lt;/a0&gt;, quindi immettere la chiave API di Google Translate nel relativo campo della scheda di connettività.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124411Z">
+        <seg>Assicurarsi di avere il lanciatore Kaptain installato (&lt;a0&gt;riferirsi eventualmente alla guida di Linux)&lt;/a0&gt;, quindi immettere la chiave API di Google Translate nel relativo campo della scheda di connettività.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30271,6 +30327,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212928Z">
         <seg>Mongolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More &gt; Even More &gt; Innovation/Code &gt; APIs Console &gt; Service/Translate API</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124509Z">
+        <seg>More &gt; Even More &gt; Innovation/Code &gt; APIs Console &gt; Service/Translate API</seg>
       </tuv>
     </tu>
     <tu>
@@ -60003,6 +60067,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181623Z">
         <seg>java -Xmx1024M -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124433Z">
+        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
