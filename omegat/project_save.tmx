@@ -1581,6 +1581,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(where "XXXXXXXX" is the API key provided by Google).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124113Z">
+        <seg>(dove "XXXXXXXX" è la chiave API fornita da Google).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* By double-clicking on the file OmegaT.jar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192422Z">
@@ -2627,6 +2635,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124029Z">
+        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>... it's by no means the case that all programming need be done in Java.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T221943Z">
@@ -2743,6 +2759,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122347Z">
         <seg>./docx.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./linux.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124332Z">
+        <seg>./linux.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -2937,6 +2961,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124115Z">
+        <seg>3.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094530Z">
@@ -2945,10 +2977,74 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124116Z">
+        <seg>3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.3</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094728Z">
         <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124119Z">
+        <seg>3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124121Z">
+        <seg>3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124132Z">
+        <seg>3.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124210Z">
+        <seg>3.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124211Z">
+        <seg>3.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.8.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124213Z">
+        <seg>3.8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.9</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124250Z">
+        <seg>3.9</seg>
       </tuv>
     </tu>
     <tu>
@@ -5565,6 +5661,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T162507Z">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; vale per i sistemi operativi Windows, UNIX e simili a UNIX dotati di tastiere che prevedono il tasto &lt;k2&gt;Ctrl&lt;/k2&gt; o &lt;k3&gt;Control&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;key&gt;apple.awt.graphics.UseQuartz&lt;/key&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124214Z">
+        <seg>&lt;key&gt;apple.awt.graphics.UseQuartz&lt;/key&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;key&gt;google.api.key&lt;/key&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124240Z">
+        <seg>&lt;key&gt;google.api.key&lt;/key&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8989,6 +9101,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T194407Z">
         <seg>&lt;scorciatoia&gt; deve essere nella forma seguente:0 o più &lt;c0&gt;&lt;modificatore&gt;&lt;/c0&gt; seguito da 0 o 1 &lt;c1&gt;&lt;evento&gt;&lt;/c1&gt; seguito da 1 &lt;c2&gt;&lt;tasto&gt;&lt;/c2&gt;, dove:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;string&gt;XXXXXXXX&lt;/string&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124245Z">
+        <seg>&lt;string&gt;XXXXXXXX&lt;/string&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;string&gt;true&lt;/string&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124225Z">
+        <seg>&lt;string&gt;true&lt;/string&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38356,6 +38484,22 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Info.plist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124316Z">
+        <seg>Salva Info.plist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save OmegaT.l4J.ini (and if necessary, move it back to the OmegaT folder).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124208Z">
+        <seg>Salva OmegaT.l4J.ini (e se necessario, torna alla cartella OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T185048Z">
@@ -58233,8 +58377,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>and immediately after them, add the lines:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200722Z">
-        <seg>e subito dopo esse, aggiungere le righe:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124240Z">
+        <seg>e subito dopo queste, aggiungere le righe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59283,6 +59427,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123721Z">
         <seg>http://asap-traduction.com/CodeZapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://code.google.com/apis/language/translate/v2/pricing.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124027Z">
+        <seg>http://code.google.com/apis/language/translate/v2/pricing.html</seg>
       </tuv>
     </tu>
     <tu>
