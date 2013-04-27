@@ -2659,6 +2659,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>./simple.css</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113533Z">
+        <seg>./simple.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093632Z">
@@ -31635,6 +31643,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113535Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT + You</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T210604Z">
@@ -59351,6 +59367,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>omegat.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113539Z">
+        <seg>omegat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>omegat.kaptn</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095221Z">
@@ -59719,6 +59743,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>requirements.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113547Z">
+        <seg>requirements.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>reserved for future use by plugins</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T184759Z">
@@ -59795,6 +59827,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T215152Z">
         <seg>salvare il nel formato ODT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>screem 0.10.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113513Z">
+        <seg>screem 0.10.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -60529,8 +60569,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>translation memory tool, OpenOffice, GPL, CAT, computer aided translation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204425Z">
-        <seg>strumento per memorie di traduzione, OpenOffice, GPL, CAT, traduzione aiutata da computer</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113531Z">
+        <seg>translation memory tool, OpenOffice, GPL, CAT, computer aided translation</seg>
       </tuv>
     </tu>
     <tu>
