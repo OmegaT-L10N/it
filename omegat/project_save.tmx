@@ -2659,6 +2659,30 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../config/howto.css</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122316Z">
+        <seg>../../config/howto.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../../images/css.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122336Z">
+        <seg>../../images/css.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../../images/xhtml.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
+        <seg>../../images/xhtml.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../images/css.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122105Z">
@@ -2675,6 +2699,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>./dl_overview.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122314Z">
+        <seg>./dl_overview.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./docx.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122347Z">
+        <seg>./docx.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>./simple.css</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113533Z">
@@ -2687,6 +2727,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093632Z">
         <seg>1) Ridurre il numero di file di partenza e tradurre in batch;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122318Z">
+        <seg>1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2769,6 +2817,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122320Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2000 and XP: Documents and Settings\&lt;User Name&gt;\Application Data\OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193354Z">
@@ -2805,6 +2861,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093953Z">
         <seg>3) Inviare una segnalazione di errore all'indirizzo http://sourceforge.net/projects/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122324Z">
+        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2861,6 +2925,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121847Z">
         <seg>3rd_party.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122327Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122328Z">
+        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14837,6 +14917,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122333Z">
+        <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2010 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100509Z">
@@ -21176,6 +21264,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110718T103010Z">
         <seg>Segmentazione HTML, XHTML, ODF e Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML; XHTML:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122407Z">
+        <seg>HTML; XHTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29627,6 +29723,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122346Z">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122355Z">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Office Open XML files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T110736Z">
@@ -31691,6 +31803,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122238Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122222Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113535Z">
@@ -31981,8 +32109,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T210902Z">
-        <seg>OmegaT ha anche le seguenti mailing list e i revisori, che sono ospitati su Sourceforge:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122210Z">
+        <seg>OmegaT ha anche le seguenti mailing list e revisori, che sono ospitati su Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32103,6 +32231,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T194525Z">
         <seg>OmegaT è fornito come pacchetto scaricabile da SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT compatibility HowTo</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122340Z">
+        <seg>OmegaT compatibility HowTo</seg>
       </tuv>
     </tu>
     <tu>
@@ -34067,6 +34203,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132003Z">
         <seg>File Open Document Format (ODF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Document Format: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122405Z">
+        <seg>Open Document Format: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -36479,6 +36623,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T130546Z">
         <seg>Sostituisci con concord&amp;anza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RTF (Rich Text Format):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122358Z">
+        <seg>RTF (Rich Text Format):</seg>
       </tuv>
     </tu>
     <tu>
@@ -51916,6 +52068,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trados TTX</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122423Z">
+        <seg>Trados TTX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trados TTX format is the counterpart to the "uncleaned RTF" format for Trados Tag Editor, which unlike Trados Workbench, does not work in direct combination with MS Word.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T065139Z">
@@ -55735,6 +55895,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122428Z">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wordfast TXML Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T180002Z">
@@ -55907,6 +56075,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T105535Z">
         <seg>Opzioni filtro XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122413Z">
+        <seg>XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -58351,6 +58527,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>download_selector/selector.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122306Z">
+        <seg>download_selector/selector.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>downloads.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121839Z">
@@ -58735,10 +58919,42 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://anaphraseus.sourceforge.net/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122409Z">
+        <seg>http://anaphraseus.sourceforge.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ant.apache.org</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122430Z">
+        <seg>http://ant.apache.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093958Z">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://groups.yahoo.com/group/omegat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122141Z">
+        <seg>http://groups.yahoo.com/group/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://groups.yahoo.com/group/wordfast/files/Wf2Tmx-1.0.11.37.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122409Z">
+        <seg>http://groups.yahoo.com/group/wordfast/files/Wf2Tmx-1.0.11.37.zip</seg>
       </tuv>
     </tu>
     <tu>
@@ -58767,6 +58983,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://odf-converter.sourceforge.net/download.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122349Z">
+        <seg>http://odf-converter.sourceforge.net/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://okapi.opentag.com</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121917Z">
@@ -58775,10 +58999,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122417Z">
+        <seg>http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://openoffice.org/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121907Z">
         <seg>http://openoffice.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://simmer-lossner.blogspot.com/2008/11/dj-vu-x-as-editing-tool-for-trados-jobs.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122331Z">
+        <seg>http://simmer-lossner.blogspot.com/2008/11/dj-vu-x-as-editing-tool-for-trados-jobs.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -58815,6 +59055,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?atid=520350&amp;group_id=68187&amp;func=browse</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122247Z">
+        <seg>http://sourceforge.net/tracker/?atid=520350&amp;group_id=68187&amp;func=browse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?atid=912617&amp;group_id=68187&amp;func=browse</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122252Z">
+        <seg>http://sourceforge.net/tracker/?atid=912617&amp;group_id=68187&amp;func=browse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520347</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094005Z">
@@ -58843,6 +59099,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122045Z">
         <seg>http://validator.w3.org/check?uri=referer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.atril.com/docs/DVX/InstructionsExternalView.pdf</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122329Z">
+        <seg>http://www.atril.com/docs/DVX/InstructionsExternalView.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122348Z">
+        <seg>http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -58879,10 +59151,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.neooffice.org/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122350Z">
+        <seg>http://www.neooffice.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.omegat.org/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093956Z">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/compatibility_deja_vu.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122429Z">
+        <seg>http://www.omegat.org/en/howtos/compatibility_deja_vu.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/export_uncleaned_rtf.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122418Z">
+        <seg>http://www.omegat.org/en/howtos/export_uncleaned_rtf.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -58899,6 +59195,46 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173208Z">
         <seg>http://www.omegat.org/it/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.oooninja.com/2008/01/convert-openxml-docx-etc-in-linux-using.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122351Z">
+        <seg>http://www.oooninja.com/2008/01/convert-openxml-docx-etc-in-linux-using.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.opentag.com/okapi/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122424Z">
+        <seg>http://www.opentag.com/okapi/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122432Z">
+        <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122156Z">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122225Z">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
       </tuv>
     </tu>
     <tu>
@@ -59251,6 +59587,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T144957Z">
         <seg>caricato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:lin4trans@users.sourceforge.net</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122256Z">
+        <seg>mailto:lin4trans@users.sourceforge.net</seg>
       </tuv>
     </tu>
     <tu>
@@ -60787,6 +61131,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113531Z">
         <seg>translation memory tool, OpenOffice, GPL, CAT, computer aided translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation memory, TM, computer-aided translation, computer-assisted translation, CAT, GPL, open source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122132Z">
+        <seg>translation memory, TM, computer-aided translation, computer-assisted translation, CAT, GPL, open source</seg>
       </tuv>
     </tu>
     <tu>
