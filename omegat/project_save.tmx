@@ -2723,6 +2723,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/** Number of fuzzy matches to display */&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122609Z">
+        <seg>/** Number of fuzzy matches to display */&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/src/org/omegat/util</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122456Z">
+        <seg>/src/org/omegat/util</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093632Z">
@@ -2751,6 +2767,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135207Z">
         <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>192, 255, 192</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122453Z">
+        <seg>192, 255, 192</seg>
       </tuv>
     </tu>
     <tu>
@@ -2829,6 +2853,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193354Z">
         <seg>2000 e XP: Documents and Settings\&lt;Nome Utente&gt;\Dati applicazioni\OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>225, 225, 255.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122453Z">
+        <seg>225, 225, 255.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2933,6 +2965,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122327Z">
         <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4a.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122439Z">
+        <seg>4a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4b.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122455Z">
+        <seg>4b.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8961,6 +9009,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>= 10</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122617Z">
+        <seg>= 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>= 5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122613Z">
+        <seg>= 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>@@TRANSLATION_NOTICE@@</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173426Z">
@@ -12968,6 +13032,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122435Z">
+        <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CAT tools allow for greater consistency of translation, including when more than one translator is working on a job.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T121809Z">
@@ -12980,6 +13052,30 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073108Z">
         <seg>Gli strumenti CAT variano nel prezzo da zero (e.g. OmegaT) a 2500 $ o più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COLOR_BLUE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122451Z">
+        <seg>COLOR_BLUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COLOR_BLUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122448Z">
+        <seg>COLOR_BLUE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COLOR_GREEN</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122447Z">
+        <seg>COLOR_GREEN</seg>
       </tuv>
     </tu>
     <tu>
@@ -14921,6 +15017,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122333Z">
         <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122623Z">
+        <seg>Copyright Marc Prior 2011-2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -33577,6 +33681,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094811Z">
         <seg>OmegaT.exe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT_2.2.3_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122436Z">
+        <seg>OmegaT_2.2.3_Beta_Source\dist</seg>
       </tuv>
     </tu>
     <tu>
@@ -58055,6 +58167,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>b = Styles.COLOR_GREEN;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122446Z">
+        <seg>b = Styles.COLOR_GREEN;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>beneath the line</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201858Z">
@@ -58147,6 +58267,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192559Z">
         <seg>cd &lt;cartella dove si trova il file OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122437Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_2.2.3_Beta_Source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122434Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_2.2.3_Beta_Source</seg>
       </tuv>
     </tu>
     <tu>
@@ -59463,6 +59599,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122438Z">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -jar OmegaT.jar --ITokenizer=[source language tokenizer name] --ITokenizerTarget=[target language tokenizer name]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T182503Z">
@@ -60127,6 +60271,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122450Z">
+        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122507Z">
+        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>puts the pane back within the main window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183724Z">
@@ -60307,6 +60467,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183559Z">
         <seg>ripristina la disposizione prima del passaggio di massimizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122444Z">
+        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
       </tuv>
     </tu>
     <tu>
@@ -60587,6 +60755,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104709Z">
         <seg>src (URL di i&amp;mmagini)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src/org/omegat/gui/editor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122440Z">
+        <seg>src/org/omegat/gui/editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src/org/omegat/util/gui</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122449Z">
+        <seg>src/org/omegat/util/gui</seg>
       </tuv>
     </tu>
     <tu>
