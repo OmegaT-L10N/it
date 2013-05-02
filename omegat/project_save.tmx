@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># TMXFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180556Z">
+        <seg># TMXFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># To use a parameter, remove the '#' before the '-'&lt;br2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T114548Z">
@@ -13084,6 +13092,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T112511Z">
         <seg>Sfoglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180630Z">
+        <seg>Browser</seg>
       </tuv>
     </tu>
     <tu>
@@ -58991,6 +59007,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>compiling_from_source.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180554Z">
+        <seg>compiling_from_source.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>consoleMode.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181657Z">
@@ -62523,6 +62547,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123806Z">
         <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180603Z">
+        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   TMX_FILTER_NAME=TMX files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180558Z">
+        <seg>   TMX_FILTER_NAME=TMX files</seg>
       </tuv>
     </tu>
     <tu>
