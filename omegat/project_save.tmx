@@ -14332,8 +14332,8 @@ application folder.</seg>
       <tuv lang="EN">
         <seg>Clicking on the text in question will display a text box and formatting marks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195605Z">
-        <seg>Fare clic sul testo in questione per visualizzare una casella di testo e segni di formattazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T141318Z">
+        <seg>Fare clic sul testo in questione per visualizzare una casella di testo e i segni di formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39942,8 +39942,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Select Tools &gt; Text tool.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195604Z">
-        <seg>Selezionare Strumenti &amp;amp;gt; strumento di testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T141301Z">
+        <seg>Selezionare Strumenti &gt; Strumento di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47187,8 +47187,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The screenshot shows an example: &lt;i0/&gt; Remove the line break.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195607Z">
-        <seg>La schermata mostra un esempio: &lt;i0/&gt; rimuovere l'interruzione di riga.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T141336Z">
+        <seg>La schermata mostra un esempio: &lt;i0/&gt; Rimuovere l'interruzione di riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48444,8 +48444,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then save the changes and re-export the PDF to the XML file (and change the file extension etc.), and reload your OmegaT project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195609Z">
-        <seg>Quindi salvare le modifiche e riesportare il PDF al file XML (e cambiare l'estensione del file ecc.) e ricaricare il progetto OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T141409Z">
+        <seg>Quindi salvare le modifiche e riesportare il file PDF in XML (e cambiare l'estensione del file ecc.) e ricaricare il progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52080,8 +52080,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To resolve this, open the original PDF file again in Infix.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195558Z">
-        <seg>Per risolvere questo problema, aprire il file PDF originale nuovamente nell'infisso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T141243Z">
+        <seg>Per risolvere questo problema, riaprire il file PDF originale in Infix.</seg>
       </tuv>
     </tu>
     <tu>
