@@ -2803,6 +2803,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../resources/impressum.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211212Z">
+        <seg>../resources/impressum.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>./dl_overview.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122314Z">
@@ -10668,6 +10676,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211235Z">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alex Buloichik (lead developer)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101114T114756Z">
@@ -13500,6 +13516,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091444Z">
         <seg>Richiamare una ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Camille Moulin</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211218Z">
+        <seg>Camille Moulin</seg>
       </tuv>
     </tu>
     <tu>
@@ -16633,6 +16657,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203925Z">
         <seg>Pannello del dizionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211230Z">
+        <seg>Didier Briel</seg>
       </tuv>
     </tu>
     <tu>
@@ -28300,6 +28332,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120122T195818Z">
         <seg>Continuate così!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211220Z">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Sandra Jean Chua, Thomas Cordonnier, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabian Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawula, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei and Martin Wunderlich</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211246Z">
+        <seg>Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Sandra Jean Chua, Thomas Cordonnier, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabian Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawula, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei and Martin Wunderlich</seg>
       </tuv>
     </tu>
     <tu>
@@ -41038,8 +41086,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T150409Z">
-        <seg>Fin dall'inizio del progetto, ha ricevuto il sostegno di decine di altri collaboratori, troppo numerosi da menzionare qui, ma per cui aiuto siamo molto grati.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211342Z">
+        <seg>Fin dall'inizio il progetto, ha ricevuto il sostegno di decine di altri collaboratori, troppo numerosi da menzionare qui, ma per il cui aiuto siamo molto grati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55193,6 +55241,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vito Smolej</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211244Z">
+        <seg>Vito Smolej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej (documentation manager)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T193950Z">
@@ -60231,6 +60287,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>impressum.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211201Z">
+        <seg>impressum.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>in other CAT tools</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092415Z">
@@ -61043,6 +61107,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095054Z">
         <seg>completo non deve essere indicato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>philosophy.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211259Z">
+        <seg>philosophy.html</seg>
       </tuv>
     </tu>
     <tu>
