@@ -10494,8 +10494,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Again, free demonstration versions are available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195352Z">
-        <seg>Ancora una volta, sono disponibili versioni di dimostrazione gratuita.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T105039Z">
+        <seg>Ancora una volta, sono disponibili versioni di dimostrazione gratuite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15679,8 +15679,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195355Z">
-        <seg>Crossover Linux e Macintosh Crossover può essere ottenuto dal &lt;a0&gt;sito Web di Codeweavers'&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T105133Z">
+        <seg>Crossover Linux e Macintosh Crossover possono essere ottenuti dal &lt;a0&gt;sito Web di Codeweavers'&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26429,8 +26429,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Infix Professional can be used on these platforms in conjunction with Crossover Linux and Crossover Macintosh respectively.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195344Z">
-        <seg>InFix Professional può essere utilizzato su queste piattaforme in concomitanza con il Crossover Linux e Macintosh Crossover rispettivamente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T105027Z">
+        <seg>InFix Professional può essere utilizzato su queste piattaforme con Crossover Linux e Macintosh Crossover rispettivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59715,6 +59715,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123717Z">
         <seg>http://www.codeweavers.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.codeweavers.com/products/crossover/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T104922Z">
+        <seg>http://www.codeweavers.com/products/crossover/</seg>
       </tuv>
     </tu>
     <tu>
