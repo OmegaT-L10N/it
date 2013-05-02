@@ -88,8 +88,8 @@
       <tuv lang="EN">
         <seg>"Standard", "Latest", "/trunk" and "Webstart".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195812Z">
-        <seg>"Standard", "Ultimo", "/ tronco" e "Webstart".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175749Z">
+        <seg>"Standard", "Ultima", "/ tronca" e "Webstart".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1455,8 +1455,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Refer to the "Downloads" page on the OmegaT website for details of the differences.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195818Z">
-        <seg>(Fare riferimento alla pagina "Download" sul sito Web di OmegaT per dettagli delle differenze).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175917Z">
+        <seg>(Fare riferimento alla pagina "Download" sul sito Web di OmegaT per i dettagli delle differenze).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40198,8 +40198,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Selecting and downloading OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195751Z">
-        <seg>Selezione e download di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175719Z">
+        <seg>Scegliere e scaricare OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -43281,8 +43281,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Latest" version is recommended.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195816Z">
-        <seg>È consigliata la versione "Più recente".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175823Z">
+        <seg>È consigliata la versione "Ultima".</seg>
       </tuv>
     </tu>
     <tu>
@@ -47979,8 +47979,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The third option, i.e. installing an OmegaT version with Java included at local level, is always the "safe" option, and is recommended.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195749Z">
-        <seg>La terza opzione, cioè l'installazione di una versione di OmegaT con Java incluso a livello locale, è sempre l'opzione "sicura" ed è consigliato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175642Z">
+        <seg>La terza opzione, cioè l'installazione di una versione di OmegaT con Java incluso a livello locale, è sempre l'opzione "sicura" ed è consigliata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50208,8 +50208,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is not recommended, particularly if you are unfamiliar with Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195747Z">
-        <seg>Questo non è consigliato, soprattutto se si ha familiarità con Linux.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175635Z">
+        <seg>Questo non è consigliato, soprattutto se non si ha familiarità con Linux.</seg>
       </tuv>
     </tu>
     <tu>
