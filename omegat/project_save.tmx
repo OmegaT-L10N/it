@@ -4105,6 +4105,54 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180308Z">
+        <seg>&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180310Z">
+        <seg>&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180313Z">
+        <seg>&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180315Z">
+        <seg>&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180329Z">
+        <seg>&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180332Z">
+        <seg>&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180218Z">
@@ -4113,10 +4161,58 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br31/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180406Z">
+        <seg>&lt;br31/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br32/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180425Z">
+        <seg>&lt;br32/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br33/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180427Z">
+        <seg>&lt;br33/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br36/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180439Z">
+        <seg>&lt;br36/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br5/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204407Z">
         <seg>&lt;br5/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180303Z">
+        <seg>&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180306Z">
+        <seg>&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15309,6 +15405,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Will Helton 2012</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180510Z">
+        <seg>Copyright Will Helton 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2010 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100509Z">
@@ -15961,6 +16065,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204748Z">
         <seg>Customer ID = microsoft.api.client_id (necessario per configurare il vostro accesso Microsoft Translator) &lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customer ID&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180301Z">
+        <seg>Customer ID&lt;br10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59599,6 +59711,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://datamarket.azure.com/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180518Z">
+        <seg>http://datamarket.azure.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://ec.europa.eu/enterprise/policies/sme/files/sme_definition/sme_user_guide_hu.pdf</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133401Z">
@@ -62335,6 +62455,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg> &lt;key&gt;Properties&lt;/key&gt;&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180341Z">
+        <seg> &lt;key&gt;Properties&lt;/key&gt;&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg> Confirm with OK.&lt;br23&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T230040Z">
@@ -62395,6 +62523,86 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123806Z">
         <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>       &lt;/dict&gt;&lt;br30/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180400Z">
+        <seg>       &lt;/dict&gt;&lt;br30/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>       &lt;dict&gt;&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180342Z">
+        <seg>       &lt;dict&gt;&lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>          --&gt; &lt;key&gt;microsoft.api.client_id&lt;/key&gt;&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180352Z">
+        <seg>          --&gt; &lt;key&gt;microsoft.api.client_id&lt;/key&gt;&lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>          --&gt; &lt;key&gt;microsoft.api.client_secret&lt;/key&gt;&lt;br28/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180355Z">
+        <seg>          --&gt; &lt;key&gt;microsoft.api.client_secret&lt;/key&gt;&lt;br28/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>          --&gt; &lt;string&gt;A1234-5678-1234-5678-12345678901&lt;/string&gt;&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180353Z">
+        <seg>          --&gt; &lt;string&gt;A1234-5678-1234-5678-12345678901&lt;/string&gt;&lt;br27/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>          --&gt; &lt;string&gt;AaBb1234CcDd5678aAbBcCdD1234eEfFgGhH1234&lt;/string&gt;&lt;br29/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180358Z">
+        <seg>          --&gt; &lt;string&gt;AaBb1234CcDd5678aAbBcCdD1234eEfFgGhH1234&lt;/string&gt;&lt;br29/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>           &lt;key&gt;apple.awt.graphics.UseQuartz&lt;/key&gt;&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180348Z">
+        <seg>           &lt;key&gt;apple.awt.graphics.UseQuartz&lt;/key&gt;&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>           &lt;key&gt;apple.laf.useScreenMenuBar&lt;/key&gt;&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180344Z">
+        <seg>           &lt;key&gt;apple.laf.useScreenMenuBar&lt;/key&gt;&lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>           &lt;string&gt;true&lt;/string&gt;&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180345Z">
+        <seg>           &lt;string&gt;true&lt;/string&gt;&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>           &lt;string&gt;true&lt;/string&gt;&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180349Z">
+        <seg>           &lt;string&gt;true&lt;/string&gt;&lt;br25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
