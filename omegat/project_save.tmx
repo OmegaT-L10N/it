@@ -2747,6 +2747,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../images/infix4.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140633Z">
+        <seg>../../images/infix4.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../images/xhtml.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
@@ -26461,8 +26469,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Infix has functions for dealing with this and other problems that are beyond the scope of this HowTo.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195549Z">
-        <seg>Infisso ha funzioni per affrontare questo e altri problemi che esulano dall'ambito di questo HowTo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140630Z">
+        <seg>Infix ha funzioni per affrontare questo e altri problemi che esulano dall'ambito di questa guida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57846,8 +57854,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may find that segments are broken by hard line breaks at inconvenient places.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195552Z">
-        <seg>Potete trovare che i segmenti sono rotto da interruzioni di linea dura in luoghi scomodi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140825Z">
+        <seg>Potete trovare che i segmenti sono interrotti da interruzioni di linea in posizioni scorrette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60043,6 +60051,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125344Z">
         <seg>infix3.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix4.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140644Z">
+        <seg>infix4.png</seg>
       </tuv>
     </tu>
     <tu>
