@@ -31837,8 +31837,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note: OmegaT's Infix filter maps the &lt;BR/&gt; of Infix to &lt;brx/&gt; tags.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195509Z">
-        <seg>Nota: Filtro infisso di OmegaT mappe il &lt;BR/&gt; dell'infisso a &lt;brx/&gt; tag.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134032Z">
+        <seg>Nota: il filtro Infix di OmegaT fa corrispondere i tag &lt;BR/&gt; di Infix a &lt;brx/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37454,8 +37454,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195458Z">
-        <seg>Ricaricare il vostro progetto OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133806Z">
+        <seg>Ricarica il progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52357,8 +52357,8 @@ script with ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>To use this filter, simply change the file extension of the XML file exported by Infix from .xml to .html.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195456Z">
-        <seg>Per utilizzare questo filtro, è sufficiente modificare l'estensione del file del file XML esportato da infisso da XML a HTML.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133749Z">
+        <seg>Per utilizzare questo filtro, è sufficiente modificare l'estensione del file del file XML esportato con Infix da XML a HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57337,8 +57337,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can now translate the text (see screenshot).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195502Z">
-        <seg>Ora è possibile tradurre il testo (vedi screenshot).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133822Z">
+        <seg>Ora è possibile tradurre il testo (vedi schermata).</seg>
       </tuv>
     </tu>
     <tu>
