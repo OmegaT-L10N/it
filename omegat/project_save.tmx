@@ -33807,8 +33807,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195722Z">
-        <seg>OmegaT verrà eseguito sull'implementazione OpenJDK Java fornita con alcune distribuzioni di Linux, ma alcune funzioni (ad esempio, l'insieme completo di opzioni della riga di comando) potrebbero non essere disponibili; può essere fornito un set di font diversi; e alcuni glitch sono stati segnalati, come con la finestra di visualizzazione e la funzione di segmentazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175134Z">
+        <seg>OmegaT adesso funziona sull'implementazione OpenJDK Java fornita con alcune distribuzioni di Linux, ma alcune funzioni (ad esempio, l'insieme completo di opzioni della riga di comando) potrebbero non essere disponibili; può essere fornito un corredo di tipi di carattere diversi; e sono stati segnalati alcuni problemini, come quelli con la finestra di visualizzazione e con la funzione di segmentazione.</seg>
       </tuv>
     </tu>
     <tu>
