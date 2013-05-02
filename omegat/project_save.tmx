@@ -3849,6 +3849,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;http://datamarket.azure.com/&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180228Z">
+        <seg>&lt;a1&gt;http://datamarket.azure.com/&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;po4a official page&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T181252Z">
@@ -4093,6 +4101,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193209Z">
         <seg>&lt;b2&gt;&lt;Invio&gt;&lt;/b2&gt;&lt;segmento 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180218Z">
+        <seg>&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11855,8 +11871,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As an open-source application, OmegaT has been included by many Linux distributions in their repositories, so you may be able to install it by this route.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195830Z">
-        <seg>Come un'applicazione open-source, OmegaT è stato incluso da molte distribuzioni Linux nei loro archivi, così si può essere in grado di installarlo da questo itinerario.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180138Z">
+        <seg>Come applicazione open-source, OmegaT è stato incluso da molte distribuzioni Linux nei loro archivi, così si può essere in grado di installarlo per quella strada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12175,8 +12191,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>At the time of writing, OmegaT will run much better with the Oracle version of Java (see above).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195838Z">
-        <seg>Al momento della scrittura, OmegaT funzionerà molto meglio con la versione di Oracle di Java (vedi sopra).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180204Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;Al momento della scrittura, OmegaT funzionerà molto meglio con la versione di Oracle di Java (vedi sopra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36395,6 +36411,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Primary Account Key&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180229Z">
+        <seg>Primary Account Key&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Principles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202056Z">
@@ -39982,8 +40006,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195829Z">
-        <seg>Selezionare una versione senza o con JRE dipendendo dalla vostra situazione di Java (vedi sopra).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180006Z">
+        <seg>Selezionare una versione senza o con JRE in base alla vostra situazione di Java (vedi sopra).</seg>
       </tuv>
     </tu>
     <tu>
