@@ -23950,8 +23950,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether your Java version is suitable, you can:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195724Z">
-        <seg>Se non siete sicuri se la tua versione di Java è adatta, è possibile:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175333Z">
+        <seg>Se non siete sicuri che la vostra versione di Java sia adatta, è possibile:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24553,8 +24553,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you obtain the Oracle version of Java directly from Oracle, installation is likely to be straightforward, but you will have to configure it manually in order to make it the default version at system level.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195745Z">
-        <seg>Se si ottiene la versione di Oracle di Java direttamente da Oracle, l'installazione è probabile che sia semplice, ma dovrete configurarlo manualmente al fine di rendere la versione predefinita a livello di sistema.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175559Z">
+        <seg>Se si ottiene la versione di Oracle di Java direttamente da Oracle, l'installazione è probabile che sia semplice, ma dovrete configurarla manualmente al fine di renderla versione predefinita a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26741,8 +26741,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195731Z">
-        <seg>Installare una seconda versione di Java a livello di sistema non predefinito e lanciare OmegaT in modo esplicito utilizzando questa versione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175530Z">
+        <seg>Installate una seconda versione di Java a livello di sistema non predefinito e lanciate OmegaT in modo esplicito utilizzando questa versione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40790,8 +40790,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Simply install an OmegaT version without Java and see whether it works.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195726Z">
-        <seg>Basta installare una versione di OmegaT senza Java e vedere se funziona.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175358Z">
+        <seg>semplicemente installare una versione di OmegaT senza Java e vedere se funziona.</seg>
       </tuv>
     </tu>
     <tu>
