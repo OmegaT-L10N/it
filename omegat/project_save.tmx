@@ -48709,8 +48709,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195542Z">
-        <seg>C'è una forte possibilità che in alcuni punti, la traduzione sarà più lungo rispetto all'originale.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140433Z">
+        <seg>C'è una forte possibilità che in alcuni punti, la traduzione sarà più lunga rispetto all'originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50572,8 +50572,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This needs to be dealt with in Infix, for example by enlarging the box containing the text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195543Z">
-        <seg>Questo deve essere affrontato in infissa, ad esempio ampliando la casella contenente il testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140508Z">
+        <seg>Questo deve essere affrontato in Infix, ad esempio ampliando la casella contenente il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57393,8 +57393,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195540Z">
-        <seg>Presumibilmente può risolvere il problema di come ottenere e installare i font necessari; oppure è possibile selezionare un carattere diverso per questo scopo – che può essere o non essere una soluzione adeguata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140356Z">
+        <seg>Presumibilmente si può risolvere il problema ottenendo e installando i tipi di carattere necessari; oppure è possibile selezionare un carattere diverso per questo scopo – soluzione che può essere adeguata o meno.</seg>
       </tuv>
     </tu>
     <tu>
