@@ -2771,6 +2771,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../images/kaptain.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210731Z">
+        <seg>../../images/kaptain.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../images/xhtml.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
@@ -20699,8 +20707,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the kaptain script to work, however, you must first install kaptain.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195913Z">
-        <seg>Per lo script di kaptain al lavoro, tuttavia, è necessario innanzitutto installare kaptain.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210728Z">
+        <seg>Perché lo script di kaptain lavori, tuttavia, è necessario innanzitutto installare kaptain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32885,8 +32893,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT does not have to be launched from the command line, but doing so may be useful as it provides debugging information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195933Z">
-        <seg>OmegaT non deve essere lanciato da riga di comando, ma facendo così può essere utile come fornisce informazioni di debug.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210937Z">
+        <seg>OmegaT non deve essere necessariamente lanciato da riga di comando, ma facendo così può essere utile in quanto fornisce informazioni di debug.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46134,8 +46142,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The installation script provides added convenience, but you can still install OmegaT on Linux manually if you prefer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195925Z">
-        <seg>Lo script di installazione fornisce maggiore praticità, ma puoi ancora installare OmegaT su Linux manualmente se si preferisce.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210830Z">
+        <seg>Lo script di installazione fornisce maggiore praticità, ma si può comunque installare OmegaT su Linux manualmente se si preferisce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46191,8 +46199,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The launch scripts will not be written to your execution path in this case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195929Z">
-        <seg>Gli script di avvio non verranno scritta per il vostro percorso di esecuzione in questo caso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210853Z">
+        <seg>Gli script di avvio non verranno scritti per il vostro percorso di esecuzione in questo caso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57308,6 +57316,14 @@ to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can customize the kaptain launch script so that your preferences are the defaults; simply edit the omegat.kaptn file in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210655Z">
+        <seg>È possibile personalizzare lo script di lancio kaptain così che le preferenze siano le impostazioni predefinite; è sufficiente modificare il file omegat.kaptn in un editor di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can decide not to check at all, check for simple printf variables (like %s %d etc) or for print variables of all types.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T183302Z">
@@ -61051,6 +61067,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205029Z">
         <seg>politica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>preview_ss.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210735Z">
+        <seg>preview_ss.png</seg>
       </tuv>
     </tu>
     <tu>
