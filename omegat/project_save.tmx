@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11893,6 +11893,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T135109Z">
+        <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, it is an XML-based format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T184055Z">
@@ -15241,6 +15249,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122333Z">
         <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T135434Z">
+        <seg>Copyright Marc Prior 2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -22478,8 +22494,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125322Z">
-        <seg>Iceni Infix consente inoltre di salvare i file PDF in formato RTF, ma in questo caso la versione di dimostrazione davvero è adatta solo a scopo dimostrativo, dato che contiene sostituzioni casuali di caratteri.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T135100Z">
+        <seg>Iceni Infix consente inoltre di salvare i file PDF in formato RTF, ma in questo caso la versione di dimostrazione è proprio soltanto adatta a scopo dimostrativo, dato che contiene sostituzioni casuali di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
