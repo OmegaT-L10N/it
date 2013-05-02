@@ -2723,6 +2723,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../images/infix1.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133416Z">
+        <seg>../../images/infix1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../images/infix2.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124840Z">
@@ -3811,8 +3819,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a1&gt;Specific information on running Iceni Infix on Crossover Linux or Crossover Macintosh&lt;/a1&gt; is also available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203532Z">
-        <seg>&lt;a1&gt;Informazioni specifiche sull'esecuzione di Iceni Infix sul Crossover Linux o Macintosh Crossover&lt;/a1&gt; sono inoltre disponibili.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133155Z">
+        <seg>Sono inoltre disponibili &lt;a1&gt;Informazioni specifiche sull'esecuzione di Iceni Infix sul Crossover Linux o Macintosh Crossover&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9406,8 +9414,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A demonstration version is available; at the time of writing, the full version costs around US$150.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195418Z">
-        <seg>Una versione dimostrativa è disponibile; al momento della scrittura, la versione completa costa circa US$ 150.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133311Z">
+        <seg>È disponibile una versione dimostrativa; al momento della scrittura, la versione completa costa circa US$ 150.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23910,8 +23918,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203702Z">
-        <seg>Se si utilizza Linux o Macintosh, ottenere e installare la versione Crossover pertinente prima di installare Iceni Infix Professional.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133355Z">
+        <seg>Se si utilizza Linux o Macintosh, ottenere e installare la relativa versione Crossover prima di installare Iceni Infix Professional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59515,6 +59523,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124027Z">
         <seg>http://code.google.com/apis/language/translate/v2/pricing.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ec.europa.eu/enterprise/policies/sme/files/sme_definition/sme_user_guide_hu.pdf</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133401Z">
+        <seg>http://ec.europa.eu/enterprise/policies/sme/files/sme_definition/sme_user_guide_hu.pdf</seg>
       </tuv>
     </tu>
     <tu>
