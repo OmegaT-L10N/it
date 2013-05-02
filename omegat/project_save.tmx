@@ -23950,8 +23950,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are using an earlier version of OmegaT, upgrading your OmegaT installation is recommended.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124747Z">
-        <seg>Se si utilizza una versione precedente di OmegaT, è raccomandato aggiornare l'installazione di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133656Z">
+        <seg>Se si utilizza una versione precedente di OmegaT, si raccomanda di aggiornare l'installazione di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50104,8 +50104,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124704Z">
-        <seg>Importante: quando si esporta il file XML da file PDF, Infix produce una nota nel file a cui appartengono tutti i pezzi di testo ("storie"), quindi è necessario utilizzare questa versione del file quando si  reimporta il file XML tradotto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133622Z">
+        <seg>Importante: quando si esporta da file PDF in file XML, Infix produce una nota nel file a cui appartengono tutti i pezzi di testo ("storie"), quindi è necessario utilizzare questa versione del file quando si  reimporta il file XML tradotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60003,6 +60003,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T115722Z">
         <seg>voci di indici, segnalibri, collegamenti a segnalibri, note, commenti, note di presentazione, collegamenti (URL), nomi dei fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix1.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133440Z">
+        <seg>infix1.png</seg>
       </tuv>
     </tu>
     <tu>
