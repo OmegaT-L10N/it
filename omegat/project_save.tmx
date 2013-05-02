@@ -5483,8 +5483,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;i0&gt;If you changed the file extension to .html, change the extension of the translated file back to .xml.&lt;/i0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195516Z">
-        <seg>&lt;i0&gt;Se cambiato l'estensione del file. html, modificare l'estensione del file tradotto torna a XML.&lt;/i0&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134612Z">
+        <seg>&lt;i0&gt;Se si è cambiata l'estensione del file in .html, modificare l'estensione del file tradotto a ritroso a XML.&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10294,8 +10294,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After completing your translation, create the translated document in the usual way (Ctrl+S, Ctrl+D).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195513Z">
-        <seg>Dopo aver completato la vostra traduzione, creare il documento tradotto nel modo consueto (Ctrl + S, Ctrl + D).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134502Z">
+        <seg>Dopo aver completato la vostra traduzione, create il documento tradotto nel modo consueto (Ctrl+S, Ctrl+D).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49728,8 +49728,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This enables the HTML segmentation rule to be used to choose whether or not segmentation should occur at these points.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195512Z">
-        <seg>In questo modo la regola di segmentazione HTML deve essere utilizzata per scegliere o meno segmentazione dovrebbe verificarsi in questi punti.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134425Z">
+        <seg>Ciò consente alla regola di segmentazione HTML di scegliere se effettuare o meno la segmentazione che dovrebbe verificarsi in questi punti.</seg>
       </tuv>
     </tu>
     <tu>
