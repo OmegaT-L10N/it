@@ -2715,6 +2715,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../config/howto_wide.css</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142102Z">
+        <seg>../../config/howto_wide.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../images/css.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122336Z">
@@ -22500,6 +22508,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Iceni Infix</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142105Z">
+        <seg>Iceni Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T135100Z">
@@ -26157,8 +26173,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In these cases, it is practical to remove them before exporting the file to XML, so that you are presented with cohesive segments for translation, and then to re-insert them in Infix at the end of the process.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195621Z">
-        <seg>In questi casi, è pratico per rimuoverli prima di esportare il file XML, che si sono presentati con segmenti coesive per la traduzione e poi reinserirle in infisso alla fine del processo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142007Z">
+        <seg>In questi casi, è pratico rimuoverle prima di esportare il file in XML, per presentarsi alla traduzione con segmenti coesi e poi reinserirle in Infix alla fine del processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27900,6 +27916,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212637Z">
         <seg>Giapponese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142135Z">
+        <seg>Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -59795,6 +59819,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094527Z">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.iceni.com/infix.htm</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142055Z">
+        <seg>http://www.iceni.com/infix.htm</seg>
       </tuv>
     </tu>
     <tu>
