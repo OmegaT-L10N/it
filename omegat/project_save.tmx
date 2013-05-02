@@ -1471,8 +1471,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(See screenshot: only the first three segments have been translated.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195523Z">
-        <seg>(Vedi screenshot: solo i primi tre segmenti tradotti.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134911Z">
+        <seg>(Vedi schermata: solo con i primi tre segmenti tradotti.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10558,8 +10558,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>All being well, your translation will come out looking like the original, but translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125048Z">
-        <seg>Tutto bene, la traduzione verrà fuori all'apparenza come l'originale, ma tradotta.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134839Z">
+        <seg>Se tutto andrà bene, la traduzione verrà fuori all'aspetto come l'originale, ma tradotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12384,8 +12384,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195518Z">
-        <seg>Torna in Iceni Infisso, importare il file XML tradotto nuovamente dentro &lt;i0&gt;il PDF da cui l'esportato&lt;/i0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134802Z">
+        <seg>Tornare in Iceni Infix, importare il file XML tradotto nuovamente nel &lt;i0&gt; PDF da cui era stato esportato&lt;/i0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20619,8 +20619,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For translations intended "for information", this may not be a problem.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125231Z">
-        <seg>Per le traduzioni destinate "per informazioni", questo può non essere un problema.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134955Z">
+        <seg>Per le traduzioni di tipo informativo, questo può non essere un problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31501,8 +31501,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that if you use the demonstration version of Iceni Infix in this procedure, your translated PDF file will bear an Iceni watermark.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125157Z">
-        <seg>Notare che se si utilizza la versione di dimostrazione di Iceni Infix in questa procedura, il vostro file PDF tradotto sopporterà una filigrana Iceni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134934Z">
+        <seg>Notare che se si utilizza la versione di dimostrazione di Iceni Infix in questa procedura, il vostro file PDF tradotto subirà una filigrana Iceni.</seg>
       </tuv>
     </tu>
     <tu>
