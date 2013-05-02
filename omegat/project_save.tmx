@@ -12295,8 +12295,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>At the time of writing, OmegaT will run much better with the Oracle version of Java (see above).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180204Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;Al momento della scrittura, OmegaT funzionerà molto meglio con la versione di Oracle di Java (vedi sopra).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T205859Z">
+        <seg>Al momento della scrittura, OmegaT funzionerà molto meglio con la versione di Oracle di Java (vedi sopra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53622,8 +53622,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200145Z">
-        <seg>Disinstallazione di OmegaT non rimuoverà tutti i progetti di OmegaT dal sistema, a meno che non avete posto tali progetti all'interno del programma di OmegaT o cartelle, che non sono una buona posizione per loro in ogni caso i file di configurazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T205823Z">
+        <seg>La disinstallazione di OmegaT non rimuoverà i progetti di OmegaT dal sistema, a meno che non avete posto tali progetti all'interno delle cartelle del programma o dei file di configurazione di OmegaT, che non sono una buona posizione per i progetti, in ogni caso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59787,6 +59787,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122104Z">
         <seg>http://jigsaw.w3.org/css-validator/check/referer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://kaptain.sourceforge.net</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210001Z">
+        <seg>http://kaptain.sourceforge.net</seg>
       </tuv>
     </tu>
     <tu>
