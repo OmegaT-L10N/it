@@ -22638,8 +22638,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>If Java is already installed on your system (which is probably the case) and you plan to use this existing, system-wide Java installation in conjunction with OmegaT, first check that it is suitable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195651Z">
-        <seg>Se Java è già installato sul vostro sistema (che probabilmente è il caso) e si prevede di utilizzare l'installazione di Java esistente, a livello di sistema in combinazione con OmegaT, controlla prima che è adatto.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142542Z">
+        <seg>Se Java è già installato sul vostro sistema (come probabile) e si prevede di utilizzare l'installazione di Java esistente, a livello di sistema in combinazione con OmegaT, controllare prima che sia idoneo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35041,8 +35041,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Oracle (formerly Sun) Java versions: check the system requirements in the OmegaT documentation (readme.txt) for the precise Oracle Java version required (i.e. whether your version of Java is sufficiently recent).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195714Z">
-        <seg>Versioni Java Oracle (precedentemente Sun): verificare i requisiti di sistema nella documentazione di OmegaT (Readme. txt) per la versione Java di Oracle precisa richiesta (cioè se la versione di Java è sufficientemente recente).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142709Z">
+        <seg>Versioni Java di Oracle (precedentemente Sun): verificare i requisiti di sistema nella documentazione di OmegaT (Readme.txt) per la versione Java di Oracle richiesta (cioè se la versione di Java è sufficientemente recente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47787,8 +47787,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The system will output details of the Java version already installed at system level.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195712Z">
-        <seg>Il sistema visualizzerà i dettagli della versione Java già installato a livello di sistema.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142611Z">
+        <seg>Il sistema visualizzerà i dettagli della versione Java già installata a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
