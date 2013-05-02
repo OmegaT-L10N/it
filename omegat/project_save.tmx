@@ -2333,8 +2333,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- The content of the segment source text, when the segment is opened&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200357Z">
-        <seg>-Il contenuto del testo sorgente segmento, quando il segmento è aperto &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211648Z">
+        <seg>- Il contenuto del segmento del testo sorgente, quando il segmento è aperto &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2783,6 +2783,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
         <seg>../../images/xhtml.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../../omegatk/te-scripts.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211431Z">
+        <seg>../../omegatk/te-scripts.zip</seg>
       </tuv>
     </tu>
     <tu>
@@ -48147,8 +48155,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The text export function exports data from within the current OmegaT project to plain-text files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200354Z">
-        <seg>La funzione di esportazione di testo Esporta dati all'interno del progetto corrente di OmegaT per file di testo normale.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211609Z">
+        <seg>La funzione di esportazione testo esporta dati dall'interno del progetto corrente di OmegaT in file di testo normale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49551,8 +49559,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This HOWTO describes the function and possible uses for it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200348Z">
-        <seg>Questo HOWTO descrive le funzioni e possibili usi per esso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211519Z">
+        <seg>Questa guida descrive le funzioni e possibili usi per essa.</seg>
       </tuv>
     </tu>
     <tu>
