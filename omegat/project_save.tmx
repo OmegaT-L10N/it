@@ -44001,8 +44001,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195854Z">
-        <seg>La versione Linux di OmegaT è ora fornita con il proprio script di installazione, linux-install. sh.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210515Z">
+        <seg>La versione Linux di OmegaT è ora fornita con il proprio script di installazione, linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49447,8 +49447,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They will however always access the same user configuration files (unless launched from a different user account).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195847Z">
-        <seg>Si accederà comunque sempre gli stessi file di configurazione utente (a meno che lanciato da un account utente diverso).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210410Z">
+        <seg>Si accederà comunque sempre agli stessi file di configurazione utente (a meno che il programma non sia lanciato da un account utente diverso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57408,8 +57408,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can for example use it to select the user interface language, assign more memory to OmegaT, or enter a Google Translate password.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195910Z">
-        <seg>È possibile ad esempio utilizzare per selezionare la lingua dell'interfaccia utente, assegnare più memoria di OmegaT o inserire una password di Google Translate.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210534Z">
+        <seg>È possibile ad esempio utilizzare per selezionare la lingua dell'interfaccia utente, assegnare più memoria a OmegaT o inserire una password di Google Translate.</seg>
       </tuv>
     </tu>
     <tu>
