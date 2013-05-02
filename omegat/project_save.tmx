@@ -24070,8 +24070,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200008Z">
-        <seg>Se si fa affidamento su o che desiderano utilizzare un'installazione di Java non è installata a livello di sistema, questo non sarà sufficiente: deve anche istruire il tuo sistema dove trovare Java.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211049Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;Se si fa affidamento su o che desiderano utilizzare un'installazione di Java non è installata a livello di sistema, questo non sarà sufficiente: deve anche istruire il tuo sistema dove trovare Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52079,8 +52079,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To launch from the command line, open a terminal window (root permissions are not needed).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195934Z">
-        <seg>Per lanciare da riga di comando, aprire una finestra terminale (radice non sono necessarie autorizzazioni).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211014Z">
+        <seg>Per lanciare da riga di comando, aprire una finestra terminale (non sono necessarie autorizzazioni di root).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58915,6 +58915,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T132841Z">
         <seg>maiuscole/minuscole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211036Z">
+        <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
       </tuv>
     </tu>
     <tu>
