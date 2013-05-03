@@ -62,6 +62,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"HELPANDMANUAL" with "TMX"&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120912Z">
+        <seg>"HELPANDMANUAL" con "TMX"&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Help &amp; Manual" with "TMX"&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120924Z">
+        <seg>"Help &amp; Manual" con "TMX"&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Help&amp;Manual" with "TMX"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120930Z">
+        <seg>"Help&amp;Manual" con "TMX"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"HelpAndManual" with "TMX"&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120906Z">
+        <seg>"HelpAndManual" con "TMX"&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Levelling" the formatting means applying the format of the first character in a selection of text (such as a whole paragraph) to all subsequent characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171231Z">
@@ -144,8 +176,8 @@
       <tuv lang="EN">
         <seg>"helpandmanual" with "tmx"&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T115304Z">
-        <seg>"helpandmanual" with "tmx"&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120900Z">
+        <seg>"helpandmanual" con "tmx"&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22806,8 +22838,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Identify the paragraph-level tag(s) for your new file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201158Z">
-        <seg>Identificare il livello di paragrafo Tag (s) per il nuovo formato di file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120938Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;Identificare il livello di paragrafo Tag (s) per il nuovo formato di file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25564,8 +25596,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In both files, search for (matching the case) and replace:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201153Z">
-        <seg>In entrambi i file, cercare (nel caso di corrispondenza) e sostituire:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120852Z">
+        <seg>In entrambi i file, cercate (abbinando maiuscole e minuscole) e sostituire:</seg>
       </tuv>
     </tu>
     <tu>
