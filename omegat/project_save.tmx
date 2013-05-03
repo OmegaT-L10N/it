@@ -44804,8 +44804,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The automatic refresh function is built in.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202134Z">
-        <seg>La funzione di aggiornamento automatico è costruita.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T150045Z">
+        <seg>La funzione di aggiornamento automatico è inclusa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56617,8 +56617,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202116Z">
-        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; maggior parte degli utenti Linux avrà già installato, o può essere installato tramite repository loro distribuzioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145957Z">
+        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; la maggior parte degli utenti Linux l'avrà già installato, o può essere installato tramite gli archivi delle loro distribuzioni.</seg>
       </tuv>
     </tu>
     <tu>
