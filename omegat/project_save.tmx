@@ -55767,8 +55767,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When actuated, this launches your browser with a dummy page instructing you to set the automatic refresh function, which you should then do, and then to hit Ctrl+s, Ctrl+d in OmegaT to launch automatic updating of the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202556Z">
-        <seg>Quando azionato, questo lancia il tuo browser con una pagina di dummy istruire è possibile impostare la funzione di aggiornamento automatico, che poi si dovrebbe fare, e quindi premere Ctrl + s, Ctrl + d in OmegaT per avviare l'aggiornamento automatico del browser.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225957Z">
+        <seg>Quando azionato, questo lancia il tuo browser con una pagina di vuota istruendo che è possibile impostare la funzione di aggiornamento automatico, che poi si dovrete fare, e quindi premere Ctrl+s, Ctrl+d in OmegaT per avviare l'aggiornamento automatico del browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56143,8 +56143,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When you have selected all of these, the Start button appears.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202529Z">
-        <seg>Dopo aver selezionato tutti i questi, viene visualizzato il pulsante di Start.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225841Z">
+        <seg>Dopo aver selezionato tutti queste cose, viene visualizzato il pulsante di Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60713,8 +60713,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>interrupt and restart it;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202534Z">
-        <seg>interrompere e riavviare</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230020Z">
+        <seg>interromperlo e riavviarlo</seg>
       </tuv>
     </tu>
     <tu>
@@ -61921,8 +61921,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>select a new file (if you are working in a project containing several files, you do not have to relaunch Priorview when you reach the end of one file; you can simply select the next);</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202537Z">
-        <seg>selezionare un nuovo file (se lavora in un progetto contenente diversi file, non devi rilanciare Priorview quando si raggiunge la fine di un file si può semplicemente selezionare il successivo);</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230045Z">
+        <seg>selezionare un nuovo file (se si lavora in un progetto contenente diversi file, non si deve rilanciare Priorview quando si raggiunge la fine di un file si può semplicemente selezionare il successivo);</seg>
       </tuv>
     </tu>
     <tu>
