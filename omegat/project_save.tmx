@@ -1495,8 +1495,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Other methods of closing Priorview will not delete the temporary files.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202548Z">
-        <seg>(Altri metodi di chiusura Priorview non eliminerà i file temporanei.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230305Z">
+        <seg>(Altri metodi di chiusura di Priorview non elimineranno i file temporanei.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9597,8 +9597,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202604Z">
-        <seg>Un Commissione europea comunicato stampa (in formato ODT) in OmegaT e sotto di esso il testo di destinazione istantanea visualizzata in Opera.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230423Z">
+        <seg>Un comunicato stampa della Commissione europea (in formato .odt) in OmegaT e sotto di esso il testo di destinazione istantanea visualizzato in Opera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34623,8 +34623,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202540Z">
-        <seg>Una volta Priorview è stato lanciato, tuttavia, non potete selezionare un browser diverso o un utilità di conversione; Queste opzioni sono quindi nascosti dopo il lancio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230141Z">
+        <seg>Una volta che Priorview è stato lanciato, tuttavia, non potete selezionare un browser o un utilità di conversione  diversi; Queste opzioni sono quindi nascoste dopo il lancio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44481,8 +44481,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202543Z">
-        <seg>Il pulsante Esci chiude Priorview ed elimina anche i file temporanei che crea.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230235Z">
+        <seg>Il pulsante Esci chiude Priorview ed elimina anche i file temporanei creati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52600,8 +52600,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To select a different browser or conversion utility, you must close Priorview and relaunch it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202542Z">
-        <seg>Per selezionare un browser diverso o un utility di conversione, è necessario chiudere Priorview e rilanciare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230215Z">
+        <seg>Per selezionare un browser o un utility di conversione diversi, è necessario chiudere Priorview e rilanciarlo.</seg>
       </tuv>
     </tu>
     <tu>
