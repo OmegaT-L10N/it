@@ -51276,8 +51276,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200137Z">
-        <seg>Questo si tradurrà nella eliminazione di eventuali impostazioni di configurazione utente che sono state fatte (ad esempio, modifiche alle regole di segmentazione) e – se la cartella viene eliminata "correttamente", cioè non semplicemente spostato nel cestino, non può essere ripristinato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082424Z">
+        <seg>Questo si tradurrà nella eliminazione di eventuali impostazioni di configurazione utente che sono state fatte (ad esempio, modifiche alle regole di segmentazione) e – se la cartella viene eliminata "correttamente", cioè non semplicemente spostata nel cestino, non può essere ripristinata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53694,8 +53694,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T205823Z">
-        <seg>La disinstallazione di OmegaT non rimuoverà i progetti di OmegaT dal sistema, a meno che non avete posto tali progetti all'interno delle cartelle del programma o dei file di configurazione di OmegaT, che non sono una buona posizione per i progetti, in ogni caso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082536Z">
+        <seg>La disinstallazione di OmegaT non rimuoverà i progetti di OmegaT dal sistema, a meno che non abbiate posto tali progetti all'interno delle cartelle del programma o dei file di configurazione di OmegaT, queste non sono mai una buona posizione per i progetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60539,6 +60539,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201852Z">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;nome_file&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082556Z">
+        <seg>java -version</seg>
       </tuv>
     </tu>
     <tu>
