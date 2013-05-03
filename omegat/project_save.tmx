@@ -11191,8 +11191,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201123Z">
-        <seg>Anche se può sembrare strano a voler tradurre file TMX (il motivo usuale per la creazione di un filtro di file), l'aggiunta di un filtro TMX ha un interessante effetto che ti permette di file TMX in qualsiasi posizione di essere cercato all'interno di qualsiasi progetto OmegaT utilizzando la funzione "Ricerca file", qualcosa di non possibile nella build standard di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120229Z">
+        <seg>Anche se può sembrare strano voler tradurre (il motivo usuale per la creazione di un filtro di file) file TMX, l'aggiunta di un filtro TMX ha un interessante effetto che permette a file TMX di essere cercato in qualsiasi posizione, all'interno di qualsiasi progetto OmegaT, utilizzando la funzione "Ricerca file", qualcosa di impossibile nella compilazione standard di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
