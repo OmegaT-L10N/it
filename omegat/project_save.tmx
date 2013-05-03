@@ -40574,8 +40574,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202903Z">
-        <seg>Selezionando Visualizza &gt; Mark Non univoci segmenti provoca solo la prima istanza di un segmento non univoco per essere visualizzati in nero e la seconda e successive istanze per essere visualizzata in grigio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T130508Z">
+        <seg>Selezionando Vista &gt; Evidenzia i segmenti non unici, provoca che solo la prima istanza di un segmento non unico sia visualizzati in grassetto e le successive istanze in grigio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50772,8 +50772,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202909Z">
-        <seg>Questo è utile quando si è verificata una traduzione, dal momento che solo la prima istanza di segmenti identici può essere necessario controllare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T130633Z">
+        <seg>Questo è utile per verificare una traduzione, dal momento che può bastare controllare solo la prima istanza di segmenti identici.</seg>
       </tuv>
     </tu>
     <tu>
