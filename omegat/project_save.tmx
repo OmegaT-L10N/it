@@ -1370,8 +1370,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202429Z">
-        <seg>(Scaricare dal link fornito; Gli utenti Linux possono preferiscono installare dai repository della loro distribuzione, dove questo è possibile)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225145Z">
+        <seg>(Scaricare dal link fornito; Gli utenti Linux possono preferiscono installare dagli archivi della loro distribuzione, dove questo è possibile)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3603,8 +3603,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202424Z">
-        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; insieme &lt;a1&gt;"ReloadEvery" Add-on per Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225023Z">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; insieme &lt;a1&gt;a "ReloadEvery" Add-on per Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4067,8 +4067,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;A browser&lt;/b0&gt;, specifically either:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202416Z">
-        <seg>&lt;b0&gt;Un browser&lt;/b0&gt;, sia in particolare:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225011Z">
+        <seg>&lt;b0&gt;Un browser&lt;/b0&gt;, in particolare sia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27101,8 +27101,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Install Firefox first (if you do not already have it installed), then ReloadEvery.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202426Z">
-        <seg>Installare Firefox prima (se non hai già installato), poi ReloadEvery.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225043Z">
+        <seg>Installare Firefox prima (se non è già installato), poi ReloadEvery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44273,8 +44273,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Mac OSX version is not yet documented and the information below does &lt;b3&gt;not&lt;/b3&gt; apply to it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202358Z">
-        <seg>La versione Mac OSX non è ancora documentata e fa le seguenti informazioni &lt;b3&gt;non&lt;/b3&gt; si applicano ad esso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224912Z">
+        <seg>La versione Mac OSX non è ancora documentata e le seguenti informazioni &lt;b3&gt;non&lt;/b3&gt; si applicano ad essa.</seg>
       </tuv>
     </tu>
     <tu>
