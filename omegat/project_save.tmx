@@ -25852,8 +25852,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In each case, &lt;i0&gt;file&lt;/i0&gt; is the name of a .docx or .odt file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202646Z">
-        <seg>In ogni caso, il &lt;i0&gt;file&lt;/i0&gt; è il nome di un file con estensione docx o ODT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230956Z">
+        <seg>In ogni caso, il &lt;i0&gt;file&lt;/i0&gt; è il nome di un file con estensione .docx o .odt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43624,8 +43624,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>That the file conversion utility is installed properly and is working.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202642Z">
-        <seg>Che l'utilità di conversione di file è installato correttamente e sta lavorando.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230859Z">
+        <seg>Che l'utilità di conversione di file sia installata correttamente e stia lavorando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43640,8 +43640,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202639Z">
-        <seg>Che si sono ricordando di premere Ctrl + s, Ctrl + d in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230748Z">
+        <seg>Che ci si sia ricordato di premere Ctrl+s, Ctrl+d in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54162,8 +54162,8 @@ alla riga {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Until/unless you do, there will be no changes to detect/display!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202641Z">
-        <seg>Fino a quando / se non si fa, non ci sarà alcuna modifica per rilevare/display!</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230831Z">
+        <seg>Fino a quando non si fa, non ci sarà alcuna modifica per rilevare/mostrare!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58875,6 +58875,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163139Z">
         <seg>a, b o c (classe semplice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>abiword --to=html &lt;i3&gt;file&lt;/i3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T231021Z">
+        <seg>abiword --to=html &lt;i3&gt;file&lt;/i3&gt;&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
