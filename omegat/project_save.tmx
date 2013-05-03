@@ -11295,8 +11295,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Although this has many advantages, it can be very useful for the translator to be able to see the ultimate layout and formatting whilst translating.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202048Z">
-        <seg>Anche se questo ha molti vantaggi, possono essere molto utile per il traduttore essere in grado di vedere l'ultimo layout e la formattazione mentre tradurre.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145259Z">
+        <seg>Anche se questo ha molti vantaggi, può essere molto utile per il traduttore essere in grado di vedere l'impaginazione e la formattazione finale mentre traduce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20931,8 +20931,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For this reason, many CAT tools provide a preview function that shows the layout and formatting without the translator having to create the final document and open it in a separate application (usually a word processor).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202051Z">
-        <seg>Per questo motivo, molti strumenti CAT forniscono una funzione di anteprima che mostra il layout e la formattazione senza il traduttore dover creare il documento finale e aprirlo in un'applicazione separata (solitamente un word processor).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145431Z">
+        <seg>Per questo motivo, molti strumenti CAT forniscono una funzione di anteprima che mostra l'impaginazione e la formattazione senza che il traduttore debba creare il documento finale e aprirlo in un'applicazione separata (come un word processor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33101,8 +33101,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202053Z">
-        <seg>OmegaT non hanno una funzione di anteprima integrale, ma è possibile fornire molto la stessa funzionalità utilizzando software aggiuntivi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145523Z">
+        <seg>OmegaT non hanno una funzione di anteprima integrale, ma è possibile fornire grosso modo la stessa funzionalità utilizzando software aggiuntivi.</seg>
       </tuv>
     </tu>
     <tu>
