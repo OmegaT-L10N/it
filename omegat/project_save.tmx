@@ -23047,8 +23047,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If Priorview fails to launch:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202619Z">
-        <seg>Se Priorview non riesce a lanciare:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230630Z">
+        <seg>Se Priorview non parte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23851,8 +23851,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the path to the location of priorview.tcl contains spaces, put it in quotes, e.g.:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202616Z">
-        <seg>Se il percorso del priorview.tcl contiene spazi, messo tra virgolette, ad esempio:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230557Z">
+        <seg>Se il percorso del priorview.tcl contiene spazi, mettetelo tra virgolette, ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35961,8 +35961,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Pay attention to lower/upper case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202631Z">
-        <seg>Prestare attenzione al caso inferiore/superiore.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230717Z">
+        <seg>Prestare attenzione a maiuscole e minuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46455,8 +46455,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The layout shown here is just for the sake of example; you can of course arrange the windows as you like.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202612Z">
-        <seg>Il layout mostrato qui è solo per il gusto nell'esempio; Naturalmente è possibile organizzare le finestre, come ti piace.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230536Z">
+        <seg>Il layout mostrato qui è solo per il gusto dell'esempio; Naturalmente è possibile disporre le finestre, a piacimento.</seg>
       </tuv>
     </tu>
     <tu>
