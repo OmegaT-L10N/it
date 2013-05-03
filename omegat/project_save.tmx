@@ -57470,8 +57470,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can define out-of-turn tags.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201844Z">
-        <seg>È possibile definire Tag out-of-turn.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123412Z">
+        <seg>È possibile definire i tag fuori testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58913,8 +58913,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>as it is irrelevant to TMX, although the new filter will still work if you do not.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201841Z">
-        <seg>come è irrilevante per TMX, anche se il nuovo filtro continuerà a funzionare se non lo fate.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123309Z">
+        <seg>in quanto è irrilevante per TMX, anche se il nuovo filtro continuerà a funzionare anche se non lo fate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59363,6 +59363,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123216Z">
         <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineShortcut("link", "li");</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123223Z">
+        <seg>defineShortcut("link", "li");</seg>
       </tuv>
     </tu>
     <tu>
