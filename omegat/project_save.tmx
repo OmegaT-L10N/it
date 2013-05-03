@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124120Z">
+        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># Language&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T114602Z">
@@ -1411,8 +1419,8 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
       <tuv lang="EN">
         <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201950Z">
-        <seg>(Se si desidera lanciare OmegaT con una lingua di interfaccia utente diversa dall'inglese, apportare la stessa modifica nel file bundle localizzato rilevante.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124146Z">
+        <seg>(Se si desidera lanciare OmegaT con una lingua di interfaccia utente diversa dall'inglese, apportare la stessa modifica nel file bundle localizzato interessato.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13778,8 +13786,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Change the file extension, in this case to .tmx, by changing the line:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201933Z">
-        <seg>Cambiare l'estensione del file, in questo caso di TMX, modificando la riga:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124029Z">
+        <seg>Cambiare l'estensione del file, in questo caso in .tmx, modificando la riga:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25485,6 +25493,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123102Z">
         <seg>In TMXDialect.java:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In TMXFilter.java:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124007Z">
+        <seg>In TMXFilter.java:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51300,8 +51316,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will make the display of the TMX files neater, but again, it is not absolutely essential.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201914Z">
-        <seg>Questo renderà la visualizzazione dei file TMX più ordinato, ma ancora una volta, non è assolutamente indispensabile.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123957Z">
+        <seg>Questo renderà l'aspetto dei file TMX più ordinato, ma ancora una volta, non è assolutamente indispensabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61295,6 +61311,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124033Z">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122450Z">
@@ -62321,8 +62345,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>to:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194419Z">
-        <seg>A:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124049Z">
+        <seg>in:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62859,6 +62883,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180558Z">
         <seg>   TMX_FILTER_NAME=TMX files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124058Z">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124039Z">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
       </tuv>
     </tu>
     <tu>
