@@ -24278,8 +24278,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are translating .html files, a convenient solution is to use a browser with an automatic refresh function to provide a ready-made preview function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145833Z">
-        <seg>Se si stanno traducendo i file .html, una comoda soluzione è utilizzare un browser con una funzione di aggiornamento automatico per fornire una funzione di anteprima già pronta.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222712Z">
+        <seg>Se si stanno traducendo i file .html, una comoda soluzione è quella di utilizzare un browser con una funzione di aggiornamento automatico per usufruire di una funzione di anteprima già disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35361,8 +35361,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Opera is available for all platforms; it is also very fast and requires low hardware resources.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202127Z">
-        <seg>Opera è disponibile per tutte le piattaforme; Inoltre è molto velocizza e richiede risorse hardware di basso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222904Z">
+        <seg>Opera è disponibile per tutte le piattaforme; Inoltre è molto veloce e richiede modeste risorse hardware.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51645,8 +51645,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="EN">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202122Z">
-        <seg>Per aggiungere una funzione di aggiornamento automatico di Firefox, &lt;a2&gt;installare il componente aggiuntivo "ReloadEvery"&lt;/a2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222756Z">
+        <seg>Per aggiungere la funzione di aggiornamento automatico di Firefox, &lt;a2&gt;installare il componente aggiuntivo "ReloadEvery"&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56625,8 +56625,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145957Z">
-        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; la maggior parte degli utenti Linux l'avrà già installato, o può essere installato tramite gli archivi delle loro distribuzioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222744Z">
+        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; la maggior parte degli utenti Linux l'avrà già installato, o possono installarlo tramite gli archivi delle loro distribuzioni.</seg>
       </tuv>
     </tu>
     <tu>
