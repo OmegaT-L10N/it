@@ -10198,8 +10198,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Abiword is a relatively small download and is very fast in use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202235Z">
-        <seg>AbiWord è un relativamente piccolo download ed è molto veloce nell'uso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223812Z">
+        <seg>AbiWord è un download relativamente piccolo ed è molto veloce nell'uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13130,8 +13130,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Both are free, available for a number of different platforms, and can convert .docx and .odt files to .html format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202230Z">
-        <seg>Entrambi sono gratis, disponibili per un numero di piattaforme differenti e può convertire i file docx e ODT in formato HTML.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223750Z">
+        <seg>Entrambi sono gratuiti, disponibili per un numero di piattaforme differenti e possono convertire i file .docx e .odt in formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35265,8 +35265,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Opening your translated target file in a browser is easy when your source file is in .html format, but translations more often involve word-processing files, which in OmegaT are usually handled in .docx or .odt format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202221Z">
-        <seg>Aprire il file di destinazione tradotte in un browser è facile quando il file di origine è in formato HTML, ma traduzioni coinvolgono più spesso file di elaborazione testi, che in OmegaT sono solitamente gestiti in formato docx o ODT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223611Z">
+        <seg>Aprire il file di destinazione tradotti in un browser è facile quando il file di origine è in formato HTML, ma le traduzioni coinvolgono più spesso file di elaborazione testi, che in OmegaT sono solitamente gestiti in formato .docx o .odt .</seg>
       </tuv>
     </tu>
     <tu>
@@ -57977,8 +57977,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can still use the browser solution described above to preview the translations of these files, but you will then also need a) a converter to convert the file to .html format, and b) a utility to launch the converter automatically so that you don't have to convert the files manually.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202224Z">
-        <seg>È comunque possibile utilizzare la soluzione di browser descritta sopra per visualizzare in anteprima le traduzioni di questi file, ma poi sarà necessario anche un) un convertitore per convertire il file in formato. html e b) un programma di utilità per lanciare automaticamente il convertitore così che non devi convertire i file manualmente.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223704Z">
+        <seg>È comunque possibile utilizzare la soluzione dei browser descritta sopra per visualizzare in anteprima le traduzioni di questi file, ma poi sarà necessario anche a) un convertitore per convertire il file in formato. html e b) un programma di utilità per lanciare automaticamente il convertitore così che non devi convertire i file manualmente.</seg>
       </tuv>
     </tu>
     <tu>
