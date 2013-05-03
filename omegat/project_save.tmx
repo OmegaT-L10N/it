@@ -34783,8 +34783,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once you have installed either Abiword or the LibreOffice+Uniconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202300Z">
-        <seg>Una volta che avete installato Abiword o la combinazione di LibreOffice + Uniconv, è possibile convertire i file di destinazione prodotti da OmegaT in formato html in ordine per poter essere letto dal browser.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224221Z">
+        <seg>Una volta che avete installato Abiword o la combinazione di LibreOffice + Uniconv, è possibile convertire i file di destinazione prodotti da OmegaT in formato html per poter leggere dal browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38022,8 +38022,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202303Z">
-        <seg>Ricordate che prima dovrete salvare in OmegaT e produrre i documenti tradotti, avviare l'utilità di conversione e quindi attendere che il display essere aggiornata nel browser.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224318Z">
+        <seg>Ricordate che prima dovrete salvare in OmegaT e produrre i documenti tradotti, avviare l'utilità di conversione e quindi attendere che la visualizzazione sia aggiornata nel browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49069,8 +49069,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There are numerous ways of achiving this, but one practical solution is to use a script which "listens" for changes in the translated file(s) produced by OmegaT and then, when a change is detected, automatically launches the utility which converts the file(s) to html format in order for them to be read by the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202306Z">
-        <seg>Ci sono molti modi di achiving questo, ma una soluzione pratica è quella di utilizzare uno script che "ascolta" per eventuali modifiche ai file tradotti prodotto da OmegaT e poi, quando viene rilevata una modifica, avvia automaticamente il programma di utilità che converte i file in formato html in ordine per poter essere letto dal browser.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224435Z">
+        <seg>Ci sono molti modi di realizzare questo, ma una soluzione pratica è quella di utilizzare uno script che "ascolta" per eventuali modifiche ai file tradotti prodotti da OmegaT e poi, quando viene rilevata una modifica, avvia automaticamente il programma di utilità che converte i file in formato html per poter essere letto dal browser.</seg>
       </tuv>
     </tu>
     <tu>
