@@ -3931,16 +3931,16 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a1&gt;Download Chrome from www.google.com/chrome&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202145Z">
-        <seg>&lt;a1&gt;Scarica Chrome da www.google.com/chrome&lt;/a1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223034Z">
+        <seg>&lt;a1&gt;Scaricare Chrome da www.google.com/chrome&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a1&gt;Download it from www.opera.com&lt;/a1&gt; (or for Linux users: through your distribution's repository).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202131Z">
-        <seg>&lt;a1&gt;Scaricalo da www.opera.com&lt;/a1&gt; (o per gli utenti Linux: tramite repository della vostra distribuzione).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222939Z">
+        <seg>&lt;a1&gt;Scaricalo da www.opera.com&lt;/a1&gt; (o per gli utenti Linux: tramite l'archivio della propria distribuzione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32389,8 +32389,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Now enable automatic refreshing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202158Z">
-        <seg>Ora attiva aggiornamento automatico.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223215Z">
+        <seg>Ora attivare l'aggiornamento automatico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44812,8 +44812,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The automatic refresh function is built in.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T150045Z">
-        <seg>La funzione di aggiornamento automatico è inclusa.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223010Z">
+        <seg>La funzione di aggiornamento automatico è integrata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58342,8 +58342,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may prefer &lt;i0&gt;not&lt;/i0&gt; to use your usual browser for the preview function so as to keep it free for Internet browsing rather than having constantly to switch tabs, so you can regard installing an additional browser for the preview function as an advantage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T150456Z">
-        <seg>È preferibile &lt;i0&gt;non&lt;/i0&gt; utilizzare il vostro browser abituale per la funzione di anteprima in modo da tenerlo libero per la navigazione Internet, piuttosto che dover continuamente saltare fra le schede, così si può considerare l'installazione di un browser supplementare per la funzione di anteprima come un vantaggio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223204Z">
+        <seg>È preferibile &lt;i0&gt;non&lt;/i0&gt; utilizzare il proprio browser abituale per la funzione di anteprima in modo da tenerlo libero per la navigazione Internet, piuttosto che dover continuamente saltare fra le schede, conviene considerare l'installazione di un browser supplementare riservato alla funzione di anteprima come un vantaggio.</seg>
       </tuv>
     </tu>
     <tu>
