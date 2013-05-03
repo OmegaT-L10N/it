@@ -4051,8 +4051,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125418Z">
-        <seg>&lt;b0&gt;&lt;a1&gt;Anteprima&lt;/a1&gt;&lt;/b0&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225202Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11094,8 +11094,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Almost any current version of Tcl/Tk will probably be suitable, but you must have both Tcl (the scripting interpreter) and Tk (the graphical component).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202449Z">
-        <seg>Quasi qualsiasi versione corrente di Tcl/Tk sarà probabilmente adatto, ma è necessario avere sia Tcl (l'interprete di script) e Tk (il componente grafico).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225158Z">
+        <seg>Quasi qualsiasi versione corrente di Tcl/Tk sarà probabilmente adatta, ma è necessario avere sia Tcl (l'interprete di script) e Tk (il componente grafico).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52190,8 +52190,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125425Z">
-        <seg>Per installare Anteprima, basta scompattare l'archivio zip in qualsiasi luogo adatto sul tuo disco rigido.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225228Z">
+        <seg>Per installare Priorview, basta scompattare l'archivio zip in qualsiasi luogo adatto sul tuo disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52311,8 +52311,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To launch Priorview, open a command prompt/terminal/console and type in:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125432Z">
-        <seg>Per il lancio di Anteprima, aprire una prompt dei comandi, il terminale e la console e digitare:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225258Z">
+        <seg>Per il lancio di Priorview, aprire una prompt dei comandi, il terminale e la console e digitare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55019,8 +55019,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using Priorview</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202517Z">
-        <seg>Utilizzando Priorview</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225325Z">
+        <seg>Using Priorview</seg>
       </tuv>
     </tu>
     <tu>
@@ -59209,8 +59209,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>cd &lt;i0&gt;path&lt;/i0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125454Z">
-        <seg>cd &lt;i0&gt;percorso&lt;/i0&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225402Z">
+        <seg>cd &lt;i0&gt;path&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62771,6 +62771,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214159Z">
         <seg>vino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wish priorview.tcl</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225307Z">
+        <seg>wish priorview.tcl</seg>
       </tuv>
     </tu>
     <tu>
