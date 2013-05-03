@@ -2827,6 +2827,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../images/preview_flow.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125124Z">
+        <seg>../../images/preview_flow.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../images/xhtml.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
@@ -2839,6 +2847,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211431Z">
         <seg>../../omegatk/te-scripts.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../../resources/priorview.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125356Z">
+        <seg>../../resources/priorview.zip</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,6 +3529,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125336Z">
+        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Dictionaries&lt;/a0&gt; are the electronic version of printed MerriamWebsters, Duden, Larousse etc., you may keep on your desk.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110126T195945Z">
@@ -3997,6 +4021,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193411Z">
         <seg>&lt;b0&gt; e &lt;/b0&gt; qui sotto sono tag accoppiati e influiscono sul testo log.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125418Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Anteprima&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125352Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14232,6 +14272,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chrome:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125156Z">
+        <seg>Chrome:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chuvash</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T121049Z">
@@ -20787,8 +20835,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the background and principles, refer to the &lt;a0&gt;Preview Howto&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202354Z">
-        <seg>Per lo sfondo e principi, consultare l' &lt;a0&gt;Anteprima Howto&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125332Z">
+        <seg>Per lo sfondo e principi, consultare la &lt;a0&gt;Guida anteprima&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35295,6 +35343,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opera:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125130Z">
+        <seg>Opera:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Operating systems</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183157Z">
@@ -36749,8 +36805,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Priorview is a small utility that provides a preview function for use with OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202351Z">
-        <seg>Priorview è una piccola utility che fornisce una funzione di anteprima per uso con OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125247Z">
+        <seg>Priorview è una piccola utilità che fornisce una funzione di anteprima per uso con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59967,10 +60023,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://chrome.google.com/webstore/detail/oilipfekkmncanaajkapbpancpelijih</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125133Z">
+        <seg>http://chrome.google.com/webstore/detail/oilipfekkmncanaajkapbpancpelijih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://code.google.com/apis/language/translate/v2/pricing.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124027Z">
         <seg>http://code.google.com/apis/language/translate/v2/pricing.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://dag.wieers.com/home-made/unoconv/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125347Z">
+        <seg>http://dag.wieers.com/home-made/unoconv/</seg>
       </tuv>
     </tu>
     <tu>
@@ -60183,6 +60255,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.abisource.com/download/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125333Z">
+        <seg>http://www.abisource.com/download/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.atril.com/docs/DVX/InstructionsExternalView.pdf</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122329Z">
@@ -60351,10 +60431,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.opera.com</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125126Z">
+        <seg>http://www.opera.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122432Z">
         <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.tcl.tk/software/tcltk/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125349Z">
+        <seg>http://www.tcl.tk/software/tcltk/</seg>
       </tuv>
     </tu>
     <tu>
@@ -61211,6 +61307,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T211236Z">
         <seg>aprire il file sorgente in un editor di testo che interpreta correttamente la sua codifica e salvare il file nella codifica &lt;e0&gt;"UTF-8"&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125344Z">
+        <seg>o</seg>
       </tuv>
     </tu>
     <tu>
@@ -62643,6 +62747,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093205Z">
         <seg>senza JRE (indicata col nome della versione "Without_JRE").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.google.com/chrome</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125131Z">
+        <seg>www.google.com/chrome</seg>
       </tuv>
     </tu>
     <tu>
