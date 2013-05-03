@@ -13426,8 +13426,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202801Z">
-        <seg>Per impostazione predefinita, OmegaT utilizza la propagazione automatica corrispondenza.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125758Z">
+        <seg>Per impostazione predefinita, OmegaT utilizza la propagazione automatica della corrispondenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23079,8 +23079,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202823Z">
-        <seg>Se un segmento è già stato tradotto e un identico segmento più avanti nel testo poi è cambiato, il segmento precedente sarà portato in linea con il segmento modificato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125941Z">
+        <seg>Se un segmento è già stato tradotto e un identico segmento più avanti nel testo è cambiato successivamente, il segmento precedente sarà allineato al segmento modificato.</seg>
       </tuv>
     </tu>
     <tu>
