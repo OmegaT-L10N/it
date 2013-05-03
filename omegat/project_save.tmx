@@ -2867,6 +2867,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../resources/priorview_for_mac.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224549Z">
+        <seg>../../resources/priorview_for_mac.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../images/css.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122105Z">
@@ -11439,8 +11447,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An example script that achieves this function is described in the &lt;a0&gt;Priorview Howto&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202325Z">
-        <seg>Un esempio di script che realizza questa funzione è descritta nel &lt;a0&gt;Priorview Howto&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224535Z">
+        <seg>Un esempio di script che realizza questa funzione è descritto nella &lt;a0&gt;Guida di Priorview&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12712,8 +12720,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>Background and principles</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202343Z">
-        <seg>Background e principi</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224638Z">
+        <seg>Premesse e principi</seg>
       </tuv>
     </tu>
     <tu>
@@ -20859,8 +20867,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the background and principles, refer to the &lt;a0&gt;Preview Howto&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125332Z">
-        <seg>Per lo sfondo e principi, consultare la &lt;a0&gt;Guida anteprima&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224728Z">
+        <seg>Per le premesse e principi, consultare la &lt;a0&gt;Guida anteprima&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22542,8 +22550,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>HowTo: The "Priorview" preview utility</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202340Z">
-        <seg>HowTo: L'utilità di anteprima di "Priorview"</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224613Z">
+        <seg>Guida: L'utilità di anteprima "Priorview"</seg>
       </tuv>
     </tu>
     <tu>
@@ -24310,8 +24318,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are using Mac OSX, you can &lt;a2&gt;download a version of Priorview for Mac here&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202357Z">
-        <seg>Se si utilizza Mac OS x, è possibile &lt;a2&gt;scaricare una versione di Priorview per Mac qui&lt;/a2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224834Z">
+        <seg>Se si utilizza Mac OSX, è possibile &lt;a2&gt;scaricare una versione di Priorview per Mac qui&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49791,8 +49799,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This HowTo describes the use of Priorview for &lt;b1&gt;Windows and Linux&lt;/b1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202355Z">
-        <seg>Questo HowTo descrive l'uso di Priorview per &lt;b1&gt;Windows e Linux&lt;/b1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224754Z">
+        <seg>Questa guida descrive l'uso di Priorview per &lt;b1&gt;Windows e Linux&lt;/b1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
