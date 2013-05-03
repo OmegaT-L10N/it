@@ -44033,8 +44033,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200103Z">
-        <seg>La versione di Java utilizzata (lo stesso carattere può apparire molto diverso su versioni di Java Sun e OpenJDK)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082128Z">
+        <seg>versione di Java utilizzata (lo stesso carattere può apparire molto diverso su versioni di Java Sun e OpenJDK)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44596,8 +44596,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200101Z">
-        <seg>L'aspetto dei font in OmegaT su Linux possa variare ampiamente, secondo per:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082111Z">
+        <seg>L'aspetto dei tipi di carattere in OmegaT su Linux potrebbe variare ampiamente, a secondo di:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44652,8 +44652,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The available/selected fonts</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200108Z">
-        <seg>I font disponibili/selezionato</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082149Z">
+        <seg>I tipi di carattere disponibili/scelti</seg>
       </tuv>
     </tu>
     <tu>
@@ -49776,8 +49776,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This can easily be restored again in the future.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200128Z">
-        <seg>Questo può facilmente essere ripristinato nuovamente in futuro.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082252Z">
+        <seg>Questa può facilmente essere ripristinato nuovamente in futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56199,8 +56199,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200113Z">
-        <seg>Se è abilitato l'anti-aliasing (questa è un'opzione della riga di comando di lancio, ma è anche possibile impostare nello script di lancio kaptain)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082232Z">
+        <seg>Se è abilitato l'anti-aliasing (questa è un'opzione della riga di comando di lancio, ma è anche possibile impostarla nello script di lancio kaptain)</seg>
       </tuv>
     </tu>
     <tu>
