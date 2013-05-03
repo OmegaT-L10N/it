@@ -2835,6 +2835,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../images/preview_ss.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125500Z">
+        <seg>../../images/preview_ss.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../images/xhtml.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
@@ -49727,8 +49735,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This HowTo describes OmegaT's functions for automatic match propagation and one-to-many matching.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202750Z">
-        <seg>Questo HowTo descrive le funzioni di OmegaT per propagazione automatica corrispondenza e corrispondenza uno-a-molti.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125731Z">
+        <seg>Questa guida descrive le funzioni di OmegaT per la propagazione automatica corrispondenza e la corrispondenza uno a molti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52158,8 +52166,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202453Z">
-        <seg>Per installare Priorview, basta scompattare l'archivio zip in qualsiasi luogo adatto sul tuo disco rigido.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125425Z">
+        <seg>Per installare Anteprima, basta scompattare l'archivio zip in qualsiasi luogo adatto sul tuo disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52279,8 +52287,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To launch Priorview, open a command prompt/terminal/console and type in:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202459Z">
-        <seg>Per il lancio di Priorview, aprire una prompt dei comandi, il terminale e la console e digitare:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125432Z">
+        <seg>Per il lancio di Anteprima, aprire una prompt dei comandi, il terminale e la console e digitare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59143,6 +59151,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd "C:\My Files\priorview"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125512Z">
+        <seg>cd "C:\My Files\priorview"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211036Z">
@@ -59163,6 +59179,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192559Z">
         <seg>cd &lt;cartella dove si trova il file OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;i0&gt;path&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125454Z">
+        <seg>cd &lt;i0&gt;percorso&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62699,6 +62723,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214159Z">
         <seg>vino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wish8.5 priorview.tcl</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125503Z">
+        <seg>wish8.5 priorview.tcl</seg>
       </tuv>
     </tu>
     <tu>
