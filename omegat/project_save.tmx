@@ -3865,6 +3865,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T231140Z">
+        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Other systems - Solaris SPARC/x86/x64,&lt;/a0&gt; &lt;a1&gt;Linux x64/PowerPC, Windows x64&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T101456Z">
@@ -20153,8 +20161,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>For LibreOffice+Unoconv:br/&gt; unoconv -f html &lt;i5&gt;file&lt;/i5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202703Z">
-        <seg>Per LibreOffice + Unoconv: br / &amp;amp;gt; unoconv -f html &lt;i5&gt;file.&lt;/i5&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T231117Z">
+        <seg>Per LibreOffice+Unoconv:br /&gt; unoconv -f html &lt;i5&gt;file.&lt;/i5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27354,8 +27362,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20100731T091352Z">
-        <seg>Introduzione</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T231334Z">
+        <seg>Introduzione&amp;&amp;&amp;&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37311,6 +37319,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202752Z">
         <seg>Propagazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T231319Z">
+        <seg>Guida della corrispondenza uno-a-molti e della propagazione</seg>
       </tuv>
     </tu>
     <tu>
