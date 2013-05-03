@@ -26613,8 +26613,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In your launch script, do not confuse the path to OmegaT.jar and the path to the java command.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200026Z">
-        <seg>Nello script di lancio, non confondere il percorso OmegaT.jar e il percorso per il comando java.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081440Z">
+        <seg>Nello script di lancio, non confondere il percorso di OmegaT.jar e il percorso per il comando java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54675,8 +54675,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>User-friendly launching of OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200051Z">
-        <seg>Facile da usare il lancio di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081552Z">
+        <seg>Lancio di OmegaT facile da usare </seg>
       </tuv>
     </tu>
     <tu>
