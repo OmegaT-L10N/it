@@ -45694,8 +45694,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The filter will however still work if you do not do this.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201902Z">
-        <seg>Il filtro funzionerà ancora però se non fate questo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123755Z">
+        <seg>Il filtro continuerà a funzionare anche se non lo fate..</seg>
       </tuv>
     </tu>
     <tu>
@@ -49207,8 +49207,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201848Z">
-        <seg>Questi definiscono sottosegmenti che vengono presentati di fuori del segmento in cui sono contenuti (le note sono un buon esempio).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123605Z">
+        <seg>Questi definiscono sottosegmenti che vengono presentati al di fuori del segmento in cui sono contenuti (le note a pie' di pagina sono un buon esempio).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59351,6 +59351,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123757Z">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123649Z">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123120Z">
@@ -62775,6 +62791,62 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>   "bpt",&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123809Z">
+        <seg>   "bpt",&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ept",&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123807Z">
+        <seg>   "ept",&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "header",&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123801Z">
+        <seg>   "header",&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "it",&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123812Z">
+        <seg>   "it",&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ph",&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123805Z">
+        <seg>   "ph",&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "prop",&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123803Z">
+        <seg>   "prop",&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ut",&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123814Z">
+        <seg>   "ut",&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180603Z">
@@ -62787,6 +62859,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180558Z">
         <seg>   TMX_FILTER_NAME=TMX files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   {&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123759Z">
+        <seg>   {&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   });</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123820Z">
+        <seg>   });</seg>
       </tuv>
     </tu>
     <tu>
