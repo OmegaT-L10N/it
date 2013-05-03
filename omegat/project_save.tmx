@@ -14924,8 +14924,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202008Z">
-        <seg>Compilare come descritto nella compilazione di OmegaT da fonte HowTo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124409Z">
+        <seg>Compilare come descritto nella Guida per la compilazione di OmegaT da codice sorgente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26389,8 +26389,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201958Z">
-        <seg>Nella cartella principale del codice sorgente, aprire il file manifesto-template.mf in un editor di testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124202Z">
+        <seg>Nella cartella principale del codice sorgente, aprire il file manifest-template.mf in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28890,8 +28890,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch the newly compiled version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202010Z">
-        <seg>Lancio della versione appena compilata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124455Z">
+        <seg>Lanciare la versione appena compilata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31071,6 +31071,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191612Z">
         <seg>Nome della TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124204Z">
+        <seg>Name: org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: org.omegat.filters3.xml.tmx.TMXFilter&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124209Z">
+        <seg>Name: org.omegat.filters3.xml.tmx.TMXFilter&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62875,6 +62891,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180603Z">
         <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   OmegaT-Plugin: filter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124207Z">
+        <seg>   OmegaT-Plugin: filter</seg>
       </tuv>
     </tu>
     <tu>
