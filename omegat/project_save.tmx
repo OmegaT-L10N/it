@@ -20130,8 +20130,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201127Z">
-        <seg>Per la compilazione di OmegaT dal codice sorgente, vedere &lt;a0&gt;Compilazione di OmegaT da fonte HowTo&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120401Z">
+        <seg>Per la compilazione di OmegaT dal codice sorgente, vedere la &lt;a0&gt;Guida della compilazione di OmegaT dal codice sorgente&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26549,8 +26549,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this example, the Help &amp; Manual filter has been selected as a basis.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201135Z">
-        <seg>In questo esempio, il filtro manuale di aiuto &amp;amp; è stato selezionato come base.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120504Z">
+        <seg>In questo esempio, il filtro Help &amp; Manual è stato selezionato come base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29376,8 +29376,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Locate the folder src/org/omegat/filters3/xml, and make a copy the subfolder /helpandmanual, naming it /tmx.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201138Z">
-        <seg>Individuare la cartella src/org/omegat/filters3/xml e fare una copia della sottocartella /helpandmanual, chiamandolo /tmx.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120606Z">
+        <seg>Individuare la cartella src/org/omegat/filters3/xml e fare una copia della sottocartella /helpandmanual, chiamandola /tmx.</seg>
       </tuv>
     </tu>
     <tu>
