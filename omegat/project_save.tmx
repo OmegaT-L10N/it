@@ -22838,8 +22838,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Identify the paragraph-level tag(s) for your new file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120938Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;Identificare il livello di paragrafo Tag (s) per il nuovo formato di file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123029Z">
+        <seg>Identificare i tag di livello di paragrafo per il nuovo formato di file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25477,6 +25477,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201206Z">
         <seg>In TMX, il tag di paragrafo corrispondente a un segmento è "tu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In TMXDialect.java:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123102Z">
+        <seg>In TMXDialect.java:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59343,6 +59351,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123120Z">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123216Z">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>discovered a genuine problem (the log.txt is located in the user preferences</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093326Z">
@@ -62171,6 +62195,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T091140Z">
         <seg>cartelle tmx - posizione e scopo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123147Z">
+        <seg>in</seg>
       </tuv>
     </tu>
     <tu>
