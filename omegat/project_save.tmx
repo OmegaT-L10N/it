@@ -27466,8 +27466,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202255Z">
-        <seg>Può anche essere utilizzato per convertire i file docx e ODT in formato HTML, ma per farlo dalla riga di comando, si richiede anche Unoconv, un plug-in.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224133Z">
+        <seg>Può anche essere utilizzato per convertire i file .docx e .odt in formato HTML, ma per farlo dalla riga di comando, si richiede anche Unoconv, un plug-in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27612,8 +27612,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It has a command-line function for converting .docx and .odt files to .html format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202238Z">
-        <seg>Dispone di una funzione della riga di comando per convertire file docx e ODT in formato HTML.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224000Z">
+        <seg>Dispone di una funzione da riga di comando per convertire file .docx e .odt in formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27967,8 +27967,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is very easy for Linux users and fairly easy for Windows users to install.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202241Z">
-        <seg>È molto facile per gli utenti Linux e abbastanza facile per gli utenti di Windows da installare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224040Z">
+        <seg>È molto facile da installare per gli utenti Linux e abbastanza facile per gli utenti di Windows.</seg>
       </tuv>
     </tu>
     <tu>
