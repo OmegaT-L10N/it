@@ -15485,6 +15485,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2008-2011</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124847Z">
+        <seg>Copyright Marc Prior 2008-2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2009-2011</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122333Z">
@@ -15513,6 +15521,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122623Z">
         <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2012</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125018Z">
+        <seg>Copyright Marc Prior 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -51694,8 +51710,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T205212Z">
-        <seg>Per verificare se funziona, è possibile inserire un file TMX nella cartella /source (più utile) o un progetto, eseguire una ricerca di testo &gt; Cerca file operazione su file TMX.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124845Z">
+        <seg>Per verificare se funziona, è possibile inserire un file TMX nella cartella /source di  un progetto o (meglio) eseguire Ricerca di testo &gt; operazione cerca file su file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61295,10 +61311,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>preview_flow.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125029Z">
+        <seg>preview_flow.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>preview_ss.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210735Z">
         <seg>preview_ss.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>priorview.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125025Z">
+        <seg>priorview.html</seg>
       </tuv>
     </tu>
     <tu>
