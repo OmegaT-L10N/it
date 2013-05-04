@@ -20266,8 +20266,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202919Z">
-        <seg>Per i casi in cui due o più segmenti identici richiedono diverse traduzioni, OmegaT offre "corrispondenza uno-a-molti".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072307Z">
+        <seg>Per i casi in cui due o più segmenti identici richiedono diverse traduzioni, OmegaT offre la "corrispondenza uno a molti".</seg>
       </tuv>
     </tu>
     <tu>
@@ -34375,8 +34375,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202921Z">
-        <seg>Funzione di corrispondenza uno-a-molti di OmegaT prima presuppone che segmenti identici a essere tradotto nello stesso modo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072429Z">
+        <seg>La funzione di corrispondenza uno a molti di OmegaT presuppone che segmenti identici si debbano tradurre nello stesso modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34903,8 +34903,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>One-to-many matching (version 2.5.0 onwards)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202916Z">
-        <seg>Uno-a-molti corrispondenti (versione 2.5.0 in poi)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072235Z">
+        <seg>Corrispondenza uno a molti (versioni dalla 2.5.0 in poi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51284,8 +51284,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This translation is described as the "default translation".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202923Z">
-        <seg>Questa traduzione è descritta come la traduzione"predefinito".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072529Z">
+        <seg>Questa traduzione è considerata la "traduzione iniziale".</seg>
       </tuv>
     </tu>
     <tu>
