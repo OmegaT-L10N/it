@@ -4235,8 +4235,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Use as Default Translation&lt;/b0&gt;: causes the active segment to be made the default translation and therefore all previous "default translation" segments to be brought into line with it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203001Z">
-        <seg>&lt;b0&gt;Uso come Default traduzione&lt;/b0&gt;: provoca il segmento attivo per essere fatto la traduzione di default e quindi tutti i precedenti segmenti "Traduzione di default" per essere portato in linea con esso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T113758Z">
+        <seg>&lt;b0&gt;Usa come traduzione predefinita&lt;/b0&gt;: il segmento diviene "traduzione predefinita" e quindi tutti i segmenti precedentemente nominati come "traduzione predefinita" si aggiornano ad esso.</seg>
       </tuv>
     </tu>
     <tu>
