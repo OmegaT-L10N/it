@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20875,8 +20875,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the background and principles, refer to the &lt;a0&gt;Preview Howto&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224728Z">
-        <seg>Per le premesse e principi, consultare la &lt;a0&gt;Guida anteprima&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064936Z">
+        <seg>Per le premesse e i principi, consultare la &lt;a0&gt;Guida anteprima&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63644,6 +63644,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193200Z">
         <seg>in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT Website en/howtos/priorview.html</prop>
+      <prop type="prev">&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</prop>
+      <prop type="next">http://www.mozilla.org</prop>
+      <tuv lang="EN">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064954Z">
+        <seg>oppure</seg>
       </tuv>
     </tu>
     <tu>
