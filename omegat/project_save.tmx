@@ -29206,8 +29206,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with have the extension .oxt.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200738Z">
-        <seg>Più recenti versioni di OpenOffice.org e LibreOffice ora utilizzano il formato "estensioni" per questi dizionari, in cui i file sono forniti in un archivio zip con hanno l'estensione .oxt.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T151328Z">
+        <seg>Le versioni più recenti di OpenOffice e LibreOffice ora utilizzano il formato "estensioni" per questi dizionari, in cui i file sono forniti in un archivio compresso con estensione .oxt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46879,8 +46879,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (Project &gt; Properties).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200743Z">
-        <seg>I nomi dei file devono corrispondere al codice lingua della lingua di destinazione, come definito nella finestra di dialogo Proprietà progetto (progetto &amp;amp;gt; Proprietà).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T151545Z">
+        <seg>I nomi dei file devono corrispondere esattamente al codice lingua della lingua di destinazione, come definito nella finestra di dialogo Proprietà... del progetto (Progetto &gt; Proprietà... ).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52813,8 +52813,8 @@ script with ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>To use spelling dictionaries in this format, rename the file extension from .oxt to .zip and using a zip archive application (such as WinZip) to extract the .dic and .aff files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200740Z">
-        <seg>Per utilizzare dizionari ortografici in questo formato, rinominare l'estensione del file da .oxt. zip e utilizzando un'applicazione di archivio zip (ad esempio WinZip) per estrarre i file dic e .aff.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T151421Z">
+        <seg>Per utilizzare dizionari ortografici in questo formato, rinominare l'estensione del file da .oxt a .zip e utilizzare un'applicazione di archivio zip (ad esempio WinZip) per estrarre i file .dic e .aff.</seg>
       </tuv>
     </tu>
     <tu>
