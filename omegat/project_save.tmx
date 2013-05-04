@@ -50392,8 +50392,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202938Z">
-        <seg>Questo ha l'effetto di eliminare lo stato di «traduzione alternativa» allo stesso tempo; la traduzione del segmento tornerà quindi a quello della traduzione predefinito.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074322Z">
+        <seg>Questo ha l'effetto allo stesso tempo di eliminare lo stato di «traduzione alternativa»; la traduzione del segmento tornerà quindi alla traduzione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52528,8 +52528,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To remove the "alternative translation" status of a single segment and bring it back into line with the "default translation", simply delete the content of the segment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074118Z">
-        <seg>Per rimuovere lo status di «traduzione alternativa» di un singolo segmento e riportarlo in linea con la "traduzione predefinita", è sufficiente eliminare il contenuto del segmento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074153Z">
+        <seg>Per rimuovere lo stato di «traduzione alternativa» di un singolo segmento e riportarlo in linea con la "traduzione predefinita", è sufficiente eliminare il contenuto del segmento.</seg>
       </tuv>
     </tu>
     <tu>
