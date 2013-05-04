@@ -40614,8 +40614,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T130508Z">
-        <seg>Selezionando Vista &gt; Evidenzia i segmenti non unici, provoca che solo la prima istanza di un segmento non unico sia visualizzati in grassetto e le successive istanze in grigio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T065742Z">
+        <seg>Selezionando Vista &gt; Evidenzia i segmenti non unici, solo la prima istanza di un segmento non unico sarà visualizzata in grassetto, mentre le successive istanze in grigio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48619,8 +48619,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202913Z">
-        <seg>L'utente può quindi vedere immediatamente che un segmento in grigio anziché nero, è già stato controllato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T070031Z">
+        <seg>L'utente può così vedere immediatamente che un segmento in grigio anziché in nero, è già stato controllato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50812,8 +50812,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T130633Z">
-        <seg>Questo è utile per verificare una traduzione, dal momento che può bastare controllare solo la prima istanza di segmenti identici.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T065912Z">
+        <seg>Questo è utile durante la verifica di una traduzione, poiché così può bastare controllare solo la prima istanza dei segmenti identici.</seg>
       </tuv>
     </tu>
     <tu>
