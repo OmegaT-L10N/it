@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T071330Z">
-        <seg>"Segmento non univoco" copre ambedue le traduzioni sia la predefinita che l'alternativa.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T145025Z">
+        <seg>L'attributo di "segmento non univoco" copre ambedue le traduzioni sia la predefinita che l'alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15140,8 +15140,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203012Z">
-        <seg>Di conseguenza, segmenti contrassegnate come non univoco (con il carattere grigio) sono contrassegnati come non univoci indipendentemente se traduzioni alternative sono state create o no.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T144948Z">
+        <seg>Di conseguenza, i segmenti contrassegnati come non univoci (con il carattere grigio) sono contrassegnati come non univoci indipendentemente se sono state create o no traduzioni alternative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56391,8 +56391,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T203009Z">
-        <seg>Dove due segmenti hanno anche identici precedono e seguono segmenti (per esempio quando un'intera pagina compare due volte nel testo), essi non possono essere tradotti in modo diverso gli uni dagli altri in OmegaT, cioè non è possibile fare uno di loro una «traduzione alternativa».</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T144832Z">
+        <seg>Dove due segmenti hanno anche identici segmenti precedente e successivo (per esempio quando un'intera pagina compare due volte nel testo), essi non possono essere tradotti in modo diverso gli uni dagli altri in OmegaT, cioè non è possibile fare in uno di loro una "traduzione alternativa".</seg>
       </tuv>
     </tu>
     <tu>
