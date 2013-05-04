@@ -23111,8 +23111,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T071507Z">
-        <seg>Se un segmento è già stato tradotto e successivamente uno identico più avanti nel testo è cambiato, tutti i segmenti identici, anche i precedenti, saranno aggiornati al segmento modificato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074725Z">
+        <seg>Se un segmento è già stato tradotto e successivamente se ne cambia uno identico più avanti nel testo, tutti i segmenti identici saranno ancora aggiornati al segmento modificato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50972,8 +50972,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202809Z">
-        <seg>Questo significa che non appena un segmento è tradotto, la traduzione stessa viene inserita automaticamente in tutti i segmenti identici.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074509Z">
+        <seg>Cioè: non appena si traduce un segmento, la stessa traduzione viene inserita automaticamente in tutti gli altri segmenti identici.</seg>
       </tuv>
     </tu>
     <tu>
