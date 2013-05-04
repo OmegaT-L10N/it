@@ -1362,8 +1362,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T210536Z">
-        <seg>(Non confondere questa cartella con la cartella "dizionario" nei progetti di OmegaT). Selezionare quindi l'URL (indirizzo Web) di un repository online da cui scaricare il dizionario o dizionari e incollare questo URL nel campo "URL di dizionari on-line".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150632Z">
+        <seg>(Non confondere questa cartella con la cartella "dizionario" nei progetti di OmegaT). Selezionare quindi l'URL (indirizzo Web) di un archivio online da cui scaricare il dizionario o dizionari e incollare questo URL nel campo "URL di dizionari on-line".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,8 +9822,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A list of repository URLs is provided below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T130801Z">
-        <seg>Qui di seguito è fornito un elenco di URL di archivi.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150646Z">
+        <seg>Qui di seguito è fornito un elenco di URL di tali archivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27258,8 +27258,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Installing new spelling from within OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193315Z">
-        <seg>Installazione un nuovo dizionario ortografico all'interno di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150359Z">
+        <seg>Installazione un nuovo dizionario ortografico in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -31285,8 +31285,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193339Z">
-        <seg>Nuovi dizionari ortografici possono essere installati all'interno di OmegaT in Opzioni &gt; Finestra di dialogo controllo ortografico.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150605Z">
+        <seg>I nuovi dizionari ortografici possono essere installati all'interno di OmegaT con Opzioni &gt; Correzione ortografica... (finestra di dialogo).</seg>
       </tuv>
     </tu>
     <tu>
