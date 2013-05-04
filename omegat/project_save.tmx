@@ -26341,8 +26341,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the Options &gt; Spell Checking dialog, select or create a dictionary file folder on your hard drive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193602Z">
-        <seg>In Opzioni &gt; finestra di dialogo controllo ortografico, selezionare o creare una cartella di file di dizionario sul vostro disco rigido.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150938Z">
+        <seg>In Opzioni &gt; Correzione ortografica... (finestra di dialogo), selezionare o creare una cartella di file di dizionario sul vostro disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27250,8 +27250,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Installing new spelling dictionaries manually</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T130847Z">
-        <seg>L'installazione a mano di nuovi dizionari ortografici</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150851Z">
+        <seg>Installare a mano i nuovi dizionari ortografici</seg>
       </tuv>
     </tu>
     <tu>
@@ -60095,6 +60095,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150717Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150719Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://asap-traduction.com/CodeZapper</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123721Z">
@@ -60151,6 +60167,126 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150725Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150726Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.fernuni-hagen.de/ftpdir/pub/mirrors/www.openoffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150701Z">
+        <seg>http://ftp.fernuni-hagen.de/ftpdir/pub/mirrors/www.openoffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150721Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150723Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150705Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150708Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150702Z">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150704Z">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.riken.go.jp/pub/FreeBSD/distfiles/openoffice/&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150731Z">
+        <seg>http://ftp.riken.go.jp/pub/FreeBSD/distfiles/openoffice/&lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.riken.go.jp/pub/FreeBSD/distfiles/openoffice/&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150733Z">
+        <seg>http://ftp.riken.go.jp/pub/FreeBSD/distfiles/openoffice/&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-erlangen.de/mirrors/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150700Z">
+        <seg>http://ftp.uni-erlangen.de/mirrors/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-http://openoffice.mirrors.tds.net/pub/openoffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150713Z">
+        <seg>http://ftp.uni-http://openoffice.mirrors.tds.net/pub/openoffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150657Z">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-muenster.de/pub/mirrors/ftp.openoffice.org/contrib/dictionaries/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150712Z">
+        <seg>http://ftp.uni-muenster.de/pub/mirrors/ftp.openoffice.org/contrib/dictionaries/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093958Z">
@@ -60187,6 +60323,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210001Z">
         <seg>http://kaptain.sourceforge.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150710Z">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60247,10 +60391,66 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://openoffice.mirror.wrpn.net/contrib/dictionaries/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150748Z">
+        <seg>http://openoffice.mirror.wrpn.net/contrib/dictionaries/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://openoffice.mirror.wrpn.net/contrib/dictionaries/&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150738Z">
+        <seg>http://openoffice.mirror.wrpn.net/contrib/dictionaries/&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://openoffice.mirrors.tds.net/pub/openoffice/contrib/dictionaries/&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150715Z">
+        <seg>http://openoffice.mirrors.tds.net/pub/openoffice/contrib/dictionaries/&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://openoffice.org/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121907Z">
         <seg>http://openoffice.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://openoffice.osuosl.org/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150653Z">
+        <seg>http://openoffice.osuosl.org/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://openoffice.paris.fr/openoffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150651Z">
+        <seg>http://openoffice.paris.fr/openoffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150728Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150730Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br21/&gt;</seg>
       </tuv>
     </tu>
     <tu>
