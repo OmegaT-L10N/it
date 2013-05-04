@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -52367,8 +52367,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081809Z">
-        <seg>Per lanciare OmegaT ancora più agevole, aggiungete al vostro menù di avvio l'applicazione o posizionate un'apposita icona di lancio sul desktop o nel &amp;&amp;&amp;&amp; pannello di desktop.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064428Z">
+        <seg>Per lanciare OmegaT in modo ancora più agevole, aggiungete al vostro menù di avvio l'applicazione o posizionate un'apposita icona di lancio sul desktop o nel riquadro di desktop.</seg>
       </tuv>
     </tu>
     <tu>
