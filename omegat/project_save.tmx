@@ -1394,8 +1394,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T070421Z">
-        <seg>(Se si seleziona Opzioni &gt; Vista &gt; "Includi il primo segmento non univoco quando evidenzi i segmenti non univoci" , tutti i segmenti non univoci, tra cui il primo sono contrassegnati in questo modo.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072108Z">
+        <seg>(Se si seleziona Opzioni &gt; Vista &gt; "Mostra i segmenti di partenza in grassetto; Includi il primo segmento non univoco quando evidenzi i segmenti non univoci", tutti i segmenti non univoci, tra cui il primo, saranno contrassegnati in grassetto).</seg>
       </tuv>
     </tu>
     <tu>
