@@ -14146,8 +14146,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Check that the .dic and .aff files for your language are present in the spelling dictionary folder, and that their names correspond to the target language code.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200824Z">
-        <seg>Verificare che i file dic e .aff per la lingua sono presenti nella cartella del dizionario di ortografia e che i loro nomi corrispondono al codice di lingua di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T152200Z">
+        <seg>Verificare che i file .dic e .aff per la lingua siano presenti nella cartella del dizionario di ortografia e che i loro nomi corrispondano esattamente al codice di lingua di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14162,8 +14162,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Check that you have write permissions for the spelling dictionary folder you have selected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193616Z">
-        <seg>Verificare che si dispongano di autorizzazioni di scrittura per la cartella di dizionario di ortografia che avete selezionato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T152132Z">
+        <seg>Verificare che si disponga di autorizzazioni di scrittura per la cartella scelta per il dizionario ortografico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23667,8 +23667,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the automatic installation process does not work: check that your Internet connection is working; if so, try a different repository URL.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200759Z">
-        <seg>Se il processo di installazione automatica non funziona: controllare che la connessione Internet è funzionante; Se è così, prova un repository diversi URL.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T152011Z">
+        <seg>Se il processo di installazione automatica non funziona: controllare che la connessione Internet sia funzionante; Se è così, prova un URL archivio diverso.</seg>
       </tuv>
     </tu>
     <tu>
