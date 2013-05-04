@@ -4171,8 +4171,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Remove Translation&lt;/b0&gt;: deletes the content of the segment, causing (when Enter is pressed) the default translation to be inserted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202957Z">
-        <seg>&lt;b0&gt;Rimuovere traduzione&lt;/b0&gt;: cancella il contenuto del segmento, causando (quando si preme INVIO) la traduzione di default da inserire.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T113326Z">
+        <seg>&lt;b0&gt;Rimuovi traduzione&lt;/b0&gt;: cancella il contenuto del segmento, causando (quando si preme INVIO) l'inserimento della traduzione di default.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13914,8 +13914,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Changes to this segment have no effect upon other segments, nor do changes to the "default translation" affect it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T104125Z">
-        <seg>Le modifiche a questo segmento non hanno alcun effetto sugli &amp;&amp;&amp;&amp; altri segmenti, né fanno modifiche alla traduzione"predefinito" possono influenzare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T113142Z">
+        <seg>Le modifiche in questo segmento non hanno alcun effetto sugli altri segmenti, né i cambi alla "traduzione predefinita" possono influenzare questo segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63655,6 +63655,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064954Z">
         <seg>oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT Website en/howtos/prop12m.html</prop>
+      <prop type="prev">http://validator.w3.org/check?uri=referer</prop>
+      <prop type="next">Valid XHTML</prop>
+      <tuv lang="EN">
+        <seg>../../images/xhtml.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T113429Z">
+        <seg>../../images/xhtml.png </seg>
       </tuv>
     </tu>
     <tu>
