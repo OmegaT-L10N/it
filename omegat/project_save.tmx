@@ -20266,8 +20266,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072307Z">
-        <seg>Per i casi in cui due o più segmenti identici richiedono diverse traduzioni, OmegaT offre la "corrispondenza uno a molti".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074924Z">
+        <seg>Per i casi in cui due o più segmenti identici richiedano traduzioni diverse, OmegaT offre la "corrispondenza uno a molti".</seg>
       </tuv>
     </tu>
     <tu>
@@ -25908,8 +25908,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In most cases, the translator will wish to translate identical segments within a project in the same way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T150631Z">
-        <seg>Nella maggior parte dei casi, il traduttore desidera tradurre segmenti identici all'interno di un progetto allo stesso modo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074857Z">
+        <seg>Nella maggior parte dei casi, il traduttore desidera tradurre tutti i segmenti identici all'interno di un progetto allo stesso modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34375,8 +34375,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072429Z">
-        <seg>La funzione di corrispondenza uno a molti di OmegaT presuppone che segmenti identici si debbano tradurre nello stesso modo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T075002Z">
+        <seg>La funzione "corrispondenza uno a molti" di OmegaT presuppone che segmenti identici si debbano all'inizio tradurre nello stesso modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48619,8 +48619,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T070031Z">
-        <seg>L'utente può così vedere immediatamente che un segmento in grigio anziché in nero, è già stato controllato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074840Z">
+        <seg>L'utente può così vedere immediatamente che un segmento, in grigio anziché nero, è già stato controllato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50812,8 +50812,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T071741Z">
-        <seg>Questo è utile durante la verifica di una traduzione, poiché così può bastare controllare solo la prima comparsa dei segmenti identici.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074759Z">
+        <seg>Questo serve per la verifica di una traduzione, poiché così può bastare controllare solo la prima comparsa dei segmenti identici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51284,8 +51284,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This translation is described as the "default translation".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072529Z">
-        <seg>Questa traduzione è considerata la "traduzione iniziale".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T075041Z">
+        <seg>Questa traduzione è inizialmente indicata come la "traduzione predefinita".</seg>
       </tuv>
     </tu>
     <tu>
