@@ -23047,8 +23047,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T145842Z">
-        <seg>Se Opzioni &gt; Comportamento di modifica &gt; "Vai al prossimo segmento non tradotto si ferma quando c'è almeno una traduzione alternativa" è selezionata comunque e almeno una traduzione alternativa di un segmento non univoco è stata creata, questa funzione considera tutte le istanze di quel segmento (sia traduzioni predefinite che alternative) come non tradotte, cioè non saltarli.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150046Z">
+        <seg>Se è selezionata comunque Opzioni &gt; Comportamento di modifica &gt; "Vai al prossimo segmento non tradotto si ferma quando c'è almeno una traduzione alternativa" ed è stata creata, almeno una traduzione alternativa di un segmento non univoco, questa funzione considera tutte le istanze di quel segmento (sia traduzioni predefinite che alternative) come non tradotte, cioè non le salta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32853,8 +32853,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT Spellchecking HowTo</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193210Z">
-        <seg>OmegaT Spellchecking HowTo</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150326Z">
+        <seg>Guida OmegaT: Correzione ortografica</seg>
       </tuv>
     </tu>
     <tu>
@@ -50256,8 +50256,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This feature makes use of the spelling dictionaries used in LibreOffice and OpenOffice.org.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064632Z">
-        <seg>Questa funzione fa sfrutta i dizionari ortografici usati in LibreOffice e OpenOffice.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150337Z">
+        <seg>Questa funzione sfrutta i dizionari ortografici usati in LibreOffice e OpenOffice.</seg>
       </tuv>
     </tu>
     <tu>
