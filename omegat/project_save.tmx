@@ -1394,8 +1394,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202915Z">
-        <seg>(Se le opzioni &amp;amp;gt; Vista &amp;amp;gt; "Includono il primo segmento non univoco quando segmenti non univoci di marcatura" è selezionata, tutti i segmenti non univoci, tra cui il primo sono contrassegnati in questo modo.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T070421Z">
+        <seg>(Se si seleziona Opzioni &gt; Vista &gt; "Includi il primo segmento non univoco quando evidenzi i segmenti non univoci" , tutti i segmenti non univoci, tra cui il primo sono contrassegnati in questo modo.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40614,8 +40614,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T065742Z">
-        <seg>Selezionando Vista &gt; Evidenzia i segmenti non unici, solo la prima istanza di un segmento non unico sarà visualizzata in grassetto, mentre le successive istanze in grigio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T070506Z">
+        <seg>Selezionando Vista &gt; Evidenzia i segmenti non unici, solo la prima istanza di un segmento non univoco sarà visualizzata in grassetto, mentre le successive istanze in grigio.</seg>
       </tuv>
     </tu>
     <tu>
