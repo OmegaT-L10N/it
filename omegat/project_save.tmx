@@ -40166,8 +40166,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T130142Z">
-        <seg>I segmenti che compaiono più di una volta in OmegaT sono detti  "segmenti non unici".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T070653Z">
+        <seg>I segmenti che compaiono più di una volta in OmegaT sono detti  "segmenti non univoci".</seg>
       </tuv>
     </tu>
     <tu>
@@ -40614,8 +40614,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T070506Z">
-        <seg>Selezionando Vista &gt; Evidenzia i segmenti non unici, solo la prima istanza di un segmento non univoco sarà visualizzata in grassetto, mentre le successive istanze in grigio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T070836Z">
+        <seg>Selezionando Vista &gt; Evidenzia i segmenti non univoci, solo la prima istanza di un segmento non univoco sarà visualizzata in nero, mentre le successive istanze avranno un aspetto grigio.</seg>
       </tuv>
     </tu>
     <tu>
