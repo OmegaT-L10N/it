@@ -23111,8 +23111,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125941Z">
-        <seg>Se un segmento è già stato tradotto e un identico segmento più avanti nel testo è cambiato successivamente, il segmento precedente sarà allineato al segmento modificato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T065642Z">
+        <seg>Se un segmento è già stato tradotto e un identico segmento più avanti nel testo è successivamente cambiato, tutti i segmenti identici, anche i precedenti, saranno aggiornati al segmento modificato.</seg>
       </tuv>
     </tu>
     <tu>
