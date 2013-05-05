@@ -2899,10 +2899,138 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../omegatk/ondiloto.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082605Z">
+        <seg>../omegatk/ondiloto.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../omegatk/stripper.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082550Z">
+        <seg>../omegatk/stripper.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../omegatk/tkount.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082602Z">
+        <seg>../omegatk/tkount.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/TMXCleaner-1.0.RC1.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082531Z">
+        <seg>../resources/TMXCleaner-1.0.RC1.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/TMXMerger.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082528Z">
+        <seg>../resources/TMXMerger.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/WF.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082614Z">
+        <seg>../resources/WF.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/aligner.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082525Z">
+        <seg>../resources/aligner.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/icons.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082617Z">
+        <seg>../resources/icons.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../resources/impressum.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211212Z">
         <seg>../resources/impressum.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/omt_website.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082621Z">
+        <seg>../resources/omt_website.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/sample_texts_1.0.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082618Z">
+        <seg>../resources/sample_texts_1.0.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/tmx_repository.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082620Z">
+        <seg>../resources/tmx_repository.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/toxic.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082536Z">
+        <seg>../resources/toxic.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/toxic_linux.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082540Z">
+        <seg>../resources/toxic_linux.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/toxic_scripts.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082542Z">
+        <seg>../resources/toxic_scripts.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/toxic_windows.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082539Z">
+        <seg>../resources/toxic_windows.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../training/translation_memory_training_course.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082616Z">
+        <seg>../training/translation_memory_training_course.zip</seg>
       </tuv>
     </tu>
     <tu>
@@ -2919,6 +3047,22 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122347Z">
         <seg>./docx.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./howtos/priorview.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082610Z">
+        <seg>./howtos/priorview.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./howtos/tokenizer.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082507Z">
+        <seg>./howtos/tokenizer.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -30483,6 +30627,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memory translation tool, OpenOffice, GPL, m?moire de traduction, CAT, computer aided translation, TAO</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082647Z">
+        <seg>Memory translation tool, OpenOffice, GPL, m?moire de traduction, CAT, computer aided translation, TAO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181342Z">
@@ -34397,6 +34549,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT, free memory translation tool</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082459Z">
+        <seg>OmegaT, free memory translation tool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T214210Z">
@@ -34841,6 +35001,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T084255Z">
         <seg>Se si vuole vedere come appare un file dopo che è stato tradotto, si può creare il documento di arrivo e aprirlo, poi, nell'applicazione appropriata per visualizzare il risultato finale ottenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ondiloto</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082608Z">
+        <seg>Ondiloto</seg>
       </tuv>
     </tu>
     <tu>
@@ -36855,6 +37023,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141825Z">
         <seg>Priorità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priorview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082612Z">
+        <seg>Priorview</seg>
       </tuv>
     </tu>
     <tu>
@@ -42340,6 +42516,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stripper</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082558Z">
+        <seg>Stripper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Structure level segmentation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091626Z">
@@ -42774,6 +42958,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TKount</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082604Z">
+        <seg>TKount</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TKount text counting utility.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175014Z">
@@ -42898,6 +43090,22 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213414Z">
         <seg>I file TMX prodotti su sistemi Windows possono iniziare con un byte-order mark (BOM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082532Z">
+        <seg>TMXCleaner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMXMerger</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082529Z">
+        <seg>TMXMerger</seg>
       </tuv>
     </tu>
     <tu>
@@ -53020,6 +53228,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toxic</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082537Z">
+        <seg>Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toxic for Linux</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192810Z">
@@ -60391,6 +60607,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082444Z">
+        <seg>http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://odf-converter.sourceforge.net/download.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122349Z">
@@ -60527,6 +60751,30 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-LanguageTool/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082516Z">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-LanguageTool/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-Scripting/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082522Z">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-Scripting/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-tokenizers/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082503Z">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-tokenizers/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/sflogo.php?group_id=68187&amp;type=1</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122035Z">
@@ -60591,6 +60839,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://wiki.apertium.org/wiki/Apertium-OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082524Z">
+        <seg>http://wiki.apertium.org/wiki/Apertium-OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.abisource.com/download/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125333Z">
@@ -60603,6 +60859,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122329Z">
         <seg>http://www.atril.com/docs/DVX/InstructionsExternalView.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.bligner.org</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082527Z">
+        <seg>http://www.bligner.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -62307,6 +62571,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T183722Z">
         <seg>definisce quali parti del testo NON devono essere separate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sponsorship.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082446Z">
+        <seg>sponsorship.html</seg>
       </tuv>
     </tu>
     <tu>
