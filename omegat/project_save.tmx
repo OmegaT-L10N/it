@@ -9745,6 +9745,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>==============================================================================</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T103033Z">
+        <seg>==============================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>@@TRANSLATION_NOTICE@@</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173426Z">
@@ -17093,6 +17101,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diptik</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102911Z">
+        <seg>Diptik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directories</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231139Z">
@@ -17801,6 +17817,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T112459Z">
         <seg>Fare doppio-clic su &lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; o sulla sua posizione nella Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doublet KK</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102914Z">
+        <seg>Doublet KK</seg>
       </tuv>
     </tu>
     <tu>
@@ -27536,6 +27560,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102918Z">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150357Z">
@@ -27628,6 +27660,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110718T102435Z">
         <seg>Formato del file non valido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invantive</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102922Z">
+        <seg>Invantive</seg>
       </tuv>
     </tu>
     <tu>
@@ -37711,6 +37751,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T185304Z">
         <seg>Push non riuscito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Qabiria</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102929Z">
+        <seg>Qabiria</seg>
       </tuv>
     </tu>
     <tu>
@@ -60023,6 +60071,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>e-lexica</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102916Z">
+        <seg>e-lexica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ensure that it is in your launch path, or call it explicitly when launching</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093221Z">
@@ -61031,6 +61087,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.diptik.fr</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102910Z">
+        <seg>http://www.diptik.fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.doublet.jp/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102912Z">
+        <seg>http://www.doublet.jp/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122348Z">
@@ -61043,6 +61115,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123732Z">
         <seg>http://www.dummies.com/how-to/content/how-to-create-a-word-2007-macro.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.e-lexica.com/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102914Z">
+        <seg>http://www.e-lexica.com/</seg>
       </tuv>
     </tu>
     <tu>
@@ -61087,10 +61167,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.ill.eu/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102917Z">
+        <seg>http://www.ill.eu/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.imasy.or.jp/%7Emiyamoto/rpg/OmegaT/index.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102739Z">
         <seg>http://www.imasy.or.jp/%7Emiyamoto/rpg/OmegaT/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.invantive.com</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102919Z">
+        <seg>http://www.invantive.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -61123,6 +61219,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102732Z">
         <seg>http://www.linuxexpres.cz/kancelar/prekladejte-s-aplikaci-omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.marcprior.de/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102925Z">
+        <seg>http://www.marcprior.de/</seg>
       </tuv>
     </tu>
     <tu>
@@ -61243,6 +61347,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102750Z">
         <seg>http://www.pcw.gr/StepByStep/FN/255.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.qabiria.com/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102927Z">
+        <seg>http://www.qabiria.com/</seg>
       </tuv>
     </tu>
     <tu>
