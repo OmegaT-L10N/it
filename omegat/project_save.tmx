@@ -1639,8 +1639,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081055Z">
-        <seg>&amp;&amp;&amp;&amp;&amp;&amp;(per il percorso della cartella utente OmegaT sul tuo sistema operativo, vedi il manuale dell'utente (F1 all'interno di OmegaT) &gt; file e directory &gt; file utente):</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T095623Z">
+        <seg>(per il percorso della cartella file utente di OmegaT sul tuo sistema operativo, vedi il manuale dell'utente (F1 all'interno di OmegaT) &gt; File e cartelle di OmegaT &gt; File delle impostazioni utente):</seg>
       </tuv>
     </tu>
     <tu>
@@ -46038,8 +46038,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T094158Z">
-        <seg>I file appaiono nella sottocartella /script della cartella dei file impostazioni utente di OmegaT&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T095722Z">
+        <seg>I file appaiono nella sottocartella /script della cartella dei file delle impostazioni utente di OmegaT&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
