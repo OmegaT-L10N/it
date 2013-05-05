@@ -43352,8 +43352,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk can be obtained from a number of sources; tcl.activestate.com is one popular source.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200429Z">
-        <seg>Tcl/tk possono essere ottenuti da un certo numero di fonti; Tcl.ActiveState.com è una fonte popolare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081450Z">
+        <seg>Tcl/tk può essere ottenuto da un certo numero di fonti; Tcl.ActiveState.com è una fonte popolare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43368,8 +43368,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk must be installed, if it is not already.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T104303Z">
-        <seg>Tcl/tk deve essere installato, se non lo è già.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081422Z">
+        <seg>Deve essere installato Tcl/tk, se non lo è già.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45838,8 +45838,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files are unformatted plain-text files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200425Z">
-        <seg>I file sono file di testo non formattati.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081326Z">
+        <seg>I file sono file di testo semplice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55163,8 +55163,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the sample scripts</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200426Z">
-        <seg>Utilizzando gli script di esempio</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081356Z">
+        <seg>Usare gli script di esempio</seg>
       </tuv>
     </tu>
     <tu>
@@ -62193,8 +62193,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200422Z">
-        <seg>Selection.txt - contiene il testo evidenziato dall'utente, quando si preme Ctrl-Shift-C o si modifica &amp;amp;gt; Esporta selezione è selezionato</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081301Z">
+        <seg>Selection.txt - contiene il testo evidenziato dall'utente, quando si preme Ctrl-Shift-C o è selezionato Modifica &gt; Esporta la selezione</seg>
       </tuv>
     </tu>
     <tu>
