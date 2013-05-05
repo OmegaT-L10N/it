@@ -16703,8 +16703,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Depending upon how your system is configured, it may be possible to launch the scripts simply by clicking on them with the mouse.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200450Z">
-        <seg>Dipendendo dalla configurazione del sistema, è possibile lanciare gli script semplicemente cliccandoci sopra con il mouse.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100500Z">
+        <seg>In base alla configurazione del vostro sistema, è possibile lanciare gli script semplicemente cliccandoci sopra con il mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35289,8 +35289,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open a command-line window (DOS prompt, terminal, console)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200454Z">
-        <seg>Aprire una finestra della riga di comando (console terminale, prompt dei comandi DOS)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100606Z">
+        <seg>Aprire una finestra per riga di comando (console terminale, prompt dei comandi DOS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62691,6 +62691,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093733Z">
         <seg>te-basic-target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-warning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100628Z">
+        <seg>te-warning</seg>
       </tuv>
     </tu>
     <tu>
