@@ -1479,8 +1479,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Note to Ubuntu users: the font implementation of the default tcl/tk installation in Ubuntu at the present time (version 9.10) is appalling, but can be rectified.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081604Z">
-        <seg>(Nota per gli utenti Ubuntu: l'implementazione dei caratteri dell'installazione predefinita tcl/tk in Ubuntu al momento attuale (versione 9.10) è spaventosa, ma può essere rettificata.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100025Z">
+        <seg>(Nota per gli utenti Ubuntu: l'implementazione dei caratteri dell'installazione predefinita tcl/tk in Ubuntu al momento attuale, la versione 9.10, è spaventosa, ma può essere rettificata).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29880,8 +29880,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Mac OSX users should install tcl/tk from their system media and Linux users should find it in their distribution's repository, if it is not already installed by default.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081552Z">
-        <seg>Gli utenti Mac OSX dovrebbero installare tcl/tk dai loro supporti di sistema e gli utenti Linux dovrebbero trovare nell'archivio della loro distribuzione, se non è già installato.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T095841Z">
+        <seg>Gli utenti Mac OSX dovrebbero installare tcl/tk dai loro supporti di sistema e gli utenti Linux dovrebbero trovarlo nell'archivio della loro distribuzione, se non è già installato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45413,8 +45413,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200423Z">
-        <seg>Il contenuto dei file viene sovrascritto o quando un nuovo segmento è aperto (source e target.txt) o quando una nuova selezione è esportato (selection.txt).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T095745Z">
+        <seg>Il contenuto dei file viene sovrascritto o quando un nuovo segmento è aperto (source.txt e target.txt) o quando una nuova selezione è esportata (selection.txt).</seg>
       </tuv>
     </tu>
     <tu>
