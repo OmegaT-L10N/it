@@ -2381,8 +2381,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- The Tk component makes it easy to produce graphical user interfaces&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082031Z">
-        <seg>- Il componente Tk lo rende facile da produrre interfacce utente grafiche &lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101653Z">
+        <seg>- Il componente Tk lo rende facile per produrre interfacce utente grafiche &lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4073,6 +4073,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101720Z">
+        <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a10&gt;OmegaT&lt;/a10&gt; will build translated versions of all the translatable documents in the Source folder of the project, whether or not they have been fully translated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T171221Z">
@@ -4181,6 +4189,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T212436Z">
         <seg>Gli errori sui &lt;a2&gt;tag&lt;/a2&gt; nella traduzione sono errori durante la &lt;a3&gt;manipolazione dei tag&lt;/a3&gt;, che non ha riprodotto il loro stesso numero e ordine del segmento originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101721Z">
+        <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60887,6 +60903,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.dci.clrc.ac.uk/Publications/Cookbook/index.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101715Z">
+        <seg>http://www.dci.clrc.ac.uk/Publications/Cookbook/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122348Z">
@@ -61051,6 +61075,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122432Z">
         <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101717Z">
+        <seg>http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html</seg>
       </tuv>
     </tu>
     <tu>
