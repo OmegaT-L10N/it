@@ -43576,8 +43576,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk has a number of advantages as a scripting language:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200625Z">
-        <seg>Tcl/tk ha una serie di vantaggi come un linguaggio di scripting:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101300Z">
+        <seg>Tcl/tk ha una serie di vantaggi come linguaggio di scripting:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51028,8 +51028,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is useful when &lt;i0&gt;checking&lt;/i0&gt; tag-heavy segments on the screen, since it is easy to overlook missing or double spaces, for example.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200603Z">
-        <seg>Questo è utile quando la pesante etichetta &lt;i0&gt;controllo&lt;/i0&gt; segmenti sullo schermo, dato che è facile trascurare gli spazi mancanti o doppi, per esempio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101226Z">
+        <seg>Questo è utile per il &lt;i0&gt;controllo&lt;/i0&gt;  sullo schermo di segmenti pesantemente taggati, dato che è facile trascurare gli spazi mancanti o doppi, per esempio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62699,6 +62699,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100832Z">
         <seg>te-notags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101252Z">
+        <seg>te-tags</seg>
       </tuv>
     </tu>
     <tu>
