@@ -12327,8 +12327,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As for te-basic-source, but for the target text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200535Z">
-        <seg>Come per te-basic-fonte, ma per il testo di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093903Z">
+        <seg>Come per te-basic-source, ma per il testo di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37109,8 +37109,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T080035Z">
-        <seg>I programmatori e gli autori di script possono utilizzare i file contenenti questo testo al fine di aggiungere ulteriori funzioni di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093926Z">
+        <seg>I programmatori e gli autori di script possono utilizzare i file contenenti questo testo al fine di aggiungere ulteriori funzioni a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46038,8 +46038,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081008Z">
-        <seg>I file appaiono nella sottocartella /script della cartella dei file utente di OmegaT&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T094158Z">
+        <seg>I file appaiono nella sottocartella /script della cartella dei file impostazioni utente di OmegaT&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49911,8 +49911,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T080255Z">
-        <seg>Non hanno bisogno di alcuna conoscenza di Java; possono essere utilizzati invece la maggior parte se non tutti i linguaggi di programmazione, e conseguite funzioni utili anche con solo abilità di programmazione relativamente limitata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T094145Z">
+        <seg>Non hanno bisogno di alcuna conoscenza di Java; possono essere utilizzati la maggior parte de, se non tutti, i linguaggi di programmazione, e conseguite funzioni utili anche solo con abilità di programmazione relativamente limitata.</seg>
       </tuv>
     </tu>
     <tu>
