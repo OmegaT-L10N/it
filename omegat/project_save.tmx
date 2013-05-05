@@ -15663,8 +15663,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200449Z">
-        <seg>Copiare lo script nella cartella "script" OmegaT, cioè la cartella contenente source ecc (gli script possono in linea di principio essere collocati ovunque, ma poi devono essere modificati con aggiunta del percorso per i file di script).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100348Z">
+        <seg>Copiare lo script nella cartella "script" di OmegaT, cioè la cartella contenente source.txt ecc. (gli script possono in linea di principio essere collocati ovunque, ma poi devono essere richiamati con aggiunta del percorso per i file di script).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45918,8 +45918,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The example scripts provided &lt;a0&gt;here&lt;/a0&gt; all launch a window, but scripts that carry out functions in the background are quite conceivable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200442Z">
-        <seg>L'esempio script fornito &lt;a0&gt;qui&lt;/a0&gt; tutti lanciare una finestra, ma gli script che svolgono funzioni in background sono abbastanza immaginabili.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100216Z">
+        <seg>Gli script di esempio forniti &lt;a0&gt;qui&lt;/a0&gt; tutti lanciano una finestra, ma gli script che svolgono funzioni in sottofondo sono abbastanza immaginabili.</seg>
       </tuv>
     </tu>
     <tu>
