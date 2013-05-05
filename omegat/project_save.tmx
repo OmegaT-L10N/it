@@ -20947,8 +20947,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the text export function to be used, you must first enable it within OmegaT itself:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200407Z">
-        <seg>Per la funzione di esportazione di testo essere utilizzato, è necessario abilitarlo prima all'interno di OmegaT stessa:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T080401Z">
+        <seg>Per usare la funzione di esportazione testo è necessario prima abilitarla in OmegaT stessa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35433,8 +35433,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Options &gt; Editing behaviour</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200409Z">
-        <seg>Opzioni &amp;amp;gt; modifica il comportamento</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T080441Z">
+        <seg>Opzioni &gt; Comportamento di modifica... </seg>
       </tuv>
     </tu>
     <tu>
@@ -49695,8 +49695,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200404Z">
-        <seg>Hanno non bisogno di alcuna conoscenza di Java; la maggior parte se non tutti i linguaggi possono essere utilizzati invece, e funzioni utili conseguiti anche con solo relativamente limitata abilità di programmazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T080255Z">
+        <seg>Non hanno bisogno di alcuna conoscenza di Java; possono essere utilizzati invece la maggior parte se non tutti i linguaggi di programmazione, e conseguite funzioni utili anche con solo abilità di programmazione relativamente limitata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55179,8 +55179,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the text export function</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200405Z">
-        <seg>Utilizzando la funzione di esportazione di testo</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T080311Z">
+        <seg>Usare la funzione di esportazione di testo</seg>
       </tuv>
     </tu>
     <tu>
