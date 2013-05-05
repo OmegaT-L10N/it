@@ -2181,8 +2181,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- It is widely used, so help can be found on the Internet&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082027Z">
-        <seg>- È ampiamente utilizzato, così aiuto può essere trovato su Internet &lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101559Z">
+        <seg>- È ampiamente utilizzato, così l'aiuto può essere trovato su Internet &lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15028,8 +15028,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Combines the substitution and highlighting functions of te-gloss-highlight and te-gloss-subst.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200621Z">
-        <seg>Combina la sostituzione ed evidenziando le funzioni di te-gloss-evidenziare e te-lucido-subst.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101444Z">
+        <seg>Combina la sostituzione evidenziando le funzioni di te-gloss-highlight e te-gloss-subst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62691,6 +62691,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093733Z">
         <seg>te-basic-target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-gloss-highlight</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101538Z">
+        <seg>te-gloss-highlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-gloss-subst-highlight</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101512Z">
+        <seg>te-gloss-subst-highlight</seg>
       </tuv>
     </tu>
     <tu>
