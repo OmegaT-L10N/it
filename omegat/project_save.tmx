@@ -2157,32 +2157,32 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- It is easy to learn&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200626Z">
-        <seg>-È facile da imparare &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082019Z">
+        <seg>- È facile da imparare &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>- It is free&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200628Z">
-        <seg>-È gratis &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082023Z">
+        <seg>- È gratis &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>- It is string-oriented, making it particularly suitable for applications involving text</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200638Z">
-        <seg>-È orientato alla stringa, rendendolo particolarmente adatto per applicazioni che prevedono testo</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082119Z">
+        <seg>- È orientato alla stringa, rendendolo particolarmente adatto per applicazioni che prevedono testo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>- It is widely used, so help can be found on the Internet&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200629Z">
-        <seg>-È ampiamente utilizzato, così aiuto può essere trovato su Internet &lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082027Z">
+        <seg>- È ampiamente utilizzato, così aiuto può essere trovato su Internet &lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2381,8 +2381,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- The Tk component makes it easy to produce graphical user interfaces&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200631Z">
-        <seg>-Il componente Tk lo rende facile da produrre interfacce utente grafiche &lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082031Z">
+        <seg>- Il componente Tk lo rende facile da produrre interfacce utente grafiche &lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2405,8 +2405,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- There are many good books and other resources available for it (at least in English)&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200634Z">
-        <seg>-Ci sono molti buoni libri e altre risorse disponibili per esso (almeno in inglese) &lt;br4/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082051Z">
+        <seg>- Ci sono molti buoni libri e altre risorse disponibili per esso (almeno in inglese) &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23435,8 +23435,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If multiple functions were to be used at the same time in practice, it would be more efficient to combine them in a single script file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200439Z">
-        <seg>Se molteplici funzioni dovevano essere utilizzati allo stesso tempo in pratica, sarebbe più efficiente per combinarli in un unico script file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081831Z">
+        <seg>Se molteplici funzioni dovevano essere utilizzate allo stesso tempo in pratica, sarebbe più efficiente combinarli in un unico file script.&amp;&amp;&amp;&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59247,6 +59247,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081940Z">
+        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd C:\My Documents\MyOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122437Z">
@@ -62375,6 +62383,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>te-basic-source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082014Z">
+        <seg>te-basic-source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>teaching</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T204853Z">
@@ -63019,6 +63035,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225307Z">
         <seg>wish priorview.tcl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wish te-basic-source.tcl</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081944Z">
+        <seg>wish te-basic-source.tcl</seg>
       </tuv>
     </tu>
     <tu>
