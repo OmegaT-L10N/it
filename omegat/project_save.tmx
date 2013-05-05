@@ -1639,8 +1639,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200417Z">
-        <seg>(per il percorso della cartella utente OmegaT sul tuo sistema operativo, vedere il manuale dell'utente (F1 all'interno di OmegaT) &amp;amp;gt; file e directory &amp;amp;gt; file utente):</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081055Z">
+        <seg>&amp;&amp;&amp;&amp;&amp;&amp;(per il percorso della cartella utente OmegaT sul tuo sistema operativo, vedi il manuale dell'utente (F1 all'interno di OmegaT) &gt; file e directory &gt; file utente):</seg>
       </tuv>
     </tu>
     <tu>
@@ -45822,8 +45822,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200415Z">
-        <seg>I file vengono visualizzati nella sottocartella nella cartella utente OmegaT/script &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081008Z">
+        <seg>I file appaiono nella sottocartella /script della cartella dei file utente di OmegaT&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62257,8 +62257,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>source.txt - contains the source text of the segment&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200419Z">
-        <seg>Source - contiene il testo sorgente del segmento &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081124Z">
+        <seg>source.txt - contiene il testo sorgente del segmento &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
