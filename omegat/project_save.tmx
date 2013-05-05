@@ -2891,6 +2891,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../images/screenshot1.jpg</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102852Z">
+        <seg>../images/screenshot1.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../images/screenshot2.jpg</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102858Z">
+        <seg>../images/screenshot2.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../images/xhtml.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122055Z">
@@ -2919,6 +2935,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082602Z">
         <seg>../omegatk/tkount.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>../resources/DA_Guillardeau.pdf</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102830Z">
+        <seg>../resources/DA_Guillardeau.pdf</seg>
       </tuv>
     </tu>
     <tu>
@@ -12959,6 +12983,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Balabit</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102907Z">
+        <seg>Balabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base64 (public domain)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T183843Z">
@@ -13608,6 +13640,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102736Z">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, 256 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100756Z">
@@ -13764,6 +13804,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130320T073108Z">
         <seg>Gli strumenti CAT variano nel prezzo da zero (e.g. OmegaT) a 2500 $ o più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CJ Translations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102909Z">
+        <seg>CJ Translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -25757,6 +25805,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T080850Z">
         <seg>In OmegaT, selezionare &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Opzioni &gt; Correzione ortografica&lt;/g2&gt;, poi premere il pulsante &lt;g3&gt;Scegli &lt;/g3&gt;situato affianco al campo della posizione del dizionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In PCW.GR (in Greek).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102820Z">
+        <seg>In PCW.GR (in greco).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50848,8 +50904,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is likely to be a little too technical for complete newcomers to programming, but after working through one of the online tutorials, they should find it useful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200712Z">
-        <seg>Questo è probabile che sia un po' troppo tecnico per i nuovi arrivati completi di programmazione, ma dopo aver lavorato attraverso uno dei tutorial on-line, si dovrebbe trovare utili.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102722Z">
+        <seg>Questo è probabile sia un po' troppo tecnico per i neofiti di programmazione, ma dopo aver lavorato attraverso uno dei tutorial on-line, lo si dovrebbe trovare utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60447,6 +60503,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://en.wikipedia.org/wiki/OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102847Z">
+        <seg>http://en.wikipedia.org/wiki/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br18/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150725Z">
@@ -60847,6 +60911,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://swingtranslations.com/2012/09/cat-2-omegat/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102837Z">
+        <seg>http://swingtranslations.com/2012/09/cat-2-omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095413Z">
@@ -60855,10 +60927,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://thoughtsontranslation.com/2008/04/11/omegat-a-free-and-very-useful-tent/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102744Z">
+        <seg>http://thoughtsontranslation.com/2008/04/11/omegat-a-free-and-very-useful-tent/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://validator.w3.org/check?uri=referer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122045Z">
         <seg>http://validator.w3.org/check?uri=referer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://vertalersnieuws.blogspot.com/2011/12/omegat-vrije-vertaalsoftware-groeit-op.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102731Z">
+        <seg>http://vertalersnieuws.blogspot.com/2011/12/omegat-vrije-vertaalsoftware-groeit-op.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -60887,10 +60975,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.balabit.com/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102906Z">
+        <seg>http://www.balabit.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.bligner.org</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082527Z">
         <seg>http://www.bligner.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.catch.jp/oss/oss_transtools/index.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102733Z">
+        <seg>http://www.catch.jp/oss/oss_transtools/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.cjtranslations.com/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102908Z">
+        <seg>http://www.cjtranslations.com/</seg>
       </tuv>
     </tu>
     <tu>
@@ -60935,6 +61047,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.eizie.org/Argitalpenak/Senez/20080201/sarasua</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102737Z">
+        <seg>http://www.eizie.org/Argitalpenak/Senez/20080201/sarasua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.glossum.com/omegat</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121940Z">
@@ -60967,6 +61087,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.imasy.or.jp/%7Emiyamoto/rpg/OmegaT/index.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102739Z">
+        <seg>http://www.imasy.or.jp/%7Emiyamoto/rpg/OmegaT/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.leuce.com/tempfile/omtautoit/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122026Z">
@@ -60991,6 +61119,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.linuxexpres.cz/kancelar/prekladejte-s-aplikaci-omegat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102732Z">
+        <seg>http://www.linuxexpres.cz/kancelar/prekladejte-s-aplikaci-omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.microsoft.com/downloads/details.aspx?familyid=941b3470-3ae9-4aee-8f43-c6bb74cd1466&amp;display</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123715Z">
@@ -61007,10 +61143,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.muitenviet.net/tintuc/OmegaT---Cong-cu-tro-giup-bien-dich-(CAT).html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102824Z">
+        <seg>http://www.muitenviet.net/tintuc/OmegaT---Cong-cu-tro-giup-bien-dich-(CAT).html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.neooffice.org/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122350Z">
         <seg>http://www.neooffice.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.nl-text.de/nl/cattools_omegat_nl.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102746Z">
+        <seg>http://www.nl-text.de/nl/cattools_omegat_nl.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -61083,6 +61235,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122432Z">
         <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.pcw.gr/StepByStep/FN/255.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102750Z">
+        <seg>http://www.pcw.gr/StepByStep/FN/255.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.roxomatic.de/1286/omegat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102742Z">
+        <seg>http://www.roxomatic.de/1286/omegat</seg>
       </tuv>
     </tu>
     <tu>
@@ -63499,6 +63667,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125131Z">
         <seg>www.google.com/chrome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>www.nl-text.de/cattools_omegat_de.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102747Z">
+        <seg>www.nl-text.de/cattools_omegat_de.html</seg>
       </tuv>
     </tu>
     <tu>
