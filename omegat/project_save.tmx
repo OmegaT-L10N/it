@@ -12407,8 +12407,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As such, it does nothing not already done by the OmegaT Editor pane; its purpose is to illustrate how the text can be extracted from a script file and made available for further scripts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200524Z">
-        <seg>Come tale, non fa nulla non già fatto dal riquadro OmegaT Editor; il suo scopo è quello di illustrare come il testo può essere estratta da un file di script e reso disponibile per ulteriori script.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093717Z">
+        <seg>Come tale, non fa nulla non già fatto dal riquadro Editor di OmegaT; il suo scopo è quello di illustrare come il testo può essere estratto da un file di script e reso disponibile per ulteriori script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29154,8 +29154,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch the script with "wish" followed by the script file name, e.g.:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200506Z">
-        <seg>Lanciare lo script con "desiderio" seguita dal nome del file di script, ad esempio:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093613Z">
+        <seg>Lanciare lo script con "wish" seguito dal nome del file di script, ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62683,6 +62683,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082014Z">
         <seg>te-basic-source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-basic-target</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093733Z">
+        <seg>te-basic-target</seg>
       </tuv>
     </tu>
     <tu>
