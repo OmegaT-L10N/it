@@ -12359,8 +12359,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200601Z">
-        <seg>Come suggerisce il nome, questo script strisce automaticamente i tag di un segmento di OmegaT (destinazione).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101001Z">
+        <seg>Come suggerisce il nome, questo script spoglia automaticamente dai tag un segmento di OmegaT (destinazione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25819,8 +25819,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In addition, if supported by the hardware and operating system (this is not always the case), a beep will sound.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200543Z">
-        <seg>Inoltre, se supportato dall'hardware e sistema operativo (questo non è sempre il caso), un segnale acustico.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100754Z">
+        <seg>Inoltre, se supportato dall'hardware e dal sistema operativo (non sempre), un segnale acustico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26781,8 +26781,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this case, a "reminder" in each relevant segment may be helpful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200558Z">
-        <seg>In questo caso, un "promemoria" in ogni segmento rilevante può essere utile.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100819Z">
+        <seg>In questo caso, un "promemoria" in ogni segmento interessato può essere utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62691,6 +62691,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093733Z">
         <seg>te-basic-target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-notags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100832Z">
+        <seg>te-notags</seg>
       </tuv>
     </tu>
     <tu>
