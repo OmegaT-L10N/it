@@ -4845,6 +4845,18 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;div id="content"&gt;
+	
+&lt;h2&gt;Documentation&lt;/h2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223941Z">
+        <seg>&lt;div id="content"&gt;
+	
+&lt;h2&gt;Documentazione&lt;/h2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T170254Z">
@@ -6073,6 +6085,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223457Z">
         <seg>&lt;h3&gt;Versione trunk&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;h3&gt;User manuals&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223955Z">
+        <seg>&lt;h3&gt;Manuali utente&lt;/h3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9427,6 +9447,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170419Z">
         <seg>&lt;p&gt;Nota che le categorie non sono mutuamente esclusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224003Z">
+        <seg>&lt;p&gt;OmegaT è fornito con un manuale utente completo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50490,6 +50518,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223857Z">
+        <seg>Possono essere trovati nelle cartelle delle corrispondenti versioni compilate.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T091349Z">
@@ -52677,6 +52713,14 @@ file type is associated with Java on your system.</seg>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T194759Z">
         <seg>Per accedere alla pagina delle segnalazioni degli errori e registrare
 una nuova segnalazione di errore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224115Z">
+        <seg>Per richiamare il manuale all'interno di OmegaT, semplicemente selezionare Aiuto &gt; Manuale dell'utente...  o premere F1.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
