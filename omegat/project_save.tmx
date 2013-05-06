@@ -9779,6 +9779,24 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;b&gt;Latest versions&lt;/b&gt;&lt;br/&gt;
+(Currently version: 
+&lt;?php
+echo $latest_name
+?&gt;)
+&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170124Z">
+        <seg>&lt;td&gt;&lt;b&gt;Ultime versioni&lt;/b&gt;&lt;br/&gt;
+(Versione corrente: 
+&lt;?php
+echo $latest_name
+?&gt;)
+&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;&lt;b&gt;Standard versions&lt;/b&gt;&lt;br/&gt;
 (Currently version: 
 &lt;?php
@@ -9793,6 +9811,14 @@ echo $standard_name
 echo $standard_name
 ?&gt;)
 &lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;b&gt;Web Start versions&lt;/b&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170159Z">
+        <seg>&lt;td&gt;&lt;b&gt;Versioni Web Start&lt;/b&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
