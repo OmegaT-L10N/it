@@ -3713,6 +3713,20 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php print "&lt;?xml version=\"1.0\"?&gt;" ?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165413Z">
+        <seg>&lt;?php print "&lt;?xml version=\"1.0\"?&gt;" ?&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224011Z">
@@ -4829,6 +4843,18 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T135713Z">
         <seg>&lt;c3&gt;\\&lt;/c3&gt; deve essere usato in Windows &lt;c4&gt;/&lt;/c4&gt; nelle altre piattaforme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;div id="content"&gt;
+		
+&lt;h2&gt;OmegaT downloads overview&lt;/h2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165458Z">
+        <seg>&lt;div id="content"&gt;
+		
+&lt;h2&gt;Informazioni generali sui download di OmegaT&lt;/h2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5997,6 +6023,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T212321Z">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: avvia il controllo della mancanza o dell'uso scorretto di tag nei file formattati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;h3&gt;Download links&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165524Z">
+        <seg>&lt;h3&gt;Link di download&lt;/h3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9253,6 +9287,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T173222Z">
         <seg>&lt;p&gt;Tramite la finestra di dialogo &lt;b&gt;Anteprima caratteri&lt;/b&gt; può essere selezionato un diverso carattere per la visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165538Z">
+        <seg>&lt;p&gt;Links are provided below to the various versions of OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21103,6 +21145,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183049Z">
         <seg>Maggiori informazioni sullo script Kaptain e sull'aggiunta di elementi di menu e icone di avvio in Linux, sono reperibili nel Linux HowTo di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, read on under "Detailed descriptions".&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165545Z">
+        <seg>Per ulteriori informazioni, leggere sotto "Descrizioni dettagliate".&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
