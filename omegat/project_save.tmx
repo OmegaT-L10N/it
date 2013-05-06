@@ -9433,8 +9433,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222031Z">
-        <seg>Il Client ID o il Client Secret di Microsoft Translator non è disponibile. Per informazioni si veda il manuale di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222148Z">
+        <seg>I permessi che si concedono a questa versione (che potrebbero sembrare un "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale (per es., essi consentono l'accesso al disco rigido del computer).</seg>
       </tuv>
     </tu>
     <tu>
