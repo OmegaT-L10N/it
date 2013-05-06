@@ -44919,6 +44919,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170945Z">
+        <seg>L'ultima versione di solito sarà ragionevolmente stabile ed utilizzabile, ma può avere alcuni errori.&amp;&amp;&amp;&amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210515Z">
