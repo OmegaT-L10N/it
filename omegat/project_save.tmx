@@ -9293,8 +9293,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;Links are provided below to the various versions of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165538Z">
-        <seg>&lt;p&gt;Links are provided below to the various versions of OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165631Z">
+        <seg>&lt;p&gt;Sono forniti qui di seguito i link per le varie versioni di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9775,6 +9775,32 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213722Z">
         <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "Dizionari" (&lt;f2&gt;schermata, &lt;/f2&gt; &lt;f3&gt;a, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;b&gt;Standard versions&lt;/b&gt;&lt;br/&gt;
+(Currently version: 
+&lt;?php
+echo $standard_name
+?&gt;)
+&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165848Z">
+        <seg>&lt;td&gt;&lt;b&gt;Versioni standard&lt;/b&gt;&lt;br/&gt;
+(Versione corrente: 
+&lt;?php
+echo $standard_name
+?&gt;)
+&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;tr&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165903Z">
+        <seg>&lt;tr&gt;</seg>
       </tuv>
     </tu>
     <tu>
