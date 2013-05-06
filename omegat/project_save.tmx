@@ -904,6 +904,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160104Z">
+        <seg>&amp;OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Open Script...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T102504Z">
@@ -2643,6 +2651,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160109Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160110Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T172326Z">
@@ -3305,6 +3329,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160038Z">
+        <seg>3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124115Z">
@@ -3509,6 +3541,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124447Z">
         <seg>5.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160030Z">
+        <seg>6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4237,6 +4277,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102431Z">
         <seg>&lt;a4&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160108Z">
+        <seg>&lt;auto&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9753,6 +9801,16 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>==============================================================================
+6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160049Z">
+        <seg>==============================================================================
+6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>@@TRANSLATION_NOTICE@@</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173426Z">
@@ -15210,6 +15268,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commodity12</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160026Z">
+        <seg>Commodity12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T220857Z">
@@ -19367,6 +19433,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160141Z">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T191911Z">
@@ -22360,6 +22434,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T221216Z">
         <seg>La gestione dei tag impone un po' di pratica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hans-Peter Jacobs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160046Z">
+        <seg>Hans-Peter Jacobs</seg>
       </tuv>
     </tu>
     <tu>
@@ -34709,6 +34791,22 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160055Z">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160100Z">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093221Z">
@@ -36806,6 +36904,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213150Z">
         <seg>Polacco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portavita</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160021Z">
+        <seg>Portavita</seg>
       </tuv>
     </tu>
     <tu>
@@ -46696,6 +46802,14 @@ instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T192912Z">
         <seg>Il sistema della guida (che contiene questo manuale) può essere richiamato premendo &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; oppure navigando in &lt;g2&gt;&lt;i3/&gt;Aiuto → Manuale dell'utente...&lt;/g2&gt;, all'interno del menu principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160153Z">
+        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
     </tu>
     <tu>
@@ -60799,6 +60913,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160041Z">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://openoffice.mirror.wrpn.net/contrib/dictionaries/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150748Z">
@@ -61079,6 +61201,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.commodity12.eu/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160022Z">
+        <seg>http://www.commodity12.eu/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.dci.clrc.ac.uk/Publications/Cookbook/index.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101715Z">
@@ -61347,6 +61477,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102750Z">
         <seg>http://www.pcw.gr/StepByStep/FN/255.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.portavita.eu/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160019Z">
+        <seg>http://www.portavita.eu/</seg>
       </tuv>
     </tu>
     <tu>
@@ -63019,6 +63157,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101538Z">
         <seg>te-gloss-highlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-gloss-subst</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160009Z">
+        <seg>te-gloss-subst</seg>
       </tuv>
     </tu>
     <tu>
