@@ -10159,6 +10159,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230837Z">
+        <seg>&lt;td&gt;Una guida passo passo su come utilizzare l'utilità fusione testo da Rainbow file pre- e post- processo e l'estrazione di testo da tradurre usando OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230219Z">
@@ -10267,6 +10275,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230025Z">
         <seg>&lt;td&gt;Procedura per la configurazione di Microsoft Translator su un Mac.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Procedure for using OmegaT to localize Magento.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230757Z">
+        <seg>&lt;td&gt;Procedura per l'utilizzo di OmegaT per localizzare Magento.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50630,6 +50646,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T151906Z">
         <seg>Queste unità sono state saltate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230934Z">
+        <seg>Queste utilità abilitano OmegaT a essere usato per tradurre per cui XLIFF sono disponibili filtri di conversione di formati di file&amp;&amp;&amp;&amp;.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
