@@ -10151,6 +10151,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230219Z">
+        <seg>&lt;td&gt;Aggiunge il riconoscimento delle forme flesse di OmegaT alle funzioni glossario e concordanza parziale.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;An introduction to working with OmegaT, by Thomas Zahreddin and Eugen Mayer (in German).&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225005Z">
@@ -10215,6 +10223,22 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;Explains how to compile OmegaT from the source code.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230304Z">
+        <seg>&lt;td&gt;Spiega come compilare il codice sorgente OmegaT.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Explains how to create a filter for a new file format to be translated by OmegaT.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230325Z">
+        <seg>&lt;td&gt;Spiega come creare un filtro per un nuovo formato di file da tradurre da OmegaT.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;Procedure for configuring Microsoft Translator on a Mac.&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230025Z">
@@ -10247,6 +10271,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230000Z">
         <seg>&lt;td&gt;Usare OmegaT in collaborazione con Google Translate.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Using the OmegaT text export function (scripting interface).&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230249Z">
+        <seg>&lt;td&gt;Usare la funzione di esportazione del testo di OmegaT (interfaccia di scripting).&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
