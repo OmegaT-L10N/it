@@ -6027,10 +6027,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h2&gt;Detailed descriptions&lt;/h2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170356Z">
+        <seg>&lt;h2&gt;Descrizioni dettagliate&lt;/h2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Download links&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165524Z">
         <seg>&lt;h3&gt;Link di download&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;h3&gt;Standard version&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170442Z">
+        <seg>&lt;h3&gt;Versione standard&lt;/h3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9299,6 +9315,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;Note that the categories are not mutually exclusive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170419Z">
+        <seg>&lt;p&gt;Nota che le categorie non sono mutuamente esclusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;The Standard version has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170534Z">
+        <seg>&lt;p&gt;Lo versione standard solitamente è in uso da qualche tempo ed è pertanto collaudata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;project-dir&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181643Z">
@@ -9797,6 +9829,14 @@ echo $latest_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;b&gt;Legacy versions&lt;/b&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170303Z">
+        <seg>&lt;td&gt;&lt;b&gt;Versioni precedenti&lt;/b&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;&lt;b&gt;Standard versions&lt;/b&gt;&lt;br/&gt;
 (Currently version: 
 &lt;?php
@@ -9811,6 +9851,14 @@ echo $standard_name
 echo $standard_name
 ?&gt;)
 &lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;b&gt;Trunk version&lt;/b&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170338Z">
+        <seg>&lt;td&gt;&lt;b&gt;Versione trunk&lt;/b&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10480,6 +10528,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T104939Z">
         <seg>Un'unità di traduzione è composta, almeno, da due &lt;i1&gt;varianti di unità di traduzione&lt;/i1&gt; (tuv).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A version may be "Standard, without JRE, for Windows", or "Latest, with JRE, for Linux", etc.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170434Z">
+        <seg>Potrebbe essere una versione "Standard, senza JRE per Windows", o "Ultime, con JRE per Linux", ecc&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
