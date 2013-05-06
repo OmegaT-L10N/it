@@ -6053,6 +6053,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;Source code packages&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223728Z">
+        <seg>&lt;h3&gt;Pacchetti di codice sorgente&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Standard version&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170442Z">
@@ -9435,6 +9443,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222838Z">
         <seg>&lt;p&gt;Informativa sulla privacy: OmegaT Java Web Start non salva le tue informazioni sul server web di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223759Z">
+        <seg>&lt;p&gt;I Pacchetti di codice sorgente non sono richiesti dagli utenti e sono intesi solo per gli sviluppatori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28172,6 +28188,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be obtained using the subversion command:&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223716Z">
+        <seg>Può essere ottenuta anche utilizzando il comando di subversion:&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T220655Z">
@@ -28565,6 +28589,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T220825Z">
         <seg>Viene fornito come file compresso (zip o tar) e va scompattato nella cartella di propria scelta per l'installazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223643Z">
+        <seg>È consigliabile soltanto per sviluppatori esperti e collaudatori.</seg>
       </tuv>
     </tu>
     <tu>
