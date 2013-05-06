@@ -20035,8 +20035,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173148Z">
-        <seg>I file nei vecchi formati di MS Word, Excel e Powerpoint possono essere tradotti  dopo la conversione per gli equivalenti attuali formati Microsoft Office, o in alternativa al formato Office Open XML, tramita OpenOffice.org o LibreOffice (gratuiti).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T162236Z">
+        <seg>I file nei vecchi formati di MS Word, Excel e Powerpoint possono essere tradotti  dopo la conversione negli equivalenti attuali formati Microsoft Office, o in alternativa nel formato Office Open XML, tramite OpenOffice.org o LibreOffice (gratuiti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50201,8 +50201,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>Third-party software</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204749Z">
-        <seg>Software da terze parti</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T162243Z">
+        <seg>Software di terze parti</seg>
       </tuv>
     </tu>
     <tu>
