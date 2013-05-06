@@ -10159,10 +10159,50 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;Describes OmegaT's compatibility with DÃ©jÃ  Vu.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225542Z">
+        <seg>&lt;td&gt;Descrive la Compatibilità di OmegaT con DÃ©jÃ  Vu.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225515Z">
+        <seg>&lt;td&gt;Descrive la Compatibilità di OmegaT con i file di Microsoft Office 2007, soprattutto Word 2007.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;Describes OmegaT's compatibility with selected other software products.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225336Z">
         <seg>&lt;td&gt; descrive  la compatibilità di OmegaT con altri prodotti software selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Describes OmegaT's spellchecking feature.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225717Z">
+        <seg>&lt;td&gt;Descrive la funzione di correzione ortografica di OmegaT.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225618Z">
+        <seg>&lt;td&gt;Viene descritto come utilizzare OmegaT in congiunzione con Iceni Infix al fine di tradurre i file in formato PDF.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225555Z">
+        <seg>&lt;td&gt;Viene descritto come utilizzare OmegaT in congiunzione con il formato RTF bilingue Trados (file "nominalmente").&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
