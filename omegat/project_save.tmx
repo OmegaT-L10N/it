@@ -6041,6 +6041,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;HOWTOs&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225020Z">
+        <seg>&lt;h3&gt;GUIDE&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Latest version&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170724Z">
@@ -9533,8 +9541,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;The following tutorials are available online/for download:&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224651Z">
-        <seg>&lt;p&gt;Le seguenti esercitazioni sono disponibili online per il download:&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224833Z">
+        <seg>&lt;p&gt;Le seguenti istruzioni brevi sono disponibili online per il download:&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10059,6 +10067,22 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="tutorial/OmegaT for Beginners.odt"&gt;OmegaT for Beginners tutorial&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224929Z">
+        <seg>&lt;td&gt;&lt;a href="tutorial/OmegaT for Beginners.odt"&gt; Tutorial OmegaT per principianti&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="tutorial/OmegaT for Beginners.pdf"&gt;OmegaT for Beginners tutorial&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224950Z">
+        <seg>&lt;td&gt;&lt;a href="tutorial/OmegaT for Beginners.pdf"&gt;Tutorial OmegaT per principianti&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;&lt;b&gt;Latest versions&lt;/b&gt;&lt;br/&gt;
 (Currently version: 
 &lt;?php
@@ -10115,6 +10139,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170159Z">
         <seg>&lt;td&gt;&lt;b&gt;Versioni Web Start&lt;/b&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;An introduction to working with OmegaT, by Thomas Zahreddin and Eugen Mayer (in German).&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225005Z">
+        <seg>&lt;td&gt;Un'introduzione al lavoro con OmegaT, da Thomas Zahreddin ed Eugen Mayer (in tedesco).&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
