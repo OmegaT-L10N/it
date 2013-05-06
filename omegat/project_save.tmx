@@ -9377,6 +9377,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225233Z">
+        <seg>&lt;p&gt;I documenti "Guida" su questo sito, contenente informazioni su determinate procedure e caratteristiche di OmegaT per utenti avanzati che non sono coperti da manuale.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;A different display font can be selected via the &lt;b&gt;Display Font&lt;/b&gt;dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T173222Z">
@@ -10147,6 +10155,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225005Z">
         <seg>&lt;td&gt;Un'introduzione al lavoro con OmegaT, da Thomas Zahreddin ed Eugen Mayer (in tedesco).&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225336Z">
+        <seg>&lt;td&gt; descrive  la compatibilità di OmegaT con altri prodotti software selezionati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57800,6 +57816,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T173558Z">
         <seg>Con testo meno ricco di tag è possibile eliminare l'intero contenuto del campo di destinazione e immettere semplicemente la traduzione, o è possibile impostare OmegaT per lasciarla vuota (consultare il manuale utente per ulteriori dettagli).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225425Z">
+        <seg>Con i collegamenti a guide più dettagliate.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
