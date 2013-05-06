@@ -6037,6 +6037,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;Legacy versions&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222945Z">
+        <seg>&lt;h3&gt;Versioni precedenti&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Platform (operating system)&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171003Z">
@@ -9363,6 +9371,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171015Z">
         <seg>&lt;p&gt;Al fine di eseguire, OmegaT richiede il Java Runtime Environment (JRE) per essere installato sul tuo computer.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223217Z">
+        <seg>&lt;p&gt;Le versioni ereditate sono versioni più vecchie e superate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21389,6 +21405,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223110Z">
+        <seg>Per la maggior parte degli utenti, queste non sono di interesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For other kind of contributions, subscribe first to the user group at:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T193721Z">
@@ -23260,6 +23284,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T201242Z">
         <seg>È bene sapere, tuttavia, cosa è possibile fare e come farlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223147Z">
+        <seg>Tuttavia, alcuni utenti possono affrontare restrizioni (imposte dal loro sistema operativo o dalla versione Java) che possono causare una preferenza per una versione precedente.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59590,6 +59622,14 @@ them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T112444Z">
         <seg>I documenti e le memorie di traduzione restano nel computer dell'utente e il progetto &lt;a2&gt;OmegaT&lt;/a2&gt; non avrà accesso al suo lavoro o alle informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222918Z">
+        <seg>I documenti e le memorie di traduzione rimangono sul tuo computer, e il progetto OmegaT non avrà accesso al lavoro o a informazioni.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
