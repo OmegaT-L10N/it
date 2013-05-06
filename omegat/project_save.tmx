@@ -10183,6 +10183,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;Describes OmegaT's propagation and one-to-many matching features.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225928Z">
+        <seg>&lt;td&gt;Descrive le caratteristiche propagazione della concordanza e concordanza uno a molti di OmegaT.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;Describes OmegaT's spellchecking feature.&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225717Z">
@@ -10207,6 +10215,22 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;Procedure for configuring Microsoft Translator on a Mac.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230025Z">
+        <seg>&lt;td&gt;Procedura per la configurazione di Microsoft Translator su un Mac.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Setting up a preview function for use with OmegaT.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230048Z">
+        <seg>&lt;td&gt;Creazione di una funzione di anteprima per uso con OmegaT.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;The user manual for OmegaT in PDF format (OmegaT version &lt;?php
 echo $standard_name
 ?&gt;).&lt;/td&gt;</seg>
@@ -10215,6 +10239,14 @@ echo $standard_name
         <seg>&lt;td&gt;Il manuale dell'utente per OmegaT in formato PDF (versione di OmegaT &lt;?php
 echo $standard_name
 ?&gt;).&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Using OmegaT in conjunction with Google Translate.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230000Z">
+        <seg>&lt;td&gt;Usare OmegaT in collaborazione con Google Translate.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
