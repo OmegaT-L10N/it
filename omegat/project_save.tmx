@@ -6051,10 +6051,34 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;Platform (operating system)&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171003Z">
+        <seg>&lt;h3&gt;Piattaforma (sistema operativo)&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Standard version&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170442Z">
         <seg>&lt;h3&gt;Versione standard&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;h3&gt;Web Start version&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171100Z">
+        <seg>&lt;h3&gt;Versione Web Start&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;h3&gt;With/without JRE&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171011Z">
+        <seg>&lt;h3&gt;Con o senza JRE&lt;/h3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9315,6 +9339,40 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;During installation, depending on your operating system, you may receive several security warnings.&lt;br/&gt; 
+The certificate is self-signed by "Didier Briel".&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171228Z">
+        <seg>&lt;p&gt;Durante l'installazione, in base al sistema operativo, si potrebbero ricevere diversi avvisi di sicurezza.&lt;br/&gt; 
+Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171018Z">
+        <seg>&lt;p&gt;Se siete sicuri che una versione adatta di JRE è già installata sul vostro computer, è possibile scaricare una versione di OmegaT senza JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;If you install the OmegaT version even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171026Z">
+        <seg>JRE di &lt;p&gt;se si installa la versione di OmegaT anche se JRE è già installato sul vostro computer, OmegaT verrà installato separatamente e non sarà in conflitto con esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;In order to run, OmegaT requires&amp;nbsp;the Java Runtime Environment (JRE) to be installed on your computer.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171015Z">
+        <seg>&lt;p&gt;Al fine di eseguire, OmegaT richiede il Java Runtime Environment (JRE) per essere installato sul tuo computer.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;Links are provided below to the various versions of OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165631Z">
@@ -9323,10 +9381,34 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;Linux users: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171045Z">
+        <seg>Gli utenti di Linux &lt;p&gt;: la maggior parte delle distribuzioni di Linux sono fornite con un ambiente di Runtime Java, ma alcune implementazioni open-source non funzionano correttamente con OmegaT (anche se questo potrebbe non essere immediatamente evidente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;Mac OS X users: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171042Z">
+        <seg>&lt;p&gt;Gli utenti di Mac OS X: JRE è installato su Mac OS X per impostazione predefinita, pertanto esiste una versione per Mac OS X con il JRE.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;Note that the categories are not mutually exclusive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170419Z">
         <seg>&lt;p&gt;Nota che le categorie non sono mutuamente esclusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;Platform-specific versions of OmegaT are provided for Windows, Linux and Mac OS X. A platform-indpendent version is also available which will run on any operating system capable of running a suitable version of the Java Runtime Environment.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171006Z">
+        <seg>&lt;p&gt;Piattaforma-specifiche versioni di OmegaT sono fornite per Windows, Linux e Mac OS X. Piattaforma-indipendente è disponibile una versione anche che verrà eseguito su qualsiasi sistema operativo in grado di eseguire una versione adatta di Java Runtime Environment.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9343,6 +9425,30 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170534Z">
         <seg>&lt;p&gt;Lo versione standard solitamente è in uso da qualche tempo ed è pertanto collaudata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;The Web Start version offers an alternative means of installing OmegaT on your computer.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171103Z">
+        <seg>&lt;p&gt;Il Web Start versione offre un mezzo alternativo di installazione sul vostro computer di OmegaT.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171248Z">
+        <seg>&lt;p&gt;The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;With this version, future updates will be installed automatically.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171108Z">
+        <seg>&lt;p&gt;Con questa versione, i futuri aggiornamenti verranno installati automaticamente.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17909,6 +18015,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170957Z">
+        <seg>Documentazione, in particolare delle nuove funzionalità, sarà meno completa rispetto a quella della versione Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T212231Z">
@@ -24772,6 +24886,14 @@ that you install an OmegaT version with JRE included.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171049Z">
+        <seg>Se siete relativamente nuovo di Linux, vi consigliamo di selezionare una versione di OmegaT con il JRE incluso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081055Z">
@@ -24808,6 +24930,14 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T185737Z">
         <seg>Se non si riesce ad avviare normalmente &lt;a0&gt;OmegaT&lt;/a0&gt; (non è disponibile un ambiente grafico): copiare i file delle impostazioni da qualche altra installazione di &lt;a1&gt;OmegaT&lt;/a1&gt;, presente in un'altra macchina, in una cartella specifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171036Z">
+        <seg>Se non siete sicuri se o non avete una versione adatta di JRE, selezionare una versione con JRE (o la versione di Default).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27163,6 +27293,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171023Z">
+        <seg>In questo caso, non selezionare la versione di Default; selezionare una versione diversa (ad esempio, Standard o più recenti), quindi selezionare una versione contrassegnata "Java non inclusa".&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, however:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T191921Z">
@@ -28449,6 +28587,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T185249Z">
         <seg>È la memoria di traduzione usata per creare i file tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171029Z">
+        <seg>Pertanto è sempre sicuro di installare la versione di OmegaT con JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31367,6 +31513,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T220605Z">
         <seg>Altre informazioni possono essere reperite nell'articolo &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; di Joel Spolsky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171052Z">
+        <seg>Gli utenti Linux più esperti preferiscono installare Oracle (precedentemente Sun) JRE a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46292,6 +46446,15 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less
+space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171020Z">
+        <seg>Il download sarà più veloce, e l'installazione richiede meno spazio sul disco rigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The easiest way for a customers to ensure that these two conditions are met is for them to pretranslate the text themselves before passing it to the translator (thereby defining how it is segmented), and to create the translation memory in the CAT tool of their choice after receiving the translated intermediate bilingual file from the translator (thereby ensuring that the formatting information contained within the translation memory will be compatible with future projects).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T071653Z">
@@ -55605,6 +55768,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T122109Z">
         <seg>Per essere in grado di usare OmegaT, gli utenti di piattaforme differenti (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64, e via discorrendo) devono avere installato un JRE Java compatibile e funzionante sul proprio sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170959Z">
+        <seg>Gli utenti che hanno già qualche esperienza con OmegaT spesso preferiscono la versione più recente.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
