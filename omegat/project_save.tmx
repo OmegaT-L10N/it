@@ -6039,8 +6039,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;h3&gt;Legacy versions&lt;/h3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222945Z">
-        <seg>&lt;h3&gt;Versioni precedenti&lt;/h3&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223244Z">
+        <seg>&lt;h3&gt;Versioni ereditate&lt;/h3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6057,6 +6057,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170442Z">
         <seg>&lt;h3&gt;Versione standard&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;h3&gt;Trunk version&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223457Z">
+        <seg>&lt;h3&gt;Versione trunk&lt;/h3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9427,6 +9435,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222838Z">
         <seg>&lt;p&gt;Informativa sulla privacy: OmegaT Java Web Start non salva le tue informazioni sul server web di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;The /trunk (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223515Z">
+        <seg>&lt;p&gt;La versione /trunk (alfa) riflette lo stato più recente di sviluppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23290,8 +23306,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223147Z">
-        <seg>Tuttavia, alcuni utenti possono affrontare restrizioni (imposte dal loro sistema operativo o dalla versione Java) che possono causare una preferenza per una versione precedente.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223426Z">
+        <seg>Tuttavia, alcuni utenti possono dover affrontare restrizioni (imposte dal loro sistema operativo o dalla versione Java) che li inducono a preferire una versione precedente.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
