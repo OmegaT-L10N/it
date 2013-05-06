@@ -9369,6 +9369,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224219Z">
+        <seg>&lt;p&gt;Una Guida rapida, che vi guida attraverso le principali procedure e funzioni di OmegaT, viene visualizzata nell'interfaccia utente di OmegaT per impostazione predefinita.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;During installation, depending on your operating system, you may receive several security warnings.&lt;br/&gt; 
 The certificate is self-signed by "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
@@ -9527,6 +9535,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171108Z">
         <seg>&lt;p&gt;Con questa versione, i futuri aggiornamenti verranno installati automaticamente.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224248Z">
+        <seg>&lt;p&gt;È anche possibile chiamare il manuale fornito con OmegaT senza lanciare OmegaT stessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10007,6 +10023,22 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T213722Z">
         <seg>&lt;t1/&gt;Fare clic su Scegli e passare alla cartella "Dizionari" (&lt;f2&gt;schermata, &lt;/f2&gt; &lt;f3&gt;a, &lt;/f3&gt; &lt;f4&gt;sotto)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;?php $link='&lt;a
+href="http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_documentation_en.PDF/download"
+&gt;';
+$endlink='&lt;/a&gt;';?&gt;
+&lt;?php echo $link ?&gt;User manual online&lt;?php echo $endlink ?&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224415Z">
+        <seg>&lt;td&gt;&lt;?php $link='&lt;a
+href="http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_documentation_en.PDF/download"
+&gt;';
+$endlink='&lt;/a&gt;';?&gt;
+&lt;?php echo $link ?&gt;Manuale dell'utente online&lt;?php echo $endlink ?&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28260,6 +28292,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T092942Z">
         <seg>Può anche individuare alcuni errori grammaticali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224330Z">
+        <seg>Si può trovare nella cartella "documenti" nella cartella di programma di OmegaT.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
