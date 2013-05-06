@@ -6043,6 +6043,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;Latest version&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170724Z">
+        <seg>&lt;h3&gt;Ultima versione&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Standard version&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170442Z">
@@ -9319,6 +9327,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170419Z">
         <seg>&lt;p&gt;Nota che le categorie non sono mutuamente esclusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170739Z">
+        <seg>&lt;p&gt;L'ultima versione è una versione più recente rispetto alla versione Standard e include nuove caratteristiche non presenti in quest'ultima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28663,6 +28679,14 @@ all'interno della cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will however lack some of the features of the "Latest" version.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170717Z">
+        <seg>Tuttavia alcune delle caratteristiche della versione "Ultima" mancheranno.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will install the correct environment for your computer and the application</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093154Z">
@@ -28732,6 +28756,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092907Z">
         <seg>Il suo contenuto sarà sempre ordinato alfabeticamente dal segmento di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170635Z">
+        <seg>La relativa documentazione, almeno in inglese, è solitamente ragionevolmente aggiornata.</seg>
       </tuv>
     </tu>
     <tu>
