@@ -15944,6 +15944,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the .png file type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131833Z">
+        <seg>Scegliere il tipo di file .png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104524Z">
@@ -18167,8 +18175,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092216Z">
-        <seg>Consegnare il tuo file per il localizzazione coordinatore, che passerà al team di sviluppo per l'inclusione nella prossima release di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132019Z">
+        <seg>Consegnare il tuo file al coordinatore di localizzazione, che lo passerà al team di sviluppo per l'inclusione nella prossima release di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33303,6 +33311,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191612Z">
         <seg>Nome della TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name the image NewImage.png</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131912Z">
+        <seg>Chiamare l'immagine NewImage.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -55019,6 +55035,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195923Z">
         <seg>Per produrre un file di OpenOffice.Org bilingue contenente i delimitatori di segmento di Trados, chiudere il progetto OmegaT, quindi eseguire il seguente script AutoIt (richiede Windows) sul file del progetto project_save.tmx:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131754Z">
+        <seg>Per produrre una schermata, lanciare OmegaT e creare uno schermata adatta per la cattura, visualizzando percorsi tipici come la finestra di dialogo il "Crea nuovo progetto".</seg>
       </tuv>
     </tu>
     <tu>
