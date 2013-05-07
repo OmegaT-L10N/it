@@ -31032,6 +31032,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch OmegaT from the command line (MS-DOS window) with the following commands (if you are unsure how to do this, refer to the OmegaT user manual)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130740Z">
+        <seg>Lanciare OmegaT dalla riga di comando (finestra MS-DOS) con i seguenti comandi (se non siete sicuri come eseguire questa operazione, consultare il manuale utente di OmegaT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch Open Office Writer and create a new text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T220437Z">
@@ -45782,6 +45790,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test your translation (optional).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130612Z">
+        <seg>Collauda la tua traduzione (opzionale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Test your translation (optional).&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091855Z">
@@ -55191,6 +55207,14 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test the user interface:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130658Z">
+        <seg>Per collaudare l'interfaccia utente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T054607Z">
@@ -58110,6 +58134,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T214053Z">
         <seg>Garanzia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130539Z">
+        <seg>Siamo grati per tutte le traduzioni, ma se i file vengono restituiti nello stesso formato (e non, per esempio, come file di Word) ciò semplifica notevolmente il nostro lavoro.</seg>
       </tuv>
     </tu>
     <tu>
