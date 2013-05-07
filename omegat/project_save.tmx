@@ -29732,8 +29732,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104438Z">
-        <seg>Vale anche la pena di chiedere l'&lt;a1&gt;elenco dei localizzatori&lt;/a1&gt; (OmT-l10n) se qualcuno ha qualsiasi materiale di riferimento che potrebbe facilitare la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125605Z">
+        <seg>Vale anche la pena di chiedere sull'&lt;a1&gt;elenco dei localizzatori&lt;/a1&gt; (OmT-l10n) se qualcuno ha qualsiasi materiale di riferimento che potrebbe facilitare la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55957,6 +55957,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation memory (TMX) files of older localizations of OmegaT, the documentation and the website can be found in the &lt;a0&gt;"Files" section of the online user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125544Z">
+        <seg>I file di memoria di traduzione (TMX) delle precedenti localizzazioni di OmegaT, la documentazione e il sito sono reperibili nella &lt;a0&gt;sezione "File" del gruppo di utenti online&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memory (fuzzy match function)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T120804Z">
@@ -58544,8 +58552,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When unpacked, the files for localization of the OmegaT program are a ready-to-use OmegaT project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091756Z">
-        <seg>Quando decompresso, i file per la localizzazione di OmegaT programma sono un progetto OmegaT ready-to-use.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125735Z">
+        <seg>Quando decompresso, i file per la localizzazione del programma OmegaT sono un progetto OmegaT pronto all'uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60817,6 +60825,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090727Z">
         <seg>Non devi tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (bundle), o appena l'instant start tutorial.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not need to create an OmegaT project as you normally would.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125805Z">
+        <seg>Non è necessario creare un progetto OmegaT come si farebbe normalmente.</seg>
       </tuv>
     </tu>
     <tu>
