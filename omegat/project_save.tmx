@@ -1424,6 +1424,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131426Z">
+        <seg>(Se avete tradotto in una lingua che non è la lingua del sistema operativo, vedere sotto, "Come OmegaT gestisce le versioni localizzate".)&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092148Z">
@@ -39133,8 +39141,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Produce a screenshot of OmegaT in your language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092152Z">
-        <seg>Produrre uno screenshot di OmegaT nella tua lingua.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131519Z">
+        <seg>Produrre una schermata di OmegaT nella tua lingua.</seg>
       </tuv>
     </tu>
     <tu>
