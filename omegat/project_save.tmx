@@ -6033,6 +6033,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;Blogs&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071114Z">
+        <seg>&lt;h3&gt;Blog&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;h3&gt;Books&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071103Z">
+        <seg>&lt;h3&gt;Libri&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Download links&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165524Z">
@@ -10199,6 +10215,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;An introductory video to OmegaT in English by John Moran.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T070851Z">
+        <seg>&lt;td&gt;Un video introduttivo di OmegaT in inglese da John Moran.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;Describes OmegaT's compatibility with DÃ©jÃ  Vu.&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225542Z">
@@ -10271,6 +10295,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;From the YouTube OmegaT series by Miguel Navarro (in Spanish).&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071020Z">
+        <seg>&lt;td&gt;Dalla serie  YouTube di Miguel Navarro per OmegaT (in spagnolo).&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;Intended in particular for users who are new to Linux.&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230453Z">
@@ -10281,8 +10313,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>&lt;td&gt;OmegaT videos on the Qabiria YouTube channel.&lt;/td&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T070811Z">
-        <seg>&lt;td&gt;Video per OmegaT  sul canale YouTube Qabiria.&lt;/td&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T070859Z">
+        <seg>&lt;td&gt;Video per OmegaT sul canale YouTube Qabiria.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
