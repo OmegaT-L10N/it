@@ -9797,6 +9797,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;The OmegaT website includes files in HTML and, as of 2011, PHP format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090825Z">
+        <seg>&lt;p&gt;OmegaT il sito include file in HTML e, a partire dal 2011, formato PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;The Standard version has usually been in use for some time and is therefore proven.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T074302Z">
@@ -54588,6 +54596,14 @@ read:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130829Z">
         <seg>Per tradurre il file in OmegaT, procedere come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate the latter in OmegaT, you must register the .php extension with the XHTML filter as follows:&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091246Z">
+        <seg>Per tradurre quest'ultimo in OmegaT, è necessario registrare l'estensione. php con il filtro XHTML come segue:&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
