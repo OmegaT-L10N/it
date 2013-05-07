@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1870,6 +1870,14 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The "instant start" guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102746Z">
+        <seg>* La guida "instant start" (una breve introduzione all'utilizzo di OmegaT) &lt;br/&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The OmegaT web pages (probably where you are reading this)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085051Z">
@@ -1894,10 +1902,26 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The user interface (menus etc.)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102718Z">
+        <seg>* L'interfaccia utente (menu ecc.) &lt;br/&gt;&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The user manual (very comprehensive)&lt;br/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085026Z">
         <seg>* Il manuale dell'utente (molto completo) &lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user manual (very comprehensive)&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102733Z">
+        <seg>* Il manuale dell'utente (molto completo) &lt;br/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13821,6 +13845,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the program is intended for translators throughout the world and not just in English-speaking countries, it is appropriate that the documentation (and, if possible, the program itself) be available in other languages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102622Z">
+        <seg>Siccome il programma è destinato per i traduttori in tutto il mondo e non solo nei paesi di lingua inglese, è opportuno che la documentazione e, se possibile, il programma stesso, siano disponibili in altre lingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T105802Z">
@@ -14001,6 +14033,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T205859Z">
         <seg>Al momento della scrittura, OmegaT funzionerà molto meglio con la versione di Oracle di Java (vedi sopra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the time of writing, the material to be translated comprises:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102710Z">
+        <seg>&lt;p&gt;Al momento della scrittura, il materiale da tradurre è composto da:&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29120,6 +29160,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102635Z">
+        <seg>Invece, coloro che sono coinvolti nel progetto OmegaT sperano che le traduzioni saranno fornite innanzitutto da traduttori che hanno provato OmegaT e sono convinti del suo valore per l'intera comunità traduzione.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084959Z">
@@ -35383,6 +35431,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T211630Z">
         <seg>OmegaT è un'applicazione di memoria di traduzione gratuita scritta in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free, open-source translation memory program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102608Z">
+        <seg>&lt;p&gt;OmegaT è un programma per memoria di traduzione gratuito, open source.OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46471,6 +46527,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body; just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102558Z">
+        <seg>Il gruppo di progetto di OmegaT non è una società o una persona giuridica formale, ma solo un gruppo di volontari coinvolti nel progetto OmegaT.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT project team is not a company or formal legal body; just a group of volunteers involved in the OmegaT project.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084206Z">
@@ -50726,6 +50790,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075137Z">
         <seg>La fase di traduzione è solo una parte del flusso di lavoro del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation work</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102659Z">
+        <seg>Il lavoro di traduzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -55849,6 +55921,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T184905Z">
         <seg>Traduzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation: general remarks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102546Z">
+        <seg>Traduzione: osservazioni generali</seg>
       </tuv>
     </tu>
     <tu>
