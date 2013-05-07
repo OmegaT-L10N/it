@@ -17309,6 +17309,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the files that you have unzipped from the tokenizer package directly into this sub-folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134653Z">
+        <seg>Copiare i file che avete scompattato il pacchetto tokenizer direttamente in questa sottocartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T115320Z">
@@ -19576,6 +19584,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T185530Z">
         <seg>In questo caso, scaricarlo da:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the &lt;cp0/&gt; &lt;cp1/&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;cp2/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134555Z">
+        <seg>Scarica il &lt;cp0/&gt; &lt;cp1/&gt; pacchetto zip tokenizer (per versione 2.1.1 OmegaT e più tardi) &lt;cp2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28659,6 +28675,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134627Z">
+        <seg>Nella principale cartella del programma OmegaT (cioè la cartella contenente il file OmegaT.jar), creare una sottocartella chiamata "plugins", se non esiste già una sottocartella con tale nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124202Z">
@@ -29476,6 +29500,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091255Z">
         <seg>Guida di avvio rapido - Manuale per l'Utente di OmegaT 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134754Z">
+        <seg>Invece, avviare un editor di testo (come Notepad o Wordpad), quindi aprire il file di script di lancio con File &gt; Apri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37635,6 +37667,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104822Z">
         <seg>Aprire la vista &lt;e0&gt; Projects&lt;/e0&gt; per il proprio account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open your launch script file in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134704Z">
+        <seg>Aprire il file di script di lancio in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47506,6 +47546,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic form of this command is:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134845Z">
+        <seg>La forma base di questo comando è:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic idea is that the text is presented to you one segment at a time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T172748Z">
@@ -49122,6 +49170,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092350Z">
         <seg>Il comando di lancio può essere trovato il file "omegat" o "omegat.bat" nella cartella contenente il programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The launch file script contains the OmegaT launch command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134839Z">
+        <seg>Il file script di lancio contiene il comando di lancio di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57097,6 +57153,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unzip the files from the tokenizer zip package.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134603Z">
+        <seg>Decomprimere i file dal pacchetto zip tokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unzip the files, and put them all in the "plugins" folder located in OmegaT installation folder, that is the folder that contains the OmegaT.jar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T093401Z">
@@ -59584,6 +59648,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows users (in particular): do &lt;s0&gt;not&lt;/s0&gt; simply click on this file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134719Z">
+        <seg>Gli utenti di Windows (in particolare):  &lt;s0&gt;non&lt;/s0&gt; basta cliccare su questo file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222744Z">
@@ -61241,6 +61313,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T155314Z">
         <seg>Facendo clic sul pulsante “Importa i file di partenza...” si ha la possibilità di aggiungere nuovi file al progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134813Z">
+        <seg>Si può anche essere in grado di fare clic destro con il mouse sul file, quindi selezionare un editor di testo per aprirlo.</seg>
       </tuv>
     </tu>
     <tu>
