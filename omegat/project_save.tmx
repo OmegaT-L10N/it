@@ -1248,6 +1248,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;nbsp; &amp;nbsp; &amp;nbsp;java -jar OmegaT.jar resource-bundle=[name of bundle with full path]&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092102Z">
+        <seg>&amp;nbsp; &amp;nbsp; &amp;nbsp;java -jar OmegaT.jar resource-bundle=[nome del bundle con il percorso completo]&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T105016Z">
@@ -1404,6 +1412,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072108Z">
         <seg>(Se si seleziona Opzioni &gt; Vista &gt; "Mostra i segmenti di partenza in grassetto; Includi il primo segmento non univoco quando evidenzi i segmenti non univoci", tutti i segmenti non univoci, tra cui il primo, saranno contrassegnati in grassetto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092148Z">
+        <seg>(Se sono tradotti in una lingua che non è la lingua del sistema operativo, vedi sotto, "Come OmegaT gestisce le versioni localizzate".)&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6155,6 +6171,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;How OmegaT handles localized versions&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092330Z">
+        <seg>&lt;h3&gt;Come OmegaT maniglie versioni localizzate&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Latest version&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170724Z">
@@ -9595,6 +9619,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt; Change this by adding the user language option and the corresponding language code, e.g. in the following case for French:&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092403Z">
+        <seg>&lt;p&gt;Cambiare questo aggiungendo l'opzione lingua utente e il codice della lingua corrispondente, ad esempio nel caso seguente per il francese:&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072927Z">
@@ -9643,10 +9675,26 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;At the time of writing, OmegaT detects the language of the operating system you are using.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092336Z">
+        <seg>&lt;p&gt;Al momento della scrittura, OmegaT rileva la lingua del sistema operativo che si sta utilizzando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;At the time of writing, the material to be translated comprises:&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085012Z">
         <seg>&lt;p&gt;Al momento della scrittura, il materiale da tradurre è composto da:&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;Choose the .png file type&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092207Z">
+        <seg>&lt;p&gt;Scegli il tipo di file. png&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9657,6 +9705,14 @@ The certificate is self-signed by "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171228Z">
         <seg>&lt;p&gt;Durante l'installazione, in base al sistema operativo, si potrebbero ricevere diversi avvisi di sicurezza.&lt;br/&gt; 
 Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;If OmegaT contains a language version which you would like to use but is not the language of your operating system, you can force OmegaT to use the desired version by changing the launch command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092347Z">
+        <seg>&lt;p&gt;Se OmegaT contiene una versione di lingua che piacerebbe utilizzare ma non è la lingua del sistema operativo, è possibile forzare OmegaT per utilizzare la versione desiderata modificando il comando di lancio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9710,6 +9766,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092135Z">
+        <seg>&lt;p&gt;Nella cartella /docs/ del programma OmegaT, creare una sottocartella con il codice ISO della vostra lingua del sistema operativo (Rinomina la cartella esistente temporaneamente se già esiste) e copiare il manuale in questa cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;Information on procedures and features of OmegaT for advanced users which can be found on other sites.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230625Z">
@@ -9754,6 +9818,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081231Z">
         <seg>&lt;p&gt;Utenti di Mac OS X: JRE è installato su Mac OS X per impostazione iniziale, pertanto esiste una versione per Mac OS X con il JRE.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;Name the image NewImage.png&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092211Z">
+        <seg>&lt;p&gt;Nome dell'immagine NewImage.png&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,6 +9962,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222148Z">
         <seg>I permessi che si concedono a questa versione (che potrebbero sembrare un "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale (per es., essi consentono l'accesso al disco rigido del computer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;To test display of the Instant Start Guide at launch:&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092113Z">
+        <seg>&lt;p&gt;Per testare la visualizzazione della guida di avviamento istantaneo al lancio:&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17981,6 +18061,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092216Z">
+        <seg>Consegnare il tuo file per il localizzazione coordinatore, che passerà al team di sviluppo per l'inclusione nella prossima release di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T194527Z">
@@ -19017,6 +19105,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T151606Z">
         <seg>file DokuWiki (*.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't forget to update the OmegaT Localization Plan (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092259Z">
+        <seg>Non dimenticare di aggiornare la localizzazione di OmegaT piano (vedere il passaggio 2 della procedura) per mostrare che è stata completata la traduzione di una particolare versione di documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20251,6 +20347,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101204Z">
         <seg>Voci con tag modificati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equally, if you abandon the translation work for any reason, please update your entry in the plan to show this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092308Z">
+        <seg>Allo stesso modo, se si abbandona il lavoro di traduzione per qualsiasi motivo, si prega di aggiornare il vostro ingresso nel piano a mostrare questo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24749,6 +24853,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a user interface or user manual are not available in the language of your operating system, OmegaT defaults to displaying the English versions.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092343Z">
+        <seg>Se un'interfaccia utente o manuale dell'utente non sono disponibili nella lingua del sistema operativo, impostazioni predefinite di OmegaT per visualizzare le versioni in inglese.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If abort is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120724T211121Z">
@@ -26171,6 +26283,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you discontinue before completing the transaltion, please do create the tmx files for what you have done and send them along to the localization coordinator.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092322Z">
+        <seg>Se si interrompere prima di completare la transaltion, si prega di creare i file tmx per quello che avete fatto e li invia al coordinatore della localizzazione.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do any modification on the project segmentation for example, &lt;e0&gt;project_save.tmx&lt;/e0&gt; will record new translation pairs but will retain all the previous information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T111903Z">
@@ -26711,6 +26831,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you use OmegaT (we hope that you do) or any other CAT tool to produce your translation, please also upload the TMX files to the &lt;a href="http://tech.groups.yahoo.com/group/OmegaT/files/3- Localization files/Translation memory repository/"&gt;repository&lt;/a&gt;.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092326Z">
+        <seg>Se si utilizza OmegaT (speriamo che si fa) o qualsiasi altro strumento CAT per produrre la traduzione, si prega anche caricare i file TMX &lt;a href="http://tech.groups.yahoo.com/group/OmegaT/files/3-Localization files/Translation memory repository/"&gt; repository&lt;/a&gt;.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you use OmegaT for any length of time in the future, you will want to customize the segmentation rules.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T073506Z">
@@ -26723,6 +26851,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T202658Z">
         <seg>Se si utilizza almeno uno di questi programmi, è probabile che si abbiano già installati gli elementi fondamentali del correttore ortografico e sia solo necessario collegarvi OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you used OmegaT or another CAT tool for the work, please also send your translation memory (TMX file) together with the translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092224Z">
+        <seg>Se utilizzato OmegaT o un altro strumento CAT per il lavoro, inviare anche la memoria di traduzione (file TMX) insieme con la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29849,6 +29985,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T192554Z">
         <seg>Mostra la traduzione dei termini trovati nel segmento attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It then loads the user interface and/or user manual in that language, if available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092340Z">
+        <seg>Quindi, carica l'interfaccia utente e/o manuale dell'utente in quella lingua, se disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38104,6 +38248,14 @@ per determinare l'origine dell'errore e riprovare.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please do NOT deliver your entire OmegaT project file to the localization coordinator (he does not need to receive multiple copies of the entire project).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092241Z">
+        <seg>NON consegnare il vostro intero file di progetto OmegaT al coordinatore della localizzazione (egli non ha bisogno di ricevere più copie dell'intero progetto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T151249Z">
@@ -38751,6 +38903,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T122044Z">
         <seg>Procedere?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Produce a screenshot of OmegaT in your language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092152Z">
+        <seg>Produrre uno screenshot di OmegaT nella tua lingua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39407,6 +39567,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200556Z">
         <seg>Piuttosto che trovare tutti i casi di "abc" e correggerli prima di procedere (che è possibile, ma ha inconvenienti), lei potrebbe semplicemente decidere di correggerli nel corso del prossimo progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather, create two separate .zip or tar.gz files, one containing the target documents only, and the other containing the tmx files.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092252Z">
+        <seg>Piuttosto, crea due file. zip o tar. gz, uno contenente solo i documenti di destinazione e l'altra contenente i file tmx.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48406,6 +48574,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The launch command can be found in the file "omegat" and/or "omegat.bat" in the folder containing the program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092350Z">
+        <seg>Il comando di lancio può essere trovato il file "omegat" o "omegat.bat" nella cartella contenente il programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The launch parameters in this case will be read from the &lt;e0&gt;OmegaT.l4J.ini&lt;/e0&gt; file, residing in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T111946Z">
@@ -48923,6 +49099,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T194450Z">
         <seg>La successiva cosa da fare è di chiedere conferma di quanto è accaduto agli altri utenti, in modo da verificare se si tratta di un problema già segnalato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The normal command is: &lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092356Z">
+        <seg>Il comando normale è:&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50859,6 +51043,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then launch OmegaT normally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092141Z">
+        <seg>Poi lanciare OmegaT normalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171433Z">
@@ -52215,6 +52407,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the document concerned to be released for translation by another translator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092314Z">
+        <seg>In questo modo il documento in questione deve essere rilasciato per la traduzione da un altro traduttore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the numerous suggestions to be managed more easily.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T072036Z">
@@ -52475,6 +52675,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T201009Z">
         <seg>Questo va bene, purché il gruppo di tag esterno comprenda completamente quello annidato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is also optional, but if you have been able to launch OmegaT with your localized bundle (see above), it will enhance the quality of your translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092157Z">
+        <seg>Anche questo è facoltativo, ma se siete stati in grado di lanciare OmegaT con il vostro pacchetto localizzato (vedi sopra), esso migliorerà la qualità della vostra traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53439,6 +53647,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120729T170728Z">
         <seg>Ciò li riporterebbe alla condizione di "non tradotti", dato che, nonostante la vecchia traduzione sia ancora presente, non corrisponderebbero più ai segmenti registrati nella memoria del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will greatly simplify updating of your translation in the future.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092230Z">
+        <seg>Questo semplificherà notevolmente l'aggiornamento della vostra traduzione in futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54507,6 +54723,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195923Z">
         <seg>Per produrre un file di OpenOffice.Org bilingue contenente i delimitatori di segmento di Trados, chiudere il progetto OmegaT, quindi eseguire il seguente script AutoIt (richiede Windows) sul file del progetto project_save.tmx:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092203Z">
+        <seg>Per produrre uno screenshot, lanciare OmegaT e creare uno schermo adatto per uno screenshot, come il "Crea nuovo progetto" della finestra di dialogo percorsi tipici visualizzando.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
