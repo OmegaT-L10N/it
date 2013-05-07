@@ -1872,8 +1872,8 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
       <tuv lang="EN">
         <seg>* The "instant start" guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102746Z">
-        <seg>* La guida "instant start" (una breve introduzione all'utilizzo di OmegaT) &lt;br/&gt;&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103925Z">
+        <seg>* La guida "instant start" (una breve introduzione all'utilizzo di OmegaT)&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,8 +1896,8 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
       <tuv lang="EN">
         <seg>* The readme file (a document that contains general information about OmegaT)&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102800Z">
-        <seg>* Il file readme (un documento che contiene informazioni generali su OmegaT) &lt;br/&gt;&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103917Z">
+        <seg>* Il file readme (un documento che contiene informazioni generali su OmegaT)&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1912,8 +1912,8 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
       <tuv lang="EN">
         <seg>* The user interface (menus etc.)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102718Z">
-        <seg>* L'interfaccia utente (menu ecc.) &lt;br/&gt;&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103939Z">
+        <seg>* L'interfaccia utente (menu ecc.)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1928,8 +1928,8 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
       <tuv lang="EN">
         <seg>* The user manual (very comprehensive)&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102733Z">
-        <seg>* Il manuale dell'utente (molto completo) &lt;br/&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103932Z">
+        <seg>* Il manuale dell'utente (molto completo)&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14071,8 +14071,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>At the time of writing, the material to be translated comprises:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102710Z">
-        <seg>&lt;p&gt;Al momento della scrittura, il materiale da tradurre è composto da:&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104006Z">
+        <seg>Al momento della scrittura, il materiale da tradurre è composto da:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19615,8 +19615,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>During the subscription process, you will have to send a short message to the group moderators: this is to enable them to distinguish genuine users from spammers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102952Z">
-        <seg>Durante il processo di sottoscrizione, si dovrà inviare un breve messaggio per i moderatori del gruppo: questo è per consentire loro di distinguere gli utenti genuini da spammers.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103910Z">
+        <seg>Durante il processo di sottoscrizione, si dovrà inviare un breve messaggio per i moderatori del gruppo: questo è per consentire loro di distinguere gli utenti genuini da spammers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27120,6 +27120,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to translate the OmegaT web pages, download the &lt;a0&gt;website localization package&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103820Z">
+        <seg>&lt;p&gt;Se volete tradurre le pagine web di OmegaT, scaricare il pacchetto di localizzazione del sito Web&lt;/a&gt;.&lt;a0&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200527Z">
@@ -27972,8 +27980,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In particular, the main user manual is likely to take two weeks to translate, and several translators may wish to share the work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102819Z">
-        <seg>In particolare, il manuale dell'utente principale rischia di prendere due settimane per la traduzione, e diversi traduttori potrebbero desiderare di condividere il lavoro.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104058Z">
+        <seg>In particolare, il manuale dell'utente principale rischia di prendere due settimane per la traduzione, e diversi traduttori potrebbero desiderare di condividere il lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29226,8 +29234,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102635Z">
-        <seg>Invece, coloro che sono coinvolti nel progetto OmegaT sperano che le traduzioni saranno fornite innanzitutto da traduttori che hanno provato OmegaT e sono convinti del suo valore per l'intera comunità traduzione.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104019Z">
+        <seg>Invece, coloro che sono coinvolti nel progetto OmegaT sperano che le traduzioni saranno fornite innanzitutto da traduttori che hanno provato OmegaT e sono convinti del suo valore per l'intera comunità traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35509,8 +35517,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102608Z">
-        <seg>&lt;p&gt;OmegaT è un programma per memoria di traduzione gratuito, open source.OmegaT is a free, open-source translation memory program.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104043Z">
+        <seg>OmegaT è un programma per memoria di traduzione gratuito, open source.OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46609,8 +46617,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The OmegaT project team is not a company or formal legal body; just a group of volunteers involved in the OmegaT project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102558Z">
-        <seg>Il gruppo di progetto di OmegaT non è una società o una persona giuridica formale, ma solo un gruppo di volontari coinvolti nel progetto OmegaT.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104028Z">
+        <seg>Il gruppo di progetto di OmegaT non è una società o una persona giuridica formale, ma solo un gruppo di volontari coinvolti nel progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56063,8 +56071,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translators are free to tackle as much or as little of the work as they wish.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102811Z">
-        <seg>&lt;p&gt;I traduttori sono liberi di affrontare la quantità di lavoro che vogliono.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104050Z">
+        <seg>I traduttori sono liberi di affrontare la quantità di lavoro che vogliono.</seg>
       </tuv>
     </tu>
     <tu>
