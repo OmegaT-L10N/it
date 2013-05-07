@@ -9757,6 +9757,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;Options &gt; File Filters &gt; Select "XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091715Z">
+        <seg>&lt;p&gt;Opzioni &gt; Filtri dei file... &gt; scegliere "XHTML files" &gt; Modifica &gt; Aggiungi &gt; quindi scrivi "*.php" nella colonna "Modello del nome del file sorgente".&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;Platform-specific versions of OmegaT are provided for Windows, Linux and Mac OS X. A platform-indpendent version is also available which will run on any operating system capable of running a suitable version of the Java Runtime Environment.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T080424Z">
@@ -29337,6 +29345,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also worth asking on the &lt;a href="https://lists.sourceforge.net/lists/listinfo/omegat-l10n"&gt;localizers' list&lt;/a&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091735Z">
+        <seg>Vale anche la pena di chiedere l' &lt;a href="https://lists.sourceforge.net/lists/listinfo/omegat-l10n"&gt; elenco dei localizzatori&lt;/a&gt; (OmT-l10n) se qualcuno ha qualsiasi materiale di riferimento che potrebbe facilitare la traduzione.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is by default left justified for LTR languages and right justified for RTL languages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T203512Z">
@@ -32926,6 +32942,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T092903Z">
         <seg>Accedere alla cartella nella quale si desidera salvare i file progetto e inserire un nome da assegnare al progetto di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Needless to say, we would prefer you to use OmegaT for the OmegaT localization work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091743Z">
+        <seg>Inutile dire che preferiremmo usare OmegaT per il lavoro di localizzazione di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51067,6 +51091,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be older versions of the documentation and/or translation memories (TMX files) available for your language which are useful to your translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091725Z">
+        <seg>Ci possono essere vecchie versioni delle memorie documentazione e/o traduzione (file TMX) disponibile per la lingua in cui sono utili per la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There might be a case in which you want to do pre-processing or other processing of the segments than OmegaT allows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135830Z">
@@ -55020,6 +55052,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the files you have chosen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091739Z">
+        <seg>Tradurre i file che hai selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104633Z">
@@ -55320,6 +55360,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T080339Z">
         <seg>Memoria di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory (TMX) files of older localizations of OmegaT, the documentation and the website can be found in the &lt;a href="http://tech.groups.yahoo.com/group/OmegaT/files/3- Localization files/Translation memory repository/"&gt;"Files" section of the online user group&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091731Z">
+        <seg>I file di memoria (TMX) traduzione delle precedenti localizzazioni di OmegaT, la documentazione e il sito sono reperibili nella &lt;a href="http://tech.groups.yahoo.com/group/OmegaT/files/3-Localization files/Translation memory repository/"&gt; sezione "File" del gruppo di utenti online&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
