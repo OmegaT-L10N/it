@@ -6737,6 +6737,38 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="downloads.html"&gt;Download OmegaT&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073339Z">
+        <seg>&lt;li&gt;&lt;a href="downloads.html"&gt;Download di OmegaT&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="omegat.html"&gt;Introducing OmegaT&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073238Z">
+        <seg>&lt;li&gt;&lt;a href="omegat.html"&gt;Introduzione a OmegaT&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="requirements.html"&gt;Requirements&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073311Z">
+        <seg>&lt;li&gt;&lt;a href="requirements.html"&gt;Requisiti&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="screenshots.html"&gt;Screenshots&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073331Z">
+        <seg>&lt;li&gt;&lt;a href="screenshots.html"&gt;Schermate&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192628Z">
@@ -9599,6 +9631,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224833Z">
         <seg>&lt;p&gt;Le seguenti istruzioni brevi sono disponibili online per il download:&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;The free (GPL) translation memory tool&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073213Z">
+        <seg>&lt;p&gt;Lo strumento gratuito (GPL) per memorie di traduzione&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
