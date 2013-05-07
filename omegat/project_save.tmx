@@ -6737,10 +6737,42 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="3rd_party.html"&gt;Third-party software&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073510Z">
+        <seg>&lt;li&gt;&lt;a href="3rd_party.html"&gt;Software da terzi&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="contact_support.html"&gt;Contact and support&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073535Z">
+        <seg>&lt;li&gt;&lt;a href="contact_support.html"&gt;Contatto e supporto&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="documentation.php"&gt;Documentation&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073349Z">
+        <seg>&lt;li&gt;&lt;a href="documentation.php"&gt;Documentazione&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;li&gt;&lt;a href="downloads.html"&gt;Download OmegaT&lt;/a&gt;&lt;/li&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073339Z">
         <seg>&lt;li&gt;&lt;a href="downloads.html"&gt;Download di OmegaT&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="involved.html"&gt;OmegaT + You&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073543Z">
+        <seg>&lt;li&gt;&lt;a href="involved.html"&gt;OmegaT e tu&lt;/a&gt;&lt;/li&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6761,10 +6793,34 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="resources.html"&gt;Other OmegaT resources&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073419Z">
+        <seg>&lt;li&gt;&lt;a href="resources.html"&gt;Altre risorse OmegaT&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="reviews.html"&gt;Reviews&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073552Z">
+        <seg>&lt;li&gt;&lt;a href="reviews.html"&gt;Recensioni&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;li&gt;&lt;a href="screenshots.html"&gt;Screenshots&lt;/a&gt;&lt;/li&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073331Z">
         <seg>&lt;li&gt;&lt;a href="screenshots.html"&gt;Schermate&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;li&gt;&lt;a href="who_we_are.html"&gt;Who we are&lt;/a&gt;&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073616Z">
+        <seg>&lt;li&gt;&lt;a href="who_we_are.html"&gt;Chi siamo&lt;/a&gt;&lt;/li&gt;</seg>
       </tuv>
     </tu>
     <tu>
