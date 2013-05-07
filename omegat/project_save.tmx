@@ -16868,8 +16868,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Contact the &lt;a0&gt;localization co-ordinator&lt;/a0&gt;, who will be able to tell you of any specific issues regarding your language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102829Z">
-        <seg>Contattare il &lt;a href="mailto:jean.christophe.helary@gmail.com"&gt; Coordinatore di localizzazione&lt;/a&gt;, che sarà in grado di dirvi di eventuali problemi specifici per quanto riguarda il tuo linguaggio.&lt;/p&gt;&lt;a0&gt;&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104207Z">
+        <seg>Contattare il &lt;a0&gt;Coordinatore di localizzazione&lt;/a0&gt;, che sarà in grado di dirvi di eventuali problemi specifici per quanto riguarda il tuo linguaggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27122,8 +27122,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you wish to translate the OmegaT web pages, download the &lt;a0&gt;website localization package&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103820Z">
-        <seg>&lt;p&gt;Se volete tradurre le pagine web di OmegaT, scaricare il pacchetto di localizzazione del sito Web&lt;/a&gt;.&lt;a0&gt;&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104257Z">
+        <seg>Se volete tradurre le pagine web di OmegaT, scaricare il &lt;a0&gt;pacchetto di localizzazione del sito Web&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29702,6 +29702,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091735Z">
         <seg>Vale anche la pena di chiedere l' &lt;a href="https://lists.sourceforge.net/lists/listinfo/omegat-l10n"&gt; elenco dei localizzatori&lt;/a&gt; (OmT-l10n) se qualcuno ha qualsiasi materiale di riferimento che potrebbe facilitare la traduzione.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104438Z">
+        <seg>Vale anche la pena di chiedere l'&lt;a1&gt;elenco dei localizzatori&lt;/a1&gt; (OmT-l10n) se qualcuno ha qualsiasi materiale di riferimento che potrebbe facilitare la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
