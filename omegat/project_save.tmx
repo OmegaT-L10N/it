@@ -1433,6 +1433,14 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In English)&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071314Z">
+        <seg>(In inglese)&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -10107,6 +10115,22 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="http://www.velior.ru/blog/en/tag/omegat/"&gt;Velior's corporate blog &lt;br/&gt;on translation and the &lt;br/&gt;translation industry&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071207Z">
+        <seg>&lt;td&gt;&lt;a href="http://www.velior.ru/blog/en/tag/omegat/"&gt;Blog aziendale di Velior &lt;br/&gt; sulla traduzione e il &lt;br/&gt; settore della traduzione&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="http://www.velior.ru/blog/ru/tag/omegat/"&gt;Velior's corporate blog &lt;br/&gt;on translation and the &lt;br/&gt;translation industry&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071420Z">
+        <seg>&lt;td&gt;&lt;a href="http://www.velior.ru/blog/ru/tag/omegat/"&gt;Blog aziendale di Velior &lt;br/&gt; sulla traduzione e il &lt;br/&gt; settore della traduzione&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;&lt;a href="tutorial/OmegaT for Beginners.odt"&gt;OmegaT for Beginners tutorial&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224929Z">
@@ -10219,6 +10243,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T070851Z">
         <seg>&lt;td&gt;Un video introduttivo di OmegaT in inglese da John Moran.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071231Z">
+        <seg>&lt;td&gt;Pagine blog su OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
