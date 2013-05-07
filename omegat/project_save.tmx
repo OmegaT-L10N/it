@@ -6059,6 +6059,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h2&gt;OmegaT HowTo: Translating OmegaT into your language&lt;/h2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T083923Z">
+        <seg>&lt;h2&gt;Guida OmegaT: tradurre OmegaT nella vostra lingua&lt;/h2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Blogs&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071114Z">
@@ -6135,6 +6143,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T070601Z">
         <seg>&lt;h3&gt;I video di addestramento&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;h3&gt;Translation: general remarks&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T083941Z">
+        <seg>&lt;h3&gt;Traduzione: osservazioni generali&lt;/h3&gt;</seg>
       </tuv>
     </tu>
     <tu>
