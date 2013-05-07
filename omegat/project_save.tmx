@@ -9679,8 +9679,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;The Standard version has usually been in use for some time and is therefore proven.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170534Z">
-        <seg>&lt;p&gt;Lo versione standard solitamente è in uso da qualche tempo ed è pertanto collaudata.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T074302Z">
+        <seg>&lt;p&gt;La versione standard solitamente è in uso da qualche tempo ed è considerata pertanto collaudata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10413,6 +10413,22 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170159Z">
         <seg>&lt;td&gt;&lt;b&gt;Versioni Web Start&lt;/b&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;p&gt;&lt;a href="http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Legacy/"&gt;Older, superseded versions&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T074015Z">
+        <seg>&lt;td&gt;&lt;p&gt;&lt;a href="http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Legacy/"&gt;Versioni precedenti, superate&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;p&gt;The &lt;a href="http://omegat.svn.sourceforge.net/viewvc/omegat/trunk/?view=tar"&gt;/trunk&lt;/a&gt; version is a cutting-edge, "alpha" version, still in development.&lt;/p&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T074207Z">
+        <seg>&lt;td&gt;&lt;p&gt;Il &lt;a href="http://omegat.svn.sourceforge.net/viewvc/omegat/trunk/?view=tar"&gt; La versione  /trunk&lt;/a&gt; è una versione "alfa", all'avanguardia, ancora in sviluppo.&lt;/p&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11308,8 +11324,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A version may be "Standard, without JRE, for Windows", or "Latest, with JRE, for Linux", etc.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170434Z">
-        <seg>Potrebbe essere una versione "Standard, senza JRE per Windows", o "Ultime, con JRE per Linux", ecc&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T074227Z">
+        <seg>Potrebbe esserci una versione "Standard, senza JRE per Windows", o "Ultime, con JRE per Linux", ecc&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
