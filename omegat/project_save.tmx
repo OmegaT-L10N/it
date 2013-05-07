@@ -19492,6 +19492,14 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the files for translation, either the &lt;cp0/&gt; &lt;cp1/&gt;"Full" package&lt;cp2/&gt; or the &lt;cp3/&gt; &lt;cp4/&gt;"Minimal" package&lt;cp5/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124955Z">
+        <seg>Scarica i file per la traduzione, si il &lt;cp0/&gt; &lt;cp1/&gt; pacchetto "Completo" &lt;cp2/&gt; o quello &lt;cp3/&gt; &lt;cp4/&gt; "Minimo"&lt;cp5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the most recent files (OmegaT-tokenizers_0.4_2-2.1.zip at the time of this writing).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T182037Z">
