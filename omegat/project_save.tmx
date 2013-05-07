@@ -10123,10 +10123,26 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/ms_translator_mac.html"&gt;MS Translator on Mac&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071956Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/ms_translator_mac.html"&gt;MS Translator su Mac&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;&lt;a href="howtos/text_export.html"&gt;OmegaT text export function&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071727Z">
         <seg>&lt;td&gt;&lt;a href="howtos/text_export.html"&gt;Funzione di esportazione testo di OmegaT&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/tokenizer.php"&gt;OmegaT tokenizer plugin&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071846Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/tokenizer.php"&gt;Plugin Tokenizer di OmegaT&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10227,6 +10243,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T170159Z">
         <seg>&lt;td&gt;&lt;b&gt;Versioni Web Start&lt;/b&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;strong&gt;Advanced feature HowTos&lt;/strong&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071943Z">
+        <seg>&lt;td&gt;&lt;strong&gt;Guide alle funzionalità avanzate&lt;/strong&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
