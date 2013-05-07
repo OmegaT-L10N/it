@@ -28203,6 +28203,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131348Z">
+        <seg>Nella cartella /docs/ del programma OmegaT, creare una sottocartella con il codice ISO della vostra lingua del sistema operativo (Rinominare la cartella esistente temporaneamente se già esiste) e copiare il manuale in questa cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;a0&gt;Google Translate&lt;/a0&gt; pane, if activated, you will automatically get a suggestion for the translation of the current segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T101908Z">
@@ -55199,6 +55207,14 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test display of the Instant Start Guide at launch:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131314Z">
+        <seg>Per collaudare l'aspetto della Guida di avvio rapido al lancio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To test it, add some formatting to your Word document, for example by making one word bold.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193338Z">
@@ -66340,6 +66356,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123818Z">
         <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131129Z">
+        <seg>     java -jar OmegaT.jar resource-bundle=[nome del corredo con il percorso completo]</seg>
       </tuv>
     </tu>
     <tu>
