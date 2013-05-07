@@ -9419,8 +9419,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225233Z">
-        <seg>&lt;p&gt;I documenti "Guida" su questo sito, contenente informazioni su determinate procedure e caratteristiche di OmegaT per utenti avanzati che non sono coperti da manuale.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072927Z">
+        <seg>&lt;p&gt;I documenti "Guida" su questo sito, contenente informazioni su determinate procedure e caratteristiche di OmegaT che non sono coperte dal manuale, per utenti esperti.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9533,8 +9533,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224003Z">
-        <seg>&lt;p&gt;OmegaT è fornito con un manuale utente completo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073035Z">
+        <seg>&lt;p&gt;OmegaT è fornito di un manuale utente completo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9621,8 +9621,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224248Z">
-        <seg>&lt;p&gt;È anche possibile chiamare il manuale fornito con OmegaT senza lanciare OmegaT stessa.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072953Z">
+        <seg>&lt;p&gt;È anche possibile consultare il manuale fornito con OmegaT senza lanciare OmegaT stessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10315,6 +10315,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071943Z">
         <seg>&lt;td&gt;&lt;strong&gt;Guide alle funzionalità avanzate&lt;/strong&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;strong&gt;Compatibility HowTos&lt;/strong&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072732Z">
+        <seg>&lt;td&gt;&lt;strong&gt;Guide sulla compatibilità&lt;/strong&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
