@@ -9663,8 +9663,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;The /trunk (alpha) version reflects the very latest state of development.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223515Z">
-        <seg>&lt;p&gt;La versione /trunk (alfa) riflette lo stato più recente di sviluppo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081744Z">
+        <seg>&lt;p&gt;La versione /trunk (alfa) riflette lo stato di sviluppo più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22065,8 +22065,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223110Z">
-        <seg>Per la maggior parte degli utenti, queste non sono di interesse.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081456Z">
+        <seg>Per la maggior parte degli utenti, queste non sono di alcun interesse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23948,8 +23948,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223426Z">
-        <seg>Tuttavia, alcuni utenti possono dover affrontare restrizioni (imposte dal loro sistema operativo o dalla versione Java) che li inducono a preferire una versione precedente.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081655Z">
+        <seg>Tuttavia, alcuni utenti possono dover affrontare restrizioni (imposte dal loro sistema operativo o dalla loro versione Java) che li inducono a preferire una versione precedente.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
