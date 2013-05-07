@@ -1441,6 +1441,14 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In Russian)&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071514Z">
+        <seg>(In russo)&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -10115,6 +10123,22 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/text_export.html"&gt;OmegaT text export function&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071727Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/text_export.html"&gt;Funzione di esportazione testo di OmegaT&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/"&gt;How to translate Wordpress XLIFF files&lt;/a&gt; &lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071636Z">
+        <seg>&lt;td&gt;&lt;a href="http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/"&gt;Come tradurre file XLIFF Wordpress&lt;/a&gt; &lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;&lt;a href="http://www.velior.ru/blog/en/tag/omegat/"&gt;Velior's corporate blog &lt;br/&gt;on translation and the &lt;br/&gt;translation industry&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071207Z">
@@ -10363,6 +10387,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230757Z">
         <seg>&lt;td&gt;Procedura per l'utilizzo di OmegaT per localizzare Magento.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;Procedure for using OmegaT to localize XLIFF files exported from Wordpress.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071534Z">
+        <seg>&lt;td&gt;Procedura per l'utilizzo di OmegaT per localizzare i file XLIFF esportati da Wordpress.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
