@@ -12275,6 +12275,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After creating and testing the shortcut, you can add it to the Start menu by dragging it there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135614Z">
+        <seg>Dopo la creazione e il test del collegamento, si può aggiungerlo al menu Start trascinandocelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After deletion:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T201957Z">
