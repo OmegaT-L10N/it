@@ -26419,6 +26419,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you discontinue before completing the transaltion, please do create the tmx files for what you have done and send them along to the localization coordinator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132650Z">
+        <seg>Se si interrompe prima di completare la traduzione, si prega di creare i file .tmx per quello che avete fatto e di inviarli al coordinatore della localizzazione.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you discontinue before completing the transaltion, please do create the tmx files for what you have done and send them along to the localization coordinator.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092322Z">
@@ -52729,8 +52737,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This enables the document concerned to be released for translation by another translator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092314Z">
-        <seg>In questo modo il documento in questione deve essere rilasciato per la traduzione da un altro traduttore.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132536Z">
+        <seg>In questo consente di rilasciare il documento in questione per la traduzione a cura di un altro traduttore.</seg>
       </tuv>
     </tu>
     <tu>
