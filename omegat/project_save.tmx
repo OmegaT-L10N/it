@@ -1894,6 +1894,14 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The readme file (a document that contains general information about OmegaT)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102800Z">
+        <seg>* Il file readme (un documento che contiene informazioni generali su OmegaT) &lt;br/&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The user interface (menus etc.)&lt;br/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085022Z">
@@ -12187,6 +12195,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After joining, visit the &lt;a0&gt;OmegaT Localization Plan&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103105Z">
+        <seg>Dopo l'adesione, visitare il &lt;a0&gt;Piano di localizzazione di OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After launching OmegaT, the main OmegaT window should appear with three panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T124730Z">
@@ -16834,6 +16850,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact the &lt;a0&gt;localization co-ordinator&lt;/a0&gt;, who will be able to tell you of any specific issues regarding your language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102829Z">
+        <seg>Contattare il &lt;a href="mailto:jean.christophe.helary@gmail.com"&gt; Coordinatore di localizzazione&lt;/a&gt;, che sarà in grado di dirvi di eventuali problemi specifici per quanto riguarda il tuo linguaggio.&lt;/p&gt;&lt;a0&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213727Z">
@@ -19569,6 +19593,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T182856Z">
         <seg>Durante l'installazione, il programma chiederà se si vuole creare un gruppo nel menu &lt;e0&gt;start&lt;/e0&gt; e un collegamento nel desktop e nella barra di avvio rapido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During the subscription process, you will have to send a short message to the group moderators: this is to enable them to distinguish genuine users from spammers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102952Z">
+        <seg>Durante il processo di sottoscrizione, si dovrà inviare un breve messaggio per i moderatori del gruppo: questo è per consentire loro di distinguere gli utenti genuini da spammers.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27914,6 +27946,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In particular, the main user manual is likely to take two weeks to translate, and several translators may wish to share the work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102819Z">
+        <seg>In particolare, il manuale dell'utente principale rischia di prendere due settimane per la traduzione, e diversi traduttori potrebbero desiderare di condividere il lavoro.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In particular, the main user manual is likely to take two weeks to translate, and several translators may wish to share the work.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085319Z">
@@ -30364,6 +30404,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085437Z">
         <seg>Unisciti al &lt;a href="http://tech.groups.yahoo.com/group/omegat/"&gt; gruppo di utenti di OmegaT&lt;/a&gt; (anche conosciuto come "OmT").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Join the &lt;a0&gt;OmegaT user group&lt;/a0&gt; (also known as "OmT").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102946Z">
+        <seg>Partecipa al &lt;a0&gt;Gruppo di utenti di OmegaT&lt;/a0&gt; (conosciuto anche come "OmT").</seg>
       </tuv>
     </tu>
     <tu>
@@ -55953,6 +56001,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224403Z">
         <seg>Commenti del traduttore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translators are free to tackle as much or as little of the work as they wish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102811Z">
+        <seg>&lt;p&gt;I traduttori sono liberi di affrontare la quantità di lavoro che vogliono.</seg>
       </tuv>
     </tu>
     <tu>
