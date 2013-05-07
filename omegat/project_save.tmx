@@ -10438,6 +10438,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103235Z">
+        <seg>&lt;s1&gt;Al fine di evitare che due o più traduttori lavorando allo stesso tempo la stessa lingua, quindi è molto importante segnarsi nel piano di localizzazione quando si inizia a lavorare su una traduzione.&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;Single tags&lt;/s1&gt; indicate formatting information that does not affect the surrounding text (extra space or line break for example).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T185449Z">
@@ -12888,6 +12896,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090307Z">
         <seg>Anche se non essenziale, è consigliabile che inscriversi anche alla &lt;a href="https://lists.sourceforge.net/lists/listinfo/omegat-l10n"&gt; mailing list dei localizzatori di OmegaT&lt;/a&gt; (anche conosciuto come "OmT-l10n").&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103419Z">
+        <seg>Anche se non essenziale, è consigliabile che inscriversi anche alla &lt;a0&gt;Mailing list dei localizzatori di OmegaT&lt;/a0&gt; (anche conosciuta come "OmT-l10n").</seg>
       </tuv>
     </tu>
     <tu>
@@ -48465,6 +48481,14 @@ space on your hard drive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T144929Z">
         <seg>Lo strumento gratuito (GPL) per memorie di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The full package contains the user manual, the instant start manual, the user interface resource bundle and the readme file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103429Z">
+        <seg>Il pacchetto completo contiene il manuale utente, il manuale di avvio rapido, il corredo di risorse di interfaccia utente e il file Leggimi.</seg>
       </tuv>
     </tu>
     <tu>
