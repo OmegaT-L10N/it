@@ -1838,6 +1838,46 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The "instant start" guide (a short introduction to using OmegaT)&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085033Z">
+        <seg>* La guida "instant start" (una breve introduzione all'utilizzo di OmegaT) &lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The OmegaT web pages (probably where you are reading this)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085051Z">
+        <seg>* Le pagine web di OmegaT (probabilmente dove stai leggendo queste)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The readme file (a document that contains general information about OmegaT)&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085040Z">
+        <seg>* Il file readme (un documento che contiene informazioni generali su OmegaT) &lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user interface (menus etc.)&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085022Z">
+        <seg>* L'interfaccia utente (menu ecc.) &lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user manual (very comprehensive)&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085026Z">
+        <seg>* Il manuale dell'utente (molto completo) &lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T110148Z">
@@ -6139,6 +6179,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;The translation work&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085005Z">
+        <seg>&lt;h3&gt;Il lavoro di traduzione&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Training videos&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T070601Z">
@@ -9563,6 +9611,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;At the time of writing, the material to be translated comprises:&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085012Z">
+        <seg>&lt;p&gt;Al momento della scrittura, il materiale da tradurre è composto da:&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;During installation, depending on your operating system, you may receive several security warnings.&lt;br/&gt; 
 The certificate is self-signed by "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
@@ -9745,6 +9801,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222148Z">
         <seg>I permessi che si concedono a questa versione (che potrebbero sembrare un "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale (per es., essi consentono l'accesso al disco rigido del computer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;Translators are free to tackle as much or as little of the work as they wish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085220Z">
+        <seg>&lt;p&gt;I traduttori sono liberi di affrontare la quantità di lavoro che vogliono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28683,6 +28747,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210037Z">
         <seg>Invece, si devono prima convertire manualmente in formato Office Open XML (MS Office 2007/2010) o Open Document (LibreOffice o OpenOffice.org) prima che possano essere gestiti in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084959Z">
+        <seg>Invece, coloro che sono coinvolti nel progetto OmegaT sperano che le traduzioni saranno fornite innanzitutto da traduttori che hanno provato OmegaT e sono convinti del suo valore per l'intera comunità traduzione.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
