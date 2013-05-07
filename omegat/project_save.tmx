@@ -3043,6 +3043,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../resources/OmegaT_with_JRE.bat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155304Z">
+        <seg>../../resources/OmegaT_with_JRE.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../resources/priorview.zip</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125356Z">
@@ -3335,6 +3343,22 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093141Z">
         <seg>versione 1.5 o superiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155236Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>11.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155237Z">
+        <seg>11.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3705,6 +3729,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155234Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>7.A.2.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184602Z">
@@ -3725,6 +3757,22 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T230946Z">
         <seg>File di testo a 8-bit vs. Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155235Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155236Z">
+        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35195,6 +35243,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155213Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT + You</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T210604Z">
@@ -39535,6 +39591,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T143718Z">
         <seg>Problemi con i dizionari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155218Z">
+        <seg>Procedure</seg>
       </tuv>
     </tu>
     <tu>
@@ -63912,10 +63976,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/files/3- Localization files/Translation memory repository/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155232Z">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/files/3- Localization files/Translation memory repository/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095413Z">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/omegat/database</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155226Z">
+        <seg>http://tech.groups.yahoo.com/group/omegat/database</seg>
       </tuv>
     </tu>
     <tu>
@@ -64252,6 +64332,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T173208Z">
         <seg>http://www.omegat.org/it/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/resources/omt_website.zip</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155227Z">
+        <seg>http://www.omegat.org/resources/omt_website.zip</seg>
       </tuv>
     </tu>
     <tu>
@@ -64768,10 +64856,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mailto:jean.christophe.helary@gmail.com</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155224Z">
+        <seg>mailto:jean.christophe.helary@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mailto:lin4trans@users.sourceforge.net</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122256Z">
         <seg>mailto:lin4trans@users.sourceforge.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:mailto:lin4trans@users.sourceforge.net</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155229Z">
+        <seg>mailto:mailto:lin4trans@users.sourceforge.net</seg>
       </tuv>
     </tu>
     <tu>
