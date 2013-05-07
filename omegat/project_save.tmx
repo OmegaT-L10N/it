@@ -26839,6 +26839,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a1&gt;OmegaT webmaster&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103611Z">
+        <seg>Se si preferisce tradurre da una lingua diversa, in cui è già stato localizzato OmegaT, contatta il  &lt;a1&gt;webmaster di OmegaT&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer to translate into an empty target field, set this option in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behaviour...&lt;i3/&gt;&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T124309Z">
@@ -37535,6 +37543,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options &gt; File Filters &gt; Select "XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103740Z">
+        <seg>Opzioni &gt; Filtri dei file... &gt; scegli "file XHTML" &gt; Modifica &gt; Aggiungi &gt; quindi scrivi "*.php" nella colonna "Modello del nome del file sorgente".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options &gt; Machine Translate ... and select the options you would like to turn on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T205014Z">
@@ -46671,6 +46687,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT website includes files in HTML and, as of 2011, PHP format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103652Z">
+        <seg>Il sito di OmegaT include file in HTML e, a partire dal 2011, il formato PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210708Z">
@@ -55145,6 +55169,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To translate the latter in OmegaT, you must register the .php extension with the XHTML filter as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103706Z">
+        <seg>Per tradurre quest'ultimo in OmegaT, è necessario registrare l'estensione. php con il filtro XHTML come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To translate the latter in OmegaT, you must register the .php extension with the XHTML filter as follows:&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091246Z">
@@ -60713,6 +60745,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T204400Z">
         <seg>La sua posizione e il suo nome sono definiti all'interno della finestra delle proprietà del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103448Z">
+        <seg>Non devi tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (bundle), o appena l'instant start tutorial.</seg>
       </tuv>
     </tu>
     <tu>
