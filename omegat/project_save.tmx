@@ -2411,6 +2411,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- On Linux, on the command line&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134517Z">
+        <seg>-Su Linux, sulla riga di comando &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- On Windows, by clicking on the launch script file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134524Z">
+        <seg>-Su Windows, cliccando sul file dello script di lancio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Once you have made the above entries, double check that the values are correct and then save and close your info.plist file.&lt;br34/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204928Z">
@@ -10286,6 +10302,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134455Z">
+        <seg>&lt;s0&gt;Versioni/sistemi Linux&lt;/s0&gt;: individuare il file di script del lancio di OmegaT (OmegaT o OmegaT.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Memory assignment:&lt;/s0&gt;&lt;e1&gt; -XmxZZM&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100612Z">
@@ -10330,6 +10354,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193503Z">
         <seg>&lt;s0&gt;Altri: &lt;Qualcosa&gt;\OmegaT&lt;/s0&gt; (&lt;Qualcosa&gt; corrisponde alla posizione della cartella "home" come determinata da Java.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134446Z">
+        <seg>&lt;s0&gt;Versione indipendente dalla piattaforma (su Windows)&lt;/s0&gt;: individuare il file di script di lancio di OmegaT (OmegaT.bat).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10410,6 +10442,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134050Z">
         <seg>&lt;s0&gt;Versione WebStart di OmegaT&lt;/s0&gt;: il tokenizer non è compatibile con la versione Webstart di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Windows versions of OmegaT&lt;/s0&gt;: in order for OmegaT (any version) to be used with the tokenizer, it must be launched from a launch script file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134349Z">
+        <seg>&lt;s0&gt;Versioni per Windows di OmegaT&lt;/s0&gt;: per usare  il tokenizer con OmegaT (qualsiasi versione), deve essere lanciato da un file di script di lancio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11403,6 +11443,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134404Z">
+        <seg>Un file di script di avvio non viene fornito con le versioni di Windows OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T090141Z">
@@ -12227,6 +12275,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134428Z">
+        <seg>Dopo il download, inserire il file nella cartella principale di OmegaT (la cartella contenente il file OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After duplication:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T201546Z">
@@ -12271,6 +12327,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T202310Z">
         <seg>Dopo la modifica dell'ordine si otterrà:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After preparing for installation (see above), install the tokenizer as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134547Z">
+        <seg>Dopo la preparazione per l'installazione (vedi sopra), installare il tokenizer come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15828,6 +15892,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T221807Z">
         <seg>Verificare che sia stato attivato il &lt;u0&gt;Translate API service &lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that OmegaT is launched when you execute the launch script file:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134512Z">
+        <seg>Controllare che OmegaT sia lanciato quando si esegue il file di script di avvio: &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26340,6 +26412,14 @@ that you install an OmegaT version with JRE included.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using the Windows version with JRE, download the file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; If you are using the Windows version without JRE, download the file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134421Z">
+        <seg>Se si utilizza la versione di Windows con JRE, scaricare il file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; Se si utilizza la versione di Windows senza JRE, scaricare il file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T202511Z">
@@ -29364,6 +29444,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T213346Z">
         <seg>Installazione dei dizionari ortografici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing the tokenizer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134528Z">
+        <seg>Installando il tokenizer</seg>
       </tuv>
     </tu>
     <tu>
