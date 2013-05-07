@@ -10448,8 +10448,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103235Z">
-        <seg>&lt;s1&gt;Al fine di evitare che due o più traduttori lavorando allo stesso tempo la stessa lingua, quindi è molto importante segnarsi nel piano di localizzazione quando si inizia a lavorare su una traduzione.&lt;/s1&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124809Z">
+        <seg>&lt;s1&gt;Al fine di evitare che due o più traduttori lavorino allo stesso tempo sulla stessa lingua, è quindi molto importante segnarsi nel piano di localizzazione quando si inizia a lavorare su una traduzione.&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12910,8 +12910,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103419Z">
-        <seg>Anche se non essenziale, è consigliabile che inscriversi anche alla &lt;a0&gt;Mailing list dei localizzatori di OmegaT&lt;/a0&gt; (anche conosciuta come "OmT-l10n").</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124844Z">
+        <seg>Anche se non essenziale, è consigliabile anche inscriversi alla &lt;a0&gt;Mailing list dei localizzatori di OmegaT&lt;/a0&gt; (conosciuta pure come "OmT-l10n").</seg>
       </tuv>
     </tu>
     <tu>
@@ -24935,8 +24935,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085938Z">
-        <seg>Se un pezzo adatto del lavoro per la tua lingua non è ancora stato avviato, è possibile segnarlo nel piano per indicare che si sono assunte la responsabilità per esso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124718Z">
+        <seg>Se un pezzo adatto del lavoro per la tua lingua non è ancora stato ancora avviato, è possibile segnarlo nel piano per indicare che si sono assunte la responsabilità per esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35541,8 +35541,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124419Z">
-        <seg>OmegaT è un programma per memoria di traduzione gratuito, open.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124652Z">
+        <seg>OmegaT è un programma per memoria di traduzione gratuito, open source.</seg>
       </tuv>
     </tu>
     <tu>
