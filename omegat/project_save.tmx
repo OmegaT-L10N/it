@@ -26557,6 +26557,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104756Z">
+        <seg>Se avete domande, la &lt;a0&gt;lista OmT-l10n&lt;/a0&gt; è il posto migliore per pubblicarle&amp;&amp;&amp;&amp;&amp;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have found OmegaT useful, you are welcome to contact the development team and make a donation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T215418Z">
@@ -56589,6 +56597,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the zip archives of the full or minimal package you have downloaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104527Z">
+        <seg>Scompattare l'archivio zip del pacchetto completo o minimo che hai scaricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192340Z">
@@ -60312,6 +60328,14 @@ installation by using the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can however use other software if you wish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104500Z">
+        <seg>Tuttavia è possibile utilizzare altri software, se lo si desidera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can however use other software if you wish.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091747Z">
@@ -60785,6 +60809,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091800Z">
         <seg>Non è necessario creare un progetto OmegaT come si farebbe normalmente.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have complete freedom in how you translate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104553Z">
+        <seg>Hai completa libertà in quanto si traduce.</seg>
       </tuv>
     </tu>
     <tu>
