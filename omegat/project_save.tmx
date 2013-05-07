@@ -38480,6 +38480,14 @@ per determinare l'origine dell'errore e riprovare.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please keep translations of files in their original format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130251Z">
+        <seg>Si prega di mantenere la traduzione dei file nel loro formato originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please make sure that a build.xml file is present in that folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T175109Z">
@@ -41748,6 +41756,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search the web and you will probably find the translations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130218Z">
+        <seg>Cercate nel web e probabilmente troverete le traduzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search the web and you will probably find the translations.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091834Z">
@@ -41880,6 +41896,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091830Z">
         <seg>In secondo luogo, a meno che il vostro è un linguaggio molto raro, entrambi i documenti in tutta probabilità già tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secondly, unless yours is a  very uncommon language, both documents have in all probability already been translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130204Z">
+        <seg>In secondo luogo, a meno che il vostro non sia un linguaggio molto raro, entrambi i documenti in tutta probabilità già sono stati tradotti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48519,8 +48543,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The formatting is retained automatically if you use OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091842Z">
-        <seg>La formattazione viene mantenuta automaticamente se è utilizzare OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130301Z">
+        <seg>La formattazione viene mantenuta automaticamente se è utilizzate OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
