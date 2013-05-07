@@ -26865,8 +26865,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a1&gt;OmegaT webmaster&lt;/a1&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103611Z">
-        <seg>Se si preferisce tradurre da una lingua diversa, in cui è già stato localizzato OmegaT, contatta il  &lt;a1&gt;webmaster di OmegaT&lt;/a1&gt;.)</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125244Z">
+        <seg>Se si preferisce tradurre da una lingua diversa, in cui è già stato localizzato OmegaT, contattare il  &lt;a1&gt;webmaster di OmegaT&lt;/a1&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46729,8 +46729,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The OmegaT website includes files in HTML and, as of 2011, PHP format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103652Z">
-        <seg>Il sito di OmegaT include file in HTML e, a partire dal 2011, il formato PHP.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125303Z">
+        <seg>Il sito di OmegaT include file in HTML e, a partire dal 2011, in formato PHP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51638,8 +51638,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There may be older versions of the documentation and/or translation memories (TMX files) available for your language which are useful to your translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091725Z">
-        <seg>Ci possono essere vecchie versioni delle memorie documentazione e/o traduzione (file TMX) disponibile per la lingua in cui sono utili per la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125450Z">
+        <seg>Ci possono essere vecchie versioni delle memorie di traduzione (file TMX) e/o documentazione disponibili per la lingua in cui sono utili per la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55211,8 +55211,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>To translate the latter in OmegaT, you must register the .php extension with the XHTML filter as follows:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103706Z">
-        <seg>Per tradurre quest'ultimo in OmegaT, è necessario registrare l'estensione. php con il filtro XHTML come segue:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125347Z">
+        <seg>Per tradurre quest'ultimo in OmegaT, è necessario registrare l'estensione .php con il filtro XHTML come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60807,8 +60807,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103448Z">
-        <seg>Non devi tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (bundle), o appena l'instant start tutorial.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125220Z">
+        <seg>Non devi tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (bundle), o soltanto la Guida di avvio rapido.</seg>
       </tuv>
     </tu>
     <tu>
