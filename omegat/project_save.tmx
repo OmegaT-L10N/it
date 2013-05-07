@@ -6123,6 +6123,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;Copyright issues&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085752Z">
+        <seg>&lt;h3&gt;Problemi di copyright&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Download links&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T165524Z">
@@ -52886,6 +52894,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T102257Z">
         <seg>Questo pacchetto incorpora Java Runtime Environment di SUN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085623Z">
+        <seg>Questo piano mostra quale lavoro di traduzione e localizzazione è già stato fatto su OmegaT, e quale lavoro è attualmente in corso.</seg>
       </tuv>
     </tu>
     <tu>
