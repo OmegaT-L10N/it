@@ -12035,6 +12035,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134958Z">
+        <seg>Aggiungere l'argomento - ITokenizer = seguito dal nome completo di questo tokenizer (copiando l'intera linea, inserendo uno spazio) alla fine del comando lancio nel tuo file di script di lancio di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add the following argument to the launch command:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195030Z">
@@ -16064,6 +16072,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose a tokenizer from the following list, according to your &lt;s0&gt;source&lt;/s0&gt; language:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134930Z">
+        <seg>Scegliere un tokenizer dal seguente elenco, secondo la lingua di &lt;s0&gt;origine&lt;/s0&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the .png file type</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131833Z">
@@ -18409,6 +18425,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202625Z">
         <seg>A seconda della versione di Tcl/Tk che avete installato, potrebbe essere necessario aggiungere il numero di versione per il comando di desiderio, ad esempio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending upon your system configuration, the launch command may be slightly different.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134912Z">
+        <seg>In base alla configurazione del sistema, il comando di lancio potrebbe essere leggermente diverso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21055,6 +21079,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135040Z">
+        <seg>Eseguire questo file e OmegaT ora dovrebbe lanciare con la funzione tokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T191911Z">
@@ -22572,6 +22604,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183721Z">
         <seg>Per esempio, questo testo in inglese:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to use the English tokenizer (when translating from English), your launch command might now be:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135006Z">
+        <seg>Ad esempio, per utilizzare il tokenizer inglese (traduzione dall'inglese), il comando di lancio ora potrebbe essere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27376,6 +27416,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135100Z">
+        <seg>Se si desidera utilizzare diversi tokenizer perché si traduce da più di una lingua, creare un file di script di lancio di OmegaT separato per ogni tokenizer che si desidera utilizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200527Z">
@@ -27621,6 +27669,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174227Z">
         <seg>Importante: per poter utilizzare i plug-in, è necessario installare una versione più recente di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135033Z">
+        <seg>Importante: questo comando tutto deve apparire su una sola riga (anche se sembra di essere su due righe nel display in cui stai leggendo questo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37923,6 +37979,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T184133Z">
         <seg>Menu Opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or if you are translating from Turkish, it might now be:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135018Z">
+        <seg>O se si sta traducendo dal turco, ora potrebbe essere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55571,6 +55635,14 @@ sviluppatori a:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130658Z">
         <seg>Per collaudare l'interfaccia utente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135045Z">
+        <seg>Per verificare, controllare se le voci di glossario vengono visualizzate anche quando il segmento di OmegaT corrente contiene un termine in una forma flessa da che nel Glossario.</seg>
       </tuv>
     </tu>
     <tu>
