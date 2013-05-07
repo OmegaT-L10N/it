@@ -6101,8 +6101,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;h3&gt;Legacy versions&lt;/h3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223244Z">
-        <seg>&lt;h3&gt;Versioni ereditate&lt;/h3&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081437Z">
+        <seg>&lt;h3&gt;Versioni precedenti&lt;/h3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9591,8 +9591,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;Legacy versions are older versions that have been superseded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223217Z">
-        <seg>&lt;p&gt;Le versioni ereditate sono versioni più vecchie e superate.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081424Z">
+        <seg>&lt;p&gt;Le versioni precedenti sono versioni più vecchie e superate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9615,8 +9615,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;Mac OS X users: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171042Z">
-        <seg>&lt;p&gt;Gli utenti di Mac OS X: JRE è installato su Mac OS X per impostazione predefinita, pertanto esiste una versione per Mac OS X con il JRE.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081231Z">
+        <seg>&lt;p&gt;Utenti di Mac OS X: JRE è installato su Mac OS X per impostazione iniziale, pertanto esiste una versione per Mac OS X con il JRE.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9687,8 +9687,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;The Web Start version offers an alternative means of installing OmegaT on your computer.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171103Z">
-        <seg>&lt;p&gt;Il Web Start versione offre un mezzo alternativo di installazione sul vostro computer di OmegaT.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081404Z">
+        <seg>&lt;p&gt;La versione Web Start offre un mezzo alternativo di installazione di OmegaT sul vostro computer.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
