@@ -10123,10 +10123,42 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/google_translate.html"&gt;Google Translate&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072343Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/google_translate.html"&gt;Utilizzo di Google Translate&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;&lt;a href="howtos/ms_translator_mac.html"&gt;MS Translator on Mac&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071956Z">
         <seg>&lt;td&gt;&lt;a href="howtos/ms_translator_mac.html"&gt;MS Translator su Mac&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/preview.html"&gt;Preview&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072317Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/preview.html"&gt;Anteprima&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/prop12m.html"&gt;Propagation and one-to-many matching&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072123Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/prop12m.html"&gt;Concordanza, funzionalità propagazione e una a molti&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/spelling.html"&gt;Spellchecking&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072351Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/spelling.html"&gt;Correzione ortografica&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10329,8 +10361,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>&lt;td&gt;Describes OmegaT's propagation and one-to-many matching features.&lt;/td&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225928Z">
-        <seg>&lt;td&gt;Descrive le caratteristiche propagazione della concordanza e concordanza uno a molti di OmegaT.&lt;/td&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072244Z">
+        <seg>&lt;td&gt;Descrive le caratteristiche 'Propagazione della concordanza' e 'Concordanza una a molti' di OmegaT.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
