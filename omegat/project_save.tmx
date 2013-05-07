@@ -6089,6 +6089,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;h3&gt;Training videos&lt;/h3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T070601Z">
+        <seg>&lt;h3&gt;I video di addestramento&lt;/h3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h3&gt;Trunk version&lt;/h3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223457Z">
@@ -10267,6 +10275,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230453Z">
         <seg>&lt;td&gt;Destinata in particolare agli utenti che sono nuovi di Linux.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;OmegaT videos on the Qabiria YouTube channel.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T070811Z">
+        <seg>&lt;td&gt;Video per OmegaT  sul canale YouTube Qabiria.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
