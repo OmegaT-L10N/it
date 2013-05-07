@@ -34627,14 +34627,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113535Z">
-        <seg>OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT + You</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T210604Z">
@@ -34751,6 +34743,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T125945Z">
         <seg>Guida OmegaT: compatibilità OmegaT con Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT HowTo: Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T094327Z">
+        <seg>Guida OmegaT: tradurre OmegaT nella vostra lingua</seg>
       </tuv>
     </tu>
     <tu>
