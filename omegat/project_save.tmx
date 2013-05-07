@@ -24564,6 +24564,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085938Z">
+        <seg>Se un pezzo adatto del lavoro per la tua lingua non è ancora stato avviato, è possibile segnarlo nel piano per indicare che si sono assunte la responsabilità per esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T163027Z">
@@ -49141,6 +49149,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T141617Z">
         <seg>Lo scopo della modalità console è usare OmegaT come strumento di traduzione in un ambiente di scripting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090127Z">
+        <seg>Lo scopo del piano è quello di prevenire che due o più traduttori lavorino sulla stessa traduzione senza esserne consapevoli (doppioni dei lavori).</seg>
       </tuv>
     </tu>
     <tu>
