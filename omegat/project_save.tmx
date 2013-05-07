@@ -1509,6 +1509,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Note: these are the English files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090749Z">
+        <seg>(Nota: questi sono i file inglesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Note: you can of course rearrange the panes to your own liking - the above description applies to your OmegaT after installation).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T095323Z">
@@ -9661,6 +9669,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;If you wish to translate the OmegaT web pages, download the &lt;a href="http://www.omegat.org/resources/omt_website.zip"&gt;website localization package&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090740Z">
+        <seg>&lt;p&gt;Se volete tradurre le pagine web di OmegaT, scaricare il &lt;a href="http://www.omegat.org/resources/omt_website.zip"&gt; pacchetto di localizzazione del sito Web&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222819Z">
@@ -9809,6 +9825,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073213Z">
         <seg>&lt;p&gt;Lo strumento gratuito (GPL) per memorie di traduzione&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;The full package contains the user manual, the instant start manual, the user interface resource bundle and the readme file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090655Z">
+        <seg>&lt;p&gt;Il pacchetto completo contiene il manuale utente, il manuale di avvio rapido, il corredo di risorse di interfaccia utente e il file Leggimi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19163,6 +19187,30 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the files for translation, either the &lt;?php $link='&lt;a
+href="http://sourceforge.net/projects/omegat/files/Other%20-%20Localization%20projects/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_L10N_Full.zip"
+&gt;';
+$endlink='&lt;/a&gt;';?&gt;
+&lt;?php echo $link ?&gt;"Full" package&lt;?php echo $endlink ?&gt; or the &lt;?php $link='&lt;a
+href="http://sourceforge.net/projects/omegat/files/Other%20-%20Localization%20projects/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_L10N_Minimal.zip"
+&gt;';
+$endlink='&lt;/a&gt;';?&gt;
+&lt;?php echo $link ?&gt;"Minimal" package&lt;?php echo $endlink ?&gt;.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090600Z">
+        <seg>Scaricare i file per la traduzione, o da &lt;?php $link='&lt;a
+href="http://sourceforge.net/projects/omegat/files/Other%20-%20Localization%20projects/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_L10N_Full.zip"
+&gt;';
+$endlink='&lt;/a&gt;';?&gt;
+&lt;?php echo $link ?&gt;"Full" package&lt;?php echo $endlink ?&gt; o da &lt;?php $link='&lt;a
+href="http://sourceforge.net/projects/omegat/files/Other%20-%20Localization%20projects/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_L10N_Minimal.zip"
+&gt;';
+$endlink='&lt;/a&gt;';?&gt;
+&lt;?php echo $link ?&gt;Il pacchetto "Minimo"&lt;?php echo $endlink ?&gt;.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the most recent files (OmegaT-tokenizers_0.4_2-2.1.zip at the time of this writing).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T182037Z">
@@ -26458,6 +26506,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T182810Z">
         <seg>Se si preferisce leggere il testo finito sullo schermo, per esempio nel  browser, alternare tra il browser e OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please&amp;nbsp;contact the &lt;a href="mailto:mailto:lin4trans@users.sourceforge.net"&gt;OmegaT webmaster&lt;/a&gt;.)&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090806Z">
+        <seg>Se si preferisce tradurre da una lingua diversa, in cui è già stato localizzato OmegaT, contatta il &lt;a href="mailto:mailto:lin4trans@users.sourceforge.net"&gt; webmaster di OmegaT&lt;/a&gt;.)&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48517,6 +48573,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The minimal package contains the same files as the full package, except for the main user manual.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090717Z">
+        <seg>Il pacchetto minimo contiene gli stessi file del pacchetto completo, fatta eccezione per il manuale principale dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The minimum is 10 seconds.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120724T210550Z">
@@ -60024,6 +60088,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T204400Z">
         <seg>La sua posizione e il suo nome sono definiti all'interno della finestra delle proprietà del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090727Z">
+        <seg>Non devi tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (bundle), o appena l'instant start tutorial.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
