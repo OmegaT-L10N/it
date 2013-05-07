@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -138,6 +138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T191932Z">
         <seg>"This is a source term, which contains a comma","questo è un termine di partenza, che contiene una virgola"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"We" refers below to the OmegaT project team.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124510Z">
+        <seg>Il termine "noi" qui di seguito si riferisce al gruppo di progetto di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35533,8 +35541,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104043Z">
-        <seg>OmegaT è un programma per memoria di traduzione gratuito, open source.OmegaT is a free, open-source translation memory program.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124419Z">
+        <seg>OmegaT è un programma per memoria di traduzione gratuito, open.</seg>
       </tuv>
     </tu>
     <tu>
