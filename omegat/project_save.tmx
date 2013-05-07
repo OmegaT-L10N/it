@@ -11661,8 +11661,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A translation may also be provided for information, but it has no legal validity.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091827Z">
-        <seg>Una traduzione può anche essere fornita per informazioni, ma non ha alcuna validità giuridica.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130053Z">
+        <seg>Una traduzione può anche essere fornita per informazione, ma non ha alcuna validità giuridica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21713,8 +21713,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Firstly, only the original English is legally valid.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091822Z">
-        <seg>In primo luogo, solo l'originale inglese è legalmente valido.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130046Z">
+        <seg>In primo luogo, perché solo l'originale inglese è legalmente valido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25585,6 +25585,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130006Z">
+        <seg>Se il documento che si sta traducendo lo contiene, si prega di &lt;s0&gt;non&lt;/s0&gt; tradurre la licenza GPL (GNU Public License) o GFDL (GNU Free Documentation License).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T205007Z">
@@ -26575,8 +26583,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104756Z">
-        <seg>Se avete domande, la &lt;a0&gt;lista OmT-l10n&lt;/a0&gt; è il posto migliore per pubblicarle&amp;&amp;&amp;&amp;&amp;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125917Z">
+        <seg>Se avete domande, la &lt;a0&gt;lista OmT-l10n&lt;/a0&gt; è il posto migliore per formularle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60847,8 +60855,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You have complete freedom in how you translate.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104553Z">
-        <seg>Hai completa libertà in quanto si traduce.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125845Z">
+        <seg>Hai completa libertà su come tradurre.</seg>
       </tuv>
     </tu>
     <tu>
