@@ -19223,8 +19223,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Don't forget to update the OmegaT Localization Plan (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092259Z">
-        <seg>Non dimenticare di aggiornare la localizzazione di OmegaT piano (vedere il passaggio 2 della procedura) per mostrare che è stata completata la traduzione di una particolare versione di documento.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132233Z">
+        <seg>Non dimenticare di aggiornare il piano di localizzazione di OmegaT (vedere il passaggio 2 della procedura) per mostrare che è stata completata la traduzione di una particolare versione di documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20481,8 +20481,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Equally, if you abandon the translation work for any reason, please update your entry in the plan to show this.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092308Z">
-        <seg>Allo stesso modo, se si abbandona il lavoro di traduzione per qualsiasi motivo, si prega di aggiornare il vostro ingresso nel piano a mostrare questo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132312Z">
+        <seg>Allo stesso modo, se si abbandona il lavoro di traduzione per qualsiasi motivo, si prega di aggiornare la vostra voce nel piano per mostrare questo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27009,8 +27009,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you used OmegaT or another CAT tool for the work, please also send your translation memory (TMX file) together with the translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092224Z">
-        <seg>Se utilizzato OmegaT o un altro strumento CAT per il lavoro, inviare anche la memoria di traduzione (file TMX) insieme con la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132033Z">
+        <seg>Se si è utilizzato OmegaT o un altro strumento CAT per il lavoro, inviare anche la memoria di traduzione (file TMX) insieme con la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39815,6 +39815,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200556Z">
         <seg>Piuttosto che trovare tutti i casi di "abc" e correggerli prima di procedere (che è possibile, ma ha inconvenienti), lei potrebbe semplicemente decidere di correggerli nel corso del prossimo progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather, create two separate .zip or tar.gz files, one containing the target documents only, and the other containing the tmx files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132156Z">
+        <seg>Piuttosto, crea due file. zip o tar. gz, uno contenente solo i documenti di destinazione e l'altro contenente i file tmx.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
