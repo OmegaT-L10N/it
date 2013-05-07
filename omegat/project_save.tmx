@@ -13515,6 +13515,15 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the program is intended for translators throughout the world and not just
+in English-speaking countries, it is appropriate that the documentation (and, if possible, the program itself) be available in other languages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084635Z">
+        <seg>Siccome il programma è destinato per i traduttori in tutto il mondo e non solo nei paesi di lingua inglese, è opportuno che la documentazione e, se possibile, il programma stesso, siano disponibili in altre lingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T105802Z">
@@ -23934,6 +23943,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080112Z">
         <seg>Tuttavia, OpenOffice.org facilita l'uso di OmegaT (ad esempio, come già detto, rendendo più facile gestire i file di Microsoft Office) e fornisce ulteriori &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;funzioni utili per traduttori e indipendenti da OmegaT, come ad esempio la funzione  &lt;/f3&gt;&lt;f4&gt;per la creazione di file .pdf .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, as the program is being given away and not sold commercially, there are no resources available to pay for translations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084756Z">
+        <seg>Tuttavia, siccome il programma viene offerto e non venduto commercialmente, non sono presenti risorse disponibili a pagare per le traduzioni.</seg>
       </tuv>
     </tu>
     <tu>
