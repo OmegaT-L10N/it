@@ -9539,6 +9539,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;"We" refers below to the OmegaT project team.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084052Z">
+        <seg>&lt;p&gt;Il termine "noi" si riferisce di seguito al gruppo di progetto di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;A different display font can be selected via the &lt;b&gt;Display Font&lt;/b&gt;dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T173222Z">
@@ -45905,6 +45913,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193958Z">
         <seg>La filosofia del progetto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body; just a group of volunteers involved in the OmegaT project.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084206Z">
+        <seg>Il gruppo di progetto di OmegaT non è una società o una persona giuridica formale, ma solo un gruppo di volontari coinvolti nel progetto OmegaT.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
