@@ -14069,6 +14069,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the time of writing, OmegaT detects the language of the operating system you are using.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132858Z">
+        <seg>Al momento della scrittura, OmegaT rileva la lingua del sistema operativo che si sta utilizzando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the time of writing, OmegaT supports the following formatted text formats:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T185152Z">
@@ -24284,6 +24292,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How OmegaT handles localized versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132841Z">
+        <seg>Come OmegaT tratta le versioni localizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How OmegaT remembers your translations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101259Z">
@@ -24865,6 +24881,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T192800Z">
         <seg>Se Java è installato a livello di sistema, il percorso completo non deve essere indicato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If OmegaT contains a language version which you would like to use but is not the language of your operating system, you can force OmegaT to use the desired version by changing the launch command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132927Z">
+        <seg>Se OmegaT contiene una versione di lingua che piacerebbe utilizzare ma non è la lingua del sistema operativo, è possibile forzare OmegaT a utilizzare la versione desiderata modificando il comando di lancio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26995,6 +27019,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092326Z">
         <seg>Se si utilizza OmegaT (speriamo che si fa) o qualsiasi altro strumento CAT per produrre la traduzione, si prega anche caricare i file TMX &lt;a href="http://tech.groups.yahoo.com/group/OmegaT/files/3-Localization files/Translation memory repository/"&gt; repository&lt;/a&gt;.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use OmegaT (we hope that you do) or any other CAT tool to produce your translation, please also upload the TMX files to the &lt;a0&gt;repository&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132806Z">
+        <seg>Se si utilizza OmegaT (speriamo che si fa) o qualsiasi altro strumento CAT per produrre la traduzione, si prega anche caricare i file TMX  nel &lt;a0&gt;repository&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
