@@ -9559,8 +9559,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;If you install the OmegaT version even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171026Z">
-        <seg>JRE di &lt;p&gt;se si installa la versione di OmegaT anche se JRE è già installato sul vostro computer, OmegaT verrà installato separatamente e non sarà in conflitto con esso.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T080906Z">
+        <seg>JRE di &lt;p&gt;Se si installa la versione di OmegaT anche se JRE è già installato sul vostro computer, OmegaT verrà installato separatamente e non sarà in conflitto con esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9607,8 +9607,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;Linux users: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171045Z">
-        <seg>Gli utenti di Linux &lt;p&gt;: la maggior parte delle distribuzioni di Linux sono fornite con un ambiente di Runtime Java, ma alcune implementazioni open-source non funzionano correttamente con OmegaT (anche se questo potrebbe non essere immediatamente evidente).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081115Z">
+        <seg>&lt;p&gt;Utenti di Linux: la maggior parte delle distribuzioni di Linux sono fornite di un ambiente di Runtime Java, ma alcune implementazioni open-source non funzionano correttamente con OmegaT (anche se questo potrebbe non risultare immediatamente evidente).</seg>
       </tuv>
     </tu>
     <tu>
