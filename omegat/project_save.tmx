@@ -1645,6 +1645,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134223Z">
+        <seg>(Il tokenizer può essere utilizzato con le versioni 2.0. x e 2.1.0, ma questo richiede una diversa versione del tokenizer e una procedura di installazione diversa.) Agli utenti si consiglia di aggiornarsi all'ultima versione beta di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183719Z">
@@ -10310,6 +10318,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134135Z">
+        <seg>&lt;s0&gt;OmegaT versione 2.1.0 e più vecchie&lt;/s0&gt;: il tokenizer attuale non è compatibile con queste versioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Other: &lt;Something&gt;\OmegaT&lt;/s0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193503Z">
@@ -10386,6 +10402,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T183120Z">
         <seg>&lt;s0&gt;Attenzione!&lt;/s0&gt; Dopo aver modificato le impostazioni del carattere, OmegaT potrebbe richiedere un po' di tempo per visualizzare le modifiche apportate, specialmente quando nella finestra dell'Editor è aperto un file di grosse dimensioni e composto da molti segmenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Webstart version of OmegaT&lt;/s0&gt;: the tokenizer is not compatible with the Webstart version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134050Z">
+        <seg>&lt;s0&gt;Versione WebStart di OmegaT&lt;/s0&gt;: il tokenizer non è compatibile con la versione Webstart di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14580,6 +14604,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T213604Z">
         <seg>Per utilizzare la funzione di correzione ortografica devono essere installati uno o più dizionari (per es., per la lingua di destinazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before using the tokenizer with OmegaT, you must first ensure that your version of OmegaT is suitable and prepared for use with it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134026Z">
+        <seg>Prima di utilizzare il tokenizer con OmegaT, in primo luogo è necessario assicurarsi che la versione di OmegaT è adatta e preparato per l'uso di esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22392,6 +22424,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133951Z">
+        <seg>Ad esempio, riconoscerà parole flesse in testi e visualizzerà la corrispondente voce di glossario, anche se la voce di glossario contiene solo la forma non flessa di una parola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T191649Z">
@@ -27244,6 +27284,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T200527Z">
         <seg>Se si vuole utilizzare questo tipo di file come traduzioni di riferimento in OmegaT, essi devono essere riparati, altrimenti OmegaT segnalerà un errore e non li caricherà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to use the tokenizer, install the standard version of OmegaT (latest beta version) for your system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134109Z">
+        <seg>Se si desidera utilizzare il tokenizer, installare la versione standard di OmegaT (ultima versione beta) per il vostro sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38902,6 +38950,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T145550Z">
         <seg>Impossibile eseguire le operazioni di salvataggio delle preferenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preparation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134003Z">
+        <seg>Preparazione</seg>
       </tuv>
     </tu>
     <tu>
