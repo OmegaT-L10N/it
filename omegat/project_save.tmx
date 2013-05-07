@@ -62000,6 +62000,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd [full path to OmegaT]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130818Z">
+        <seg>cd [percorso completo di OmegaT]&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd {folder}</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T081524Z">
@@ -66036,6 +66044,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225536Z">
         <seg>dove &lt;i0&gt;path&lt;/i0&gt; è il percorso completo della cartella in cui avete posizionato preview.tcl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131050Z">
+        <seg>dove [percorso completo di OmegaT] è il percorso completo della cartella contenente il programma di OmegaT e [nome del corredo con il percorso completo] è il nome della vostra traduzione del corredo delle risorse (bundle_en.properties, a meno che non abbiano cambiato il nome) incluso il percorso completo per la sua posizione.</seg>
       </tuv>
     </tu>
     <tu>
