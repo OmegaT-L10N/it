@@ -30181,6 +30181,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133903Z">
+        <seg>Esso fornisce migliori concordanze parziali e del glossario in OmegaT, calcolando le radici ("stemming") delle parole di origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T221153Z">
@@ -35031,6 +35039,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T094327Z">
         <seg>Guida OmegaT: tradurre OmegaT nella vostra lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT HowTo: Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133648Z">
+        <seg>Guida OmegaT: usare il tokenizer per OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -46851,6 +46867,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T184403Z">
         <seg>La soluzione OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT tokenizer is a plugin for OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133746Z">
+        <seg>Il tokenizer di OmegaT è un plugin per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
