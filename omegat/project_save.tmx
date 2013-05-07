@@ -3761,6 +3761,16 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a
+href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Latest&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073857Z">
+        <seg>&lt;a
+href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultima&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;/a0&gt;You can toggle between different display modes by pressing Ctrl+Shift+O (this is the letter O and not the numeral 0).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110126T191256Z">
