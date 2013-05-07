@@ -33813,8 +33813,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>None of this need concern you unless you are particularly interested in copyright issues.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092423Z">
-        <seg>Niente di tutto questo bisogno di riguardare a meno che non sei particolarmente interessato a problemi di copyright.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133315Z">
+        <seg>Niente di tutto questo hai bisogno di riguardare a meno che non sei particolarmente interessato a problemi di copyright.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61482,6 +61482,14 @@ them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T084602Z">
         <seg>Si dovrà anche possedere l'utilità &lt;e0&gt;ant&lt;/e0&gt; necessaria per costruire OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be credited as the author of your work and named as joint copyright holder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133514Z">
+        <seg>Sarai accreditato come autore del tuo lavoro e nominato come detentore del copyright congiunto.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
