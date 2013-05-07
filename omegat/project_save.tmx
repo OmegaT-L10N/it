@@ -10123,10 +10123,42 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/compatibility.html"&gt;OmegaT compatibility&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072643Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/compatibility.html"&gt;Compatibilità di OmegaT&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/docx.html"&gt;docx compatibility&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072626Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/docx.html"&gt;Compatibilità con .docx&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/export_uncleaned_rtf.html"&gt;Uncleaned RTF&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072545Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/export_uncleaned_rtf.html"&gt;RTF non ripulito&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;&lt;a href="howtos/google_translate.html"&gt;Google Translate&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072343Z">
         <seg>&lt;td&gt;&lt;a href="howtos/google_translate.html"&gt;Utilizzo di Google Translate&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;a href="howtos/iceni_infix.html"&gt;Iceni Infix&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072451Z">
+        <seg>&lt;td&gt;&lt;a href="howtos/iceni_infix.html"&gt;Utilizzo di Iceni Infix&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10287,6 +10319,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;td&gt;&lt;strong&gt;Feature HowTos&lt;/strong&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072422Z">
+        <seg>&lt;td&gt;&lt;strong&gt;Guide delle funzionalità&lt;/strong&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;td&gt;A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T230837Z">
@@ -10385,8 +10425,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>&lt;td&gt;Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).&lt;/td&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225555Z">
-        <seg>&lt;td&gt;Viene descritto come utilizzare OmegaT in congiunzione con il formato RTF bilingue Trados (file "nominalmente").&lt;/td&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T072520Z">
+        <seg>&lt;td&gt;Viene descritto come utilizzare OmegaT in congiunzione con il formato RTF bilingue Trados (file "non ripuliti").&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
