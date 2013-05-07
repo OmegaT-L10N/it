@@ -12259,6 +12259,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After creating a launch script as described above, you can configure your system so that OmegaT is launched more conveniently, for example by creating a shortcut.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135359Z">
+        <seg>Dopo la creazione di uno script di avvio come descritto sopra, è possibile configurare il sistema affinché OmegaT sia lanciato più convenientemente, per esempio mediante la creazione di un collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After creating an OmegaT project, copy or move this file into the project's &lt;s25&gt;\glossary&lt;/s25&gt; folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T230215Z">
@@ -12896,6 +12904,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T170348Z">
         <seg>In alternativa, selezionare una parola o una frase in un punto qualsiasi nella finestra dell'Editor (il testo di destinazione del segmento attivo) e premere &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, right-click on the launch script.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135458Z">
+        <seg>In alternativa, fare clic destro sullo script di lancio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16060,6 +16076,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213413Z">
         <seg>Cinese (tradizionale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose "Create Shortcuts Here".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135454Z">
+        <seg>Scegliere "Crea collegamenti qui".</seg>
       </tuv>
     </tu>
     <tu>
@@ -22712,6 +22736,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135344Z">
+        <seg>Ad esempio, se si sta traducendo dal cinese, olandese, provare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, one can export the contents above as a &lt;f1&gt;CSV&lt;/f1&gt;, instead of a &lt;f2&gt;UTF8&lt;/f2&gt; text file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T221453Z">
@@ -28394,6 +28426,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135320Z">
+        <seg>In alcuni casi, si può trovare che il tokenizer in lingua sorgente interferisce con il correttore ortografico della lingua di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some programming languages (e.g. PHP, C) special tags are used as placeholders in strings that are used in combination with the printf-function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T215250Z">
@@ -33623,6 +33663,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131912Z">
         <seg>Chiamare l'immagine NewImage.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name the launch script files appropriately, for example "OmegaT-EN.bat" for the launch script file containing the command with the English tokenizer and "OmegaT-TR.bat" for the launch script file containing the command with the Turkish tokenizer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135238Z">
+        <seg>Denominare i file script di lancio in modo appropriato, ad esempio "OmegaT-EN.bat" per il file di script di avvio che contiene il comando con il tokenizer inglese e "OmegaT-TR.bat" per il file di script di avvio che contiene il comando con il tokenizer turco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41252,6 +41300,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the launch script (OmegaT.bat), then keeping the right mouse button depressed, drag the script to a convenient location, such as your desktop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135437Z">
+        <seg>Tasto destro del mouse sullo script di lancio (OmegaT.bat), quindi tenendo premuto il pulsante destro del mouse, trascinare lo script in una posizione comoda, ad esempio sul desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T193554Z">
@@ -43224,6 +43280,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194602Z">
         <seg>Selezionare la macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select: "Send to", then select "Desktop (create shortcut)".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135504Z">
+        <seg>Selezionare: "Invia a", quindi selezionare "Desktop (Crea collegamento)".</seg>
       </tuv>
     </tu>
     <tu>
@@ -54813,6 +54877,14 @@ una nuova segnalazione di errore:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a shortcut in Windows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135411Z">
+        <seg>Per creare un collegamento in Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T110451Z">
@@ -59326,6 +59398,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you release the right click, a dialog opens with a number of options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135447Z">
+        <seg>Quando si rilascia il tasto destro, si apre una finestra di dialogo con un numero di opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you think OmegaT is behaving erratically it is important to include this file or the relevant part in any &lt;a0&gt;trouble report&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T194205Z">
@@ -60753,6 +60833,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120724T212309Z">
         <seg>L'indicazione della lingua può essere inserita manualmente, oppure tramite una selezione dagli elenchi a cascata disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can eliminate this problem by specifying a tokenizer for the target language as well (where available), with the argument --ITokenizerTarget=.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135333Z">
+        <seg>È possibile eliminare questo problema specificando un tokenizer per lingua di destinazione (dove disponibile), con l'argomento - ITokenizerTarget =.</seg>
       </tuv>
     </tu>
     <tu>
