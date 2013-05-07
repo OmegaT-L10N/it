@@ -9822,6 +9822,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;Most of the OmegaT documentation is licensed for re-use under the GNU Public License (GPL) or GNU Free Documentation License (GFDL).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092408Z">
+        <seg>&lt;p&gt;La maggior parte della documentazione OmegaT è concesso in licenza per il riutilizzo sotto la GNU Public License (GPL) o GNU Free Documentation License (GFDL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;Name the image NewImage.png&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092211Z">
@@ -33523,6 +33531,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>None of this need concern you unless you are particularly interested in copyright issues.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092423Z">
+        <seg>Niente di tutto questo bisogno di riguardare a meno che non sei particolarmente interessato a problemi di copyright.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T183645Z">
@@ -50899,6 +50915,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The web pages are not licensed for re-use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092415Z">
+        <seg>Le pagine web non vengono concessi in licenza per il riutilizzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T100826Z">
@@ -60978,6 +61002,14 @@ them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T084602Z">
         <seg>Si dovrà anche possedere l'utilità &lt;e0&gt;ant&lt;/e0&gt; necessaria per costruire OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be credited as the author of your work and named as joint copyright holder.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092609Z">
+        <seg>Sarà accreditato come l'autore del vostro lavoro e denominato come detentore del copyright congiunto.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
