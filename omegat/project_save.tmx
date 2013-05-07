@@ -9575,8 +9575,8 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;In order to run, OmegaT requires&amp;nbsp;the Java Runtime Environment (JRE) to be installed on your computer.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171015Z">
-        <seg>&lt;p&gt;Al fine di eseguire, OmegaT richiede il Java Runtime Environment (JRE) per essere installato sul tuo computer.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T080653Z">
+        <seg>&lt;p&gt;Per essere eseguito, OmegaT richiede&amp;nbsp; Java Runtime Environment (JRE) per installato sul tuo computer.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29301,8 +29301,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171029Z">
-        <seg>Pertanto è sempre sicuro di installare la versione di OmegaT con JRE.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T080732Z">
+        <seg>Pertanto è sempre sicuro installare la versione di OmegaT con JRE.</seg>
       </tuv>
     </tu>
     <tu>
