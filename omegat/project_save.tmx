@@ -15552,6 +15552,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change this by adding the user language option and the corresponding language code, e.g. in the following case for French:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133129Z">
+        <seg>Cambiarlo aggiungendo l'opzione lingua utente e il codice della lingua corrispondente, ad esempio nel caso seguente per il francese:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T130126Z">
@@ -17321,6 +17329,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180510Z">
         <seg>Copyright Will Helton 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright issues</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133144Z">
+        <seg>Problemi di copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -25001,6 +25017,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T091211Z">
         <seg>OmegaT usa l'interfaccia in questa lingua, se disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a user interface or user manual are not available in the language of your operating system, OmegaT defaults to displaying the English versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133040Z">
+        <seg>Se un'interfaccia utente o manuale dell'utente non sono disponibili nella lingua del sistema operativo, le impostazioni predefinite di OmegaT sono per visualizzare le versioni in inglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33079,6 +33103,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145108Z">
         <seg>I più moderni strumenti CAT visualizzano il testo in forma orientata al segmento piuttosto che con il suo aspetto e con l'impaginazione finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the OmegaT documentation is licensed for re-use under the GNU Public License (GPL) or GNU Free Documentation License (GFDL).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133207Z">
+        <seg>La maggior parte della documentazione OmegaT è concessa in licenza per il riutilizzo sotto la GNU Public License (GPL) o GNU Free Documentation License (GFDL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49447,6 +49479,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The normal command is:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133053Z">
+        <seg>Il comando normale è:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The normal command is: &lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092356Z">
@@ -51253,8 +51293,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The web pages are not licensed for re-use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092415Z">
-        <seg>Le pagine web non vengono concessi in licenza per il riutilizzo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133256Z">
+        <seg>Le pagine web non vengono concesse in licenza per il riutilizzo.</seg>
       </tuv>
     </tu>
     <tu>
