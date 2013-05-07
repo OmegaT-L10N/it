@@ -9603,6 +9603,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;After joining, visit the &lt;a href="http://tech.groups.yahoo.com/group/omegat/database"&gt;OmegaT Localization Plan&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085501Z">
+        <seg>&lt;p&gt;Dopo l'adesione, visitare il &lt;a href="http://tech.groups.yahoo.com/group/omegat/database"&gt; Piano di localizzazione di OmegaT&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224219Z">
@@ -16553,6 +16561,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact the &lt;a href="mailto:jean.christophe.helary@gmail.com"&gt;localization co-ordinator&lt;/a&gt;, who will be able to tell you of any specific issues regarding your language.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085421Z">
+        <seg>Contattare il &lt;a href="mailto:jean.christophe.helary@gmail.com"&gt; Coordinatore di localizzazione&lt;/a&gt;, che sarà in grado di dirvi di eventuali problemi specifici per quanto riguarda il tuo linguaggio.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213727Z">
@@ -19248,6 +19264,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T182856Z">
         <seg>Durante l'installazione, il programma chiederà se si vuole creare un gruppo nel menu &lt;e0&gt;start&lt;/e0&gt; e un collegamento nel desktop e nella barra di avvio rapido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During the subscription process, you will have to send a short message to the group moderators: this is to enable them to distinguish genuine users from spammers.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085453Z">
+        <seg>Durante il processo di sottoscrizione, si dovrà inviare un breve messaggio per i moderatori del gruppo: questo è per consentire loro di distinguere gli utenti genuini da spammers.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27513,6 +27537,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In particular, the main user manual is likely to take two weeks to translate, and several translators may wish to share the work.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085319Z">
+        <seg>In particolare, il manuale dell'utente principale rischia di prendere due settimane per la traduzione, e diversi traduttori potrebbero desiderare di condividere il lavoro.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practical terms, OmegaT merges the translation information saved in &lt;e8&gt;/omegat/project_save,tmx&lt;/e8&gt; with the source documents to produce the target contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T211639Z">
@@ -29923,6 +29955,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095457Z">
         <seg>John Moran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Join the &lt;a href="http://tech.groups.yahoo.com/group/omegat/"&gt;OmegaT user group&lt;/a&gt; (also known as "OmT").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085437Z">
+        <seg>Unisciti al &lt;a href="http://tech.groups.yahoo.com/group/omegat/"&gt; gruppo di utenti di OmegaT&lt;/a&gt; (anche conosciuto come "OmT").</seg>
       </tuv>
     </tu>
     <tu>
