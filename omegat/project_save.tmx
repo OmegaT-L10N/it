@@ -9653,6 +9653,14 @@ Il certificato è firmato da "Didier Briel".&lt;/p&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p&gt;OmegaT is a free, open-source translation memory program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084313Z">
+        <seg>&lt;p&gt;OmegaT è un programma per memoria di traduzione gratuito, open source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p&gt;OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T073035Z">
@@ -50212,6 +50220,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T094107Z">
         <seg>L'interfaccia utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user interface and documentation were originally written in English.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084420Z">
+        <seg>L'interfaccia utente e la documentazione erano in origine scritti in inglese.</seg>
       </tuv>
     </tu>
     <tu>
