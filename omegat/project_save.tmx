@@ -9864,8 +9864,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;p&gt;Options &gt; File Filters &gt; Select "XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091715Z">
-        <seg>&lt;p&gt;Opzioni &gt; Filtri dei file... &gt; scegliere "XHTML files" &gt; Modifica &gt; Aggiungi &gt; quindi scrivi "*.php" nella colonna "Modello del nome del file sorgente".&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092825Z">
+        <seg>&lt;p&gt;Opzioni &gt; Filtri dei file... &gt; scegli "file XHTML" &gt; Modifica &gt; Aggiungi &gt; quindi scrivi "*.php" nella colonna "Modello del nome del file sorgente".&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
