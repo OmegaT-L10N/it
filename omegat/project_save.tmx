@@ -19694,8 +19694,8 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       <tuv lang="EN">
         <seg>Download the &lt;cp0/&gt; &lt;cp1/&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;cp2/&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134555Z">
-        <seg>Scarica il &lt;cp0/&gt; &lt;cp1/&gt; pacchetto zip tokenizer (per versione 2.1.1 OmegaT e più tardi) &lt;cp2/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062814Z">
+        <seg>Scaricare il &lt;cp0/&gt; &lt;cp1/&gt; pacchetto zip tokenizer (per versione 2.1.1 OmegaT o successive) &lt;cp2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28829,8 +28829,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134627Z">
-        <seg>Nella principale cartella del programma OmegaT (cioè la cartella contenente il file OmegaT.jar), creare una sottocartella chiamata "plugins", se non esiste già una sottocartella con tale nome.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063019Z">
+        <seg>Nella principale cartella del programma OmegaT (cioè la cartella contenente il file OmegaT.jar), creare una sottocartella chiamata "plugins", se già non esiste una sottocartella con tale nome.</seg>
       </tuv>
     </tu>
     <tu>
