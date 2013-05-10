@@ -3283,6 +3283,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>./ex.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182929Z">
+        <seg>./ex.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./gen.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183051Z">
+        <seg>./gen.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>./howtos/priorview.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082610Z">
@@ -3299,10 +3315,26 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>./lin.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183038Z">
+        <seg>./lin.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>./linux.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124332Z">
         <seg>./linux.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./osx.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183043Z">
+        <seg>./osx.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -3319,6 +3351,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113533Z">
         <seg>./simple.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./win.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183031Z">
+        <seg>./win.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -6607,6 +6647,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T144528Z">
         <seg>&lt;i1&gt;  ingrandisce la finestra a pieno schermo.&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version &lt;?php echo $min_jre_version?&gt; of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183143Z">
+        <seg>&lt;i1&gt;OmegaT può essere installato su qualsiasi sistema operativo in grado di eseguire la versione &lt;?php echo $min_jre_version?&gt; di Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16432,6 +16480,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click here if you are looking for OmegaT's source code or the Trunk (alpha, bleeding-edge) version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183011Z">
+        <seg>Clicca qui se stai cercando per il codice sorgente di OmegaT o la versione Trunk (alfa, bleeding-edge) di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the box for a new keyboard combination, then experiment with keyboard combinations to find one that is not assigned.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T173020Z">
@@ -21399,6 +21455,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expert</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182936Z">
+        <seg>Esperto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explanation:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T170646Z">
@@ -22936,10 +23000,50 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For experts only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182956Z">
+        <seg>Solo per gli esperti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For further details, please consult the User's Manual.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T230536Z">
         <seg>Per approfondire, consultare il manuale dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183042Z">
+        <seg>Per l'installazione su Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183050Z">
+        <seg>Per l'installazione su Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Windows (98 or later).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183036Z">
+        <seg>Per l'installazione su Windows (98 o versioni successive).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183100Z">
+        <seg>Per l'installazione su altri sistemi operativi (come FreeBSD e Solaris). &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32124,6 +32228,14 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183039Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T192221Z">
@@ -32530,6 +32642,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T101929Z">
         <seg>MRJ Adapter 1.0.8 di Steve Roy (licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183044Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -38687,6 +38807,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other operating systems</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183054Z">
+        <seg>Altri sistemi operativi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095746Z">
@@ -43796,6 +43924,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the operating system of the computer on which you wish to install OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183029Z">
+        <seg>Selezionare il sistema operativo del computer su cui si desidera installare OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the vocabularies that you need in the pop-up window and then click &lt;b4&gt;install&lt;/b4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T205800Z">
@@ -45560,6 +45696,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145425Z">
         <seg>Passo 2: copiare il testo evidenziato (Ctrl+C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Platform (operating system)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183020Z">
+        <seg>Passo 2: Piattaforma (sistema operativo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49129,6 +49273,14 @@ space on your hard drive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144413Z">
         <seg>Il download sarà più veloce, e l'installazione richiede meno spazio sul disco rigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The drawback: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182928Z">
+        <seg>Lo svantaggio: questa versione non può essere utilizzata in questo momento, in congiunzione con i plug-in, quindi non tutte le funzioni sono disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60490,6 +60642,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121927Z">
         <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183032Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
