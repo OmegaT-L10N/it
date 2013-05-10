@@ -10408,8 +10408,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134446Z">
-        <seg>&lt;s0&gt;Versione indipendente dalla piattaforma (su Windows)&lt;/s0&gt;: individuare il file di script di lancio di OmegaT (OmegaT.bat).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062059Z">
+        <seg>&lt;s0&gt;Per la versione di OmegaT indipendente dalla piattaforma (su Windows)&lt;/s0&gt;: individuare il file di script di lancio di OmegaT (OmegaT.bat).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12349,8 +12349,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134428Z">
-        <seg>Dopo il download, inserire il file nella cartella principale di OmegaT (la cartella contenente il file OmegaT.jar).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062007Z">
+        <seg>Dopo il download, inserire il file nella cartella principale di OmegaT (la cartella contenente il file OmegaT.jar, per esempio C:\Programmi\OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26558,8 +26558,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are using the Windows version with JRE, download the file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; If you are using the Windows version without JRE, download the file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T054309Z">
-        <seg>Se si utilizza la versione di Windows con JRE, scaricare il file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; &amp;&amp;&amp;&amp;Se si utilizza la versione di Windows senza JRE, scaricare il file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T061907Z">
+        <seg>Se si utilizza la versione di Windows con JRE, scaricare il file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; Invece per la versione di Windows senza JRE, scaricare il file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
