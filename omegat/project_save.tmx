@@ -61551,8 +61551,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134813Z">
-        <seg>Si può anche essere in grado di fare clic destro con il mouse sul file, quindi selezionare un editor di testo per aprirlo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063503Z">
+        <seg>Si può anche essere in grado di fare clic destro con il mouse sul file, quindi 'Apri con' e selezionare un editor di testo per aprirlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65308,6 +65308,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093220Z">
         <seg>sia la versione di OmegaT completa di JRE (il pacchetto .tar.gz contrassegnato </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063516Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
