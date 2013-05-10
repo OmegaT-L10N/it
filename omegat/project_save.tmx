@@ -3977,6 +3977,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php include '../../config/versions.txt'; ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175057Z">
+        <seg>&lt;?php include '../../config/versions.txt'; ?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;?php include '../config/versions.txt'; ?&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143502Z">
@@ -18929,6 +18937,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102911Z">
         <seg>Diptik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Direct link to Sourceforge</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175245Z">
+        <seg>Link diretto a Sourceforge</seg>
       </tuv>
     </tu>
     <tu>
@@ -35575,6 +35591,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T141512Z">
         <seg>Modalità console di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175158Z">
+        <seg>Selettore di download di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
