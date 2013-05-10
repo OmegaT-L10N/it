@@ -14839,6 +14839,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183606Z">
+        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base64 (public domain)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T183843Z">
@@ -31232,6 +31240,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JRE version &lt;?php echo $min_jre_version?&gt; or later is currently required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183534Z">
+        <seg>attualmente è necessaria la versione JRE &lt;?php echo $min_jre_version?&gt; o una successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JRE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094358Z">
@@ -31876,6 +31892,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T154525Z">
         <seg>Successivamente, una volta accettata il contratto di licenza, il programma chiederà se si vuole creare un gruppo nel menu &lt;e0&gt;start&lt;/e0&gt; , e un collegamento nel desktop e nella barra di avvio rapido: è possibile creare tali scorciatoie anche in seguito, trascinando l'icona &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; nel desktop o nel menu "start".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183549Z">
+        <seg>Ultima</seg>
       </tuv>
     </tu>
     <tu>
@@ -45616,6 +45640,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095349Z">
         <seg>campo ricerca evidenziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183538Z">
+        <seg>Standard</seg>
       </tuv>
     </tu>
     <tu>
