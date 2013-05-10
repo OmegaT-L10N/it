@@ -2947,6 +2947,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../../config/ds.css</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T145112Z">
+        <seg>../../config/ds.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../../config/howto.css</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122316Z">
@@ -30048,6 +30056,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be obtained using the subversion command:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T145015Z">
+        <seg>Può essere ottenuta anche utilizzando il comando di subversion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be obtained using the subversion command:&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T223716Z">
@@ -44828,6 +44844,22 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code packages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T145029Z">
+        <seg>Pacchetti di codice sorgente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T145050Z">
+        <seg>I pacchetti di codice sorgente non sono richiesti dagli utenti e sono intesi solo per gli sviluppatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231120Z">
@@ -46939,6 +46971,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T100728Z">
         <seg>La cartella /tm/ può contenere qualsiasi numero di memorie di traduzione secondarie - cioè i file tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The /trunk (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144957Z">
+        <seg>La versione /trunk (alfa) riflette lo stato di sviluppo più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52914,6 +52954,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T173126Z">
         <seg>Essi sono i file con cui si ha a che fare quotidianamente durante la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T145105Z">
+        <seg>Possono essere trovati nelle cartelle delle corrispondenti versioni compilate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66788,6 +66836,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093331Z">
         <seg>verificare se si tratta di un problema già segnalato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>svn co https://omegat.svn.sourceforge.net/svnroot/omegat/trunk omegat</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T145017Z">
+        <seg>svn co https://omegat.svn.sourceforge.net/svnroot/omegat/trunk omegat</seg>
       </tuv>
     </tu>
     <tu>
