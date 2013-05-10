@@ -13840,6 +13840,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Approximates to "alpha" in other projects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175816Z">
+        <seg>Approximativamente la versione "alpha" di altri progetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T211939Z">
@@ -44884,6 +44892,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175709Z">
+        <seg>Codice sorgente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source code packages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T145029Z">
@@ -57193,6 +57209,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202158Z">
         <seg>Veri file PDF (a volte chiamato "nativo" o "distillati" file PDF, anche se "distillato" ha un significato più preciso) sono i file PDF che sono stati esportati da un'altra applicazione, solitamente un programma di desktop publishing (DTP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trunk</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175713Z">
+        <seg>Trunk</seg>
       </tuv>
     </tu>
     <tu>
