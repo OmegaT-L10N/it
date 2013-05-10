@@ -26481,6 +26481,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144330Z">
+        <seg>Se siete sicuri che una versione adatta di JRE è già installata sul vostro computer, è possibile scaricare una versione di OmegaT senza JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are in any doubt, we recommend that you use the "standard" version, 
 i.e. with JRE.</seg>
       </tuv>
@@ -27147,6 +27155,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183842Z">
         <seg>Se si installa una versione di Java a livello di sistema, è necessario assicurarsi che questa sia nel proprio percorso di avvio o che sia richiamata in modo esplicito durante l'avvio di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you install the OmegaT version even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144605Z">
+        <seg>Se si installa la versione di OmegaT anche se JRE è già installato sul vostro computer, OmegaT verrà installato separatamente e non sarà in conflitto con esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29127,6 +29143,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130310T125138Z">
         <seg>In questo caso, richiamare la documentazione di OmegaT selezionando Aiuto &gt; Manuale dell'utente, oppure premendo il tasto F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144516Z">
+        <seg>In questo caso, non selezionare la versione di Default; selezionare una versione diversa (ad esempio, Standard o Ultima), quindi selezionare una versione contrassegnata "Java not included".</seg>
       </tuv>
     </tu>
     <tu>
@@ -47769,6 +47793,14 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144626Z">
+        <seg>La versione Web Start offre un mezzo alternativo di installazione di OmegaT sul tuo computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The above example contains already the available vocabularies.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100801T204824Z">
@@ -48760,6 +48792,14 @@ instead.</seg>
 space on your hard drive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171020Z">
+        <seg>Il download sarà più veloce, e l'installazione richiede meno spazio sul disco rigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144413Z">
         <seg>Il download sarà più veloce, e l'installazione richiede meno spazio sul disco rigido.</seg>
       </tuv>
     </tu>
@@ -59025,6 +59065,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183812Z">
         <seg>Raccomandiamo dunque di scaricare e installare "Oracle Java Runtime Environment" (JRE) o il pacchetto OmegaT completo di JRE (quello .tar.bz2) contrassegnato "Linux").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Web Start version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144614Z">
+        <seg>Versione Web Start</seg>
       </tuv>
     </tu>
     <tu>
