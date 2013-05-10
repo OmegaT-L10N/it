@@ -3929,6 +3929,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180038Z">
+        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;Windows with JRE&lt;?php echo $endlink ?&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143629Z">
@@ -3973,6 +3981,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143705Z">
         <seg>&lt;?php $link='&lt;a8&gt;'; $endlink='&lt;/a8&gt;';?&gt; &lt;?php echo $link ?&gt;Cross-platform without JRE&lt;?php echo $endlink ?&gt;&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;?php echo $link ?&gt;Standard&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180042Z">
+        <seg>&lt;?php echo $link ?&gt;Standard&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40539,6 +40555,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quit the Download Selector and return to the main downloads page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180031Z">
+        <seg>Uscire dal selettore di download e tornare alla pagina principale dei download.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quotation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T221958Z">
@@ -45424,6 +45448,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145425Z">
         <seg>Passo 2: copiare il testo evidenziato (Ctrl+C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: "Standard" or "Latest"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180032Z">
+        <seg>Step 3: "Standard" or "Latest"</seg>
       </tuv>
     </tu>
     <tu>
