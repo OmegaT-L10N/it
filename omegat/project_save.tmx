@@ -3921,6 +3921,54 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;Windows with JRE&lt;?php echo $endlink ?&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143629Z">
+        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;Windows with JRE&lt;?php echo $endlink ?&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;?php $link='&lt;a10&gt;'; $endlink='&lt;/a10&gt;';?&gt; &lt;?php echo $link ?&gt;Source code&lt;?php echo $endlink ?&gt;&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143637Z">
+        <seg>&lt;?php $link='&lt;a10&gt;'; $endlink='&lt;/a10&gt;';?&gt; &lt;?php echo $link ?&gt;Source code&lt;?php echo $endlink ?&gt;&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;?php $link='&lt;a2&gt;'; $endlink='&lt;/a2&gt;';?&gt; &lt;?php echo $link ?&gt;Windows without JRE&lt;?php echo $endlink ?&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143630Z">
+        <seg>&lt;?php $link='&lt;a2&gt;'; $endlink='&lt;/a2&gt;';?&gt; &lt;?php echo $link ?&gt;Windows without JRE&lt;?php echo $endlink ?&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;?php $link='&lt;a6&gt;'; $endlink='&lt;/a6&gt;';?&gt; &lt;?php echo $link ?&gt;Linux with JRE&lt;?php echo $endlink ?&gt;&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143631Z">
+        <seg>&lt;?php $link='&lt;a6&gt;'; $endlink='&lt;/a6&gt;';?&gt; &lt;?php echo $link ?&gt;Linux with JRE&lt;?php echo $endlink ?&gt;&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;?php include '../config/versions.txt'; ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143502Z">
+        <seg>&lt;?php include '../config/versions.txt'; ?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;?php print "&lt;?xml version=\"1.0\"?&gt;" ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143419Z">
+        <seg>&lt;?php print "&lt;?xml version=\"1.0\"?&gt;" ?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224011Z">
@@ -19708,6 +19756,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download links</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143516Z">
+        <seg>Link per il download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the &lt;cp0/&gt; &lt;cp1/&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;cp2/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062814Z">
@@ -22877,6 +22933,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183049Z">
         <seg>Maggiori informazioni sullo script Kaptain e sull'aggiunta di elementi di menu e icone di avvio in Linux, sono reperibili nel Linux HowTo di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, read on under "Detailed descriptions".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143608Z">
+        <seg>Per ulteriori informazioni, leggere sotto "Descrizioni dettagliate".</seg>
       </tuv>
     </tu>
     <tu>
@@ -31408,6 +31472,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143644Z">
+        <seg>Ultime versioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T123451Z">
@@ -31768,6 +31840,14 @@ OmegaT può essere avviato in vari modi.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100000Z">
         <seg>Collegamenti (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143600Z">
+        <seg>Qui di seguito sono forniti collegamenti alle varie versioni di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35775,6 +35855,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T203834Z">
         <seg>OmegaT non rileva automaticamente i tag errati all'interno del documento tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT downloads overview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143522Z">
+        <seg>OmegaT download panoramica</seg>
       </tuv>
     </tu>
     <tu>
@@ -44952,6 +45040,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095349Z">
         <seg>campo ricerca evidenziato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143615Z">
+        <seg>Versioni standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -63940,6 +64036,94 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082503Z">
         <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-tokenizers/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Linux.tar.bz2/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143650Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Linux.tar.bz2/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Mac.zip/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143648Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Mac.zip/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows.exe/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143646Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows.exe/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows_without_JRE.exe/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143647Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows_without_JRE.exe/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Without_JRE.zip/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143655Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Without_JRE.zip/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Linux.tar.bz2/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143621Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Linux.tar.bz2/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Mac.zip/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143619Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Mac.zip/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143627Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Windows.exe/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143617Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Windows.exe/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Windows_without_JRE.exe/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143618Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Windows_without_JRE.exe/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Without_JRE.zip/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143625Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Without_JRE.zip/download</seg>
       </tuv>
     </tu>
     <tu>
