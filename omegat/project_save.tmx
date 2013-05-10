@@ -3945,10 +3945,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php $link='&lt;a4&gt;'; $endlink='&lt;/a4&gt;';?&gt; &lt;?php echo $link ?&gt;Mac OS X&lt;?php echo $endlink ?&gt;&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143702Z">
+        <seg>&lt;?php $link='&lt;a4&gt;'; $endlink='&lt;/a4&gt;';?&gt; &lt;?php echo $link ?&gt;Mac OS X&lt;?php echo $endlink ?&gt;&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a6&gt;'; $endlink='&lt;/a6&gt;';?&gt; &lt;?php echo $link ?&gt;Linux with JRE&lt;?php echo $endlink ?&gt;&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143631Z">
         <seg>&lt;?php $link='&lt;a6&gt;'; $endlink='&lt;/a6&gt;';?&gt; &lt;?php echo $link ?&gt;Linux with JRE&lt;?php echo $endlink ?&gt;&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;?php $link='&lt;a8&gt;'; $endlink='&lt;/a8&gt;';?&gt; &lt;?php echo $link ?&gt;Cross-platform without JRE&lt;?php echo $endlink ?&gt;&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143705Z">
+        <seg>&lt;?php $link='&lt;a8&gt;'; $endlink='&lt;/a8&gt;';?&gt; &lt;?php echo $link ?&gt;Cross-platform without JRE&lt;?php echo $endlink ?&gt;&lt;br9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4395,6 +4411,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Web Start Standard&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143723Z">
+        <seg>&lt;a0&gt;Web Start Standard&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T185428Z">
@@ -4519,6 +4543,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T212436Z">
         <seg>Gli errori sui &lt;a2&gt;tag&lt;/a2&gt; nella traduzione sono errori durante la &lt;a3&gt;manipolazione dei tag&lt;/a3&gt;, che non ha riprodotto il loro stesso numero e ordine del segmento originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;Web Start Latest&lt;/a2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143736Z">
+        <seg>&lt;a2&gt;Web Start ultime&lt;/a2&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11875,6 +11907,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A version may be "Standard, without JRE, for Windows", or "Latest, with JRE, for Linux", etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143902Z">
+        <seg>Potrebbe essere una versione "Standard, senza JRE per Windows", o "Ultime, con JRE per Linux", ecc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A version may be "Standard, without JRE, for Windows", or "Latest, with JRE, for Linux", etc.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T074227Z">
@@ -18601,6 +18641,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200511Z">
         <seg>Descrizioni dei singoli script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detailed descriptions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143847Z">
+        <seg>Descrizioni dettagliate</seg>
       </tuv>
     </tu>
     <tu>
@@ -31708,6 +31756,14 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143759Z">
+        <seg>Versioni pregresse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Legal Notices - OmegaT 2.0 User Manual</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213452Z">
@@ -34755,6 +34811,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the categories are not mutually exclusive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143853Z">
+        <seg>Nota che le categorie non sono mutuamente esclusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T104235Z">
@@ -35311,6 +35375,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T130609Z">
         <seg>Antico slavo ecclesiastico, Slavo ecclesiastico, Antico Bulgaro, Antico Slavo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Older, superseded versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143808Z">
+        <seg>Versioni più vecchie, sostituite</seg>
       </tuv>
     </tu>
     <tu>
@@ -46775,6 +46847,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;/trunk&lt;/a0&gt; version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143843Z">
+        <seg>La versione &lt;a0&gt;/trunk&lt;/a0&gt; è una versione d'avanguardia, «alfa», ancora in sviluppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT web site&lt;/a0&gt; contains links to various OmegaT resources, so you should probably start there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T172258Z">
@@ -47523,6 +47603,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T090923Z">
         <seg>La traduzione spagnola è migliore di quella slovena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143934Z">
+        <seg>La versione Standard è stata solitamente in uso per qualche tempo e quindi è dimostrata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56893,6 +56981,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trunk version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143820Z">
+        <seg>Versione del tronca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turkish</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213358Z">
@@ -58881,6 +58977,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183812Z">
         <seg>Raccomandiamo dunque di scaricare e installare "Oracle Java Runtime Environment" (JRE) o il pacchetto OmegaT completo di JRE (quello .tar.bz2) contrassegnato "Linux").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Web Start versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143711Z">
+        <seg>Versioni Web Start</seg>
       </tuv>
     </tu>
     <tu>
@@ -63912,10 +64016,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143716Z">
+        <seg>http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160041Z">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/trunk/?view=tar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143831Z">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/trunk/?view=tar</seg>
       </tuv>
     </tu>
     <tu>
@@ -64056,6 +64176,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143658Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows.exe/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143646Z">
@@ -64076,6 +64204,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143655Z">
         <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Without_JRE.zip/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Legacy/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143801Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Legacy/</seg>
       </tuv>
     </tu>
     <tu>
@@ -68098,6 +68234,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135421Z">
         <seg>VERBATIM COPYING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT Website en/download_selector/Copia di dl_overview.XHTML</prop>
+      <prop type="prev">A version may be "Standard, without JRE, for Windows", or "Latest, with JRE, for Linux", etc.</prop>
+      <prop type="next">The Standard version has usually been in use for some time and is therefore proven.</prop>
+      <tuv lang="EN">
+        <seg>Standard version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143924Z">
+        <seg>Versione standard</seg>
       </tuv>
     </tu>
     <tu>
