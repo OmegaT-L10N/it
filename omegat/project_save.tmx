@@ -19972,6 +19972,14 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144711Z">
+        <seg>Durante l'installazione, a seconda del sistema operativo, è possibile ricevere avvisi di protezione diversi. &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093154Z">
@@ -24900,6 +24908,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144926Z">
+        <seg>Tuttavia, alcuni utenti possono dover affrontare restrizioni (imposte dal loro sistema operativo o dalla loro versione Java) che li inducono a preferire una versione precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T081655Z">
@@ -28434,6 +28450,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144809Z">
+        <seg>Al fine di installare la versione Web start, è necessario disporre già Java versione 1.3 o successivo installato sul tuo computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200436Z">
@@ -31800,6 +31824,14 @@ OmegaT può essere avviato in vari modi.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143759Z">
         <seg>Versioni pregresse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144913Z">
+        <seg>Le versioni pregresse sono versioni più vecchie e superate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39767,6 +39799,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T102936Z">
         <seg>Priorview è una piccola utilità che fornisce una funzione di anteprima per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144827Z">
+        <seg>Informativa sulla privacy: OmegaT Java Web Start non salva le tue informazioni sul server web di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50375,6 +50415,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144737Z">
+        <seg>I permessi che si concedono a questa versione (che potrebbero sembrare un "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale (per es., essi consentono l'accesso al disco rigido del computer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which might be mentioned as an</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093155Z">
@@ -57063,8 +57111,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Trunk version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143820Z">
-        <seg>Versione del tronca</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144941Z">
+        <seg>Versione trunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -60416,6 +60464,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144643Z">
+        <seg>Con questa versione, i futuri aggiornamenti verranno installati automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With/without JRE</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144248Z">
@@ -62410,6 +62466,14 @@ them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T112444Z">
         <seg>I documenti e le memorie di traduzione restano nel computer dell'utente e il progetto &lt;a2&gt;OmegaT&lt;/a2&gt; non avrà accesso al suo lavoro o alle informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144842Z">
+        <seg>I documenti e le memorie di traduzione restano nel computer dell'utente e il progetto OmegaT non avrà accesso al suo lavoro o alle informazioni.</seg>
       </tuv>
     </tu>
     <tu>
