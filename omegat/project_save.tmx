@@ -3323,6 +3323,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>./lin_jre.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223859Z">
+        <seg>./lin_jre.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./lin_nojre.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223902Z">
+        <seg>./lin_nojre.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>./linux.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124332Z">
@@ -13964,6 +13980,14 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175816Z">
         <seg>Approximativamente la versione "alpha" di altri progetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Approximates to "beta" in other projects, but is generally very stable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223852Z">
+        <seg>Approximativamente la versione "beta" di altri progetti, ma è generalmente molto stabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39143,6 +39167,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223919Z">
+        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paired tags usually indicate style information that applies to the text between the opening tag and the closing tag of a pair.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193322Z">
@@ -53338,6 +53370,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T074743Z">
         <seg>Questi segmenti sono contrassegnati e delimitati da caratteri speciali e stili di formattazione MS Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223953Z">
+        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
     </tu>
     <tu>
