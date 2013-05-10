@@ -4057,10 +4057,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php echo $link ?&gt;Beta version&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223756Z">
+        <seg>&lt;?php echo $link ?&gt;Beta version&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;?php echo $link ?&gt;Latest&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180534Z">
         <seg>&lt;?php echo $link ?&gt;Latest&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;?php echo $link ?&gt;Standard version&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223752Z">
+        <seg>&lt;?php echo $link ?&gt;Standard version&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13948,6 +13964,14 @@ Il file TMX non sarà caricato.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175816Z">
         <seg>Approximativamente la versione "alpha" di altri progetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Approximates to "stable" in other projects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223752Z">
+        <seg>Approximates to "stable" in other projects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32426,6 +32450,14 @@ experience bugs, display problems or missing features.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux users: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223736Z">
+        <seg>Utenti di Linux: la maggior parte delle distribuzioni di Linux sono fornite di un ambiente di Runtime Java, ma alcune implementazioni open-source non funzionano correttamente con OmegaT (anche se questo potrebbe non risultare immediatamente evidente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux users: note that OmegaT does not work with the free/open-source Java 
 implementations that are packaged with many Linux distributions (for example, 
 Ubuntu), as these are either outdated or incomplete.</seg>
@@ -32778,6 +32810,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T220752Z">
         <seg>Nota per gli utenti di Mac OS X: usare la scorciatoia &lt;k0&gt; &lt;k1&gt;Maiusc&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; e &lt;e4&gt;non &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X users: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223714Z">
+        <seg>Utenti di Mac OS X: JRE è installato su Mac OS X per impostazione iniziale, pertanto esiste una versione per Mac OS X con il JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64952,6 +64992,24 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223746Z">
+        <seg>http://sourceforge.net/projects/omegat/files/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/Omega
+T%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223755Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/Omega
+T%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Linux.tar.bz2/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143650Z">
@@ -65004,6 +65062,16 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143801Z">
         <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Legacy/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/Omega
+T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223750Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/Omega
+T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
     </tu>
     <tu>
