@@ -10352,8 +10352,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134455Z">
-        <seg>&lt;s0&gt;Versioni/sistemi Linux&lt;/s0&gt;: individuare il file di script del lancio di OmegaT (OmegaT o OmegaT.sh).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062133Z">
+        <seg>&lt;s0&gt;Per le versioni o i sistemi Linux&lt;/s0&gt;: individuare il file di script del lancio di OmegaT (OmegaT o OmegaT.sh).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29626,8 +29626,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Installing the tokenizer</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134528Z">
-        <seg>Installando il tokenizer</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062646Z">
+        <seg>Installare tokenizer</seg>
       </tuv>
     </tu>
     <tu>
