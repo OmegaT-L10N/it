@@ -3323,6 +3323,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>./ws.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182758Z">
+        <seg>./ws.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/** Number of fuzzy matches to display */&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122609Z">
@@ -25733,6 +25741,22 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182713Z">
+        <seg>In caso di dubbio, selezionare questa opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182757Z">
+        <seg>In caso di dubbio, selezionare questa versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it does not, you still have the option to install a local version of Java or a different version of Java at system level.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195729Z">
@@ -26696,6 +26720,14 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T213656Z">
         <seg>Se si hanno a disposizione memorie di traduzione create in precedenza, per esempio dall'agenzia di traduzione, o dal cliente, OmegaT le può utilizzare come memorie di riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182738Z">
+        <seg>Se siete sicuri che un idoneo ambiente di Runtime Java è già installato sul vostro computer a livello di sistema, è possibile selezionare l'opzione senza JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45508,6 +45540,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Select from Traditional, Web Start or Expert</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182742Z">
+        <seg>Step 1: Select from Traditional, Web Start or Expert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Unhide the paragraph mark.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153025Z">
@@ -47063,6 +47103,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182547Z">
+        <seg>La versione "batterie incluse" di OmegaT, con il proprio ambiente Runtime di Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "cmd" key either has a "command" label or an apple mark on Apple keyboards.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091907Z">
@@ -48057,6 +48105,14 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182809Z">
+        <seg>La versione Web Start è la versione "installa e dimentica". &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144626Z">
@@ -48334,6 +48390,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T181933Z">
         <seg>Il comportamento qui impostato si applica a tutti di file di partenza e non solo ad alcuni tipi di file, come il testo formattato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The benefit: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182819Z">
+        <seg>Il vantaggio: una volta lanciato, futuri aggiornamenti della versione Web Start verranno installati automaticamente sul tuo computer. &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52243,6 +52307,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182753Z">
+        <seg>La versione per l'installazione da parte dell'utente, familiare agli utenti di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added (see "transitive verb" for the second item).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T222439Z">
@@ -54923,6 +54995,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182706Z">
+        <seg>Ci vorrà più tempo per scaricare questa versione e richiede più spazio sul disco rigido, ma si può essere sicuri che funzionerà eseguita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This way an inadvertent data loss is averted - see Preventing Data Loss in chapter &lt;l2&gt;Miscellanea.&lt;/l2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T214028Z">
@@ -56753,6 +56833,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190141Z">
         <seg>Sistema di revisione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182747Z">
+        <seg>Tradizionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -59373,6 +59461,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182801Z">
+        <seg>Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Web Start version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144614Z">
@@ -60764,6 +60860,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T185226Z">
         <seg>All'interno di un segmento, il primo gruppo (in coppia o singolo) è associato al numero &lt;s8&gt;0&lt;/s8&gt;, il secondo al numero &lt;s9&gt;1&lt;/s9&gt;, e così di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182717Z">
+        <seg>Senza JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -67676,6 +67780,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181659Z">
         <seg>translationMemories.html#pseudo_translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ui.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182743Z">
+        <seg>ui.php</seg>
       </tuv>
     </tu>
     <tu>
