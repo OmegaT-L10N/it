@@ -14124,6 +14124,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180641Z">
+        <seg>Come suggerisce il nome, la versione ultima do OmegaT è più aggiornata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101001Z">
