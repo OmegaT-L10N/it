@@ -17407,8 +17407,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Copy the files that you have unzipped from the tokenizer package directly into this sub-folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134653Z">
-        <seg>Copiare i file che avete scompattato il pacchetto tokenizer direttamente in questa sottocartella.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063119Z">
+        <seg>Copiare i file del pacchetto tokenizer che avete scompattato, direttamente in questa sottocartella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37841,8 +37841,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open your launch script file in a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134704Z">
-        <seg>Aprire il file di script di lancio in un editor di testo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063301Z">
+        <seg>Aprire il file di script di lancio in un editor di testo (per esempio OmegaT_without_JRE.bat).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59874,8 +59874,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Windows users (in particular): do &lt;s0&gt;not&lt;/s0&gt; simply click on this file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134719Z">
-        <seg>Gli utenti di Windows (in particolare):  &lt;s0&gt;non&lt;/s0&gt; basta cliccare su questo file.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063225Z">
+        <seg>Per gli utenti di Windows (in particolare):  &lt;s0&gt;non&lt;/s0&gt; basta cliccare su tale file.</seg>
       </tuv>
     </tu>
     <tu>
