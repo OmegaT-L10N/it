@@ -3985,6 +3985,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php echo $link ?&gt;Latest&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180534Z">
+        <seg>&lt;?php echo $link ?&gt;Latest&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;?php echo $link ?&gt;Standard&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180042Z">
@@ -30597,6 +30605,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180532Z">
+        <seg>È la versione consigliata per i nuovi utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T180907Z">
@@ -46963,6 +46979,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T110613Z">
         <seg>Il tasto "Maiusc" non presenta, di per sé, speciali comportamenti: se premuto, tutti i tasti spostano il cursore in base alla funzione attribuita loro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180402Z">
+        <seg>La versione "Standard" di OmegaT include un manuale dell'utente completo (almeno in inglese) e usualmente sraà stato provato per qualche tempo per eliminare qualsiasi errore.</seg>
       </tuv>
     </tu>
     <tu>
