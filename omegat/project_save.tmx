@@ -3363,6 +3363,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>./win_jre.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183241Z">
+        <seg>./win_jre.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>./win_nojre.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183243Z">
+        <seg>./win_nojre.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>./ws.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182758Z">
@@ -14188,6 +14204,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, the "Latest" version of OmegaT is more up to date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183209Z">
+        <seg>Come suggerisce il nome, il "Ultima" versione di OmegaT è più aggiornata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180641Z">
@@ -14923,6 +14947,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171122Z">
         <seg>Prima di seguire le seguenti istruzioni per la rimozione dei codici fastidiosi, tuttavia, si rammenti di apportare le modifiche di configurazione in Word, altrimenti Word potrà semplicemente reinserire i codici fastidiosi appena il file viene riaperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before installing the Web Start version, check that you have the required minimum Java Runtime Environment version or later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183310Z">
+        <seg>Prima di installare la versione Web Start, controlla che hai la versione di Java Runtime Environment minima richiesta o la successiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25589,6 +25621,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183230Z">
+        <seg>Se un idoneo JRE è già installato sul vostro sistema di Windows, selezionare "Senza JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124718Z">
@@ -26029,6 +26069,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080752Z">
         <seg>In caso contrario verranno mostrati i messaggi di debug che (si spera) forniranno un'idea di dov'è il problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183241Z">
+        <seg>Se non, o se non siete sicuri, selezionare "con JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -43948,6 +43996,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183223Z">
+        <seg>Selezionare se scaricare OmegaT con o senza il Java Runtime Environment (JRE) incluso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select your macro.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194602Z">
@@ -45688,6 +45744,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153025Z">
         <seg>Passo 1: Scopri il segno di paragrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: "Standard" or "Latest"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183250Z">
+        <seg>Passo 2: "Standard" o "Ultimo"</seg>
       </tuv>
     </tu>
     <tu>
