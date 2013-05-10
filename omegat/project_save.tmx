@@ -3083,6 +3083,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>../downloads.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181935Z">
+        <seg>../downloads.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>../images/css.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122105Z">
@@ -34139,6 +34147,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181932Z">
+        <seg>Anche se, le versioni  "Ultime" di OmegaT sono usualmente molto stabili e sono consigliate per qualsiasi utente che già ha alcune esperienze con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T215840Z">
@@ -36043,6 +36059,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT currently requires version &lt;?php echo $min_jre_version?&gt; of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182048Z">
+        <seg>OmegaT attualmente richiede versione  &lt;?php echo $min_jre_version?&gt; di JRE o versione successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T174202Z">
@@ -37281,6 +37305,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T093033Z">
         <seg>OmegaT tenterà di eseguire nuovamente la segmentazione del file TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182002Z">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45488,6 +45520,22 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180032Z">
         <seg>Step 3: "Standard" or "Latest"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: With or without JRE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181952Z">
+        <seg>Step 3: With or without JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 4: "Standard" or "Latest"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181939Z">
+        <seg>Step 4: "Standard" or "Latest"</seg>
       </tuv>
     </tu>
     <tu>
