@@ -10392,8 +10392,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134135Z">
-        <seg>&lt;s0&gt;OmegaT versione 2.1.0 e più vecchie&lt;/s0&gt;: il tokenizer attuale non è compatibile con queste versioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T053922Z">
+        <seg>&lt;s0&gt;OmegaT versione 2.1.0 e più vecchie&lt;/s0&gt;: il tokenizer attuale non è più compatibile con queste versioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10496,8 +10496,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Windows versions of OmegaT&lt;/s0&gt;: in order for OmegaT (any version) to be used with the tokenizer, it must be launched from a launch script file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134349Z">
-        <seg>&lt;s0&gt;Versioni per Windows di OmegaT&lt;/s0&gt;: per usare  il tokenizer con OmegaT (qualsiasi versione), deve essere lanciato da un file di script di lancio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T054019Z">
+        <seg>&lt;s0&gt;Versioni per Windows di OmegaT&lt;/s0&gt;: per usare il tokenizer con OmegaT (qualsiasi versione), deve essere lanciato da un file script di lancio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11493,8 +11493,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134404Z">
-        <seg>Un file di script di avvio non viene fornito con le versioni di Windows OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T054156Z">
+        <seg>Con le versioni di OmegaT per Windows non viene fornito un file script di avvio.</seg>
       </tuv>
     </tu>
     <tu>
