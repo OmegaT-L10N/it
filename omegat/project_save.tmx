@@ -28434,6 +28434,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144317Z">
+        <seg>Per essere eseguito, OmegaT richiede&amp;nbsp; Java Runtime Environment (JRE) per installato sul tuo computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130224T220330Z">
@@ -30739,6 +30747,14 @@ all'interno della cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T124702Z">
         <seg>Verranno prima inviati i contenuti correnti al deposito del server, poi aggiornata la copia locale del deposito - ossia i contenuti della sottocartella .svn - in modo da essere aggiornati all'ultima versione del deposito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will however lack some of the features of the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144017Z">
+        <seg>Mancheranno tuttavia alcune delle caratteristiche della versione "Ultima".</seg>
       </tuv>
     </tu>
     <tu>
@@ -39016,10 +39032,26 @@ Permission is granted to copy, distribute and/or modify this document under the 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform (operating system)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144101Z">
+        <seg>Piattaforma (sistema operativo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174843Z">
         <seg>Indipendente dalla piattaforma; richiede tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Platform-specific versions of OmegaT are provided for Windows, Linux and Mac OS X. A platform-independent version is also available which will run on any operating system capable of running a suitable version of the Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144214Z">
+        <seg>Sono fornite versioni di OmegaT specifiche per le piattaforme Windows, Linux e Mac OS X. È disponibile anche una versione piattaforma-indipendente che verrà eseguita su qualsiasi sistema operativo in grado di eseguire una versione adatta di Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47283,6 +47315,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T093237Z">
         <seg>Il plugin di LanguageTool per OmegaT è scaricabile da sito dei plugin di OmegaT  (&lt;u0&gt;http://sourceforge.net/projects/omegat-plugins/files/&lt;/u0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144048Z">
+        <seg>L'ultima versione è una versione più recente rispetto alla versione Standard e include nuove caratteristiche non presenti in quest'ultimo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58330,6 +58370,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144056Z">
+        <seg>Gli utenti che hanno già qualche esperienza con OmegaT spesso preferiscono la versione più recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T080135Z">
@@ -60316,6 +60364,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120516T191540Z">
         <seg>Con questo metodo è possibile scaricare anche la versione "Windows without JRE", dato che la nuova installazione utilizzerà il JRE esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144248Z">
+        <seg>Con o senza JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -68234,6 +68290,17 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135421Z">
         <seg>VERBATIM COPYING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT Website en/download_selector/Copia di dl_overview.XHTML</prop>
+      <prop type="prev">It will however lack some of the features of the "Latest" version.</prop>
+      <prop type="next">The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</prop>
+      <tuv lang="EN">
+        <seg>Latest version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144040Z">
+        <seg>Ultima versione</seg>
       </tuv>
     </tu>
     <tu>
