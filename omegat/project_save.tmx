@@ -12507,6 +12507,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administrative and technical procedure for localizating OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121726Z">
+        <seg>Procedura amministrativa e tecnica per localizzare OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T130011Z">
@@ -17290,6 +17298,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compiling OmegaT from source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121539Z">
+        <seg>Compilazione di OmegaT dal sorgente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compiling OmegaT from the source code</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075503Z">
@@ -18265,6 +18281,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171841Z">
         <seg>Creazione di una macro per livellare la formattazione del carattere di un paragrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121622Z">
+        <seg>Creazione di un nuovo filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -21683,6 +21707,22 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182936Z">
         <seg>Esperto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explains how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121601Z">
+        <seg>Spiega come compilare il codice sorgente OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explains how to create a filter for a new file format to be translated by OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121642Z">
+        <seg>Spiega come creare un filtro per un nuovo formato di file da tradurre da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32794,6 +32834,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192815Z">
         <seg>Risorse per la localizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizing OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121712Z">
+        <seg>Localizzare OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -59562,6 +59610,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121755Z">
+        <seg>Usare OmegaT su Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT translation memories in other translation tools</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101448Z">
@@ -64952,10 +65008,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>howtos/linux.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121726Z">
+        <seg>howtos/linux.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>howtos/localizing_omegat.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082317Z">
         <seg>howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/new_filter.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121601Z">
+        <seg>howtos/new_filter.html</seg>
       </tuv>
     </tu>
     <tu>
