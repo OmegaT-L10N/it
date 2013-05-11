@@ -19047,8 +19047,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with selected other software products.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065810Z">
-        <seg>Descrive  la compatibilità di OmegaT con altri prodotti software selezionati.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214234Z">
+        <seg>Descrive  la compatibilità di OmegaT con altri prodotti software scelti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37855,6 +37855,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100454Z">
         <seg>OmegaT versione {0}, aggiornamento {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214259Z">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57783,8 +57791,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Training videos</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122935Z">
-        <seg>Video di addestramento</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214347Z">
+        <seg>Video di formazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -66108,6 +66116,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214244Z">
+        <seg>http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.abisource.com/download/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125333Z">
@@ -66320,6 +66336,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102732Z">
         <seg>http://www.linuxexpres.cz/kancelar/prekladejte-s-aplikaci-omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.magentocommerce.com/wiki/how_to_translate_magento_using_omegat_software</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214236Z">
+        <seg>http://www.magentocommerce.com/wiki/how_to_translate_magento_using_omegat_software</seg>
       </tuv>
     </tu>
     <tu>
