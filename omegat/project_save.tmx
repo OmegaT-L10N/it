@@ -25252,6 +25252,22 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122246Z">
+        <seg>Come tradurre Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122404Z">
+        <seg>Come tradurre file Wordpress XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to translate using OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T091337Z">
@@ -29959,6 +29975,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T173420Z">
         <seg>Informazioni su OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122116Z">
+        <seg>Informazioni su procedure e caratteristiche di OmegaT per utenti esperti che possono essere trovate su altri siti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40639,6 +40663,30 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070905Z">
         <seg>Procedura per la configurazione di Microsoft Translator su un Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122305Z">
+        <seg>Procedura per l'utilizzo di OmegaT per localizzare Magento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122422Z">
+        <seg>Procedura per l'utilizzo di OmegaT per localizzare i file XLIFF esportati da Wordpress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122207Z">
+        <seg>Procedura per l'utilizzo di OmegaT per localizzare NetBeans IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57777,6 +57825,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T171715Z">
         <seg>Tradurre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122135Z">
+        <seg>Tradurre NetBeans IDE</seg>
       </tuv>
     </tu>
     <tu>
