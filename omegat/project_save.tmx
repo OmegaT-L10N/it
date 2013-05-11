@@ -2469,8 +2469,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- On Windows, by clicking on the launch script file</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134524Z">
-        <seg>-Su Windows, cliccando sul file dello script di lancio</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170645Z">
+        <seg>-Su Windows, cliccando sul file script di lancio</seg>
       </tuv>
     </tu>
     <tu>
@@ -10664,8 +10664,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062133Z">
-        <seg>&lt;s0&gt;Per le versioni o i sistemi Linux&lt;/s0&gt;: individuare il file di script del lancio di OmegaT (OmegaT o OmegaT.sh).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170601Z">
+        <seg>&lt;s0&gt;Per le versioni o i sistemi Linux&lt;/s0&gt;: individuare il file script del lancio di OmegaT (OmegaT o OmegaT.sh).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10720,8 +10720,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062059Z">
-        <seg>&lt;s0&gt;Per la versione di OmegaT indipendente dalla piattaforma (su Windows)&lt;/s0&gt;: individuare il file di script di lancio di OmegaT (OmegaT.bat).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170545Z">
+        <seg>&lt;s0&gt;Per la versione di OmegaT indipendente dalla piattaforma (su Windows)&lt;/s0&gt;: individuare il file script di lancio di OmegaT (OmegaT.bat).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11805,8 +11805,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T054156Z">
-        <seg>Con le versioni di OmegaT per Windows non viene fornito un file script di avvio.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170533Z">
+        <seg>Tale file script di avvio non viene fornito con le versioni di OmegaT per Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12757,8 +12757,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After preparing for installation (see above), install the tokenizer as follows:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134547Z">
-        <seg>Dopo la preparazione per l'installazione (vedi sopra), installare il tokenizer come segue:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170728Z">
+        <seg>Dopo la preparazione per l'installazione (vedi sopra), installare Tokenizer come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16450,8 +16450,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Check that OmegaT is launched when you execute the launch script file:&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134512Z">
-        <seg>Controllare che OmegaT sia lanciato quando si esegue il file di script di avvio: &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170633Z">
+        <seg>Controllare che OmegaT si avvii regolarmente quando si esegue il file di script di avvio: &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30498,8 +30498,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Installing the tokenizer</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T062646Z">
-        <seg>Installare tokenizer</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170655Z">
+        <seg>Installare Tokenizer</seg>
       </tuv>
     </tu>
     <tu>
