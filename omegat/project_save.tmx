@@ -13688,6 +13688,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T215040Z">
+        <seg>Un video introduttivo a OmegaT in inglese da John Moran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An online dictionary management tool that integrates with Omegat.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175904Z">
@@ -37083,6 +37091,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214952Z">
+        <seg>Breve addestramento a OmegaT, introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T174038Z">
@@ -37861,8 +37877,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214259Z">
-        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214845Z">
+        <seg>I video su OmegaT sul canale YouTube di Qabiria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40042,8 +40058,8 @@ Permission is granted to copy, distribute and/or modify this document under the 
       <tuv lang="EN">
         <seg>Playlist of OmegaT videos</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122950Z">
-        <seg>Playlist of OmegaT videos</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214752Z">
+        <seg>Catalogo di video di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -67358,8 +67374,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123337Z">
-        <seg>su traduzione e il &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T215055Z">
+        <seg> sulla traduzione e il &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
