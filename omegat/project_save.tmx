@@ -18917,6 +18917,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070305Z">
+        <seg>Descrive come utilizzare OmegaT con Iceni Infix al fine di tradurre i file in formato PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070202Z">
+        <seg>Descrive come utilizzare OmegaT con il formato RTF bilingue Trados (file "non ripuliti").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description of OmegaT (2008).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175748Z">
@@ -21907,6 +21923,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T151027Z">
         <seg>Errore irrecuperabile alla riga {0}, colonna {1} durante l'analisi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature HowTos</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070335Z">
+        <seg>Guide sulle funzionalità</seg>
       </tuv>
     </tu>
     <tu>
@@ -45828,6 +45852,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecking</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070355Z">
+        <seg>Correttore ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling dictionaries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130319T204852Z">
@@ -58137,6 +58169,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T081024Z">
         <seg>Le frasi non modificate verranno proposte già completamente tradotte mentre per quelle che hanno subito aggiornamenti verrà proposta, come traduzione più probabile, la versione precedentemente tradotta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncleaned RTF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070116Z">
+        <seg>RTF non ripulito</seg>
       </tuv>
     </tu>
     <tu>
