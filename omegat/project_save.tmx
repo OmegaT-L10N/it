@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065701Z">
+        <seg>I documenti "Guida" su questo sito, contengono informazioni su determinate procedure e caratteristiche di OmegaT che non sono coperte dal manuale, per utenti esperti.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Levelling" the formatting means applying the format of the first character in a selection of text (such as a whole paragraph) to all subsequent characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171231Z">
@@ -13584,6 +13592,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An introduction to working with OmegaT, by Thomas Zahreddin and Eugen Mayer (in German).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065619Z">
+        <seg>Un'introduzione al lavoro con OmegaT, da Thomas Zahreddin ed Eugen Mayer (in tedesco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An online dictionary management tool that integrates with Omegat.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175904Z">
@@ -15552,6 +15568,22 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065451Z">
+        <seg>By Susan Welsh (formato Open Document).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065552Z">
+        <seg>By Susan Welsh (formato PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Takashi Miyamoto (in Japanese).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195832Z">
@@ -17198,6 +17230,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T220857Z">
         <seg>Problemi comuni dei glossari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065722Z">
+        <seg>Guide compatibilità</seg>
       </tuv>
     </tu>
     <tu>
@@ -24488,6 +24528,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T105309Z">
         <seg>File HHC troppo grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HOWTOs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065632Z">
+        <seg>GUIDE</seg>
       </tuv>
     </tu>
     <tu>
@@ -42728,6 +42776,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T183749Z">
         <seg>Schau dir &lt;f0&gt;das&lt;/f0&gt; un!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schnelles und effizientes Übersetzen mit OmegaT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065555Z">
+        <seg>Schnelles und effizientes Übersetzen mit OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -68240,6 +68296,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181659Z">
         <seg>translationMemories.html#pseudo_translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tutorial/OmegaT for Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065418Z">
+        <seg>tutorial/OmegaT for Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
