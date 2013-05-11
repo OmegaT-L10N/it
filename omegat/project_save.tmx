@@ -4025,6 +4025,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;User manual online&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065137Z">
+        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;User manual online&lt;?php echo $endlink ?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;Windows with JRE&lt;?php echo $endlink ?&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143629Z">
@@ -30448,6 +30456,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065101Z">
+        <seg>Si può trovare nella cartella "documenti" nella cartella di programma di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can be found in the "docs" folder in your OmegaT program folder.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224330Z">
@@ -36535,6 +36551,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130305T105129Z">
         <seg>OmegaT per</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065359Z">
+        <seg>Guida a OmegaT per Principianti</seg>
       </tuv>
     </tu>
     <tu>
@@ -49925,6 +49949,14 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065309Z">
+        <seg>Le seguenti istruzioni brevi sono disponibili online per il download:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following two steps will bring the server version up to date:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T114230Z">
@@ -52566,6 +52598,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084420Z">
         <seg>L'interfaccia utente e la documentazione erano in origine scritti in inglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format (OmegaT version &lt;?php echo $standard_name ?&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065224Z">
+        <seg>Il manuale dell'utente per OmegaT in formato PDF (versione di OmegaT &lt;?php echo $standard_name ?&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57833,6 +57873,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093126Z">
         <seg>proposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065241Z">
+        <seg>Brevi istruzioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -65200,6 +65248,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143625Z">
         <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Without_JRE.zip/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_documentation_en.PDF/download</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065120Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_documentation_en.PDF/download</seg>
       </tuv>
     </tu>
     <tu>
