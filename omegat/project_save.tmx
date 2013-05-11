@@ -32926,6 +32926,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MS Translator on Mac</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070833Z">
+        <seg>MS Translator su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183044Z">
@@ -40314,6 +40322,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070922Z">
+        <seg>Anteprima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previewing word-processing files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202220Z">
@@ -40503,6 +40519,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155218Z">
         <seg>Procedure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator on a Mac.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070905Z">
+        <seg>Procedura per la configurazione di Microsoft Translator su un Mac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44608,6 +44632,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200853Z">
         <seg>Impostazione di MS Translator su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070941Z">
+        <seg>Creazione di una funzione di anteprima per uso con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59474,6 +59506,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using OmegaT in conjunction with Google Translate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070736Z">
+        <seg>Usare OmegaT in sinergia con Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT translation memories in other translation tools</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101448Z">
@@ -64812,6 +64852,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082317Z">
         <seg>howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/preview.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070906Z">
+        <seg>howtos/preview.html</seg>
       </tuv>
     </tu>
     <tu>
