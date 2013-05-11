@@ -20901,6 +20901,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123905Z">
+        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T173529Z">
@@ -32312,6 +32320,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123736Z">
+        <seg>Ultima versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latest versions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143644Z">
@@ -40000,6 +40016,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform-specific versions of OmegaT are provided for Windows, Linux and Mac OS X. A platform-indpendent version is also available which will run on any operating system capable of running a suitable version of the Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123849Z">
+        <seg>Sono fornite versioni di OmegaT specifiche per le piattaforme Windows, Linux e Mac OS X. È disponibile anche una versione piattaforma-indipendente che verrà eseguita su qualsiasi sistema operativo in grado di eseguire una versione adatta di Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Platforms</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195332Z">
@@ -46232,6 +46256,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183538Z">
         <seg>Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123708Z">
+        <seg>Versione standard</seg>
       </tuv>
     </tu>
     <tu>
