@@ -12413,8 +12413,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134958Z">
-        <seg>Aggiungere l'argomento - ITokenizer = seguito dal nome completo di questo tokenizer (copiando l'intera linea, inserendo uno spazio) alla fine del comando lancio nel tuo file di script di lancio di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T171359Z">
+        <seg>Aggiungere l'argomento --ITokenizer = seguito dal nome completo di questo tokenizer (copiando l'intera linea, inserendo uno spazio) alla fine del comando lancio nel tuo file di script di lancio di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30530,8 +30530,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134754Z">
-        <seg>Invece, avviare un editor di testo (come Notepad o Wordpad), quindi aprire il file di script di lancio con File &gt; Apri.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T171216Z">
+        <seg>Avviare invece un editor di testo (p.e. Notepad o Wordpad), quindi, con File &gt; Apri, aprire il file di script di lancio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63335,8 +63335,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063503Z">
-        <seg>Si può anche essere in grado di fare clic destro con il mouse sul file, quindi 'Apri con' e selezionare un editor di testo per aprirlo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T171235Z">
+        <seg>Si può anche fare clic destro con il mouse sul file, quindi 'Apri con' e selezionare un editor di testo per aprirlo.</seg>
       </tuv>
     </tu>
     <tu>
