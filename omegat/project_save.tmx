@@ -23282,8 +23282,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133951Z">
-        <seg>Ad esempio, riconoscerà parole flesse in testi e visualizzerà la corrispondente voce di glossario, anche se la voce di glossario contiene solo la forma non flessa di una parola.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T165830Z">
+        <seg>Ad esempio, riconoscerà parole flesse in testi di partenza e visualizzerà la corrispondente voce di glossario, anche se la voce di glossario contiene solo la forma non flessa di una parola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31407,8 +31407,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T053656Z">
-        <seg>Esso fornisce migliori concordanze parziali e del glossario in OmegaT, basandosi sulla elaborazione delle radici ("stemming") delle parole di origine.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T165739Z">
+        <seg>Esso fornisce migliori concordanze parziali e del glossario in OmegaT, basandosi sulla elaborazione delle radici ("stemming") delle parole da tradurre.</seg>
       </tuv>
     </tu>
     <tu>
