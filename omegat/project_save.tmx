@@ -18917,6 +18917,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070655Z">
+        <seg>Descrive le caratteristiche 'Propagazione della concordanza' e 'Concordanza una a molti' di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's spellchecking feature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070413Z">
+        <seg>Descrive la funzione di correzione ortografica di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070305Z">
@@ -24440,6 +24456,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200943Z">
         <seg>La traduzione automatica di Google è un servizio a pagamento (US$ 20,00 per milione di caratteri).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070701Z">
+        <seg>Google Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -40903,6 +40927,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202752Z">
         <seg>Propagazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070615Z">
+        <seg>Propagazione della concordanza e della concordanza uno-a-molti </seg>
       </tuv>
     </tu>
     <tu>
@@ -64764,6 +64796,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T201404Z">
         <seg>Hilton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/google_translate.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070704Z">
+        <seg>howtos/google_translate.html</seg>
       </tuv>
     </tu>
     <tu>
