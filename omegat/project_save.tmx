@@ -21879,6 +21879,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121936Z">
+        <seg>Documentazione esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T174620Z">
@@ -30428,6 +30436,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191954Z">
         <seg>Integra la funzionalità di traduzione automatica Apertium in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Intended in particular for users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121859Z">
+        <seg>intesa in particolare per utenti neofiti di Linux.</seg>
       </tuv>
     </tu>
     <tu>
