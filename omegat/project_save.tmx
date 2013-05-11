@@ -12677,8 +12677,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After creating and testing the shortcut, you can add it to the Start menu by dragging it there.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135614Z">
-        <seg>Dopo la creazione e il test del collegamento, si può aggiungerlo al menu Start trascinandocelo.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173322Z">
+        <seg>Dopo la creazione e il test del collegamento, si può aggiungerlo al menù Start trascinandocelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23490,8 +23490,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135344Z">
-        <seg>Ad esempio, se si sta traducendo dal cinese, olandese, provare:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173308Z">
+        <seg>Ad esempio, se si sta traducendo dal cinese in olandese, provare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28346,8 +28346,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135100Z">
-        <seg>Se si desidera utilizzare diversi tokenizer perché si traduce da più di una lingua, creare un file di script di lancio di OmegaT separato per ogni tokenizer che si desidera utilizzare.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173111Z">
+        <seg>Se si desidera utilizzare diversi tokenizer perché si traduce da più di una lingua, creare un file di script di lancio di OmegaT specifico per ogni tokenizer che si desidera utilizzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29340,8 +29340,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135320Z">
-        <seg>In alcuni casi, si può trovare che il tokenizer in lingua sorgente interferisce con il correttore ortografico della lingua di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173139Z">
+        <seg>In alcuni casi, può succedere che il tokenizer in lingua sorgente interferisca con il correttore ortografico della lingua di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57345,8 +57345,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135045Z">
-        <seg>Per verificare, controllare se le voci di glossario vengono visualizzate anche quando il segmento di OmegaT corrente contiene un termine in una forma flessa da che nel Glossario.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173031Z">
+        <seg>Per verificare, controllare se le voci di glossario vengono visualizzate anche quando il segmento di OmegaT corrente contiene un termine in una forma flessa di quello nel Glossario.</seg>
       </tuv>
     </tu>
     <tu>
