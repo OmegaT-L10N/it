@@ -4075,8 +4075,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;User manual online&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065137Z">
-        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;User manual online&lt;?php echo $endlink ?&gt;</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T213106Z">
+        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;Manuale utente online&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58415,8 +58415,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Tutorials</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065241Z">
-        <seg>Brevi istruzioni</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T213138Z">
+        <seg>Istruzioni brevi</seg>
       </tuv>
     </tu>
     <tu>
