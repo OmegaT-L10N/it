@@ -29685,8 +29685,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063019Z">
-        <seg>Nella principale cartella del programma OmegaT (cioè la cartella contenente il file OmegaT.jar), creare una sottocartella chiamata "plugins", se già non esiste una sottocartella con tale nome.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170943Z">
+        <seg>Creare nella cartella principale del programma OmegaT (cioè la cartella contenente il file OmegaT.jar), una sottocartella chiamata "plugins", se già non ne esiste una con tale nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38969,8 +38969,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open your launch script file in a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063301Z">
-        <seg>Aprire il file di script di lancio in un editor di testo (per esempio OmegaT_without_JRE.bat).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T171040Z">
+        <seg>Aprire il file di script di lancio (per esempio OmegaT_without_JRE.bat) in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
