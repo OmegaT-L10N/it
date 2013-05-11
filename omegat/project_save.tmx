@@ -1473,10 +1473,26 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123013Z">
+        <seg>(In inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In English)&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T071314Z">
         <seg>(In inglese)&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123001Z">
+        <seg>(In russo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12013,8 +12029,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122552Z">
-        <seg>Una guida passo passo su come utilizzare l'utilità fusione testo da Rainbow file pre- e post- processo e l'estrazione di testo da tradurre usando OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122739Z">
+        <seg>Una guida passo passo su come utilizzare l'utilità fusione testo, pre- e post- elaborazione file e estrazione di testo da Rainbow per tradurre usando OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23925,6 +23941,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T202458Z">
         <seg>Da questo momento in poi si sarà in grado di avviare OmegaT richiamando questo file dalla riga di comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123032Z">
+        <seg>Dalla serie  YouTube di Miguel Navarro per OmegaT (in spagnolo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39904,6 +39928,14 @@ Permission is granted to copy, distribute and/or modify this document under the 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122950Z">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please check the &lt;a0&gt;ISO 639 Code Tables&lt;/a0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T211725Z">
@@ -53816,8 +53848,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122608Z">
-        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122908Z">
+        <seg>Queste utilità abilitano OmegaT a essere usato per tradurre file per cui sono disponibili filtri di conversione di formati  XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -57637,6 +57669,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122935Z">
+        <seg>Video di addestramento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TransTips</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T184817Z">
@@ -60078,6 +60118,22 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095723Z">
         <seg>Per l'ambiente Windows, &lt;u1&gt;TortoiseSVN&lt;/u1&gt; e &lt;u2&gt;TortoiseGit&lt;/u2&gt; sono client molto popolari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123041Z">
+        <seg>Video 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123045Z">
+        <seg>Video 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -66312,6 +66368,22 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125349Z">
         <seg>http://www.tcl.tk/software/tcltk/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.youtube.com/watch?v=8m2_R6L84PE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123040Z">
+        <seg>http://www.youtube.com/watch?v=8m2_R6L84PE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.youtube.com/watch?v=9oRsBcRXflE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123044Z">
+        <seg>http://www.youtube.com/watch?v=9oRsBcRXflE</seg>
       </tuv>
     </tu>
     <tu>
