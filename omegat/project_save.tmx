@@ -18893,6 +18893,30 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070034Z">
+        <seg>Descrive la Compatibilità di OmegaT con Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065947Z">
+        <seg>Descrive la Compatibilità di OmegaT con i file di Microsoft Office 2007, soprattutto Word 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065810Z">
+        <seg>Descrive  la compatibilità di OmegaT con altri prodotti software selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description of OmegaT (2008).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175748Z">
@@ -20369,6 +20393,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130247Z">
         <seg>Déjà Vu "Vista esterna"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Déjà Vu compatibility</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070005Z">
+        <seg>Compatibilità con Déjà Vu</seg>
       </tuv>
     </tu>
     <tu>
@@ -36407,6 +36439,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T194525Z">
         <seg>OmegaT è fornito come pacchetto scaricabile da SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065747Z">
+        <seg>Compatibilità con OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -61168,6 +61208,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065854Z">
+        <seg>Con i collegamenti a GUIDE più dettagliate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With links to more detailed HOWTOs.&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T225425Z">
@@ -64244,6 +64292,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121841Z">
         <seg>documentation.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>docx compatibility</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065923Z">
+        <seg>compatibilità con .docx</seg>
       </tuv>
     </tu>
     <tu>
