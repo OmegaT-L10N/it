@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13384,6 +13384,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T132108Z">
         <seg>Una &lt;s0&gt;ricerca esatta&lt;/s0&gt; di una frase, per esempio se vengono inserite varie parole, darà un risultato solo se le parole immesse verranno individuate nella medesima sequenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065005Z">
+        <seg>Una Guida rapida, che vi guida attraverso le principali procedure e funzioni di OmegaT, viene visualizzata nell'interfaccia utente di OmegaT per impostazione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36889,6 +36897,14 @@ la cartella home dell'utente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T064927Z">
+        <seg>OmegaT è fornito di un manuale utente completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is supplied with a number of very basic segmentation patterns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T072630Z">
@@ -55797,6 +55813,14 @@ una nuova segnalazione di errore:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T064949Z">
+        <seg>Per richiamare il manuale all'interno di OmegaT, semplicemente selezionare Aiuto &gt; Manuale dell'utente...  o premere F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T224115Z">
@@ -58977,6 +59001,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T064901Z">
+        <seg>Manuali dell'utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User requirements</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192644Z">
@@ -61647,6 +61679,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183242Z">
         <seg>Potete anche richiamarlo nell'area di ricerca di Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065029Z">
+        <seg>È anche possibile consultare il manuale fornito con OmegaT senza lanciare OmegaT stessa.</seg>
       </tuv>
     </tu>
     <tu>
