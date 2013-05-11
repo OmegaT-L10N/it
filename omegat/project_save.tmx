@@ -12483,6 +12483,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121242Z">
+        <seg>Aggiunge il riconoscimento delle forme flesse di OmegaT alle funzioni glossario e concordanza parziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjust its position to your liking.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T091932Z">
@@ -12503,6 +12511,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T130011Z">
         <seg>&amp;Opzioni avanzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced feature HowTos</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121203Z">
+        <seg>Guide sulle funzionalità avanzate</seg>
       </tuv>
     </tu>
     <tu>
@@ -37499,10 +37515,26 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT text export function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121318Z">
+        <seg>Funzione esportazione di testo di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T210223Z">
         <seg>OmegaT preleva, dunque, i segmenti TUV che corrispondono ai codici di lingua di partenza e di arrivo del progetto e li utilizza rispettivamente come segmenti di origine e di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT tokenizer plugin</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121224Z">
+        <seg>Plugin Tokenizer di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -39059,6 +39091,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193918Z">
         <seg>Altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other HowTos</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121433Z">
+        <seg>Altre Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -59634,6 +59674,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121359Z">
+        <seg>Usare la funzione esportazione di testo di OmegaT (interfaccia di scripting)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T220302Z">
@@ -64864,6 +64912,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>howtos/compiling_from_source.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121435Z">
+        <seg>howtos/compiling_from_source.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>howtos/docx.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121056Z">
@@ -64932,6 +64988,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121902Z">
         <seg>howtos/spelling.html#repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121248Z">
+        <seg>howtos/text_export.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/tokenizer.php</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121205Z">
+        <seg>howtos/tokenizer.php</seg>
       </tuv>
     </tu>
     <tu>
