@@ -1392,6 +1392,22 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Currently version: &lt;?php echo $latest_name ?&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123653Z">
+        <seg>(Versione corrente: &lt;?php echo $latest_name ?&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Currently version: &lt;?php echo $standard_name ?&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123540Z">
+        <seg>(Versione corrente: &lt;?php echo $standard_name ?&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150632Z">
@@ -4867,6 +4883,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Latest versions&lt;/b0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123621Z">
+        <seg>&lt;b0&gt;Ultime versioni&lt;/b0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Mark Non-Unique Segments&lt;/b0&gt;: identical segments are marked in grey (changes the display, but not the behaviour).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T103834Z">
@@ -4903,6 +4927,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T113326Z">
         <seg>&lt;b0&gt;Rimuovi traduzione&lt;/b0&gt;: cancella il contenuto del segmento, causando (quando si preme INVIO) l'inserimento della traduzione di default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Standard versions&lt;/b0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123459Z">
+        <seg>&lt;b0&gt;Versioni Standard&lt;/b0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15308,6 +15340,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214619Z">
         <seg>Formati di strumenti CAT bilingui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123420Z">
+        <seg>Pagine blog su OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
