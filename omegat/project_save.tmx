@@ -21777,8 +21777,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135040Z">
-        <seg>Eseguire questo file e OmegaT ora dovrebbe lanciare con la funzione tokenizer.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T172957Z">
+        <seg>Eseguire questo file, e OmegaT ora dovrebbe avviarsi con la funzione tokenizer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23346,8 +23346,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, to use the English tokenizer (when translating from English), your launch command might now be:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135006Z">
-        <seg>Ad esempio, per utilizzare il tokenizer inglese (traduzione dall'inglese), il comando di lancio ora potrebbe essere:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T172809Z">
+        <seg>Ad esempio, per utilizzare il tokenizer inglese (traduzione dall'inglese), il comando di lancio potrebbe essere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28603,8 +28603,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135033Z">
-        <seg>Importante: questo comando tutto deve apparire su una sola riga (anche se sembra di essere su due righe nel display in cui stai leggendo questo).</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T172916Z">
+        <seg>Importante: questo comando tutto deve stare su una sola riga (anche se appare su due righe nel display in cui stai leggendo questo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39225,8 +39225,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Or if you are translating from Turkish, it might now be:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135018Z">
-        <seg>O se si sta traducendo dal turco, ora potrebbe essere:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T172836Z">
+        <seg>O se si sta traducendo dal turco, potrebbe essere:</seg>
       </tuv>
     </tu>
     <tu>
