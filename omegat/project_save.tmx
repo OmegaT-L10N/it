@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36075,6 +36075,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - Documentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T120917Z">
+        <seg>OmegaT - documentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT - User's Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T203325Z">
@@ -50143,8 +50151,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The following tutorials are available online/for download:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065309Z">
-        <seg>Le seguenti istruzioni brevi sono disponibili online per il download:</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121033Z">
+        <seg>Le seguenti opuscolo è disponibile online per il download:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64840,10 +64848,50 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>howtos/compatibility.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121053Z">
+        <seg>howtos/compatibility.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/compatibility_deja_vu.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121059Z">
+        <seg>howtos/compatibility_deja_vu.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/docx.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121056Z">
+        <seg>howtos/docx.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/export_uncleaned_rtf.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121104Z">
+        <seg>howtos/export_uncleaned_rtf.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>howtos/google_translate.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070704Z">
         <seg>howtos/google_translate.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121107Z">
+        <seg>howtos/iceni_infix.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -64860,6 +64908,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070906Z">
         <seg>howtos/preview.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/prop12m.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121133Z">
+        <seg>howtos/prop12m.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>howtos/spelling.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121111Z">
+        <seg>howtos/spelling.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -65608,6 +65672,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082524Z">
         <seg>http://wiki.apertium.org/wiki/Apertium-OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://wiki.impressive-media.de/doc/schnelles-und-effizientes-%C3%BCbersetzen-mit-omegat-statt-poedit</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121049Z">
+        <seg>http://wiki.impressive-media.de/doc/schnelles-und-effizientes-%C3%BCbersetzen-mit-omegat-statt-poedit</seg>
       </tuv>
     </tu>
     <tu>
@@ -68480,6 +68552,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181659Z">
         <seg>translationMemories.html#pseudo_translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tutorial/OmegaT for Beginners.odt</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T120941Z">
+        <seg>tutorial/OmegaT for Beginners.odt</seg>
       </tuv>
     </tu>
     <tu>
