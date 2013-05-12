@@ -29188,8 +29188,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144317Z">
-        <seg>Per essere eseguito, OmegaT richiede&amp;nbsp; Java Runtime Environment (JRE) per installato sul tuo computer.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T214731Z">
+        <seg>Per essere eseguito, OmegaT richiede Java Runtime Environment (JRE) per installato sul tuo computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49356,8 +49356,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The certificate is self-signed by "Didier Briel".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T090024Z">
-        <seg>Il certificato è firmato da "Didier Briel".</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T214842Z">
+        <seg>Il certificato è firmato  "Didier Briel".</seg>
       </tuv>
     </tu>
     <tu>
