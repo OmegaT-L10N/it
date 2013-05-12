@@ -127,8 +127,6 @@ echo $latest_name
 ?>)
 </td>
 
-</td>
-
 <td>
 
 <p>
