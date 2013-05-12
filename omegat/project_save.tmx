@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220208Z">
+        <seg>$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215921Z">
@@ -328,6 +336,38 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220231Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${creationDate}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220233Z">
+        <seg>${creationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${creationID}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220233Z">
+        <seg>${creationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220229Z">
+        <seg>${diff}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${extension-2} Document.xx.docx</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T210105Z">
@@ -352,6 +392,46 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220231Z">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${filePath}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220232Z">
+        <seg>${filePath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220232Z">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220234Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${id}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220227Z">
+        <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${nameOnly-0} Document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T210040Z">
@@ -372,6 +452,30 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T210054Z">
         <seg>${nameOnly-2} Documento.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220231Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220230Z">
+        <seg>${score}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${sourceText}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220228Z">
+        <seg>${sourceText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -404,6 +508,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T205610Z">
         <seg>${targetLocaleLCID) - il locale di destinazione Microsoft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${targetText}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220229Z">
+        <seg>${targetText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1757,10 +1869,26 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220211Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You can tell OmegaT to insert any first match above a specified matching percentage automatically into the target field whenever the segment opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T100915Z">
         <seg>(Si può indicare a OmegaT di inserire automaticamente, all'interno del campo di arrivo e quando il segmento viene aperto, una qualsiasi delle prime concordanze che abbiano una corrispondenza parziale (fuzzy) superiore a un valore percentuale specificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220212Z">
+        <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -3691,6 +3819,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>103/114</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220226Z">
+        <seg>103/114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>11.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155237Z">
@@ -3813,6 +3949,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135305Z">
         <seg>27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>27/27</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220221Z">
+        <seg>27/27</seg>
       </tuv>
     </tu>
     <tu>
@@ -3973,6 +4117,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135511Z">
         <seg>31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>31175</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220225Z">
+        <seg>31175</seg>
       </tuv>
     </tu>
     <tu>
@@ -4157,6 +4309,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155236Z">
         <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9319/16338</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220225Z">
+        <seg>9319/16338</seg>
       </tuv>
     </tu>
     <tu>
@@ -18641,6 +18801,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215451Z">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220248Z">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35888,6 +36056,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220220Z">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mr\.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190826Z">
@@ -43105,6 +43281,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220212Z">
+        <seg>Regex Tester</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex tools and examples of use</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T222153Z">
@@ -48143,6 +48327,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231322Z">
         <seg>Formati di file riconosciuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Susan Welsh</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220250Z">
+        <seg>Susan Welsh</seg>
       </tuv>
     </tu>
     <tu>
@@ -63485,6 +63677,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220210Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220211Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163510Z">
@@ -63505,6 +63713,38 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163521Z">
         <seg>X, zero o più volte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220210Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220210Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220209Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220210Z">
+        <seg>X??</seg>
       </tuv>
     </tu>
     <tu>
@@ -63581,10 +63821,26 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220211Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XY as a single group</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T163817Z">
         <seg>XY come gruppo singolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220211Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -65381,6 +65637,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220212Z">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220205Z">
@@ -65429,6 +65693,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220213Z">
+        <seg>\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220214Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\0mnn</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220201Z">
@@ -65449,6 +65729,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220201Z">
         <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\B</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220209Z">
+        <seg>\B</seg>
       </tuv>
     </tu>
     <tu>
@@ -65513,6 +65801,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220157Z">
         <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\b</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220209Z">
+        <seg>\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220214Z">
+        <seg>\bis\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -65597,6 +65901,38 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\s+$</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220213Z">
+        <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220213Z">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220213Z">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220214Z">
+        <seg>\s{2,}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\t</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220154Z">
@@ -65625,6 +65961,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220202Z">
         <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220208Z">
+        <seg>^</seg>
       </tuv>
     </tu>
     <tu>
@@ -67765,6 +68109,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gn</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220327Z">
+        <seg>gn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gotoHistoryBackMenuItem</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215614Z">
@@ -68953,6 +69305,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220212Z">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://wiki.apertium.org/wiki/Apertium-OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082524Z">
@@ -69189,6 +69549,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215446Z">
         <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.leuce.com/autoit/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220301Z">
+        <seg>http://www.leuce.com/autoit/</seg>
       </tuv>
     </tu>
     <tu>
@@ -73613,6 +73981,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T100710Z">
         <seg>→ assistenza all'utente, sviluppo, contributi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>。</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220219Z">
+        <seg>。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
