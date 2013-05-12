@@ -3889,6 +3889,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215219Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>6.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160030Z">
@@ -3921,6 +3929,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215214Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>8-bit vs Unicode Text files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T230946Z">
@@ -3937,10 +3953,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215213Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>9.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155236Z">
         <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215213Z">
+        <seg>95%-100%:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15039,6 +15071,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215102Z">
+        <seg>Il barista urla ad alta voce: &lt;p&gt; La pagina non può essere trovata, &lt;p&gt; ragazzo acquista un altro drink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base64 (public domain)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T183843Z">
@@ -20941,6 +20981,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215135Z">
+        <seg>Vuoto dell'anima &lt;p&gt;oscurità sempre dolente&lt;p&gt; Impossibile trovare la tua pagina di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T173529Z">
@@ -21375,6 +21423,15 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215145Z">
+        <seg>Pagina effimera &lt;p&gt; Io sono lo Schermo Blu della morte &lt;p&gt; Nessuno sente le tue urla.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Equally, if you abandon the translation work for any reason, please update your entry in the plan to show this.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132312Z">
@@ -21751,6 +21808,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215226Z">
+        <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T102417Z">
@@ -21795,6 +21860,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T110205Z">
         <seg>Si sono verificate eccezioni durante il caricamento delle regole di segmentazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215035Z">
+        <seg>Pagina d'aiuto eccitante&lt;p&gt;le discussioni di Gossamer ti colpiscono ancora&lt;p&gt;404 non trovata</seg>
       </tuv>
     </tu>
     <tu>
@@ -25128,6 +25201,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120602T133644Z">
         <seg>Menu Aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215210Z">
+        <seg>Stai cercando aiuto &lt;p&gt; Lui fugge dal tuo percorso &lt;p&gt; Il suo inverno è arrivato</seg>
       </tuv>
     </tu>
     <tu>
@@ -31784,6 +31865,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215222Z">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Javanese</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T122654Z">
@@ -34551,6 +34640,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111301Z">
         <seg>La maggior parte degli utenti probabilmente troverà che la maggiore facilità di utilizzo compensa bene questo inconveniente.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215203Z">
+        <seg>Lutto e dolore &lt;p&gt; 404 non è con noi adesso &lt;p&gt; persa in paradiso</seg>
       </tuv>
     </tu>
     <tu>
@@ -39687,6 +39784,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215110Z">
+        <seg>La pagina sfugge alla mano&lt;p&gt;Il polso batte duro e frenetico &lt;p&gt; evanescente come nebbia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paired tags usually indicate style information that applies to the text between the opening tag and the closing tag of a pair.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193322Z">
@@ -40478,6 +40583,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100244Z">
         <seg>Valori possibili per "XX" sono "false", "on", "gasp" e "lcd".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215227Z">
+        <seg>Power Point</seg>
       </tuv>
     </tu>
     <tu>
@@ -41575,6 +41688,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095503Z">
         <seg>Rashid Umarov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215152Z">
+        <seg>Piuttosto che beep o &lt;p&gt; un rude messaggio di errore &lt;p&gt; queste parole: 'Pagina non trovata'</seg>
       </tuv>
     </tu>
     <tu>
@@ -50805,6 +50926,14 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215123Z">
+        <seg>La Pagina D'Aiuto Che Cerchi &lt;p&gt; Si trova al di là della nostra percezione &lt;p&gt; Ma altre attendono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The in-line formatting information made possible by the supported formats (at present DocBook, HTML, XHTML, Open Document, and OpenOffice.org) is presented as tags in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T183903Z">
@@ -53994,6 +54123,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T074743Z">
         <seg>Questi segmenti sono contrassegnati e delimitati da caratteri speciali e stili di formattazione MS Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215117Z">
+        <seg>Tre sono le cose certe:&lt;p&gt;La morte, le tasse, e la pagina non trovata.&lt;p&gt; Sei vittima di una di queste :-)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61566,6 +61703,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215050Z">
+        <seg>Il vento coglie il giglio &lt;p&gt;spargendone i petali: &lt;p&gt; La pagina non è stata trovata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183032Z">
@@ -61972,6 +62117,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195826Z">
         <seg>Senza/con JRE incluso, cioè il cross-platform senza JRE, ad esempio "OmegaT_2.1.7_02_Beta_Without_JRE.zip" e la versione di Linux-specifica con JRE, ad esempio "OmegaT_2.1.7_02_Beta_Linux.tar.bz2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215225Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
@@ -63936,8 +64089,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144842Z">
-        <seg>I documenti e le memorie di traduzione restano nel computer dell'utente e il progetto OmegaT non avrà accesso al suo lavoro o alle informazioni.</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T214957Z">
+        <seg>I documenti e le memorie di traduzione restano nel computer dell'utente e il progetto OmegaT non avrà accesso al tuo lavoro o alle tue informazioni.</seg>
       </tuv>
     </tu>
     <tu>
