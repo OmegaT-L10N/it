@@ -4177,6 +4177,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;?php print "&lt;?xml version=\"1.0\"?&gt;" ?&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101612Z">
+        <seg>&lt;?php print "&lt;?xml version=\"1.0\"?&gt;" ?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224011Z">
@@ -13778,8 +13786,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20100714T103316Z">
-        <seg>Analisi in corso delle stringhe - {0} di {1} completato</seg>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101744Z">
+        <seg>Analisi in corso delle stringhe - {0} di {1} completata/e</seg>
       </tuv>
     </tu>
     <tu>
@@ -15003,14 +15011,6 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102907Z">
         <seg>Balabit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183606Z">
-        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20901,14 +20901,6 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123905Z">
-        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T173529Z">
@@ -21763,14 +21755,6 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T110205Z">
         <seg>Si sono verificate eccezioni durante il caricamento delle regole di segmentazione:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160141Z">
-        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
     </tu>
     <tu>
@@ -39631,14 +39615,6 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223919Z">
-        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Paired tags usually indicate style information that applies to the text between the opening tag and the closing tag of a pair.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193322Z">
@@ -50749,14 +50725,6 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160153Z">
-        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The in-line formatting information made possible by the supported formats (at present DocBook, HTML, XHTML, Open Document, and OpenOffice.org) is presented as tags in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T183903Z">
@@ -53946,14 +53914,6 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T074743Z">
         <seg>Questi segmenti sono contrassegnati e delimitati da caratteri speciali e stili di formattazione MS Word.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223953Z">
-        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61510,14 +61470,6 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121927Z">
-        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Windows</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183032Z">
@@ -65320,6 +65272,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>howtos/ms_translator_mac.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101542Z">
+        <seg>howtos/ms_translator_mac.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>howtos/new_filter.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121601Z">
@@ -65330,7 +65290,7 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>howtos/preview.html</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070906Z">
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101547Z">
         <seg>howtos/preview.html</seg>
       </tuv>
     </tu>
@@ -66092,6 +66052,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://translatedfiles.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101533Z">
+        <seg>http://translatedfiles.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://validator.w3.org/check?uri=referer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122045Z">
@@ -66548,6 +66516,22 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.velior.ru/blog/ru/tag/omegat/</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101600Z">
+        <seg>http://www.velior.ru/blog/ru/tag/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101551Z">
+        <seg>http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.youtube.com/watch?v=8m2_R6L84PE</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123040Z">
@@ -66560,6 +66544,22 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123044Z">
         <seg>http://www.youtube.com/watch?v=9oRsBcRXflE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.youtube.com/watch?v=iakqcUvRsEU</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101553Z">
+        <seg>http://www.youtube.com/watch?v=iakqcUvRsEU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.youtube.com/watch?v=waW8nXGyUBU</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101556Z">
+        <seg>http://www.youtube.com/watch?v=waW8nXGyUBU</seg>
       </tuv>
     </tu>
     <tu>
