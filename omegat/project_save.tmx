@@ -74234,5 +74234,27 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
         <seg>Dovuta al contributo di Marc Prior.</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">OmegaT Website en/who_we_are.html</prop>
+      <prop type="prev">This language version:</prop>
+      <prop type="next">The OmegaT project</prop>
+      <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T224103Z">
+        <seg>Carmelo Serraino, con la revisione di Valter Mura </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT Website en/who_we_are.html</prop>
+      <prop type="prev">Website content by:</prop>
+      <prop type="next">Website graphics by:</prop>
+      <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T224123Z">
+        <seg>Marc Prior</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
