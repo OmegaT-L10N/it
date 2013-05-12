@@ -39191,6 +39191,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options &gt; File Filters &gt; Select "HTML and XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212005Z">
+        <seg>Opzioni &gt; Filtri dei file... &gt; scegli "file XTML" e  "file XHTML" &gt; Modifica &gt; Aggiungi &gt; quindi scrivi "*.php" nella colonna "Modello del nome del file sorgente".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options &gt; File Filters &gt; Select "XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103740Z">
@@ -57373,6 +57381,14 @@ read:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130829Z">
         <seg>Per tradurre il file in OmegaT, procedere come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate the latter in OmegaT, you must register the .php extension with the HTML and XHTML filter as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T211855Z">
+        <seg>Per tradurre quest'ultimo in OmegaT, è necessario registrare l'estensione .php con i filtri HTML e  XHTML come segue:</seg>
       </tuv>
     </tu>
     <tu>
