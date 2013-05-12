@@ -67,10 +67,7 @@
 
 <p>You can also call up the user manual supplied with OmegaT without launching OmegaT itself. It can be found in the "docs" folder in your OmegaT program folder.</p>
 
-
 <table>
-
-  <tbody>
 
     <tr>
 
@@ -86,16 +83,7 @@ echo $standard_name
 
 		</tr>
 
-<tr>
-
-</body>
-
 </table>
-
-
-
-
-
 
 
 
@@ -104,8 +92,6 @@ echo $standard_name
 <p>The following tutorials are available online/for download:</p>
 
 <table>
-
-  <tbody>
 
     <tr>
 
@@ -132,8 +118,6 @@ echo $standard_name
 </tr>
 
 
-  </tbody>
-
 </table>
 
 
@@ -143,8 +127,6 @@ echo $standard_name
 <p>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</p>
 
 <table>
-
-  <tbody>
 
     <tr>
 
@@ -308,8 +290,6 @@ echo $standard_name
 
 </tr>
 
-  </tbody>
-
 </table>
 
 <h3>External documentation</h3>
@@ -317,8 +297,6 @@ echo $standard_name
 <p>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</p>
 
 <table>
-
-  <tbody>
 
     <tr>
 
@@ -352,17 +330,12 @@ echo $standard_name
 
     </tr>
 
-  </tbody>
-
 </table>
 
 
 <h3>Training videos</h3>
 
 <table>
-
-  <tbody>
-
 
     <tr>
 
@@ -404,8 +377,6 @@ echo $standard_name
 
 </tr>
 
-  </tbody>
-
 </table>
 
 
@@ -422,8 +393,6 @@ echo $standard_name
       <td>By Marco Cevoli and Sergio Alasia. (In Italian)</td>
 
 </tr>
-
-  </tbody>
 
 </table>
 
@@ -446,8 +415,6 @@ echo $standard_name
       <td>Blog pages on OmegaT. (In Russian)</td>
 
 </tr>
-
-  </tbody>
 
 </table>
 

@@ -91,9 +91,9 @@ $endlink='</a>';?>
 
 <p>If you wish to translate the OmegaT web pages, download the <a href="http://www.omegat.org/resources/omt_website.zip">website localization package</a>. (Note: these are the English files. If you prefer to translate from a different language into which OmegaT has already been localized, please&nbsp;contact the <a href="mailto:mailto:lin4trans@users.sourceforge.net">OmegaT webmaster</a>.)</p>
 
-<p>The OmegaT website includes files in HTML and, as of 2011, PHP format. To translate the latter in OmegaT, you must register the .php extension with the XHTML filter as follows:</p>
+<p>The OmegaT website includes files in HTML and, as of 2011, PHP format. To translate the latter in OmegaT, you must register the .php extension with the HTML and XHTML filter as follows:</p>
 
-<p>Options > File Filters > Select "XHTML files" > Edit > Add > Then enter "*.php" in the "Source Filename Pattern" column.</p>
+<p>Options > File Filters > Select "HTML and XHTML files" > Edit > Add > Then enter "*.php" in the "Source Filename Pattern" column.</p>
 
 <p>5. There may be older versions of the documentation and/or translation memories (TMX files) available for your language which are useful to your translation. Translation memory (TMX) files of older localizations of OmegaT, the documentation and the website can be found in the <a href="http://tech.groups.yahoo.com/group/OmegaT/files/3- Localization files/Translation memory repository/">"Files" section of the online user group</a>. It is also worth asking on the <a href="https://lists.sourceforge.net/lists/listinfo/omegat-l10n">localizers' list</a> (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</p>
 
