@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21997,6 +21997,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130516T184010Z">
+        <seg>Abilitali in &lt;b&gt;Opzioni &gt; Salvataggio e risultato...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T093752Z">
@@ -39558,14 +39566,6 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T094658Z">
         <seg>OmegaT-Scripting consente di avviare script scritti in diversi linguaggi, all'interno di OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160055Z">
-        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
