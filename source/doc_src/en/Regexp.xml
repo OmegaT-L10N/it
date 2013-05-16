@@ -13,7 +13,7 @@
   <para>The regular expressions (or regex for short) used in searches and
   segmentation rules are those supported by Java. Should you need more
   specific information, consult the <ulink
-  url="http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html">Java
+  url="http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html">Java
   Regex documentation</ulink>. See additional references and examples
   below.</para>
 
@@ -27,7 +27,7 @@
     <title>Regex - Flags</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -52,7 +52,7 @@
     <title>Regex - Character</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -150,7 +150,7 @@
     <title>Regex - Quotation</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -194,7 +194,7 @@
     <title>Regex - Classes for Unicode blocks and categories</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -209,7 +209,7 @@
           <entry>\p{InGreek}</entry>
 
           <entry>A character in the Greek block (simple <ulink
-          url="http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html#ubc">
+          url="http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc">
           block</ulink>)</entry>
         </row>
 
@@ -217,7 +217,7 @@
           <entry>\p{Lu}</entry>
 
           <entry>An uppercase letter (simple <ulink
-          url="http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html#ubc">
+          url="http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc">
           category</ulink>)</entry>
         </row>
 
@@ -247,7 +247,7 @@
     <title>Regex - Character classes</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -283,7 +283,7 @@
     <title>Regex - Predefined character classes</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -343,7 +343,7 @@
     <title>Regex - Boundary matchers</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -385,7 +385,7 @@
     <title>Regex - Greedy quantifiers</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -427,7 +427,7 @@
     <title>Regex - Reluctant (non-greedy) quantifiers</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -469,7 +469,7 @@
     <title>Regex - Logical operators</title>
 
     <tgroup align="left" cols="2" rowsep="1">
-      <colspec align="left" colnum="1" colwidth="100"/>
+      <colspec align="left" colnum="1"/>
 
       <thead>
         <row>
@@ -545,7 +545,7 @@
       <title>Regex - Examples of regular expressions in translations</title>
 
       <tgroup align="left" cols="2" rowsep="1">
-        <colspec align="left" colnum="1" colwidth="100"/>
+        <colspec align="left" colnum="1"/>
 
         <thead>
           <row>
