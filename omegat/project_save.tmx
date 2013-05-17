@@ -33581,6 +33581,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool.jar (LGPL license)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T180911Z">
+        <seg>LanguageTool.jar (licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090602Z">
@@ -70321,6 +70329,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jWordSplitter (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T180905Z">
+        <seg>jWordSplitter (licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -Dhttp.proxyHost=192.198.1.1 -Dhttp.proxyPort=3128 -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181631Z">
@@ -71593,6 +71609,16 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words from Okapi
+(http://okapi.sourceforge.net) (LGPL license)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T180849Z">
+        <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) mutua le stop words da Okapi
+(http://okapi.sourceforge.net) (LGPL license)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>orion-ssh2-214 (Orion SSH for Java license)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170918Z">
@@ -72233,6 +72259,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>segment-1.4.1.jar (Segment license)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T180928Z">
+        <seg>segment-1.4.1.jar (licenza Segment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>segmentation.conf</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215759Z">
@@ -72861,6 +72895,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093216Z">
         <seg>questa versione non interferirà con esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tinysegmenter.jar (Modified BSD license)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T180858Z">
+        <seg>tinysegmenter.jar (licenza BSD modificata)</seg>
       </tuv>
     </tu>
     <tu>
