@@ -6483,6 +6483,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T181947Z">
+        <seg>&lt;e0&gt;Proprietà del progetto&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; File e cartelle:&lt;/e1&gt; un progetto, nel contesto di OmegaT, è una parte di un lavoro che OmegaT, in quanto strumento di assistenza alla traduzione, è in grado di gestire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Remove tags&lt;/e0&gt; check box</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T160025Z">
@@ -6622,6 +6630,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subdirectories containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111206T200339Z">
+        <seg>&lt;e0&gt;Memorie di traduzione: &lt;/e0&gt; spiega il ruolo svolto dalle diverse cartelle secondarie che contengono le memorie di traduzione, e fornisce informazioni su altri importanti aspetti legati a tali memorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182023Z">
         <seg>&lt;e0&gt;Memorie di traduzione: &lt;/e0&gt; spiega il ruolo svolto dalle diverse cartelle secondarie che contengono le memorie di traduzione, e fornisce informazioni su altri importanti aspetti legati a tali memorie.</seg>
       </tuv>
     </tu>
@@ -51577,6 +51593,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182211Z">
+        <seg>La documentazione distribuita con &lt;a0&gt;OmegaT&lt;/a0&gt; comprende il manuale utente e documento readme.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;s0&gt;OmegaT 2.0&lt;/s0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101005T181408Z">
@@ -53144,6 +53168,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130417T191901Z">
         <seg>L'unica differenza rispetto alla memoria di traduzione &lt;f2&gt;project_save&lt;/f2&gt; è che le memorie esterne non possono restituire concordanze esatte ma solo 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182056Z">
+        <seg>Lo strumento open source LanguageTool può essere utilizzato per correggere gli errori grammaticali comuni e quelli di stile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73623,14 +73655,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215415Z">
         <seg>zho</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>zul</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215438Z">
-        <seg>zul</seg>
       </tuv>
     </tu>
     <tu>
