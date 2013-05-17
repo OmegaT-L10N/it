@@ -19165,6 +19165,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T183043Z">
+        <seg>Creare una cartella vuota in cui mantenere il progetto e farvi sopra clic col pulsante destro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create an empty folder, where you will keep your project and right/click on it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T110248Z">
@@ -22435,6 +22443,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100717T093654Z">
         <seg>Invio o Ritorno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the URL, provided by ProjectLocker, into the field &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T183134Z">
+        <seg>Digitare l'URL fornito da ProjectLocker all'interno del campo &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35224,6 +35240,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182956Z">
+        <seg>Evidenzia caratteri di controllo algoritmo bidirezionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Non-&amp;Unique Segments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101207T183610Z">
@@ -35284,6 +35308,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T224615Z">
         <seg>Evidenzia i segmenti non tradotti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182942Z">
+        <seg>Evidenza gli spazi vuoti</seg>
       </tuv>
     </tu>
     <tu>
@@ -44849,6 +44881,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T183023Z">
+        <seg>Salvataggio e risultato...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101542Z">
@@ -48551,6 +48591,22 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182816Z">
         <seg>Commuta carattere in/Minuscolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case to/Title Case</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182855Z">
+        <seg>Commuta carattere in/Prima lettera maiuscola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case to/Upper Case</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182830Z">
+        <seg>Commuta carattere in/Maiuscolo</seg>
       </tuv>
     </tu>
     <tu>
