@@ -6315,6 +6315,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T181901Z">
+        <seg>&lt;e0&gt;Imparare a usare OmegaT in cinque minuti!:&lt;/e0&gt; questo capitolo vuole essere un'esercitazione veloce sia per i principianti, sia per coloro che già conoscono gli strumenti di traduzione assistita (CAT), che mostra tutti i passaggi della procedura, dall'apertura di un nuovo progetto di traduzione fino al completamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120122T134919Z">
