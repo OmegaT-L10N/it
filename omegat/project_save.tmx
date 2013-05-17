@@ -5843,6 +5843,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182427Z">
+        <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;è distribuito nella speranza che possa essere utile, ma SENZA ALCUNA GARANZIA, nemmeno la garanzia implicita di COMMERCIABILITÀ o IDONEITÀ PER UN PARTICOLARE SCOPO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T164857Z">
@@ -5951,6 +5959,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T111929Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.6&lt;/e0&gt; è Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich e Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182335Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; è Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich e Michael Zakharov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6423,6 +6439,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T112012Z">
         <seg>&lt;e0&gt;OmegaT 2.6&lt;/e0&gt; è software libero; è lecito redistribuirlo o modificarlo secondo i termini della GNU General Public License (GPL) come pubblicata dalla Free Software Foundation nella versione 2 della licenza o (a propria scelta) qualsiasi versione successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182413Z">
+        <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; è software libero; è lecito redistribuirlo o modificarlo secondo i termini della GNU General Public License (GPL) come pubblicata dalla Free Software Foundation nella versione 3 della licenza o (a propria scelta) qualsiasi versione successiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51641,6 +51665,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182303Z">
+        <seg>La documentazione è un documento libero; è lecito redistribuirlo o modificarlo secondo i termini della GNU General Public License (GPL) come pubblicata dalla Free Software Foundation nella versione 3 della licenza o (a propria scelta) qualsiasi versione successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T165855Z">
@@ -52022,6 +52054,14 @@ space on your hard drive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T112205Z">
         <seg>Il file INI file che segue riserva 1GB di memoria, richiede come lingua dell'utente il Francese e il Portogallo come nazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182451Z">
+        <seg>La seguente porzione di codice scritto in groovy, per esempio, esegue un'analisi di tutti i segmenti, all'interno di tutti i file del progetto attivo e, se esiste la traduzione, restituisce il testo di partenza e di arrivo del segmento:</seg>
       </tuv>
     </tu>
     <tu>
