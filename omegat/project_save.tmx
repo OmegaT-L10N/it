@@ -11694,6 +11694,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182637Z">
+        <seg>&lt;scorciatoia&gt; deve essere nella forma seguente: 0 o più &lt;c0&gt;&lt;modificatore&gt;&lt;/c0&gt; seguito da 0 o 1 &lt;c1&gt;&lt;evento&gt;&lt;/c1&gt; seguito da 1 &lt;c2&gt;&lt;tasto&gt;&lt;/c2&gt;, dove:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form:0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T194407Z">
@@ -21337,6 +21345,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130320T080152Z">
         <seg>Scaricare OmegaT (attualmente, versione 2.6.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182732Z">
+        <seg>Scarica il progetto in collaborazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -48531,6 +48547,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switch Case to/Lower Case</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T182816Z">
+        <seg>Commuta carattere in/Minuscolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch case to...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T181757Z">
@@ -70765,14 +70789,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215801Z">
         <seg>logs/OmegaT.log</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>lowerCaseMenuItem</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215606Z">
-        <seg>lowerCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
