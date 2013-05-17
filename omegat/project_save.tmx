@@ -5571,6 +5571,22 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br&gt;Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175955Z">
+        <seg>&lt;br&gt;Premere &lt;u&gt;{0}&lt;/u&gt; per andare ai &lt;b&gt;{1}&lt;/b&gt; suggerimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br&gt;Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175923Z">
+        <seg>&lt;br&gt;Premere &lt;u&gt;{0}&lt;/u&gt; per tornare ai &lt;b&gt;{1}&lt;/b&gt; suggerimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;c0&gt;${extension}&lt;/c0&gt; -- the extension of the source file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T171719Z">
@@ -25615,6 +25631,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T180005Z">
+        <seg>Voci di glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary file format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100728T231342Z">
@@ -35604,6 +35628,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T171956Z">
         <seg>Mancante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T180016Z">
+        <seg>Tag mancanti</seg>
       </tuv>
     </tu>
     <tu>
