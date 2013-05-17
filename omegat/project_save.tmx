@@ -12867,6 +12867,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR 3.4 (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175431Z">
+        <seg>ANTLR 3.4 (Licenza ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 license)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T183806Z">
@@ -23968,6 +23976,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fontbox-0.1.0.jar and JempBox-0.2.0.jar (Fontbox license)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175547Z">
+        <seg>Fontbox-0.1.0.jar e JempBox-0.2.0.jar (Licenza Fontbox)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Foote&amp;rs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100319Z">
@@ -33541,6 +33557,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool.jar (LGPL License)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175512Z">
+        <seg>LanguageTool.jar (Licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T090602Z">
@@ -40988,6 +41012,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175417Z">
+        <seg>Input PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF files fall into two categories: true and "scanned" PDFs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T201341Z">
@@ -44349,6 +44381,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095526Z">
         <seg>SJXP 1.0.2 (GPL v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet 1.1.3 (GPL License)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175438Z">
+        <seg>SQLJet 1.1.3 (Licenza GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66941,6 +66981,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>commons-*.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175459Z">
+        <seg>commons-*.jar (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>compiling_from_source.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180554Z">
@@ -70385,6 +70433,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jwordsplitter-3.4.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175506Z">
+        <seg>jwordsplitter-3.4.jar (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ka</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215425Z">
@@ -70693,6 +70749,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T124121Z">
         <seg>più di uno spazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>morfologik-*.jar (Morfologik license)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175521Z">
+        <seg>morfologik-*.jar (Licenza Morfologik)</seg>
       </tuv>
     </tu>
     <tu>
@@ -71513,6 +71577,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>pdfbox-app-1.8.1.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175535Z">
+        <seg>pdfbox-app-1.8.1.jar (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>philosophy.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211259Z">
@@ -72085,6 +72157,14 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110125T230132Z">
         <seg>segmento 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment-1.4.1.jar (Segment License)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175528Z">
+        <seg>segment-1.4.1.jar (Licenza Segment)</seg>
       </tuv>
     </tu>
     <tu>
