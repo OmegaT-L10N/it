@@ -4779,6 +4779,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T183645Z">
+        <seg>File e cartelle di &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; also backups translation memory to &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; in the same subfolder whenever a project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T205105Z">
@@ -7819,6 +7827,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T183607Z">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - il nome dell'utente di sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T204945Z">
@@ -7863,6 +7879,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132201Z">
         <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - l locale di destinazione Microsoft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T183628Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - il locale di arrivo Microsoft</seg>
       </tuv>
     </tu>
     <tu>
@@ -14271,6 +14295,14 @@ OmegaT.exe.</seg>
         <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and directories.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132423Z">
+        <seg>Un progetto di traduzione di &lt;a0&gt;OmegaT&lt;/a0&gt; è composto da diversi file e cartelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and folders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T183656Z">
         <seg>Un progetto di traduzione di &lt;a0&gt;OmegaT&lt;/a0&gt; è composto da diversi file e cartelle.</seg>
       </tuv>
     </tu>
@@ -39195,6 +39227,14 @@ selecting, obtaining and installing it.</seg>
         <seg>OmegaT projects and subdirectories</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T132411Z">
+        <seg>Progetti e sottocartelle di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT projects and subfolders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T183703Z">
         <seg>Progetti e sottocartelle di OmegaT</seg>
       </tuv>
     </tu>
