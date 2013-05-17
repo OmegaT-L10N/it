@@ -25010,6 +25010,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T181410Z">
+        <seg>OmegaT visualizza la traduzione di tutte le parole presenti nel segmento e registrate nel glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any words that happen to be present in the segment that currently has focus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T214303Z">
@@ -39156,6 +39164,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111002T215227Z">
         <seg>OmegaT memorizza le traduzioni e propone scelte per segmenti simili a quelli contenuti in memoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T181512Z">
+        <seg>OmegaT memorizza le traduzioni e propone scelte per segmenti simili a quelli registrati nei file della memoria di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
