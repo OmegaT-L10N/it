@@ -11318,6 +11318,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143801Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; in un Apple Mac, usare il tasto &lt;k1&gt;Command&lt;/k1&gt; anziché il tasto &lt;k2&gt;Control&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt;On an Apple Mac, use the &lt;k1&gt;Cmd&lt;/k1&gt; or &lt;k2&gt;Apple&lt;/k2&gt; key instead of the &lt;k3&gt;Ctrl&lt;/k3&gt; key</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T175329Z">
@@ -13695,6 +13703,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T185949Z">
         <seg>È possibile chiudere la finestra dei file del progetto una volta che il file di partenza è stato caricato nel pannello dell'Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T144011Z">
+        <seg>Dopo avergli attribuito un nome, si aprirà la finestra &lt;g0&gt;Crea nuovo progetto&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31044,6 +31060,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T155635Z">
         <seg>Nel menu &lt;g0&gt;Progetto&lt;/g0&gt; selezionare &lt;m1&gt; &lt;g2&gt;Nuovo...&lt;/g2&gt; &lt;/m1&gt;&lt;i3/&gt; e scrivere il nome del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143928Z">
+        <seg>Nel menu &lt;g0&gt;Progetto&lt;/g0&gt;, selezionare &lt;m1&gt;&lt;g2&gt;Nuovo...&lt;/g2&gt;&lt;/m1&gt; e scrivere il nome del progetto.</seg>
       </tuv>
     </tu>
     <tu>
