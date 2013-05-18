@@ -3187,14 +3187,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215905Z">
-        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>-Dgoogle.api.key=XXXXXXXX</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124029Z">
@@ -5883,14 +5875,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215904Z">
-        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; This argument effects anti-aliasing of the fonts, thereby improving their appearance.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T163848Z">
@@ -7982,6 +7966,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
         <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; in which directory the configuration files are stored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T170944Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; dice a &lt;a1&gt;OmegaT&lt;/a1&gt; in quale cartella sono memorizzati i file di configurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143447Z">
         <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; dice a &lt;a1&gt;OmegaT&lt;/a1&gt; in quale cartella sono memorizzati i file di configurazione.</seg>
       </tuv>
     </tu>
@@ -29016,6 +29008,14 @@ extensions are displayed.</seg>
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific directory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T170004Z">
+        <seg>Se non è possibile avviare normalmente &lt;a0&gt;OmegaT&lt;/a0&gt; (non è disponibile un ambiente grafico): copiare i file delle impostazioni da qualche altra installazione di &lt;a1&gt;OmegaT&lt;/a1&gt; su un'altra macchina in una cartella specifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143355Z">
         <seg>Se non è possibile avviare normalmente &lt;a0&gt;OmegaT&lt;/a0&gt; (non è disponibile un ambiente grafico): copiare i file delle impostazioni da qualche altra installazione di &lt;a1&gt;OmegaT&lt;/a1&gt; su un'altra macchina in una cartella specifica.</seg>
       </tuv>
     </tu>
@@ -54039,6 +54039,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home folder (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143436Z">
+        <seg>I file importanti sono &lt;l2&gt;filters.conf&lt;/l2&gt; e &lt;l3&gt;segmentation.conf&lt;/l3&gt;, che si possono trovare nella directory home dell'utente (per es. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; sotto Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; sotto Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The relevant files are filters.conf and segmentation.conf and can be found in the user home directory (E.g. C:\Documents and Settings\%User%\OmegaT under windows, %user%/.omegat/ under Linux)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T142931Z">
@@ -55115,6 +55123,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175539Z">
         <seg>Alla traduttrice si presenteranno traduzioni in Inglese per i segmenti di partenza in Olandese, che saranno usate per creare la traduzione in Cinese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143305Z">
+        <seg>Le voci necessarie al suo utilizzo sono disponibili nella propria &lt;u1&gt;pagina di account&lt;/u1&gt; sotto la chiave di account primaria e il Customer-ID:</seg>
       </tuv>
     </tu>
     <tu>
