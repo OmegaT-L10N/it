@@ -27996,6 +27996,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143503Z">
+        <seg>Se non indicato, &lt;a2&gt;OmegaT&lt;/a2&gt; torna ai valori predefiniti (la cartella &lt;a3&gt;OmegaT&lt;/a3&gt; nella home dell'utente o, se non disponibile, la cartella di lavoro corrente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not given, OmegaT reverts to default values (OmegaT dir under user home, or if not available: the current working directory).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T102035Z">
@@ -28511,6 +28519,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
         <seg>If there are other files named test.html in other directories, they will be ignored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T173628Z">
+        <seg>Se ci sono altri file chiamati test.html in altre cartelle, essi saranno ignorati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143523Z">
         <seg>Se ci sono altri file chiamati test.html in altre cartelle, essi saranno ignorati.</seg>
       </tuv>
     </tu>
@@ -40578,9 +40594,25 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the file test.html at the root of the source folder will be translated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143515Z">
+        <seg>Solo il file test.html alla radice della cartella di partenza sarà tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file test.html in the directory dir-10 will be processed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T173716Z">
+        <seg>Solo il file test.html nella cartella dir-10 sarà elaborato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file test.html in the folder dir-10 will be processed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143535Z">
         <seg>Solo il file test.html nella cartella dir-10 sarà elaborato.</seg>
       </tuv>
     </tu>
@@ -61006,6 +61038,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T161035Z">
         <seg>Decomprimere il file &lt;e1&gt;OmegaT_2.6.x_Source.zip&lt;/e1&gt; ed entrare nella cartella OmegaT_2.6.x_Source oppure nella cartella &lt;e2&gt;./omegat/&lt;/e2&gt; del codice scaricato di SVN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack the &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_3.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143645Z">
+        <seg>Decomprimere il file &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; ed entrare nella cartella OmegaT_3.n.n_Source oppure nella cartella &lt;e2&gt;./omegat/&lt;/e2&gt; del codice scaricato di SVN.</seg>
       </tuv>
     </tu>
     <tu>
