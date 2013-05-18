@@ -8003,6 +8003,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a folder, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T101107Z">
+        <seg>&lt;l0&gt;&lt;Home Utente&gt;/.omegat &lt;/l0&gt;(.omegat è una directory, il punto che precede il suo nome la rende invisibile, a meno che non si digiti ls -a o un comando equivalente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;f0&gt;&lt;f1&gt;This is text&lt;/f0&gt;&lt;/f1&gt;&lt;/l0&gt; thus will be copied as &lt;l1&gt;&lt;f0&gt;&lt;f1&gt;one_space&lt;/f0&gt;&lt;/f1&gt;&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T170323Z">
@@ -21709,6 +21717,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation additional files may get created in this subfolder as follows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T100953Z">
+        <seg>Durante la traduzione, in questa sotto-cartella potrebbero essere creati altri file, così come specificato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During translation, use the &lt;g2&gt;Edit&lt;/g2&gt; and &lt;g3&gt;Go To&lt;/g3&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T190531Z">
@@ -23747,6 +23763,14 @@ launch script.</seg>
         <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; directory, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T215548Z">
+        <seg>I file all'interno della cartella &lt;f7&gt;source&lt;/f7&gt;, che siano o no tradotti, saranno generati qui, rispettando la stessa gerarchia presente nella sotto-cartella source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T101005Z">
         <seg>I file all'interno della cartella &lt;f7&gt;source&lt;/f7&gt;, che siano o no tradotti, saranno generati qui, rispettando la stessa gerarchia presente nella sotto-cartella source.</seg>
       </tuv>
     </tu>
@@ -53547,6 +53571,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120423T213339Z">
         <seg>Il pacchetto indipendente dalla piattaforma può essere usato su qualsiasi piattaforma che abbia installato Java 1.5 runtime environment, incluse quelle per le quali esiste un pacchetto specifico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The platform-independent package can be used on any platform with a working Java 1.6 runtime environment, including the platforms for which a specific package also exists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T101247Z">
+        <seg>Il pacchetto indipendente dalla piattaforma può essere usato su qualsiasi piattaforma che possegga un Java 1.6 runtime environment funzionante, incluse quelle per le quali esiste un pacchetto specifico.</seg>
       </tuv>
     </tu>
     <tu>
