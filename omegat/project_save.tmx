@@ -13707,6 +13707,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T153233Z">
+        <seg>È possibile chiudere la finestra dei &lt;g4&gt;file del progetto&lt;/g4&gt; una volta che i file di partenza sono stati caricati nel pannello dell'&lt;g3&gt;Editor&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T144011Z">
@@ -13735,6 +13743,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T190201Z">
         <seg>Una volta che si è tradotto un segmento, premere &lt;k0&gt;Ctrl+U&lt;/k0&gt; per spostarsi al segmento successivo da tradurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T153343Z">
+        <seg>Una volta che si è tradotto un segmento, premere &lt;k0&gt;Ctrl+U&lt;/k0&gt; per spostarsi al segmento successivo da tradurre (o &lt;k1&gt;Ctrl+Maiusc+U&lt;/k1&gt; per spostarsi a quello successivo tradotto).</seg>
       </tuv>
     </tu>
     <tu>
