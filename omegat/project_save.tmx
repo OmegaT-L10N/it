@@ -6435,6 +6435,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T105125Z">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; procurarsi Java JRE per il proprio sistema (si veda sotto) e scaricare &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;In some cases it may take quite some time for OmegaT to update the display after the font setting has been changed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T201232Z">
@@ -6823,6 +6831,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T154236Z">
         <seg>&lt;e0&gt;Sì: &lt;/e0&gt;scaricare &lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.&lt;/e1&gt;zip.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T105010Z">
+        <seg>&lt;e0&gt;Sì: &lt;/e0&gt;scaricare &lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.&lt;/e1&gt;zip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40346,6 +40362,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T104957Z">
+        <seg>Una volta fatto, è possibile eliminare il file &lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt;, poiché non più necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have installed either Abiword or the LibreOffice+Uniconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224221Z">
@@ -41056,6 +41080,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120519T110125Z">
         <seg>Oracle fornisce JRE per Solaris SPARC/x86 (Java 1.5) e per Linux x64, Solaris x64, Windows x64 (Java 1.5) all'indirizzo: &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 1.6) and for Linux x64, Solaris x64, Windows x64 (Java 1.6) at &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T105204Z">
+        <seg>Oracle fornisce JRE per Solaris SPARC/x86 (Java 1.6) e per Linux x64, Solaris x64, Windows x64 (Java 1.6) all'indirizzo: &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57716,6 +57748,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T122222Z">
         <seg>Questo pacchetto può essere usato su qualsiasi piattaforma in cui sia installato un JRE compatibile con Java 1.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T105047Z">
+        <seg>Questo pacchetto può essere usato su qualsiasi piattaforma in cui sia installato un JRE compatibile con Java 1.6 JRE.</seg>
       </tuv>
     </tu>
     <tu>
