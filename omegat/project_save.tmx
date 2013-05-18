@@ -56732,6 +56732,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T105439Z">
+        <seg>L'operazione crea una sottocartella &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; nella cartella prescelta, con tutti i file necessari per l'avvio di &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog allows you to modify the font used by OmegaT in the following windows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T181813Z">
@@ -58862,6 +58870,14 @@ una nuova segnalazione di errore:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T160006Z">
         <seg>Per installare &lt;a0&gt;OmegaT&lt;/a0&gt;, decomprimere il file &lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt; file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T105343Z">
+        <seg>Per installare &lt;a0&gt;OmegaT&lt;/a0&gt;, decomprimere il file &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
