@@ -21877,6 +21877,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T153715Z">
+        <seg>Utilizzare, mentre si traduce, i menu &lt;g4&gt;Modifica&lt;/g4&gt; e &lt;g5&gt;Vai&lt;/g5&gt; per eseguire varie e utili funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212944Z">
@@ -30122,6 +30130,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T213738Z">
         <seg>Se il file di partenza è formattato, per es., come Microsoft Word, LibreOffice Writer o HTML, OmegaT convertirà la formattazione in tag che racchiudono il testo che si traduce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T153801Z">
+        <seg>Se i file di partenza sono formattati, per es., come Microsoft Word, LibreOffice Writer o HTML, OmegaT convertirà la formattazione in tag che racchiudono il testo che si traduce.</seg>
       </tuv>
     </tu>
     <tu>
