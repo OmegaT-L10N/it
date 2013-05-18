@@ -33309,6 +33309,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Web Start technology (part of Java 1.6 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T141530Z">
+        <seg>Con l'uso della tecnologia Java Web Start (parte di Java 1.6 e precedenti) si possono distribuire con un semplice clic, attraverso la rete, applicazioni software Java autonome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192313Z">
