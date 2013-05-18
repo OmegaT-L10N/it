@@ -21037,6 +21037,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T101848Z">
+        <seg>Si ha un'implementazione Java compatibile con Java 1.6 JRE di Oracle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you have a Java implementation compatible with SUN's Java 1.5 JRE?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T102017Z">
@@ -25254,6 +25262,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T225001Z">
         <seg>Frammenti da rimuovere dall'espressione regolare della traduzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fragment(s) that should be removed from the translation regular expression</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T101755Z">
+        <seg>Frammenti da rimuovere dall'espressione regolare della traduzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -35100,6 +35116,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T103739Z">
         <seg>Tenere a mente il percorso di memorizzazione della sottocartella “Target” (in cui vengono memorizzati i documenti tradotti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T101731Z">
+        <seg>Rendere eseguibile (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) dalla riga di comando dopo essersi assicurati di essere nella cartella dell'applicazione di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52966,6 +52990,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
         <seg>The location of the file must be within the &lt;f1&gt;/glossary&lt;/f1&gt;folder, but it can be in a deeper directory (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T153927Z">
+        <seg>Il file deve essere contenuto all'interno della cartella &lt;f1&gt;/glossary&lt;/f1&gt;, ma può trovarsi anche in un'ulteriore sottocartella (per es., &lt;f2&gt;glossary/sub/glossario.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f1&gt;/glossary&lt;/f1&gt;folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T101838Z">
         <seg>Il file deve essere contenuto all'interno della cartella &lt;f1&gt;/glossary&lt;/f1&gt;, ma può trovarsi anche in un'ulteriore sottocartella (per es., &lt;f2&gt;glossary/sub/glossario.txt&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
