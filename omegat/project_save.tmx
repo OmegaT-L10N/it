@@ -15637,6 +15637,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T144109Z">
+        <seg>Nella parte alta della finestra selezionare la lingua del file di partenza e quella di destinazione, poi premere il pulsante &lt;g1&gt;OK&lt;/g1&gt; per proseguire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T184850Z">
@@ -36820,6 +36828,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130324T180031Z">
         <seg>Scaricare poi il "pacchetto legacy" che abbiamo creato per l'uso in questa esercitazione, che si trova qui:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T144143Z">
+        <seg>Come passaggio successivo si apre la finestra &lt;g0&gt;File del progetto&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
