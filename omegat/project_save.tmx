@@ -17816,6 +17816,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T152944Z">
+        <seg>Fare clic su &lt;g1&gt;Copia i file nella cartella di partenza...&lt;/g1&gt; per selezionare i file di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g1&gt;File Filters&lt;/g1&gt; button and activate the check box &lt;g2&gt;Enable project specific filters&lt;/g2&gt;&lt;i3/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T113239Z">
@@ -39878,6 +39886,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T175759Z">
         <seg>OmegaT copierà i file scelti nella sottocartella &lt;f0&gt;/source/&lt;/f0&gt;del progetto appena creato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T153038Z">
+        <seg>OmegaT copierà i file scelti nella sottocartella &lt;f2&gt;/source/&lt;/f2&gt; del progetto appena creato.</seg>
       </tuv>
     </tu>
     <tu>
