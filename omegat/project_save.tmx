@@ -6203,6 +6203,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Font antialiasing&lt;/e0&gt; - (Java 1.6 only)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130518T143142Z">
+        <seg>&lt;e0&gt;Antialiasing dei caratteri&lt;/e0&gt; - (solo Java 1.6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Font:&lt;/e0&gt; drop-down to select one of the fonts available on your machine</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T200929Z">
