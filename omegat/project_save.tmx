@@ -30879,8 +30879,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In practice, working with the XLIFF workflow often requires the use of tools that are not very user-friendly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T073404Z">
-        <seg>In pratica, lavorando con il flusso di lavoro XLIFF richiede spesso l'uso di strumenti che non sono molto semplici da usare.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T124524Z">
+        <seg>In pratica, lavorare col sistema di lavoro XLIFF richiede spesso l'uso di strumenti che non sono molto semplici da usare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38864,8 +38864,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT has rudimentary support for XLIFF, and a procedure for using XLIFF in OmegaT in conjunction with the Rainbow tools can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T073653Z">
-        <seg>OmegaT ha un rudimentale supporto per XLIFF, ed ecco  &lt;a0&gt;qui&lt;/a0&gt; una procedura per l'utilizzo di XLIFF in OmegaT con le applicazioni di Rainbow.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T124641Z">
+        <seg>OmegaT ha un supporto rudimentale per XLIFF, e &lt;a0&gt;qui&lt;/a0&gt; è possibile trovare una procedura per il suo utilizzo in OmegaT, grazie alle applicazioni di Rainbow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47345,8 +47345,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Since it is a standard, an advantage of XLIFF is that file filters provided by one CAT tool vendor for conversion between a certain format and XLIFF (and, following completion of the translation workflow, back again) can in theory be used to prepare files in the format concerned for translation in any CAT tool capable of supporting XLIFF.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T073307Z">
-        <seg>Poiché è uno standard, un vantaggio di XLIFF è che i filtri file bidirezionali che i vendor di applicazioni CAT forniscono per la conversione tra il loro formato e XLIFF (e ritorno, dopo il completamento del flusso di lavoro di traduzione) in teoria possono essere utilizzati per preparare i file nel formato di cui trattasi per la traduzione di qualsiasi applicazione CAT in grado di supportare XLIFF.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T124439Z">
+        <seg>Poiché è uno standard, un vantaggio di XLIFF è che i filtri dei file forniti da il venditore di uno strumento CAT per la conversione tra un determinato formato e XLIFF (e, dopo aver completato il processo di traduzione, viceversa), in teoria possono essere utilizzati per preparare i file nel formato di cui trattasi per la traduzione in qualsiasi applicazione CAT in grado di supportare XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69471,14 +69471,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123734Z">
         <seg>http://oit.nd.edu/training/documentation/documents/macro_qrg.pdf</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122417Z">
-        <seg>http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm</seg>
       </tuv>
     </tu>
     <tu>
