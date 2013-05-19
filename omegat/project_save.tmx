@@ -2909,8 +2909,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- level the formatting from these paragraphs using the macro as described above, then re-insert the formatting; or</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171646Z">
-        <seg>-livellare la formattazione da questi paragrafi utilizzando la macro come descritto sopra, quindi reinserire la formattazione; o</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134555Z">
+        <seg>- livellare la formattazione da questi paragrafi utilizzando la macro come descritto sopra, quindi reinserire la formattazione; o</seg>
       </tuv>
     </tu>
     <tu>
@@ -35480,8 +35480,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T145223Z">
-        <seg>Seleziona ogni paragrafo facendo clic su di esso ripetutamente finché non viene evidenziato l'intero paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134416Z">
+        <seg>Selezionare ogni paragrafo facendo clic su di esso ripetutamente finché non viene evidenziato l'intero paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48313,8 +48313,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Step 1: Unhide the paragraph mark.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153025Z">
-        <seg>Passo 1: Scopri il segno di paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134404Z">
+        <seg>Passo 1: scoprire il segno di paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55488,8 +55488,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171433Z">
-        <seg>Quindi spostare la fine della selezione un carattere a sinistra, in modo che si escluda il segno di paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134432Z">
+        <seg>Quindi spostare la fine della selezione un carattere a sinistra, in modo che il segno di paragrafo sia escluso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55512,8 +55512,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then select "Paste Special" (Word 2003) or click on the arrow at the bottom of the "Insert" button (Word 2007) to obtain the extended Paste options.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T153124Z">
-        <seg>Quindi selezionare "Incolla speciale" (Word 2003) o fare clic sulla freccia nella parte inferiore del pulsante "Inserisci" (Word 2007) per ottenere le opzioni incolla estese.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134515Z">
+        <seg>Selezionare poi "Incolla speciale" (Word 2003) o fare clic sulla freccia nella parte inferiore del pulsante "Inserisci" (Word 2007) per ottenere le opzioni estese per l'incollaggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63523,8 +63523,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Where paragraphs do contain inline formatting (bold, italics, hyperlinks, etc.), you can either:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171559Z">
-        <seg>Dove i paragrafi contengono formattazione incorporata (grassetto, corsivo, collegamenti ipertestuali, ecc.), è possibile:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134541Z">
+        <seg>Dove i paragrafi contengono formattazione incorporata (grassetto, corsivo, collegamenti ipertestuali, ecc.) è possibile:</seg>
       </tuv>
     </tu>
     <tu>
