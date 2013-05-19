@@ -4081,14 +4081,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>4a.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122439Z">
-        <seg>4a.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>4b.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122455Z">
@@ -16842,8 +16834,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122435Z">
-        <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130026Z">
+        <seg>C:\Programmi\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
       </tuv>
     </tu>
     <tu>
@@ -25452,8 +25444,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>From within this folder, execute Apache Ant by entering the ant executable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080522Z">
-        <seg>All'interno di questa cartella, eseguire Apache Ant con il file eseguibile di Ant.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130011Z">
+        <seg>All'interno di questa cartella, eseguire Apache Ant digitando l'eseguibile di Ant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28196,8 +28188,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the code compiles successfully, you will see the "BUILD SUCCESSFUL" message.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080604Z">
-        <seg>Se il codice viene compilato correttamente, si vedrà il messaggio "BUILD SUCCESSFUL".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130040Z">
+        <seg>Se il codice viene compilato correttamente, sarà visualizzato il messaggio "BUILD SUCCESSFUL".</seg>
       </tuv>
     </tu>
     <tu>
@@ -34077,8 +34069,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193850Z">
-        <seg>Lanciare OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130110Z">
+        <seg>Avviare OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -40060,14 +40052,6 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215822Z">
         <seg>OmegaT.jar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT_2.2.3_Beta_Source\dist</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122436Z">
-        <seg>OmegaT_2.2.3_Beta_Source\dist</seg>
       </tuv>
     </tu>
     <tu>
@@ -48481,8 +48465,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Still in your command-line window, change to this folder, e.g. with:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T081005Z">
-        <seg>Nella finestra della riga di comando, cambiare ancora questa cartella, con ad esempio:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130136Z">
+        <seg>Nella finestra della riga di comando, passare a questa cartella, per esempio con:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66973,8 +66957,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>and launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193919Z">
-        <seg>e lanciare OmegaT con:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130152Z">
+        <seg>e avviare OmegaT con:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67509,8 +67493,16 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>cd C:\My Documents\MyOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122437Z">
-        <seg>cd C:\My Documents\MyOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130147Z">
+        <seg>cd C:\Documenti\MioOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_2.2.3_Beta_Source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125945Z">
+        <seg>cd C:\Documenti\MioOmegat\OmegaT_2.2.3_Beta_Source</seg>
       </tuv>
     </tu>
     <tu>
@@ -70799,14 +70791,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>java -jar OmegaT.jar</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122438Z">
-        <seg>java -jar OmegaT.jar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>java -jar OmegaT.jar %*</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215821Z">
@@ -72417,14 +72401,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122444Z">
-        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>right justification</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T203928Z">
@@ -72749,14 +72725,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104709Z">
         <seg>src (URL di i&amp;mmagini)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>src/org/omegat/gui/editor</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122440Z">
-        <seg>src/org/omegat/gui/editor</seg>
       </tuv>
     </tu>
     <tu>
