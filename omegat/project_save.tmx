@@ -32173,8 +32173,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210037Z">
-        <seg>Invece, si devono prima convertire manualmente in formato Office Open XML (MS Office 2007/2010) o Open Document (LibreOffice o OpenOffice.org) prima che possano essere gestiti in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112337Z">
+        <seg>Al contrario, essi devono prima essere convertiti manualmente in formato Office Open XML (MS Office 2007/2010) od OpenDocument (LibreOffice / OpenOffice.org), prima di poter essere gestiti in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38664,8 +38664,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT does not support these formats directly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183334Z">
-        <seg>OmegaT non supporta questi formati direttamente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112237Z">
+        <seg>OmegaT non supporta direttamente questi formati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47601,8 +47601,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T203942Z">
-        <seg>Alcuni strumenti CAT risolvono questo problema, almeno per MS Word, lavorando all'interno della parola stessa; la maggior parte dei altri strumenti CAT convertono in RTF e ritorno, spesso in modo trasparente per il traduttore.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112218Z">
+        <seg>Alcuni strumenti CAT risolvono questo problema, almeno per MS Word, lavorando all'interno dello stesso Word; la maggior parte degli altri strumenti CAT converte in RTF e viceversa, spesso in modo invisibile al traduttore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56123,8 +56123,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T203736Z">
-        <seg>Questi formati di file sono proprietari, binari e fino a poco tempo fa non sono stati pubblicamente documentati, tutte caratteristiche che li rendono estremamente difficili da gestire in uno strumento CAT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112111Z">
+        <seg>Questi formati di file sono proprietari, binari e fino a poco tempo fa non sono stati pubblicamente documentati: tutte caratteristiche che li rendono estremamente difficili da gestire in uno strumento CAT.</seg>
       </tuv>
     </tu>
     <tu>
