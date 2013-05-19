@@ -38048,8 +38048,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T203421Z">
-        <seg>Office Open XML può essere convertito direttamente in formato di  Open Document e indietro, attraverso il convertitore ODF, disponibile &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111722Z">
+        <seg>Office Open XML può essere convertito direttamente in formato OpenDocument e indietro, attraverso il convertitore ODF, disponibile &lt;a0&gt;qui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50716,8 +50716,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Microsoft Office 2007-2010 file formats can be processed directly in OmegaT; more information can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183247Z">
-        <seg>I formati di file di Microsoft Office 2007-2010 possono essere elaborati direttamente in OmegaT; ulteriori informazioni possono essere trovate &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111619Z">
+        <seg>I formati di file di Microsoft Office 2007-2010 possono essere elaborati direttamente in OmegaT; ulteriori informazioni si trovano &lt;a0&gt;qui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56884,8 +56884,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This converter is available for Windows and Mac.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T203211Z">
-        <seg>Questo convertitore è disponibile sia per Windows che per Mac.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111655Z">
+        <seg>Questo convertitore è disponibile sia per Windows, sia per Mac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57752,8 +57752,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This makes it much easier for CAT tools to support it and edit it directly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T202902Z">
-        <seg>Questo rende molto più facile per gli strumenti CAT supportarli e modificarli direttamente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111604Z">
+        <seg>Questo rende molto più semplice, agli strumenti CAT, supportare e modificare direttamente tale struttura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69515,14 +69515,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://odf-converter.sourceforge.net/download.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122349Z">
-        <seg>http://odf-converter.sourceforge.net/download.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://office.microsoft.com/en-us/word-help/record-or-run-a-macro-HA010099769.aspx</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123723Z">
@@ -70127,14 +70119,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122348Z">
-        <seg>http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.dummies.com/how-to/content/how-to-create-a-word-2007-macro.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123732Z">
@@ -70323,14 +70307,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102824Z">
         <seg>http://www.muitenviet.net/tintuc/OmegaT---Cong-cu-tro-giup-bien-dich-(CAT).html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.neooffice.org/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122350Z">
-        <seg>http://www.neooffice.org/</seg>
       </tuv>
     </tu>
     <tu>
