@@ -1847,8 +1847,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183719Z">
-        <seg>(Per inciso questa è una limitazione di Java, non di OmegaT stesso.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122304Z">
+        <seg>(Per inciso, questa è una limitazione di Java, non di OmegaT.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4957,8 +4957,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183745Z">
-        <seg>&lt;a1&gt;Across&lt;/a1&gt; può anche essere utilizzato per questo scopo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122434Z">
+        <seg>Anche &lt;a1&gt;Anaphraseus&lt;/a1&gt; può essere utilizzato per questo scopo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14730,8 +14730,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Another possible source of incompatibility are three-digit language codes, which are not supported by OmegaT at all.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214016Z">
-        <seg>Un'altra possibile fonte di incompatibilità sono codici di linguaggio a tre cifre, che non sono per niente supportati da OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122240Z">
+        <seg>Un'altra possibile fonte d'incompatibilità sono codici di lingua a tre cifre, che non sono per niente supportati da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37112,8 +37112,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Not all CAT tools exhibit the same tolerance and some may not therefore display the expected matches if the language codes are not sufficiently compliant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213725Z">
-        <seg>Non tutti gli strumenti CAT presentano la stessa tolleranza e alcuni potrebbero non essere quindi visualizzate le concordanze previste se i codici di lingua non sono sufficientemente conformi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122157Z">
+        <seg>Non tutti gli strumenti CAT presentano la stessa tolleranza e alcuni potrebbero, quindi, non visualizzare le concordanze previste, se i codici di lingua non sono sufficientemente conformi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57124,8 +57124,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This format can be converted easily to the TMX format by third-party utilities such as &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183739Z">
-        <seg>Questo formato può essere convertito facilmente in formato TMX da Utility di terze parti come &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122406Z">
+        <seg>Questo formato può essere convertito facilmente in formato TMX da programmi di terze parti come &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69131,14 +69131,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://anaphraseus.sourceforge.net/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122409Z">
-        <seg>http://anaphraseus.sourceforge.net/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://ant.apache.org</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122430Z">
@@ -69431,14 +69423,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215709Z">
         <seg>http://groups.yahoo.com/group/omegat/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://groups.yahoo.com/group/wordfast/files/Wf2Tmx-1.0.11.37.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122409Z">
-        <seg>http://groups.yahoo.com/group/wordfast/files/Wf2Tmx-1.0.11.37.zip</seg>
       </tuv>
     </tu>
     <tu>
