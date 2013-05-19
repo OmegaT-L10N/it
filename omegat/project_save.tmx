@@ -1735,8 +1735,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Record as described above, but only recording the command Ctrl+C followed by Ctrl+V.) You can then highlight text between the points at which formatting changes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T194804Z">
-        <seg>(Registrare come descritto sopra, ma registrare solo il comando Ctrl+C seguito da Ctrl+V). Si può quindi evidenziare il testo tra i punti fra cui modificare la formattazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T211804Z">
+        <seg>(Registrare come descritto sopra, ma registrare solo il comando Ctrl+C seguito da Ctrl+V). Si può quindi evidenziare il testo tra i punti in cui la formattazione cambia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19119,8 +19119,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Create a second macro (with its own button and/or keyboard shortcut) of your own that only levels highlighted text, rather than the entire paragraph.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T194618Z">
-        <seg>Creare una seconda macro (con un proprio pulsante e/o tastiera di collegamento) che livelli solo il testo evidenziato, piuttosto che l'intero paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T211701Z">
+        <seg>Creare una seconda macro (che abbia un proprio pulsante e, o in alternativa, una scorciatoia da tastiera) che livelli solo il testo evidenziato, piuttosto che l'intero paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58072,8 +58072,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will level the formatting over sections of text that have the same, desired formatting, and you will not then need to restore deleted formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194644Z">
-        <seg>Questo livello di formattazione sopra sezioni di testo che hanno la formattazione desiderata, stesso, e non sarà quindi necessario ripristinare la formattazione eliminati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T211924Z">
+        <seg>Questo livellerà la formattazione sulle sezioni di testo che hanno la stessa formattazione voluta e non sarà quindi necessario ripristinare la formattazione eliminata.</seg>
       </tuv>
     </tu>
     <tu>
