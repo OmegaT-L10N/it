@@ -25698,16 +25698,6 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>GNU GENERAL PUBLIC LICENSE
-		       Version 2, June 1991</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215930Z">
-        <seg>GNU GENERAL PUBLIC LICENSE
-		       Version 2, June 1991</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T180033Z">
@@ -36112,14 +36102,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Miscellanea</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220125Z">
-        <seg>Miscellanea</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Miscellaneous resources</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192618Z">
@@ -38250,8 +38232,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Okapi Framework</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121918Z">
-        <seg>Okapi Framework</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T105601Z">
+        <seg>Infrastruttura Okapi</seg>
       </tuv>
     </tu>
     <tu>
@@ -62639,14 +62621,6 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Valid XHTML</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122058Z">
-        <seg>Valid XHTML</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Validate Tags</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T225003Z">
@@ -68613,14 +68587,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>en</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215420Z">
-        <seg>en</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>eng</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215420Z">
@@ -73059,14 +73025,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>screem 0.10.2</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113513Z">
-        <seg>screem 0.10.2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>screenshots.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121826Z">
@@ -74031,14 +73989,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T215102Z">
         <seg>sul settore traduzione</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>translation memory tool, OpenOffice, GPL, CAT, computer aided translation</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113531Z">
-        <seg>translation memory tool, OpenOffice, GPL, CAT, computer aided translation</seg>
       </tuv>
     </tu>
     <tu>
