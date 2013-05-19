@@ -3667,14 +3667,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>/** Number of fuzzy matches to display */&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122609Z">
-        <seg>/** Number of fuzzy matches to display */&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215808Z">
@@ -3695,14 +3687,6 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215810Z">
         <seg>/lib/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>/src/org/omegat/util</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122456Z">
-        <seg>/src/org/omegat/util</seg>
       </tuv>
     </tu>
     <tu>
@@ -3767,14 +3751,6 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135207Z">
         <seg>18</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>192, 255, 192</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122453Z">
-        <seg>192, 255, 192</seg>
       </tuv>
     </tu>
     <tu>
@@ -3849,14 +3825,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>225, 225, 255.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122453Z">
-        <seg>225, 225, 255.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>27</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130306T135305Z">
@@ -3883,8 +3851,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>2nd example modification: increasing the number of fuzzy matches displayed from five to ten</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T105222Z">
-        <seg>2 ° esempiodi  modifica: aumentare il numero di corrispondenze parziali visualizzate da cinque a dieci</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130312Z">
+        <seg>2 ° esempio di modifica: aumentare il numero di corrispondenze parziali visualizzate da cinque a dieci</seg>
       </tuv>
     </tu>
     <tu>
@@ -4077,14 +4045,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212523Z">
         <seg>45896 Gelsenkirchen&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>4b.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122455Z">
-        <seg>4b.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12238,22 +12198,6 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>= 10</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122617Z">
-        <seg>= 10</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>= 5</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122613Z">
-        <seg>= 5</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>==============================================================================
 6.</seg>
       </tuv>
@@ -16872,30 +16816,6 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>COLOR_BLUE</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122451Z">
-        <seg>COLOR_BLUE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>COLOR_BLUE.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122448Z">
-        <seg>COLOR_BLUE.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>COLOR_GREEN</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122447Z">
-        <seg>COLOR_GREEN</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Call up the &lt;s0&gt;Search&lt;/s0&gt; window with &lt;c1&gt;Ctrl+F&lt;/c1&gt; and enter the word or phrase you wish to search for in the &lt;s2&gt;Search for&lt;/s2&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T130028Z">
@@ -19017,14 +18937,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T135434Z">
         <seg>Copyright Marc Prior 2011</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Copyright Marc Prior 2011-2012</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122623Z">
-        <seg>Copyright Marc Prior 2011-2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -23962,8 +23874,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Find the lines:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193943Z">
-        <seg>Trovare le linee:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130236Z">
+        <seg>Trovare le righe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64093,8 +64005,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With the advent of Microsoft Office 2007, Microsoft Word, Excel and Powerpoint have new default file formats.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T105552Z">
-        <seg>Con l'avvento di Microsoft Office 2007, Microsoft Word, Excel e Powerpoint hanno nuovi formati di file di default.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130506Z">
+        <seg>Con l'avvento di Microsoft Office 2007, Microsoft Word, Excel e Powerpoint hanno nuovi formati di file predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67183,14 +67095,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215406Z">
         <seg>aze</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>b = Styles.COLOR_GREEN;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122446Z">
-        <seg>b = Styles.COLOR_GREEN;</seg>
       </tuv>
     </tu>
     <tu>
@@ -72209,22 +72113,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122450Z">
-        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122507Z">
-        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>puts the pane back within the main window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183724Z">
@@ -72725,14 +72613,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T104709Z">
         <seg>src (URL di i&amp;mmagini)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>src/org/omegat/util/gui</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122449Z">
-        <seg>src/org/omegat/util/gui</seg>
       </tuv>
     </tu>
     <tu>
