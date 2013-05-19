@@ -1416,42 +1416,10 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>' levelformat macro&lt;br3/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123738Z">
-        <seg>' levelformat macro&lt;br3/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T172618Z">
         <seg>'*' corrisponde a zero caratteri o più caratteri consecutivi, dalla posizione attuale in una parola data fino alla sua fine.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>'&lt;br2/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123738Z">
-        <seg>'&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>'&lt;br4/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123739Z">
-        <seg>'&lt;br4/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>'&lt;br5/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123740Z">
-        <seg>'&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13445,8 +13413,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After entering these commands, click Stop Recording.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194340Z">
-        <seg>Dopo aver inserito questi comandi, fare clic su Stop Recording.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135734Z">
+        <seg>Dopo aver inserito questi comandi, fare clic su Ferma Registrazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17714,8 +17682,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click on Macros and select levelformat (or whatever name you gave to your macro), then Edit.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193125Z">
-        <seg>Fare clic su macro e seleziona levelformat (o qualunque sia il nome dato alla vostra macro), quindi modifica.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135800Z">
+        <seg>Fare clic su Macro e selezionare levelformat (o qualunque sia il nome dato alla macro), quindi Modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19759,8 +19727,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+V (this pastes the text of the paragraph back over the paragraph)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193023Z">
-        <seg>CTRL+V (viene incollato il testo del paragrafo di nuovo sopra il paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135716Z">
+        <seg>Ctrl+V (viene incollato il testo del paragrafo di nuovo sopra il paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22201,14 +22169,6 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123838Z">
         <seg>End Sub</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>End Sub&lt;br11/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123747Z">
-        <seg>End Sub&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37760,8 +37720,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Now simply place the cursor anywhere in the paragraph and press Ctrl+Shift+9 (or whatever other keyboard shortcut you selected), and you should see the formatting disappear.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193355Z">
-        <seg>Ora basta posizionare il cursore in un punto qualsiasi del paragrafo e premere Ctrl+Maiusc+9 (o qualunque altro tasto di scelta rapida selezionata), e si dovrebbe vedere la formattazione sparire.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135951Z">
+        <seg>Ora basta posizionare il cursore in un punto qualsiasi del paragrafo e premere Ctrl+Maiusc+9 (o qualunque altro tasto di scelta rapida che era stato scelto): la formattazione dovrebbe scomparire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45001,8 +44961,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Save with Ctrl+S, and close the macro editing window.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T193217Z">
-        <seg>Salvare con Ctrl+S e chiudere la finestra di modifica di macro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135847Z">
+        <seg>Salvare con Ctrl+S e chiudere la finestra di modifica macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46627,62 +46587,6 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192712Z">
         <seg>Selezione di icone alternative per l'utilizzo con OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Selection.Copy&lt;br9/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123744Z">
-        <seg>Selection.Copy&lt;br9/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123742Z">
-        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123742Z">
-        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123740Z">
-        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123752Z">
-        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123745Z">
-        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123755Z">
-        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
       </tuv>
     </tu>
     <tu>
@@ -48419,14 +48323,6 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091626Z">
         <seg>Segmentazione a livello di struttura</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Sub levelformat()&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123737Z">
-        <seg>Sub levelformat()&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51431,8 +51327,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The code of your macro(s) will be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194349Z">
-        <seg>Verrà visualizzato il codice della vostra macro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135814Z">
+        <seg>Verrà visualizzato il codice della, o delle, macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66615,22 +66511,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220208Z">
         <seg>^</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>___________________</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123749Z">
-        <seg>___________________</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>___________________&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123736Z">
-        <seg>___________________&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
