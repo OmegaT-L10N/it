@@ -13693,8 +13693,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Again, OmegaT has excellent file filters for both.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T211055Z">
-        <seg>OmegaT ha ancora filtri di file eccellenti per entrambi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112921Z">
+        <seg>OmegaT ha, per entrambi, filtri di file eccellenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26319,8 +26319,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>HTML and XHTML, its XML equivalent, are the most common file format for web pages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210938Z">
-        <seg>HTML e XHTML, l'equivalente XML, sono i formati di file più comuni per le pagine web.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112854Z">
+        <seg>HTML e XHTML, il suo equivalente XML, sono i formati di file più comuni per le pagine web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26345,14 +26345,6 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110718T103010Z">
         <seg>Segmentazione HTML, XHTML, ODF e Infix</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>HTML; XHTML:</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122407Z">
-        <seg>HTML; XHTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34409,8 +34401,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Like OpenOffice.org files, these file formats can be translated in OmegaT with very little risk of corruption.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T211131Z">
-        <seg>Come i file di OpenOffice.org, questi formati di file possono essere tradotti in OmegaT con pochissimo rischio di corruzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T113014Z">
+        <seg>Come i file di LibreOffice/OpenOffice.org, essi possono essere tradotti in OmegaT con bassissimo rischio di danneggiamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38040,8 +38032,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112018Z">
-        <seg>Office Open XML può essere convertito direttamente nel formato OpenDocument, e viceversa, attraverso il convertitore ODF, disponibile &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112755Z">
+        <seg>Office Open XML può essere convertito direttamente nel formato Open Document, e viceversa, attraverso il convertitore ODF, disponibile &lt;a0&gt;qui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50844,8 +50836,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T210708Z">
-        <seg>Il formato di Open Document è uno standard internazionale e ha sostituito l'ex formato file proprietario (ma aperto) di Star Office (due formati di file diversi ma molto simili).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112732Z">
+        <seg>Il formato Open Document è uno standard internazionale e ha sostituito il precedente formato di file proprietario (ma aperto) Star Office (due formati di file diversi ma molto simili).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56099,8 +56091,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183423Z">
-        <seg>Questi filtri di file sono eccellenti, e il rischio di danneggiare la formattazione di un LibreOffice, OpenOffice.org, file ecc durante la traduzione di OmegaT è estremamente basso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112838Z">
+        <seg>Questi filtri di file sono eccellenti, e il rischio di danneggiare la formattazione di un file LibreOffice, OpenOffice.org, ecc., durante la traduzione di OmegaT è estremamente basso.</seg>
       </tuv>
     </tu>
     <tu>
