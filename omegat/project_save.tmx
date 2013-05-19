@@ -17098,8 +17098,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Change folder to the main folder in the OmegaT source code (the folder containing the file build.xml), e.g.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193823Z">
-        <seg>Cambiare la cartella nella cartella principale del codice sorgente di OmegaT (la cartella contenente il file Build. Xml), ad esempio</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125912Z">
+        <seg>Passare alla cartella principale del codice sorgente di OmegaT (la cartella che contiene il file build.xml), ad esempio</seg>
       </tuv>
     </tu>
     <tu>
@@ -20199,8 +20199,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Depending upon how you install the Java Development Kit, you may have to change your "JAVA_HOME" attribute in order for it to function with Ant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080224Z">
-        <seg>In base a come si installa il Kit di sviluppo Java, potrebbe essere necessario modificare l'attributo "JAVA_HOME" per farlo funzionare con Ant.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125734Z">
+        <seg>In base a come si installa il Java Developmenti Kit, potrebbe essere necessario modificare l'attributo "JAVA_HOME" per farlo funzionare con Ant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52450,8 +52450,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The folder names indicated below are for illustration only; version numbers will change.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080422Z">
-        <seg>I nomi sotto indicati delle cartelle, sono solo per illustrazione; i numeri di versione cambieranno.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125927Z">
+        <seg>I nomi sotto indicati delle cartelle, sono solo per illustrazione; i numeri di versione saranno diversi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62479,8 +62479,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Various programs can be used to compile the source code again after you have modified it, but among the most convenient is &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080101Z">
-        <seg>Vari programmi possono essere utilizzati per ricompilare il codice sorgente dopo averlo modificato, ma tra i più convenienti è &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125643Z">
+        <seg>Possono essere utilizzati vari programmi per compilare il codice sorgente dopo averlo modificato, ma tra gli altri, il più adatto è &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67511,14 +67511,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122437Z">
         <seg>cd C:\My Documents\MyOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>cd C:\My Documents\MyOmegat\OmegaT_2.2.3_Beta_Source</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122434Z">
-        <seg>cd C:\My Documents\MyOmegat\OmegaT_2.2.3_Beta_Source</seg>
       </tuv>
     </tu>
     <tu>
