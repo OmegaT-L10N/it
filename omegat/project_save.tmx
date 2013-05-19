@@ -5107,6 +5107,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T104905Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; è in grado di rilevare e aggiornare immediatamente questi file tmx, in modo da migliorare la qualità delle corrispondenze parziali e l'influenza che queste hanno sulle traduzioni precedentemente eseguire, evitando così un lavoro di modifica manuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; tags are composed of one or more letters followed by one or more digit, using the "/" character for closure (for example: &lt;f0&gt;, &lt;/f0&gt; &lt;br&gt;, &lt;/s2&gt; etc.).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T171955Z">
@@ -37592,6 +37600,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in some cases changes in file filters in &lt;a1&gt;OmegaT&lt;/a1&gt; may lead to totally different segmentation; as a result, you will have to upgrade your translation manually in such rare cases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T104950Z">
+        <seg>Si noti anche che sono stati apportati alcuni cambiamenti ai filtri dei file di &lt;a1&gt;OmegaT&lt;/a1&gt; che potrebbero portare a una segmentazione totalmente diversa; pertanto si potrebbero eccezionalmente presentare condizioni in cui viene richiesto l'aggiornamento manuale della propria traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T210504Z">
@@ -44388,6 +44404,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working directory (the directory you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T202005Z">
+        <seg>Sostituire &lt;l0&gt;&lt;nome_file&gt;&lt;/l0&gt; col nome del file da creare, all'interno della cartella di lavoro assoluta o relativa (la cartella da cui si avvia &lt;a1&gt;OmegaT&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T104821Z">
         <seg>Sostituire &lt;l0&gt;&lt;nome_file&gt;&lt;/l0&gt; col nome del file da creare, all'interno della cartella di lavoro assoluta o relativa (la cartella da cui si avvia &lt;a1&gt;OmegaT&lt;/a1&gt;).</seg>
       </tuv>
     </tu>
