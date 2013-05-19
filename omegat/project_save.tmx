@@ -27079,6 +27079,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T094726Z">
+        <seg>Si potrebbe non riuscire ad aprire il testo tradotto, però, se durante la digitazione di tag di formattazione si commettono errori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it is far from Russian, it is Japanese characters wrongly displayed as Russian characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T201921Z">
@@ -56025,6 +56033,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+T&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T094752Z">
+        <seg>Prima di generare i file tradotti, premere dunque &lt;k0&gt;Ctrl+T&lt;/k0&gt; per verificare che i tag siano corretti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
@@ -56325,8 +56341,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T094542Z">
-        <seg>Essi sono protetti, quindi non si può modificare il loro contenuto, ma si possono eliminare, modificare o spostare a mano all'interno della frase.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T094657Z">
+        <seg>Essi sono protetti, quindi non si può modificare il loro contenuto, ma si possono eliminare, entrare al loro interno o spostare a mano nella frase.</seg>
       </tuv>
     </tu>
     <tu>
