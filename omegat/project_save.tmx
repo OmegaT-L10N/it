@@ -4113,14 +4113,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>3rd_party.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121847Z">
-        <seg>3rd_party.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>4.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122327Z">
@@ -38246,22 +38238,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmT-l10n</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122238Z">
-        <seg>OmT-l10n</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmTdev</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122222Z">
-        <seg>OmTdev</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT + You</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T210604Z">
@@ -67891,14 +67867,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>contact_support.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121850Z">
-        <seg>contact_support.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>containing OmegaT.jar and the linux-install.sh script, and execute the</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094624Z">
@@ -68275,14 +68243,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>documentation.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121841Z">
-        <seg>documentation.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>docx compatibility</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065923Z">
@@ -68335,14 +68295,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122306Z">
         <seg>download_selector/selector.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>downloads.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121839Z">
-        <seg>downloads.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -69619,14 +69571,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://groups.yahoo.com/group/omegat</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122141Z">
-        <seg>http://groups.yahoo.com/group/omegat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://groups.yahoo.com/group/omegat/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215709Z">
@@ -70027,30 +69971,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065120Z">
         <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_documentation_en.PDF/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/tracker/?atid=520347&amp;group_id=68187&amp;func=browse</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T185819Z">
-        <seg>http://sourceforge.net/tracker/?atid=520347&amp;group_id=68187&amp;func=browse</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/tracker/?atid=520350&amp;group_id=68187&amp;func=browse</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122247Z">
-        <seg>http://sourceforge.net/tracker/?atid=520350&amp;group_id=68187&amp;func=browse</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/tracker/?atid=912617&amp;group_id=68187&amp;func=browse</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122252Z">
-        <seg>http://sourceforge.net/tracker/?atid=912617&amp;group_id=68187&amp;func=browse</seg>
       </tuv>
     </tu>
     <tu>
@@ -70815,22 +70735,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122156Z">
-        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122225Z">
-        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215651Z">
@@ -71051,14 +70955,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230020Z">
         <seg>interromperlo e riavviarlo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>involved.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121853Z">
-        <seg>involved.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -71471,14 +71367,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>mailto:lin4trans@users.sourceforge.net</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122256Z">
-        <seg>mailto:lin4trans@users.sourceforge.net</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>mailto:mailto:lin4trans@users.sourceforge.net</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155229Z">
@@ -71859,14 +71747,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092437Z">
         <seg>cartella omegat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>omegat.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113539Z">
-        <seg>omegat.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -72809,26 +72689,10 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>requirements.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T113547Z">
-        <seg>requirements.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>reserved for future use by plugins</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120531T184759Z">
         <seg>riservato per uso futuro da parte dei plugin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>resources.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121844Z">
-        <seg>resources.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -72845,14 +72709,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122444Z">
         <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>reviews.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121856Z">
-        <seg>reviews.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -72933,14 +72789,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T215152Z">
         <seg>salvare il nel formato ODT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>screenshots.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121826Z">
-        <seg>screenshots.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -74165,14 +74013,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130303T083750Z">
         <seg>e poi apparire così nel testo finale:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>who_we_are.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121900Z">
-        <seg>who_we_are.html</seg>
       </tuv>
     </tu>
     <tu>
