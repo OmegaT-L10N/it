@@ -3571,14 +3571,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>./linux.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124332Z">
-        <seg>./linux.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>./osx.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183043Z">
@@ -3833,22 +3825,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>3.10</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124419Z">
-        <seg>3.10</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.11</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124428Z">
-        <seg>3.11</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>3.2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094530Z">
@@ -3861,30 +3837,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094728Z">
         <seg>3.3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.7</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124211Z">
-        <seg>3.7</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.8.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124213Z">
-        <seg>3.8.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.9</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124250Z">
-        <seg>3.9</seg>
       </tuv>
     </tu>
     <tu>
@@ -3929,42 +3881,10 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>4.1.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124435Z">
-        <seg>4.1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>4.2.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124436Z">
-        <seg>4.2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>4.3.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124439Z">
-        <seg>4.3.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>45896 Gelsenkirchen&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212523Z">
         <seg>45896 Gelsenkirchen&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>5.1</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124447Z">
-        <seg>5.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -7503,22 +7423,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215706Z">
         <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;key&gt;apple.awt.graphics.UseQuartz&lt;/key&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124214Z">
-        <seg>&lt;key&gt;apple.awt.graphics.UseQuartz&lt;/key&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;key&gt;google.api.key&lt;/key&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124240Z">
-        <seg>&lt;key&gt;google.api.key&lt;/key&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11582,22 +11486,6 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;string&gt;XXXXXXXX&lt;/string&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124245Z">
-        <seg>&lt;string&gt;XXXXXXXX&lt;/string&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;string&gt;true&lt;/string&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124225Z">
-        <seg>&lt;string&gt;true&lt;/string&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;strong&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/strong&gt;&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090218Z">
@@ -13037,8 +12925,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Add the following argument to the launch command:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195030Z">
-        <seg>Aggiungere il seguente argomento per il comando di lancio:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213131Z">
+        <seg>Aggiungere il seguente argomento per il comando di avvio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35072,8 +34960,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Make sure that you have the Kaptain launcher installed (&lt;a0&gt;refer if necessary to the Linux Howto)&lt;/a0&gt;, then enter the Google Translate API key in the relevant field on the Connectivity tab.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124411Z">
-        <seg>Assicurarsi di avere il lanciatore Kaptain installato (&lt;a0&gt;riferirsi eventualmente alla guida di Linux)&lt;/a0&gt;, quindi immettere la chiave API di Google Translate nel relativo campo della scheda di connettività.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213111Z">
+        <seg>Assicurarsi di avere installato l'avviatore Kaptain (&lt;a0&gt;riferirsi eventualmente alla guida di Linux)&lt;/a0&gt;, quindi immettere la chiave API di Google Translate nel relativo campo della scheda di connettività.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44353,8 +44241,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Right-click on OmegaT.app and select "Show Package Contents".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200641Z">
-        <seg>Tasto destro del mouse su OmegaT.app e selezionare "Mostra contenuto del pacchetto".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212947Z">
+        <seg>Fare clic col pulsante destro del mouse su OmegaT.app e selezionare "Mostra contenuto del pacchetto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -44369,8 +44257,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Right-click on the file Info.plist and select your preferred editor to open the file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194945Z">
-        <seg>Tasto destro del mouse sul file info. plist e selezionare il vostro editor preferito per aprire il file.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213019Z">
+        <seg>Fare clic col pulsante destro del mouse sul file Info.plist e selezionare l'editor preferito per aprire il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44809,8 +44697,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Save Info.plist.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124316Z">
-        <seg>Salva Info.plist.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213039Z">
+        <seg>Salvare Info.plist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46201,8 +46089,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Select Options &gt; Machine Translate</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200817Z">
-        <seg>Selezionare Opzioni &gt; Traduzione Automatica</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213213Z">
+        <seg>Selezionare Opzioni &gt; Traduzione automatica</seg>
       </tuv>
     </tu>
     <tu>
@@ -50999,8 +50887,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The basic launch command with the Google Translate API added will therefore be:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195037Z">
-        <seg>Il comando di lancio base con il Google Translate API aggiunto sarà quindi:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213159Z">
+        <seg>Il comando base di avvio con il Google Translate API aggiunto sarà quindi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61695,8 +61583,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users launching OmegaT from the command line or by a script:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200801Z">
-        <seg>Utenti che lanciano OmegaT dalla riga di comando o da uno script:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213122Z">
+        <seg>Utenti che avviano OmegaT dalla riga di comando o da uno script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66597,8 +66485,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>and immediately after them, add the lines:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124240Z">
-        <seg>e subito dopo queste, aggiungere le righe:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213032Z">
+        <seg>e, subito dopo queste, aggiungere le righe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70331,14 +70219,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181623Z">
         <seg>java -Xmx1024M -jar OmegaT.jar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124433Z">
-        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
