@@ -15565,6 +15565,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T101604Z">
+        <seg>Alla fine del lavoro, OmegaT esporta nella cartella del progetto tre memorie di traduzione chiamate &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; e &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183204Z">
@@ -29664,6 +29672,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T135543Z">
         <seg>Se si desidera unicamente avere a disposizione informazioni di tipo testuale (tralasciando quelle di formattazione) si utilizzi il file TMX di livello 1 creato da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T101823Z">
+        <seg>Inserendo i file delle memorie di traduzione nella sottocartella &lt;f6&gt;/tm/&lt;/f6&gt; della cartella del progetto, OmegaT ricercherà al suo interno automaticamente i segmenti simili, chiamati "concordanze parziali".</seg>
       </tuv>
     </tu>
     <tu>
@@ -50420,6 +50436,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T101652Z">
+        <seg>Le memorie &lt;f3&gt;level1&lt;/f3&gt; e &lt;f4&gt;level2&lt;/f4&gt; possono essere condivise con gli utenti di altri programmi di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120514T220104Z">
@@ -53391,6 +53415,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T220819Z">
         <seg>La memoria chiamata omegat" si può utilizzare all'interno di OmegaT, nei progetti di futura creazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T101727Z">
+        <seg>La memoria chiamata &lt;f5&gt;omegat&lt;/f5&gt; si può utilizzare all'interno di OmegaT, nei progetti di futura creazione.</seg>
       </tuv>
     </tu>
     <tu>
