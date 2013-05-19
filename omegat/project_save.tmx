@@ -19045,6 +19045,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T103242Z">
+        <seg>La copiatura manuale dei file ha senso se nel proprio sistema si possiedono già file di dizionario adatti allo scopo, per esempio, quelli che fanno parte dell'installazione di Apache OpenOffice, LibreOffice, Firefox o Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your OpenOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T162953Z">
