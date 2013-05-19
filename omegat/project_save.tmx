@@ -28961,6 +28961,14 @@ that you install an OmegaT version with JRE included.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T102335Z">
+        <seg>Se non si riesce ad avviare normalmente &lt;a0&gt;OmegaT&lt;/a0&gt; (non è disponibile un ambiente grafico): copiare i file delle impostazioni da qualche altra installazione di &lt;a1&gt;OmegaT&lt;/a1&gt;, presente in un'altra macchina, in una cartella specifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182347Z">
@@ -54234,6 +54242,14 @@ an access to the hard drive of the computer.</seg>
         <seg>The relevant files &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; can be found in the user home directory (E.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T185950Z">
+        <seg>I file importanti &lt;l2&gt;filters.conf&lt;/l2&gt; e &lt;l3&gt;segmentation.conf&lt;/l3&gt; si possono trovare nella cartella principale dell'utente (per es., &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; in Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; in Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The relevant files &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; can be found in the user home folder (E.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T102442Z">
         <seg>I file importanti &lt;l2&gt;filters.conf&lt;/l2&gt; e &lt;l3&gt;segmentation.conf&lt;/l3&gt; si possono trovare nella cartella principale dell'utente (per es., &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; in Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; in Linux)</seg>
       </tuv>
     </tu>
