@@ -12757,8 +12757,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A script (for Windows only) and procedure was recently (2008) developed enabling OmegaT users to produce Trados uncleaned RTF files for delivery at the end of their translation stage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T074944Z">
-        <seg>Uno script (solo per Windows) e una procedura sono stati recentemente (2008) sviluppati che consentono agli utenti di OmegaT di produrre i file in formato Trados RTF non ripulito per la consegna al termine della loro fase di traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T124952Z">
+        <seg>Uno script (solo per Windows) e una procedura sono stati recentemente (2008) sviluppati, permettendo agli utenti di OmegaT di produrre i file in formato Trados RTF non ripulito per la consegna, al termine del loro lavoro di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33034,8 +33034,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It owes its origins to the use of MS Word as an interface for the Trados CAT tool.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T074531Z">
-        <seg>Deve le sue origini all'utilizzo di MS Word come un'interfaccia per l'applicazione CAT Trados.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T124827Z">
+        <seg>Deve le sue origini all'utilizzo di MS Word come interfaccia per l'applicazione CAT Trados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52346,8 +52346,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T073904Z">
-        <seg>I filtri disponibili sono principalmente per formati di file peculiari ai file dell'industria IT piuttosto che per l'utente finale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T124719Z">
+        <seg>I filtri disponibili sono principalmente per formati di file peculiari a quelli dell'industria IT piuttosto che quelli dell'utente finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60044,14 +60044,6 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T074035Z">
         <seg>Trados "RTF non ripulito"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Trados TTX</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122423Z">
-        <seg>Trados TTX</seg>
       </tuv>
     </tu>
     <tu>
@@ -70279,14 +70271,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.omegat.org/en/howtos/export_uncleaned_rtf.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122418Z">
-        <seg>http://www.omegat.org/en/howtos/export_uncleaned_rtf.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.omegat.org/en/howtos/localizing_omegat.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215722Z">
@@ -70323,14 +70307,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155227Z">
         <seg>http://www.omegat.org/resources/omt_website.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.opentag.com/okapi/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122424Z">
-        <seg>http://www.opentag.com/okapi/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
       </tuv>
     </tu>
     <tu>
