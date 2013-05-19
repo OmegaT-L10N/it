@@ -59540,6 +59540,14 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T101520Z">
+        <seg>Per visualizzare l'elenco dei file nel progetto, aprire la finestra dei &lt;g1&gt;File del progetto&lt;/g1&gt; tramite la combinazione &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To see a list of files in the project, open the Project Files dialog by pressing &lt;k1&gt;Ctrl+L&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T195054Z">
