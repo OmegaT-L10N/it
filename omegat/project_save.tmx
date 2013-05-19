@@ -3555,14 +3555,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>./docx.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122347Z">
-        <seg>./docx.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>./ex.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182929Z">
@@ -15495,8 +15487,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183204Z">
-        <seg>Al momento attuale, questo include tutte le versioni di Microsoft Windows, da Windows 98 in poi, la maggior parte delle distribuzioni Linux e Mac OS X.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111157Z">
+        <seg>Attualmente, ciò include tutte le versioni di Microsoft Windows, da Windows 98 in poi, la maggior parte delle distribuzioni Linux e Mac OS X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30631,8 +30623,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T202803Z">
-        <seg>Infatti, la loro struttura è molto simile a quella dei file di OpenOffice.org: consiste in un archivio zip contenente più file e i file contenenti il testo sono basati sullo standard XML.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111443Z">
+        <seg>Infatti, la loro struttura è molto simile a quella dei file OpenDocument: consiste in un archivio zip contenente più file, e i file contenenti il testo si basano sullo standard XML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35878,14 +35870,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122346Z">
-        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122355Z">
@@ -39080,8 +39064,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T202602Z">
-        <seg>OmegaT è in grado di gestire direttamente i correnti formati Microsoft Office, senza conversione da o verso altri formati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111256Z">
+        <seg>OmegaT è in grado di gestire direttamente i formati correnti di Microsoft Office, senza conversione da o verso altri formati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50724,8 +50708,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T202709Z">
-        <seg>I formati di file di Microsoft Office 2007-2010 (noti anche come Office Open XML e con le estensioni di file .docx, .xlsx e .pptx) è radicalmente diversa dai formati di Office 97-2003 che essi hanno ormai sostituito.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111341Z">
+        <seg>I formati di file di Microsoft Office 2007-2010 (noti anche come Office Open XML e con le estensioni di file .docx, .xlsx e .pptx) è radicalmente diversa dai formati di Office 97-2003, dai primi ormai sostituiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53131,8 +53115,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T202454Z">
-        <seg>L'elenco sottostante &lt;s0&gt;non&lt;/s0&gt; è un elenco esaustivo di tutti i formati di file supportati da OmegaT, ma è limitato a quelli di particolare interesse per gli utenti tipici.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111229Z">
+        <seg>L'elenco riportato sotto &lt;s0&gt;non&lt;/s0&gt; è un elenco esaustivo di tutti i formati di file supportati da OmegaT, ma è limitato a quelli di particolare interesse per gli utenti tipici.</seg>
       </tuv>
     </tu>
     <tu>
