@@ -1831,8 +1831,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111153Z">
-        <seg>(La maggiore facilità di gestione dei tag con i file .docx arriva al costo di una leggera perdita del controllo sulla formattazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131325Z">
+        <seg>(La maggiore facilità di gestione dei tag con i file .docx è data al costo di una leggera perdita del controllo sulla formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15206,8 +15206,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152512Z">
-        <seg>A partire dalla versione 2.1.8, per impostazione predefinita, questi tag multipli sono ora aggregati (condensati) in un singolo tag.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131233Z">
+        <seg>Dalla versione 2.1.8, per impostazione predefinita, questi tag multipli sono ora aggregati (condensati) in un singolo tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24667,8 +24667,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, without the "aggregate tags" function, where a word in the source text is in bold and italics, the translator could choose to render it in bold only, or in italics only.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152721Z">
-        <seg>Per esempio, senza la funzione "tag di aggregazione", dove una parola nel testo di origine è in grassetto e corsivo, il traduttore potrebbe scegliere di renderlo in grassetto solo, o in corsivo solo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131435Z">
+        <seg>Per esempio, senza la funzione "aggregazione dei tag", in cui una parola nel testo di origine è in grassetto e corsivo, il traduttore potrebbe scegliere di renderla solo in grassetto o solo in corsivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63973,8 +63973,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With the "aggregate tags" function enabled, this is not possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152729Z">
-        <seg>Con la funzione di "aggregazione tag" abilitata, questo non è possibile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131451Z">
+        <seg>Con la funzione di "aggregazione dei tag" attivata, questo non è possibile.</seg>
       </tuv>
     </tu>
     <tu>
