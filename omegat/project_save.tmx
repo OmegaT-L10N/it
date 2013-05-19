@@ -27616,6 +27616,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T095050Z">
+        <seg>Se l'&lt;g0&gt;Editor&lt;/g0&gt; non riesce a caricare un file di partenza, allora esso potrebbe essere in un formato non gestibile da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a file does not loads into the Editor pane, then it could be that your source file is in a format that doesn't work in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T215716Z">
@@ -40538,6 +40546,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T094958Z">
+        <seg>Una volta che si è sicuri che i tag, all'interno della traduzione, non contengono errori, premere &lt;k0&gt;Ctrl+D&lt;/k0&gt; per generare i file di arrivo, che verranno creati nella sottocartella &lt;f1&gt;/target/&lt;/f1&gt; all'interno della cartella del proprio progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you want to see how the files would look once translated, you can create the translated files open them in the appropriate application and see what your translation looks like.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T084255Z">
@@ -45885,6 +45901,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T213343Z">
         <seg>Per ulteriori informazioni sull'argomento, si veda il &lt;l0&gt;capitolo Glossari&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T095203Z">
+        <seg>Per visualizzare un elenco dei formati dei file gestibili da OmegaT, leggere il capitolo &lt;l1&gt;Filtri dei file&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
