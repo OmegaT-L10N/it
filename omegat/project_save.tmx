@@ -28108,6 +28108,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T102712Z">
+        <seg>Se non specificato, OmegaT torna ai valori predefiniti (la cartella OmegaT nella cartella principale dell'utente o, se non disponibile, quella di lavoro corrente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not, debugging messages will be shown which will (hopefully) provide some idea of where the problem is.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T080752Z">
@@ -38308,6 +38316,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T173416Z">
         <seg>File Leggimi di OmegaT 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.0 - User's Guide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T102730Z">
+        <seg>OmegaT 3.0- Manuale dell'Utente</seg>
       </tuv>
     </tu>
     <tu>
@@ -53511,6 +53527,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T170422Z">
         <seg>Il più importante è &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt; e, facoltativamente, &lt;l2&gt; --config-dir=&lt;config-dir&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important of these is &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T102650Z">
+        <seg>Il più importanti di questi è &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; e, facoltativamente, &lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
