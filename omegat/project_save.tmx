@@ -38920,6 +38920,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T103016Z">
+        <seg>OmegaT possiede un correttore ortografico incorporato che si basa su quello usato in Apache OpenOffice, LibreOffice, Firefox e Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in OpenOffice.org, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T213212Z">
@@ -57480,6 +57488,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T202515Z">
         <seg>Ciò è particolarmente utile nei casi di lingue che utilizzano forme prefissali e suffissali sui temi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T102832Z">
+        <seg>Ciò è particolarmente utile quando si ha a che fare con testi la cui formattazione incorporata non ha una concreta utilità (per es., PDF OCRed, file .odt o .docx convertiti in modo errato, e via discorrendo). Nei casi normali deve essere sempre possibile aprire i documenti di destinazione, dato che solo i tag incorporati vengono rimossi.</seg>
       </tuv>
     </tu>
     <tu>
