@@ -3155,14 +3155,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124029Z">
-        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215257Z">
@@ -3841,14 +3833,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>3.1.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124115Z">
-        <seg>3.1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>3.10</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124419Z">
@@ -3873,50 +3857,10 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>3.2.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124116Z">
-        <seg>3.2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>3.3</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094728Z">
         <seg>3.3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.3.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124119Z">
-        <seg>3.3.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.4.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124121Z">
-        <seg>3.4.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.5.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124132Z">
-        <seg>3.5.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.6</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124210Z">
-        <seg>3.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -4517,8 +4461,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200323Z">
-        <seg>&lt;a0&gt;Segui questo link da applicare a Google&lt;/a0&gt; per la chiave di Google Translate API v2.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212641Z">
+        <seg>&lt;a0&gt;Segui questo collegamento da applicare a Google&lt;/a0&gt; per la chiave di Google Translate API v2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13101,8 +13045,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Add the following line to the text in the file:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194929Z">
-        <seg>Aggiungere la seguente riga di testo nel file:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212915Z">
+        <seg>Aggiungere la riga seguente al testo del file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15327,8 +15271,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Assign the key to OmegaT's launch procedure as follows, depending upon whether you are using Windows, Mac, or launching OmegaT from the command line or by means of a script:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200414Z">
-        <seg>Assegnare la chiave alla procedura di lancio di OmegaT come segue, a seconda se si utilizza Windows, Mac, o lanciare OmegaT dalla riga di comando o mediante uno script:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212744Z">
+        <seg>Assegnare la chiave alla procedura di avvio di OmegaT come segue, a seconda se si utilizza Windows, Mac, o avviare OmegaT dalla riga di comando o mediante uno script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34571,8 +34515,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Locate the configuration file OmegaT.l4J.ini (the default location is C:\Program Files (x86)\OmegaT).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194909Z">
-        <seg>Individuare il file di configurazione OmegaT.l4J.ini (la posizione predefinita è C:\Program Files (x86) \OmegaT).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212801Z">
+        <seg>Individuare il file di configurazione OmegaT.l4J.ini (la posizione predefinita è C:\Programmi (x86) \OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35136,8 +35080,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Make sure that you have your credit card details handy.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194859Z">
-        <seg>Assicurarsi di avere i dati della carta di credito utili.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212659Z">
+        <seg>Assicurarsi di avere a portata di mano i dati della carta di credito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44873,8 +44817,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Save OmegaT.l4J.ini (and if necessary, move it back to the OmegaT folder).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124208Z">
-        <seg>Salva OmegaT.l4J.ini (e se necessario, torna alla cartella OmegaT).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212932Z">
+        <seg>Salvare OmegaT.l4J.ini (e se necessario, tornare alla cartella OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58634,8 +58578,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To edit this file, you may need Administrator mode, or to move it temporarily to a different location on your hard drive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200547Z">
-        <seg>Per modificare questo file potrebbe essere necessaria la modalità amministratore, o spostarlo temporaneamente in una posizione diversa sul disco rigido.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212844Z">
+        <seg>Per modificare questo file potrebbe essere necessaria la modalità amministratore, oppure lo si può spostare temporaneamente in una posizione diversa del proprio disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68815,14 +68759,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125133Z">
         <seg>http://chrome.google.com/webstore/detail/oilipfekkmncanaajkapbpancpelijih</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://code.google.com/apis/language/translate/v2/pricing.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124027Z">
-        <seg>http://code.google.com/apis/language/translate/v2/pricing.html</seg>
       </tuv>
     </tu>
     <tu>
