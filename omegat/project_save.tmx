@@ -30463,8 +30463,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In conjunction with the te-st-notags script, this provides a separate window in which tags are not displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194654Z">
-        <seg>In combinazione con lo script di te-st-notags, questo fornisce una finestra separata in cui tag non vengono visualizzati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212156Z">
+        <seg>In combinazione con lo script di te-st-notags, questa fornisce una finestra separata in cui tag non vengono visualizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35984,8 +35984,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>More advanced users may wish to try OmegaT's Text Export function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194653Z">
-        <seg>Gli utenti più avanzati potrebbero desiderare di provare la funzione Esporta testo di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212130Z">
+        <seg>Gli utenti più avanzati potrebbero voler provare la funzione 'Esporta testo' di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41476,8 +41476,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Paragraphs that you have not "levelled" will then contain nuisance tags, but at least the others will be much "cleaner".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195013Z">
-        <seg>I paragrafi che non sono "livellati" conterranno quindi i tag fastidiosi, ma almeno gli altri saranno molto più "puliti".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212101Z">
+        <seg>I paragrafi non "livellati" conterranno quindi i tag di disturbo, ma almeno gli altri saranno molto più "puliti".</seg>
       </tuv>
     </tu>
     <tu>
@@ -61382,8 +61382,8 @@ alla riga {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Use the level formatting macro only on paragraphs with little or no formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194649Z">
-        <seg>Utilizzare il livello di formattazione macro solo su paragrafi con poca o nessuna formattazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212021Z">
+        <seg>Utilizzare la macro per il livellamento della formattazione solo su paragrafi con poca o nessuna formattazione.</seg>
       </tuv>
     </tu>
     <tu>
