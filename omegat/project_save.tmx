@@ -59452,6 +59452,14 @@ sviluppatori a:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T095413Z">
+        <seg>Per rivedere le impostazioni iniziali del progetto, aprire la finestra delle impostazioni tramite la combinazione &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove a filter, press the 'remove filter' button, or reload a project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T141752Z">
@@ -65046,6 +65054,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T180703Z">
         <seg>È possibile creare un glossario premendo &lt;g0&gt;Ctrl+Maiusc+G&lt;/g0&gt; oppure copiando i glossari esistenti nella sottocartella &lt;f1&gt;/glossary/&lt;/f1&gt;della cartella del progetto, e OmegaT cercherà automaticamente le parole al loro interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T095337Z">
+        <seg>È possibile creare un nuovo progetto per ciascun nuovo lavoro, ed è possibile aggiungere nuovi file di partenza a un progetto in qualsiasi momento.</seg>
       </tuv>
     </tu>
     <tu>
