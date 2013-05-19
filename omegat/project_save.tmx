@@ -17706,8 +17706,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click on Assign to assign the shortcut to the macro that you are about to record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194309Z">
-        <seg>Fare clic su assegna per assegnare la scorciatoia per la macro che si sta per registrare.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135540Z">
+        <seg>Fare clic su Assegna per assegnare la scorciatoia alla macro che si sta per registrare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19511,16 +19511,16 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+C (this copies the paragraph)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T192950Z">
-        <seg>CTRL+C (copia il paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135656Z">
+        <seg>Ctrl+C (copia il paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Cursor Up (this takes the cursor to the beginning of the paragraph)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T191231Z">
-        <seg>CTRL+cursore su (questo sposta il cursore all'inizio del paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135604Z">
+        <seg>Ctrl+cursore su (questo sposta il cursore all'inizio del paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19687,16 +19687,16 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Shift+9 appears not to be assigned to any other function in the basic Word installation, but you can use any other combination that has not already been assigned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T190930Z">
-        <seg>CTRL+MAIUSC+9 non sembra essere assegnata nell'installazione base di Word, ma è possibile utilizzare qualsiasi altra combinazione che non è ancora assegnata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135525Z">
+        <seg>Ctrl+Maiusc+9 sembra non essere assegnata nell'installazione base di Word, ma è possibile utilizzare qualsiasi altra combinazione non ancora assegnata.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Shift+Cursor Down (this selects the paragraph, including the paragraph mark)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T192149Z">
-        <seg>CTRL+MAIUSC+cursore giù (seleziona il paragrafo, incluso il segno di paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135621Z">
+        <seg>Ctrl+Maiusc+cursore giù (seleziona il paragrafo, incluso il segno di paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27416,8 +27416,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a combination you try is already assigned, a message to this effect is displayed in the dialogue, and you can delete the combination and try another.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T190824Z">
-        <seg>Se una combinazione che si prova è già assegnata, verrà visualizzato un messaggio in tal senso nella finestra di dialogo, e si può cancellare la combinazione e provare con un altra.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135444Z">
+        <seg>Se una combinazione che si prova è già assegnata, verrà visualizzato un messaggio relativo al comando nella finestra di dialogo, ed è possibile eliminare la combinazione e provarne un'altra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46985,8 +46985,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Shift+Cursor Left (this moves the end of the selection one character to the left so that it no longer includes the paragraph mark)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T192935Z">
-        <seg>MAIUSC+cursore sinistra (sposta la fine della selezione a sinistra di in carattere, così da escludere il segno di paragrafo)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T135649Z">
+        <seg>Maiusc+cursore sinistra (sposta la fine della selezione a sinistra di un carattere, in modo da escludere il segno di paragrafo)</seg>
       </tuv>
     </tu>
     <tu>
