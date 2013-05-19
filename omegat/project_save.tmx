@@ -47001,8 +47001,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Several of the bilingual file formats can be handled by OmegaT, and not necessarily with great effort.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183910Z">
-        <seg>Molti dei formati di file bilingue possono essere gestiti da OmegaT e non necessariamente con grande sforzo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123927Z">
+        <seg>Molti dei formati di file bilingue possono essere gestiti da OmegaT e senza grande sforzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52130,8 +52130,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The easiest way for a customers to ensure that these two conditions are met is for them to pretranslate the text themselves before passing it to the translator (thereby defining how it is segmented), and to create the translation memory in the CAT tool of their choice after receiving the translated intermediate bilingual file from the translator (thereby ensuring that the formatting information contained within the translation memory will be compatible with future projects).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T071653Z">
-        <seg>Il modo più semplice per un clienti di garantire che queste due condizioni siano soddisfatte è di pre-tradurre il loro stesso testo prima di passarlo al traduttore (definendo pertanto come esso è segmentato) e di creare la memoria di traduzione nel formato dello strumento CAT di loro scelta, dopo aver ricevuto il file bilingue intermedio tradotto (garantendo così che le informazioni di formattazione contenute all'interno della memoria di traduzione saranno compatibili con i progetti futuri).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123901Z">
+        <seg>Il modo più semplice per un cliente di garantire che queste due condizioni siano soddisfatte è di pre-tradurre da sé il testo prima di passarlo al traduttore (definendo pertanto la sua segmentazione), e di creare la memoria di traduzione nel formato dello strumento CAT di propria scelta dopo aver ricevuto dal traduttore il file bilingue intermedio tradotto (garantendo così che le informazioni di formattazione contenute all'interno della memoria di traduzione siano compatibili con i progetti futuri).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64531,14 +64531,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>XLIFF</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122413Z">
-        <seg>XLIFF</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T151737Z">
@@ -64565,8 +64557,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>XLIFF is the industry-standard bilingual file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T071846Z">
-        <seg>XLIFF è il formato bilingue standard di settore.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123951Z">
+        <seg>XLIFF è il formato di file bilingue standard di settore.</seg>
       </tuv>
     </tu>
     <tu>
