@@ -53379,8 +53379,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110218Z">
-        <seg>Il nuovo formato può servire anche come un modo utile di gestire i  formati preesistenti .doc, .xls e .ppt, dal momento che possono essere convertiti ai loro corrispettivi di MS Office 2007, tradotti in OmegaT e quindi riconvertite ancora nel vecchio formato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131013Z">
+        <seg>Il nuovo formato può servire anche essere utile per gestire i vecchi formati .doc, .xls e .ppt, dato che possono essere convertiti nei loro corrispettivi di MS Office 2007, tradotti in OmegaT e riconvertiti nel vecchio formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57880,8 +57880,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110322Z">
-        <seg>Questa procedura è quindi alternativa per i traduttori che preferirebbero non utilizzare OpenOffice.org per questa conversione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131045Z">
+        <seg>Questa procedura è quindi alternativa per i traduttori che preferiscono non utilizzare LibreOffice/OpenOffice.org per questo scopo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69871,14 +69871,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.codeweavers.com</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123717Z">
-        <seg>http://www.codeweavers.com</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.codeweavers.com/products/crossover/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T104922Z">
@@ -70083,14 +70075,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215849Z">
         <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.microsoft.com/downloads/details.aspx?familyid=941b3470-3ae9-4aee-8f43-c6bb74cd1466&amp;display</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123715Z">
-        <seg>http://www.microsoft.com/downloads/details.aspx?familyid=941b3470-3ae9-4aee-8f43-c6bb74cd1466&amp;display</seg>
       </tuv>
     </tu>
     <tu>
