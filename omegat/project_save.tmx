@@ -28180,8 +28180,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075217Z">
-        <seg>Se le modifiche del correttore si dovranno conservare in un deposito per memorie di traduzione mantenuto da parte del cliente, le modifiche devono essere fatte &lt;i0&gt;prima&lt;/i0&gt; che vengano creati i documenti finali.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123513Z">
+        <seg>Se le correzioni del revisore si dovranno conservare in un deposito per memorie di traduzione mantenuto dal cliente, esse devono essere fatte &lt;i0&gt;prima&lt;/i0&gt; di creare i documenti finali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30703,8 +30703,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In order for this process to be as automatic as possible, two conditions must in particular be met: firstly, the translation memory must contain formatting information (see above); and secondly, the segmentation rules applied to the text must be the same as those applied when the translation memory (or part of it) was produced.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T070749Z">
-        <seg>Affinché questo processo possa essere automatizzato al meglio devono essere soddisfatte due condizioni in particolare: in primo luogo, la memoria di traduzione deve contenere informazioni di formattazione (vedi sopra); e in secondo luogo, le regole di segmentazione applicate al testo devono essere identiche a quelle applicate quando la memoria di traduzione (o parte di essa) è stata prodotta.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123701Z">
+        <seg>Affinché questo processo possa essere automatizzato al meglio devono essere soddisfatte due condizioni, in particolare: in primo luogo, la memoria di traduzione deve contenere informazioni di formattazione (vedere sopra); in secondo luogo, le regole di segmentazione applicate al testo devono essere identiche a quelle applicate quando la memoria di traduzione (o parte di essa) è stata prodotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56740,8 +56740,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This can be done either within the CAT tool concerned, or in some cases in an external bilingual file format which the tool is capable of reading.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075412Z">
-        <seg>Questo può essere fatto all'interno dell'applicazione CAT in questione, o in alcuni casi in un formato di file esterno bilingue che l'applicazione è in grado di leggere.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123554Z">
+        <seg>Questo si può fare o all'interno dell'applicazione CAT in questione, o in alcuni casi in un formato di file esterno bilingue che l'applicazione è in grado di gestire.</seg>
       </tuv>
     </tu>
     <tu>
