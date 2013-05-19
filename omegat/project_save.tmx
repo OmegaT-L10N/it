@@ -4883,6 +4883,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; projects can have translation memory files - i.e. files with the extension tmx - in five different places:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T103959Z">
+        <seg>I progetti &lt;a0&gt;OmegaT&lt;/a0&gt; possono possedere file di memoria di traduzione (ossia file con estensione tmx) in cinque posizioni differenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; projects can have translation memory files - i.e. files with the extension tmx - in four different places:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T092358Z">
@@ -6966,6 +6974,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
         <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target directories (Source = source/order1, target = target/order1 etc).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T202923Z">
+        <seg>&lt;e0&gt;diversi progetti sullo stesso soggetto: &lt;/e0&gt;mantenere la struttura del progetto e modificare le cartelle di origine e di destinazione (Origine = source/ordine1, destinazione = target/ordine1, e così via).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target folders (Source = source/order1, target = target/order1 etc).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T104030Z">
         <seg>&lt;e0&gt;diversi progetti sullo stesso soggetto: &lt;/e0&gt;mantenere la struttura del progetto e modificare le cartelle di origine e di destinazione (Origine = source/ordine1, destinazione = target/ordine1, e così via).</seg>
       </tuv>
     </tu>
@@ -29406,6 +29422,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T163635Z">
         <seg>Se si è già tradotta un'ampia porzione di testo e ci si accorge che il codice della lingua di destinazione non corrisponde a quello della lingua del correttore ortografico (poiché è stata specificata pt_BR come lingua, per esempio, ma non è presente alcun dizionario pt_BR), basta copiare e rinominare i due file corrispondenti (per esempio, da &lt;e0&gt;pt_PT.aff&lt;/e0&gt; e &lt;e1&gt;pt_PT.dic&lt;/e1&gt; a &lt;e2&gt;pt._BR.aff&lt;/e2&gt; e &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T103924Z">
+        <seg>Se si è già tradotta un'ampia porzione di testo e ci si accorge che il codice della lingua di destinazione non corrisponde a quello della lingua del correttore ortografico (poiché è stata specificata pt_BR come lingua, per esempio, ma non è presente alcun dizionario pt_BR), basta copiare e rinominare i due file corrispondenti (per esempio, da &lt;e0&gt;pt_PT.aff&lt;/e0&gt; e &lt;e1&gt;pt_PT.dic&lt;/e1&gt; a &lt;e2&gt;pt_BR.aff&lt;/e2&gt; e &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
