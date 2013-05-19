@@ -37256,8 +37256,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T170928Z">
-        <seg>Si noti che anche dopo che le impostazioni di Word sono state modificate in modo che esso non inserisca più codici "fastidiosi", ad esempio per la sillabazione automatica, tali codici possono essere rimanere nel file e non sono rimossi dal cambiamento della configurazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132448Z">
+        <seg>Si noti che anche dopo che le impostazioni di Word sono state modificate in modo che esso non inserisca più codici di "disturbo", ad esempio per la sillabazione automatica, tali codici possono essere ancora presenti nel file e non essere stati rimossi dalla modifica della configurazione.</seg>
       </tuv>
     </tu>
     <tu>
