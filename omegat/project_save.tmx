@@ -15913,8 +15913,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Be careful to choose a font that contains both the necessary Asian and "normal" characters, such as MS Mincho, but without the "[text body]" style suffix.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T170828Z">
-        <seg>Fare attenzione a scegliere un tipo di carattere che contiene ambedue i caratteri necessari, sia quelli asiatici che i  "normali", come ad esempio "MS Mincho", ma senza il suffisso di stile "[corpo del testo]".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132244Z">
+        <seg>Fare attenzione a scegliere un tipo di carattere che contiene ambedue i caratteri necessari asiatici, sia i  "normali", come "MS Mincho", ma senza il suffisso di stile "[corpo del testo]".</seg>
       </tuv>
     </tu>
     <tu>
@@ -30006,8 +30006,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If your text contains both Asian and "normal" (e.g. Latin) characters, use Ctrl+A to select the entire text, then select a single font for it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T170412Z">
-        <seg>Se il testo contiene sia caratteri "normali" (ad esempio latini) che asiatici, utilizzare Ctrl+A per selezionare tutto il testo, quindi impostare un solo tipo di carattere per tutto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132147Z">
+        <seg>Se il testo contiene sia caratteri "normali" (ad esempio latini), sia asiatici, utilizzare Ctrl+A per selezionare tutto il testo, quindi impostare un solo tipo di carattere per tutto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57992,8 +57992,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This tag apparently cannot be removed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143749Z">
-        <seg>Questo tag sembra non possa essere rimosso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132324Z">
+        <seg>Questo tag sembra che non possa essere rimosso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64141,8 +64141,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T143710Z">
-        <seg>Word 2007 inserisce un tag alle interruzioni di pagina, anche per le interruzioni di pagina automatiche.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132311Z">
+        <seg>Word 2007 inserisce un tag alle interruzioni di pagina, anche per quelle automatiche.</seg>
       </tuv>
     </tu>
     <tu>
