@@ -30791,8 +30791,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T211957Z">
-        <seg>In altre parole, se un utente di OmegaT rileva una corrispondenza del 100% in un file TMX di livello 2 di OmegaT, può essere accettata senza la necessità di adattamento, ma lo stesso non sarebbe vero per un file TMX livello 2 prodotto da uno strumento CAT diverso (o viceversa).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121102Z">
+        <seg>In altre parole, se un utente di OmegaT rileva una corrispondenza del 100% in un file TMX di livello 2 di OmegaT, essa può essere accettata senza la necessità di adattamento, ma lo stesso non sarebbe vero per un file TMX livello 2 prodotto da uno strumento CAT diverso (o viceversa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34345,8 +34345,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T211606Z">
-        <seg>I file TMX livello 2 contengono informazioni di formattazione, ma questi file sono in genere compatibili esclusivamente quando viene utilizzato lo stesso strumento CAT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121034Z">
+        <seg>I file TMX livello 2 contengono informazioni di formattazione, ma essi sono in genere compatibili esclusivamente quando viene utilizzato lo stesso strumento CAT.</seg>
       </tuv>
     </tu>
     <tu>
