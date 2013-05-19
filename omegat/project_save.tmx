@@ -12699,6 +12699,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new version of the master TM is then created, either to be put in team members' &lt;e3&gt;tm/auto&lt;/e3&gt;subfolders or to replace their &lt;f4&gt;project_save.tmx&lt;/f4&gt; files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T104051Z">
+        <seg>Viene poi creata una nuova versione principale della memoria, o inserendo nelle sottocartelle &lt;e3&gt;tm/auto&lt;/e3&gt; dei membri della squadra i file &lt;f4&gt;project_save.tmx&lt;/f4&gt;, oppure sostituendoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130216T164455Z">
@@ -15512,6 +15520,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
         <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subdirectory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130409T204812Z">
+        <seg>Quando si traducono i file, &lt;a0&gt;OmegaT&lt;/a0&gt; memorizza continuamente il lavoro nel file &lt;f1&gt;project_save.tmx&lt;/f1&gt;, all'interno della sottocartella /&lt;f2&gt;omegat&lt;/f2&gt; del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T104441Z">
         <seg>Quando si traducono i file, &lt;a0&gt;OmegaT&lt;/a0&gt; memorizza continuamente il lavoro nel file &lt;f1&gt;project_save.tmx&lt;/f1&gt;, all'interno della sottocartella /&lt;f2&gt;omegat&lt;/f2&gt; del progetto.</seg>
       </tuv>
     </tu>
@@ -37616,6 +37632,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T104652Z">
+        <seg>Si noti che è possibile solo una TMX per una coppia linguistica specifica, perciò, nel caso in cui fossero presenti più memorie, sarà necessario unirle tutte all'interno del file XX_YY.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130406T100952Z">
@@ -55410,6 +55434,14 @@ an access to the hard drive of the computer.</seg>
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translaiton.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T175539Z">
+        <seg>Alla traduttrice si presenteranno traduzioni in Inglese per i segmenti di partenza in Olandese, che saranno usate per creare la traduzione in Cinese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T104522Z">
         <seg>Alla traduttrice si presenteranno traduzioni in Inglese per i segmenti di partenza in Olandese, che saranno usate per creare la traduzione in Cinese.</seg>
       </tuv>
     </tu>
