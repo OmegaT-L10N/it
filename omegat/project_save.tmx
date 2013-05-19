@@ -15166,8 +15166,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As of December 2011, Google has required payment from users for use of this service.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194839Z">
-        <seg>A partire da dicembre 2011, Google ha richiesto il pagamento da parte degli utenti per l'utilizzo di questo servizio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212622Z">
+        <seg>Dal dicembre 2011, Google ha richiesto il pagamento da parte degli utenti per l'utilizzo di questo servizio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20453,14 +20453,6 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123805Z">
-        <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Diptik</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102911Z">
@@ -22161,38 +22153,6 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095035Z">
         <seg>Riscontrata sequenza \u non valida</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>End Sub</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123838Z">
-        <seg>End Sub</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>End With&lt;br11/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123819Z">
-        <seg>End With&lt;br11/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>End With&lt;br19/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123823Z">
-        <seg>End With&lt;br19/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>End With&lt;br27/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123829Z">
-        <seg>End With&lt;br27/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46655,30 +46615,6 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Set sExt = ActiveDocument.Styles.Add(Name:="tw4winExternal", _&lt;br20/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123824Z">
-        <seg>Set sExt = ActiveDocument.Styles.Add(Name:="tw4winExternal", _&lt;br20/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Set sInt = ActiveDocument.Styles.Add(Name:="tw4winInternal", _&lt;br12/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123820Z">
-        <seg>Set sInt = ActiveDocument.Styles.Add(Name:="tw4winInternal", _&lt;br12/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Set sMark = ActiveDocument.Styles.Add(Name:="tw4winMark", _&lt;br3/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123806Z">
-        <seg>Set sMark = ActiveDocument.Styles.Add(Name:="tw4winMark", _&lt;br3/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130401T190637Z">
@@ -56932,8 +56868,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This format may be a practical interchange format for users of other CAT tools, particularly Trados and Wordfast Classic.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195506Z">
-        <seg>Questo può essere un pratico formato di interscambio per gli utenti di altre applicazioni CAT, particolarmente Trados e Wordfast Classic.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212416Z">
+        <seg>Questo può essere un pratico formato di interscambio per gli utenti di altre applicazioni CAT, in particolare Trados e Wordfast Classic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59164,8 +59100,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To produce a bilingual OpenOffice.Org file containing the Trados segment delimiters, close the OmegaT project, then run the following AutoIt script (requires Windows) on the project's project_save.tmx file:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195923Z">
-        <seg>Per produrre un file di OpenOffice.Org bilingue contenente i delimitatori di segmento di Trados, chiudere il progetto OmegaT, quindi eseguire il seguente script AutoIt (richiede Windows) sul file del progetto project_save.tmx:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212512Z">
+        <seg>Per produrre un file di LibreOffice/OpenOffice.Org bilingue contenente i delimitatori di segmento di Trados, chiudere il progetto OmegaT, quindi eseguire il seguente script AutoIt (richiede Windows) sul file del progetto project_save.tmx:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63843,30 +63779,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>With sExt.Font&lt;br23/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123826Z">
-        <seg>With sExt.Font&lt;br23/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>With sInt.Font&lt;br15/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123821Z">
-        <seg>With sInt.Font&lt;br15/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>With sMark.Font&lt;br5/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123808Z">
-        <seg>With sMark.Font&lt;br5/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>With the "aggregate tags" function enabled, this is not possible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131451Z">
@@ -65770,8 +65682,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You must still handle tags properly when producing and editing your translation, but you can view it in a separate window without the clutter of tags ("tag soup").</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195215Z">
-        <seg>È ancora necessario gestire i tag correttamente quando si produce e si modifica la traduzione, ma è possibile visualizzare in una finestra separata senza l'ingombro dei tag ("zuppa di tag").</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212332Z">
+        <seg>Si dovrà ancora gestire i tag correttamente durante la produzione e la modifica della traduzione, ma è possibile visualizzarla in una finestra separata senza l'ingombro dei tag ("zuppa di tag").</seg>
       </tuv>
     </tu>
     <tu>
@@ -69879,14 +69791,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.leuce.com/tempfile/omtautoit/uncleanifyTMX.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123758Z">
-        <seg>http://www.leuce.com/tempfile/omtautoit/uncleanifyTMX.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.libreoffice.org/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121912Z">
@@ -72161,22 +72065,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>sExt.LanguageID = wdNoProofing&lt;br22/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123825Z">
-        <seg>sExt.LanguageID = wdNoProofing&lt;br22/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>sInt.LanguageID = wdNoProofing&lt;br14/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123821Z">
-        <seg>sInt.LanguageID = wdNoProofing&lt;br14/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>save file as dialog for the glossary</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T224643Z">
@@ -73617,94 +73505,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>  .ColorIndex = wdGray50&lt;br26/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123828Z">
-        <seg>  .ColorIndex = wdGray50&lt;br26/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .ColorIndex = wdRed&lt;br18/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123823Z">
-        <seg>  .ColorIndex = wdRed&lt;br18/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .ColorIndex = wdViolet&lt;br10/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123819Z">
-        <seg>  .ColorIndex = wdViolet&lt;br10/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .Hidden = True&lt;br8/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123817Z">
-        <seg>  .Hidden = True&lt;br8/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .Name = "Courier"&lt;br16/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123822Z">
-        <seg>  .Name = "Courier"&lt;br16/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .Name = "Courier"&lt;br24/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123827Z">
-        <seg>  .Name = "Courier"&lt;br24/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .Name = "Courier"&lt;br6/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123809Z">
-        <seg>  .Name = "Courier"&lt;br6/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .Size = 11&lt;br17/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123822Z">
-        <seg>  .Size = 11&lt;br17/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .Size = 11&lt;br25/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123827Z">
-        <seg>  .Size = 11&lt;br25/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .Size = 11&lt;br7/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123809Z">
-        <seg>  .Size = 11&lt;br7/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>  .Subscript = True&lt;br9/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123818Z">
-        <seg>  .Subscript = True&lt;br9/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131129Z">
@@ -73757,30 +73557,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T165732Z">
         <seg>Si può &lt;a5&gt;selezionare&lt;/a5&gt; un'altra corrispondenza tramite la combinazione di tasti &lt;c6&gt;Ctrl+2&lt;/c6&gt;, &lt;c7&gt;3&lt;/c7&gt;, &lt;c8&gt;4&lt;/c8&gt; o &lt;c9&gt;5.&lt;/c9&gt; Se non dovesse esistere una corrispondenza #5, naturalmente la combinazione &lt;c10&gt;Ctrl+5&lt;/c10&gt; non sortirebbe alcun effetto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>    Type:=wdStyleTypeCharacter)&lt;br13/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123820Z">
-        <seg>    Type:=wdStyleTypeCharacter)&lt;br13/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>    Type:=wdStyleTypeCharacter)&lt;br21/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123825Z">
-        <seg>    Type:=wdStyleTypeCharacter)&lt;br21/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123806Z">
-        <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
