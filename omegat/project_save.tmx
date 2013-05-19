@@ -3579,14 +3579,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>./dl_overview.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122314Z">
-        <seg>./dl_overview.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>./docx.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122347Z">
@@ -4653,16 +4645,16 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;Download Overview&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190721Z">
-        <seg>&lt;a0&gt;Informazioni generali sul download&lt;/a0&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110357Z">
+        <seg>&lt;a0&gt;Informazioni generali sullo scaricamento&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Download Selector&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190551Z">
-        <seg>&lt;a0&gt;Selettore di download&lt;/a0&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110341Z">
+        <seg>&lt;a0&gt;Selettore di scaricamento&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14206,8 +14198,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Alternatively, if you already know which version you wish to download, click on the link to the Download Overview.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T162628Z">
-        <seg>In alternativa, se si sa già quale versione si desidera scaricare, cliccare su Informazioni generali sul download.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110325Z">
+        <seg>In alternativa, se si sa già quale versione si desidera scaricare, fare clic su Informazioni generali sullo scaricamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26335,8 +26327,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Guides you step-by-step to selecting a suitable OmegaT version for download.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190700Z">
-        <seg>Guida passo-passo a scegliere una versione adatta di OmegaT per il download.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110350Z">
+        <seg>Guida passo-passo a scegliere una versione adatta di OmegaT per lo scaricamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41580,8 +41572,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Overview of OmegaT versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T190814Z">
-        <seg>Informazioni generali sulle versioni di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110420Z">
+        <seg>Panoramica delle versioni di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59098,8 +59090,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T210210Z">
-        <seg>Per trovare la versione più adatta per voi, cliccare qui sotto su Selettore di download.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110335Z">
+        <seg>Per trovare la versione più adatta per voi, seguire il collegamento sottostante al Selettore di scaricamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68287,14 +68279,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094753Z">
         <seg>fare doppio clic sul collegamento.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>download_selector/selector.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122306Z">
-        <seg>download_selector/selector.php</seg>
       </tuv>
     </tu>
     <tu>
