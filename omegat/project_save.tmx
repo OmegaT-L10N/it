@@ -38560,8 +38560,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214524Z">
-        <seg>OmegaT non può importare o leggere i file glossario in formati binari proprietari, quali Trados Multiterm.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122703Z">
+        <seg>OmegaT non può importare o leggere i file di glossario in formati binari proprietari, quali Trados Multiterm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38992,8 +38992,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is also capable of reading glossaries in TBX, the industry-standard format for glossary files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183802Z">
-        <seg>OmegaT è anche in grado di leggere i glossari in TBX, il formato standard di settore per i file Glossario.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122653Z">
+        <seg>OmegaT è anche in grado di leggere i glossari in TBX, il formato standard di settore per i file di glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39954,8 +39954,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214159Z">
-        <seg>I file Glossario di OmegaT sono semplici file di testo semplice nel formato:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122503Z">
+        <seg>I file di glossario di OmegaT sono file di solo testo nel formato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47649,8 +47649,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214412Z">
-        <seg>Alcuni altri strumenti CAT sono in grado di importare ed esportare file glossario in questo formato, o in un formato di testo simile che può essere prodotto da esso molto facilmente (ad esempio da un'operazione di ricerca &amp; sostituzione in Microsoft Word).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122641Z">
+        <seg>Alcuni altri strumenti CAT sono in grado di importare ed esportare file glossario in questo formato, o in un formato di testo simile, che può essere prodotto da esso molto facilmente (ad esempio, da un'operazione di ricerca e sostituzione in Microsoft Word).</seg>
       </tuv>
     </tu>
     <tu>
@@ -72771,8 +72771,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T214249Z">
-        <seg>termine di origine &lt;tab&gt;termine di destinazione &lt;tab&gt; informazioni aggiuntive</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122537Z">
+        <seg>termine di origine &lt;tabulazione&gt; termine di destinazione &lt;tabulazione&gt; informazioni aggiuntive</seg>
       </tuv>
     </tu>
     <tu>
