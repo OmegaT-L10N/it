@@ -3755,14 +3755,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>1.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122318Z">
-        <seg>1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>1.5 or higher to be installed on your system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093141Z">
@@ -3881,14 +3873,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>2.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122320Z">
-        <seg>2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>2000 and XP: Documents and Settings\&lt;User Name&gt;\Application Data\OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T193354Z">
@@ -3941,14 +3925,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093953Z">
         <seg>3) Inviare una segnalazione di errore all'indirizzo http://sourceforge.net/projects/omegat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122324Z">
-        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4105,14 +4081,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>4.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122327Z">
-        <seg>4.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>4.1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T124435Z">
@@ -4157,14 +4125,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122455Z">
         <seg>4b.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>5.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122328Z">
-        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13493,8 +13453,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;s0&gt;target&lt;/s0&gt; column of the original file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T152458Z">
-        <seg>Dopo aver completato la traduzione e la creazione dei documenti tradotti, copiare la colonna tradotta del file tradotto dentro la colonna &lt;s0&gt; destinazione &lt;/s0&gt; del file originale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110806Z">
+        <seg>Dopo aver completato la traduzione e creato i documenti tradotti, copiare la colonna tradotta del file tradotto dentro la colonna &lt;s0&gt; destinazione &lt;/s0&gt; del file originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16057,8 +16017,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T152419Z">
-        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono i tag propri di OmegaT (comunque, la funzionalità tag inline di OmegaT, come pure la funzione di convalida tag, non è disponibile in questo caso).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110747Z">
+        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono i tag propri di OmegaT (la funzionalità tag incorporati di OmegaT, tuttavia, come pure la funzione di convalida dei tag, non è disponibile in questo caso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18821,8 +18781,8 @@ Submenu.</seg>
       <tuv lang="EN">
         <seg>Convert the file from RTF to OpenOffice.org format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132534Z">
-        <seg>Convertire il file dal formato RTF in formato OpenOffice.org.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110611Z">
+        <seg>Convertire il file dal formato RTF in formato OpenDocument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35335,8 +35295,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Make a copy of the External View file, and delete from it the content of all columns except the source-text column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132656Z">
-        <seg>Creare una copia del file Vista esterna, ed eliminare da esso il contenuto di tutte le colonne tranne la colonna del testo di origine.
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110624Z">
+        <seg>Creare una copia del file Vista esterna ed eliminare da esso il contenuto di tutte le colonne tranne la colonna del testo di origine.
 </seg>
       </tuv>
     </tu>
@@ -50564,8 +50524,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T151842Z">
-        <seg>Il formato di file "Vista esterna" di Déjà Vu è una caratteristica di Déjà Vu DVX..</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110532Z">
+        <seg>Il formato di file "Vista esterna" di Déjà Vu è una caratteristica di Déjà Vu DVX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69763,14 +69723,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://simmer-lossner.blogspot.com/2008/11/dj-vu-x-as-editing-tool-for-trados-jobs.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122331Z">
-        <seg>http://simmer-lossner.blogspot.com/2008/11/dj-vu-x-as-editing-tool-for-trados-jobs.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://sourceforge.net/projects/aligner</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T144356Z">
@@ -70147,14 +70099,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220011Z">
         <seg>http://www.apertium.org/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.atril.com/docs/DVX/InstructionsExternalView.pdf</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122329Z">
-        <seg>http://www.atril.com/docs/DVX/InstructionsExternalView.pdf</seg>
       </tuv>
     </tu>
     <tu>
