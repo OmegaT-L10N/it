@@ -12891,6 +12891,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T094209Z">
+        <seg>Una frase può assomigliare a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T181234Z">
@@ -38076,6 +38084,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T203421Z">
         <seg>Office Open XML può essere convertito direttamente in formato di  Open Document e indietro, attraverso il convertitore ODF, disponibile &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T094135Z">
+        <seg>Spesso i documenti possiedono pure tag che non si riferiscono alla formattazione, ma che sono altrettanto importanti nei file di partenza (e in quelli di arrivo).</seg>
       </tuv>
     </tu>
     <tu>
