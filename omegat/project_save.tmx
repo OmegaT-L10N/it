@@ -3283,26 +3283,10 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../config/howto.css</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122316Z">
-        <seg>../../config/howto.css</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../../config/howto_wide.css</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142102Z">
         <seg>../../config/howto_wide.css</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../../images/css.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122336Z">
-        <seg>../../images/css.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -3359,14 +3343,6 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125500Z">
         <seg>../../images/preview_ss.png</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../../images/xhtml.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122335Z">
-        <seg>../../images/xhtml.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -18765,8 +18741,8 @@ Submenu.</seg>
       <tuv lang="EN">
         <seg>Conversely, where products are clearly not directly compatible, it is often possible to find procedures by which they can work together.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T201724Z">
-        <seg>Al contrario, quando i prodotti non siano chiaramente direttamente compatibili, è spesso possibile trovare procedure che possono consentire di lavorare insieme.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111101Z">
+        <seg>Al contrario, laddove i prodotti non siano chiaramente direttamente compatibili, è spesso possibile trovare procedure che possono consentire di lavorare assieme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19033,14 +19009,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124847Z">
         <seg>Copyright Marc Prior 2008-2011</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Copyright Marc Prior 2009-2011</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122333Z">
-        <seg>Copyright Marc Prior 2009-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -38646,14 +38614,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT compatibility HowTo</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122340Z">
-        <seg>OmegaT compatibility HowTo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT creates its tags before sentences segmenting is applied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T190058Z">
@@ -56611,8 +56571,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This HOWTO aims to provide information in this area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T201322Z">
-        <seg>Questo GUIDA mira a fornire informazioni in questo settore.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110919Z">
+        <seg>Questa GUIDA mira a fornire informazioni in questo settore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63747,8 +63707,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183147Z">
-        <seg>Il fornitore di un prodotto software che affermi che il prodotto è compatibile con un altro pezzo di software, questa compatibilità è raramente al 100%.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111032Z">
+        <seg>Nel caso in cui il fornitore di un prodotto software che affermi che esso è compatibile con un altro pezzo di software, questa compatibilità è raramente al 100%.</seg>
       </tuv>
     </tu>
     <tu>
