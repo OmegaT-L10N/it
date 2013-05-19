@@ -32850,6 +32850,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T102155Z">
+        <seg>È spesso utile ricercare parole e frasi all'interno del testo di partenza e della traduzione: è possibile aprire la finestra di &lt;g1&gt;ricerca testo&lt;/g1&gt; tramite la combinazione &lt;k0&gt;Ctrl+F&lt;/k0&gt;, in qualsiasi momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is particularly aimed at users who are new to Linux.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142431Z">
@@ -64770,6 +64778,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T105002Z">
         <seg>È possibile aggiungere OmegaT al proprio pannello (barra in cima allo schermo) nel modo seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T102054Z">
+        <seg>È possibile aggiungere un nuovo termine al glossario premendo la combinazione &lt;k0&gt;Ctrl+Maiusc+G&lt;/k0&gt; o copiando i glossari esistenti nella sottocartella &lt;f1&gt;/glossary/&lt;/f1&gt; contenuta nella cartella del proprio progetto: OmegaT vi cercherà automaticamente le parole.</seg>
       </tuv>
     </tu>
     <tu>
