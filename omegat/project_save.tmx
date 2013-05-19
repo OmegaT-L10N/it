@@ -32890,8 +32890,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152838Z">
-        <seg>Può essere necessario fare questo per ogni documento, nel qual caso la procedura in Word 2007 è: scegliere la scheda Layout di pagina; nel gruppo di Imposta pagina, fare clic su Sillabazione; quindi fare clic su nessuno.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132025Z">
+        <seg>Può essere necessario fare questo per ciascun documento, nel qual caso la procedura in Word 2007 è: scegliere la scheda Layout di pagina; nel gruppo di Imposta pagina, fare clic su Sillabazione; quindi fare clic su Nessuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39384,8 +39384,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111503Z">
-        <seg>OmegaT condivide questo problema con altri strumenti CAT che gestiscono il formato .docx, e le loro soluzioni sono simili o uguali.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131837Z">
+        <seg>OmegaT condivide questo problema con altri strumenti CAT che gestiscono il formato .docx e le loro soluzioni sono simili o uguali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40450,8 +40450,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>One solution is to switch off automatic spelling checking in Word.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111822Z">
-        <seg>In tal caso basta togliere in Word il controllo automatico dell'ortografia.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131948Z">
+        <seg>In tal caso basta disattivare in Word il controllo automatico dell'ortografia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61374,8 +61374,8 @@ alla riga {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Use Search and Replace to remove double spaces (replacing them with a single space).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152846Z">
-        <seg>Utilizzare cerca e Sostituisci per rimuovere gli spazi doppi (sostituendoli con un singolo spazio).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132127Z">
+        <seg>Utilizzare la funzione di ricerca e sostituzione per rimuovere gli spazi doppi (sostituendoli con un singolo spazio).</seg>
       </tuv>
     </tu>
     <tu>
