@@ -14294,8 +14294,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>An &lt;a0&gt;OmegaT plugin&lt;/a0&gt; is now available by means of which this format can be handled in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T065249Z">
-        <seg>Un &lt;a0&gt;plugin di OmegaT&lt;/a0&gt; è ora disponibile per gestire questo formato in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125123Z">
+        <seg>Ora è disponibile un &lt;a0&gt;plugin di OmegaT&lt;/a0&gt; per gestire questo formato in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32746,8 +32746,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is not supported by OmegaT at present, and according to Wordfast representatives, it is likely to be superseded by XLIFF in the medium term.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T065002Z">
-        <seg>Non è supportato da OmegaT attualmente, e secondo i rappresentanti di Wordfast, nel medio termine rischia di essere superato dal formato XLIFF.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125220Z">
+        <seg>Al momento non è supportato da OmegaT e, secondo i rappresentanti di Wordfast, nel medio periodo rischia di essere superato dal formato XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57068,8 +57068,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This file format enables OmegaT users to deliver bilingual files to users of Déjà Vu DVX, who are then able to edit them further or to incorporate them into automated workflows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T064609Z">
-        <seg>Questo formato di file consente agli utenti di OmegaT di consegnare i file bilingui per gli utenti di DVX Déjà Vu, che sono quindi in grado di modificarli ulteriormente o di incorporarli in flussi di lavoro automatizzati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125300Z">
+        <seg>Questo formato di file consente agli utenti di OmegaT di consegnare i file bilingui agli utenti di DVX Déjà Vu, che sono quindi in grado di modificarli ulteriormente o d'incorporarli in flussi di lavoro automatizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60050,8 +60050,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Trados TTX format is the counterpart to the "uncleaned RTF" format for Trados Tag Editor, which unlike Trados Workbench, does not work in direct combination with MS Word.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T065139Z">
-        <seg>Formato Trados TTX è la controparte per il formato "RTF non pulito" per Trados Tag Editor, che a differenza di Trados Workbench, non funziona in combinazione diretta con MS Word.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125041Z">
+        <seg>Il formato Trados TTX è la controparte del formato "RTF non ripulito" per Trados Tag Editor, che a differenza di Trados Workbench, non funziona in combinazione diretta con MS Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64271,14 +64271,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175429Z">
         <seg>Convertitore di file TMX  Wordfast</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Wordfast TXML</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122428Z">
-        <seg>Wordfast TXML</seg>
       </tuv>
     </tu>
     <tu>
@@ -70259,14 +70251,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093956Z">
         <seg>http://www.omegat.org/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.omegat.org/en/howtos/compatibility_deja_vu.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122429Z">
-        <seg>http://www.omegat.org/en/howtos/compatibility_deja_vu.html</seg>
       </tuv>
     </tu>
     <tu>
