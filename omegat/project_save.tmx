@@ -18404,16 +18404,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compiling OmegaT from the source code</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075503Z">
-        <seg>OmegaT compilazione dal codice sorgente</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125335Z">
+        <seg>Compilare OmegaT dal codice sorgente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Compiling OmegaT is relevant for developers who wish to make modifications of their own to its code.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075949Z">
-        <seg>La compilazione di OmegaT è rilevante per gli sviluppatori che desiderano apportare proprie modifiche al codice.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125525Z">
+        <seg>La compilazione di OmegaT è importante per gli sviluppatori che desiderano apportare proprie modifiche al codice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39142,8 +39142,8 @@ la cartella home dell'utente.</seg>
       <tuv lang="EN">
         <seg>OmegaT is supplied ready-compiled for a number of platforms, including a cross-platform version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193726Z">
-        <seg>OmegaT è fornito pronto-compilato per un certo numero di piattaforme, tra cui una versione cross-platform.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125436Z">
+        <seg>OmegaT è fornito pronto e già compilato per diverse piattaforme, incluso una versione multi-piattaforma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62015,8 +62015,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users do not therefore need to compile OmegaT themselves.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075819Z">
-        <seg>Gli utenti pertanto non necessitano di compilare loro stessi OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T125508Z">
+        <seg>Gli utenti pertanto non devono compilare da sé OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69107,14 +69107,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://ant.apache.org</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122430Z">
-        <seg>http://ant.apache.org</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br14/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150717Z">
@@ -70307,14 +70299,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215853Z">
         <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122432Z">
-        <seg>http://www.oracle.com/technetwork/java/javase/downloads/index.html</seg>
       </tuv>
     </tu>
     <tu>
