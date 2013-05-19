@@ -30863,8 +30863,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In practice, it is therefore possible for translators to deliver translation memories to customers and vice-versa, and for the recipient to use these files for immediate or future reference; if the files are to be used within an automated workflow, however, the constraint described above applies.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212708Z">
-        <seg>In pratica, è quindi possibile per i traduttori consegnare memorie di traduzione per i clienti e viceversa e per il destinatario utilizzare questi file per riferimento immediato o futuro; se i file devono essere utilizzati all'interno di un flusso di lavoro automatizzato, tuttavia, si applica il vincolo sopra descritto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121537Z">
+        <seg>In pratica, è quindi possibile per i traduttori consegnare memorie di traduzione ai clienti e viceversa, e per il destinatario usare questi file per riferimento immediato o futuro; se i file devono essere utilizzati all'interno di un flusso di lavoro automatizzato, tuttavia, si applica il vincolo sopra descritto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39064,8 +39064,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213319Z">
-        <seg>OmegaT è generalmente attento delle condizioni e tollerante delle inosservanze di altri strumenti; dovessero insorgere problemi qui, tuttavia, si può generalmente risolverli abbastanza facilmente da una ricerca &amp; sostituzione in un editor di testo del carattere illegale nel file TMX.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121809Z">
+        <seg>OmegaT è generalmente attento delle condizioni e tollerante delle inosservanze di altri strumenti; dovessero insorgere problemi qui, tuttavia, si può generalmente risolverli abbastanza facilmente da una ricerca e sostituzione, all'interno di un editor di testo, del carattere illegale contenuto nel file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49067,8 +49067,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>TMX files are in the Unicode encoding, but may be UTF-8 or UTF-16.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213335Z">
-        <seg>I file TMX sono la codifica Unicode, ma possono essere UTF-8 o UTF-16.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121835Z">
+        <seg>I file TMX sono codificati Unicode, ma possono essere anche UTF-8 o UTF-16.</seg>
       </tuv>
     </tu>
     <tu>
