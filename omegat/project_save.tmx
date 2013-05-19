@@ -47593,8 +47593,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some CAT tools, notably TRADOS, are able to import a wide range of file formats, including desktop publishing formats, and to prepare them for translation in the tool concerned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075017Z">
-        <seg>Alcune applicazioni CAT, TRADOS in particolare, sono in grado di importare una vasta gamma di formati di file, inclusi i formati di desktop publishing, e di prepararli per la traduzione dello strumento in questione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123201Z">
+        <seg>Alcune applicazioni CAT, TRADOS in particolare, sono in grado di importare una vasta gamma di formati di file, inclusi i formati di desktop publishing, e di prepararli per la traduzione, nello strumento in questione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50076,8 +50076,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "prepared" form is typically the tool's bilingual file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T075102Z">
-        <seg>La forma "preparata" è in genere il formato bilingue dell'applicazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123219Z">
+        <seg>La forma "preparata" è in genere il formato di file bilingue dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55167,8 +55167,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The translation may for example be passed to a checker for editing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183844Z">
-        <seg>La traduzione può essere passata ad esempio a un correttore per la modifica.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123348Z">
+        <seg>La traduzione può essere passata, ad esempio, a un revisore per la correzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56419,8 +56419,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They have however become an important phenomenon in translation workflows involving CAT tools, and they often present the greatest obstacle to compatibility between OmegaT and other CAT tools (or for that matter between CAT tools in general).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T215113Z">
-        <seg>Tuttavia, essi sono diventati un fenomeno importante nei flussi di lavoro della traduzione che coinvolgono strumenti CAT e spesso rappresentano il più grande ostacolo alla compatibilità tra OmegaT e altri strumenti CAT (o per quella materia tra strumenti CAT in generale).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123107Z">
+        <seg>Tuttavia, essi sono diventati un fenomeno importante nei flussi di lavoro della traduzione che coinvolgono strumenti CAT e spesso rappresentano il più grande ostacolo alla compatibilità tra OmegaT e altri strumenti CAT (o, per tale argomento, tra strumenti CAT in generale).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64229,8 +64229,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Without preparation in this way, the original file format may be accessible to the translator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T215441Z">
-        <seg>Senza preparazione in questo modo, il formato di file originale potrebbe essere accessibile al traduttore.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T123243Z">
+        <seg>Senza questo tipo di preparazione, il formato di file originale potrebbe essere accessibile al traduttore.</seg>
       </tuv>
     </tu>
     <tu>
