@@ -18364,8 +18364,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compatibility problems may be caused by differences in the language codes employed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183655Z">
-        <seg>Problemi di compatibilità causati da differenze nei codici del linguaggio impiegati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121933Z">
+        <seg>I problemi di compatibilità possono essere causati da differenze nei codici del linguaggio impiegati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39552,8 +39552,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT supports language codes in the format "xx", "XX", "xx-YY" and "XX-YY", where xx or XX is the language, yy or YY the region.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213610Z">
-        <seg>OmegaT supporta i codici di lingua nel formato "xx", "XX", "xx-YY" e "XX-YY", dove xx o XX è la lingua, yy o YY la regione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122002Z">
+        <seg>OmegaT supporta i codici di lingua nel formato "xx", "XX", "xx-YY" e "XX-YY", dove xx o XX è la lingua, yy o YY il paese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48489,8 +48489,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183701Z">
-        <seg>Strettamente parlando, lo standard ISO per i codici di lingua richiede "xx-YY" (ad esempio: "en-GB" per l'inglese britannico); anche se questa variante è supportata da OmegaT, la convenzione di default offerta da OmegaT è "XX-YY", ad esempio "EN-GB".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122051Z">
+        <seg>Strettamente parlando, lo standard ISO per i codici di lingua richiede "xx-YY" (ad esempio: "en-GB" per l'inglese britannico); anche se questa variante è supportata da OmegaT, la convenzione predefinita offerta da OmegaT è "XX-YY", ad esempio "EN-GB".</seg>
       </tuv>
     </tu>
     <tu>
@@ -49115,8 +49115,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>TMX files produced on Windows systems may begin with a byte-order mark (BOM).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213414Z">
-        <seg>I file TMX prodotti su sistemi Windows possono iniziare con un byte-order mark (BOM).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121850Z">
+        <seg>I file TMX prodotti su sistemi Windows possono iniziare con un "byte-order mark" (BOM).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56948,8 +56948,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This differences do not generally lead to compatibility problems.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T213434Z">
-        <seg>Questa differenze non portano generalmente a problemi di compatibilità.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121910Z">
+        <seg>Questa differenze non creano generalmente problemi di compatibilità.</seg>
       </tuv>
     </tu>
     <tu>
