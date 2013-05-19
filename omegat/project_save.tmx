@@ -1570,8 +1570,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172001Z">
-        <seg>(Per istruzioni più dettagliate, consultare il manuale di istruzioni o cliccare &lt;a0&gt;qui&lt;/a0&gt;, &lt;a1&gt;qui&lt;/a1&gt; o &lt;a2&gt;qui&lt;/a2&gt;.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134805Z">
+        <seg>(Per maggiori informazioni, consultare il manuale di istruzioni o fare clic &lt;a0&gt;qui&lt;/a0&gt;, &lt;a1&gt;qui&lt;/a1&gt; o &lt;a2&gt;qui&lt;/a2&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,8 +2925,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- mark only the text up to the beginning of the formatted part, copy this text and paste it back over itself, then repeat the process on the text after the formatted part.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171805Z">
-        <seg>-evidenziare solo il testo fino all'inizio della parte formattata, copiare questo testo e incollarlo sopra se stesso, quindi ripetere il processo sul testo dopo la parte formattata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134626Z">
+        <seg>- evidenziare solo il testo fino all'inizio della parte formattata, copiarlo e incollarlo su se stesso, quindi ripetere il processo sul testo dopo la parte formattata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16386,8 +16386,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194136Z">
-        <seg>Brevi istruzioni per la creazione di macro (in MS Office 2007) sono fornite di seguito.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134729Z">
+        <seg>Brevi istruzioni per la creazione della macro (in MS Office 2007) sono fornite di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29290,8 +29290,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have not already done so, add the Developer tab to the ribbon as follows: click on the Office button.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172215Z">
-        <seg>Se non l'avete già fatto, aggiungete la scheda di sviluppo alla barra multifunzione come segue: fare clic sul pulsante Office.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134821Z">
+        <seg>Se non l'avete già fatto, aggiungere la scheda di sviluppo alla barra multifunzione come segue: fare clic sul pulsante Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40074,8 +40074,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>On the ribbon, check Show Developer tab and confirm with OK.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T172340Z">
-        <seg>Sulla barra multifunzione, controllare la scheda 'Visualizza sviluppo' e confermare con OK.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134854Z">
+        <seg>Sulla barra multifunzione, spuntare la scheda 'Visualizza sviluppo' e confermare con OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64738,8 +64738,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can automate the above procedure somewhat by creating a macro.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171950Z">
-        <seg>È possibile automatizzare un po' la procedura di cui sopra con la creazione di una macro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134706Z">
+        <seg>È in qualche modo possibile automatizzare la procedura descritta sopra con la creazione di una macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69315,22 +69315,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://office.microsoft.com/en-us/word-help/record-or-run-a-macro-HA010099769.aspx</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123723Z">
-        <seg>http://office.microsoft.com/en-us/word-help/record-or-run-a-macro-HA010099769.aspx</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://oit.nd.edu/training/documentation/documents/macro_qrg.pdf</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123734Z">
-        <seg>http://oit.nd.edu/training/documentation/documents/macro_qrg.pdf</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143716Z">
@@ -69899,14 +69883,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102912Z">
         <seg>http://www.doublet.jp/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.dummies.com/how-to/content/how-to-create-a-word-2007-macro.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T123732Z">
-        <seg>http://www.dummies.com/how-to/content/how-to-create-a-word-2007-macro.html</seg>
       </tuv>
     </tu>
     <tu>
