@@ -4789,8 +4789,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a1&gt;Specific information on running Iceni Infix on Crossover Linux or Crossover Macintosh&lt;/a1&gt; is also available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133155Z">
-        <seg>Sono inoltre disponibili &lt;a1&gt;Informazioni specifiche sull'esecuzione di Iceni Infix sul Crossover Linux o Macintosh Crossover&lt;/a1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183425Z">
+        <seg>Sono inoltre disponibili &lt;a1&gt;informazioni specifiche sull'esecuzione di Iceni Infix sul Crossover Linux o quello Macintosh&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13445,8 +13445,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Again, free demonstration versions are available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T105039Z">
-        <seg>Ancora una volta, sono disponibili versioni di dimostrazione gratuite.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183331Z">
+        <seg>Ancora una volta, sono disponibili versioni demo gratuite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13958,8 +13958,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203351Z">
-        <seg>Anche se Infix è un'applicazione Windows, Iceni ha compiuto sforzi per soddisfare gli utenti Linux e Macintosh.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183257Z">
+        <seg>Sebbebe Infix sia un'applicazione Windows, Iceni ha compiuto sforzi per soddisfare anche gli utenti Linux e Macintosh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19215,8 +19215,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T105133Z">
-        <seg>Crossover Linux e Macintosh Crossover possono essere ottenuti dal &lt;a0&gt;sito Web di Codeweavers'&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183450Z">
+        <seg>Crossover Linux e Macintosh Crossover possono essere scaricati dal &lt;a0&gt;sito web di Codeweavers&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37600,8 +37600,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Obtain and install Iceni Infix Professional from the &lt;a0&gt;Iceni webpage&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203624Z">
-        <seg>Ottenere e installare Iceni Infix Professional dalla &lt;a0&gt;pagina Web Iceni&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183445Z">
+        <seg>Ottenere e installare Iceni Infix Professional dalla &lt;a0&gt;pagina web Iceni&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38632,8 +38632,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is among the CAT tools for which this process can be used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203254Z">
-        <seg>OmegaT è tra le applicazioni CAT per le quali questo processo può essere utilizzato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183210Z">
+        <seg>OmegaT è tra le applicazioni CAT con cui questo processo può essere utilizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56548,8 +56548,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203128Z">
-        <seg>Consente al testo essere esportato in un file XML che può essere tradotto con un'applicazione CAT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183156Z">
+        <seg>Essa consente al testo essere esportato in un file XML, traducibile poi con un'applicazione CAT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69439,14 +69439,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.codeweavers.com/products/crossover/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T104922Z">
-        <seg>http://www.codeweavers.com/products/crossover/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.commodity12.eu/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160022Z">
@@ -69507,22 +69499,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094527Z">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.iceni.com/infix.htm</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142055Z">
-        <seg>http://www.iceni.com/infix.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.iceni.com/infixmaclinux.htm</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T104908Z">
-        <seg>http://www.iceni.com/infixmaclinux.htm</seg>
       </tuv>
     </tu>
     <tu>
