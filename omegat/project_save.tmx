@@ -1743,8 +1743,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Refer to the "Downloads" page on the OmegaT website for details of the differences.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175917Z">
-        <seg>(Fare riferimento alla pagina "Download" sul sito Web di OmegaT per i dettagli delle differenze).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191205Z">
+        <seg>(Fare riferimento alla pagina "Download" sul sito Web di OmegaT per vedere i dettagli delle differenze).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46033,8 +46033,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180006Z">
-        <seg>Selezionare una versione senza o con JRE in base alla vostra situazione di Java (vedi sopra).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191345Z">
+        <seg>Selezionare una versione senza o con JRE in base alla situazione personale di Java (vedi sopra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49484,8 +49484,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Latest" version is recommended.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175823Z">
-        <seg>È consigliata la versione "Ultima".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191144Z">
+        <seg>È consigliata la versione "Più recente".</seg>
       </tuv>
     </tu>
     <tu>
@@ -63685,8 +63685,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Without/with JRE included, i.e. the cross-platform without JRE, e.g. "OmegaT_2.1.7_02_Beta_Without_JRE.zip" and the Linux-specific version with JRE, e.g. "OmegaT_2.1.7_02_Beta_Linux.tar.bz2".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195826Z">
-        <seg>Senza/con JRE incluso, cioè il cross-platform senza JRE, ad esempio "OmegaT_2.1.7_02_Beta_Without_JRE.zip" e la versione di Linux-specifica con JRE, ad esempio "OmegaT_2.1.7_02_Beta_Linux.tar.bz2".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191319Z">
+        <seg>Without/with JRE incluso, cioè il multi-piattaforma senza JRE, ad esempio "OmegaT_2.1.7_02_Beta_Without_JRE.zip" e la versione di Linux-specifica con JRE, ad esempio "OmegaT_2.1.7_02_Beta_Linux.tar.bz2".</seg>
       </tuv>
     </tu>
     <tu>
