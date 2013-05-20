@@ -24700,8 +24700,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the kaptain script to work, however, you must first install kaptain.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210728Z">
-        <seg>Perché lo script di kaptain lavori, tuttavia, è necessario innanzitutto installare kaptain.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215333Z">
+        <seg>Affinché lo script di kaptain funzioni, è tuttavia necessario prima di tutto installare kaptain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51762,8 +51762,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The file is commented to help you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195912Z">
-        <seg>Il file è commentato per aiutarvi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215242Z">
+        <seg>Il file è commentato per aiutare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64490,8 +64490,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can customize the kaptain launch script so that your preferences are the defaults; simply edit the omegat.kaptn file in a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210655Z">
-        <seg>È possibile personalizzare lo script di lancio kaptain così che le preferenze siano le impostazioni predefinite; è sufficiente modificare il file omegat.kaptn in un editor di testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215233Z">
+        <seg>È possibile personalizzare lo script di avvio kaptain in modo che le proprie preferenze siano predefinite; è sufficiente modificare il file omegat.kaptn in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
