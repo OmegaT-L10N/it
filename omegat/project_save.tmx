@@ -3243,14 +3243,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../config/howto_wide.css</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142102Z">
-        <seg>../../config/howto_wide.css</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../../images/kaptain.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210731Z">
@@ -18701,14 +18693,6 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Copyright Marc Prior 2011</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T135434Z">
-        <seg>Copyright Marc Prior 2011</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Copyright Marc Prior 2012</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125018Z">
@@ -29654,8 +29638,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If your file contains lots of such inconvenient breaks, it is more efficient to remove them all at once, toggling between OmegaT and Infix to see where they are.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T141646Z">
-        <seg>Se il file contiene molte di queste interruzioni scomode, è più efficiente per rimuoverle tutte in una volta, alternare tra OmegaT e Infix per rilevarle.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T185419Z">
+        <seg>Se il file contiene molte di queste interruzioni errate, è certamente meglio rimuoverle tutte insieme, alternando tra OmegaT e Infix per individuarle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30976,8 +30960,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In these cases, it is practical to remove them before exporting the file to XML, so that you are presented with cohesive segments for translation, and then to re-insert them in Infix at the end of the process.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142007Z">
-        <seg>In questi casi, è pratico rimuoverle prima di esportare il file in XML, per presentarsi alla traduzione con segmenti coesi e poi reinserirle in Infix alla fine del processo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T185610Z">
+        <seg>In questi casi, è pratico rimuoverle prima di esportare il file in XML in modo da avere dei segmenti coesi per la traduzione, e poi reinserirle in Infix alla fine del processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47113,8 +47097,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Some inconvenient line breaks may be required for correct positioning of the text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T141727Z">
-        <seg>Alcune interruzioni di riga scomode possono essere necessarie per un corretto posizionamento del testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T185458Z">
+        <seg>Alcune interruzioni di riga errate potrebbero essere necessarie per la corretta posizione del testo.</seg>
       </tuv>
     </tu>
     <tu>
