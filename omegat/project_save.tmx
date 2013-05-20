@@ -3595,14 +3595,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081344Z">
-        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T093632Z">
@@ -28401,8 +28393,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081055Z">
-        <seg>Se si fa affidamento su o si desidera utilizzare un'installazione di Java non installata a livello di sistema, questo non sarà sufficiente: si deve anche istruire il tuo sistema a trovare Java.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220024Z">
+        <seg>Se ci si affida a, o si desidera utilizzare, un'installazione di Java non installata a livello di sistema, questo non sarà sufficiente: si deve anche istruire il sistema a trovare Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28938,16 +28930,16 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081127Z">
-        <seg>Se si è installata una versione di OmegaT con JRE in dotazione, lo script di lancio fornito già contiene questo percorso per voi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220035Z">
+        <seg>Se si è installata una versione di OmegaT con JRE in dotazione, lo script di lancio fornito già contiene questo percorso.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you have installed an additional version of Java but have not made it the default version at system level, you must include the whole path of the Java binary in the launch command.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081240Z">
-        <seg>Se avete installato una versione aggiuntiva di Java, ma non l'avete designata a versione predefinita a livello di sistema, è necessario includere l'intero percorso del file eseguibile Java nel comando di lancio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220138Z">
+        <seg>Se si è installata una versione aggiuntiva di Java ma non è stata designata come versione predefinita a livello di sistema, bisogna includere l'intero percorso del file eseguibile Java all'interno del comando di avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57680,8 +57672,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will be something like /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; make a note of where Java is installed during installation so that you can find it again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081334Z">
-        <seg>Si tratta di qualcosa di simile a  /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; prendere nota di dove Java è installato durante l'installazione in modo che si possa ritrovare in seguito.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220252Z">
+        <seg>Sarà qualcosa di simile a  /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; prendere nota della posizione in cui è installato Java durante l'installazione, in modo da ritrovarlo in seguito.</seg>
       </tuv>
     </tu>
     <tu>
