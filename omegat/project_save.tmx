@@ -40724,8 +40724,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Oracle (formerly Sun) Java versions: check the system requirements in the OmegaT documentation (readme.txt) for the precise Oracle Java version required (i.e. whether your version of Java is sufficiently recent).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142709Z">
-        <seg>Versioni Java di Oracle (precedentemente Sun): verificare i requisiti di sistema nella documentazione di OmegaT (Readme.txt) per la versione Java di Oracle richiesta (cioè se la versione di Java è sufficientemente recente).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190057Z">
+        <seg>Versioni Java di Oracle (ex Sun): verificare i requisiti di sistema nella documentazione di OmegaT (file Readme.txt) per la versione Java di Oracle richiesta (cioè se la versione di Java posseduta è sufficientemente recente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55979,8 +55979,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T174533Z">
-        <seg>Versioni di Java di terze parti: fino a tempi relativamente recenti, OmegaT ha funzionato solo su Java proprietario di Oracle/Sun.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190201Z">
+        <seg>Versioni di Java di terze parti: fino a poco tempo fa, OmegaT funzionava solo sula versione Java propria di Oracle/Sun.</seg>
       </tuv>
     </tu>
     <tu>
