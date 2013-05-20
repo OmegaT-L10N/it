@@ -27424,8 +27424,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If it does not, you still have the option to install a local version of Java or a different version of Java at system level.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195729Z">
-        <seg>Se non avete ancora la possibilità di installare una versione locale di Java o una diversa versione di Java a livello di sistema.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190530Z">
+        <seg>Se non è possibile, si ha ancora la possibilità d'installare una versione locale di Java o una diversa versione di Java a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27700,8 +27700,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If so, this makes installation much easier.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195742Z">
-        <seg>Se è così, questo rende l'installazione molto più semplice.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190823Z">
+        <seg>Se così fosse, l'installazione sarebbe molto più semplice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28800,8 +28800,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you establish that the version of Java installed at system level is not compatible with OmegaT and you wish to replace this Java version with the Oracle Java version, check first whether an Oracle package is available for your Linux distribution (SUSE, Ubuntu, etc.).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195741Z">
-        <seg>Se si stabilisce che la versione di Java installata a livello di sistema non è compatibile con OmegaT e si desidera sostituire questa versione Java con la versione Java di Oracle, verificare prima se un pacchetto di Oracle è disponibile per la vostra distribuzione di Linux (SUSE, Ubuntu, ecc.).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190734Z">
+        <seg>Se si stabilisce che la versione di Java installata a livello di sistema non è compatibile con OmegaT e si desidera sostituire questa versione con quella di Oracle, verificare prima se un pacchetto Oracle è disponibile per la propria distribuzione Linux (SUSE, Ubuntu, ecc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31560,8 +31560,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175530Z">
-        <seg>Installate una seconda versione di Java a livello di sistema non predefinito e lanciate OmegaT in modo esplicito utilizzando questa versione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190610Z">
+        <seg>Installare una seconda versione non predefinita di Java a livello di sistema e avviare OmegaT in modo esplicito utilizzando questa versione.</seg>
       </tuv>
     </tu>
     <tu>
