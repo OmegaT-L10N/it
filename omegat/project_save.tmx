@@ -3251,14 +3251,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../images/infix3.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125324Z">
-        <seg>../../images/infix3.png</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../../images/infix4.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140633Z">
@@ -26919,8 +26911,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T135100Z">
-        <seg>Iceni Infix consente inoltre di salvare i file PDF in formato RTF, ma in questo caso la versione di dimostrazione è proprio soltanto adatta a scopo dimostrativo, dato che contiene sostituzioni casuali di caratteri.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184516Z">
+        <seg>Iceni Infix consente inoltre di salvare i file PDF in formato RTF, ma in tal caso la versione demo è proprio adatta a soli scopi dimostrativi, dato che contiene sostituzioni casuali di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64845,8 +64837,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140356Z">
-        <seg>Presumibilmente si può risolvere il problema ottenendo e installando i tipi di carattere necessari; oppure è possibile selezionare un carattere diverso per questo scopo – soluzione che può essere adeguata o meno.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184650Z">
+        <seg>Probabilmente si può risolvere il problema scaricando e installando i tipi di carattere necessari; oppure è possibile selezionare un carattere diverso per questo scopo – soluzione che potrebbe risultare o no adeguata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65354,8 +65346,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140121Z">
-        <seg>Potete trovare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri che necessari.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184549Z">
+        <seg>Potete riscontrare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri che necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69987,14 +69979,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T115722Z">
         <seg>voci di indici, segnalibri, collegamenti a segnalibri, note, commenti, note di presentazione, collegamenti (URL), nomi dei fogli</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>infix3.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T125344Z">
-        <seg>infix3.png</seg>
       </tuv>
     </tu>
     <tu>
