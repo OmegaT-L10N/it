@@ -23979,8 +23979,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For a true PDF file to be translated, the correct procedure is usually to produce the translation in the original (DTP) application, and then to follow the same procedure for production of the PDF that was followed for the original.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202321Z">
-        <seg>Per un file PDF vero da tradurre, la procedura corretta è di solito di produrre la traduzione nell'applicazione originale (DTP) e poi seguire la stessa procedura, per la produzione del PDF, che è stata seguita per l'originale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182536Z">
+        <seg>Per tradurre un file PDF vero, la procedura corretta è di solito di produrre la traduzione nell'applicazione originale (DTP) e poi seguire la stessa procedura, per la produzione del PDF, che è stata seguita per l'originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55465,8 +55465,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There is no way of translating a scanned PDF file other than to recreate the text, either by typing it out again or by OCR (optical character recognition), and to recreate the file layout from scratch.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202045Z">
-        <seg>Non c'è nessun modo di tradurre un file PDF scandito altro che ricreare il testo, o digitandolo nuovamente e ricreando da zero l'impaginazione o con OCR (riconoscimento ottico dei caratteri e impaginazione) .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182356Z">
+        <seg>Non c'è alcun modo di tradurre un file PDF scandito se non ricreando il testo, sia digitandolo nuovamente o con tramite riconoscimento ottico dei caratteri (OCR), ricostruendo poi l'impaginazione da zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60194,8 +60194,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>True PDF files (sometimes called "native" or "distilled" PDF files, though "distilled" has a more precise meaning) are PDF files that have been exported from another application, usually a desktop publishing (DTP) program.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202158Z">
-        <seg>Veri file PDF (a volte chiamato "nativo" o "distillati" file PDF, anche se "distillato" ha un significato più preciso) sono i file PDF che sono stati esportati da un'altra applicazione, solitamente un programma di desktop publishing (DTP).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182500Z">
+        <seg>I veri file PDF (a volte chiamato file PDF "nativi" o "distillati", sebbene "distillato" abbia un significato più preciso) sono file PDF che sono stati esportati da un'altra applicazione, solitamente un programma di desktop publishing (DTP).</seg>
       </tuv>
     </tu>
     <tu>
