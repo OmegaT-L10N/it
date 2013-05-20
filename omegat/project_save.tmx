@@ -16458,8 +16458,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200048Z">
-        <seg>Per impostazione predefinita, lo script di lancio di bash è eseguibile, ma il vostro sistema può modificare le autorizzazioni (ad esempio durante l'estrazione dell'archivio) e potrebbe essere necessario renderlo eseguibile nuovamente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220657Z">
+        <seg>Per impostazione predefinita, lo script di avvio bash è eseguibile, ma il sistema può modificare le sue autorizzazioni (ad esempio, durante l'estrazione dell'archivio) e potrebbe essere necessario renderlo di nuovo eseguibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39922,8 +39922,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200045Z">
-        <seg>Una volta che questo è stato copiato o legate al vostro percorso di esecuzione (eseguito automaticamente se si utilizza lo script di installazione fornito), puoi lanciare OmegaT premendo &lt;i0&gt;Alt + F2&lt;/i0&gt;, quindi digitando in &lt;i1&gt;omegat&lt;/i1&gt; e conforme con invio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220618Z">
+        <seg>Una volta che questo è stato copiato o collegato al percorso di esecuzione (fatto automaticamente se si utilizza lo script di installazione fornito), è possibile avviare OmegaT premendo &lt;i0&gt;Alt + F2&lt;/i0&gt;, quindi digitandovi &lt;i1&gt;omegat&lt;/i1&gt; e confermando con INVIO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58715,8 +58715,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064428Z">
-        <seg>Per lanciare OmegaT in modo ancora più agevole, aggiungete al vostro menù di avvio l'applicazione o posizionate un'apposita icona di lancio sul desktop o nel riquadro di desktop.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220719Z">
+        <seg>Per avviare OmegaT in modo ancora più agevole, aggiungete al vostro menù di avvio l'applicazione o posizionate un'apposita icona di lancio sul desktop o nel riquadro di desktop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61455,8 +61455,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>User-friendly launching of OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081552Z">
-        <seg>Lancio di OmegaT facile da usare </seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220712Z">
+        <seg>Avvio di OmegaT facile da usare </seg>
       </tuv>
     </tu>
     <tu>
