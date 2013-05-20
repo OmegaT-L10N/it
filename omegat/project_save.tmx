@@ -3251,14 +3251,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../images/infix4.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140633Z">
-        <seg>../../images/infix4.png</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../../images/kaptain.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210731Z">
@@ -55393,8 +55385,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140433Z">
-        <seg>C'è una forte possibilità che in alcuni punti, la traduzione sarà più lunga rispetto all'originale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184743Z">
+        <seg>C'è un'alta probabilità che, in alcuni punti, la traduzione sia più lunga rispetto all'originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57352,8 +57344,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This needs to be dealt with in Infix, for example by enlarging the box containing the text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140508Z">
-        <seg>Questo deve essere affrontato in Infix, ad esempio ampliando la casella contenente il testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184807Z">
+        <seg>Questo deve essere affrontato e risolto in Infix, ad esempio ampliando la casella contenente il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65338,16 +65330,16 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may find that segments are broken by hard line breaks at inconvenient places.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140825Z">
-        <seg>Potete trovare che i segmenti sono interrotti da interruzioni di linea in posizioni scorrette.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184918Z">
+        <seg>Potreste riscontrare che i segmenti presentano interruzioni di linea in posizioni errate.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184549Z">
-        <seg>Potete riscontrare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri che necessari.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184827Z">
+        <seg>Potreste riscontrare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri che necessari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69979,14 +69971,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T115722Z">
         <seg>voci di indici, segnalibri, collegamenti a segnalibri, note, commenti, note di presentazione, collegamenti (URL), nomi dei fogli</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>infix4.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140644Z">
-        <seg>infix4.png</seg>
       </tuv>
     </tu>
     <tu>
