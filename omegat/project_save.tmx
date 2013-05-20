@@ -14830,8 +14830,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As already mentioned, a bash launch script is provided with OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200041Z">
-        <seg>Come già accennato, uno script di lancio di bash è fornito con OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220455Z">
+        <seg>Come già accennato, con OmegaT è fornito uno script di avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31192,8 +31192,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In your launch script, do not confuse the path to OmegaT.jar and the path to the java command.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T081440Z">
-        <seg>Nello script di lancio, non confondere il percorso di OmegaT.jar e il percorso per il comando java.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220331Z">
+        <seg>Nello script di avvio, non confondere il percorso di OmegaT.jar e quello del comando java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33785,8 +33785,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Launching OmegaT from a launch script</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200039Z">
-        <seg>Lanciare OmegaT da uno script di lancio</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220423Z">
+        <seg>Avviare OmegaT da uno script di avvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -51818,8 +51818,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200032Z">
-        <seg>Il primo (con il comando cd) è necessario se il vostro script di lancio non è nella stessa cartella come OmegaT.jar.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220402Z">
+        <seg>Il primo (con il comando cd) è necessario se lo script di avvio non è nella stessa cartella di OmegaT.jar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53879,8 +53879,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The second is needed if the Java version you wish to use is not the default installation at system level.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200035Z">
-        <seg>Il secondo è necessario se la versione di Java che si desidera utilizzare non è l'installazione di default a livello di sistema.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220414Z">
+        <seg>Il secondo è necessario se la versione di Java che si desidera utilizzare non è l'installazione predefinita a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
