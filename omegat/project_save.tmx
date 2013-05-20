@@ -128,8 +128,8 @@
       <tuv lang="EN">
         <seg>"Standard", "Latest", "/trunk" and "Webstart".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175749Z">
-        <seg>"Standard", "Ultima", "/ tronca" e "Webstart".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191137Z">
+        <seg>"Standard", "Più recente", "/ trunk" e "Webstart".</seg>
       </tuv>
     </tu>
     <tu>
@@ -29156,8 +29156,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you obtain the Oracle version of Java directly from Oracle, installation is likely to be straightforward, but you will have to configure it manually in order to make it the default version at system level.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175559Z">
-        <seg>Se si ottiene la versione di Oracle di Java direttamente da Oracle, l'installazione è probabile che sia semplice, ma dovrete configurarla manualmente al fine di renderla versione predefinita a livello di sistema.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190935Z">
+        <seg>Se si ottiene la versione di Oracle di Java direttamente da Oracle, è probabile che l'installazione risulti semplice, sebbene dovrà essere configurata manualmente al fine di renderla predefinita a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52090,8 +52090,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The following versions of OmegaT are available for Linux:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195755Z">
-        <seg>Le seguenti versioni di OmegaT sono disponibili per Linux:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191052Z">
+        <seg>Sono disponibili le seguenti versioni di OmegaT per Linux:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54535,8 +54535,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The third option, i.e. installing an OmegaT version with Java included at local level, is always the "safe" option, and is recommended.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175642Z">
-        <seg>La terza opzione, cioè l'installazione di una versione di OmegaT con Java incluso a livello locale, è sempre l'opzione "sicura" ed è consigliata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191034Z">
+        <seg>La terza opzione, ossia l'installazione di una versione di OmegaT con Java incluso a livello locale, è sempre l'opzione "sicura" ed è consigliata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56924,8 +56924,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is not recommended, particularly if you are unfamiliar with Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T175635Z">
-        <seg>Questo non è consigliato, soprattutto se non si ha familiarità con Linux.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191005Z">
+        <seg>Non consigliamo questa procedura, soprattutto se si ha poca familiarità con Linux.</seg>
       </tuv>
     </tu>
     <tu>
