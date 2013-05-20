@@ -14862,8 +14862,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As an open-source application, OmegaT has been included by many Linux distributions in their repositories, so you may be able to install it by this route.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180138Z">
-        <seg>Come applicazione open-source, OmegaT è stato incluso da molte distribuzioni Linux nei loro archivi, così si può essere in grado di installarlo per quella strada.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191450Z">
+        <seg>Come applicazione open-source, OmegaT è stato incluso da molte distribuzioni Linux nei loro depositi, dunque potrebbe essere possibile installarlo per quella via.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35720,8 +35720,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>More functions will usually be found in the "Latest" version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210259Z">
-        <seg>Nella versione "Ultima" solitamente si trovano il maggior numero di funzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191543Z">
+        <seg>Nella versione "Più recente" si trovano in genere il maggior numero di funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35776,8 +35776,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Most Linux distributions use the OpenJDK version of Java by default.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195836Z">
-        <seg>La maggior parte delle distribuzioni Linux utilizzano la versione OpenJDK Java per impostazione predefinita.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191506Z">
+        <seg>La maggior parte delle distribuzioni Linux utilizza la versione OpenJDK Java, per impostazione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36768,8 +36768,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note however that:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195832Z">
-        <seg>Nota tuttavia che:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191454Z">
+        <seg>Notare tuttavia che:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37024,8 +37024,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that it is easy to install multiple versions of OmegaT on Linux without conflicts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210331Z">
-        <seg>Si noti che è facile installare su Linux senza conflitti più versioni di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191619Z">
+        <seg>Si noti che è facile installare su Linux più versioni di OmegaT, senza conflitti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55971,8 +55971,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They will however always access the same user configuration files (unless launched from a different user account).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210410Z">
-        <seg>Si accederà comunque sempre agli stessi file di configurazione utente (a meno che il programma non sia lanciato da un account utente diverso).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191639Z">
+        <seg>Si accederà comunque sempre agli stessi file di configurazione utente (a meno che il programma non sia avviato da un account utente diverso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -67205,8 +67205,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>creates links from /usr/local/bin to the launch scripts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195902Z">
-        <seg>Crea collegamenti dall'usr per gli script di lancio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191736Z">
+        <seg>crea collegamenti dall'usr/local/bin per gli script di avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69937,8 +69937,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>includes bash and kaptain launch scripts;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195901Z">
-        <seg>include il lancio degli script bash e kaptain;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191710Z">
+        <seg>include l'avvio degli script bash e kaptain;</seg>
       </tuv>
     </tu>
     <tu>
