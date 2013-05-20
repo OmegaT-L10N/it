@@ -1663,8 +1663,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Infix is also reported to work on WINE.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203738Z">
-        <seg>(Infix è anche segnalato lavorare su WINE).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183545Z">
+        <seg>(Infix è segnalato lavorare anche su WINE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,14 +3247,6 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142102Z">
         <seg>../../config/howto_wide.css</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../../images/infix1.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133416Z">
-        <seg>../../images/infix1.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -22858,8 +22850,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Export the text from the PDF in Infix's XML format with Document &gt; Translate &gt; Export XML.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T203952Z">
-        <seg>Esportare il testo da file PDF in formato XML di  Infix con documento &gt; Traduci &gt; Esporta XML.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183645Z">
+        <seg>Esportare il testo dal formato PDF a quello XML di Infix tramite il comando Documento &gt; Traduci &gt; Esporta XML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28537,8 +28529,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133355Z">
-        <seg>Se si utilizza Linux o Macintosh, ottenere e installare la relativa versione Crossover prima di installare Iceni Infix Professional.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183539Z">
+        <seg>Se si utilizza Linux o Macintosh, scaricare e installare la relativa versione Crossover prima di installare Iceni Infix Professional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56924,8 +56916,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133622Z">
-        <seg>Importante: quando si esporta da file PDF in file XML, Infix produce una nota nel file a cui appartengono tutti i pezzi di testo ("storie"), quindi è necessario utilizzare questa versione del file quando si  reimporta il file XML tradotto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T183738Z">
+        <seg>Importante: quando si esporta da file PDF in file XML, Infix produce una nota nel file a cui appartengono tutte le parti di testo ("storie"), quindi è necessario utilizzare questa versione del file quando si reimporta il file XML tradotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68707,14 +68699,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://ec.europa.eu/enterprise/policies/sme/files/sme_definition/sme_user_guide_hu.pdf</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133401Z">
-        <seg>http://ec.europa.eu/enterprise/policies/sme/files/sme_definition/sme_user_guide_hu.pdf</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://en.wikipedia.org/wiki/OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102847Z">
@@ -70011,14 +69995,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T115722Z">
         <seg>voci di indici, segnalibri, collegamenti a segnalibri, note, commenti, note di presentazione, collegamenti (URL), nomi dei fogli</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>infix1.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T133440Z">
-        <seg>infix1.png</seg>
       </tuv>
     </tu>
     <tu>
