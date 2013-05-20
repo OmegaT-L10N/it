@@ -27007,8 +27007,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>If Java is already installed on your system (which is probably the case) and you plan to use this existing, system-wide Java installation in conjunction with OmegaT, first check that it is suitable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142542Z">
-        <seg>Se Java è già installato sul vostro sistema (come probabile) e si prevede di utilizzare l'installazione di Java esistente, a livello di sistema in combinazione con OmegaT, controllare prima che sia idoneo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T185906Z">
+        <seg>Se Java è già installato sul proprio sistema (come probabile) e si prevede di utilizzare tale installazione a livello di sistema in combinazione con OmegaT, controllare prima che la versione sia idonea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32931,14 +32931,6 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Java</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142135Z">
-        <seg>Java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120519T111554Z">
@@ -38232,8 +38224,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT does not run satisfactorily on all versions of Java.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195646Z">
-        <seg>OmegaT non viene eseguito in modo soddisfacente su tutte le versioni di Java.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T185732Z">
+        <seg>OmegaT non funziona in modo soddisfacente con tutte le versioni di Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58370,8 +58362,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To do this, open a terminal (also known as a console or command-line window; common programs for this are konsole (KDE) and gnome-terminal (GNOME)), and type:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195654Z">
-        <seg>Per fare questo, aprire un terminale (anche conosciuto come console o finestra della riga di comando; programmi comuni per questo sono konsole (KDE) e il terminale di gnome (GNOME)) e digitare:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T185946Z">
+        <seg>Per fare questo, aprire un terminale (anche conosciuto come console o finestra della riga di comando; programmi comuni sono Konsole (KDE) e il terminale di gnome (GNOME) e digitare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70171,14 +70163,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T201852Z">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;nome_file&gt; [pseudotranslatetype=[equal|empty]]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>java -version</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082556Z">
-        <seg>java -version</seg>
       </tuv>
     </tu>
     <tu>
