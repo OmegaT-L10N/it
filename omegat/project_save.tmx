@@ -23979,8 +23979,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For a true PDF file to be translated, the correct procedure is usually to produce the translation in the original (DTP) application, and then to follow the same procedure for production of the PDF that was followed for the original.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182536Z">
-        <seg>Per tradurre un file PDF vero, la procedura corretta è di solito di produrre la traduzione nell'applicazione originale (DTP) e poi seguire la stessa procedura, per la produzione del PDF, che è stata seguita per l'originale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182638Z">
+        <seg>Per tradurre un file PDF vero, la procedura corretta è di solito di produrre la traduzione nell'applicazione originale (DTP) e poi seguire la stessa procedura,per la produzione del PDF, che è stata seguita per l'originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24844,8 +24844,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202550Z">
-        <seg>Per la traduzione dei file PDF "per informazioni", i traduttori ricorrono spesso alla conversione del file PDF in un altro formato di file, come ad esempio RTF, prima della traduzione; i risultati possono essere adeguati per questo scopo, ma non soddisfaranno gli standard professionali del processo originale di DTP.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182840Z">
+        <seg>Per la traduzione di file PDF "informativi", i traduttori ricorrono spesso alla conversione del file PDF in un altro formato, come ad esempio RTF, prima della traduzione; i risultati possono essere adeguati allo scopo, ma non soddisfaranno gli standard professionali del processo originale del DTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26921,14 +26921,6 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T122614Z">
         <seg>Islandese</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Iceni Infix</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T142105Z">
-        <seg>Iceni Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -59866,8 +59858,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translating the PDF file by editing it directly is not usually a practical proposition.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T202354Z">
-        <seg>Tradurre un file PDF modificandolo direttamente non è solitamente una proposta pratica.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182714Z">
+        <seg>La traduzione di un file PDF tramite modifica diretta non è solitamente una proposta pratica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60194,8 +60186,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>True PDF files (sometimes called "native" or "distilled" PDF files, though "distilled" has a more precise meaning) are PDF files that have been exported from another application, usually a desktop publishing (DTP) program.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182500Z">
-        <seg>I veri file PDF (a volte chiamato file PDF "nativi" o "distillati", sebbene "distillato" abbia un significato più preciso) sono file PDF che sono stati esportati da un'altra applicazione, solitamente un programma di desktop publishing (DTP).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182542Z">
+        <seg>I file PDF veri (a volte chiamato file PDF "nativi" o "distillati", sebbene "distillato" abbia un significato più preciso) sono file PDF che sono stati esportati da un'altra applicazione, solitamente un programma di desktop publishing (DTP).</seg>
       </tuv>
     </tu>
     <tu>
