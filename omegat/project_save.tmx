@@ -3243,14 +3243,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../images/kaptain.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210731Z">
-        <seg>../../images/kaptain.png</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../../images/preview_flow.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125124Z">
@@ -27456,8 +27448,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If it is not in your distribution's repository, you can &lt;a0&gt;download it from kaptain.sourceforge.net&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195918Z">
-        <seg>Se non è nel repository della vostra distribuzione, è possibile &lt;a0&gt;scaricarlo da kaptain.sourceforge.net&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215412Z">
+        <seg>Se non è nel deposito della propria distribuzione, lo si può &lt;a0&gt;scaricare da kaptain.sourceforge.net&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33809,8 +33801,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Launching OmegaT from the command line</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195930Z">
-        <seg>Lanciare OmegaT dalla riga di comando</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215615Z">
+        <seg>Avviare OmegaT dalla riga di comando</seg>
       </tuv>
     </tu>
     <tu>
@@ -44825,8 +44817,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Screenshot of the kaptain OmegaT launcher</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195923Z">
-        <seg>Screenshot del lanciatore kaptain OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215454Z">
+        <seg>Schermate dell'avviatore di OmegaT kaptain</seg>
       </tuv>
     </tu>
     <tu>
@@ -46809,8 +46801,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Simply unpack the archive in the folder of your choice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195940Z">
-        <seg>Semplicemente scompattare l'archivio nella cartella di vostra scelta.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215524Z">
+        <seg>Basta decomprimere l'archivio nella cartella di propria scelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52418,8 +52410,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The installation script provides added convenience, but you can still install OmegaT on Linux manually if you prefer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210830Z">
-        <seg>Lo script di installazione fornisce maggiore praticità, ma si può comunque installare OmegaT su Linux manualmente se si preferisce.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215503Z">
+        <seg>Lo script di installazione fornisce maggiore praticità, ma si può comunque installare OmegaT su Linux manualmente, se si preferisce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52491,8 +52483,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The launch scripts will not be written to your execution path in this case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210853Z">
-        <seg>Gli script di avvio non verranno scritti per il vostro percorso di esecuzione in questo caso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215607Z">
+        <seg>In tale caso, gli script di avvio non verranno scritti nel percorso di esecuzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71357,14 +71349,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125029Z">
         <seg>preview_flow.png</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>preview_ss.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210735Z">
-        <seg>preview_ss.png</seg>
       </tuv>
     </tu>
     <tu>
