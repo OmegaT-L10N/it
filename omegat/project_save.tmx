@@ -18669,14 +18669,6 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Copyright Marc Prior 2010-2012</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T205443Z">
-        <seg>Copyright Marc Prior 2010-2012</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Copyright Marc Prior 2012</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125018Z">
@@ -60442,8 +60434,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082536Z">
-        <seg>La disinstallazione di OmegaT non rimuoverà i progetti di OmegaT dal sistema, a meno che non abbiate posto tali progetti all'interno delle cartelle del programma o dei file di configurazione di OmegaT, queste non sono mai una buona posizione per i progetti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221750Z">
+        <seg>La disinstallazione di OmegaT non rimuoverà i progetti di OmegaT dal sistema, a meno che essi non siano stati messi all'interno delle cartelle del programma o dei file di configurazione di OmegaT, posizioni, queste, assolutamente non suggerite.</seg>
       </tuv>
     </tu>
     <tu>
