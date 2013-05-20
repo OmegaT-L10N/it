@@ -19735,8 +19735,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200138Z">
-        <seg>Eliminare qualsiasi script di lancio e rimuovere eventuali voci personalizzate per OmegaT nel tuo desktop.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221628Z">
+        <seg>Eliminare qualsiasi script di avvio e rimuovere eventuali voci personalizzate per OmegaT nel proprio desktop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19751,8 +19751,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Delete the folder /home/&lt;user&gt;/.omegat of any user account from which OmegaT has been launched.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200134Z">
-        <seg>Eliminare la cartella /home/&lt;user&gt;/.omegat di qualsiasi account utente da cui è stato lanciato OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221457Z">
+        <seg>Eliminare la cartella /home/&lt;user&gt;/.omegat di qualsiasi account utente da cui è stato avviato OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50044,8 +50044,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082128Z">
-        <seg>versione di Java utilizzata (lo stesso carattere può apparire molto diverso su versioni di Java Sun e OpenJDK)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221343Z">
+        <seg>la versione di Java utilizzata (lo stesso carattere può apparire molto diverso su versioni di Java Sun e OpenJDK)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50679,8 +50679,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082111Z">
-        <seg>L'aspetto dei tipi di carattere in OmegaT su Linux potrebbe variare ampiamente, a secondo di:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221334Z">
+        <seg>L'aspetto dei tipi di carattere in OmegaT in Linux potrebbe variare ampiamente, in base a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50743,8 +50743,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The available/selected fonts</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082149Z">
-        <seg>I tipi di carattere disponibili/scelti</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221353Z">
+        <seg>i tipi di carattere disponibili/scelti</seg>
       </tuv>
     </tu>
     <tu>
@@ -52098,8 +52098,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The font size</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200111Z">
-        <seg>La dimensione del carattere</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221357Z">
+        <seg>la dimensione del carattere</seg>
       </tuv>
     </tu>
     <tu>
@@ -56212,8 +56212,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This can easily be restored again in the future.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082252Z">
-        <seg>Questa può facilmente essere ripristinato nuovamente in futuro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221446Z">
+        <seg>Questa può facilmente essere ripristinata in futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57784,8 +57784,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082424Z">
-        <seg>Questo si tradurrà nella eliminazione di eventuali impostazioni di configurazione utente che sono state fatte (ad esempio, modifiche alle regole di segmentazione) e – se la cartella viene eliminata "correttamente", cioè non semplicemente spostata nel cestino, non può essere ripristinata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221617Z">
+        <seg>Questo si tradurrà nella eliminazione di eventuali impostazioni di configurazione utente apportate (ad esempio, modifiche alle regole di segmentazione) e - se la cartella viene eliminata "correttamente", cioè non semplicemente spostata nel cestino - non può essere ripristinata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63131,8 +63131,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T082232Z">
-        <seg>Se è abilitato l'anti-aliasing (questa è un'opzione della riga di comando di lancio, ma è anche possibile impostarla nello script di lancio kaptain)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221414Z">
+        <seg>se è abilitato l'anti-aliasing (questa è un'opzione della riga di comando di avvio, ma è anche possibile impostarla nello script di avvio kaptain)</seg>
       </tuv>
     </tu>
     <tu>
