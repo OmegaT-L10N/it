@@ -54063,8 +54063,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The tags are displayed in a different font in order to make them less intrusive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200608Z">
-        <seg>I tag vengono visualizzati in un carattere diverso per renderle meno invadente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124054Z">
+        <seg>I tag vengono visualizzati in un carattere diverso per renderli meno invadenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57168,8 +57168,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This script displays the target segment in a particular font (hard-coded in the script, but can be edited) rather than the default font.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200606Z">
-        <seg>Questo script visualizza il segmento di destinazione in un particolare tipo di carattere (hard-coded nello script, ma può essere modificato) piuttosto che il tipo di carattere predefinito.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124044Z">
+        <seg>Questo script visualizza il segmento di destinazione in un particolare tipo di carattere (cablato a codice nello script, ma può essere modificato) piuttosto che il tipo di carattere predefinito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60258,8 +60258,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unlike te-notags, it is possible for the translator to work in this window, then copy and paste the content in full to the OmegaT editor pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200610Z">
-        <seg>A differenza di te-notags, è possibile che il traduttore a lavorare in questa finestra, quindi copiare e incollare il contenuto in pieno al riquadro editor OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124159Z">
+        <seg>A differenza di te-notags, il traduttore può lavorare in questa finestra, dunque copiare e incollare totalmente il contenuto nel pannello dell'Editor di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71365,14 +71365,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200420Z">
         <seg>target.txt - contiene il testo di destinazione del segmento &lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>te-gloss-highlight</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101538Z">
-        <seg>te-gloss-highlight</seg>
       </tuv>
     </tu>
     <tu>
