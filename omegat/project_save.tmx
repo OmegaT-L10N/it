@@ -3267,14 +3267,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../resources/DA_Guillardeau.pdf</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102830Z">
-        <seg>../resources/DA_Guillardeau.pdf</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../resources/impressum.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211212Z">
@@ -15754,8 +15746,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T200231Z">
-        <seg>Breve introduzione a OmegaT, 2009 (in vietnamese).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T171152Z">
+        <seg>Breve introduzione a OmegaT, 2009 (in vietnamita).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15980,14 +15972,6 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130425T195724Z">
         <seg>Di Václav Hejda (in ceco).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>By Yutaka Kachi (in Japanese).</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102736Z">
-        <seg>By Yutaka Kachi (in Japanese).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35016,8 +35000,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Mini-review of OmegaT, 2012.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T140152Z">
-        <seg>Sintesi di OmegaT, 2012.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T171405Z">
+        <seg>Mini recensione di OmegaT, 2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67931,14 +67915,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://en.wikipedia.org/wiki/OmegaT</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102847Z">
-        <seg>http://en.wikipedia.org/wiki/OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215647Z">
@@ -68263,14 +68239,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://swingtranslations.com/2012/09/cat-2-omegat/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102837Z">
-        <seg>http://swingtranslations.com/2012/09/cat-2-omegat/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215258Z">
@@ -68315,14 +68283,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215710Z">
         <seg>http://tech.groups.yahoo.com/group/omegat/database?method=reportRows&amp;amp;tbl=1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://thoughtsontranslation.com/2008/04/11/omegat-a-free-and-very-useful-tent/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102744Z">
-        <seg>http://thoughtsontranslation.com/2008/04/11/omegat-a-free-and-very-useful-tent/</seg>
       </tuv>
     </tu>
     <tu>
@@ -68383,14 +68343,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.catch.jp/oss/oss_transtools/index.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102733Z">
-        <seg>http://www.catch.jp/oss/oss_transtools/index.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.cjtranslations.com/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102908Z">
@@ -68431,14 +68383,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.eizie.org/Argitalpenak/Senez/20080201/sarasua</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102737Z">
-        <seg>http://www.eizie.org/Argitalpenak/Senez/20080201/sarasua</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.glossum.com/omegat</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121940Z">
@@ -68459,14 +68403,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102917Z">
         <seg>http://www.ill.eu/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.imasy.or.jp/%7Emiyamoto/rpg/OmegaT/index.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102739Z">
-        <seg>http://www.imasy.or.jp/%7Emiyamoto/rpg/OmegaT/index.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -68543,22 +68479,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.muitenviet.net/tintuc/OmegaT---Cong-cu-tro-giup-bien-dich-(CAT).html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102824Z">
-        <seg>http://www.muitenviet.net/tintuc/OmegaT---Cong-cu-tro-giup-bien-dich-(CAT).html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.nl-text.de/nl/cattools_omegat_nl.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102746Z">
-        <seg>http://www.nl-text.de/nl/cattools_omegat_nl.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.omegat.org</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215842Z">
@@ -68623,14 +68543,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.pcw.gr/StepByStep/FN/255.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102750Z">
-        <seg>http://www.pcw.gr/StepByStep/FN/255.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.portavita.eu/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160019Z">
@@ -68643,14 +68555,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102927Z">
         <seg>http://www.qabiria.com/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.roxomatic.de/1286/omegat</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102742Z">
-        <seg>http://www.roxomatic.de/1286/omegat</seg>
       </tuv>
     </tu>
     <tu>
@@ -71885,14 +71789,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093205Z">
         <seg>senza JRE (indicata col nome della versione "Without_JRE").</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>www.nl-text.de/cattools_omegat_de.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102747Z">
-        <seg>www.nl-text.de/cattools_omegat_de.html</seg>
       </tuv>
     </tu>
     <tu>
