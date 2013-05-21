@@ -3243,14 +3243,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../downloads.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181935Z">
-        <seg>../downloads.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../resources/impressum.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211212Z">
@@ -3833,14 +3825,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180038Z">
-        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;User manual online&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214407Z">
@@ -3891,8 +3875,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;?php echo $link ?&gt;Beta version&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223756Z">
-        <seg>&lt;?php echo $link ?&gt;Beta version&lt;?php echo $endlink ?&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220650Z">
+        <seg>&lt;?php echo $link ?&gt;Versione Beta&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3907,8 +3891,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;?php echo $link ?&gt;Standard version&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223752Z">
-        <seg>&lt;?php echo $link ?&gt;Standard version&lt;?php echo $endlink ?&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220552Z">
+        <seg>&lt;?php echo $link ?&gt;Versione standard&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14154,24 +14138,24 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Approximates to "alpha" in other projects.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175816Z">
-        <seg>Approximativamente la versione "alpha" di altri progetti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220741Z">
+        <seg>Corrisponde alla versione "alpha" di altri progetti.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Approximates to "beta" in other projects, but is generally very stable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223852Z">
-        <seg>Approximativamente la versione "beta" di altri progetti, ma è generalmente molto stabile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220717Z">
+        <seg>Corrisponde circa alla versione "beta" di altri progetti, ma in genere è molto stabile.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Approximates to "stable" in other projects.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223752Z">
-        <seg>Approximates to "stable" in other projects.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220633Z">
+        <seg>Corrisponde circa a "stable" in altri progetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36152,8 +36136,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that Sourceforge's use of terminology (e.g. "latest version") does not correspond to that used in the OmegaT project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175644Z">
-        <seg>Notare che l'uso della terminologia di Sourceforge (per esempio "ultima versione") non corrisponde a quello del progetto OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220540Z">
+        <seg>Notare che l'uso della terminologia di Sourceforge (per es., "latest version") non corrisponde a quello del progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42264,8 +42248,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Quit the Download Selector and return to the main downloads page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180031Z">
-        <seg>Uscire dal selettore di download e tornare alla pagina principale dei download.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220818Z">
+        <seg>Esci dal selettore di scaricamento e torna alla pagina principale degli scaricamenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59384,14 +59368,6 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Trunk</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175713Z">
-        <seg>Trunk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Trunk version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144941Z">
@@ -67703,26 +67679,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215448Z">
         <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/Omega
-T%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223755Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/Omega
-T%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/Omega
-T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223750Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/Omega
-T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
     </tu>
     <tu>
