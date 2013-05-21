@@ -35520,8 +35520,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181932Z">
-        <seg>Anche se, le versioni  "Ultime" di OmegaT sono usualmente molto stabili e sono consigliate per qualsiasi utente che già ha alcune esperienze con OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221203Z">
+        <seg>Ad ogni modo, le versioni "più recenti" di OmegaT sono di solito molto stabili e consigliate per tutti gli utenti che hanno già alcune esperienze con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37472,8 +37472,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT currently requires version &lt;?php echo $min_jre_version?&gt; of the JRE or later.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182048Z">
-        <seg>OmegaT attualmente richiede versione  &lt;?php echo $min_jre_version?&gt; di JRE o versione successiva.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221430Z">
+        <seg>OmegaT attualmente richiede la versione JRE &lt;?php echo $min_jre_version?&gt; o successiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38802,8 +38802,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182236Z">
-        <seg>OmegaT usualmente funzionerà su qualsiasi sistema Linux sul quale può essere installata una versione adatta di Java Runtime Environment (JRE).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221356Z">
+        <seg>OmegaT di solito funzionerà su qualsiasi sistema Linux sul quale può essere installata una versione adatta di Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47201,16 +47201,16 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Step 3: With or without JRE</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181952Z">
-        <seg>Step 3: With or without JRE</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221329Z">
+        <seg>Passaggio 3: con o senza JRE</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Step 4: "Standard" or "Latest"</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181939Z">
-        <seg>Step 4: "Standard" or "Latest"</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221229Z">
+        <seg>Passaggio 4: "Standard" o "Più recente"</seg>
       </tuv>
     </tu>
     <tu>
