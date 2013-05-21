@@ -3251,22 +3251,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../images/screenshot1.jpg</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102852Z">
-        <seg>../images/screenshot1.jpg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../images/screenshot2.jpg</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102858Z">
-        <seg>../images/screenshot2.jpg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../resources/impressum.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211212Z">
@@ -15199,14 +15183,6 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Balabit</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102907Z">
-        <seg>Balabit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215406Z">
@@ -16144,14 +16120,6 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>CJ Translations</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102909Z">
-        <seg>CJ Translations</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Call up the &lt;s0&gt;Search&lt;/s0&gt; window with &lt;c1&gt;Ctrl+F&lt;/c1&gt; and enter the word or phrase you wish to search for in the &lt;s2&gt;Search for&lt;/s2&gt; box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T130028Z">
@@ -16314,8 +16282,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T200517Z">
-        <seg>Alcune funzioni del programma sono stati comunque commissionate da sponsor commerciali, che poi hanno ridonato le nuove caratteristiche  alla comunità.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T171536Z">
+        <seg>Alcune funzioni del programma sono state comunque commissionate da sponsor commerciali, che poi hanno reso le nuove funzionalità alla comunità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17574,14 +17542,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120717T185049Z">
         <seg>Non è stato possibile eseguire il commit poiché la traduzione remota è stata modificata da qualcun altro.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Commodity12</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160026Z">
-        <seg>Commodity12</seg>
       </tuv>
     </tu>
     <tu>
@@ -19765,14 +19725,6 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Diptik</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102911Z">
-        <seg>Diptik</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Direct link to Sourceforge</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175245Z">
@@ -20529,14 +20481,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120518T112459Z">
         <seg>Fare doppio-clic su &lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; o sulla sua posizione nella Dock.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Doublet KK</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102914Z">
-        <seg>Doublet KK</seg>
       </tuv>
     </tu>
     <tu>
@@ -31291,14 +31235,6 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Institut Laue-Langevin</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102918Z">
-        <seg>Institut Laue-Langevin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150357Z">
@@ -31399,14 +31335,6 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110718T102435Z">
         <seg>Formato del file non valido</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Invantive</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102922Z">
-        <seg>Invantive</seg>
       </tuv>
     </tu>
     <tu>
@@ -41321,14 +41249,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T213150Z">
         <seg>Polacco</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Portavita</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160021Z">
-        <seg>Portavita</seg>
       </tuv>
     </tu>
     <tu>
@@ -51706,8 +51626,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T193445Z">
-        <seg>La grande maggioranza del lavoro sul progetto OmegaT è stata completata su base volontaria.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T171504Z">
+        <seg>La maggior parte del lavoro sul progetto OmegaT è stata completata su base volontaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66915,14 +66835,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>e-lexica</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102916Z">
-        <seg>e-lexica</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>editCreateGlossaryEntryMenuItem</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215557Z">
@@ -68335,54 +68247,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.balabit.com/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102906Z">
-        <seg>http://www.balabit.com/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.cjtranslations.com/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102908Z">
-        <seg>http://www.cjtranslations.com/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.commodity12.eu/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160022Z">
-        <seg>http://www.commodity12.eu/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.diptik.fr</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102910Z">
-        <seg>http://www.diptik.fr</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.doublet.jp/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102912Z">
-        <seg>http://www.doublet.jp/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.e-lexica.com/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102914Z">
-        <seg>http://www.e-lexica.com/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.glossum.com/omegat</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121940Z">
@@ -68395,22 +68259,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094527Z">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.ill.eu/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102917Z">
-        <seg>http://www.ill.eu/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.invantive.com</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102919Z">
-        <seg>http://www.invantive.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -68459,14 +68307,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214236Z">
         <seg>http://www.magentocommerce.com/wiki/how_to_translate_magento_using_omegat_software</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.marcprior.de/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102925Z">
-        <seg>http://www.marcprior.de/</seg>
       </tuv>
     </tu>
     <tu>
@@ -68539,22 +68379,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215853Z">
         <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.portavita.eu/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160019Z">
-        <seg>http://www.portavita.eu/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.qabiria.com/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102927Z">
-        <seg>http://www.qabiria.com/</seg>
       </tuv>
     </tu>
     <tu>
