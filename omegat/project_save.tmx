@@ -13125,8 +13125,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After selecting and installing a suitable browser (and/or the required add-on), open your translated file in the /target folder of your project:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202152Z">
-        <seg>Dopo la selezione e l'installazione di un browser adatto (e/o il componente aggiuntivo richiesto), aprire il file convertito nella cartella del progetto /target:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094811Z">
+        <seg>Dopo la selezione e l'installazione del browser adatto (e, o in alternativa, il componente aggiuntivo richiesto), aprire il file tradotto nella cartella /target del proprio progetto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57785,8 +57785,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="EN">
         <seg>To add the auto refresh function to Chrome, &lt;a2&gt;download and install the Auto Refresh Plus extension&lt;/a2&gt; from the Web Store.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202147Z">
-        <seg>Per aggiungere la funzione di aggiornamento automatico per Chrome, &lt;a2&gt;scaricare e installare l'estensione Auto Refresh Plus&lt;/a2&gt; dall'archivio Web.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094546Z">
+        <seg>Per aggiungere la funzione di aggiornamento automatico in Chrome, &lt;a2&gt;scaricare e installare l'estensione "Auto Refresh Plus"&lt;/a2&gt; dal Web Store.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65106,8 +65106,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may prefer &lt;i0&gt;not&lt;/i0&gt; to use your usual browser for the preview function so as to keep it free for Internet browsing rather than having constantly to switch tabs, so you can regard installing an additional browser for the preview function as an advantage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223204Z">
-        <seg>È preferibile &lt;i0&gt;non&lt;/i0&gt; utilizzare il proprio browser abituale per la funzione di anteprima in modo da tenerlo libero per la navigazione Internet, piuttosto che dover continuamente saltare fra le schede, conviene considerare l'installazione di un browser supplementare riservato alla funzione di anteprima come un vantaggio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094719Z">
+        <seg>Si potrebbe preferire di &lt;i0&gt;non&lt;/i0&gt; utilizzare il proprio browser abituale per la funzione di anteprima, in modo da tenerlo libero per la navigazione Internet. Piuttosto che dover continuamente saltare fra le schede, converrà considerare l'installazione di un browser supplementare riservato alla funzione di anteprima.</seg>
       </tuv>
     </tu>
     <tu>
