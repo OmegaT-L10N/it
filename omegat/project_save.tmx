@@ -13798,8 +13798,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120229Z">
-        <seg>Anche se può sembrare strano voler tradurre (il motivo usuale per la creazione di un filtro di file) file TMX, l'aggiunta di un filtro TMX ha un interessante effetto che permette a file TMX di essere cercato in qualsiasi posizione, all'interno di qualsiasi progetto OmegaT, utilizzando la funzione "Ricerca file", qualcosa di impossibile nella compilazione standard di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091059Z">
+        <seg>Anche se può sembrare strano voler tradurre (il motivo usuale per la creazione di un filtro di file) file TMX, l'aggiunta di un filtro TMX produce l'interessante effetto di permettere la ricerca all'interno dei file TMX da qualsiasi posizione, all'interno di qualsiasi progetto OmegaT, tramite la funzione "Ricerca file", cosa non possibile nell'impianto standard di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23827,8 +23827,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120401Z">
-        <seg>Per la compilazione di OmegaT dal codice sorgente, vedere la &lt;a0&gt;Guida della compilazione di OmegaT dal codice sorgente&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091128Z">
+        <seg>Per la compilazione di OmegaT dal codice sorgente, vedere la &lt;a0&gt;Guida alla compilazione di OmegaT dal codice sorgente&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26807,8 +26807,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Identify the paragraph-level tag(s) for your new file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123029Z">
-        <seg>Identificare i tag di livello di paragrafo per il nuovo formato di file.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091328Z">
+        <seg>Identificare i tag a livello di paragrafo per il nuovo formato di file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29780,14 +29780,6 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In TMXDialect.java:</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123102Z">
-        <seg>In TMXDialect.java:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In TMXFilter.java:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124007Z">
@@ -29911,8 +29903,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In both files, search for (matching the case) and replace:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T120852Z">
-        <seg>In entrambi i file, cercate (abbinando maiuscole e minuscole) e sostituire:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091310Z">
+        <seg>In entrambi i file, cercare (con discriminazione delle maiuscole/minuscole) e sostituire:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30992,8 +30984,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this folder, rename the two files HelpandManualDialect.java and HelpandManualFilter.java to TmxDialect.java and TmxFilter.java respectively.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201142Z">
-        <seg>In questa cartella, rinominare i due file HelpandManualDialect.java e HelpandManualFilter.java TmxDialect.java e TmxFilter.java rispettivamente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091213Z">
+        <seg>In questa cartella, rinominare i due file HelpandManualDialect.java e HelpandManualFilter.java in TmxDialect.java e TmxFilter.java, rispettivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40268,8 +40260,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the files TMXDialect.java and TMX filter in a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201146Z">
-        <seg>Aprite il file TMXDialect.java e TMX filtro in un editor di testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091231Z">
+        <seg>Aprire il file TMXDialect.java e il filtro TMX in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58282,8 +58274,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To find out what the paragraph tags should be, examine a sample file in a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201202Z">
-        <seg>Per scoprire quali dovrebbero essere i tag di paragrafo, esaminare un esempio di file in un editor di testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091350Z">
+        <seg>Per scoprire quali dovrebbero essere i tag di paragrafo, esaminare un file di esempio in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66951,14 +66943,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175639Z">
         <seg>commons-*.jar (licenza Apache 2.0)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>compiling_from_source.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180554Z">
-        <seg>compiling_from_source.html</seg>
       </tuv>
     </tu>
     <tu>
