@@ -39778,8 +39778,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once you have installed either Abiword or the LibreOffice+Uniconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224221Z">
-        <seg>Una volta che avete installato Abiword o la combinazione di LibreOffice + Uniconv, è possibile convertire i file di destinazione prodotti da OmegaT in formato html per poter leggere dal browser.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101122Z">
+        <seg>Una volta installato Abiword o la combinazione di LibreOffice + Uniconv, è possibile convertire i file di destinazione prodotti da OmegaT in formato html in modo da poter essere letti dal browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43337,8 +43337,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224318Z">
-        <seg>Ricordate che prima dovrete salvare in OmegaT e produrre i documenti tradotti, avviare l'utilità di conversione e quindi attendere che la visualizzazione sia aggiornata nel browser.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101158Z">
+        <seg>Ricordare che si dovrà prima salvare in OmegaT e produrre i documenti tradotti, avviare poi l'utilità di conversione e quindi attendere che la visualizzazione sia aggiornata nel browser.</seg>
       </tuv>
     </tu>
     <tu>
