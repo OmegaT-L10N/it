@@ -12541,8 +12541,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Abiword and LibreOffice are a word processor and an office suite respectively.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202227Z">
-        <seg>AbiWord e LibreOffice sono rispettivamente un word processor e una suite per ufficio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100723Z">
+        <seg>AbiWord e LibreOffice sono, rispettivamente, un elaboratore testi e una suite per ufficio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59954,8 +59954,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Two programs that can be used as converters are described here: Abiword and LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202225Z">
-        <seg>Due programmi che possono essere utilizzati come convertitori sono descritti qui: Abiword e LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100705Z">
+        <seg>Due programmi utilizzabili come convertitori sono descritti qui: Abiword e LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64693,8 +64693,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can still use the browser solution described above to preview the translations of these files, but you will then also need a) a converter to convert the file to .html format, and b) a utility to launch the converter automatically so that you don't have to convert the files manually.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223704Z">
-        <seg>È comunque possibile utilizzare la soluzione dei browser descritta sopra per visualizzare in anteprima le traduzioni di questi file, ma poi sarà necessario anche a) un convertitore per convertire il file in formato. html e b) un programma di utilità per lanciare automaticamente il convertitore così che non devi convertire i file manualmente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100644Z">
+        <seg>È comunque possibile utilizzare la soluzione dei browser descritta sopra per visualizzare in anteprima le traduzioni di questi file, ma si avrà poi bisogno anche di: a) un convertitore per convertire il file in formato .html; b) un programmino per avviare automaticamente il convertitore, in modo da non dover convertire manualmente i file.</seg>
       </tuv>
     </tu>
     <tu>
