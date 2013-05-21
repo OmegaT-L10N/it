@@ -24003,8 +24003,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T071127Z">
-        <seg>Per esempio, non c'è nulla che impedisca a un utente di scrivere il proprio manuale dell'utente o un video dimostrativo di OmegaT, e se il progetto lo considera appena utile è probabile che sia reso disponibile alla comunità degli  utenti di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T142724Z">
+        <seg>Per esempio, non c'è nulla che impedisca a un utente di scrivere il proprio manuale dell'utente o un video dimostrativo di OmegaT e, se il progetto lo considera appena utile, è probabile che sia reso disponibile alla comunità degli utenti di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26103,8 +26103,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T055052Z">
-        <seg>Come farlo è compito loro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T142643Z">
+        <seg>"Come" farlo è compito loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56268,8 +56268,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T060133Z">
-        <seg>Questo approccio "giù le mani" è descritto dall'attuale coordinatore OmegaT del progetto come "anarchia delegata".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T142857Z">
+        <seg>Questo approccio di "non intervento" è descritto, dall'attuale coordinatore OmegaT del progetto, come "anarchia delegata".</seg>
       </tuv>
     </tu>
     <tu>
@@ -62755,8 +62755,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T055739Z">
-        <seg>Per quanto riguarda le mansioni sistematiche, ai volontari che lavorano sul progetto OmegaT è generalmente data tutta la libertà possibile nel determinare la forma del loro contributo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T142754Z">
+        <seg>Per quanto riguarda le attività di routine, ai volontari che lavorano sul progetto OmegaT è generalmente data tutta la libertà possibile nel determinare la forma del loro contributo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68191,14 +68191,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095402Z">
         <seg>http://lists.sourceforge.net/mailman/listinfo/omegat-l10n</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082444Z">
-        <seg>http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</seg>
       </tuv>
     </tu>
     <tu>
