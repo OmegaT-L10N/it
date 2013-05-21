@@ -31776,6 +31776,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to select another tokenizer or a different version of the tokenizer from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T175422Z">
+        <seg>È possibile selezionare un altro tokenizer, o una sua versione diversa, dalla finestra delle Proprietà del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to use Apertium to build machine translation systems for a variety of language pairs; to that end, Apertium uses simple XML-based standard formats to encode the linguistic data needed (either by hand or by converting existing data), which are compiled using the provided tools into the high-speed formats used by the engine.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T221124Z">
@@ -38712,6 +38720,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T175545Z">
+        <seg>OmegaT non si avvierà se vengono trovati i tokenizer nella cartella /plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190329Z">
@@ -42947,6 +42963,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120527T212421Z">
         <seg>Rimuovi i tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T175535Z">
+        <seg>Rimuovere tutti i tokenizer dalla cartella /plugin prima di avviare OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
