@@ -18823,8 +18823,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Creating an "alternative translation" therefore relies upon identical segments having different preceding and following segments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T144635Z">
-        <seg>La creazione di una "traduzione alternativa" si basa pertanto su segmenti identici di con segmenti precedente e seguente diversi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T110034Z">
+        <seg>La creazione di una "traduzione alternativa" si basa pertanto su segmenti identici che hanno un segmento precedente e seguente diverso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24340,8 +24340,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For some file types, OmegaT uses the preceding and following segments to make segments unique.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T144430Z">
-        <seg>Per alcuni tipi di file, OmegaT utilizza il segmento precedente e il seguente per farli diventare unici.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T105829Z">
+        <seg>Per rendere univoci i segmenti di alcuni tipi di file, OmegaT utilizza i segmenti precedenti e seguenti.</seg>
       </tuv>
     </tu>
     <tu>
