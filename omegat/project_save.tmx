@@ -3883,8 +3883,8 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;?php echo $link ?&gt;Latest&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180534Z">
-        <seg>&lt;?php echo $link ?&gt;Latest&lt;?php echo $endlink ?&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220942Z">
+        <seg>&lt;?php echo $link ?&gt;Più recente&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3893,14 +3893,6 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220552Z">
         <seg>&lt;?php echo $link ?&gt;Versione standard&lt;?php echo $endlink ?&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;?php echo $link ?&gt;Standard&lt;?php echo $endlink ?&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180042Z">
-        <seg>&lt;?php echo $link ?&gt;Standard&lt;?php echo $endlink ?&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14430,8 +14422,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180641Z">
-        <seg>Come suggerisce il nome, la versione ultima do OmegaT è più aggiornata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221009Z">
+        <seg>Come suggerisce il nome, la versione più recente di OmegaT è quella più aggiornata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26023,8 +26015,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181531Z">
-        <seg>Comunque, il manuale utente potrebbe essere non più aggiornato (e quindi possibilmente confuso), e alcuni errori minori sono possibili.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221101Z">
+        <seg>Comunque, il manuale utente potrebbe non essere più aggiornato (e quindi possibilmente fuorviante), e potrebbero essere presenti alcuni errori minori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37096,8 +37088,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT Download Selector</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T175158Z">
-        <seg>Selettore di download di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220833Z">
+        <seg>Selettore di scaricamento di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -47201,8 +47193,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Step 3: "Standard" or "Latest"</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180032Z">
-        <seg>Step 3: "Standard" or "Latest"</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220851Z">
+        <seg>Passaggio 3: "Standard" o "Più recente"</seg>
       </tuv>
     </tu>
     <tu>
@@ -48740,8 +48732,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T180402Z">
-        <seg>La versione "Standard" di OmegaT include un manuale dell'utente completo (almeno in inglese) e usualmente sraà stato provato per qualche tempo per eliminare qualsiasi errore.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220930Z">
+        <seg>La versione "standard" di OmegaT include un manuale dell'utente completo (almeno in inglese) e in genere è stata provata per qualche tempo per eliminare qualsiasi errore.</seg>
       </tuv>
     </tu>
     <tu>
