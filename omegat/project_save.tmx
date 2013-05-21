@@ -12061,8 +12061,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122739Z">
-        <seg>Una guida passo passo su come utilizzare l'utilità fusione testo, pre- e post- elaborazione file e estrazione di testo da Rainbow per tradurre usando OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215227Z">
+        <seg>Una guida passo passo su come utilizzare l'utilità fusione testo, pre- e post-elaborazione file ed estrazione di testo da Rainbow da tradurre con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17540,8 +17540,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compiling OmegaT from source</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121539Z">
-        <seg>Compilazione di OmegaT dal sorgente</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214955Z">
+        <seg>Compilazione di OmegaT da sorgente</seg>
       </tuv>
     </tu>
     <tu>
@@ -22178,16 +22178,16 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Explains how to compile OmegaT from the source code.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121601Z">
-        <seg>Spiega come compilare il codice sorgente OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215010Z">
+        <seg>Spiega come compilare OmegaT dal codice sorgente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Explains how to create a filter for a new file format to be translated by OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121642Z">
-        <seg>Spiega come creare un filtro per un nuovo formato di file da tradurre da OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215023Z">
+        <seg>Spiega come creare un filtro per un nuovo formato di file da tradurre con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25863,8 +25863,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>How to translate Wordpress XLIFF files</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122404Z">
-        <seg>Come tradurre file Wordpress XLIFF</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215117Z">
+        <seg>Come tradurre i file Wordpress XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -30712,8 +30712,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122116Z">
-        <seg>Informazioni su procedure e caratteristiche di OmegaT per utenti esperti che possono essere trovate su altri siti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215055Z">
+        <seg>Informazioni su procedure e caratteristiche di OmegaT per utenti esperti rinvenibili su altri siti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31197,8 +31197,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Intended in particular for users who are new to Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121859Z">
-        <seg>intesa in particolare per utenti neofiti di Linux.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215039Z">
+        <seg>Intesa in particolare per utenti neofiti di Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67579,22 +67579,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>howtos/linux.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121726Z">
-        <seg>howtos/linux.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/new_filter.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121601Z">
-        <seg>howtos/new_filter.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>howtos/spelling.html#repositories</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121902Z">
@@ -68055,26 +68039,10 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://translatedfiles.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101533Z">
-        <seg>http://translatedfiles.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220212Z">
         <seg>http://weitz.de/regex-coach/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214244Z">
-        <seg>http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -68139,14 +68107,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122026Z">
         <seg>http://www.leuce.com/tempfile/omtautoit/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.magentocommerce.com/wiki/how_to_translate_magento_using_omegat_software</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214236Z">
-        <seg>http://www.magentocommerce.com/wiki/how_to_translate_magento_using_omegat_software</seg>
       </tuv>
     </tu>
     <tu>
