@@ -120,8 +120,8 @@
       <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T145025Z">
-        <seg>L'attributo di "segmento non univoco" copre ambedue le traduzioni sia la predefinita che l'alternativa.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T110427Z">
+        <seg>L'attributo di "segmento non univoco" include sia le traduzioni predefinite, sia le alternative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16234,8 +16234,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T145453Z">
-        <seg>Per impostazione predefinita, il comando (Ctrl+U) Vai &gt; Prossimo segmento non tradotto, salta al prossimo segmento non tradotto, saltando le traduzioni "propagate" nel processo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T110652Z">
+        <seg>Per impostazione predefinita, il comando Vai &gt; Segmento non tradotto successivo (Ctrl+U), salta al segmento successivo non tradotto, saltando le traduzioni propagate nel processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17956,8 +17956,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T145129Z">
-        <seg>Di conseguenza, i segmenti contrassegnati come non univoci (con il carattere grigio) sono contrassegnati come non univoci indipendentemente per essi se sono state create o no traduzioni alternative.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T110518Z">
+        <seg>Di conseguenza, i segmenti contrassegnati come non univoci (carattere grigio) sono contrassegnati come non univoci indipendentemente dal fatto che per essi siano state create o no traduzioni alternative.</seg>
       </tuv>
     </tu>
     <tu>
