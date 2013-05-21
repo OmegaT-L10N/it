@@ -62819,8 +62819,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T144832Z">
-        <seg>Dove due segmenti hanno anche identici segmenti precedente e successivo (per esempio quando un'intera pagina compare due volte nel testo), essi non possono essere tradotti in modo diverso gli uni dagli altri in OmegaT, cioè non è possibile fare in uno di loro una "traduzione alternativa".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T110219Z">
+        <seg>Laddove due segmenti hanno anche identici segmenti precedente e seguente (per esempio, quando un'intera pagina compare due volte nel testo), essi non possono essere tradotti in modo diverso gli uni dagli altri in OmegaT, cioè non è possibile creare una "traduzione alternativa" con uno di loro.</seg>
       </tuv>
     </tu>
     <tu>
