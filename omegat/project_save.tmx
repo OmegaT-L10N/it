@@ -2493,8 +2493,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- It is free&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082023Z">
-        <seg>- È gratis &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124446Z">
+        <seg>- È gratuito &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2509,8 +2509,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- It is widely used, so help can be found on the Internet&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101559Z">
-        <seg>- È ampiamente utilizzato, così l'aiuto può essere trovato su Internet &lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124516Z">
+        <seg>- È ampiamente utilizzato, dunque si può trovare aiuto in Internet&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14678,8 +14678,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As for te-gloss-highlight, but substitutes the source terms in the glossary with the target terms.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200618Z">
-        <seg>Come per te-gloss-clou, ma sostituisce i termini di origine nel glossario con i termini di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124410Z">
+        <seg>Uguale a te-gloss-highlight, ma sostituisce i termini di origine nel glossario con quelli di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48771,8 +48771,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk has a number of advantages as a scripting language:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101300Z">
-        <seg>Tcl/tk ha una serie di vantaggi come linguaggio di scripting:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124439Z">
+        <seg>Tcl/tk ha una serie di vantaggi come linguaggio di script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51954,8 +51954,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The glossary file must consist of two columns only, have the name GLOSS.utf8, and be present in the /script folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200615Z">
-        <seg>Il file Glossario deve costituito da solo due colonne, hanno il nome GLOSS.utf8 ed essere presenti nella cartella/script.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124326Z">
+        <seg>Il file di glossario deve costituito da solo due colonne, avere il nome GLOSS.utf8 ed essere presente nella cartella /script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57176,8 +57176,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This script reads the content of a glossary file and highlights any terms found in it in the current (source) segment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200613Z">
-        <seg>Questo script legge il contenuto di un file di glossario e mette in evidenza eventuali termini trovati in esso nel segmento corrente (fonte).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124252Z">
+        <seg>Questo script legge il contenuto di un file di glossario e mette in evidenza tutti i termini trovati in esso all'interno del segmento (origine) corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71365,22 +71365,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200420Z">
         <seg>target.txt - contiene il testo di destinazione del segmento &lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>te-gloss-subst</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160009Z">
-        <seg>te-gloss-subst</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>te-gloss-subst-highlight</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101512Z">
-        <seg>te-gloss-subst-highlight</seg>
       </tuv>
     </tu>
     <tu>
