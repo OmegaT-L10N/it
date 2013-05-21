@@ -1655,8 +1655,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(It will, of course, check for Bolivian rather than Mexican Spanish!)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T151736Z">
-        <seg>(Naturalmente, controllerà per spagnolo boliviano anziché spagnolo messicano!)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T120304Z">
+        <seg>(Naturalmente, i controlli saranno eseguiti per lo spagnolo boliviano anziché quello messicano!)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16890,8 +16890,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Check that spelling checking is enabled in the spelling checking dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T151907Z">
-        <seg>Verificare che il controllo ortografico sia attivato nella finestra di dialogo Correzione ortografica... .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T120354Z">
+        <seg>Verificare che il controllo ortografico sia attivato nella finestra di dialogo Impostazioni del correttore ortografico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28884,8 +28884,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you only have a Bolivian Spanish dictionary available, with the file names es_BO.dic and es_BO.aff, you can rename these files es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T151705Z">
-        <seg>Se si ha disponibile solo un dizionario spagnolo boliviano, con il file nomi es_BO.dic ed es_BO.aff, è possibile rinominare questi file es_MX.dic ed es_MX.aff, e il dizionario ortografico funzionerà.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T120221Z">
+        <seg>Se si dispone solo di un dizionario spagnolo boliviano, con i nomi file es_BO.dic ed es_BO.aff, è possibile rinominare file in es_MX.dic ed es_MX.aff: il dizionario ortografico funzionerà.</seg>
       </tuv>
     </tu>
     <tu>
