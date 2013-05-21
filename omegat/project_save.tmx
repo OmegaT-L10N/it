@@ -4869,8 +4869,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;b0&gt;Remove Translation&lt;/b0&gt;: deletes the content of the segment, causing (when Enter is pressed) the default translation to be inserted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T113326Z">
-        <seg>&lt;b0&gt;Rimuovi traduzione&lt;/b0&gt;: cancella il contenuto del segmento, causando (quando si preme INVIO) l'inserimento della traduzione di default.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T105637Z">
+        <seg>&lt;b0&gt;Rimuovi traduzione&lt;/b0&gt;: elimina il contenuto del segmento, causando (quando si preme INVIO) l'inserimento della traduzione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16658,8 +16658,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Changes to this segment have no effect upon other segments, nor do changes to the "default translation" affect it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T113142Z">
-        <seg>Le modifiche in questo segmento non hanno alcun effetto sugli altri segmenti, né i cambi alla "traduzione predefinita" possono influenzare questo segmento.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T105618Z">
+        <seg>Le modifiche in questo segmento non hanno alcun effetto sugli altri segmenti, né i cambi alla "traduzione predefinita" lo possono influenzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41527,8 +41527,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Points to note</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T113814Z">
-        <seg>Punti notevoli</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T105702Z">
+        <seg>Punti salienti</seg>
       </tuv>
     </tu>
     <tu>
