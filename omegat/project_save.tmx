@@ -16250,8 +16250,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>By the same token, the OmegaT project is run by volunteers who receive no payment for the work they do and time they spend on the project.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145316Z">
-        <seg>Per lo stesso motivo, il progetto OmegaT è gestito da volontari che non ricevono alcun pagamento per il lavoro che fanno e il tempo che trascorrono sul progetto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T125057Z">
+        <seg>Per lo stesso motivo, il progetto OmegaT è gestito da volontari che non ricevono alcun compenso per il lavoro che fanno e il tempo che trascorrono sul progetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23635,8 +23635,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T215359Z">
-        <seg>Per i sostenitori del software open source, questa libertà è persino più importante dell'esenzione dal dover pagare alcunché.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T125042Z">
+        <seg>Per i sostenitori del software open source, questa libertà è persino più importante dell'esenzione dal dover pagare qualcosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38430,8 +38430,8 @@ la cartella home dell'utente.</seg>
       <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T221526Z">
-        <seg>OmegaT non è solo un prodotto, è un progetto entusiasmante, e si può farne parte.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124945Z">
+        <seg>OmegaT non è solo un prodotto, è un progetto entusiasmante e puoi farne parte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49035,16 +49035,16 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T215320Z">
-        <seg>Ciò significa che se ti senti abbastanza inclinato, puoi modificare OmegaT per soddisfare le tue esigenze.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T125032Z">
+        <seg>Ciò significa che se ti senti in grado di farlo, puoi modificare OmegaT per soddisfare le tue esigenze.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T215208Z">
-        <seg>Ciò significa che gli utenti come te sono liberi di scaricarlo e utilizzarlo con ben poche restrizioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T125001Z">
+        <seg>Ciò significa che gli utenti come te sono liberi di scaricarlo e utilizzarlo con pochissime restrizioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56532,8 +56532,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is likely to be a little too technical for complete newcomers to programming, but after working through one of the online tutorials, they should find it useful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102722Z">
-        <seg>Questo è probabile sia un po' troppo tecnico per i neofiti di programmazione, ma dopo aver lavorato attraverso uno dei tutorial on-line, lo si dovrebbe trovare utile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124902Z">
+        <seg>È probabile sia un po' troppo tecnico per i neofiti della programmazione ma, dopo aver lavorato attraverso una delle esercitazioni in linea, lo troveranno utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63717,8 +63717,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145009Z">
-        <seg>Siete anche liberi di copiarlo e di darlo ad altre persone.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T125010Z">
+        <seg>Siete anche liberi di copiarlo e di distribuirlo ad altre persone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71789,14 +71789,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124049Z">
         <seg>in:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>tokenizer.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082250Z">
-        <seg>tokenizer.php</seg>
       </tuv>
     </tu>
     <tu>
