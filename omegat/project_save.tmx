@@ -3275,14 +3275,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>./lin_nojre.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223902Z">
-        <seg>./lin_nojre.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>./osx.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183043Z">
@@ -3311,14 +3303,6 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183243Z">
         <seg>./win_nojre.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>./ws.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182758Z">
-        <seg>./ws.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -27761,8 +27745,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182738Z">
-        <seg>Se siete sicuri che un idoneo ambiente di Runtime Java è già installato sul vostro computer a livello di sistema, è possibile selezionare l'opzione senza JRE.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221911Z">
+        <seg>Se si è certi che il corretto Java Runtime Environment è già installato sul proprio computer a livello di sistema, è possibile selezionare l'opzione senza JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47145,8 +47129,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Step 1: Select from Traditional, Web Start or Expert</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182742Z">
-        <seg>Step 1: Select from Traditional, Web Start or Expert</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T222025Z">
+        <seg>Passaggio 1: Seleziona da Tradizionale, Web Start o Esperto</seg>
       </tuv>
     </tu>
     <tu>
@@ -54096,8 +54080,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182753Z">
-        <seg>La versione per l'installazione da parte dell'utente, familiare agli utenti di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T222045Z">
+        <seg>La versione per l'installazione da parte dell'utente, familiare agli utenti di OmegaT già esistenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56840,8 +56824,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182706Z">
-        <seg>Ci vorrà più tempo per scaricare questa versione e richiede più spazio sul disco rigido, ma si può essere sicuri che funzionerà eseguita.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221807Z">
+        <seg>Sarà più lungo scaricare questa versione e ci vorrà più spazio sul disco rigido, ma si potrà essere certi che essa funzionerà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61428,14 +61412,6 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T183812Z">
         <seg>Raccomandiamo dunque di scaricare e installare "Oracle Java Runtime Environment" (JRE) o il pacchetto OmegaT completo di JRE (quello .tar.bz2) contrassegnato "Linux").</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Web Start</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182801Z">
-        <seg>Web Start</seg>
       </tuv>
     </tu>
     <tu>
@@ -70761,14 +70737,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T181659Z">
         <seg>translationMemories.html#pseudo_translate</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>ui.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182743Z">
-        <seg>ui.php</seg>
       </tuv>
     </tu>
     <tu>
