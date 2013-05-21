@@ -3173,8 +3173,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>...and around 30 other file formats</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150340Z">
-        <seg>... e circa 30 altri formati di file</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T141824Z">
+        <seg>... e circa trenta altri formati di file</seg>
       </tuv>
     </tu>
     <tu>
@@ -24820,8 +24820,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>Fuzzy matching</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T211744Z">
-        <seg>Corrispondenza parziale (fuzzy)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T141713Z">
+        <seg>Concordanze parziale (fuzzy)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34896,8 +34896,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Match propagation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T211758Z">
-        <seg>Propagazione della corrispondenza</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T141722Z">
+        <seg>Propagazione delle concordanze</seg>
       </tuv>
     </tu>
     <tu>
@@ -34994,14 +34994,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095457Z">
         <seg>Maxym Mykhalchuk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>MediaWiki (Wikipedia)&lt;br4/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082426Z">
-        <seg>MediaWiki (Wikipedia)&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35168,8 +35160,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Microsoft Word, Excel, Powerpoint (.docx, .xlsx, .pptx)&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150308Z">
-        <seg>Microsoft Word, Excel, Powerpoint (con estensione docx, xlsx, pptx) &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T141752Z">
+        <seg>Microsoft Word, Excel, Powerpoint (con estensione docx, xlsx, pptx)&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39950,14 +39942,6 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T215950Z">
         <seg>Apri</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Open Document Format (LibreOffice, OpenOffice.org)&lt;br3/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150319Z">
-        <seg>Open Document Format (LibreOffice, OpenOffice.org) &lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46473,8 +46457,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Simultaneous use of multiple translation memories</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T150300Z">
-        <seg>Uso simultaneo di diverse memorie di traduzione</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T141737Z">
+        <seg>Uso simultaneo di più memorie di traduzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -63613,8 +63597,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>XHTML and HTML&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082425Z">
-        <seg>XHTML and HTML&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T141758Z">
+        <seg>XHTML e HTML&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
