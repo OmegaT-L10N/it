@@ -1679,8 +1679,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Note to Ubuntu users: the font implementation of the default tcl/tk installation in Ubuntu at the present time (version 9.10) is appalling, but can be rectified.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100025Z">
-        <seg>(Nota per gli utenti Ubuntu: l'implementazione dei caratteri dell'installazione predefinita tcl/tk in Ubuntu al momento attuale, la versione 9.10, è spaventosa, ma può essere rettificata).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122252Z">
+        <seg>(Nota per gli utenti Ubuntu: l'implementazione dei caratteri dell'installazione predefinita tcl/tk in Ubuntu al momento attuale - versione 9.10 - è spaventosa, ma può essere rettificata).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30031,8 +30031,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200436Z">
-        <seg>Al fine di rendere il funzionamento del codice script più chiaro, ogni script esegue essenzialmente solo una funzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122314Z">
+        <seg>Per rendere il funzionamento del codice script più chiaro, ogni script esegue essenzialmente una sola funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48763,8 +48763,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk can be obtained from a number of sources; tcl.activestate.com is one popular source.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081450Z">
-        <seg>Tcl/tk può essere ottenuto da un certo numero di fonti; Tcl.ActiveState.com è una fonte popolare.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122138Z">
+        <seg>Tcl/tk può essere ottenuto da un certo numero di fonti; tcl.activestate.com è una fonte popolare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50784,8 +50784,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T095745Z">
-        <seg>Il contenuto dei file viene sovrascritto o quando un nuovo segmento è aperto (source.txt e target.txt) o quando una nuova selezione è esportata (selection.txt).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122051Z">
+        <seg>Il contenuto dei file viene sovrascritto sia quando un nuovo segmento è aperto (source.txt e target.txt), sia quando una nuova selezione è esportata (selection.txt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51474,8 +51474,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The files are unformatted plain-text files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081326Z">
-        <seg>I file sono file di testo semplice.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122104Z">
+        <seg>I file sono di testo semplice non formattato.</seg>
       </tuv>
     </tu>
     <tu>
