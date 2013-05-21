@@ -1671,8 +1671,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173932Z">
-        <seg>(Da non confondere con la funzione "Esporta un testo", che permette anche di utilizzare script con OmegaT, ma a un livello più elementare.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164951Z">
+        <seg>(Da non confondere con la funzione "Esporta testo", che permette anche di utilizzare gli script con OmegaT, ma a un livello più elementare)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3299,34 +3299,10 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../resources/TMXCleaner-1.0.RC1.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082531Z">
-        <seg>../resources/TMXCleaner-1.0.RC1.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../resources/TMXMerger.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082528Z">
-        <seg>../resources/TMXMerger.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../resources/WF.zip</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082614Z">
         <seg>../resources/WF.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../resources/aligner.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082525Z">
-        <seg>../resources/aligner.zip</seg>
       </tuv>
     </tu>
     <tu>
@@ -14290,8 +14266,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Apertium Plugin</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174143Z">
-        <seg>Il plug-in Apertium</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165014Z">
+        <seg>Plug-in Apertium</seg>
       </tuv>
     </tu>
     <tu>
@@ -18044,24 +18020,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Contributed by Didier Briel.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192259Z">
-        <seg>Dovuta al contributo di Didier Briel.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165116Z">
+        <seg>Contributo di Didier Briel.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Contributed by Dmitri Gabinski.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192250Z">
-        <seg>Dovuta al contributo di Dmitri Gabinski.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165109Z">
+        <seg>Contributo di Dmitri Gabinski.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Contributed by Henry Pijffers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192324Z">
-        <seg>Dovuta al contributo di Henry Pijffers.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165139Z">
+        <seg>Contributo di Henry Pijffers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29470,8 +29446,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174227Z">
-        <seg>Importante: per poter utilizzare i plug-in, è necessario installare una versione più recente di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165038Z">
+        <seg>Importante: per utilizzare i plug-in, è necessario installare una versione recente di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32629,8 +32605,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192313Z">
-        <seg>Java script da riga di comando per la fusione di due o più file TMX.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165134Z">
+        <seg>Script Java a riga di comando per la fusione di due o più file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37280,8 +37256,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Okapi Filters Plugin</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174059Z">
-        <seg>Il plug-in filtri Okapi</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165003Z">
+        <seg>Plug-in dei filtri Okapi</seg>
       </tuv>
     </tu>
     <tu>
@@ -48213,22 +48189,6 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121850Z">
         <seg>I file TMX prodotti su sistemi Windows possono iniziare con un "byte-order mark" (BOM).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>TMXCleaner</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082532Z">
-        <seg>TMXCleaner</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>TMXMerger</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082529Z">
-        <seg>TMXMerger</seg>
       </tuv>
     </tu>
     <tu>
@@ -61471,8 +61431,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Utilities</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192010Z">
-        <seg>Programmi di utilità</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165047Z">
+        <seg>Utilità</seg>
       </tuv>
     </tu>
     <tu>
@@ -68559,14 +68519,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://wiki.apertium.org/wiki/Apertium-OmegaT</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082524Z">
-        <seg>http://wiki.apertium.org/wiki/Apertium-OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://wiki.impressive-media.de/doc/schnelles-und-effizientes-%C3%BCbersetzen-mit-omegat-statt-poedit</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121049Z">
@@ -68595,14 +68547,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102906Z">
         <seg>http://www.balabit.com/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.bligner.org</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082527Z">
-        <seg>http://www.bligner.org</seg>
       </tuv>
     </tu>
     <tu>
