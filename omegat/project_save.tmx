@@ -19335,16 +19335,16 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070034Z">
-        <seg>Descrive la Compatibilità di OmegaT con Déjà Vu</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214709Z">
+        <seg>Descrive la compatibilità di OmegaT con Déjà Vu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065947Z">
-        <seg>Descrive la Compatibilità di OmegaT con i file di Microsoft Office 2007, soprattutto Word 2007.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214706Z">
+        <seg>Descrive la compatibilità di OmegaT con i file di Microsoft Office 2007, soprattutto Word 2007.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19359,8 +19359,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070655Z">
-        <seg>Descrive le caratteristiche 'Propagazione della concordanza' e 'Concordanza una a molti' di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214841Z">
+        <seg>Descrive le funzionalità della propagazione e della concordanza uno a molti di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19375,16 +19375,16 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070305Z">
-        <seg>Descrive come utilizzare OmegaT con Iceni Infix al fine di tradurre i file in formato PDF.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214737Z">
+        <seg>Descrive come utilizzare OmegaT con Iceni Infix per tradurre i file in formato PDF.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070202Z">
-        <seg>Descrive come utilizzare OmegaT con il formato RTF bilingue Trados (file "non ripuliti").</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214725Z">
+        <seg>Descrive come utilizzare OmegaT col formato RTF bilingue di Trados (file "non ripuliti").</seg>
       </tuv>
     </tu>
     <tu>
@@ -25081,14 +25081,6 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200943Z">
         <seg>La traduzione automatica di Google è un servizio a pagamento (US$ 20,00 per milione di caratteri).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Google Translate</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070701Z">
-        <seg>Google Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -38544,8 +38536,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT text export function</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121318Z">
-        <seg>Funzione esportazione di testo di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214930Z">
+        <seg>Funzione di esportazione testo di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -38560,8 +38552,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT tokenizer plugin</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121224Z">
-        <seg>Plugin Tokenizer di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214911Z">
+        <seg>Plugin tokenizer di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -40164,8 +40156,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Other HowTos</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121433Z">
-        <seg>Altre Guide</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214947Z">
+        <seg>Altre guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -42136,8 +42128,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Propagation and one-to-many matching</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070615Z">
-        <seg>Propagazione della concordanza e della concordanza uno-a-molti </seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214758Z">
+        <seg>Propagazione e concordanza uno-a-molti </seg>
       </tuv>
     </tu>
     <tu>
@@ -61063,8 +61055,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the OmegaT text export function (scripting interface).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121359Z">
-        <seg>Usare la funzione esportazione di testo di OmegaT (interfaccia di scripting)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214943Z">
+        <seg>Usare la funzione di esportazione testo di OmegaT (interfaccia di script)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62813,8 +62805,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With links to more detailed HOWTOs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065854Z">
-        <seg>Con i collegamenti a GUIDE più dettagliate.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214644Z">
+        <seg>Con collegamenti a GUIDE più dettagliate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67587,66 +67579,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>howtos/compatibility_deja_vu.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121059Z">
-        <seg>howtos/compatibility_deja_vu.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/compiling_from_source.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121435Z">
-        <seg>howtos/compiling_from_source.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/docx.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121056Z">
-        <seg>howtos/docx.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/export_uncleaned_rtf.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121104Z">
-        <seg>howtos/export_uncleaned_rtf.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/google_translate.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T070704Z">
-        <seg>howtos/google_translate.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/iceni_infix.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121107Z">
-        <seg>howtos/iceni_infix.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>howtos/linux.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121726Z">
         <seg>howtos/linux.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/ms_translator_mac.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101542Z">
-        <seg>howtos/ms_translator_mac.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -67659,50 +67595,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>howtos/preview.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101547Z">
-        <seg>howtos/preview.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/prop12m.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121133Z">
-        <seg>howtos/prop12m.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/spelling.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121111Z">
-        <seg>howtos/spelling.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>howtos/spelling.html#repositories</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121902Z">
         <seg>howtos/spelling.html#repositories</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/text_export.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121248Z">
-        <seg>howtos/text_export.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/tokenizer.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121205Z">
-        <seg>howtos/tokenizer.php</seg>
       </tuv>
     </tu>
     <tu>
