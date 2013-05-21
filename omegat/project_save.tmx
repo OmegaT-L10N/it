@@ -52619,8 +52619,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (Project &gt; Properties).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T151545Z">
-        <seg>I nomi dei file devono corrispondere esattamente al codice lingua della lingua di destinazione, come definito nella finestra di dialogo Proprietà... del progetto (Progetto &gt; Proprietà... ).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T120105Z">
+        <seg>I nomi dei file devono corrispondere esattamente al codice lingua della lingua di destinazione, come definito nella finestra di dialogo Proprietà... del progetto (Progetto &gt; Proprietà...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58945,8 +58945,8 @@ script with ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>To use spelling dictionaries in this format, rename the file extension from .oxt to .zip and using a zip archive application (such as WinZip) to extract the .dic and .aff files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T151421Z">
-        <seg>Per utilizzare dizionari ortografici in questo formato, rinominare l'estensione del file da .oxt a .zip e utilizzare un'applicazione di archivio zip (ad esempio WinZip) per estrarre i file .dic e .aff.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T120047Z">
+        <seg>Per utilizzare dizionari ortografici in questo formato, rinominare l'estensione del file da .oxt a .zip e usare un'applicazione di compressione (tipo WinZip) per estrarre i file .dic e .aff.</seg>
       </tuv>
     </tu>
     <tu>
