@@ -1879,8 +1879,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T095623Z">
-        <seg>(per il percorso della cartella file utente di OmegaT sul tuo sistema operativo, vedi il manuale dell'utente (F1 all'interno di OmegaT) &gt; File e cartelle di OmegaT &gt; File delle impostazioni utente):</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T121946Z">
+        <seg>(per la posizione della cartella file utente di OmegaT sul proprio sistema operativo, vedere il Manuale dell'utente (F1 all'interno di OmegaT) &gt; File e cartelle di OmegaT &gt; File delle impostazioni utente):</seg>
       </tuv>
     </tu>
     <tu>
@@ -71171,8 +71171,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081301Z">
-        <seg>Selection.txt - contiene il testo evidenziato dall'utente, quando si preme Ctrl-Shift-C o è selezionato Modifica &gt; Esporta la selezione</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122029Z">
+        <seg>selection.txt - contiene il testo evidenziato dall'utente, quando si preme Ctrl-Maiusc-C o è selezionato Modifica &gt; Esporta la selezione</seg>
       </tuv>
     </tu>
     <tu>
