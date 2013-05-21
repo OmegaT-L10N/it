@@ -19607,8 +19607,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Depending upon the version of Tcl/Tk that you have installed, you may have to add the version number to the wish command, e.g.:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202625Z">
-        <seg>A seconda della versione di Tcl/Tk che avete installato, potrebbe essere necessario aggiungere il numero di versione per il comando di desiderio, ad esempio:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103211Z">
+        <seg>A seconda della versione di Tcl/Tk installata, potrebbe essere necessario aggiungere il numero di versione per il comando wish, ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26792,8 +26792,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If Priorview fails to launch:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230630Z">
-        <seg>Se Priorview non parte:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103148Z">
+        <seg>Se Priorview non si avvia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27580,8 +27580,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the file displayed in the browser is not being updated, check the following:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202636Z">
-        <seg>Se non viene aggiornato il file visualizzato nel browser, controllare quanto segue:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103242Z">
+        <seg>Se il file visualizzato nel browser non viene aggiornato, controllare quanto segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40964,8 +40964,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Pay attention to lower/upper case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230717Z">
-        <seg>Prestare attenzione a maiuscole e minuscole.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103224Z">
+        <seg>Prestare attenzione alle maiuscole/minuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49091,8 +49091,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>That the file conversion utility is installed properly and is working.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230859Z">
-        <seg>Che l'utilità di conversione di file sia installata correttamente e stia lavorando.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103405Z">
+        <seg>Che l'utilità di conversione di file sia installata correttamente e stia funzionando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49107,8 +49107,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230748Z">
-        <seg>Che ci si sia ricordato di premere Ctrl+s, Ctrl+d in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103323Z">
+        <seg>Di essersi ricordati di aver premuto Ctrl+S, Ctrl+D in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60438,8 +60438,8 @@ alla riga {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Until/unless you do, there will be no changes to detect/display!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230831Z">
-        <seg>Fino a quando non si fa, non ci sarà alcuna modifica per rilevare/mostrare!</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103356Z">
+        <seg>Se non lo si fa, non ci sarà alcuna modifica da individuare/mostrare!</seg>
       </tuv>
     </tu>
     <tu>
@@ -66565,8 +66565,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>cd "C:\My Files\priorview"</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125512Z">
-        <seg>cd "C:\My Files\priorview"</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103141Z">
+        <seg>cd "C:\Miei file\priorview"</seg>
       </tuv>
     </tu>
     <tu>
@@ -72501,14 +72501,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081944Z">
         <seg>wish te-basic-source.tcl</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>wish8.5 priorview.tcl</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125503Z">
-        <seg>wish8.5 priorview.tcl</seg>
       </tuv>
     </tu>
     <tu>
