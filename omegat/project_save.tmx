@@ -20255,8 +20255,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T080048Z">
-        <seg>La documentazione, in particolare delle nuove funzionalità, sarà meno completa rispetto a quella della versione Standard.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212951Z">
+        <seg>La documentazione, in particolare delle nuove funzionalità, sarà meno completa rispetto a quella della versione standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40893,8 +40893,8 @@ Permission is granted to copy, distribute and/or modify this document under the 
       <tuv lang="EN">
         <seg>Platform-specific versions of OmegaT are provided for Windows, Linux and Mac OS X. A platform-indpendent version is also available which will run on any operating system capable of running a suitable version of the Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123849Z">
-        <seg>Sono fornite versioni di OmegaT specifiche per le piattaforme Windows, Linux e Mac OS X. È disponibile anche una versione piattaforma-indipendente che verrà eseguita su qualsiasi sistema operativo in grado di eseguire una versione adatta di Java Runtime Environment.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213053Z">
+        <seg>Sono fornite versioni di OmegaT specifiche per le piattaforme Windows, Linux e Mac OS X. È disponibile anche una versione indipendente dalla piattaforma che funzionerà su qualsiasi sistema operativo in grado di eseguire una versione adatta del Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49412,16 +49412,16 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144048Z">
-        <seg>L'ultima versione è una versione più recente rispetto alla versione Standard e include nuove caratteristiche non presenti in quest'ultimo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212904Z">
+        <seg>La versione più recente è più nuova di quella standard e include nuove caratteristiche non presenti in quest'ultima.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T074439Z">
-        <seg>La versione Ultima di solito sarà ragionevolmente stabile ed utilizzabile, ma può contenere ancore alcuni errori.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212939Z">
+        <seg>La versione più recente sarà, in genere, ragionevolmente stabile e utilizzabile, ma potrebbe contenere ancora alcuni errori.</seg>
       </tuv>
     </tu>
     <tu>
