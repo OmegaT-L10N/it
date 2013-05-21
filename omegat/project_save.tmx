@@ -11748,8 +11748,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191623Z">
-        <seg>È anche disponibile un &lt;a0&gt;opuscolo esplicativo che descrive il plug-in tokenizer&lt;/a0&gt; .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164817Z">
+        <seg>È disponibile anche un &lt;a0&gt;opuscolo esplicativo che descrive il plug-in tokenizer&lt;/a0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -16954,8 +16954,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191758Z">
-        <seg>Verifica la presenza di errori di lingua (stile, grammatica, ecc.).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164837Z">
+        <seg>Verifica la presenza di errori di lingua (stile, grammatica, e via discorrendo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33133,8 +33133,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173658Z">
-        <seg>Il plug-in LanguageTool</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164824Z">
+        <seg>Plug-in LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -42464,8 +42464,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173751Z">
-        <seg>Fornisce il riconoscimento delle forme flesse in voci di corrispondenze parziali e di glossario.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164804Z">
+        <seg>Fornisce il riconoscimento delle forme flesse nelle voci di concordanze parziali e di glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44529,8 +44529,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Scripting plug-in</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173824Z">
-        <seg>Il plug-in Scripting</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164848Z">
+        <seg>Plug-in di script</seg>
       </tuv>
     </tu>
     <tu>
@@ -68263,22 +68263,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215448Z">
         <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-LanguageTool/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082516Z">
-        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-LanguageTool/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-Scripting/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082522Z">
-        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-Scripting/</seg>
       </tuv>
     </tu>
     <tu>
