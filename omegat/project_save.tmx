@@ -40292,8 +40292,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Opening your translated target file in a browser is easy when your source file is in .html format, but translations more often involve word-processing files, which in OmegaT are usually handled in .docx or .odt format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223611Z">
-        <seg>Aprire il file di destinazione tradotti in un browser è facile quando il file di origine è in formato HTML, ma le traduzioni coinvolgono più spesso file di elaborazione testi, che in OmegaT sono solitamente gestiti in formato .docx o .odt .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100428Z">
+        <seg>Aprire il file di destinazione tradotti in un browser è facile quando il file di origine è in formato .html, ma le traduzioni coinvolgono più spesso file di elaborazione testi, che in OmegaT sono solitamente gestiti in formato .docx o .odt .</seg>
       </tuv>
     </tu>
     <tu>
