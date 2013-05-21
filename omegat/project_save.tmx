@@ -23691,8 +23691,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T074924Z">
-        <seg>Per i casi in cui due o più segmenti identici richiedano traduzioni diverse, OmegaT offre la "corrispondenza uno a molti".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104306Z">
+        <seg>Per i casi in cui due o più segmenti identici richiedano traduzioni diverse, OmegaT offre la "concordanza uno a molti".</seg>
       </tuv>
     </tu>
     <tu>
@@ -39234,8 +39234,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T075002Z">
-        <seg>La funzione "corrispondenza uno a molti" di OmegaT presuppone che segmenti identici si debbano all'inizio tradurre nello stesso modo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104331Z">
+        <seg>La funzione "concordanza uno a molti" di OmegaT presuppone che segmenti identici si debbano all'inizio tradurre nello stesso modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39818,8 +39818,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>One-to-many matching (version 2.5.0 onwards)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072235Z">
-        <seg>Corrispondenza uno a molti (versioni dalla 2.5.0 in poi)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104313Z">
+        <seg>Concordanza uno a molti (dalla versione 2.5.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57448,8 +57448,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will make the current translation the default translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T075217Z">
-        <seg>Questo renderà la traduzione corrente "traduzione predefinita".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104509Z">
+        <seg>Questo renderà la traduzione corrente la "traduzione predefinita".</seg>
       </tuv>
     </tu>
     <tu>
@@ -58556,8 +58556,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T075115Z">
-        <seg>Per produrre una traduzione che è diversa dalla "traduzione predefinita", fare clic destro con il mouse all'interno del segmento e selezionare «Crea traduzione alternativa».</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104415Z">
+        <seg>Per produrre una traduzione che diversa dalla "traduzione predefinita", fare clic destro con il mouse all'interno del segmento e selezionare «Crea traduzione alternativa».</seg>
       </tuv>
     </tu>
     <tu>
@@ -64292,8 +64292,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can have as many "alternative translations" as you like of identical segments, but there can only be one default translation (or none at all).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T073735Z">
-        <seg>Si possono avere tante  "traduzioni alternative" di segmenti identici quante se ne vuole, ma ci può essere solo una traduzione predefinita (o nessuna).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104438Z">
+        <seg>Si possono avere tante "traduzioni alternative" di segmenti identici quante se ne vuole, ma ci può essere solo una traduzione predefinita (o nessuna).</seg>
       </tuv>
     </tu>
     <tu>
