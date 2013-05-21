@@ -23082,16 +23082,16 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T172446Z">
-        <seg>I file in formato Microsoft Office XML possono essere tradotti direttamente con OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T163002Z">
+        <seg>I file in formato Microsoft Office XML possono essere tradotti direttamente in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T162236Z">
-        <seg>I file nei vecchi formati di MS Word, Excel e Powerpoint possono essere tradotti  dopo la conversione negli equivalenti attuali formati Microsoft Office, o in alternativa nel formato Office Open XML, tramite OpenOffice.org o LibreOffice (gratuiti).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T163049Z">
+        <seg>I file nei vecchi formati di MS Word, Excel e Powerpoint possono essere tradotti dopo la conversione negli equivalenti attuali formati Microsoft Office o, in alternativa, nel formato Office Open XML, tramite OpenOffice o LibreOffice (gratuiti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38056,8 +38056,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192627Z">
-        <seg>OmegaT è stato installato con successo su Windows (tutte le versioni da 98 in poi), Macintosh OS X e Linux.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162953Z">
+        <seg>OmegaT è stato installato con successo su Windows (dalla versione 98 in poi), Macintosh OS X e Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39066,8 +39066,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T162113Z">
-        <seg>OmegaT potrà funzionare su qualsiasi sistema su cui è stato o può essere installato JRE (Java Runtime Environment).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162903Z">
+        <seg>OmegaT funzionerà su qualsiasi sistema su cui è stato, o può essere installato, JRE (Java Runtime Environment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49660,8 +49660,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192620Z">
-        <seg>JRE viene ora fornito con OmegaT e non deve essere ottenuto separatamente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162924Z">
+        <seg>JRE è ora fornito con OmegaT e non deve essere ottenuto separatamente.</seg>
       </tuv>
     </tu>
     <tu>
