@@ -13317,8 +13317,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T075245Z">
-        <seg>Tutte le altre istanze del segmento stesso che in precedenza erano  "traduzione predefinita" saranno ora aggiornate a questa traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104545Z">
+        <seg>Tutte le altre istanze dello stesso segmento che in precedenza erano considerate "traduzione predefinita" saranno ora aggiornate a questa traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50784,8 +50784,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of a segment can be deleted completely either by means of the keyboard shortcuts Ctrl+A &gt; Ctrl+X &gt; Enter, by right-clicking with the mouse and the Remove Translation menu item, or simply by using the delete key (repeatedly).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T103608Z">
-        <seg>Il contenuto di un segmento può essere eliminato completamente mediante i tasti di scelta rapida Ctrl+A &gt; Ctrl+X &gt; Invio, facendovi clic sopra con il mouse e la voce di menù Rimuovi traduzione, o semplicemente utilizzando il tasto CANC (ripetutamente).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104816Z">
+        <seg>Il contenuto di un segmento può essere eliminato completamente mediante i tasti di scelta rapida Ctrl+A &gt; Ctrl+X &gt; Invio, facendovi clic sopra con il mouse e usando la voce di menù Rimuovi traduzione, o semplicemente utilizzando (ripetutamente) il tasto CANC.</seg>
       </tuv>
     </tu>
     <tu>
