@@ -3267,14 +3267,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../resources/priorview_for_mac.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224549Z">
-        <seg>../../resources/priorview_for_mac.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../downloads.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181935Z">
@@ -3503,14 +3495,6 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183043Z">
         <seg>./osx.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>./preview.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222115Z">
-        <seg>./preview.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -4293,8 +4277,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225023Z">
-        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; insieme &lt;a1&gt;a "ReloadEvery" Add-on per Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101756Z">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; insieme con &lt;a1&gt;il componente aggiuntivo "ReloadEvery" per Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4571,14 +4555,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T231140Z">
-        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;a0&gt;Other systems - Solaris SPARC/x86/x64,&lt;/a0&gt; &lt;a1&gt;Linux x64/PowerPC, Windows x64&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T101456Z">
@@ -4829,8 +4805,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;b0&gt;A browser&lt;/b0&gt;, specifically either:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225011Z">
-        <seg>&lt;b0&gt;Un browser&lt;/b0&gt;, in particolare sia:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101729Z">
+        <seg>&lt;b0&gt;Un browser&lt;/b0&gt;, in particolare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24452,8 +24428,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the background and principles, refer to the &lt;a0&gt;Preview Howto&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064936Z">
-        <seg>Per le premesse e i principi, consultare la &lt;a0&gt;Guida anteprima&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101644Z">
+        <seg>Per le premesse e i principi, consultare la &lt;a0&gt;Guida all'anteprima&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31320,8 +31296,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Install Firefox first (if you do not already have it installed), then ReloadEvery.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225043Z">
-        <seg>Installare Firefox prima (se non è già installato), poi ReloadEvery.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101812Z">
+        <seg>Installare prima Firefox (se non è già installato), poi ReloadEvery.</seg>
       </tuv>
     </tu>
     <tu>
