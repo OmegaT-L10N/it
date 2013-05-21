@@ -5067,14 +5067,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;br36/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180439Z">
-        <seg>&lt;br36/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212527Z">
@@ -18561,14 +18553,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125018Z">
         <seg>Copyright Marc Prior 2012</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Copyright Will Helton 2012</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180510Z">
-        <seg>Copyright Will Helton 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -40556,8 +40540,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Options &gt; Machine Translate ... and select the options you would like to turn on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T205014Z">
-        <seg>Opzioni &gt; Traduzione Automatica... e selezionare le opzioni che vuoi attivare.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T085218Z">
+        <seg>Opzioni &gt; Traduzione automatica... e selezionare le opzioni da attivare.</seg>
       </tuv>
     </tu>
     <tu>
