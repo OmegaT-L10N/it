@@ -4685,8 +4685,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a1&gt;Download it from www.opera.com&lt;/a1&gt; (or for Linux users: through your distribution's repository).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222939Z">
-        <seg>&lt;a1&gt;Scaricalo da www.opera.com&lt;/a1&gt; (o per gli utenti Linux: tramite l'archivio della propria distribuzione).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094456Z">
+        <seg>&lt;a1&gt;Scaricarlo da www.opera.com&lt;/a1&gt; (per gli utenti Linux: tramite l'archivio della propria distribuzione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17154,16 +17154,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Chrome is also available for all platforms.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202142Z">
-        <seg>Chrome è anche disponibile per tutte le piattaforme.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Chrome:&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125156Z">
-        <seg>Chrome:&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094515Z">
+        <seg>Chrome è disponibile per tutte le piattaforme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22458,8 +22450,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Examples of browsers with an automatic refresh function:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202113Z">
-        <seg>Esempi di browser con una funzione di aggiornamento automatico:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094332Z">
+        <seg>Esempi di browser con funzione di aggiornamento automatico:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23420,14 +23412,6 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212506Z">
         <seg>Finlandese</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Firefox:&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145855Z">
-        <seg>Firefox:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28257,8 +28241,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are translating .html files, a convenient solution is to use a browser with an automatic refresh function to provide a ready-made preview function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222712Z">
-        <seg>Se si stanno traducendo i file .html, una comoda soluzione è quella di utilizzare un browser con una funzione di aggiornamento automatico per usufruire di una funzione di anteprima già disponibile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094320Z">
+        <seg>Se si stanno traducendo file .html, una comoda soluzione è quella di utilizzare un browser con una funzione di aggiornamento automatico in modo da avere una funzione di anteprima già disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40404,16 +40388,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Opera is available for all platforms; it is also very fast and requires low hardware resources.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222904Z">
-        <seg>Opera è disponibile per tutte le piattaforme; Inoltre è molto veloce e richiede modeste risorse hardware.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Opera:&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125130Z">
-        <seg>Opera:&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094435Z">
+        <seg>Opera è disponibile per tutte le piattaforme; inoltre è molto veloce e richiede modeste risorse hardware.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63205,8 +63181,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222744Z">
-        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; la maggior parte degli utenti Linux l'avrà già installato, o possono installarlo tramite gli archivi delle loro distribuzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094417Z">
+        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; la maggior parte degli utenti Linux l'avrà già installato oppure possono installarlo tramite gli archivi delle loro distribuzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68259,14 +68235,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://addons.mozilla.org/de/firefox/addon/reloadevery/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145836Z">
-        <seg>http://addons.mozilla.org/de/firefox/addon/reloadevery/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br14/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150717Z">
@@ -68287,14 +68255,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220009Z">
         <seg>http://belazar.info/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://chrome.google.com/webstore/detail/oilipfekkmncanaajkapbpancpelijih</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125133Z">
-        <seg>http://chrome.google.com/webstore/detail/oilipfekkmncanaajkapbpancpelijih</seg>
       </tuv>
     </tu>
     <tu>
@@ -69255,14 +69215,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.mozilla.org</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T144423Z">
-        <seg>http://www.mozilla.org</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.muitenviet.net/tintuc/OmegaT---Cong-cu-tro-giup-bien-dich-(CAT).html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102824Z">
@@ -69331,14 +69283,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155227Z">
         <seg>http://www.omegat.org/resources/omt_website.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.opera.com</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125126Z">
-        <seg>http://www.opera.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -72749,14 +72693,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093205Z">
         <seg>senza JRE (indicata col nome della versione "Without_JRE").</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>www.google.com/chrome</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125131Z">
-        <seg>www.google.com/chrome</seg>
       </tuv>
     </tu>
     <tu>
