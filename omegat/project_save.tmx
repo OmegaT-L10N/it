@@ -2485,16 +2485,16 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- It is easy to learn&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082019Z">
-        <seg>- È facile da imparare &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124608Z">
+        <seg>- È facile da imparare&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>- It is free&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124446Z">
-        <seg>- È gratuito &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124605Z">
+        <seg>- È gratuito&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2725,8 +2725,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- The Tk component makes it easy to produce graphical user interfaces&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101653Z">
-        <seg>- Il componente Tk lo rende facile per produrre interfacce utente grafiche &lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124533Z">
+        <seg>- Il componente Tk lo rende semplice per produrre interfacce utente grafiche&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2749,8 +2749,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- There are many good books and other resources available for it (at least in English)&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082051Z">
-        <seg>- Ci sono molti buoni libri e altre risorse disponibili per esso (almeno in inglese) &lt;br4/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124601Z">
+        <seg>- Ci sono tanti buoni libri e altre risorse relative disponibili (almeno in inglese)&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4579,14 +4579,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101720Z">
-        <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;a10&gt;OmegaT&lt;/a10&gt; will build translated versions of all the translatable documents in the Source folder of the project, whether or not they have been fully translated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110722T171221Z">
@@ -4699,26 +4691,10 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101721Z">
-        <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;a3&gt;&lt;/a3&gt; Each file type is handled differently in OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T170702Z">
         <seg>&lt;a3&gt;&lt;/a3&gt; OmegaT gestisce in modo differente i vari tipi di file.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;a4&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a4&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102431Z">
-        <seg>&lt;a4&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23667,8 +23643,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For beginners, several online tutorials are available, such as:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082220Z">
-        <seg>Sono disponibili per i principianti diversi tutorial online, come ad esempio:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124629Z">
+        <seg>Sono disponibili per i principianti diverse esercitazioni in linea, come ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28129,8 +28105,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are serious about learning tcl/tk, "Practical Programming in Tcl and Tk" by Brent Welch, ISBN: 0-13-038560-3 is strongly recommended.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102540Z">
-        <seg>Se desiderate seriamente apprendere tcl/tk  è fortemente consigliato, "Pratiche di programmazione in Tcl e Tk" da Brent Welch, ISBN: 0-13-038560-3.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124732Z">
+        <seg>Se si vuole davvero imparare a usare tcl/tk è fortemente consigliato il testo "Practical Programming in Tcl and Tk" di Brent Welch, ISBN: 0-13-038560-3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68727,14 +68703,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.dci.clrc.ac.uk/Publications/Cookbook/index.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101715Z">
-        <seg>http://www.dci.clrc.ac.uk/Publications/Cookbook/index.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.diptik.fr</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102910Z">
@@ -68995,14 +68963,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215323Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101717Z">
-        <seg>http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html</seg>
       </tuv>
     </tu>
     <tu>
