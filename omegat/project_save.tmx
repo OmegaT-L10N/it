@@ -29823,8 +29823,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In both Firefox and Opera, this can be done by right-clicking in the translated .html file you have opened, then Reload every &gt; select a desired interval (e.g. 5 seconds).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223407Z">
-        <seg>In Firefox e Opera, questo può essere fatto facendo clic destro nel file HTML tradotto che avete aperto, quindi ricaricare ogni &gt; selezionare un intervallo desiderato (ad esempio 5 secondi).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T095147Z">
+        <seg>In Firefox e Opera, questo può essere fatto facendo clic col pulsante destro del mouse sul file .html tradotto aperto, e scegliendo il comando Ricarica ogni &gt; selezionare un intervallo desiderato (ad esempio cinque secondi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50639,8 +50639,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202205Z">
-        <seg>Il cambiamento quindi diventerà visibile dopo un ritardo di al massimo dell'intervallo selezionato (più il tempo impiegato da OmegaT per risparmiare e produrre i file di destinazione).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T095334Z">
+        <seg>Il cambiamento quindi diventerà visibile dopo un ritardo di al massimo l'intervallo selezionato (più il tempo impiegato da OmegaT per salvare e produrre i file di arrivo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58958,8 +58958,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>To update the display, you must still save and create your target document in OmegaT with Ctrl+s, Ctrl+d.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T210118Z">
-        <seg>Per aggiornare la visualizzazione, è necessario ancora salvare e creare il vostro documento di destinazione in OmegaT con Ctrl+s, Ctrl+d.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T095248Z">
+        <seg>Per aggiornare la visualizzazione, è necessario ancora salvare e creare il documento di destinazione in OmegaT con la sequenza Ctrl+S, Ctrl+D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65250,8 +65250,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You now have a preview function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202202Z">
-        <seg>Ora avete una funzione di anteprima.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T095159Z">
+        <seg>La funzione di anteprima è ora attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65475,8 +65475,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>Your browser won't automatically scroll as you work through the text; you have to do that yourself.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223432Z">
-        <seg>Il tuo browser non scorre automaticamente mentre si lavora attraverso il testo; dovete farlo voi stessi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T095424Z">
+        <seg>Il browser non scorre automaticamente mentre si lavora sul testo; bisognerà farlo manualmente.</seg>
       </tuv>
     </tu>
     <tu>
