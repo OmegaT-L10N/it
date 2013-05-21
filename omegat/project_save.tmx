@@ -3275,14 +3275,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>./lin_jre.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223859Z">
-        <seg>./lin_jre.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>./lin_nojre.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223902Z">
@@ -27801,8 +27793,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182347Z">
-        <seg>Se non siete sicuri se un idoneo JRE è già installato sul vostro sistema, si può sempre scaricare e installare una versione di OmegaT con JRE.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221546Z">
+        <seg>Se non si è certi che il corretto JRE è installato sul vostro sistema, si può sempre scaricare e installare una versione di OmegaT con JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48740,8 +48732,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182547Z">
-        <seg>La versione "batterie incluse" di OmegaT, con il proprio ambiente Runtime di Java.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221711Z">
+        <seg>La versione "batterie incluse" di OmegaT, col proprio Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56840,8 +56832,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182510Z">
-        <seg>Questa versione del JRE sarà utilizzata solo localmente per OmegaT, non in conflitto con, non sostituisce o disinstalla qualsiasi altra installazione JRE e quindi è sicura da usare.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221639Z">
+        <seg>Questa versione del JRE sarà utilizzata solo localmente per OmegaT, non entrerà in conflitto con, sostituirà o disinstallerà qualsiasi altra installazione JRE, dunque è sicura da usare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57378,8 +57370,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182322Z">
-        <seg>Per verificare quale versione di JRE, se presente, è installata sul vostro sistema Linux, una console aprire (finestra della riga di comando) e digitare:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221456Z">
+        <seg>Per verificare quale versione di JRE, se presente, è installata sul proprio sistema Linux, aprire una console (finestra a riga di comando) e digitare:</seg>
       </tuv>
     </tu>
     <tu>
