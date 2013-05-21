@@ -19799,8 +19799,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Dictionaries are available for a large number of languages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064656Z">
-        <seg>Tali dizionari sono disponibili per un gran numero di lingue.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T111252Z">
+        <seg>I dizionari sono disponibili per un gran numero di lingue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26784,8 +26784,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150046Z">
-        <seg>Se è selezionata comunque Opzioni &gt; Comportamento di modifica &gt; "Vai al prossimo segmento non tradotto si ferma quando c'è almeno una traduzione alternativa" ed è stata creata, almeno una traduzione alternativa di un segmento non univoco, questa funzione considera tutte le istanze di quel segmento (sia traduzioni predefinite che alternative) come non tradotte, cioè non le salta.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T111031Z">
+        <seg>Se è comunque selezionata Opzioni &gt; Comportamento di modifica &gt; "Vai al prossimo segmento non tradotto si ferma quando esiste almeno una traduzione alternativa" ed è stata creata almeno una traduzione alternativa di un segmento non univoco, questa funzione considera tutte le istanze di quel segmento (sia le traduzioni predefinite, sia le alternative) come non tradotte, cioè non le salta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31405,8 +31405,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Installing new spelling from within OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150359Z">
-        <seg>Installazione un nuovo dizionario ortografico in OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T111303Z">
+        <seg>Installare un nuovo dizionario ortografico in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
