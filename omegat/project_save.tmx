@@ -34870,14 +34870,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Memory translation tool, OpenOffice, GPL, m?moire de traduction, CAT, computer aided translation, TAO</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082647Z">
-        <seg>Memory translation tool, OpenOffice, GPL, m?moire de traduction, CAT, computer aided translation, TAO</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Menu</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220029Z">
@@ -51242,8 +51234,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T192801Z">
-        <seg>I file di questo sito, in un pacchetto conveniente per coloro che desiderano localizzarlo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T171046Z">
+        <seg>I file di questo sito, in un conveniente pacchetto per coloro che desiderano localizzarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68351,14 +68343,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://vertalersnieuws.blogspot.com/2011/12/omegat-vrije-vertaalsoftware-groeit-op.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102731Z">
-        <seg>http://vertalersnieuws.blogspot.com/2011/12/omegat-vrije-vertaalsoftware-groeit-op.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220212Z">
@@ -68531,14 +68515,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122026Z">
         <seg>http://www.leuce.com/tempfile/omtautoit/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.linuxexpres.cz/kancelar/prekladejte-s-aplikaci-omegat</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102732Z">
-        <seg>http://www.linuxexpres.cz/kancelar/prekladejte-s-aplikaci-omegat</seg>
       </tuv>
     </tu>
     <tu>
