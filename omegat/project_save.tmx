@@ -26936,8 +26936,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If all is well, an .html version of the file will be produced:&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202648Z">
-        <seg>Se tutto va bene, sarà prodotta una versione HTML del file: &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103542Z">
+        <seg>Se tutto è corretto, sarà prodotta una versione .html del file: &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49115,8 +49115,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>That you have set the auto-refresh interval in the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202708Z">
-        <seg>Aver impostato l'intervallo di aggiornamento automatico nel browser.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103603Z">
+        <seg>Che si sia impostato l'intervallo di aggiornamento automatico nel browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64629,8 +64629,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can test this with the relevant command below on the command line (terminal/console/DOS prompt).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202644Z">
-        <seg>È possibile verificare questo con il relativo comando sotto la riga di comando (console/terminale/DOS prompt).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103514Z">
+        <seg>Questo è possibile verificarlo con l'appropriato comando nella riga di comando (terminale/console/prompt di DOS).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65935,14 +65935,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215325Z">
         <seg>ab</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>abiword --to=html &lt;i3&gt;file&lt;/i3&gt;&lt;br4/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T231021Z">
-        <seg>abiword --to=html &lt;i3&gt;file&lt;/i3&gt;&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
