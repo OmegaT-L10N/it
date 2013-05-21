@@ -16906,8 +16906,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Check in Options &gt; File Filters that the new filter is present.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124643Z">
-        <seg>Verificare che in Opzioni &gt; Filtri di file, sia presente il nuovo filtro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T092034Z">
+        <seg>Verificare che in "Opzioni &gt; Filtri dei file" sia presente il nuovo filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18513,14 +18513,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220248Z">
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Copyright Marc Prior 2008-2011</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124847Z">
-        <seg>Copyright Marc Prior 2008-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -35624,8 +35616,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Most modern CAT tools display the text in segment-oriented form rather than with its ultimate layout and formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145108Z">
-        <seg>I più moderni strumenti CAT visualizzano il testo in forma orientata al segmento piuttosto che con il suo aspetto e con l'impaginazione finale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T092300Z">
+        <seg>I più moderni strumenti CAT visualizzano il testo in forma orientata ai segmenti piuttosto che al suo aspetto e impaginazione finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57962,8 +57954,8 @@ una nuova segnalazione di errore:</seg>
       <tuv lang="EN">
         <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124845Z">
-        <seg>Per verificare se funziona, è possibile inserire un file TMX nella cartella /source di  un progetto o (meglio) eseguire Ricerca di testo &gt; operazione cerca file su file TMX.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T092204Z">
+        <seg>Per verificare la correttezza del suo funzionamento è possibile inserire un file TMX nella cartella /source di un progetto o, ancora meglio, eseguire una Ricerca di testo &gt; operazione di ricerca file su file TMX.</seg>
       </tuv>
     </tu>
     <tu>
