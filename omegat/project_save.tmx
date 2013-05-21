@@ -222,14 +222,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124120Z">
-        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg># Language&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T114602Z">
@@ -258,14 +250,6 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T114734Z">
         <seg># Impostazioni per accedere a Internet quando si sta dietro un proxy&lt;br11&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg># TMXFilter.java&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180556Z">
-        <seg># TMXFilter.java&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1595,8 +1579,8 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
       <tuv lang="EN">
         <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124146Z">
-        <seg>(Se si desidera lanciare OmegaT con una lingua di interfaccia utente diversa dall'inglese, apportare la stessa modifica nel file bundle localizzato interessato.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091900Z">
+        <seg>(Se si desidera avviare OmegaT con una lingua di interfaccia utente diversa dall'inglese, apportare la stessa modifica nel file Bundle.properties localizzato interessato.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15746,16 +15730,16 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Below them, insert the lines:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202004Z">
-        <seg>Sotto di loro, inserire le righe:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091931Z">
+        <seg>Sotto di esse inserire le righe:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Below these lines, insert the lines</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201945Z">
-        <seg>Sotto queste righe, inserire le righe</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091938Z">
+        <seg>Sotto di esse inserire le righe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17916,8 +17900,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124409Z">
-        <seg>Compilare come descritto nella Guida per la compilazione di OmegaT da codice sorgente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091955Z">
+        <seg>Compilare come descritto nella Guida alla compilazione di OmegaT da codice sorgente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29780,14 +29764,6 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In TMXFilter.java:</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124007Z">
-        <seg>In TMXFilter.java:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In a file dialog opened by OmegaT, a translation project will look like a file with an OmegaT icon associated to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T184147Z">
@@ -30704,8 +30680,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the folder /src/org/omegat, open the file Bundle.properties in a text editor and find the lines</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201939Z">
-        <seg>In /src/org/omegat la cartella, aprire il file bundle in un editor di testo e individuare le linee</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091759Z">
+        <seg>In /src/org/omegat la cartella, aprire il file Bundle.properties in un editor di testo e individuare le righe</seg>
       </tuv>
     </tu>
     <tu>
@@ -33581,8 +33557,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch the newly compiled version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124455Z">
-        <seg>Lanciare la versione appena compilata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T092006Z">
+        <seg>Avviare la versione appena compilata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35970,22 +35946,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135238Z">
         <seg>Denominare i file script di lancio in modo appropriato, ad esempio "OmegaT-EN.bat" per il file di script di avvio che contiene il comando con il tokenizer inglese e "OmegaT-TR.bat" per il file di script di avvio che contiene il comando con il tokenizer turco.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Name: org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124204Z">
-        <seg>Name: org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Name: org.omegat.filters3.xml.tmx.TMXFilter&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124209Z">
-        <seg>Name: org.omegat.filters3.xml.tmx.TMXFilter&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57616,8 +57576,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will make the display of the TMX files neater, but again, it is not absolutely essential.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123957Z">
-        <seg>Questo renderà l'aspetto dei file TMX più ordinato, ma ancora una volta, non è assolutamente indispensabile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091707Z">
+        <seg>Questo codice renderà l'aspetto dei file TMX più ordinato ma, ancora una volta, esso non è assolutamente indispensabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71265,14 +71225,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124033Z">
-        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>puts the pane back within the main window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T183724Z">
@@ -72973,46 +72925,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T165732Z">
         <seg>Si può &lt;a5&gt;selezionare&lt;/a5&gt; un'altra corrispondenza tramite la combinazione di tasti &lt;c6&gt;Ctrl+2&lt;/c6&gt;, &lt;c7&gt;3&lt;/c7&gt;, &lt;c8&gt;4&lt;/c8&gt; o &lt;c9&gt;5.&lt;/c9&gt; Se non dovesse esistere una corrispondenza #5, naturalmente la combinazione &lt;c10&gt;Ctrl+5&lt;/c10&gt; non sortirebbe alcun effetto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180603Z">
-        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>   OmegaT-Plugin: filter</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124207Z">
-        <seg>   OmegaT-Plugin: filter</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>   TMX_FILTER_NAME=TMX files</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180558Z">
-        <seg>   TMX_FILTER_NAME=TMX files</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124058Z">
-        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T124039Z">
-        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
       </tuv>
     </tu>
     <tu>
