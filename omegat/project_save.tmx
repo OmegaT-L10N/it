@@ -7867,14 +7867,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215657Z">
-        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T190439Z">
@@ -9495,14 +9487,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T204355Z">
         <seg>&lt;p0&gt;Statistiche&lt;/p0&gt; &lt;s1&gt;Menu Strumenti&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215658Z">
-        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31027,6 +31011,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation and use</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T175143Z">
+        <seg>Installazione e uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T173442Z">
@@ -37422,6 +37414,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T175331Z">
+        <seg>OmegaT seleziona automaticamente un tokenizer per la lingua di partenza e quella di destinazione, in base alle impostazioni linguistiche del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can align Java .properties in console mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T191458Z">
@@ -42915,6 +42915,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T085511Z">
         <seg>Rimuovi i commenti HTML nel documento tradotto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T175058Z">
+        <seg>Rimuovere LanguageTool dalla cartella /plugin prima di avviare OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58592,6 +58600,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T175156Z">
+        <seg>I tokenizer sono inclusi in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers plug-in</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T163354Z">
@@ -68883,14 +68899,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120226T181626Z">
         <seg>lep, lepa, lepo - singolare, maschile (M), femminile (F), neutro (N)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>lepši, lepša, lepše .</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215702Z">
-        <seg>lepši, lepša, lepše .</seg>
       </tuv>
     </tu>
     <tu>
