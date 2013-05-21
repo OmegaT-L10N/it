@@ -14670,8 +14670,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As for te-basic-source, but for the target text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093903Z">
-        <seg>Come per te-basic-source, ma per il testo di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123022Z">
+        <seg>Uguale a te-basic-source, ma per il testo di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15730,8 +15730,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Besides displaying the source text, this script provides an entry box into which the user can type a string (e.g. a word).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200539Z">
-        <seg>Oltre alla visualizzazione del testo di origine, questo script fornisce una casella di immissione in cui l'utente può digitare una stringa (ad esempio una parola).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123042Z">
+        <seg>Oltre alla visualizzazione del testo di origine, questo script fornisce una casella di immissione in cui l'utente può digitare una stringa (ad esempio, una parola).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29702,8 +29702,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In addition, if supported by the hardware and operating system (this is not always the case), a beep will sound.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100754Z">
-        <seg>Inoltre, se supportato dall'hardware e dal sistema operativo (non sempre), un segnale acustico.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123135Z">
+        <seg>Inoltre, se supportato dall'hardware e dal sistema operativo (non sempre), verrà emesso un segnale acustico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50792,8 +50792,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the script window is editable and can be copied and pasted back into the OmegaT Editor pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200529Z">
-        <seg>Il contenuto della finestra dello script è modificabile e può essere copiato e incollato nel riquadro dell'Editor di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123012Z">
+        <seg>Il contenuto della finestra dello script è modificabile e può essere copiata e incollata nel pannello dell'Editor di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62195,8 +62195,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When an OmegaT segment containing this string is opened, the script outputs a warning.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200541Z">
-        <seg>Quando un segmento di OmegaT che contengono questa stringa è aperto, lo script emette un avviso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123108Z">
+        <seg>Quando viene aperto un segmento di OmegaT contenente questa stringa, lo script emette un avviso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71369,14 +71369,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>te-basic-target</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093733Z">
-        <seg>te-basic-target</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>te-gloss-highlight</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101538Z">
@@ -71413,14 +71405,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101252Z">
         <seg>te-tags</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>te-warning</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100628Z">
-        <seg>te-warning</seg>
       </tuv>
     </tu>
     <tu>
