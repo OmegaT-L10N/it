@@ -14718,8 +14718,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101001Z">
-        <seg>Come suggerisce il nome, questo script spoglia automaticamente dai tag un segmento di OmegaT (destinazione).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123659Z">
+        <seg>Come suggerisce il nome, questo script elimina automaticamente i tag da un segmento di OmegaT (destinazione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56760,8 +56760,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is useful when &lt;i0&gt;checking&lt;/i0&gt; tag-heavy segments on the screen, since it is easy to overlook missing or double spaces, for example.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101226Z">
-        <seg>Questo è utile per il &lt;i0&gt;controllo&lt;/i0&gt;  sullo schermo di segmenti pesantemente taggati, dato che è facile trascurare gli spazi mancanti o doppi, per esempio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123724Z">
+        <seg>Questo è utile per il &lt;i0&gt;controllo&lt;/i0&gt; a video di segmenti con molti tag, dato che è facile trascurare gli spazi mancanti o doppi, per esempio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71389,14 +71389,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101512Z">
         <seg>te-gloss-subst-highlight</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>te-tags</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101252Z">
-        <seg>te-tags</seg>
       </tuv>
     </tu>
     <tu>
