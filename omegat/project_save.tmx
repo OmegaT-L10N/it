@@ -12117,8 +12117,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A version may be "Standard, without JRE, for Windows", or "Latest, with JRE, for Linux", etc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212712Z">
-        <seg>Potrebbe essere una versione "Standard, senza JRE per Windows", o "Più recente, con JRE per Linux", ecc.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215959Z">
+        <seg>Una versione potrebbe essere "standard, senza JRE, per Windows" o "Più recente, con JRE, per Linux", e via discorrendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40845,8 +40845,8 @@ Permission is granted to copy, distribute and/or modify this document under the 
       <tuv lang="EN">
         <seg>Platform-specific versions of OmegaT are provided for Windows, Linux and Mac OS X. A platform-independent version is also available which will run on any operating system capable of running a suitable version of the Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144214Z">
-        <seg>Sono fornite versioni di OmegaT specifiche per le piattaforme Windows, Linux e Mac OS X. È disponibile anche una versione piattaforma-indipendente che verrà eseguita su qualsiasi sistema operativo in grado di eseguire una versione adatta di Java Runtime Environment.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T220122Z">
+        <seg>Sono fornite versioni di OmegaT specifiche per le piattaforme Windows, Linux e Mac OS X. È disponibile anche una versione indipendente dalla piattaforma che funzionerà su qualsiasi sistema operativo in grado di eseguire una versione adatta del Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
