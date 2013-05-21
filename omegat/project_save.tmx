@@ -4549,8 +4549,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T064350Z">
-        <seg>&lt;a0&gt;La sponsorizzazione di uno sviluppo ha già consentito di realizzare l'aggiunta di alcune caratteristiche.&lt;/a0&gt; Se siete disposti a finanziare il lavoro di implementare la funzionalità desiderata, potete contattare il team di sviluppo privatamente per un preventivo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162738Z">
+        <seg>&lt;a0&gt;La sponsorizzazione dello sviluppo ha già consentito di realizzare l'aggiunta di alcune caratteristiche.&lt;/a0&gt; Se sei disposto a finanziare il lavoro di implementazione la tua funzionalità desiderata, puoi contattare privatamente la squadra di sviluppo per un preventivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39170,8 +39170,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T072425Z">
-        <seg>Gli sviluppatori di OmegaT, che sono tutti volontari, possono essere più disposti a implementare una RFE se il lavoro di sviluppo è finanziato dal richiedente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162454Z">
+        <seg>Gli sviluppatori di OmegaT, tutti volontari, possono essere più disposti a implementare una RFE se il lavoro di sviluppo è finanziato dal richiedente.</seg>
       </tuv>
     </tu>
     <tu>
