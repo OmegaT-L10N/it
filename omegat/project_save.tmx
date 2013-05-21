@@ -29719,8 +29719,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144809Z">
-        <seg>Al fine di installare la versione Web start, è necessario disporre già Java versione 1.3 o successivo installato sul tuo computer.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213849Z">
+        <seg>Al fine di installare la versione Web Start, bisogna avere installato nel proprio computer Java in versione 1.3 o successiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33273,8 +33273,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Legacy versions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143759Z">
-        <seg>Versioni pregresse</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213952Z">
+        <seg>Vecchie versioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -41600,8 +41600,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144827Z">
-        <seg>Informativa sulla privacy: OmegaT Java Web Start non salva le tue informazioni sul server web di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213913Z">
+        <seg>Informativa sulla privacy: OmegaT Java Web Start non salva le informazioni dell'utente sui server web di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50023,8 +50023,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The application runs on your machine.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T222734Z">
-        <seg>L'applicazione viene eseguita sulla vostra macchina.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213922Z">
+        <seg>L'applicazione viene eseguita sulla macchina locale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52540,8 +52540,8 @@ sure this has not already been reported.</seg>
       <tuv lang="EN">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144737Z">
-        <seg>I permessi che si concedono a questa versione (che potrebbero sembrare un "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale (per es., essi consentono l'accesso al disco rigido del computer).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213729Z">
+        <seg>I permessi che si concedono a questa versione (che potrebbero essere descritti come "accesso illimitato al computer") sono gli stessi che si attribuiscono alla versione locale (per es., essi consentono l'accesso al disco rigido del proprio computer).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65043,8 +65043,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T214957Z">
-        <seg>I documenti e le memorie di traduzione restano nel computer dell'utente e il progetto OmegaT non avrà accesso al tuo lavoro o alle tue informazioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213945Z">
+        <seg>I documenti e le memorie di traduzione restano nel computer dell'utente e il progetto OmegaT non avrà accesso ai lavori o alle informazioni dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
