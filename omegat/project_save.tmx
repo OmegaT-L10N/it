@@ -30832,8 +30832,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this dialog, select or create a dictionary file folder on your hard drive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193348Z">
-        <seg>In questa finestra di dialogo, selezionare o creare una cartella di file di dizionario sul vostro disco rigido.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T111439Z">
+        <seg>In questa finestra selezionare o creare una cartella di file di dizionario presente nel proprio disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35944,8 +35944,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150605Z">
-        <seg>I nuovi dizionari ortografici possono essere installati all'interno di OmegaT con Opzioni &gt; Correzione ortografica... (finestra di dialogo).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T111413Z">
+        <seg>I nuovi dizionari ortografici possono essere installati all'interno di OmegaT dalla finestra di dialogo che si apre dal menu Opzioni &gt; Correzione ortografica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56688,8 +56688,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is the folder in which the spelling dictionary files will be placed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193431Z">
-        <seg>Questa è la cartella in cui verranno collocati i file dei dizionari ortografici.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T111503Z">
+        <seg>Questa è la cartella in cui verranno memorizzati i file dei dizionari ortografici.</seg>
       </tuv>
     </tu>
     <tu>
