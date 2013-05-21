@@ -4277,8 +4277,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;Download LibreOffice here&lt;/a0&gt;; &lt;a1&gt;download the Unoconv plug-in here&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202258Z">
-        <seg>&lt;a0&gt;Scarica LibreOffice qui&lt;/a0&gt;; &lt;a1&gt;Scarica qui il plug-in Unoconv&lt;/a1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101041Z">
+        <seg>&lt;a0&gt;Scarica LibreOffice qui&lt;/a0&gt;; &lt;a1&gt;scarica il plug-in Unoconv qui&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12549,8 +12549,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Abiword is a relatively small download and is very fast in use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223812Z">
-        <seg>AbiWord è un download relativamente piccolo ed è molto veloce nell'uso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100829Z">
+        <seg>AbiWord è relativamente piccolo da scaricare ed è molto veloce nell'uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15922,8 +15922,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Both are free, available for a number of different platforms, and can convert .docx and .odt files to .html format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T223750Z">
-        <seg>Entrambi sono gratuiti, disponibili per un numero di piattaforme differenti e possono convertire i file .docx e .odt in formato HTML.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100811Z">
+        <seg>Sono entrambi gratuiti, disponibili per diverse piattaforme e possono convertire i file .docx e .odt in formato .html.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31781,8 +31781,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224133Z">
-        <seg>Può anche essere utilizzato per convertire i file .docx e .odt in formato HTML, ma per farlo dalla riga di comando, si richiede anche Unoconv, un plug-in.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101015Z">
+        <seg>Può anche essere utilizzata per convertire i file .docx e .odt in formato ,html, ma per farlo dalla riga di comando richiede anche Unoconv, un componente aggiuntivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31943,8 +31943,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It has a command-line function for converting .docx and .odt files to .html format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224000Z">
-        <seg>Dispone di una funzione da riga di comando per convertire file .docx e .odt in formato HTML.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100845Z">
+        <seg>Dispone di una funzione da riga di comando per convertire file .docx e .odt in formato .html.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32346,8 +32346,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is very easy for Linux users and fairly easy for Windows users to install.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224040Z">
-        <seg>È molto facile da installare per gli utenti Linux e abbastanza facile per gli utenti di Windows.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100922Z">
+        <seg>È molto facile da installare sia per gli utenti Linux, sia per quelli Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33761,8 +33761,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>LibreOffice is a fully featured office suite similar to Microsoft Office.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202252Z">
-        <seg>LibreOffice è una suite di office completa simile a Microsoft Office.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T100943Z">
+        <seg>LibreOffice è una suite per ufficio completa simile a Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68267,14 +68267,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://dag.wieers.com/home-made/unoconv/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125347Z">
-        <seg>http://dag.wieers.com/home-made/unoconv/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215901Z">
@@ -68999,14 +68991,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.abisource.com/download/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125333Z">
-        <seg>http://www.abisource.com/download/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.apertium.org/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220011Z">
@@ -69171,14 +69155,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130427T122026Z">
         <seg>http://www.leuce.com/tempfile/omtautoit/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.libreoffice.org/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121912Z">
-        <seg>http://www.libreoffice.org/</seg>
       </tuv>
     </tu>
     <tu>
