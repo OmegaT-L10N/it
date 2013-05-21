@@ -3435,14 +3435,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>./howtos/tokenizer.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082507Z">
-        <seg>./howtos/tokenizer.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>./lin.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183038Z">
@@ -28536,8 +28528,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173545Z">
-        <seg>Se avete una naturale avversione per leggere le istruzioni, e il vostro approccio al software nuovo è fare clic su ogni pulsante che si vede fino a quando qualcosa di simile all'effetto desiderato si verifica, allora OmegaT probabilmente non è adatto per voi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T163324Z">
+        <seg>Se avete una naturale avversione nella lettura delle istruzioni e il vostro approccio al software nuovo è fare clic su ogni pulsante che si vede fino a quando qualcosa di simile all'effetto desiderato si verifica, allora OmegaT probabilmente non è adatto a voi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38304,8 +38296,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T173258Z">
-        <seg>OmegaT non è particolarmente difficile da installare o usare , ma richiede la volontà di leggere e seguire le istruzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T163149Z">
+        <seg>OmegaT non è particolarmente difficile da installare o usare, ma richiede la volontà di leggere e seguire le istruzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39196,14 +39188,6 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104331Z">
         <seg>La funzione "concordanza uno a molti" di OmegaT presuppone che segmenti identici si debbano all'inizio tradurre nello stesso modo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT, free memory translation tool</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082459Z">
-        <seg>OmegaT, free memory translation tool</seg>
       </tuv>
     </tu>
     <tu>
@@ -58435,8 +58419,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T192641Z">
-        <seg>Per ottenere OpenOffice.org o LibreOffice, segui il link dal pulsante "software di terze parti" sulla sinistra.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T163128Z">
+        <seg>Per scaricare OpenOffice o LibreOffice, seguire il collegamento dal pulsante a sinistra "Software di terze parti".</seg>
       </tuv>
     </tu>
     <tu>
@@ -58970,8 +58954,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Tokenizers plug-in</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191739Z">
-        <seg>Plug-in Tokenizers</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T163354Z">
+        <seg>Plug-in Tokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -68295,14 +68279,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082522Z">
         <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-Scripting/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-tokenizers/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082503Z">
-        <seg>http://sourceforge.net/projects/omegat-plugins/files/OmegaT-tokenizers/</seg>
       </tuv>
     </tu>
     <tu>
