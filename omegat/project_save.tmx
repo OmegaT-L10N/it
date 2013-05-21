@@ -16040,14 +16040,6 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Browser</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180630Z">
-        <seg>Browser</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T085926Z">
@@ -24580,8 +24572,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For this reason, many CAT tools provide a preview function that shows the layout and formatting without the translator having to create the final document and open it in a separate application (usually a word processor).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145431Z">
-        <seg>Per questo motivo, molti strumenti CAT forniscono una funzione di anteprima che mostra l'impaginazione e la formattazione senza che il traduttore debba creare il documento finale e aprirlo in un'applicazione separata (come un word processor).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T093033Z">
+        <seg>Per questo motivo, molti strumenti CAT forniscono una funzione di anteprima che mostra l'impaginazione e la formattazione senza che il traduttore debba creare il documento finale e aprirlo in un'applicazione separata (di solito un elaboratore di testi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32474,16 +32466,16 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It should be updated continually.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222614Z">
-        <seg>Esso poi deve essere aggiornato continuamente con le modifiche sul testo tradotto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T093154Z">
+        <seg>Dovrebbe essere poi aggiornato continuamente con le modifiche apportate al testo tradotto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>It should display the text with something approaching the final layout and formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T145745Z">
-        <seg>Si dovrebbe visualizzare il testo con qualcosa che si avvicina all'impaginazione e all'aspetto finale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T093124Z">
+        <seg>Dovrebbe visualizzare il testo con qualcosa che si avvicina all'impaginazione e all'aspetto finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37992,8 +37984,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T222504Z">
-        <seg>OmegaT non ha una funzione di anteprima integrata, ma è possibile fornire grosso modo la stessa funzionalità utilizzando software aggiuntivi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T093056Z">
+        <seg>OmegaT non ha una funzione di anteprima integrata, ma è possibile fornire grosso modo la stessa funzionalità utilizzando software aggiuntivo.</seg>
       </tuv>
     </tu>
     <tu>
