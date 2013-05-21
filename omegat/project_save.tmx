@@ -30622,6 +30622,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T174950Z">
+        <seg>Incompatibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Index entries</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T163316Z">
@@ -32114,6 +32122,14 @@ all'interno della cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T174934Z">
+        <seg>Sarà usato automaticamente da OmegaT, se l'opzione presente &lt;g0&gt;Opzioni &gt; Correzione ortografica&lt;/g0&gt; è attivata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T213305Z">
@@ -32855,6 +32871,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T093141Z">
         <seg>LanguageTool individuerà errori grazie alla regola definita nei file di configurazione per una determinata lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T175037Z">
+        <seg>LanguageTool non funzionerà correttamente se viene trovata una vecchia versione nella cartella /plugin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49318,6 +49342,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121001T093237Z">
         <seg>Il plugin di LanguageTool per OmegaT è scaricabile da sito dei plugin di OmegaT  (&lt;u0&gt;http://sourceforge.net/projects/omegat-plugins/files/&lt;/u0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T174847Z">
+        <seg>Il plugin LanguageTool è incluso in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
