@@ -12987,14 +12987,6 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Alex Buloichik</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211235Z">
-        <seg>Alex Buloichik</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Alex Buloichik (lead developer)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101114T114756Z">
@@ -19649,14 +19641,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130411T203925Z">
         <seg>Pannello del dizionario</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Didier Briel</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211230Z">
-        <seg>Didier Briel</seg>
       </tuv>
     </tu>
     <tu>
@@ -32419,14 +32403,6 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Jean-Christophe Helary</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095452Z">
-        <seg>Jean-Christophe Helary</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100718T193936Z">
@@ -32595,14 +32571,6 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Keith Godfrey</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211220Z">
-        <seg>Keith Godfrey</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Sandra Jean Chua, Thomas Cordonnier, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabian Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawula, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei and Martin Wunderlich</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211246Z">
@@ -32613,8 +32581,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212541Z">
-        <seg>Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T172129Z">
+        <seg>Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich e Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -61349,14 +61317,6 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Vincent Bidaux</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212537Z">
-        <seg>Vincent Bidaux</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Visio (*.vxd)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215841Z">
@@ -61530,8 +61490,8 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       <tuv lang="EN">
         <seg>Website content by:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T172004Z">
-        <seg>Contenuto del sito Web di:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T172032Z">
+        <seg>Contenuti del sito di:</seg>
       </tuv>
     </tu>
     <tu>
@@ -69941,14 +69901,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130517T175658Z">
         <seg>pdfbox-app-1.8.1.jar (licenza Apache 2.0)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>philosophy.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211259Z">
-        <seg>philosophy.html</seg>
       </tuv>
     </tu>
     <tu>
