@@ -3227,14 +3227,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../images/preview_flow.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125124Z">
-        <seg>../../images/preview_flow.png</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../../images/preview_ss.png</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125500Z">
@@ -12293,8 +12285,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A schematic diagram is shown below:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202316Z">
-        <seg>Di seguito è riportato un diagramma schematico:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101546Z">
+        <seg>Di seguito è riportato un breve schema:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18505,14 +18497,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121905Z">
         <seg>Copyright Marc Prior 2010-2011</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Copyright Marc Prior 2012</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125018Z">
-        <seg>Copyright Marc Prior 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -55041,8 +55025,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There are numerous ways of achiving this, but one practical solution is to use a script which "listens" for changes in the translated file(s) produced by OmegaT and then, when a change is detected, automatically launches the utility which converts the file(s) to html format in order for them to be read by the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T224435Z">
-        <seg>Ci sono molti modi di realizzare questo, ma una soluzione pratica è quella di utilizzare uno script che "ascolta" per eventuali modifiche ai file tradotti prodotti da OmegaT e poi, quando viene rilevata una modifica, avvia automaticamente il programma di utilità che converte i file in formato html per poter essere letto dal browser.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101526Z">
+        <seg>Esistono molti modi per fare questo, ma una soluzione pratica è quella di utilizzare uno script che "ascolta" eventuali modifiche dei file tradotti prodotti da OmegaT e, una volta rilevata una modifica, avvia automaticamente l'utilità che converte i file in formato html per la lettura nel browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70989,22 +70973,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T205029Z">
         <seg>politica</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>preview_flow.png</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125029Z">
-        <seg>preview_flow.png</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>priorview.html</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125025Z">
-        <seg>priorview.html</seg>
       </tuv>
     </tu>
     <tu>
