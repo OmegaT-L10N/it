@@ -13253,8 +13253,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>All being well, Priorview should appear when launched as described above.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225647Z">
-        <seg>Se tutto va bene, Priorview dovrebbe comparire quando lanciato come descritto sopra.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102307Z">
+        <seg>Se tutto va bene, Priorview dovrebbe comparire, una volta avviato come descritto sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39474,8 +39474,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>On this, select:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225740Z">
-        <seg>Allora, selezionare:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102326Z">
+        <seg>In esso, selezionare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54800,8 +54800,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then type in:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202510Z">
-        <seg>Poi digitare:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102215Z">
+        <seg>Digitare poi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62579,8 +62579,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When you have selected all of these, the Start button appears.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225841Z">
-        <seg>Dopo aver selezionato tutti queste cose, viene visualizzato il pulsante di Start.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102443Z">
+        <seg>Dopo aver selezionato tutti questi elementi, apparirà il pulsante di Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64549,8 +64549,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can simplify launching by writing a script file, i.e. a plain-text file containing these two lines.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225546Z">
-        <seg>È possibile semplificare l'avvio tramite la scrittura di un file di script, cioè un file di testo contenenti dette due linee.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102250Z">
+        <seg>È possibile semplificare l'avvio scrivendo un file di script, cioè un file di testo contenente queste due righe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71771,8 +71771,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>the file conversion utility that you have installed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202527Z">
-        <seg>l'utilità di conversione file che avete installato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102411Z">
+        <seg>l'utilità di conversione file che si è installato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71795,8 +71795,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>the frequency with which the script is to check whether this file has changed (polling interval);</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225803Z">
-        <seg>la frequenza con cui lo script è deve verificare se questo file è stato modificato (intervallo di polling);</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102403Z">
+        <seg>la frequenza con cui lo script deve verificare se questo file è stato modificato (intervallo di polling);</seg>
       </tuv>
     </tu>
     <tu>
@@ -71843,8 +71843,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>the name of the target file (in /target in your OmegaT project);</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202522Z">
-        <seg>il nome del file di destinazione (in /target nel progetto OmegaT);</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102341Z">
+        <seg>il nome del file di destinazione (in /target nel proprio progetto OmegaT);</seg>
       </tuv>
     </tu>
     <tu>
@@ -72501,14 +72501,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214159Z">
         <seg>vino</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>wish priorview.tcl</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225307Z">
-        <seg>wish priorview.tcl</seg>
       </tuv>
     </tu>
     <tu>
