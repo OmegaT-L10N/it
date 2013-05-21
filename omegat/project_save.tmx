@@ -2317,8 +2317,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Click on the Contents folder and make a backup/copy/duplicate of your info.plist file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201049Z">
-        <seg>-Fare clic sulla cartella contenuto e fare un backup/copia/duplicato del file info. plist.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T084838Z">
+        <seg>- Fare clic sulla cartella Contenuto ed eseguire un backup/copia/duplicato del file info.plist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2405,8 +2405,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Go to your Applications directory (or wherever you have your installation of OmegaT stored on your Mac), right click/cmd+click/two-finger tap on the OmegaT executable and select "View package contents".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201100Z">
-        <seg>-Vai alla directory di applicazioni (o dove hai l'installazione di OmegaT memorizzati sul vostro Mac), fare clic destro/cmd + click/due dita toccare l'eseguibile di OmegaT e selezionare "Mostra contenuto pacchetto".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T084806Z">
+        <seg>- Andare alla cartella delle applicazioni (o dove è posizionata l'installazione di OmegaT sul proprio Mac), fare clic col pulsante destro/cmd + clic/tap con due dita sull'eseguibile di OmegaT e selezionare "Mostra contenuto pacchetto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2637,8 +2637,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Open your info.plist file in your favourite text editor and locate the Properties section.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204808Z">
-        <seg>- Aprire il file info.plist nel vostro editor di testo preferito e individuare la sezione Proprietà.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T084856Z">
+        <seg>- Aprire il file info.plist nell'editor di testo preferito e individuare la sezione Proprietà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,38 +5055,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T193209Z">
         <seg>&lt;b2&gt;&lt;Invio&gt;&lt;/b2&gt;&lt;segmento 2132&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br14/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180310Z">
-        <seg>&lt;br14/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br15/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180313Z">
-        <seg>&lt;br15/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br16/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180315Z">
-        <seg>&lt;br16/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br17/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180329Z">
-        <seg>&lt;br17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19503,8 +19471,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Customer ID = microsoft.api.client_id (needed to configure your Microsoft Translator access)&lt;br13/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204748Z">
-        <seg>Customer ID = microsoft.api.client_id (necessario per configurare il vostro accesso Microsoft Translator) &lt;br13/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T084628Z">
+        <seg>Customer ID = microsoft.api.client_id (necessario per configurare il proprio accesso a Microsoft Translator) &lt;br13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42136,8 +42104,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Primary Account Key = microsoft.api.client_secret (needed to configure your Microsoft Translator access)&lt;br12/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T084548Z">
-        <seg>Primary Key Account = microsoft.api.client_secret (necessaria per configurare il proprio accesso a Microsoft Translator) &lt;br12/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T084607Z">
+        <seg>Primary Account Key = microsoft.api.client_secret (necessaria per configurare il proprio accesso a Microsoft Translator) &lt;br12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
