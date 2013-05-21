@@ -1627,8 +1627,8 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
       <tuv lang="EN">
         <seg>(In Russian)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123001Z">
-        <seg>(In russo)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215605Z">
+        <seg>(in russo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3859,48 +3859,40 @@ L'impostazione attuale è {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;Windows with JRE&lt;?php echo $endlink ?&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143629Z">
-        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;Windows with JRE&lt;?php echo $endlink ?&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215737Z">
+        <seg>&lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;Windows con JRE&lt;?php echo $endlink ?&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a10&gt;'; $endlink='&lt;/a10&gt;';?&gt; &lt;?php echo $link ?&gt;Source code&lt;?php echo $endlink ?&gt;&lt;br11/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143637Z">
-        <seg>&lt;?php $link='&lt;a10&gt;'; $endlink='&lt;/a10&gt;';?&gt; &lt;?php echo $link ?&gt;Source code&lt;?php echo $endlink ?&gt;&lt;br11/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215823Z">
+        <seg>&lt;?php $link='&lt;a10&gt;'; $endlink='&lt;/a10&gt;';?&gt; &lt;?php echo $link ?&gt;Codice sorgente&lt;?php echo $endlink ?&gt;&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a2&gt;'; $endlink='&lt;/a2&gt;';?&gt; &lt;?php echo $link ?&gt;Windows without JRE&lt;?php echo $endlink ?&gt;&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143630Z">
-        <seg>&lt;?php $link='&lt;a2&gt;'; $endlink='&lt;/a2&gt;';?&gt; &lt;?php echo $link ?&gt;Windows without JRE&lt;?php echo $endlink ?&gt;&lt;br3/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;?php $link='&lt;a4&gt;'; $endlink='&lt;/a4&gt;';?&gt; &lt;?php echo $link ?&gt;Mac OS X&lt;?php echo $endlink ?&gt;&lt;br5/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143702Z">
-        <seg>&lt;?php $link='&lt;a4&gt;'; $endlink='&lt;/a4&gt;';?&gt; &lt;?php echo $link ?&gt;Mac OS X&lt;?php echo $endlink ?&gt;&lt;br5/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215746Z">
+        <seg>&lt;?php $link='&lt;a2&gt;'; $endlink='&lt;/a2&gt;';?&gt; &lt;?php echo $link ?&gt;Windows senza JRE&lt;?php echo $endlink ?&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a6&gt;'; $endlink='&lt;/a6&gt;';?&gt; &lt;?php echo $link ?&gt;Linux with JRE&lt;?php echo $endlink ?&gt;&lt;br7/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143631Z">
-        <seg>&lt;?php $link='&lt;a6&gt;'; $endlink='&lt;/a6&gt;';?&gt; &lt;?php echo $link ?&gt;Linux with JRE&lt;?php echo $endlink ?&gt;&lt;br7/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215754Z">
+        <seg>&lt;?php $link='&lt;a6&gt;'; $endlink='&lt;/a6&gt;';?&gt; &lt;?php echo $link ?&gt;Linux con JRE&lt;?php echo $endlink ?&gt;&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;?php $link='&lt;a8&gt;'; $endlink='&lt;/a8&gt;';?&gt; &lt;?php echo $link ?&gt;Cross-platform without JRE&lt;?php echo $endlink ?&gt;&lt;br9/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143705Z">
-        <seg>&lt;?php $link='&lt;a8&gt;'; $endlink='&lt;/a8&gt;';?&gt; &lt;?php echo $link ?&gt;Cross-platform without JRE&lt;?php echo $endlink ?&gt;&lt;br9/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215811Z">
+        <seg>&lt;?php $link='&lt;a8&gt;'; $endlink='&lt;/a8&gt;';?&gt; &lt;?php echo $link ?&gt;Multi-piattaforma senza JRE&lt;?php echo $endlink ?&gt;&lt;br9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,14 +4379,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;a0&gt;Web Start Standard&lt;/a0&gt;&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143723Z">
-        <seg>&lt;a0&gt;Web Start Standard&lt;/a0&gt;&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120512T185428Z">
@@ -4509,8 +4493,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a2&gt;Web Start Latest&lt;/a2&gt;&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143736Z">
-        <seg>&lt;a2&gt;Web Start ultime&lt;/a2&gt;&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215901Z">
+        <seg>&lt;a2&gt;Web Start più recente&lt;/a2&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20582,8 +20566,8 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       <tuv lang="EN">
         <seg>Download links</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143516Z">
-        <seg>Link per il download</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215652Z">
+        <seg>Collegamenti per lo scaricamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -33021,8 +33005,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Latest versions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143644Z">
-        <seg>Ultime versioni</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215836Z">
+        <seg>Versioni più recenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -33409,8 +33393,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Links are provided below to the various versions of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143600Z">
-        <seg>Qui di seguito sono forniti collegamenti alle varie versioni di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215707Z">
+        <seg>Di seguito sono forniti collegamenti alle varie versioni di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37608,8 +37592,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT downloads overview</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143522Z">
-        <seg>OmegaT download panoramica</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215640Z">
+        <seg>Panoramica degli scaricamenti di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -67675,26 +67659,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143716Z">
-        <seg>http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215855Z">
         <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160041Z">
-        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -67773,116 +67741,12 @@ T%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Linux.tar.bz2/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143650Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Linux.tar.bz2/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Mac.zip/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143648Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Mac.zip/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143658Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Source.zip/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows.exe/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143646Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows.exe/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows_without_JRE.exe/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143647Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Windows_without_JRE.exe/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Without_JRE.zip/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143655Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%20'.$latest_name.'/OmegaT_'.$latest_number.'_Beta_Without_JRE.zip/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Legacy/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143801Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Legacy/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/Omega
 T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223750Z">
         <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/Omega
 T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Linux.tar.bz2/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143621Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Linux.tar.bz2/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Mac.zip/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143619Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Mac.zip/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143627Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Windows.exe/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143617Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Windows.exe/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Windows_without_JRE.exe/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143618Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Windows_without_JRE.exe/download</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Without_JRE.zip/download</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143625Z">
-        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%20'.$standard_name.'/OmegaT_'.$standard_number.'_Without_JRE.zip/download</seg>
       </tuv>
     </tu>
     <tu>
