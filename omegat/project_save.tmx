@@ -2445,8 +2445,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T152700Z">
-        <seg>- Il testo evidenziato nel testo di destinazione, quando viene premuto il relativo collegamento</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T121544Z">
+        <seg>- Il testo evidenziato nel testo di destinazione, quando viene premuto la relativa scorciatoia</seg>
       </tuv>
     </tu>
     <tu>
@@ -24444,8 +24444,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the text export function to be used, you must first enable it within OmegaT itself:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T080401Z">
-        <seg>Per usare la funzione di esportazione testo è necessario prima abilitarla in OmegaT stessa:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T121718Z">
+        <seg>Per usare la funzione di esportazione testo è necessario prima abilitarla nello stesso OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55611,8 +55611,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T094145Z">
-        <seg>Non hanno bisogno di alcuna conoscenza di Java; possono essere utilizzati la maggior parte de, se non tutti, i linguaggi di programmazione, e conseguite funzioni utili anche solo con abilità di programmazione relativamente limitata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T121658Z">
+        <seg>Non hanno bisogno di alcuna conoscenza di Java; può essere utilizzata la maggior parte dei linguaggi di programmazione, se non tutti, e conseguite funzioni utili anche con abilità di programmazione relativamente limitate.</seg>
       </tuv>
     </tu>
     <tu>
