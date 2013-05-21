@@ -2197,8 +2197,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>***PLEASE NOTE: The above arrows are for illustration purposes ONLY.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200958Z">
-        <seg>* * * Si prega di notare: Sopra le frecce sono solo a scopo illustrativo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T085107Z">
+        <seg>*** IMPORTANTE: le frecce sopra riportate sono SOLO a scopo illustrativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2453,8 +2453,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Here you will add entries for your Azure Marketplace Primary Account Key and Customer ID values (remember that microsoft.api.client_id = your Azure Marketplace Customer ID and microsoft.api.client_secret = your Azure Marketplace Primary Account Key):&lt;br18/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204845Z">
-        <seg>- Qui si aggiungeranno le voci per i valori di Azure Marketplace Primary Key Account e ID cliente (ricordo che microsoft.api.client_id = il tuo ID cliente di Azure Marketplace e microsoft.api.client_secret = il tuo Azure Marketplace Primary Key Account): &lt;br18/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T085002Z">
+        <seg>- Qui si dovranno aggiungere le voci dei valori di Azure Marketplace Primary Key Account e Customer ID (ricordare che microsoft.api.client_id = il proprio ID cliente di Azure Marketplace e microsoft.api.client_secret = il proprio Azure Marketplace Primary Key Account): &lt;br18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2549,8 +2549,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Launch OmegaT and enable the MS Translator option:&lt;br35/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T201014Z">
-        <seg>-Lanciare OmegaT e attivare l'opzione MS Translator: &lt;br35/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T085157Z">
+        <seg>- Avviare OmegaT e attivare l'opzione MS Translator: &lt;br35/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2629,8 +2629,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Once you have made the above entries, double check that the values are correct and then save and close your info.plist file.&lt;br34/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204928Z">
-        <seg>- Una volta che avete fatto le voci di cui sopra, verificare che i valori siano corretti e quindi salvare e chiudere il file info.plist. &lt;br34/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T085151Z">
+        <seg>- Una volta create le voci di cui sopra, verificare che i valori siano corretti, poi salvare e chiudere il file info.plist. &lt;br34/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5059,42 +5059,10 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;br19/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180332Z">
-        <seg>&lt;br19/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215848Z">
         <seg>&lt;br1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br31/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180406Z">
-        <seg>&lt;br31/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br32/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180425Z">
-        <seg>&lt;br32/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br33/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180427Z">
-        <seg>&lt;br33/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20503,8 +20471,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do NOT include these in your actual entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T204856Z">
-        <seg>Non includere queste nelle tue voci reali.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T085121Z">
+        <seg>Non includerle nelle voci reali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73041,14 +73009,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg> &lt;key&gt;Properties&lt;/key&gt;&lt;br20/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180341Z">
-        <seg> &lt;key&gt;Properties&lt;/key&gt;&lt;br20/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg> Confirm with OK.&lt;br23&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T230040Z">
@@ -73197,86 +73157,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130503T123820Z">
         <seg>   });</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>       &lt;/dict&gt;&lt;br30/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180400Z">
-        <seg>       &lt;/dict&gt;&lt;br30/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>       &lt;dict&gt;&lt;br21/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180342Z">
-        <seg>       &lt;dict&gt;&lt;br21/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>          --&gt; &lt;key&gt;microsoft.api.client_id&lt;/key&gt;&lt;br26/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180352Z">
-        <seg>          --&gt; &lt;key&gt;microsoft.api.client_id&lt;/key&gt;&lt;br26/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>          --&gt; &lt;key&gt;microsoft.api.client_secret&lt;/key&gt;&lt;br28/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180355Z">
-        <seg>          --&gt; &lt;key&gt;microsoft.api.client_secret&lt;/key&gt;&lt;br28/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>          --&gt; &lt;string&gt;A1234-5678-1234-5678-12345678901&lt;/string&gt;&lt;br27/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180353Z">
-        <seg>          --&gt; &lt;string&gt;A1234-5678-1234-5678-12345678901&lt;/string&gt;&lt;br27/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>          --&gt; &lt;string&gt;AaBb1234CcDd5678aAbBcCdD1234eEfFgGhH1234&lt;/string&gt;&lt;br29/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180358Z">
-        <seg>          --&gt; &lt;string&gt;AaBb1234CcDd5678aAbBcCdD1234eEfFgGhH1234&lt;/string&gt;&lt;br29/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>           &lt;key&gt;apple.awt.graphics.UseQuartz&lt;/key&gt;&lt;br24/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180348Z">
-        <seg>           &lt;key&gt;apple.awt.graphics.UseQuartz&lt;/key&gt;&lt;br24/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>           &lt;key&gt;apple.laf.useScreenMenuBar&lt;/key&gt;&lt;br22/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180344Z">
-        <seg>           &lt;key&gt;apple.laf.useScreenMenuBar&lt;/key&gt;&lt;br22/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>           &lt;string&gt;true&lt;/string&gt;&lt;br23/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180345Z">
-        <seg>           &lt;string&gt;true&lt;/string&gt;&lt;br23/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>           &lt;string&gt;true&lt;/string&gt;&lt;br25/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T180349Z">
-        <seg>           &lt;string&gt;true&lt;/string&gt;&lt;br25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
