@@ -3227,14 +3227,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../omegatk/te-scripts.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211431Z">
-        <seg>../../omegatk/te-scripts.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../../resources/OmegaT_with_JRE.bat</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155304Z">
@@ -46569,8 +46561,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T152255Z">
-        <seg>A partire dalla versione 2.0.1, OmegaT ha una funzione di esportazione testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T121027Z">
+        <seg>Dalla versione 2.0.1, OmegaT ha una funzione di esportazione testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55699,8 +55691,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This HOWTO describes the function and possible uses for it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T152325Z">
-        <seg>Questa guida descrive la funzione e i possibili usi per essa.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T121052Z">
+        <seg>Questa guida descrive la funzione e i suoi possibili usi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61431,8 +61423,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the OmegaT text export function (scripting interface)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T152237Z">
-        <seg>Usare la funzione di esportazione di testo di OmegaT (interfaccia di scripting)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T121019Z">
+        <seg>Usare la funzione di esportazione di testo di OmegaT (interfaccia di script)</seg>
       </tuv>
     </tu>
     <tu>
