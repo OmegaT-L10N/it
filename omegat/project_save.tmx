@@ -3953,14 +3953,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;?php print "&lt;?xml version=\"1.0\"?&gt;" ?&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101612Z">
-        <seg>&lt;?php print "&lt;?xml version=\"1.0\"?&gt;" ?&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T224011Z">
@@ -12141,8 +12133,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>A version may be "Standard, without JRE, for Windows", or "Latest, with JRE, for Linux", etc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143902Z">
-        <seg>Potrebbe essere una versione "Standard, senza JRE per Windows", o "Ultime, con JRE per Linux", ecc.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212712Z">
+        <seg>Potrebbe essere una versione "Standard, senza JRE per Windows", o "Più recente, con JRE per Linux", ecc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32164,8 +32156,8 @@ all'interno della cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>It will however lack some of the features of the "Latest" version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144017Z">
-        <seg>Mancheranno tuttavia alcune delle caratteristiche della versione "Ultima".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212752Z">
+        <seg>Mancheranno tuttavia alcune delle caratteristiche della versione "Più recente".</seg>
       </tuv>
     </tu>
     <tu>
@@ -33037,8 +33029,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Latest version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123736Z">
-        <seg>Ultima versione</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212801Z">
+        <seg>Versione più recente</seg>
       </tuv>
     </tu>
     <tu>
@@ -36480,8 +36472,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that the categories are not mutually exclusive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143853Z">
-        <seg>Nota che le categorie non sono mutuamente esclusive.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212654Z">
+        <seg>Notare che le categorie non sono mutuamente esclusive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49748,8 +49740,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143934Z">
-        <seg>La versione Standard è stata solitamente in uso per qualche tempo e quindi è dimostrata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T212737Z">
+        <seg>La versione standard è stata solitamente in uso per qualche tempo e quindi è collaudata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67895,14 +67887,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215516Z">
         <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/trunk/?view=tar</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T143831Z">
-        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/trunk/?view=tar</seg>
       </tuv>
     </tu>
     <tu>
