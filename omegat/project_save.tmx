@@ -3251,14 +3251,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>./ex.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182929Z">
-        <seg>./ex.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>./gen.php</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183051Z">
@@ -16802,8 +16794,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Click here if you are looking for OmegaT's source code or the Trunk (alpha, bleeding-edge) version of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183011Z">
-        <seg>Clicca qui se stai cercando per il codice sorgente di OmegaT o la versione Trunk (alfa, bleeding-edge) di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T222215Z">
+        <seg>Premere qui se si cerca il codice sorgente di OmegaT o la versione trunk (alfa, bleeding-edge) di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23707,8 +23699,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For experts only.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182956Z">
-        <seg>Solo per gli esperti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T222152Z">
+        <seg>Solo per esperti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50039,8 +50031,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The benefit: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182819Z">
-        <seg>Il vantaggio: una volta lanciato, futuri aggiornamenti della versione Web Start verranno installati automaticamente sul tuo computer. &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T222121Z">
+        <seg>Il vantaggio: una volta avviato, i futuri aggiornamenti della versione Web Start verranno installati automaticamente sul proprio computer.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50802,8 +50794,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The drawback: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T182928Z">
-        <seg>Lo svantaggio: questa versione non può essere utilizzata in questo momento, in congiunzione con i plug-in, quindi non tutte le funzioni sono disponibili.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T222147Z">
+        <seg>Lo svantaggio: questa versione non può essere utilizzata, al momento, insieme con i plug-in, quindi non tutte le funzioni sono disponibili.</seg>
       </tuv>
     </tu>
     <tu>
