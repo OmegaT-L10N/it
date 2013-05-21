@@ -27718,8 +27718,8 @@ Public License instead of this License.</seg>
       <tuv lang="EN">
         <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144330Z">
-        <seg>Se siete sicuri che una versione adatta di JRE è già installata sul vostro computer, è possibile scaricare una versione di OmegaT senza JRE.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213135Z">
+        <seg>Se si è sicuri che una versione adatta di JRE è già installata sul proprio computer, è possibile scaricare una versione di OmegaT senza JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27881,8 +27881,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171036Z">
-        <seg>Se non siete sicuri se o non avete una versione adatta di JRE, selezionare una versione con JRE (o la versione di Default).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213349Z">
+        <seg>Se non si è sicuri se o non si possiede una versione adatta di JRE, selezionare una versione con JRE (o la versione predefinita).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28436,8 +28436,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you install the OmegaT version even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144605Z">
-        <seg>Se si installa la versione di OmegaT anche se JRE è già installato sul vostro computer, OmegaT verrà installato separatamente e non sarà in conflitto con esso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213311Z">
+        <seg>Se si installa la versione di OmegaT, anche se JRE è già installato nel computer, il JRE di OmegaT verrà installato separatamente e non entrerà in conflitto con esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29743,8 +29743,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T214731Z">
-        <seg>Per essere eseguito, OmegaT richiede Java Runtime Environment (JRE) per installato sul tuo computer.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213118Z">
+        <seg>Per essere eseguito, OmegaT richiede l'installazione di Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30456,8 +30456,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144516Z">
-        <seg>In questo caso, non selezionare la versione di Default; selezionare una versione diversa (ad esempio, Standard o Ultima), quindi selezionare una versione contrassegnata "Java not included".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213219Z">
+        <seg>In questo caso, non selezionare la versione predefinita; selezionare una versione diversa (ad esempio, standard o più recente), quindi selezionare una versione contrassegnata "Java not included".</seg>
       </tuv>
     </tu>
     <tu>
@@ -33971,8 +33971,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Mac OS X users: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223714Z">
-        <seg>Utenti di Mac OS X: JRE è installato su Mac OS X per impostazione iniziale, pertanto esiste una versione per Mac OS X con il JRE.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213407Z">
+        <seg>Utenti di Mac OS X: JRE è installato su Mac OS X per impostazione predefinita, pertanto esiste una versione per Mac OS X con JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50906,8 +50906,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144413Z">
-        <seg>Il download sarà più veloce, e l'installazione richiede meno spazio sul disco rigido.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213154Z">
+        <seg>Lo scaricamento sarà più veloce, e l'installazione richiederà meno spazio sul disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
