@@ -20750,8 +20750,8 @@ $endlink='&lt;/a&gt;';?&gt;
       <tuv lang="EN">
         <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144711Z">
-        <seg>Durante l'installazione, a seconda del sistema operativo, è possibile ricevere avvisi di protezione diversi. &lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213622Z">
+        <seg>Durante l'installazione, a seconda del sistema operativo, è possibile ricevere vari avvisi di protezione.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27809,8 +27809,8 @@ that you install an OmegaT version with JRE included.</seg>
       <tuv lang="EN">
         <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171049Z">
-        <seg>Se siete relativamente nuovo di Linux, vi consigliamo di selezionare una versione di OmegaT con il JRE incluso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213532Z">
+        <seg>Se si è nuovi di Linux, consigliamo di selezionare una versione di OmegaT con JRE incluso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33559,8 +33559,8 @@ experience bugs, display problems or missing features.</seg>
       <tuv lang="EN">
         <seg>Linux users: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T223736Z">
-        <seg>Utenti di Linux: la maggior parte delle distribuzioni di Linux sono fornite di un ambiente di Runtime Java, ma alcune implementazioni open-source non funzionano correttamente con OmegaT (anche se questo potrebbe non risultare immediatamente evidente).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213506Z">
+        <seg>Utenti di Linux: la maggior parte delle distribuzioni di Linux è distribuita con un Java Runtime Environment, ma alcune implementazioni open source non funzionano correttamente con OmegaT (anche se questo potrebbe non risultare immediatamente evidente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35096,8 +35096,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T171052Z">
-        <seg>Gli utenti Linux più esperti preferiscono installare Oracle (precedentemente Sun) JRE a livello di sistema.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213546Z">
+        <seg>Gli utenti Linux più esperti preferiscono installare Oracle (ex Sun) JRE a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49870,8 +49870,8 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
       <tuv lang="EN">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T144626Z">
-        <seg>La versione Web Start offre un mezzo alternativo di installazione di OmegaT sul tuo computer.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213607Z">
+        <seg>La versione Web Start offre un metodo alternativo di installazione di OmegaT sul proprio computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50183,8 +50183,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The certificate is self-signed by "Didier Briel".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T214842Z">
-        <seg>Il certificato è firmato  "Didier Briel".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213635Z">
+        <seg>Il certificato è firmato da "Didier Briel".</seg>
       </tuv>
     </tu>
     <tu>
