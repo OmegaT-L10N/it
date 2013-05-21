@@ -2195,14 +2195,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>+49 209 94757413</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212532Z">
-        <seg>+49 209 94757413</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215513Z">
@@ -3593,14 +3585,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>45896 Gelsenkirchen&lt;br2/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212523Z">
-        <seg>45896 Gelsenkirchen&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215219Z">
@@ -4775,14 +4759,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215848Z">
         <seg>&lt;br1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;br4/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212527Z">
-        <seg>&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15231,14 +15207,6 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Baumeistersweg 12&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212521Z">
-        <seg>Baumeistersweg 12&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Be careful to choose a font that contains both the necessary Asian and "normal" characters, such as MS Mincho, but without the "[text body]" style suffix.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132244Z">
@@ -16156,14 +16124,6 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091444Z">
         <seg>Richiamare una ricerca</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Camille Moulin</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T211218Z">
-        <seg>Camille Moulin</seg>
       </tuv>
     </tu>
     <tu>
@@ -24735,8 +24695,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Germany&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212524Z">
-        <seg>Germany&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T171956Z">
+        <seg>Germania&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34462,26 +34422,10 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Marc Prior</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T223315Z">
-        <seg>Carmelo Serraino, con la revisione di Valter Mura </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T101451Z">
         <seg>Marc Prior è il coordinatore del progetto OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Marc Prior&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212520Z">
-        <seg>Marc Prior&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42286,14 +42230,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Qabiria</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102929Z">
-        <seg>Qabiria</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T094523Z">
@@ -48517,14 +48453,6 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T110450Z">
         <seg>In gergo tecnico, il segmento &lt;c0&gt;msgstr&lt;/c0&gt; nel file PO di arrivo, se creato, sarà lasciato vuoto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Tel.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212529Z">
-        <seg>Tel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61602,16 +61530,16 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       <tuv lang="EN">
         <seg>Website content by:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145445Z">
-        <seg>Contenuto del sito Web da:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T172004Z">
+        <seg>Contenuto del sito Web di:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Website graphics by:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T145327Z">
-        <seg>Grafica del sito Web da:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T172025Z">
+        <seg>Grafica del sito di:</seg>
       </tuv>
     </tu>
     <tu>
@@ -72211,17 +72139,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T224103Z">
         <seg>Carmelo Serraino, con la revisione di Valter Mura </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">OmegaT Website en/who_we_are.html</prop>
-      <prop type="prev">Website content by:</prop>
-      <prop type="next">Website graphics by:</prop>
-      <tuv lang="EN">
-        <seg>Marc Prior</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T224123Z">
-        <seg>Marc Prior</seg>
       </tuv>
     </tu>
   </body>
