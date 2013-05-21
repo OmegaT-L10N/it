@@ -1603,8 +1603,8 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
       <tuv lang="EN">
         <seg>(In English)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123013Z">
-        <seg>(In inglese)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215555Z">
+        <seg>(in inglese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1619,8 +1619,8 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
       <tuv lang="EN">
         <seg>(In Italian)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123145Z">
-        <seg>(In Italiano)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215516Z">
+        <seg>(in italiano)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24444,8 +24444,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123032Z">
-        <seg>Dalla serie  YouTube di Miguel Navarro per OmegaT (in spagnolo).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215441Z">
+        <seg>Dalla serie YouTube OmegaT di Miguel Navarro (in spagnolo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25233,14 +25233,6 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215434Z">
         <seg>Guaraní</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123123Z">
-        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -37858,14 +37850,6 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T171715Z">
         <seg>OmegaT si interfaccia con SVN e Git, due popolari sistemi di controllo di versione e revisione (RCS, Revision Control System), disponibili con licenza open source.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT introduction tutorial</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T214952Z">
-        <seg>Breve addestramento a OmegaT, introduzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -54955,8 +54939,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T122908Z">
-        <seg>Queste utilità abilitano OmegaT a essere usato per tradurre file per cui sono disponibili filtri di conversione di formati  XLIFF</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215308Z">
+        <seg>Queste utilità abilitano OmegaT a essere usato per tradurre formati di file per cui sono disponibili filtri di conversione XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61305,30 +61289,6 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T095723Z">
         <seg>Per l'ambiente Windows, &lt;u1&gt;TortoiseSVN&lt;/u1&gt; e &lt;u2&gt;TortoiseGit&lt;/u2&gt; sono client molto popolari.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Video 1</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123041Z">
-        <seg>Video 1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Video 2</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123045Z">
-        <seg>Video 2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Video 3</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123048Z">
-        <seg>Video 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -68191,74 +68151,10 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.ultimabooks.it/guida-completa-a-omegat-tecniche-trucchi-e-consigli-per-traduttori-e-project-manager-1</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123114Z">
-        <seg>http://www.ultimabooks.it/guida-completa-a-omegat-tecniche-trucchi-e-consigli-per-traduttori-e-project-manager-1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.velior.ru/blog/en/tag/omegat/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123151Z">
-        <seg>http://www.velior.ru/blog/en/tag/omegat/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.velior.ru/blog/ru/tag/omegat/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101600Z">
-        <seg>http://www.velior.ru/blog/ru/tag/omegat/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.welocalize.com/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T212344Z">
         <seg>http://www.welocalize.com/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101551Z">
-        <seg>http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.youtube.com/watch?v=8m2_R6L84PE</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123040Z">
-        <seg>http://www.youtube.com/watch?v=8m2_R6L84PE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.youtube.com/watch?v=9oRsBcRXflE</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123044Z">
-        <seg>http://www.youtube.com/watch?v=9oRsBcRXflE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.youtube.com/watch?v=iakqcUvRsEU</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101553Z">
-        <seg>http://www.youtube.com/watch?v=iakqcUvRsEU</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.youtube.com/watch?v=waW8nXGyUBU</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T101556Z">
-        <seg>http://www.youtube.com/watch?v=waW8nXGyUBU</seg>
       </tuv>
     </tu>
     <tu>
@@ -69257,8 +69153,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T215110Z">
-        <seg> sulla traduzione e sul &lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215537Z">
+        <seg>sulla traduzione e sul&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -71051,8 +70947,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>translation industry</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T215102Z">
-        <seg>sul settore traduzione</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215551Z">
+        <seg>settore della traduzione</seg>
       </tuv>
     </tu>
     <tu>
