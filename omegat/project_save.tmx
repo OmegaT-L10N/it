@@ -25719,8 +25719,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Have you considered writing some user documentation yourself?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T215924Z">
-        <seg>Hai pensato di scrivere qualche documentazione utente tu stesso?</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T140604Z">
+        <seg>Hai mai pensato di scrivere in prima persona della documentazione utente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -34680,8 +34680,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T221751Z">
-        <seg>Molti di voi lettori siete traduttori che hanno tradotto un sacco di documentazione per l'utente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T140540Z">
+        <seg>Molti di voi, che leggete queste pagine, sono traduttori che hanno tradotto tanta documentazione utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45185,8 +45185,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T220426Z">
-        <seg>Vedere la &lt;a0&gt;Guida per la localizzazione di OmegaT&lt;/a0&gt; per i dettagli di ciò che significa traduzione/localizzazione di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T140733Z">
+        <seg>Vedere la &lt;a0&gt;Guida per la localizzazione di OmegaT&lt;/a0&gt; per i dettagli di ciò che significa tradurre/localizzare OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48915,8 +48915,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Testing</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T145824Z">
-        <seg>Test</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T140747Z">
+        <seg>Controlli di qualità</seg>
       </tuv>
     </tu>
     <tu>
@@ -49027,8 +49027,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082335Z">
-        <seg>Grazie al lavoro dei traduttori, in passato, l'interfaccia utente di OmegaT e le guide sono state tradotte in diverse lingue.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T140636Z">
+        <seg>Grazie al lavoro di traduttori precedenti, l'interfaccia utente di OmegaT e le guide sono state tradotte in diverse lingue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49051,8 +49051,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>That means there are only a few thousand left!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T221917Z">
-        <seg>Ciò significa che ce ne sono 'solo' alcune migliaia rimaste!</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T140706Z">
+        <seg>Ciò significa che ne sono rimaste 'solo' alcune migliaia da fare!</seg>
       </tuv>
     </tu>
     <tu>
@@ -68007,14 +68007,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T121726Z">
         <seg>howtos/linux.html</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/localizing_omegat.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082317Z">
-        <seg>howtos/localizing_omegat.php</seg>
       </tuv>
     </tu>
     <tu>
