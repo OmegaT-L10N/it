@@ -1296,6 +1296,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Tokenizer Behavior:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T180203Z">
+        <seg>Comportamento tokenizer di parten&amp;za:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T095412Z">
@@ -1308,6 +1316,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130421T170531Z">
         <seg>Tokenizer lingua di &amp;arrivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Tokenizer Behavior:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T180210Z">
+        <seg>Comportamento tokenizer di &amp;destinazione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6485,8 +6501,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20130213T192414Z">
-        <seg>&lt;html&gt;I comandi esterni per il progetto sono disabilitati e non verranno eseguiti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T180220Z">
+        <seg>&lt;html&gt;I comandi esterni per il progetto sono disabilitati e non saranno eseguiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33765,6 +33781,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101146Z">
         <seg>Percorso di memorizzazione e scopo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T180252Z">
+        <seg>Registro:</seg>
       </tuv>
     </tu>
     <tu>
