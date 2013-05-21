@@ -14766,8 +14766,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As such, it does nothing not already done by the OmegaT Editor pane; its purpose is to illustrate how the text can be extracted from a script file and made available for further scripts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093717Z">
-        <seg>Come tale, non fa nulla non già fatto dal riquadro Editor di OmegaT; il suo scopo è quello di illustrare come il testo può essere estratto da un file di script e reso disponibile per ulteriori script.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122948Z">
+        <seg>Come tale, non fa nulla che non sia stato già fatto dal pannello dell'Editor di OmegaT; il suo scopo è quello di illustrare come il testo può essere estratto da un file di script e reso disponibile per ulteriori script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16522,8 +16522,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Change folder (directory) to the script folder, e.g. (on Windows XP systems):</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200459Z">
-        <seg>Cambiare cartella (directory) nella cartella script, ad esempio (su sistemi Windows XP):</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122845Z">
+        <seg>Passare alla cartella (directory) script, ad esempio (sui sistemi Windows XP):</seg>
       </tuv>
     </tu>
     <tu>
@@ -18343,8 +18343,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100348Z">
-        <seg>Copiare lo script nella cartella "script" di OmegaT, cioè la cartella contenente source.txt ecc. (gli script possono in linea di principio essere collocati ovunque, ma poi devono essere richiamati con aggiunta del percorso per i file di script).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122718Z">
+        <seg>Copiare lo script nella cartella "script" di OmegaT, ossia quella contenente source.txt, ecc. (gli script possono, in linea di principio, essere collocati ovunque, ma devono essere poi richiamati con aggiunta del percorso ai file di script).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19575,8 +19575,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Depending upon how your system is configured, it may be possible to launch the scripts simply by clicking on them with the mouse.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100500Z">
-        <seg>In base alla configurazione del vostro sistema, è possibile lanciare gli script semplicemente cliccandoci sopra con il mouse.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122744Z">
+        <seg>In base alla configurazione del proprio sistema, è possibile avviare gli script semplicemente facendovi sopra clic col mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33445,8 +33445,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch the script with "wish" followed by the script file name, e.g.:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093613Z">
-        <seg>Lanciare lo script con "wish" seguito dal nome del file di script, ad esempio:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122903Z">
+        <seg>Avviare lo script con "wish" seguito dal nome del file di script, ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40020,8 +40020,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open a command-line window (DOS prompt, terminal, console)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100606Z">
-        <seg>Aprire una finestra per riga di comando (console terminale, prompt dei comandi DOS)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122812Z">
+        <seg>Aprire una finestra a riga di comando (console, terminale, prompt di DOS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66587,14 +66587,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081940Z">
-        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>cd C:\My Documents\MyOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130147Z">
@@ -71377,14 +71369,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>te-basic-source</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082014Z">
-        <seg>te-basic-source</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>te-basic-target</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093733Z">
@@ -72269,14 +72253,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T214159Z">
         <seg>vino</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>wish te-basic-source.tcl</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T081944Z">
-        <seg>wish te-basic-source.tcl</seg>
       </tuv>
     </tu>
     <tu>
