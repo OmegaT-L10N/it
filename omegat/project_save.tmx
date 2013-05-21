@@ -3267,30 +3267,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../omegatk/ondiloto.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082605Z">
-        <seg>../omegatk/ondiloto.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../omegatk/stripper.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082550Z">
-        <seg>../omegatk/stripper.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../omegatk/tkount.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082602Z">
-        <seg>../omegatk/tkount.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../resources/DA_Guillardeau.pdf</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T102830Z">
@@ -18012,8 +17988,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174944Z">
-        <seg>Dovuto al contributo di Marc Prior.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165702Z">
+        <seg>Contributo di Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25647,8 +25623,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Has been tested on Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175112Z">
-        <seg>È stato provata su Linux.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165745Z">
+        <seg>È stata provata su Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37104,8 +37080,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193040Z">
-        <seg>Strumento di ricerca del dizionario online.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165837Z">
+        <seg>Strumento di ricerca del dizionario in linea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39624,14 +39600,6 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Ondiloto</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082608Z">
-        <seg>Ondiloto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>One can enter a regular expression for unwanted contents in the target.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T184848Z">
@@ -41085,8 +41053,8 @@ Permission is granted to copy, distribute and/or modify this document under the 
       <tuv lang="EN">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174843Z">
-        <seg>Indipendente dalla piattaforma; richiede tcl/tk.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165605Z">
+        <seg>Indipendenti dalla piattaforma; richiedono tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43513,8 +43481,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175045Z">
-        <seg>richiede tcl/tk, Abiword e pdftotext.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165738Z">
+        <seg>Richiede tcl/tk, Abiword e pdftotext.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44441,16 +44409,16 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193146Z">
-        <seg>Script per l'estrazione del testo per la traduzione da file di testo (ad esempio il codice sorgente computer) per la traduzione di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165648Z">
+        <seg>Script per l'estrazione del testo per la traduzione da file di solo testo (ad esempio, il codice sorgente computer) per la traduzione in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Script versions of Toxic.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174740Z">
-        <seg>Versione script di Toxic.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165552Z">
+        <seg>Versioni script di Toxic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47559,14 +47527,6 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Stripper</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082558Z">
-        <seg>Stripper</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Structure level segmentation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091626Z">
@@ -48021,14 +47981,6 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T214100Z">
         <seg>TBX - Term Base eXchange - è lo standard aperto basato su XML per l'interscambio di dati terminologici strutturati; TBX è stato riconosciuto come standard internazionale da LISA&lt;i1/&gt; e ISO.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>TKount</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T082604Z">
-        <seg>TKount</seg>
       </tuv>
     </tu>
     <tu>
@@ -59018,16 +58970,16 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Toxic scripts</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T174707Z">
-        <seg>Toxic script</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165546Z">
+        <seg>Script Toxic</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Toxic was contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165510Z">
-        <seg>Toxic è stata contribuito da Marc Prior.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165719Z">
+        <seg>Contributo di Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72614,8 +72566,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>Contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T175135Z">
-        <seg>Dovuta al contributo di Marc Prior.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165755Z">
+        <seg>Contributo di Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
