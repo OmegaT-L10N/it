@@ -1514,8 +1514,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225145Z">
-        <seg>(Scaricare dal link fornito; Gli utenti Linux possono preferiscono installare dagli archivi della loro distribuzione, dove questo è possibile)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101926Z">
+        <seg>(Scaricare dai collegamenti forniti; gli utenti Linux potrebbero preferire installarlo dagli archivi della loro distribuzione, laddove questo sia possibile)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3259,14 +3259,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>../../resources/priorview.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125356Z">
-        <seg>../../resources/priorview.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>../downloads.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T181935Z">
@@ -4227,14 +4219,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125336Z">
-        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;a0&gt;Dictionaries&lt;/a0&gt; are the electronic version of printed MerriamWebsters, Duden, Larousse etc., you may keep on your desk.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110126T195945Z">
@@ -4317,8 +4301,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; together with the &lt;a1&gt;Unoconv plug-in&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202443Z">
-        <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; , insieme con il &lt;a1&gt;plug-in Unoconv&lt;/a1&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102004Z">
+        <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; insieme con il &lt;a1&gt;plug-in Unoconv&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4787,22 +4771,6 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225202Z">
-        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125352Z">
-        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;b0&gt;A browser&lt;/b0&gt;, specifically either:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101729Z">
@@ -4813,8 +4781,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;b0&gt;A conversion utility&lt;/b0&gt;, specifically either:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202438Z">
-        <seg>&lt;b0&gt;Un'utilità di conversione&lt;/b0&gt;, in particolare sia:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101934Z">
+        <seg>&lt;b0&gt;Un'utilità di conversione&lt;/b0&gt;, in particolare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13541,8 +13509,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Almost any current version of Tcl/Tk will probably be suitable, but you must have both Tcl (the scripting interpreter) and Tk (the graphical component).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225158Z">
-        <seg>Quasi qualsiasi versione corrente di Tcl/Tk sarà probabilmente adatta, ma è necessario avere sia Tcl (l'interprete di script) e Tk (il componente grafico).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102109Z">
+        <seg>Quasi tutte le versioni attuali di Tcl/Tk saranno probabilmente adatte, ma bisogna avere sia Tcl (l'interprete di script), sia Tk (il componente grafico).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58411,8 +58379,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To launch Priorview, open a command prompt/terminal/console and type in:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225258Z">
-        <seg>Per il lancio di Priorview, aprire una prompt dei comandi, il terminale e la console e digitare:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102134Z">
+        <seg>Per il lancio di Priorview, aprire un prompt dei comandi/terminale/console e digitare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66637,8 +66605,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>cd &lt;i0&gt;path&lt;/i0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225402Z">
-        <seg>cd &lt;i0&gt;path&lt;/i0&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102146Z">
+        <seg>cd &lt;i0&gt;percorso&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -69279,14 +69247,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.tcl.tk/software/tcltk/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125349Z">
-        <seg>http://www.tcl.tk/software/tcltk/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.ultimabooks.it/guida-completa-a-omegat-tecniche-trucchi-e-consigli-per-traduttori-e-project-manager-1</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123114Z">
@@ -70593,8 +70553,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>or</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T125344Z">
-        <seg>o</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101943Z">
+        <seg>oppure</seg>
       </tuv>
     </tu>
     <tu>
@@ -72483,8 +72443,8 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       <tuv lang="EN">
         <seg>where &lt;i0&gt;path&lt;/i0&gt; is the full pathname of the folder in which you placed preview.tcl.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T225536Z">
-        <seg>dove &lt;i0&gt;path&lt;/i0&gt; è il percorso completo della cartella in cui avete posizionato preview.tcl.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102207Z">
+        <seg>dove &lt;i0&gt;percorso&lt;/i0&gt; è il percorso completo della cartella in cui è stato memorizzato preview.tcl.</seg>
       </tuv>
     </tu>
     <tu>
