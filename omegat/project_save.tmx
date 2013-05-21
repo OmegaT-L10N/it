@@ -27212,8 +27212,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If multiple functions were to be used at the same time in practice, it would be more efficient to combine them in a single script file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093421Z">
-        <seg>Se in pratica dovevano essere utilizzate allo stesso tempo molteplici funzioni, sarebbe stato più efficiente combinarli in un unico file script.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122547Z">
+        <seg>Se, in pratica, dovessero essere utilizzate più funzioni insieme, sarebbe più efficiente combinarle in un unico file di script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51338,8 +51338,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The example scripts provided &lt;a0&gt;here&lt;/a0&gt; all launch a window, but scripts that carry out functions in the background are quite conceivable.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100216Z">
-        <seg>Gli script di esempio forniti &lt;a0&gt;qui&lt;/a0&gt; tutti lanciano una finestra, ma gli script che svolgono funzioni in sottofondo sono abbastanza immaginabili.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122617Z">
+        <seg>Gli script di esempio forniti &lt;a0&gt;qui&lt;/a0&gt; avviano tutti una finestra, ma gli script che svolgono funzioni in sottofondo sono abbastanza immaginabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58371,8 +58371,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To launch a script:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200446Z">
-        <seg>Per lanciare uno script:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T122621Z">
+        <seg>Per avviare uno script:</seg>
       </tuv>
     </tu>
     <tu>
