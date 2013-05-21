@@ -30736,8 +30736,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In this case, a "reminder" in each relevant segment may be helpful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100819Z">
-        <seg>In questo caso, un "promemoria" in ogni segmento interessato può essere utile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123516Z">
+        <seg>In questo caso, un "promemoria" in ogni segmento interessato potrebbe risultare utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42736,8 +42736,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Rather than find all the cases of "abc" and correcting them before proceeding (which is possible, but has drawbacks), she could simply decide to correct them in course of the next draft.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T200556Z">
-        <seg>Piuttosto che trovare tutti i casi di "abc" e correggerli prima di procedere (che è possibile, ma ha inconvenienti), lei potrebbe semplicemente decidere di correggerli nel corso del prossimo progetto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T123601Z">
+        <seg>Anziché trovare tutti i casi di "abc" e correggerli prima di procedere (il che è possibile ma presenta inconvenienti), potrebbe semplicemente decidere di correggerli nel corso della successiva stesura di bozza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71389,14 +71389,6 @@ T%20'.$standard_name.'/OmegaT_'.$standard_number.'_Source.zip/download</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130505T101512Z">
         <seg>te-gloss-subst-highlight</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>te-notags</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T100832Z">
-        <seg>te-notags</seg>
       </tuv>
     </tu>
     <tu>
