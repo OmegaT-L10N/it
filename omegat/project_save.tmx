@@ -2080,16 +2080,16 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
       <tuv lang="EN">
         <seg>* The "instant start" guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103925Z">
-        <seg>* La guida "instant start" (una breve introduzione all'utilizzo di OmegaT)&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180521Z">
+        <seg>* La guida di "avvio rapido" (breve introduzione all'utilizzo di OmegaT)&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>* The OmegaT web pages (probably where you are reading this)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T085051Z">
-        <seg>* Le pagine web di OmegaT (probabilmente dove stai leggendo queste)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180554Z">
+        <seg>* Le pagine web di OmegaT (probabilmente dove stai leggendo queste righe)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,8 +2104,8 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
       <tuv lang="EN">
         <seg>* The readme file (a document that contains general information about OmegaT)&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103917Z">
-        <seg>* Il file readme (un documento che contiene informazioni generali su OmegaT)&lt;br3/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180536Z">
+        <seg>* Il file readme (documento che contiene informazioni generali su OmegaT)&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2120,8 +2120,8 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
       <tuv lang="EN">
         <seg>* The user interface (menus etc.)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103939Z">
-        <seg>* L'interfaccia utente (menu ecc.)&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180453Z">
+        <seg>* L'interfaccia utente (menu, ecc.)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29703,8 +29703,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In particular, the main user manual is likely to take two weeks to translate, and several translators may wish to share the work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104058Z">
-        <seg>In particolare, il manuale dell'utente principale rischia di prendere due settimane per la traduzione, e diversi traduttori potrebbero desiderare di condividere il lavoro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180657Z">
+        <seg>In particolare, il manuale principale dell'utente prende almeno due settimane per la traduzione, e diversi traduttori potrebbero desiderare di condividere il lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31053,8 +31053,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104019Z">
-        <seg>Invece, coloro che sono coinvolti nel progetto OmegaT sperano che le traduzioni saranno fornite innanzitutto da traduttori che hanno provato OmegaT e sono convinti del suo valore per l'intera comunità traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180439Z">
+        <seg>Quelli che sono coinvolti nel progetto OmegaT, al contrario, sperano che le traduzioni vengano fornite innanzitutto da traduttori che hanno provato il programma e si sono convinti del suo valore per l'intera comunità di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41536,8 +41536,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Procedure</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155218Z">
-        <seg>Procedure</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180701Z">
+        <seg>Procedura</seg>
       </tuv>
     </tu>
     <tu>
@@ -59266,8 +59266,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translators are free to tackle as much or as little of the work as they wish.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104050Z">
-        <seg>I traduttori sono liberi di affrontare la quantità di lavoro che vogliono.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180618Z">
+        <seg>I traduttori sono liberi di tradurre quanto vogliono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68463,14 +68463,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215720Z">
         <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>mailto:jean.christophe.helary@gmail.com</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155224Z">
-        <seg>mailto:jean.christophe.helary@gmail.com</seg>
       </tuv>
     </tu>
     <tu>
