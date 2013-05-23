@@ -21986,8 +21986,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T172957Z">
-        <seg>Eseguire questo file, e OmegaT ora dovrebbe avviarsi con la funzione tokenizer.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195320Z">
+        <seg>Eseguire questo file: OmegaT ora dovrebbe avviarsi con la funzione tokenizer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28773,8 +28773,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173111Z">
-        <seg>Se si desidera utilizzare diversi tokenizer perché si traduce da più di una lingua, creare un file di script di lancio di OmegaT specifico per ogni tokenizer che si desidera utilizzare.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195446Z">
+        <seg>Se si desidera utilizzare diversi tokenizer perché si traduce da più lingue, creare un file di script di avvio di OmegaT specifico per ogni tokenizer che si desidera utilizzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29038,8 +29038,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T172916Z">
-        <seg>Importante: questo comando tutto deve stare su una sola riga (anche se appare su due righe nel display in cui stai leggendo questo).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195304Z">
+        <seg>Importante: questo comando tutto deve stare su una sola riga (anche se appare su due righe nello schermo in cui stai leggendo queste frasi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58220,8 +58220,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173031Z">
-        <seg>Per verificare, controllare se le voci di glossario vengono visualizzate anche quando il segmento di OmegaT corrente contiene un termine in una forma flessa di quello nel Glossario.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195402Z">
+        <seg>Per verificare, controllare se le voci di glossario vengono visualizzate anche quando il segmento di OmegaT corrente contiene un termine in una forma flessa del termine contenuto nel glossario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68151,22 +68151,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121856Z">
         <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballEnglishTokenizer</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121734Z">
-        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballEnglishTokenizer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121717Z">
-        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
       </tuv>
     </tu>
     <tu>
