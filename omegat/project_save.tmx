@@ -28532,8 +28532,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a1&gt;OmegaT webmaster&lt;/a1&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125244Z">
-        <seg>Se si preferisce tradurre da una lingua diversa, in cui è già stato localizzato OmegaT, contattare il  &lt;a1&gt;webmaster di OmegaT&lt;/a1&gt;.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181656Z">
+        <seg>Se si preferisce tradurre da una lingua diversa nella quale è già stato localizzato OmegaT, contattare il &lt;a1&gt;webmaster di OmegaT&lt;/a1&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39908,8 +39908,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Options &gt; File Filters &gt; Select "HTML and XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220634Z">
-        <seg>Opzioni &gt; Filtri dei file... &gt; scegli "file XTML e  XHTML" &gt; Modifica &gt; Aggiungi &gt; quindi scrivi "*.php" nella colonna "Modello del nome del file sorgente".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181801Z">
+        <seg>Opzioni &gt; Filtri dei file... &gt; scegliere "file XTML e  XHTML" &gt; Modifica &gt; Aggiungi &gt; quindi scrivere "*.php" nella colonna "Modello del nome del file sorgente".</seg>
       </tuv>
     </tu>
     <tu>
@@ -49484,8 +49484,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The OmegaT website includes files in HTML and, as of 2011, PHP format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125303Z">
-        <seg>Il sito di OmegaT include file in HTML e, a partire dal 2011, in formato PHP.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181730Z">
+        <seg>Il sito di OmegaT include file in formato HTML e, dal 2011, in PHP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67679,14 +67679,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215258Z">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://tech.groups.yahoo.com/group/OmegaT/files/3- Localization files/Translation memory repository/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155232Z">
-        <seg>http://tech.groups.yahoo.com/group/OmegaT/files/3- Localization files/Translation memory repository/</seg>
       </tuv>
     </tu>
     <tu>
