@@ -4501,8 +4501,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;b0&gt;Standard versions&lt;/b0&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123459Z">
-        <seg>&lt;b0&gt;Versioni Standard&lt;/b0&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T200112Z">
+        <seg>&lt;b0&gt;Versioni standard&lt;/b0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12541,8 +12541,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After creating and testing the shortcut, you can add it to the Start menu by dragging it there.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173322Z">
-        <seg>Dopo la creazione e il test del collegamento, si può aggiungerlo al menù Start trascinandocelo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T200037Z">
+        <seg>Dopo la creazione e il controllo del collegamento, lo si può aggiungere al menu Start trascinandovelo sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13206,8 +13206,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Alternatively, right-click on the launch script.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135458Z">
-        <seg>In alternativa, fare clic destro sullo script di lancio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195940Z">
+        <seg>In alternativa, fare clic col destro sullo script di avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17969,14 +17969,6 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220248Z">
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Copyright Marc Prior 2010-2011</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121905Z">
-        <seg>Copyright Marc Prior 2010-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -43353,8 +43345,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Right-click on the launch script (OmegaT.bat), then keeping the right mouse button depressed, drag the script to a convenient location, such as your desktop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135437Z">
-        <seg>Tasto destro del mouse sullo script di lancio (OmegaT.bat), quindi tenendo premuto il pulsante destro del mouse, trascinare lo script in una posizione comoda, ad esempio sul desktop.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195859Z">
+        <seg>Fare clic col pulsante destro del mouse sullo script di avvio (OmegaT.bat), poi, mentre lo si tiene premuto, trascinare lo script nella posizione desiderata, ad esempio sul desktop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45385,8 +45377,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Select: "Send to", then select "Desktop (create shortcut)".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135504Z">
-        <seg>Selezionare: "Invia a", quindi selezionare "Desktop (Crea collegamento)".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195957Z">
+        <seg>Selezionare: "Invia a" poi "Desktop (Crea collegamento)".</seg>
       </tuv>
     </tu>
     <tu>
@@ -62059,8 +62051,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When you release the right click, a dialog opens with a number of options.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135447Z">
-        <seg>Quando si rilascia il tasto destro, si apre una finestra di dialogo con un numero di opzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195925Z">
+        <seg>Quando si rilascia il pulsante destro si apre una finestra di dialogo con varie opzioni.</seg>
       </tuv>
     </tu>
     <tu>
