@@ -12253,8 +12253,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T171359Z">
-        <seg>Aggiungere l'argomento --ITokenizer = seguito dal nome completo di questo tokenizer (copiando l'intera linea, inserendo uno spazio) alla fine del comando lancio nel tuo file di script di lancio di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195111Z">
+        <seg>Aggiungere l'argomento --ITokenizer = seguito dal nome completo di questo tokenizer (copiando l'intera riga, inserendo uno spazio) alla fine del comando di avvio all'interno del proprio file di script di avvio di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16610,8 +16610,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Choose a tokenizer from the following list, according to your &lt;s0&gt;source&lt;/s0&gt; language:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134930Z">
-        <seg>Scegliere un tokenizer dal seguente elenco, secondo la lingua di &lt;s0&gt;origine&lt;/s0&gt; :</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195002Z">
+        <seg>Scegliere un tokenizer dal seguente elenco, in base alla lingua di &lt;s0&gt;origine&lt;/s0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19159,8 +19159,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Depending upon your system configuration, the launch command may be slightly different.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134912Z">
-        <seg>In base alla configurazione del sistema, il comando di lancio potrebbe essere leggermente diverso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194944Z">
+        <seg>A seconda della configurazione del sistema, il comando di avvio potrebbe essere leggermente diverso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23595,8 +23595,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, to use the English tokenizer (when translating from English), your launch command might now be:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T172809Z">
-        <seg>Ad esempio, per utilizzare il tokenizer inglese (traduzione dall'inglese), il comando di lancio potrebbe essere:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195148Z">
+        <seg>Ad esempio, per utilizzare il tokenizer inglese (quando si traduce dall'inglese), il comando di avvio potrebbe dunque essere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49903,8 +49903,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The basic form of this command is:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134845Z">
-        <seg>La forma base di questo comando è:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194926Z">
+        <seg>La forma base del comando è:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51595,8 +51595,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The launch file script contains the OmegaT launch command.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134839Z">
-        <seg>Il file script di lancio contiene il comando di lancio di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194920Z">
+        <seg>Il file script di avvio contiene il comando di avvio di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64274,8 +64274,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T171235Z">
-        <seg>Si può anche fare clic destro con il mouse sul file, quindi 'Apri con' e selezionare un editor di testo per aprirlo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194910Z">
+        <seg>Si può anche fare clic sul file col pulsante destro del mouse, quindi 'Apri con' e selezionare un editor di testo per aprirlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69023,246 +69023,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T093220Z">
         <seg>sia la versione di OmegaT completa di JRE (il pacchetto .tar.gz contrassegnato </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneArabicTokenizer&lt;br0/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121614Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneArabicTokenizer&lt;br0/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer&lt;br1/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121615Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer&lt;br1/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121617Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneChineseTokenizer&lt;br2/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121616Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneChineseTokenizer&lt;br2/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneCzechTokenizer&lt;br4/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121619Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneCzechTokenizer&lt;br4/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneDutchTokenizer&lt;br5/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121620Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneDutchTokenizer&lt;br5/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063516Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneGermanTokenizer&lt;br7/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121625Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneGermanTokenizer&lt;br7/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneGreekTokenizer&lt;br8/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121623Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneGreekTokenizer&lt;br8/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LucenePersianTokenizer&lt;br9/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121628Z">
-        <seg>org.omegat.plugins.tokenizer.LucenePersianTokenizer&lt;br9/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneRussianTokenizer&lt;br11/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121633Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneRussianTokenizer&lt;br11/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneSmartChineseTokenizer&lt;br10/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121626Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneSmartChineseTokenizer&lt;br10/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.LuceneThaiTokenizer&lt;br12/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121633Z">
-        <seg>org.omegat.plugins.tokenizer.LuceneThaiTokenizer&lt;br12/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballDanishTokenizer&lt;br13/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121634Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballDanishTokenizer&lt;br13/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballDutchTokenizer&lt;br14/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121634Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballDutchTokenizer&lt;br14/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballEnglishTokenizer&lt;br15/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121635Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballEnglishTokenizer&lt;br15/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballFinnishTokenizer&lt;br16/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121636Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballFinnishTokenizer&lt;br16/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballFrenchTokenizer&lt;br17/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121636Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballFrenchTokenizer&lt;br17/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballGerman2Tokenizer&lt;br18/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121637Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballGerman2Tokenizer&lt;br18/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballGermanTokenizer&lt;br19/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121637Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballGermanTokenizer&lt;br19/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballHungarianTokenizer&lt;br20/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121638Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballHungarianTokenizer&lt;br20/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballItalianTokenizer&lt;br21/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121640Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballItalianTokenizer&lt;br21/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballNorwegianTokenizer&lt;br22/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121640Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballNorwegianTokenizer&lt;br22/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballPorterTokenizer&lt;br23/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121641Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballPorterTokenizer&lt;br23/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballPortugueseTokenizer&lt;br24/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121642Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballPortugueseTokenizer&lt;br24/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballRomanianTokenizer&lt;br25/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121642Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballRomanianTokenizer&lt;br25/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballRussianTokenizer&lt;br26/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121643Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballRussianTokenizer&lt;br26/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballSpanishTokenizer&lt;br27/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121647Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballSpanishTokenizer&lt;br27/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballSwedishTokenizer&lt;br28/&gt;</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121648Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballSwedishTokenizer&lt;br28/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121711Z">
-        <seg>org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
       </tuv>
     </tu>
     <tu>
