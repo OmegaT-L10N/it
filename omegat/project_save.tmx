@@ -12621,8 +12621,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After preparing for installation (see above), install the tokenizer as follows:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170728Z">
-        <seg>Dopo la preparazione per l'installazione (vedi sopra), installare Tokenizer come segue:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194551Z">
+        <seg>Dopo la preparazione per l'installazione (vedere sopra), installare il tokenizer come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17879,8 +17879,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Copy the files that you have unzipped from the tokenizer package directly into this sub-folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063119Z">
-        <seg>Copiare i file del pacchetto tokenizer che avete scompattato, direttamente in questa sottocartella.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194724Z">
+        <seg>Copiare i file del pacchetto tokenizer decompresso direttamente in questa sottocartella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20416,6 +20416,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T215652Z">
         <seg>Collegamenti per lo scaricamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the &lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;?php echo $endlink ?&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194628Z">
+        <seg>Scaricare il &lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;pacchetto zip del tokenizer (per OmegaT versione 2.1.1 e successive)&lt;?php echo $endlink ?&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30981,8 +30989,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T171216Z">
-        <seg>Avviare invece un editor di testo (p.e. Notepad o Wordpad), quindi, con File &gt; Apri, aprire il file di script di lancio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194813Z">
+        <seg>Avviare invece un editor di testo (tipo Notepad o Wordpad), quindi, con File &gt; Apri, aprire il file di script di avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39628,8 +39636,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open your launch script file in a text editor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T171040Z">
-        <seg>Aprire il file di script di lancio (per esempio OmegaT_without_JRE.bat) in un editor di testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194737Z">
+        <seg>Aprire il file script di avvio (per esempio OmegaT_without_JRE.bat) in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59878,8 +59886,8 @@ alla riga {1}, colonna {2}.</seg>
       <tuv lang="EN">
         <seg>Unzip the files from the tokenizer zip package.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134603Z">
-        <seg>Decomprimere i file dal pacchetto zip tokenizer.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194640Z">
+        <seg>Decomprimere i file dal pacchetto zip del tokenizer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62477,8 +62485,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Windows users (in particular): do &lt;s0&gt;not&lt;/s0&gt; simply click on this file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T063225Z">
-        <seg>Per gli utenti di Windows (in particolare):  &lt;s0&gt;non&lt;/s0&gt; basta cliccare su tale file.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194753Z">
+        <seg>Per gli utenti di Windows (in particolare):  &lt;s0&gt;non&lt;/s0&gt; basta fare clic su questo file.</seg>
       </tuv>
     </tu>
     <tu>
