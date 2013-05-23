@@ -1562,8 +1562,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131426Z">
-        <seg>(Se avete tradotto in una lingua che non è la lingua del sistema operativo, vedere sotto, "Come OmegaT gestisce le versioni localizzate".)&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183201Z">
+        <seg>(Se si è tradotto in una lingua che non è quella del sistema operativo, vedere sotto, "Come OmegaT gestisce le versioni localizzate".)&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29896,8 +29896,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131348Z">
-        <seg>Nella cartella /docs/ del programma OmegaT, creare una sottocartella con il codice ISO della vostra lingua del sistema operativo (Rinominare la cartella esistente temporaneamente se già esiste) e copiare il manuale in questa cartella.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183119Z">
+        <seg>Nella cartella /docs/ del programma OmegaT, creare una sottocartella con il codice ISO della lingua del proprio sistema operativo (rinominare la cartella esistente temporanea, se già esiste) e copiare il manuale in questa cartella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54224,8 +54224,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then launch OmegaT normally.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092141Z">
-        <seg>Poi lanciare OmegaT normalmente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183144Z">
+        <seg>Avviare poi normalmente OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58236,8 +58236,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To test display of the Instant Start Guide at launch:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131314Z">
-        <seg>Per collaudare l'aspetto della Guida di avvio rapido al lancio:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183004Z">
+        <seg>Per collaudare l'aspetto della Guida di avvio rapido all'avvio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70831,8 +70831,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131050Z">
-        <seg>dove [percorso completo di OmegaT] è il percorso completo della cartella contenente il programma di OmegaT e [nome del corredo con il percorso completo] è il nome della vostra traduzione del corredo delle risorse (bundle_en.properties, a meno che non abbiano cambiato il nome) incluso il percorso completo per la sua posizione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182955Z">
+        <seg>dove [percorso completo di OmegaT] è il percorso completo della cartella contenente il programma di OmegaT e [nome del gruppo con il percorso completo] è il nome della traduzione del gruppo delle risorse (bundle_en.properties, a meno che si abbia cambiato il nome), incluso il percorso completo alla sua posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71031,8 +71031,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131129Z">
-        <seg>     java -jar OmegaT.jar resource-bundle=[nome del corredo con il percorso completo]</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182906Z">
+        <seg>     java -jar OmegaT.jar resource-bundle=[nome del gruppo con il percorso completo]</seg>
       </tuv>
     </tu>
     <tu>
