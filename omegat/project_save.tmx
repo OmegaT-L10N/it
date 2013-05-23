@@ -3593,14 +3593,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>9.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155236Z">
-        <seg>9.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>9319/16338</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220225Z">
@@ -16658,8 +16650,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Choose the .png file type</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131833Z">
-        <seg>Scegliere il tipo di file .png</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183916Z">
+        <seg>Scegliere il file di tipo .png</seg>
       </tuv>
     </tu>
     <tu>
@@ -19095,8 +19087,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132019Z">
-        <seg>Consegnare il tuo file al coordinatore di localizzazione, che lo passerà al team di sviluppo per l'inclusione nella prossima release di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T184013Z">
+        <seg>Consegnare il file al coordinatore di localizzazione, che lo passerà al team di sviluppo per l'inclusione nel prossimo rilascio di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35368,8 +35360,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Name the image NewImage.png</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131912Z">
-        <seg>Chiamare l'immagine NewImage.png</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183949Z">
+        <seg>Dare un nome all'immagine Nuova_immagine.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -58012,8 +58004,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131754Z">
-        <seg>Per produrre una schermata, lanciare OmegaT e creare uno schermata adatta per la cattura, visualizzando percorsi tipici come la finestra di dialogo il "Crea nuovo progetto".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183852Z">
+        <seg>Per catturare una schermata, avviare OmegaT e crearne una adatta per la cattura, come la finestra di dialogo "Crea nuovo progetto" che mostra i percorsi tipici.</seg>
       </tuv>
     </tu>
     <tu>
