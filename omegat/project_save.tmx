@@ -20548,6 +20548,14 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the files for translation, either the &lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;"Full" package&lt;?php echo $endlink ?&gt; or the &lt;?php $link='&lt;a1&gt;'; $endlink='&lt;/a1&gt;';?&gt; &lt;?php echo $link ?&gt;"Minimal" package&lt;?php echo $endlink ?&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181448Z">
+        <seg>Scaricare i file per la traduzione, o il &lt;?php $link='&lt;a0&gt;'; $endlink='&lt;/a0&gt;';?&gt; &lt;?php echo $link ?&gt;pacchetto "Full" (completo)&lt;?php echo $endlink ?&gt; o quello &lt;?php $link='&lt;a1&gt;'; $endlink='&lt;/a1&gt;';?&gt; &lt;?php echo $link ?&gt;"Minimal" (minimo)&lt;?php echo $endlink ?&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the files for translation, either the &lt;cp0/&gt; &lt;cp1/&gt;"Full" package&lt;cp2/&gt; or the &lt;cp3/&gt; &lt;cp4/&gt;"Minimal" package&lt;cp5/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124955Z">
@@ -28813,8 +28821,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you wish to translate the OmegaT web pages, download the &lt;a0&gt;website localization package&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104257Z">
-        <seg>Se volete tradurre le pagine web di OmegaT, scaricare il &lt;a0&gt;pacchetto di localizzazione del sito Web&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181604Z">
+        <seg>Se si vogliono tradurre le pagine web di OmegaT, scaricare il &lt;a0&gt;pacchetto di localizzazione del sito Web&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51394,8 +51402,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The full package contains the user manual, the instant start manual, the user interface resource bundle and the readme file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103429Z">
-        <seg>Il pacchetto completo contiene il manuale utente, il manuale di avvio rapido, il corredo di risorse di interfaccia utente e il file Leggimi.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181519Z">
+        <seg>Il pacchetto completo contiene il manuale utente, il manuale di avvio rapido, il corredo di risorse dell'interfaccia utente e il file readme (leggimi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64258,8 +64266,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125220Z">
-        <seg>Non devi tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (bundle), o soltanto la Guida di avvio rapido.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181550Z">
+        <seg>Non è necessario tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (bundle), o soltanto la guida di avvio rapido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67835,14 +67843,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.omegat.org/resources/omt_website.zip</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155227Z">
-        <seg>http://www.omegat.org/resources/omt_website.zip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215853Z">
@@ -68447,14 +68447,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215720Z">
         <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>mailto:mailto:lin4trans@users.sourceforge.net</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155229Z">
-        <seg>mailto:mailto:lin4trans@users.sourceforge.net</seg>
       </tuv>
     </tu>
     <tu>
