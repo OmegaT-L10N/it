@@ -3331,14 +3331,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>11.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155237Z">
-        <seg>11.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer 12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215708Z">
@@ -21530,8 +21522,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Equally, if you abandon the translation work for any reason, please update your entry in the plan to show this.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132312Z">
-        <seg>Allo stesso modo, se si abbandona il lavoro di traduzione per qualsiasi motivo, si prega di aggiornare la vostra voce nel piano per mostrare questo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185714Z">
+        <seg>Allo stesso modo, se si abbandona il lavoro di traduzione per qualsiasi motivo, si prega di aggiornare la propria voce nel piano, in modo che rifletta la nuova situazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27984,8 +27976,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you discontinue before completing the transaltion, please do create the tmx files for what you have done and send them along to the localization coordinator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132650Z">
-        <seg>Se si interrompe prima di completare la traduzione, si prega di creare i file .tmx per quello che avete fatto e di inviarli al coordinatore della localizzazione.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185925Z">
+        <seg>Se ci si ferma prima di completare la traduzione, raccomandiamo di creare i file .tmx per il lavoro già fatto e di inviarli al coordinatore della localizzazione.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55612,8 +55604,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This enables the document concerned to be released for translation by another translator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132536Z">
-        <seg>In questo consente di rilasciare il documento in questione per la traduzione a cura di un altro traduttore.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185839Z">
+        <seg>Ciò consente a un altro traduttore di rilasciare il documento in questione ai fini della traduzione.</seg>
       </tuv>
     </tu>
     <tu>
