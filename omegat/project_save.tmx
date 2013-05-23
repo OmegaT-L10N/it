@@ -10784,8 +10784,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124809Z">
-        <seg>&lt;s1&gt;Al fine di evitare che due o più traduttori lavorino allo stesso tempo sulla stessa lingua, è quindi molto importante segnarsi nel piano di localizzazione quando si inizia a lavorare su una traduzione.&lt;/s1&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181239Z">
+        <seg>&lt;s1&gt;Per evitare che due o più traduttori lavorino allo stesso tempo sulla stessa lingua, è quindi molto importante segnarsi nel piano di localizzazione quando si inizia a lavorare su una traduzione.&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13390,8 +13390,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124844Z">
-        <seg>Anche se non essenziale, è consigliabile anche inscriversi alla &lt;a0&gt;Mailing list dei localizzatori di OmegaT&lt;/a0&gt; (conosciuta pure come "OmT-l10n").</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181318Z">
+        <seg>Anche se non essenziale, è consigliabile anche iscriversi alla &lt;a0&gt;mailing list dei localizzatori di OmegaT&lt;/a0&gt; (conosciuta pure come "OmT-l10n").</seg>
       </tuv>
     </tu>
     <tu>
@@ -26440,8 +26440,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124718Z">
-        <seg>Se un pezzo adatto del lavoro per la tua lingua non è ancora stato ancora avviato, è possibile segnarlo nel piano per indicare che si sono assunte la responsabilità per esso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181155Z">
+        <seg>Se una parte di lavoro che si ritiene affrontabile, per la lingua scelta, non è ancora stata iniziata, è possibile segnarla nel piano per indicare che ci si è fatto carico della responsabilità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52695,8 +52695,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T090127Z">
-        <seg>Lo scopo del piano è quello di prevenire che due o più traduttori lavorino sulla stessa traduzione senza esserne consapevoli (doppioni dei lavori).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181221Z">
+        <seg>Lo scopo del piano è quello di prevenire che due o più traduttori lavorino sulla stessa traduzione senza saperlo (doppio lavoro).</seg>
       </tuv>
     </tu>
     <tu>
