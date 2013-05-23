@@ -23539,8 +23539,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T165830Z">
-        <seg>Ad esempio, riconoscerà parole flesse in testi di partenza e visualizzerà la corrispondente voce di glossario, anche se la voce di glossario contiene solo la forma non flessa di una parola.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191239Z">
+        <seg>Ad esempio, riconoscerà parole flesse nei testi e visualizzerà la corrispondente voce di glossario, anche se la voce di glossario contiene solo la forma non flessa di una parola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24911,8 +24911,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Go to the &lt;a0&gt;new Tokenizers HowTo&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T060205Z">
-        <seg>Vai alla &lt;a0&gt;Nuova Guida di Tokenizer&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191117Z">
+        <seg>Vai alla &lt;a0&gt;Nuova guida dei tokenizer&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37064,8 +37064,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT HowTo: Using the OmegaT tokenizer</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T060240Z">
-        <seg>Guida OmegaT: usare tokenizer per OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191133Z">
+        <seg>Guida OmegaT: usare il tokenizer per OmegaT</seg>
       </tuv>
     </tu>
     <tu>
