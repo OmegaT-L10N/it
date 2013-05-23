@@ -3545,14 +3545,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>7.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155234Z">
-        <seg>7.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>7.A.2.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130302T184602Z">
@@ -32981,8 +32973,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launch OmegaT from the command line (MS-DOS window) with the following commands (if you are unsure how to do this, refer to the OmegaT user manual)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130740Z">
-        <seg>Lanciare OmegaT dalla riga di comando (finestra MS-DOS) con i seguenti comandi (se non siete sicuri come eseguire questa operazione, consultare il manuale utente di OmegaT)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182742Z">
+        <seg>Avviare OmegaT da riga di comando (finestra MS-DOS) con i comandi seguenti (se non è sicuri come eseguire l'operazione, consultare il manuale utente di OmegaT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40893,8 +40885,8 @@ per determinare l'origine dell'errore e riprovare.</seg>
       <tuv lang="EN">
         <seg>Please keep translations of files in their original format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130251Z">
-        <seg>Si prega di mantenere la traduzione dei file nel loro formato originale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182554Z">
+        <seg>È importante mantenere la traduzione dei file nel loro formato originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48411,8 +48403,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Test your translation (optional).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130612Z">
-        <seg>Collauda la tua traduzione (opzionale).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182653Z">
+        <seg>Collaudare la propria traduzione (facoltativo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51354,8 +51346,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The formatting is retained automatically if you use OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130301Z">
-        <seg>La formattazione viene mantenuta automaticamente se è utilizzate OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182620Z">
+        <seg>Se si utilizza OmegaT, la formattazione viene mantenuta automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66061,8 +66053,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>cd [full path to OmegaT]&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T130818Z">
-        <seg>cd [percorso completo di OmegaT]&lt;br0/&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182750Z">
+        <seg>cd [percorso completo a OmegaT]&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
