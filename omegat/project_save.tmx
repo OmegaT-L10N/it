@@ -1807,8 +1807,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170242Z">
-        <seg>(Il tokenizer può essere utilizzato con le versioni 2.0. x e 2.1.0, ma con una diversa versione del tokenizer e una procedura di installazione diversa.) Agli utenti si consiglia di aggiornarsi all'ultima versione beta di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191512Z">
+        <seg>(Il tokenizer può essere utilizzato con le versioni 2.0. x e 2.1.0, ma ma richiede una versione diversa del tokenizer, così come una procedura di installazione diversa) Consigliamo agli utenti di aggiornare all'ultima versione beta di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3223,22 +3223,6 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120603T204620Z">
         <seg>...il sistema lo mostrerà come questo, per esempio:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../../resources/OmegaT_with_JRE.bat</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155304Z">
-        <seg>../../resources/OmegaT_with_JRE.bat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>../../resources/OmegaT_without_JRE.bat</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121909Z">
-        <seg>../../resources/OmegaT_without_JRE.bat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10560,8 +10544,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T053922Z">
-        <seg>&lt;s0&gt;OmegaT versione 2.1.0 e più vecchie&lt;/s0&gt;: il tokenizer attuale non è più compatibile con queste versioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191352Z">
+        <seg>&lt;s0&gt;OmegaT versione 2.1.0 e precedenti&lt;/s0&gt;: l'attuale tokenizer non è più compatibile con queste versioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10664,8 +10648,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Windows versions of OmegaT&lt;/s0&gt;: in order for OmegaT (any version) to be used with the tokenizer, it must be launched from a launch script file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170329Z">
-        <seg>&lt;s0&gt;Versioni per Windows di OmegaT&lt;/s0&gt;: per usare Tokenizer con OmegaT (qualsiasi versione), occorre un apposito file script di lancio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191549Z">
+        <seg>&lt;s0&gt;Versioni per Windows di OmegaT&lt;/s0&gt;: per usare il tokenizer con OmegaT (qualsiasi versione) occorre un apposito file script di avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28797,8 +28781,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you wish to use the tokenizer, install the standard version of OmegaT (latest beta version) for your system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T134109Z">
-        <seg>Se si desidera utilizzare il tokenizer, installare la versione standard di OmegaT (ultima versione beta) per il vostro sistema.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191321Z">
+        <seg>Se si desidera utilizzare il tokenizer, installare la versione standard di OmegaT (ultima versione beta) per il proprio sistema.</seg>
       </tuv>
     </tu>
     <tu>
