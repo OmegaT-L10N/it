@@ -26424,8 +26424,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a user interface or user manual are not available in the language of your operating system, OmegaT defaults to displaying the English versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133040Z">
-        <seg>Se un'interfaccia utente o manuale dell'utente non sono disponibili nella lingua del sistema operativo, le impostazioni predefinite di OmegaT sono per visualizzare le versioni in inglese.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T190324Z">
+        <seg>Se l'interfaccia utente, o il manuale, non è disponibile nella lingua del proprio sistema operativo, le impostazioni predefinite di OmegaT sono quelle di visualizzare la versione in inglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31946,8 +31946,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It then loads the user interface and/or user manual in that language, if available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092340Z">
-        <seg>Quindi, carica l'interfaccia utente e/o manuale dell'utente in quella lingua, se disponibile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T190234Z">
+        <seg>Quindi carica l'interfaccia utente e, oppure, il manuale dell'utente in quella lingua, se disponibile.</seg>
       </tuv>
     </tu>
     <tu>
