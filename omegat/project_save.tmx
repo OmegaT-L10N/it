@@ -12525,8 +12525,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After creating a launch script as described above, you can configure your system so that OmegaT is launched more conveniently, for example by creating a shortcut.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135359Z">
-        <seg>Dopo la creazione di uno script di avvio come descritto sopra, è possibile configurare il sistema affinché OmegaT sia lanciato più convenientemente, per esempio mediante la creazione di un collegamento.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195742Z">
+        <seg>Dopo aver creato uno script di avvio come descritto sopra, è possibile configurare il sistema affinché OmegaT sia lanciato in modo più vantaggioso, per esempio mediante la creazione di un collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23739,8 +23739,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173308Z">
-        <seg>Ad esempio, se si sta traducendo dal cinese in olandese, provare:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195651Z">
+        <seg>Ad esempio, se si sta traducendo dal cinese all'olandese, provare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29759,8 +29759,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T173139Z">
-        <seg>In alcuni casi, può succedere che il tokenizer in lingua sorgente interferisca con il correttore ortografico della lingua di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195545Z">
+        <seg>In alcuni casi, può succedere che il tokenizer per la lingua di origine interferisca con il correttore ortografico della lingua di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63634,8 +63634,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can eliminate this problem by specifying a tokenizer for the target language as well (where available), with the argument --ITokenizerTarget=.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135333Z">
-        <seg>È possibile eliminare questo problema specificando un tokenizer per lingua di destinazione (dove disponibile), con l'argomento - ITokenizerTarget =.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195634Z">
+        <seg>È possibile eliminare questo problema specificando un tokenizer anche per la lingua di destinazione (dove disponibile), con l'argomento --ITokenizerTarget=.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68143,14 +68143,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215821Z">
         <seg>java -jar OmegaT.jar %*</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T121856Z">
-        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</seg>
       </tuv>
     </tu>
     <tu>
