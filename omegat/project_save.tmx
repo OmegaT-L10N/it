@@ -14463,8 +14463,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>As the program is intended for translators throughout the world and not just in English-speaking countries, it is appropriate that the documentation (and, if possible, the program itself) be available in other languages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102622Z">
-        <seg>Siccome il programma è destinato per i traduttori in tutto il mondo e non solo nei paesi di lingua inglese, è opportuno che la documentazione e, se possibile, il programma stesso, siano disponibili in altre lingue.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180247Z">
+        <seg>Dato che il programma è concepito per i traduttori di tutto il mondo, e non solo nei paesi di lingua inglese, è opportuno che la documentazione e, se possibile, lo stesso programma, siano disponibili in altre lingue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25847,8 +25847,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, as the program is being given away and not sold commercially, there are no resources available to pay for translations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T084756Z">
-        <seg>Tuttavia, siccome il programma viene offerto e non venduto commercialmente, non sono presenti risorse disponibili a pagare per le traduzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180319Z">
+        <seg>Tuttavia, siccome il programma viene offerto e non venduto commercialmente, non ci sono risorse per pagare le traduzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37096,8 +37096,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT HowTo: Translating OmegaT into your language</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T094327Z">
-        <seg>Guida OmegaT: tradurre OmegaT nella vostra lingua</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180057Z">
+        <seg>Guida OmegaT: tradurre OmegaT nella propria lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -37784,8 +37784,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T124652Z">
-        <seg>OmegaT è un programma per memoria di traduzione gratuito, open source.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180120Z">
+        <seg>OmegaT è un programma per memoria di traduzione gratuito e open source.</seg>
       </tuv>
     </tu>
     <tu>
