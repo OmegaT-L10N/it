@@ -16194,8 +16194,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Change this by adding the user language option and the corresponding language code, e.g. in the following case for French:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133129Z">
-        <seg>Cambiarlo aggiungendo l'opzione lingua utente e il codice della lingua corrispondente, ad esempio nel caso seguente per il francese:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T190528Z">
+        <seg>Cambiarlo aggiungendo l'opzione di lingua utente e il codice della lingua corrispondente, ad esempio nel caso seguente per l'italiano:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26288,8 +26288,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If OmegaT contains a language version which you would like to use but is not the language of your operating system, you can force OmegaT to use the desired version by changing the launch command.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132927Z">
-        <seg>Se OmegaT contiene una versione di lingua che piacerebbe utilizzare ma non è la lingua del sistema operativo, è possibile forzare OmegaT a utilizzare la versione desiderata modificando il comando di lancio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T190405Z">
+        <seg>Se OmegaT contiene una versione di lingua che si preferirebbe utilizzare ma non è la lingua del proprio sistema operativo, è possibile forzare OmegaT a utilizzare tale versione, modificando il comando di avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35776,8 +35776,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>None of this need concern you unless you are particularly interested in copyright issues.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133315Z">
-        <seg>Niente di tutto questo hai bisogno di riguardare a meno che non sei particolarmente interessato a problemi di copyright.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T190644Z">
+        <seg>Niente di tutto questo ha importanza, a meno che non si è particolarmente interessati a problemi di copyright.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51595,8 +51595,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The launch command can be found in the file "omegat" and/or "omegat.bat" in the folder containing the program.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092350Z">
-        <seg>Il comando di lancio può essere trovato il file "omegat" o "omegat.bat" nella cartella contenente il programma.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T190450Z">
+        <seg>Il comando di avvio si trova nel file "omegat" e, o in alternativa, "omegat.bat", all'interno della cartella che contiene il programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54040,8 +54040,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>The web pages are not licensed for re-use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T133256Z">
-        <seg>Le pagine web non vengono concesse in licenza per il riutilizzo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T190557Z">
+        <seg>Le pagine web non sono concesse in licenza per il riutilizzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68101,8 +68101,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20101212T181610Z">
-        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T190534Z">
+        <seg>java -Duser.language=it -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
