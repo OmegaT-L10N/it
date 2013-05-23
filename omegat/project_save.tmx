@@ -3323,14 +3323,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>10.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155236Z">
-        <seg>10.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220226Z">
@@ -20199,8 +20191,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Don't forget to update the OmegaT Localization Plan (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132233Z">
-        <seg>Non dimenticare di aggiornare il piano di localizzazione di OmegaT (vedere il passaggio 2 della procedura) per mostrare che è stata completata la traduzione di una particolare versione di documento.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185548Z">
+        <seg>Non dimenticare di aggiornare il piano di localizzazione di OmegaT (vedere il passaggio due della procedura) per mostrare che è stata completata la traduzione di una particolare versione di documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28628,8 +28620,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you used OmegaT or another CAT tool for the work, please also send your translation memory (TMX file) together with the translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132033Z">
-        <seg>Se si è utilizzato OmegaT o un altro strumento CAT per il lavoro, inviare anche la memoria di traduzione (file TMX) insieme con la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185406Z">
+        <seg>Se si è utilizzato OmegaT o un altro strumento CAT per il lavoro, inviare anche la memoria di traduzione (file TMX) con la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40837,8 +40829,8 @@ per determinare l'origine dell'errore e riprovare.</seg>
       <tuv lang="EN">
         <seg>Please do NOT deliver your entire OmegaT project file to the localization coordinator (he does not need to receive multiple copies of the entire project).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092241Z">
-        <seg>NON consegnare il vostro intero file di progetto OmegaT al coordinatore della localizzazione (egli non ha bisogno di ricevere più copie dell'intero progetto).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185448Z">
+        <seg>NON consegnare l'intero file di progetto OmegaT al coordinatore della localizzazione (non ha bisogno di ricevere più copie dell'intero progetto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42248,8 +42240,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Rather, create two separate .zip or tar.gz files, one containing the target documents only, and the other containing the tmx files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T132156Z">
-        <seg>Piuttosto, crea due file. zip o tar. gz, uno contenente solo i documenti di destinazione e l'altro contenente i file tmx.&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185529Z">
+        <seg>Creare piuttosto due file. zip o tar.gz, uno contenente solo i documenti di destinazione e l'altro contenente i file tmx.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56896,8 +56888,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will greatly simplify updating of your translation in the future.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092230Z">
-        <seg>Questo semplificherà notevolmente l'aggiornamento della vostra traduzione in futuro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185415Z">
+        <seg>Questo semplificherà notevolmente l'aggiornamento della propria traduzione in futuro.</seg>
       </tuv>
     </tu>
     <tu>
