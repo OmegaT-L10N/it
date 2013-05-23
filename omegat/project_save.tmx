@@ -3577,14 +3577,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>8.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155235Z">
-        <seg>8.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer 84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215707Z">
@@ -41576,8 +41568,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Produce a screenshot of OmegaT in your language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T131519Z">
-        <seg>Produrre una schermata di OmegaT nella tua lingua.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183635Z">
+        <seg>Produrre una schermata di OmegaT nella propria lingua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55908,8 +55900,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is also optional, but if you have been able to launch OmegaT with your localized bundle (see above), it will enhance the quality of your translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T092157Z">
-        <seg>Anche questo è facoltativo, ma se siete stati in grado di lanciare OmegaT con il vostro pacchetto localizzato (vedi sopra), esso migliorerà la qualità della vostra traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183722Z">
+        <seg>Anche questo è facoltativo, ma se si è stati in grado di avviare OmegaT con il proprio pacchetto localizzato (vedere sopra), esso migliorerà la qualità della traduzione.</seg>
       </tuv>
     </tu>
     <tu>
