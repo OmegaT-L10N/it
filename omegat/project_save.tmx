@@ -17644,8 +17644,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       <tuv lang="EN">
         <seg>Contact the &lt;a0&gt;localization co-ordinator&lt;/a0&gt;, who will be able to tell you of any specific issues regarding your language.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104207Z">
-        <seg>Contattare il &lt;a0&gt;Coordinatore di localizzazione&lt;/a0&gt;, che sarà in grado di dirvi di eventuali problemi specifici per quanto riguarda il tuo linguaggio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180758Z">
+        <seg>Contattare il &lt;a0&gt;coordinatore della localizzazione&lt;/a0&gt;, che sarà in grado di segnalarvi eventuali problemi specifici della lingua scelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20695,8 +20695,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>During the subscription process, you will have to send a short message to the group moderators: this is to enable them to distinguish genuine users from spammers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T103910Z">
-        <seg>Durante il processo di sottoscrizione, si dovrà inviare un breve messaggio per i moderatori del gruppo: questo è per consentire loro di distinguere gli utenti genuini da spammers.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180908Z">
+        <seg>Durante il processo di iscrizione, si dovrà inviare un breve messaggio ai moderatori del gruppo: questo consente loro di distinguere gli utenti genuini da cosiddetti spammer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32357,8 +32357,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Join the &lt;a0&gt;OmegaT user group&lt;/a0&gt; (also known as "OmT").</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T102946Z">
-        <seg>Partecipa al &lt;a0&gt;Gruppo di utenti di OmegaT&lt;/a0&gt; (conosciuto anche come "OmT").</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180809Z">
+        <seg>Partecipare al &lt;a0&gt;Gruppo di utenti di OmegaT&lt;/a0&gt; (conosciuto anche come "OmT").</seg>
       </tuv>
     </tu>
     <tu>
@@ -67687,22 +67687,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220130Z">
         <seg>http://tech.groups.yahoo.com/group/Omegat/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130301T095413Z">
-        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://tech.groups.yahoo.com/group/omegat/database</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155226Z">
-        <seg>http://tech.groups.yahoo.com/group/omegat/database</seg>
       </tuv>
     </tu>
     <tu>
