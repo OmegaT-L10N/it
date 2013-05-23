@@ -3545,14 +3545,6 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>6.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130506T160030Z">
-        <seg>6.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>7.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130507T155234Z">
@@ -31543,8 +31535,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125605Z">
-        <seg>Vale anche la pena di chiedere sull'&lt;a1&gt;elenco dei localizzatori&lt;/a1&gt; (OmT-l10n) se qualcuno ha qualsiasi materiale di riferimento che potrebbe facilitare la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182056Z">
+        <seg>Vale anche la pena chiedere nella &lt;a1&gt;lista dei localizzatori&lt;/a1&gt; (OmT-l10n) se qualcuno ha del materiale di riferimento che potrebbe facilitare la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35464,8 +35456,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Needless to say, we would prefer you to use OmegaT for the OmegaT localization work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091743Z">
-        <seg>Inutile dire che preferiremmo usare OmegaT per il lavoro di localizzazione di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182131Z">
+        <seg>Inutile dire che preferiremmo che si usasse OmegaT per la sua localizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54601,8 +54593,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There may be older versions of the documentation and/or translation memories (TMX files) available for your language which are useful to your translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125450Z">
-        <seg>Ci possono essere vecchie versioni delle memorie di traduzione (file TMX) e/o documentazione disponibili per la lingua in cui sono utili per la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181943Z">
+        <seg>Potrebbero essere presenti vecchie versioni delle memorie di traduzione (file TMX) e, o in alternativa, della documentazione disponibili per la lingua scelta, utili per la traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58786,8 +58778,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translate the files you have chosen.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T091739Z">
-        <seg>Tradurre i file che hai selezionato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182103Z">
+        <seg>Tradurre i file che scelti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59122,8 +59114,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translation memory (TMX) files of older localizations of OmegaT, the documentation and the website can be found in the &lt;a0&gt;"Files" section of the online user group&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T125544Z">
-        <seg>I file di memoria di traduzione (TMX) delle precedenti localizzazioni di OmegaT, la documentazione e il sito sono reperibili nella &lt;a0&gt;sezione "File" del gruppo di utenti online&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182004Z">
+        <seg>I file di memoria di traduzione (TMX) delle precedenti localizzazioni di OmegaT, la documentazione e il sito sono reperibili nella &lt;a0&gt;sezione "File" del gruppo di utenti in linea&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59826,8 +59818,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unpack the zip archives of the full or minimal package you have downloaded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104527Z">
-        <seg>Scompattare l'archivio zip del pacchetto completo o minimo che hai scaricato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182222Z">
+        <seg>Decomprimere l'archivio zip del pacchetto completo o minimo scaricato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63805,8 +63797,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can however use other software if you wish.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T104500Z">
-        <seg>Tuttavia è possibile utilizzare altri software, se lo si desidera.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T182209Z">
+        <seg>È possibile, tuttavia, utilizzare altri software, se si preferisce.</seg>
       </tuv>
     </tu>
     <tu>
