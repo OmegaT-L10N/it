@@ -3283,22 +3283,6 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>./win_jre.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183241Z">
-        <seg>./win_jre.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>./win_nojre.php</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183243Z">
-        <seg>./win_nojre.php</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215808Z">
@@ -26916,8 +26900,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183241Z">
-        <seg>Se non, o se non siete sicuri, selezionare "con JRE".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T175830Z">
+        <seg>Se così non è, o se non si è sicuri, selezionare "con JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -46991,14 +46975,6 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Standard</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183538Z">
-        <seg>Standard</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Standard version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130511T123708Z">
@@ -56816,8 +56792,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221807Z">
-        <seg>Sarà più lungo scaricare questa versione e ci vorrà più spazio sul disco rigido, ma si potrà essere certi che essa funzionerà.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T175924Z">
+        <seg>Sarà più lungo scaricare questa versione e ci vorrà più spazio sul disco rigido, ma è sicuro che essa funzionerà.</seg>
       </tuv>
     </tu>
     <tu>
