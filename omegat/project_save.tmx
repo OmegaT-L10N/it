@@ -21920,14 +21920,6 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Excel</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215226Z">
-        <seg>Excel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T102417Z">
@@ -41105,14 +41097,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T100244Z">
         <seg>Valori possibili per "XX" sono "false", "on", "gasp" e "lcd".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Power Point</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215227Z">
-        <seg>Power Point</seg>
       </tuv>
     </tu>
     <tu>
@@ -62763,14 +62747,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Word</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215225Z">
-        <seg>Word</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132311Z">
@@ -62783,14 +62759,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130423T142509Z">
         <seg>Word 2007 segna tutte le parole non presenti nel suo dizionario ortografico con tag, quindi anche un paio di parole che ritiene essere errori ortografici si tradurranno in una pletora di tag.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>WordAr&amp;t</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215230Z">
-        <seg>WordAr&amp;t</seg>
       </tuv>
     </tu>
     <tu>
