@@ -1815,8 +1815,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122304Z">
-        <seg>(Per inciso, questa è una limitazione di Java, non di OmegaT.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T181446Z">
+        <seg>(per inciso, questa è una limitazione di Java, non di OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13802,8 +13802,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Another possible source of incompatibility are three-digit language codes, which are not supported by OmegaT at all.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T122240Z">
-        <seg>Un'altra possibile fonte d'incompatibilità sono codici di lingua a tre cifre, che non sono per niente supportati da OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T181430Z">
+        <seg>Un'altra possibile fonte d'incompatibilità sono codici di lingua a tre cifre, che non sono per niente supportati da OmegaT</seg>
       </tuv>
     </tu>
     <tu>
