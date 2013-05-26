@@ -14559,8 +14559,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111157Z">
-        <seg>Attualmente, ciò include tutte le versioni di Microsoft Windows, da Windows 98 in poi, la maggior parte delle distribuzioni Linux e Mac OS X.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T175308Z">
+        <seg>Attualmente, questo include tutte le versioni di Microsoft Windows, da Windows 98 in poi, la maggior parte delle distribuzioni Linux e Mac OS X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38248,8 +38248,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT runs on any operating system on which a suitable version of the Java Runtime Environment (JRE) can be run.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183201Z">
-        <seg>OmegaT gira su qualsiasi sistema operativo su cui è possibile eseguire una versione adatta di Java Runtime Environment (JRE).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T175237Z">
+        <seg>OmegaT funziona su qualsiasi sistema operativo in cui è possibile eseguire una versione adatta di Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42344,8 +42344,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Refer to the OmegaT user manual for an up-to-date list of all supported file formats.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183210Z">
-        <seg>Consultare il manuale utente di OmegaT per un elenco aggiornato di tutti i formati di file supportati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T175355Z">
+        <seg>Per un elenco aggiornato di tutti i formati di file supportati, consultare il manuale utente di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46633,8 +46633,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Source texts (files for translation)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183207Z">
-        <seg>Testi di origine (file per la traduzione)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T175323Z">
+        <seg>Testi di origine (file da tradurre)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51675,8 +51675,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T111229Z">
-        <seg>L'elenco riportato sotto &lt;s0&gt;non&lt;/s0&gt; è un elenco esaustivo di tutti i formati di file supportati da OmegaT, ma è limitato a quelli di particolare interesse per gli utenti tipici.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T175415Z">
+        <seg>L'elenco riportato sotto &lt;s0&gt;non&lt;/s0&gt; è un elenco esaustivo di tutti i formati di file supportati da OmegaT, ma si limita a quelli di particolare interesse per gli utenti tipici.</seg>
       </tuv>
     </tu>
     <tu>
