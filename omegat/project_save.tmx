@@ -29599,8 +29599,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121102Z">
-        <seg>In altre parole, se un utente di OmegaT rileva una corrispondenza del 100% in un file TMX di livello 2 di OmegaT, essa può essere accettata senza la necessità di adattamento, ma lo stesso non sarebbe vero per un file TMX livello 2 prodotto da uno strumento CAT diverso (o viceversa).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T180736Z">
+        <seg>In altre parole, se un utente di OmegaT rileva una corrispondenza del 100% in un file TMX livello 2 di OmegaT, essa può essere accettata senza dover essere adattata, ma lo stesso non sarebbe vero per un file TMX livello 2 prodotto da uno strumento CAT diverso (o viceversa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47459,8 +47459,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Support for Level 3 in CAT tools is rare.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212313Z">
-        <seg>Il supporto del livello 3 nei strumenti CAT è raro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T180801Z">
+        <seg>Il supporto del livello 3 negli strumenti CAT è raro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55764,8 +55764,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212208Z">
-        <seg>Ciò ha ripercussioni per i flussi di lavoro in cui gli utenti di strumento CAT (tipicamente i clienti) si aspettano di ricevere file di memoria di traduzione e di avere le concordanze con il 100% inserite automaticamente.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T180706Z">
+        <seg>Ciò ha ripercussioni per i flussi di lavoro in cui gli utenti di strumenti CAT (tipicamente i clienti) si aspettano di ricevere file di memoria di traduzione e di avere le concordanze con il 100% inserite automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
