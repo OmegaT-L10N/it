@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214601Z">
-        <seg>I documenti "Guida" su questo sito, contengono informazioni per utenti esperti su determinate procedure e caratteristiche di OmegaT che non sono coperte dal manuale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T172708Z">
+        <seg>Le "Guide", in questo sito, contengono informazioni per utenti esperti su determinate procedure e caratteristiche di OmegaT che non sono coperte dal manuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25103,8 +25103,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>HOWTOs</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T065632Z">
-        <seg>GUIDE</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T172548Z">
+        <seg>Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -62573,8 +62573,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With links to more detailed HOWTOs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T214644Z">
-        <seg>Con collegamenti a GUIDE più dettagliate.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T172740Z">
+        <seg>Con collegamenti a guide più dettagliate.</seg>
       </tuv>
     </tu>
     <tu>
