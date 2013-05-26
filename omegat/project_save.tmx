@@ -1719,8 +1719,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112510Z">
-        <seg>(OmegaT è lungi dall'essere unico, in questo caso: molti altri strumenti CAT convertono i file di origine in un formato diverso, prima che siano tradotti, in alcuni casi in modo invisibile al traduttore.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T180105Z">
+        <seg>(OmegaT è lungi dall'essere unico, in questo caso: molti altri strumenti CAT convertono i file di origine in un formato diverso prima di essere tradotti, in alcuni casi in modo invisibile al traduttore).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30989,8 +30989,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112612Z">
-        <seg>Al contrario, essi devono prima essere convertiti manualmente in formato Office Open XML (MS Office 2007/2010) o OpenDocument (LibreOffice/OpenOffice.org), prima di poter essere gestiti in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T180112Z">
+        <seg>Al contrario, essi devono prima essere convertiti manualmente in formato Office Open XML (MS Office 2007/2010) o OpenDocument (LibreOffice/OpenOffice.org), prima di poter essere gestiti in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -42168,8 +42168,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>RTF is structurally quite different from the Microsoft Office 98-2003 file format, but with regard to OmegaT, the same applies: it is not supported directly and must first be converted to .docx (MS Office 2007/2010) or Open Document format (LibreOffice/OpenOffice.org).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112558Z">
-        <seg>RTF è strutturalmente molto diverso dal formato di file Microsoft Office 98-2003, ma per quanto riguarda OmegaT, si applica lo stesso principio: non è supportato direttamente ed è necessario prima convertirlo in formato .docx (MS Office 2007/2010) o OpenDocument (LibreOffice/OpenOffice.org).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T180145Z">
+        <seg>RTF è strutturalmente molto diverso dal formato di file Microsoft Office 98-2003 ma, per quanto riguarda OmegaT, si applica lo stesso principio: non è supportato direttamente ed è necessario prima convertirlo in formato .docx (MS Office 2007/2010) o OpenDocument (LibreOffice/OpenOffice.org).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54691,8 +54691,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T112111Z">
-        <seg>Questi formati di file sono proprietari, binari e fino a poco tempo fa non sono stati pubblicamente documentati: tutte caratteristiche che li rendono estremamente difficili da gestire in uno strumento CAT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T175853Z">
+        <seg>Questi formati di file sono proprietari, binari e fino a poco tempo fa non erano pubblicamente documentati: tutte caratteristiche che li rendono estremamente difficili da gestire in uno strumento CAT.</seg>
       </tuv>
     </tu>
     <tu>
