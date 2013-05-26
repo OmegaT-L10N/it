@@ -16058,8 +16058,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Certain other CAT tools (such as TRADOS) are able to export different TMX files in different versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T183552Z">
-        <seg>Alcuni altri strumenti CAT (come TRADOS) sono in grado di esportare file TMX diversi in diverse versioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T180831Z">
+        <seg>Certi altri strumenti CAT (come TRADOS) sono in grado di esportare file TMX diversi in diverse versioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37840,8 +37840,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T121809Z">
-        <seg>OmegaT è generalmente attento delle condizioni e tollerante delle inosservanze di altri strumenti; dovessero insorgere problemi qui, tuttavia, si può generalmente risolverli abbastanza facilmente da una ricerca e sostituzione, all'interno di un editor di testo, del carattere illegale contenuto nel file TMX.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T181055Z">
+        <seg>OmegaT è generalmente attento delle condizioni e tollerante delle inosservanze di altri strumenti; dovessero insorgere problemi qui, tuttavia, si può, di solito, risolverli abbastanza facilmente tramite una ricerca e sostituzione, all'interno di un editor di testo, del carattere illegale contenuto nel file TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38304,8 +38304,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT supports all current versions of TMX, but is likely to deliver better match results if the TMX file is version 1.4b.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T212434Z">
-        <seg>OmegaT supporta tutte le versioni correnti di TMX, ma è probabile che fornisca risultati di concordanza migliori se il file TMX è versione 1.4b.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T180847Z">
+        <seg>OmegaT supporta tutte le versioni correnti di TMX, ma è probabile che fornisca risultati di concordanza migliori se il file TMX è nella versione 1.4b.</seg>
       </tuv>
     </tu>
     <tu>
