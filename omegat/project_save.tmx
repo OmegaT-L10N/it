@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24380,8 +24380,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>Fuzzy matching</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T141713Z">
-        <seg>Concordanze parziale (fuzzy)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T080113Z">
+        <seg>Concordanze parziali (fuzzy)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38618,8 +38618,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162903Z">
-        <seg>OmegaT funzionerà su qualsiasi sistema su cui è stato, o può essere installato, JRE (Java Runtime Environment).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T080226Z">
+        <seg>OmegaT funzionerà su qualsiasi sistema su cui è stato, o può essere, installato il Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
