@@ -28260,8 +28260,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you install the OmegaT version even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213311Z">
-        <seg>Se si installa la versione di OmegaT, anche se JRE è già installato nel computer, il JRE di OmegaT verrà installato separatamente e non entrerà in conflitto con esso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T151225Z">
+        <seg>Se si installa la versione di OmegaT anche se JRE è già installato nel computer, il JRE di OmegaT verrà installato separatamente e non entrerà in conflitto con esso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50698,8 +50698,8 @@ space on your hard drive.</seg>
       <tuv lang="EN">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T213154Z">
-        <seg>Lo scaricamento sarà più veloce, e l'installazione richiederà meno spazio sul disco rigido.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130526T151124Z">
+        <seg>Lo scaricamento sarà più veloce e l'installazione richiederà meno spazio sul disco rigido.</seg>
       </tuv>
     </tu>
     <tu>
