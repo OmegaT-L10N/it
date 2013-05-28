@@ -15119,8 +15119,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Before installing the Web Start version, check that you have the required minimum Java Runtime Environment version or later.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183310Z">
-        <seg>Prima di installare la versione Web Start, controlla che hai la versione di Java Runtime Environment minima richiesta o la successiva.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T112459Z">
+        <seg>Prima di installare la versione Web Start, accertarsi di avere la versione di Java Runtime Environment minima richiesta o la successiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32122,8 +32122,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>JRE version &lt;?php echo $min_jre_version?&gt; or later is currently required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183534Z">
-        <seg>attualmente è necessaria la versione JRE &lt;?php echo $min_jre_version?&gt; o una successiva.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T112547Z">
+        <seg>Attualmente è necessaria almeno la versione JRE &lt;?php echo $min_jre_version?&gt;.</seg>
       </tuv>
     </tu>
     <tu>
