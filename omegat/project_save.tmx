@@ -14261,8 +14261,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T060811Z">
-        <seg>Come altrove nel progetto OmegaT, il lavoro di programmazione di OmegaT è fatto da volontari, e in sintonia con la filosofia del progetto, gli sviluppi e i miglioramenti che essi fanno in OmegaT sono in definitiva a loro discrezione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T110827Z">
+        <seg>Come altrove nel progetto OmegaT, il lavoro di programmazione di OmegaT è fatto da volontari e, in sintonia con la filosofia del progetto, gli sviluppi e i miglioramenti che essi apportano a OmegaT sono in definitiva a loro discrezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25869,8 +25869,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162138Z">
-        <seg>L'invio di una RFE non significa tuttavia che la funzione o la miglioria richieste vengano automaticamente implementate.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111023Z">
+        <seg>L'invio di una RFE non significa, tuttavia, che la funzione o la miglioria richiesta venga automaticamente implementata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33432,8 +33432,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162051Z">
-        <seg>Sono state già fatte centinaia di RFE, e molte di loro realizzate.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T110953Z">
+        <seg>Sono state già fatte centinaia di RFE, e molte di esse realizzate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39375,8 +39375,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T143109Z">
-        <seg>Tuttavia la squadra li includerà in OmegaT solo se saranno considerati di beneficio per gli utenti di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T110737Z">
+        <seg>Tuttavia la squadra li includerà in OmegaT solo se saranno considerate di beneficio per gli utenti di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55601,8 +55601,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This enables the numerous suggestions to be managed more easily.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T072036Z">
-        <seg>Questa procedure consente di gestire più facilmente i numerosi suggerimenti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T110937Z">
+        <seg>Questa procedura consente di gestire più facilmente i numerosi suggerimenti.</seg>
       </tuv>
     </tu>
     <tu>
