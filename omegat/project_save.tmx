@@ -12532,8 +12532,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After creating a launch script as described above, you can configure your system so that OmegaT is launched more conveniently, for example by creating a shortcut.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T195742Z">
-        <seg>Dopo aver creato uno script di avvio come descritto sopra, è possibile configurare il sistema affinché OmegaT sia lanciato in modo più vantaggioso, per esempio mediante la creazione di un collegamento.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T105550Z">
+        <seg>Dopo aver creato uno script di avvio come descritto sopra, è possibile configurare il sistema affinché OmegaT sia avviato in modo più comodo, per esempio mediante la creazione di un collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63122,8 +63122,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T125010Z">
-        <seg>Siete anche liberi di copiarlo e di distribuirlo ad altre persone.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T105713Z">
+        <seg>Sei anche libero di copiarlo e di distribuirlo ad altre persone.</seg>
       </tuv>
     </tu>
     <tu>
