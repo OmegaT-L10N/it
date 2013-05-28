@@ -15816,8 +15816,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220657Z">
-        <seg>Per impostazione predefinita, lo script di avvio bash è eseguibile, ma il sistema può modificare le sue autorizzazioni (ad esempio, durante l'estrazione dell'archivio) e potrebbe essere necessario renderlo di nuovo eseguibile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091910Z">
+        <seg>Per impostazione predefinita, lo script di avvio bash è eseguibile, ma il sistema potrebbe modificare le sue autorizzazioni (ad esempio, durante l'estrazione dell'archivio) e potrebbe essere necessario renderlo di nuovo eseguibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49812,8 +49812,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221334Z">
-        <seg>L'aspetto dei tipi di carattere in OmegaT in Linux potrebbe variare ampiamente, in base a:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T092042Z">
+        <seg>L'aspetto dei tipi di carattere in OmegaT in Linux potrebbe variare molto, in base a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52428,8 +52428,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The possibilities are numerous, and the procedures for implementing them no less numerous, owing to the plethora of distributions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221301Z">
-        <seg>Le possibilità sono numerose e le procedure per la loro implementazione non meno numerose, a causa della miriadi di distribuzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T092021Z">
+        <seg>Le possibilità sono numerose e le procedure per implementarle non meno numerose, date le miriadi di distribuzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60580,8 +60580,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>User-friendly launching of OmegaT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220712Z">
-        <seg>Avvio di OmegaT facile da usare </seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091924Z">
+        <seg>Avvio semplice di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
