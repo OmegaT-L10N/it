@@ -13309,8 +13309,8 @@ OmegaT.exe.</seg>
       <tuv lang="EN">
         <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T091059Z">
-        <seg>Anche se può sembrare strano voler tradurre (il motivo usuale per la creazione di un filtro di file) file TMX, l'aggiunta di un filtro TMX produce l'interessante effetto di permettere la ricerca all'interno dei file TMX da qualsiasi posizione, all'interno di qualsiasi progetto OmegaT, tramite la funzione "Ricerca file", cosa non possibile nell'impianto standard di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T100531Z">
+        <seg>Anche se può sembrare strano voler tradurre file TMX (il motivo usuale per la creazione di un filtro di file), l'aggiunta di un filtro TMX produce l'interessante effetto di permettere la ricerca all'interno dei file TMX da qualsiasi posizione, all'interno di qualsiasi progetto OmegaT, tramite la funzione "Ricerca file", cosa non possibile nell'impianto standard di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37029,8 +37029,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT HowTo: Creating a new file filter</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T090649Z">
-        <seg>Guida OmegaT: Creazione di un nuovo filtro di file</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T100415Z">
+        <seg>Guida di OmegaT: Creazione di un nuovo filtro di file</seg>
       </tuv>
     </tu>
     <tu>
