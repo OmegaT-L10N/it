@@ -1727,8 +1727,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Other methods of closing Priorview will not delete the temporary files.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102935Z">
-        <seg>(Altri metodi di chiusura di Priorview non elimineranno i file temporanei)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101922Z">
+        <seg>(altri metodi di chiusura di Priorview non elimineranno i file temporanei).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11411,8 +11411,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T103014Z">
-        <seg>Un comunicato stampa della Commissione europea (in formato .odt) in OmegaT e, più sotto, il testo di arrivo istantaneo visualizzato in Opera.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101947Z">
+        <seg>Un comunicato stampa della Commissione europea (in formato .odt) in OmegaT e, più sotto, il testo tradotto istantaneo visualizzato in Opera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39031,8 +39031,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T102854Z">
-        <seg>Una volta avviato Priorview, tuttavia, non è possbile selezionare un browser o un utilità di conversione differente; queste opzioni sono dunque nascoste dopo l'avvio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101857Z">
+        <seg>Una volta avviato Priorview, tuttavia, non è possibile selezionare un browser o un utilità di conversione differente; queste opzioni sono dunque nascoste dopo l'avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49489,8 +49489,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T230235Z">
-        <seg>Il pulsante Esci chiude Priorview ed elimina anche i file temporanei creati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101918Z">
+        <seg>Il pulsante Esci chiude Priorview ed elimina anche i file temporanei creati</seg>
       </tuv>
     </tu>
     <tu>
