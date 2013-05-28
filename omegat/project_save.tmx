@@ -12500,8 +12500,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;s0&gt;target&lt;/s0&gt; column of the original file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110806Z">
-        <seg>Dopo aver completato la traduzione e creato i documenti tradotti, copiare la colonna tradotta del file tradotto dentro la colonna &lt;s0&gt; destinazione &lt;/s0&gt; del file originale.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074642Z">
+        <seg>Dopo aver completato la traduzione e creato i documenti tradotti, copiare la colonna tradotta del file tradotto all'interno della colonna di &lt;s0&gt;destinazione&lt;/s0&gt; del file originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15039,8 +15039,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T110747Z">
-        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono i tag propri di OmegaT (la funzionalità tag incorporati di OmegaT, tuttavia, come pure la funzione di convalida dei tag, non è disponibile in questo caso).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074611Z">
+        <seg>Fare attenzione a preservare questi nello stesso modo in cui si gestiscono i tag propri di OmegaT (la funzionalità dei tag incorporati di OmegaT, tuttavia, come pure la funzione di convalida dei tag, non è disponibile in questo caso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34949,8 +34949,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools, can be found on the &lt;a0&gt;relevant Atril page&lt;/a0&gt;, and on the helpful &lt;a1&gt;blog maintained by Kevin Lossner&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130425T200923Z">
-        <seg>Maggiori informazioni sul formato e sulla procedura per la sua creazione, sia per gli utenti di Déjà Vu che per utenti di altri strumenti CAT, si possono trovare sulla &lt;a0&gt; pagina attinente di Atril &lt;/a0&gt;, e sull'utile blog &lt;a1&gt; mantenuto da Kevin Lossner &lt;/a1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074830Z">
+        <seg>Maggiori informazioni sul formato e sulla procedura per la sua creazione, sia per gli utenti di Déjà Vu, sia per quelli di altri strumenti CAT, si possono trovare sulla &lt;a0&gt;pagina attinente di Atril&lt;/a0&gt; e sul blog &lt;a1&gt;curato da Kevin Lossner&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
