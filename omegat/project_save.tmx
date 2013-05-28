@@ -26662,8 +26662,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If it does not, you still have the option to install a local version of Java or a different version of Java at system level.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190530Z">
-        <seg>Se non è possibile, si ha ancora la possibilità d'installare una versione locale di Java o una diversa versione di Java a livello di sistema.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T090712Z">
+        <seg>Se non è possibile, si ha ancora la possibilità d'installare una versione locale di Java o una versione di Java diversa a livello di sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28038,8 +28038,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you establish that the version of Java installed at system level is not compatible with OmegaT and you wish to replace this Java version with the Oracle Java version, check first whether an Oracle package is available for your Linux distribution (SUSE, Ubuntu, etc.).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190734Z">
-        <seg>Se si stabilisce che la versione di Java installata a livello di sistema non è compatibile con OmegaT e si desidera sostituire questa versione con quella di Oracle, verificare prima se un pacchetto Oracle è disponibile per la propria distribuzione Linux (SUSE, Ubuntu, ecc.).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T090811Z">
+        <seg>Se si stabilisce che la versione di Java installata a livello di sistema non è compatibile con OmegaT e si desidera sostituire questa versione con quella di Oracle, verificare prima se è disponibile un pacchetto Oracle per la propria distribuzione Linux (SUSE, Ubuntu, ecc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38583,8 +38583,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190329Z">
-        <seg>OmegaT adesso funziona sull'implementazione OpenJDK Java fornita con alcune distribuzioni di Linux, ma alcune funzioni (ad esempio, l'insieme completo di opzioni della riga di comando) potrebbero non essere disponibili; può essere fornito un corredo di tipi di carattere diversi; e sono stati segnalati alcuni piccoli problemi, come quelli con la finestra di visualizzazione e con la funzione di segmentazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T090620Z">
+        <seg>OmegaT adesso funziona con l'implementazione OpenJDK Java fornita con alcune distribuzioni di Linux, ma alcune funzioni (ad esempio, l'insieme completo di opzioni della riga di comando) potrebbero non essere disponibili; il gruppo di caratteri fornito potrebbe essere diverso; sono stati segnalati alcuni piccoli problemi, come quelli con la finestra di visualizzazione e con la funzione di segmentazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45950,8 +45950,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Simply install an OmegaT version without Java and see whether it works.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T190428Z">
-        <seg>semplicemente installare una versione di OmegaT senza Java e vedere se funziona.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T090637Z">
+        <seg>installare semplicemente una versione di OmegaT senza Java e vedere se funziona.</seg>
       </tuv>
     </tu>
     <tu>
