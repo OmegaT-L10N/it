@@ -3917,8 +3917,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212641Z">
-        <seg>&lt;a0&gt;Segui questo collegamento da applicare a Google&lt;/a0&gt; per la chiave di Google Translate API v2.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084231Z">
+        <seg>&lt;a0&gt;Seguire questo collegamento per richiedere a Google&lt;/a0&gt; la chiave di Google Translate API v2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14494,8 +14494,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Assign the key to OmegaT's launch procedure as follows, depending upon whether you are using Windows, Mac, or launching OmegaT from the command line or by means of a script:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212744Z">
-        <seg>Assegnare la chiave alla procedura di avvio di OmegaT come segue, a seconda se si utilizza Windows, Mac, o avviare OmegaT dalla riga di comando o mediante uno script:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084300Z">
+        <seg>Assegnare la chiave alla procedura di avvio di OmegaT come segue, a seconda se si utilizza Windows, Mac, o avviare OmegaT dalla riga di comando o tramite uno script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24917,8 +24917,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Google Machine Translation is a paid service (US$20.00 per million characters).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200943Z">
-        <seg>La traduzione automatica di Google è un servizio a pagamento (US$ 20,00 per milione di caratteri).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084425Z">
+        <seg>la traduzione automatica di Google è un servizio a pagamento (US$ 20,00 per milione di caratteri).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28006,8 +28006,8 @@ folder, see the manual for its location).</seg>
       <tuv lang="EN">
         <seg>If you don't already have one, open an account with google.com.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200249Z">
-        <seg>Se non ne avete già uno, aprite un conto con google.com.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084152Z">
+        <seg>Se non se ne possiede già uno, aprire un conto con google.com.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70476,8 +70476,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>where "XXXXXXXX" is your Google Translate API key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195016Z">
-        <seg>dove "XXXXXXXX" è la vostra chiave API di Google Translate.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084400Z">
+        <seg>dove "XXXXXXXX" è la propria chiave API di Google Translate.</seg>
       </tuv>
     </tu>
     <tu>
