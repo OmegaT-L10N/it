@@ -1799,8 +1799,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131325Z">
-        <seg>(La maggiore facilità di gestione dei tag con i file .docx è data al costo di una leggera perdita del controllo sulla formattazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080748Z">
+        <seg>(la maggiore facilità di gestione dei tag con i file .docx è data al costo di una leggera perdita del controllo sulla formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23609,8 +23609,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, without the "aggregate tags" function, where a word in the source text is in bold and italics, the translator could choose to render it in bold only, or in italics only.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131435Z">
-        <seg>Per esempio, senza la funzione "aggregazione dei tag", in cui una parola nel testo di origine è in grassetto e corsivo, il traduttore potrebbe scegliere di renderla solo in grassetto o solo in corsivo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080812Z">
+        <seg>Per esempio, senza la funzione di "aggregazione tag", in cui una parola nel testo di origine è in grassetto e corsivo, il traduttore potrebbe scegliere di renderla solo in grassetto o solo in corsivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35069,8 +35069,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Most users will probably find that the greater ease of use outweighs this drawback.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131556Z">
-        <seg>La maggior parte degli utenti probabilmente troverà che l'aumentata facilità di utilizzo è superiore a questo inconveniente).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080847Z">
+        <seg>La maggioranza degli utenti probabilmente troverà che l'aumentata facilità di utilizzo è superiore a questo inconveniente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46030,8 +46030,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131822Z">
-        <seg>Poiché questi sono scomodi durante la traduzione, vale la pena tentare di rimuovere questi disturbi prima di iniziare la traduzione con OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T081030Z">
+        <seg>Dato che sono scomodi durante la traduzione, vale la pena tentare di rimuovere questi disturbi prima di iniziare a tradurre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48713,8 +48713,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The .docx format is also prone to the introduction of "nuisance" formatting code which results in unwanted and unnecessary tags appearing in OmegaT's editor pane.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111401Z">
-        <seg>Il formato .docx è anche soggetto all'introduzione di "fastidioso" codice di formattazione, che si traduce in tag indesiderati e inutili visibili nel riquadro dell'editor di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080924Z">
+        <seg>Il formato .docx è anche soggetto all'introduzione di codice di formattazione, per così dire, "fastidioso", che si traduce in tag indesiderati e inutili visibili nel riquadro dell'editor di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62594,8 +62594,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With the "aggregate tags" function enabled, this is not possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131451Z">
-        <seg>Con la funzione di "aggregazione dei tag" attivata, questo non è possibile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080817Z">
+        <seg>Con la funzione di "aggregazione tag" attivata, questo non è possibile.</seg>
       </tuv>
     </tu>
     <tu>
