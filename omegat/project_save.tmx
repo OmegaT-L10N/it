@@ -1554,8 +1554,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T072108Z">
-        <seg>(Se si seleziona Opzioni &gt; Vista &gt; "Mostra i segmenti di partenza in grassetto; Includi il primo segmento non univoco quando evidenzi i segmenti non univoci", tutti i segmenti non univoci, tra cui il primo, saranno contrassegnati in grassetto).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103021Z">
+        <seg>(se si seleziona Opzioni &gt; Vista &gt; "Mostra i segmenti di partenza in grassetto; Includi il primo segmento non univoco quando evidenzi i segmenti non univoci", tutti i segmenti non univoci, tra cui il primo, saranno contrassegnati in grassetto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4485,8 +4485,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;b0&gt;None&lt;/b0&gt; (default behaviour): all identical segments are automatically translated the same way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202949Z">
-        <seg>&lt;b0&gt;Nessuno&lt;/b0&gt; (comportamento di default): tutti i segmenti identici sono automaticamente tradotti allo stesso modo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103237Z">
+        <seg>&lt;b0&gt;Nessuno&lt;/b0&gt; (comportamento predefinito): tutti i segmenti identici sono automaticamente tradotti allo stesso modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50221,8 +50221,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of a segment can be deleted completely either by means of the keyboard shortcuts Ctrl+A &gt; Ctrl+X &gt; Enter, by right-clicking with the mouse and the Remove Translation menu item, or simply by using the delete key (repeatedly).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T104816Z">
-        <seg>Il contenuto di un segmento può essere eliminato completamente mediante i tasti di scelta rapida Ctrl+A &gt; Ctrl+X &gt; Invio, facendovi clic sopra con il mouse e usando la voce di menù Rimuovi traduzione, o semplicemente utilizzando (ripetutamente) il tasto CANC.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103220Z">
+        <seg>Il contenuto di un segmento può essere eliminato completamente mediante i tasti di scelta rapida Ctrl+A &gt; Ctrl+X &gt; Invio, facendovi clic sopra con il mouse e usando la voce di menu Rimuovi traduzione, o semplicemente utilizzando (ripetutamente) il tasto CANC.</seg>
       </tuv>
     </tu>
     <tu>
