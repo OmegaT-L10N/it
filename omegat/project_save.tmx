@@ -15640,8 +15640,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>But it will at least stay at the same point in the text when the view is updated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T202217Z">
-        <seg>Ma almeno rimarrà nello stesso punto del testo quando viene aggiornata la visualizzazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101322Z">
+        <seg>Ma rimarrà almeno nello stesso punto del testo quando viene aggiornata la visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39215,8 +39215,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once you have installed either Abiword or the LibreOffice+Uniconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101122Z">
-        <seg>Una volta installato Abiword o la combinazione di LibreOffice + Uniconv, è possibile convertire i file di destinazione prodotti da OmegaT in formato html in modo da poter essere letti dal browser.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101538Z">
+        <seg>Una volta installato Abiword o la combinazione di LibreOffice + Uniconv, è possibile convertire i file di destinazione prodotti da OmegaT in formato html, in modo da poter essere letti dal browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49996,8 +49996,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T095334Z">
-        <seg>Il cambiamento quindi diventerà visibile dopo un ritardo di al massimo l'intervallo selezionato (più il tempo impiegato da OmegaT per salvare e produrre i file di arrivo).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101244Z">
+        <seg>Il cambiamento quindi diventerà visibile dopo un ritardo massimo dell'intervallo selezionato (più il tempo impiegato da OmegaT per salvare e produrre i file di arrivo).</seg>
       </tuv>
     </tu>
     <tu>
