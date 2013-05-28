@@ -12660,8 +12660,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>After selecting and installing a suitable browser (and/or the required add-on), open your translated file in the /target folder of your project:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094811Z">
-        <seg>Dopo la selezione e l'installazione del browser adatto (e, o in alternativa, il componente aggiuntivo richiesto), aprire il file tradotto nella cartella /target del proprio progetto:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101115Z">
+        <seg>Dopo la selezione e l'installazione del browser adatto (e, o in alternativa, del componente aggiuntivo richiesto), aprire il file tradotto nella cartella /target del proprio progetto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29261,8 +29261,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In both Firefox and Opera, this can be done by right-clicking in the translated .html file you have opened, then Reload every &gt; select a desired interval (e.g. 5 seconds).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T095147Z">
-        <seg>In Firefox e Opera, questo può essere fatto facendo clic col pulsante destro del mouse sul file .html tradotto aperto, e scegliendo il comando Ricarica ogni &gt; selezionare un intervallo desiderato (ad esempio cinque secondi).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101150Z">
+        <seg>In Firefox e Opera, questo può essere fatto facendo clic col pulsante destro del mouse sul file .html tradotto aperto, e scegliendo il comando Ricarica ogni &gt; selezionare un intervallo desiderato (ad esempio, cinque secondi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -62490,8 +62490,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094417Z">
-        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; la maggior parte degli utenti Linux l'avrà già installato oppure possono installarlo tramite gli archivi delle loro distribuzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T100958Z">
+        <seg>Gli utenti di Windows che non stanno già utilizzando Firefox possono &lt;a1&gt;scaricarlo da www.mozilla.org&lt;/a1&gt;; la maggior parte degli utenti Linux l'avrà già installato, oppure può installarlo tramite gli archivi delle loro distribuzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64399,8 +64399,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may prefer &lt;i0&gt;not&lt;/i0&gt; to use your usual browser for the preview function so as to keep it free for Internet browsing rather than having constantly to switch tabs, so you can regard installing an additional browser for the preview function as an advantage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T094719Z">
-        <seg>Si potrebbe preferire di &lt;i0&gt;non&lt;/i0&gt; utilizzare il proprio browser abituale per la funzione di anteprima, in modo da tenerlo libero per la navigazione Internet. Piuttosto che dover continuamente saltare fra le schede, converrà considerare l'installazione di un browser supplementare riservato alla funzione di anteprima.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101058Z">
+        <seg>Si potrebbe &lt;i0&gt;non&lt;/i0&gt; voler utilizzare il proprio browser abituale per la funzione di anteprima, in modo da tenerlo libero per la navigazione Internet. Piuttosto che dover continuamente saltare fra le schede, converrà considerare l'installazione di un browser supplementare riservato alla funzione di anteprima.</seg>
       </tuv>
     </tu>
     <tu>
