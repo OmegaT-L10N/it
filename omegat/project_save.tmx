@@ -11386,9 +11386,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T152310Z">
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074502Z">
         <seg>Un file Vista esterna "tradotto" è generato inserendo la traduzione nella colonna di destinazione.
-
 </seg>
       </tuv>
     </tu>
@@ -14863,9 +14862,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T152203Z">
-        <seg>Un file "Vista esterna" di Déjà Vu prende la forma di un file RTF con una tabella a più colonne, tra cui le colonne per il testo di origine e per quello tradotto; ogni segmento occupa una cella(riga?) della tabella.
-</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074423Z">
+        <seg>Un file "Vista esterna" di Déjà Vu prende la forma di un file RTF con una tabella a più colonne, incluse quelle per il testo di origine e per quello tradotto, in cui ogni segmento occupa una cella della tabella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29246,8 +29244,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In an as-yet untranslated "External View" file, the target column is empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T132118Z">
-        <seg>In un file "Vista esterna" ancora non tradotto, la colonna di destinazione è vuota.
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074442Z">
+        <seg>In un file "Vista esterna" non ancora tradotto la colonna di destinazione è vuota.
 </seg>
       </tuv>
     </tu>
