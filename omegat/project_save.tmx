@@ -29405,8 +29405,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In conjunction with the te-st-notags script, this provides a separate window in which tags are not displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212156Z">
-        <seg>In combinazione con lo script di te-st-notags, questa fornisce una finestra separata in cui tag non vengono visualizzati.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T083326Z">
+        <seg>In combinazione con lo script di te-st-notags, questa fornisce una finestra separata in cui i tag non vengono visualizzati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40361,8 +40361,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Paragraphs that you have not "levelled" will then contain nuisance tags, but at least the others will be much "cleaner".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212101Z">
-        <seg>I paragrafi non "livellati" conterranno quindi i tag di disturbo, ma almeno gli altri saranno molto più "puliti".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T083256Z">
+        <seg>I paragrafi non "livellati" conterranno quindi i tag di disturbo, ma almeno gli altri saranno molto "più puliti".</seg>
       </tuv>
     </tu>
     <tu>
@@ -55377,8 +55377,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This code/procedure combination has not yet been thoroughly tested (though initial reports are promising).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195606Z">
-        <seg>Questa combinazione di codice/procedura non è ancora stata accuratamente testata (anche se i rapporti iniziali sono promettenti).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T083503Z">
+        <seg>Questa combinazione di codice/procedura non è stata ancora accuratamente testata (anche se i risultati iniziali sono promettenti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64479,8 +64479,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You must still handle tags properly when producing and editing your translation, but you can view it in a separate window without the clutter of tags ("tag soup").</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212332Z">
-        <seg>Si dovrà ancora gestire i tag correttamente durante la produzione e la modifica della traduzione, ma è possibile visualizzarla in una finestra separata senza l'ingombro dei tag ("zuppa di tag").</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T083417Z">
+        <seg>Si dovrà ancora gestire adeguatamente i tag durante la produzione e la modifica della traduzione, ma è possibile visualizzarla in una finestra separata senza il loro ingombro ("zuppa di tag").</seg>
       </tuv>
     </tu>
     <tu>
