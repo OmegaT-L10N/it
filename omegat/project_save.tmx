@@ -1671,8 +1671,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(It will, of course, check for Bolivian rather than Mexican Spanish!)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T120304Z">
-        <seg>(Naturalmente, i controlli saranno eseguiti per lo spagnolo boliviano anziché quello messicano!)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104006Z">
+        <seg>(naturalmente, i controlli saranno eseguiti per lo spagnolo boliviano anziché quello messicano!)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2453,8 +2453,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T121544Z">
-        <seg>- Il testo evidenziato nel testo di destinazione, quando viene premuto la relativa scorciatoia</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104101Z">
+        <seg>- Il testo evidenziato nel testo di destinazione, quando viene premuta la relativa scorciatoia</seg>
       </tuv>
     </tu>
     <tu>
@@ -23465,8 +23465,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T193653Z">
-        <seg>Ad esempio, se avete selezionato ES-MX (spagnolo messicano) come la lingua di destinazione, i file di dizionario devono essere denominati es_MX.dic ed es_MX.aff.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103952Z">
+        <seg>Ad esempio, se avete selezionato ES-MX (spagnolo messicano) come lingua di destinazione, i file di dizionario devono essere denominati es_MX.dic ed es_MX.aff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28402,8 +28402,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you only have a Bolivian Spanish dictionary available, with the file names es_BO.dic and es_BO.aff, you can rename these files es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T120221Z">
-        <seg>Se si dispone solo di un dizionario spagnolo boliviano, con i nomi file es_BO.dic ed es_BO.aff, è possibile rinominare file in es_MX.dic ed es_MX.aff: il dizionario ortografico funzionerà.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104001Z">
+        <seg>Se si dispone solo di un dizionario spagnolo boliviano, con i nomi file es_BO.dic ed es_BO.aff, è possibile rinominare file in es_MX.dic ed es_MX.aff: il dizionario ortografico funzionerà</seg>
       </tuv>
     </tu>
     <tu>
@@ -41541,8 +41541,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130505T093926Z">
-        <seg>I programmatori e gli autori di script possono utilizzare i file contenenti questo testo al fine di aggiungere ulteriori funzioni a OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104117Z">
+        <seg>I programmatori e gli autori di script possono utilizzare i file contenenti questo testo per aggiungere ulteriori funzioni a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
