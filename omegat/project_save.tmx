@@ -120,8 +120,8 @@
       <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T110427Z">
-        <seg>L'attributo di "segmento non univoco" include sia le traduzioni predefinite, sia le alternative.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103438Z">
+        <seg>L'attributo di "segmento non univoco" include sia le traduzioni predefinite, sia quelle alternative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23874,8 +23874,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For some file types, OmegaT uses the preceding and following segments to make segments unique.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T105829Z">
-        <seg>Per rendere univoci i segmenti di alcuni tipi di file, OmegaT utilizza i segmenti precedenti e seguenti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103346Z">
+        <seg>Per rendere univoci i segmenti di alcuni tipi di file, OmegaT utilizza i segmenti precedenti e seguenti il segmento interessato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26302,8 +26302,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T111031Z">
-        <seg>Se è comunque selezionata Opzioni &gt; Comportamento di modifica &gt; "Vai al prossimo segmento non tradotto si ferma quando esiste almeno una traduzione alternativa" ed è stata creata almeno una traduzione alternativa di un segmento non univoco, questa funzione considera tutte le istanze di quel segmento (sia le traduzioni predefinite, sia le alternative) come non tradotte, cioè non le salta.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103543Z">
+        <seg>Se è comunque selezionata l'opzione Opzioni &gt; Comportamento di modifica &gt; "Vai al prossimo segmento non tradotto si ferma quando esiste almeno una traduzione alternativa" ed è stata creata almeno una traduzione alternativa di un segmento non univoco, questa funzione considera tutte le istanze di quel segmento (sia le traduzioni predefinite, sia le alternative) come non tradotte, cioè non le salta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37109,8 +37109,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT Spellchecking HowTo</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T150326Z">
-        <seg>Guida OmegaT: Correzione ortografica</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103553Z">
+        <seg>Guida di OmegaT: Correzione ortografica</seg>
       </tuv>
     </tu>
     <tu>
@@ -37613,8 +37613,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT has an inline spelling checker.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130504T064515Z">
-        <seg>OmegaT ha un correttore ortografico integrato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103626Z">
+        <seg>OmegaT possiede un correttore ortografico integrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62208,8 +62208,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T110219Z">
-        <seg>Laddove due segmenti hanno anche identici segmenti precedente e seguente (per esempio, quando un'intera pagina compare due volte nel testo), essi non possono essere tradotti in modo diverso gli uni dagli altri in OmegaT, cioè non è possibile creare una "traduzione alternativa" con uno di loro.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T103421Z">
+        <seg>Laddove due segmenti hanno anche identici segmenti precedente e seguente (per esempio, quando un'intera pagina compare due volte nel testo), essi non possono essere tradotti in modo diverso gli uni dagli altri in OmegaT, cioè non è possibile creare una "traduzione alternativa" per uno di essi.</seg>
       </tuv>
     </tu>
     <tu>
