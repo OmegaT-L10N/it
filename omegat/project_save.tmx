@@ -15031,8 +15031,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Be careful to choose a font that contains both the necessary Asian and "normal" characters, such as MS Mincho, but without the "[text body]" style suffix.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132244Z">
-        <seg>Fare attenzione a scegliere un tipo di carattere che contiene ambedue i caratteri necessari asiatici, sia i  "normali", come "MS Mincho", ma senza il suffisso di stile "[corpo del testo]".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T082039Z">
+        <seg>Fare attenzione a scegliere un tipo di carattere che contenga sia i caratteri asiatici, sia quelli "normali" necessari, tipo "MS Mincho", ma senza il suffisso di stile "[corpo del testo]".</seg>
       </tuv>
     </tu>
     <tu>
@@ -15111,8 +15111,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Before following the instructions below for removal of the nuisance codes, however, remember to make the configuration changes in Word first, or Word may simply re-insert nuisance codes again when the file is next opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T171122Z">
-        <seg>Prima di seguire le seguenti istruzioni per la rimozione dei codici fastidiosi, tuttavia, si rammenti di apportare le modifiche di configurazione in Word, altrimenti Word potrà semplicemente reinserire i codici fastidiosi appena il file viene riaperto.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T082237Z">
+        <seg>Prima di seguire le seguenti istruzioni per la rimozione dei codici fastidiosi, tuttavia, si rammenti di apportare le modifiche di configurazione in Word, altrimenti Word potrà semplicemente reinserire tali codici appena il file viene riaperto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36117,8 +36117,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T132448Z">
-        <seg>Si noti che anche dopo che le impostazioni di Word sono state modificate in modo che esso non inserisca più codici di "disturbo", ad esempio per la sillabazione automatica, tali codici possono essere ancora presenti nel file e non essere stati rimossi dalla modifica della configurazione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T082201Z">
+        <seg>Si noti che anche dopo che le impostazioni di Word sono state modificate in modo che esso non inserisca più codici di "disturbo", ad esempio per la sillabazione automatica, tali codici potrebbero non essere stati rimossi dalla modifica della configurazione ed essere ancora presenti nel file.</seg>
       </tuv>
     </tu>
     <tu>
