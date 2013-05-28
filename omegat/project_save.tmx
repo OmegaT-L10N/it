@@ -14317,8 +14317,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T175735Z">
-        <seg>Come suggerisce il nome, la versione "Più recente" di OmegaT è quella più aggiornata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T112730Z">
+        <seg>Come suggerisce il nome, la versione "più recente" di OmegaT è quella più aggiornata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25917,8 +25917,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221101Z">
-        <seg>Comunque, il manuale utente potrebbe non essere più aggiornato (e quindi possibilmente fuorviante), e potrebbero essere presenti alcuni errori minori.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T112722Z">
+        <seg>Comunque, il manuale utente potrebbe non essere aggiornato (e quindi possibilmente fuorviante), e potrebbero essere presenti alcuni errori secondari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32850,8 +32850,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Latest</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130510T183549Z">
-        <seg>Ultima</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T112622Z">
+        <seg>Più recente</seg>
       </tuv>
     </tu>
     <tu>
@@ -35421,8 +35421,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T221203Z">
-        <seg>Ad ogni modo, le versioni "più recenti" di OmegaT sono di solito molto stabili e consigliate per tutti gli utenti che hanno già alcune esperienze con OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T112750Z">
+        <seg>Ad ogni modo, le versioni "più recenti" di OmegaT sono di solito molto stabili e consigliate per tutti gli utenti che hanno avuto già esperienza con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
