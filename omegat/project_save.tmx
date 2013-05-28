@@ -26694,8 +26694,8 @@ path need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If it is not in your distribution's repository, you can &lt;a0&gt;download it from kaptain.sourceforge.net&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215412Z">
-        <seg>Se non è nel deposito della propria distribuzione, lo si può &lt;a0&gt;scaricare da kaptain.sourceforge.net&lt;/a0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091613Z">
+        <seg>Se non è presente nel deposito della propria distribuzione, lo si può &lt;a0&gt;scaricare da kaptain.sourceforge.net&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28184,8 +28184,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T220035Z">
-        <seg>Se si è installata una versione di OmegaT con JRE in dotazione, lo script di lancio fornito già contiene questo percorso.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091738Z">
+        <seg>Se si è installata una versione di OmegaT con JRE in dotazione, lo script di avvio fornito già contiene questo percorso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49916,8 +49916,8 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The basic launch command is:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T215908Z">
-        <seg>Il comando lancio di base è:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091708Z">
+        <seg>Il comando di avvio di base è:</seg>
       </tuv>
     </tu>
     <tu>
