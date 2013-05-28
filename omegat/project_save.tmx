@@ -1759,8 +1759,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(See screenshot: only the first three segments have been translated.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184226Z">
-        <seg>(vedere schermata: solo i primi tre segmenti sono stati tradotti).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T085742Z">
+        <seg>(si veda la schermata: solo i primi tre segmenti sono stati tradotti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12852,8 +12852,8 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       <tuv lang="EN">
         <seg>All being well, your translation will come out looking like the original, but translated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184202Z">
-        <seg>Se tutto è andato bene, la traduzione apparirà nell'aspetto come l'originale, però tradotta.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T085727Z">
+        <seg>Se tutto è andato bene, la traduzione apparirà nell'aspetto come l'originale, però tradotta</seg>
       </tuv>
     </tu>
     <tu>
@@ -14878,8 +14878,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T134802Z">
-        <seg>Tornare in Iceni Infix, importare il file XML tradotto nuovamente nel &lt;i0&gt; PDF da cui era stato esportato&lt;/i0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T085712Z">
+        <seg>Tornare a Iceni Infix, importare il file XML tradotto nuovamente nel &lt;i0&gt; PDF da cui era stato esportato&lt;/i0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26125,8 +26125,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184516Z">
-        <seg>Iceni Infix consente inoltre di salvare i file PDF in formato RTF, ma in tal caso la versione demo è proprio adatta a soli scopi dimostrativi, dato che contiene sostituzioni casuali di caratteri.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T085806Z">
+        <seg>Iceni Infix consente inoltre di salvare i file PDF in formato RTF, ma in tal caso la versione demo è davvero adatta a soli scopi dimostrativi, dato che contiene sostituzioni casuali di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30518,8 +30518,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Infix has functions for dealing with this and other problems that are beyond the scope of this HowTo.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T140630Z">
-        <seg>Infix ha funzioni per affrontare questo e altri problemi che esulano dall'ambito di questa guida.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T090001Z">
+        <seg>Infix ha funzioni per risolvere questo e altri problemi che esulano dall'ambito di questa guida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56437,8 +56437,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This needs to be dealt with in Infix, for example by enlarging the box containing the text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184807Z">
-        <seg>Questo deve essere affrontato e risolto in Infix, ad esempio ampliando la casella contenente il testo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T085943Z">
+        <seg>Questo problema deve essere affrontato e risolto in Infix, ad esempio ampliando la casella contenente il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63858,8 +63858,8 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184650Z">
-        <seg>Probabilmente si può risolvere il problema scaricando e installando i tipi di carattere necessari; oppure è possibile selezionare un carattere diverso per questo scopo – soluzione che potrebbe risultare o no adeguata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T085929Z">
+        <seg>Probabilmente si può risolvere il problema scaricando e installando i tipi di carattere che servono; oppure è possibile selezionare un carattere diverso per questo scopo – soluzione che potrebbe risultare adeguata o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64367,8 +64367,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T184827Z">
-        <seg>Potreste riscontrare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri che necessari.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T085848Z">
+        <seg>Si potrebbe riscontrare che i tipi di carattere incorporati nel PDF non contengono tutti i caratteri necessari.</seg>
       </tuv>
     </tu>
     <tu>
