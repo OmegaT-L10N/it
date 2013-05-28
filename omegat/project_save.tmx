@@ -14253,8 +14253,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As customers/authors upgrade Microsoft Office/Word to more recent versions, translators can expect to receive files increasingly in the new format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T130739Z">
-        <seg>Come i clienti/autori si aggiornano alle versioni più recenti di Microsoft Office/Word, i traduttori debbono aspettarsi di ricevere sempre più file nel nuovo formato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080243Z">
+        <seg>Con l'aggiornamento, da parte dei clienti/autori, alle versioni più recenti di Microsoft Office/Word, i traduttori devono attendersi sempre più file nel nuovo formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17739,8 +17739,8 @@ Submenu.</seg>
       <tuv lang="EN">
         <seg>Converting to MS Office 2007 format</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152047Z">
-        <seg>Conversione in formato MS Office 2007</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080406Z">
+        <seg>Conversione nel formato MS Office 2007</seg>
       </tuv>
     </tu>
     <tu>
@@ -52072,8 +52072,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131013Z">
-        <seg>Il nuovo formato può servire anche essere utile per gestire i vecchi formati .doc, .xls e .ppt, dato che possono essere convertiti nei loro corrispettivi di MS Office 2007, tradotti in OmegaT e riconvertiti nel vecchio formato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080350Z">
+        <seg>Il nuovo formato può anche essere utile per gestire i vecchi formati .doc, .xls e .ppt, dato che possono essere convertiti nei loro corrispettivi di MS Office 2007, tradotti in OmegaT e riconvertiti nel vecchio formato.</seg>
       </tuv>
     </tu>
     <tu>
