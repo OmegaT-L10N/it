@@ -42726,8 +42726,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101158Z">
-        <seg>Ricordare che si dovrà prima salvare in OmegaT e produrre i documenti tradotti, avviare poi l'utilità di conversione e quindi attendere che la visualizzazione sia aggiornata nel browser.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101557Z">
+        <seg>Ricordare che bisognerà prima salvare in OmegaT e produrre i documenti tradotti, avviare poi l'utilità di conversione e quindi attendere che la visualizzazione sia aggiornata nel browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54398,8 +54398,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There are numerous ways of achiving this, but one practical solution is to use a script which "listens" for changes in the translated file(s) produced by OmegaT and then, when a change is detected, automatically launches the utility which converts the file(s) to html format in order for them to be read by the browser.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T101526Z">
-        <seg>Esistono molti modi per fare questo, ma una soluzione pratica è quella di utilizzare uno script che "ascolta" eventuali modifiche dei file tradotti prodotti da OmegaT e, una volta rilevata una modifica, avvia automaticamente l'utilità che converte i file in formato html per la lettura nel browser.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T101616Z">
+        <seg>Esistono molti modi per farlo, ma una soluzione pratica è quella di utilizzare uno script che "ascolta" eventuali modifiche dei file tradotti prodotti da OmegaT e, una volta rilevata una modifica, avvia automaticamente l'utilità che converte i file in formato html per la lettura nel browser.</seg>
       </tuv>
     </tu>
     <tu>
