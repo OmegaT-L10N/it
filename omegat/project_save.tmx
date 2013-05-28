@@ -1767,8 +1767,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110354Z">
-        <seg>(Poiché questo è ora il formato standard, è semplicemente definito come formato Word, Excel o Powerpoint in MS Office 2007).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080518Z">
+        <seg>(poiché ora è questo il formato standard, esso è semplicemente definito come formato Word, Excel o Powerpoint in MS Office 2007).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14341,8 +14341,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T131233Z">
-        <seg>Dalla versione 2.1.8, per impostazione predefinita, questi tag multipli sono ora aggregati (condensati) in un singolo tag.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080718Z">
+        <seg>Dalla versione 2.1.8, per impostazione predefinita, questi tag multipli sono ora aggregati (condensati) in un unico tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24066,8 +24066,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T110429Z">
-        <seg>Per gli utenti che non dispongono di MS Office 2007 o 2010 e non vogliono comprarlo, Microsoft fornisce anche un &lt;a0&gt;plug-in di compatibilità&lt;/a0&gt; gratuito per le versioni precedenti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080554Z">
+        <seg>Per gli utenti che non dispongono di MS Office 2007 o 2010 e non hanno intenzione di comprarlo, Microsoft fornisce anche un &lt;a0&gt;plug-in di compatibilità&lt;/a0&gt; gratuito per le versioni precedenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29124,8 +29124,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T111109Z">
-        <seg>Nelle versioni di OmegaT precedenti alla 2.1.8, ogni cambiamento di formattazione in un file di MS Office 2007 provocava una lunga serie di tag multipli, che spesso hanno reso impraticabile gestire questo formato di file.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080706Z">
+        <seg>Nelle versioni di OmegaT precedenti alla 2.1.8, ogni cambiamento di formattazione in un file di MS Office 2007 provocava una lunga serie di tag multipli, che rendevano spesso impraticabile la gestione di questo formato di file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33372,8 +33372,8 @@ experience bugs, display problems or missing features.</seg>
       <tuv lang="EN">
         <seg>Linux users: both MS Office 2007 and the Microsoft compatibility plug-in run on &lt;a0&gt;Crossover Linux.&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T141227Z">
-        <seg>Utenti di Linux: sia MS Office 2007 che i plug-in di compatibilità con Microsoft  funzionano in &lt;a0&gt;Linux Crossover.&lt;/a0&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080611Z">
+        <seg>Utenti di Linux: sia MS Office 2007, sia i plug-in di compatibilità con Microsoft funzionano in &lt;a0&gt;Linux Crossover.&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60660,8 +60660,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users wishing to translate MS Office 2007 files should therefore upgrade to OmegaT version 2.1.8 or later.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152632Z">
-        <seg>Gli utenti che desiderano tradurre i file di MS Office 2007 dovrebbero quindi aggiornare OmegaT alla versione 2.1.8 o successiva.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080728Z">
+        <seg>Gli utenti che desiderano tradurre i file di MS Office 2007 dovrebbero quindi aggiornare OmegaT alla versione 2.1.8 o successiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -63479,8 +63479,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can convert MS Office 1997/2000/2003/XP files to MS Office 2007 format by opening them in MS Office 2007 and saving them with "Save As" in the new format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130420T152129Z">
-        <seg>È possibile convertire file di MS Office 1997/2000/2003/XP in formato MS Office 2007 aprendoli con MS Office 2007 e salvandoli con "Salva con nome" nel nuovo formato.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T080446Z">
+        <seg>È possibile convertire file di MS Office 1997/2000/2003/XP nel formato MS Office 2007, aprendoli con MS Office 2007 e salvandoli con "Salva con nome" nel nuovo formato</seg>
       </tuv>
     </tu>
     <tu>
