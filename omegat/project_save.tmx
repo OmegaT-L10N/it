@@ -19029,8 +19029,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221628Z">
-        <seg>Eliminare qualsiasi script di avvio e rimuovere eventuali voci personalizzate per OmegaT nel proprio desktop.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T092225Z">
+        <seg>Eliminare qualsiasi script di avvio e rimuovere eventuali voci personalizzate per OmegaT dal proprio desktop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37045,8 +37045,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT HowTo: Translating OmegaT into your language</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T180057Z">
-        <seg>Guida OmegaT: tradurre OmegaT nella propria lingua</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T092311Z">
+        <seg>Guida di OmegaT: tradurre OmegaT nella propria lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -56917,8 +56917,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221617Z">
-        <seg>Questo si tradurrà nella eliminazione di eventuali impostazioni di configurazione utente apportate (ad esempio, modifiche alle regole di segmentazione) e - se la cartella viene eliminata "correttamente", cioè non semplicemente spostata nel cestino - non può essere ripristinata.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T092213Z">
+        <seg>Questo significherà l'eliminazione di eventuali impostazioni di configurazione utente apportate (ad esempio, modifiche alle regole di segmentazione) e - se la cartella viene eliminata "correttamente", cioè non semplicemente spostata nel cestino - l'azione non può essere annullata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59567,8 +59567,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T221750Z">
-        <seg>La disinstallazione di OmegaT non rimuoverà i progetti di OmegaT dal sistema, a meno che essi non siano stati messi all'interno delle cartelle del programma o dei file di configurazione di OmegaT, posizioni, queste, assolutamente non suggerite.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T092256Z">
+        <seg>La disinstallazione di OmegaT non rimuoverà i progetti di OmegaT dal sistema, a meno che non siano stati memorizzati all'interno delle cartelle del programma o dei file di configurazione di OmegaT, posizioni, queste, assolutamente non suggerite.</seg>
       </tuv>
     </tu>
     <tu>
