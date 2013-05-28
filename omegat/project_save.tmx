@@ -1687,8 +1687,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164951Z">
-        <seg>(Da non confondere con la funzione "Esporta testo", che permette anche di utilizzare gli script con OmegaT, ma a un livello più elementare)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111353Z">
+        <seg>(da non confondere con la funzione "Esporta testo", che permette anche di utilizzare gli script con OmegaT, ma a un livello più elementare).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13929,8 +13929,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>Apertium Plugin</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165014Z">
-        <seg>Plug-in Apertium</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111405Z">
+        <seg>Plugin Apertium</seg>
       </tuv>
     </tu>
     <tu>
@@ -21165,8 +21165,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>Enables external scripts to access OmegaT's functionality.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191813Z">
-        <seg>Abilita gli script esterni ad accedere a funzionalità di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111345Z">
+        <seg>Abilita gli script esterni ad accedere a funzionalità di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -29028,8 +29028,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165038Z">
-        <seg>Importante: per utilizzare i plug-in, è necessario installare una versione recente di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111410Z">
+        <seg>Importante: per utilizzare i plugin, è necessario installare una versione recente di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36837,8 +36837,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Okapi Filters Plugin</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165003Z">
-        <seg>Plug-in dei filtri Okapi</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111358Z">
+        <seg>Plugin dei filtri Okapi</seg>
       </tuv>
     </tu>
     <tu>
@@ -55393,8 +55393,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165445Z">
-        <seg>Questa raccolta di script può essere utile ai creatori di script che abbiano la conoscenza di tcl/tk.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111545Z">
+        <seg>Questa raccolta di script può essere utile ai programmatori che conoscono tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60972,8 +60972,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T165350Z">
-        <seg>Utilità per la conversione di file di Trados TagEditor (TTX) in un formato intermedio, che permette la loro traduzione in OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111505Z">
+        <seg>Utilità per la conversione di file di Trados TagEditor (TTX) in un formato intermedio, che ne permette la traduzione in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
