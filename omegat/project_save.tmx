@@ -1538,8 +1538,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134805Z">
-        <seg>(Per maggiori informazioni, consultare il manuale di istruzioni o fare clic &lt;a0&gt;qui&lt;/a0&gt;, &lt;a1&gt;qui&lt;/a1&gt; o &lt;a2&gt;qui&lt;/a2&gt;.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T082544Z">
+        <seg>(per maggiori informazioni, consultare il manuale di istruzioni o fare clic &lt;a0&gt;qui&lt;/a0&gt;, &lt;a1&gt;qui&lt;/a1&gt; o &lt;a2&gt;qui&lt;/a2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15504,8 +15504,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134729Z">
-        <seg>Brevi istruzioni per la creazione della macro (in MS Office 2007) sono fornite di seguito.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T082533Z">
+        <seg>Brevi istruzioni per la creazione della macro (in MS Office 2007) sono fornite di seguito</seg>
       </tuv>
     </tu>
     <tu>
@@ -34381,8 +34381,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T134416Z">
-        <seg>Selezionare ogni paragrafo facendo clic su di esso ripetutamente finché non viene evidenziato l'intero paragrafo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T082430Z">
+        <seg>Selezionare ogni paragrafo facendovi sopra clic ripetutamente finché non viene evidenziato l'intero paragrafo.</seg>
       </tuv>
     </tu>
     <tu>
