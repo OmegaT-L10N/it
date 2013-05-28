@@ -15168,8 +15168,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Before using the tokenizer with OmegaT, you must first ensure that your version of OmegaT is suitable and prepared for use with it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170128Z">
-        <seg>Prima di utilizzare il tokenizer con OmegaT, in è necessario assicurarsi che la versione di OmegaT sia adatta e pronta per l'uso di tale plugin.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104836Z">
+        <seg>Prima di utilizzare il tokenizer con OmegaT, è necessario assicurarsi che la versione di OmegaT sia adatta e pronta per l'uso di tale plugin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37053,8 +37053,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>OmegaT HowTo: Using the OmegaT tokenizer</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191133Z">
-        <seg>Guida OmegaT: usare il tokenizer per OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104744Z">
+        <seg>Guida di OmegaT: Usare il tokenizer per OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -56001,8 +56001,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is likely to be a little too technical for complete newcomers to programming, but after working through one of the online tutorials, they should find it useful.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T124902Z">
-        <seg>È probabile sia un po' troppo tecnico per i neofiti della programmazione ma, dopo aver lavorato attraverso una delle esercitazioni in linea, lo troveranno utile.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104720Z">
+        <seg>È probabile sia un po' troppo tecnico per i neofiti della programmazione ma, dopo aver lavorato attraverso una delle esercitazioni in linea, anche loro lo troveranno utile.</seg>
       </tuv>
     </tu>
     <tu>
