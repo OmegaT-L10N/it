@@ -28474,8 +28474,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a1&gt;OmegaT webmaster&lt;/a1&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181656Z">
-        <seg>Se si preferisce tradurre da una lingua diversa nella quale è già stato localizzato OmegaT, contattare il &lt;a1&gt;webmaster di OmegaT&lt;/a1&gt;.)</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T094933Z">
+        <seg>Se si preferisce tradurre da una lingua diversa in cui OmegaT è già stato localizzato, contattare il &lt;a1&gt;webmaster di OmegaT&lt;/a1&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39857,8 +39857,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Options &gt; File Filters &gt; Select "HTML and XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T181801Z">
-        <seg>Opzioni &gt; Filtri dei file... &gt; scegliere "file XTML e  XHTML" &gt; Modifica &gt; Aggiungi &gt; quindi scrivere "*.php" nella colonna "Modello del nome del file sorgente".</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T095023Z">
+        <seg>Andare in Opzioni &gt; Filtri dei file... &gt; scegliere "file XTML e  XHTML" &gt; Modifica &gt; Aggiungi &gt; quindi scrivere "*.php" nella colonna "Modello del nome del file sorgente".</seg>
       </tuv>
     </tu>
     <tu>
@@ -58275,8 +58275,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>To translate the latter in OmegaT, you must register the .php extension with the HTML and XHTML filter as follows:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220601Z">
-        <seg>Per tradurre quest'ultimo in OmegaT, è necessario registrare l'estensione .php con il filtro HTML e  XHTML come segue:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T094956Z">
+        <seg>Per tradurre quest'ultimo in OmegaT, è necessario registrare l'estensione .php con il filtro HTML e XHTML come segue:</seg>
       </tuv>
     </tu>
     <tu>
