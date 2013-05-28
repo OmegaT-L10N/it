@@ -4213,8 +4213,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T162738Z">
-        <seg>&lt;a0&gt;La sponsorizzazione dello sviluppo ha già consentito di realizzare l'aggiunta di alcune caratteristiche.&lt;/a0&gt; Se sei disposto a finanziare il lavoro di implementazione la tua funzionalità desiderata, puoi contattare privatamente la squadra di sviluppo per un preventivo.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111148Z">
+        <seg>&lt;a0&gt;La sponsorizzazione dello sviluppo ha già consentito di realizzare l'aggiunta di alcune caratteristiche.&lt;/a0&gt; Se si è disposti a finanziare il lavoro di implementazione di una funzionalità desiderata, è possibile contattare privatamente la squadra di sviluppo per un preventivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11395,8 +11395,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164817Z">
-        <seg>È disponibile anche un &lt;a0&gt;opuscolo esplicativo che descrive il plug-in tokenizer&lt;/a0&gt; .</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111328Z">
+        <seg>È disponibile anche un &lt;a0&gt;opuscolo esplicativo che descrive il plugin tokenizer&lt;/a0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -32698,8 +32698,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164824Z">
-        <seg>Plug-in LanguageTool</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111331Z">
+        <seg>Plugin LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -38165,8 +38165,8 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT plug-ins</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T191707Z">
-        <seg>Plug-in di OmegaT</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111310Z">
+        <seg>Plugin di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -44070,8 +44070,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Scripting plug-in</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T164848Z">
-        <seg>Plug-in di script</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111335Z">
+        <seg>Plugin di script</seg>
       </tuv>
     </tu>
     <tu>
@@ -58463,8 +58463,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Tokenizers plug-in</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T163354Z">
-        <seg>Plug-in Tokenizer</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T111313Z">
+        <seg>Plugin Tokenizer</seg>
       </tuv>
     </tu>
     <tu>
