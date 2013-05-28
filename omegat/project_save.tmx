@@ -30110,8 +30110,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130511T170943Z">
-        <seg>Creare nella cartella principale del programma OmegaT (cioè la cartella contenente il file OmegaT.jar), una sottocartella chiamata "plugins", se già non ne esiste una con tale nome.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T105217Z">
+        <seg>Creare nella cartella principale del programma OmegaT (cioè quella contenente il file OmegaT.jar), una sottocartella chiamata "plugins", se già non ne esiste una con tale nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35341,8 +35341,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Name the launch script files appropriately, for example "OmegaT-EN.bat" for the launch script file containing the command with the English tokenizer and "OmegaT-TR.bat" for the launch script file containing the command with the Turkish tokenizer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130507T135238Z">
-        <seg>Denominare i file script di lancio in modo appropriato, ad esempio "OmegaT-EN.bat" per il file di script di avvio che contiene il comando con il tokenizer inglese e "OmegaT-TR.bat" per il file di script di avvio che contiene il comando con il tokenizer turco.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T105503Z">
+        <seg>Denominare i file script di avvio in modo appropriato, ad esempio "OmegaT-EN.bat" per il file di script di avvio che contiene il comando con il tokenizer inglese e "OmegaT-TR.bat" per il file di script di avvio che contiene il comando con il tokenizer turco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62482,8 +62482,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Windows users (in particular): do &lt;s0&gt;not&lt;/s0&gt; simply click on this file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T194753Z">
-        <seg>Per gli utenti di Windows (in particolare):  &lt;s0&gt;non&lt;/s0&gt; basta fare clic su questo file.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T105240Z">
+        <seg>Per gli utenti di Windows (in particolare): &lt;s0&gt;non&lt;/s0&gt; basta fare clic su questo file.</seg>
       </tuv>
     </tu>
     <tu>
