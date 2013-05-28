@@ -14333,8 +14333,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As of December 2011, Google has required payment from users for use of this service.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T212622Z">
-        <seg>Dal dicembre 2011, Google ha richiesto il pagamento da parte degli utenti per l'utilizzo di questo servizio.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T083801Z">
+        <seg>Dal dicembre 2011 Google richiede un pagamento per l'uso di questo servizio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29116,8 +29116,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>In Microsoft Word, run the following macro to apply the relevant styles to the target document(s):</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T200020Z">
-        <seg>In Microsoft Word, eseguire la seguente macro per applicare gli stili pertinenti per i documenti di destinazione:</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T083631Z">
+        <seg>In Microsoft Word, eseguire la seguente macro per applicare gli stili pertinenti ai documenti di destinazione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31339,8 +31339,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It does not enable them to "translate" bilingual files supplied by their customers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T194741Z">
-        <seg>Non permettere loro di "tradurre" file bilingui forniti dai clienti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T083529Z">
+        <seg>Non permette loro di "tradurre" file bilingui forniti dai clienti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31839,8 +31839,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It only enables translators to generate (i.e. deliver) Trados uncleaned files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T195750Z">
-        <seg>Permette solo ai traduttori di generare (cioè consegnare) file Trados non ripuliti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T083521Z">
+        <seg>Permette ai traduttori di generare (cioè consegnare) solo file Trados non ripuliti.</seg>
       </tuv>
     </tu>
     <tu>
