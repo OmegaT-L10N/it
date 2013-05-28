@@ -30144,8 +30144,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T131802Z">
-        <seg>Allo stesso modo, gli utenti di strumenti CAT, compreso OmegaT, che non possiedono Déjà Vu possono tradurre i file preparati da un utente Déjà Vu.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074240Z">
+        <seg>Allo stesso modo, gli utenti di strumenti CAT, OmegaT compreso, che non possiedono Déjà Vu possono tradurre i file preparati da un utente Déjà Vu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31365,9 +31365,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T131556Z">
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074202Z">
         <seg>Consente ai redattori che non possiedono Déjà Vu di modificare le traduzioni prodotte in Déjà Vu, in modo che le modifiche possano essere reintrodotte facilmente.
-
 </seg>
       </tuv>
     </tu>
@@ -55163,8 +55162,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130423T130044Z">
-        <seg>Questa guida spiega come utilizzare OmegaT in collaborazione con Déjà Vu strumento CAT di Atril.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074029Z">
+        <seg>Questa guida spiega come utilizzare OmegaT in collaborazione con Déjà Vu, strumento CAT di Atril.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63125,8 +63124,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You are an OmegaT user and are requested by a customer to deliver a translation in Déjà Vu's file format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T151701Z">
-        <seg>Sei un utente OmegaT ti viene richiesto da un cliente di fornirgli una traduzione in file formato Déjà Vu.
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T074138Z">
+        <seg>Si è utenti OmegaT e un cliente richiede di fornirgli una traduzione in file formato Déjà Vu.
 </seg>
       </tuv>
     </tu>
