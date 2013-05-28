@@ -1807,8 +1807,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191512Z">
-        <seg>(Il tokenizer può essere utilizzato con le versioni 2.0. x e 2.1.0, ma ma richiede una versione diversa del tokenizer, così come una procedura di installazione diversa) Consigliamo agli utenti di aggiornare all'ultima versione beta di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104929Z">
+        <seg>(il tokenizer può essere utilizzato con le versioni 2.0. x e 2.1.0, ma richiede una versione diversa del tokenizer, così come una procedura di installazione diversa). Consigliamo agli utenti di aggiornare all'ultima versione beta di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10552,8 +10552,8 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T191352Z">
-        <seg>&lt;s0&gt;OmegaT versione 2.1.0 e precedenti&lt;/s0&gt;: l'attuale tokenizer non è più compatibile con queste versioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T104902Z">
+        <seg>&lt;s0&gt;OmegaT versione 2.1.0 e precedenti&lt;/s0&gt;: l'attuale tokenizer non è più compatibile con queste versioni</seg>
       </tuv>
     </tu>
     <tu>
