@@ -1562,8 +1562,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183201Z">
-        <seg>(Se si è tradotto in una lingua che non è quella del sistema operativo, vedere sotto, "Come OmegaT gestisce le versioni localizzate".)&lt;/p&gt;</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T095726Z">
+        <seg>(se si è tradotto in una lingua che non è quella del sistema operativo, vedere sotto, "Come OmegaT gestisce le versioni localizzate").</seg>
       </tuv>
     </tu>
     <tu>
@@ -19061,8 +19061,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T184013Z">
-        <seg>Consegnare il file al coordinatore di localizzazione, che lo passerà al team di sviluppo per l'inclusione nel prossimo rilascio di OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T095908Z">
+        <seg>Consegnare il file al coordinatore della localizzazione, che lo passerà alla squadra degli sviluppatori per l'inclusione nel prossimo rilascio di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28602,8 +28602,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you used OmegaT or another CAT tool for the work, please also send your translation memory (TMX file) together with the translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T185406Z">
-        <seg>Se si è utilizzato OmegaT o un altro strumento CAT per il lavoro, inviare anche la memoria di traduzione (file TMX) con la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T095931Z">
+        <seg>Se si è utilizzato OmegaT o un altro strumento CAT per il lavoro, inviare anche la memoria di traduzione (file TMX) assieme alla traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54181,8 +54181,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>Then launch OmegaT normally.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183144Z">
-        <seg>Avviare poi normalmente OmegaT.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T095711Z">
+        <seg>Avviare poi normalmente OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -55865,8 +55865,8 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       <tuv lang="EN">
         <seg>This is also optional, but if you have been able to launch OmegaT with your localized bundle (see above), it will enhance the quality of your translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183722Z">
-        <seg>Anche questo è facoltativo, ma se si è stati in grado di avviare OmegaT con il proprio pacchetto localizzato (vedere sopra), esso migliorerà la qualità della traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T095811Z">
+        <seg>Anche questa procedura è facoltativa, ma se si è stati in grado di avviare OmegaT col proprio pacchetto localizzato (vedere sopra), essa migliorerà la qualità della traduzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57977,8 +57977,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130523T183852Z">
-        <seg>Per catturare una schermata, avviare OmegaT e crearne una adatta per la cattura, come la finestra di dialogo "Crea nuovo progetto" che mostra i percorsi tipici.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T095831Z">
+        <seg>Per catturare una schermata, avviare OmegaT e crearne una adatta per la cattura, come la finestra di dialogo "Crea nuovo progetto", che mostra i percorsi tipici.</seg>
       </tuv>
     </tu>
     <tu>
