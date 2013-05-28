@@ -11370,8 +11370,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>A "scanned" PDF file is a file in which the PDF format merely serves as a convenient container for scans of hardcopy pages.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130426T201441Z">
-        <seg>Un file PDF "scandito" è un file in cui il formato PDF serve solo come un comodo contenitore per scansioni di pagine di cartacee.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084559Z">
+        <seg>Un file PDF "scandito" è un file in cui il formato PDF serve solo da comodo contenitore per scansioni di pagine cartacee.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17975,6 +17975,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220248Z">
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Milan Hubacek and Marc Prior 2011</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084444Z">
+        <seg>Copyright Milan Hubacek e Marc Prior 2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -36821,8 +36829,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Often, these scans contain text for translation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130424T195219Z">
-        <seg>Spesso, queste scansioni contengono testo per la traduzione.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084616Z">
+        <seg>Spesso, queste scansioni contengono testo da tradurre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54510,8 +54518,8 @@ Submenu and File - New Item.</seg>
       <tuv lang="EN">
         <seg>There is no way of translating a scanned PDF file other than to recreate the text, either by typing it out again or by OCR (optical character recognition), and to recreate the file layout from scratch.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T182356Z">
-        <seg>Non c'è alcun modo di tradurre un file PDF scandito se non ricreando il testo, sia digitandolo nuovamente o con tramite riconoscimento ottico dei caratteri (OCR), ricostruendo poi l'impaginazione da zero.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084709Z">
+        <seg>Non c'è modo di tradurre un file PDF scandito se non ricreando il testo, o riscrivendolo o tramite riconoscimento ottico dei caratteri (OCR), e ricostruendo poi l'impaginazione da zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63447,8 +63455,8 @@ to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can check the daily usage from your Google account.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130519T213242Z">
-        <seg>È possibile controllare l'utilizzo quotidiano dal proprio account Google.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T084436Z">
+        <seg>È possibile controllarne l'utilizzo quotidiano dal proprio account Google.</seg>
       </tuv>
     </tu>
     <tu>
