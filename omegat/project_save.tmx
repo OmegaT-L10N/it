@@ -14237,8 +14237,8 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
       <tuv lang="EN">
         <seg>As an open-source application, OmegaT has been included by many Linux distributions in their repositories, so you may be able to install it by this route.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191450Z">
-        <seg>Come applicazione open-source, OmegaT è stato incluso da molte distribuzioni Linux nei loro depositi, dunque potrebbe essere possibile installarlo per quella via.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091259Z">
+        <seg>Essendo un'applicazione open-source, OmegaT è stato incluso nei depositi di molte distribuzioni Linux, dunque potrebbe essere possibile installarlo per quella via.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14622,8 +14622,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>At the time of writing, OmegaT will run much better with the Oracle version of Java (see above).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T205859Z">
-        <seg>Al momento della scrittura, OmegaT funzionerà molto meglio con la versione di Oracle di Java (vedi sopra).</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091318Z">
+        <seg>Al momento della scrittura, OmegaT funzionerà molto meglio con la versione Oracle di Java (vedi sopra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34933,8 +34933,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>More functions will usually be found in the "Latest" version.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191543Z">
-        <seg>Nella versione "Più recente" si trovano in genere il maggior numero di funzioni.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091341Z">
+        <seg>Nella versione "Più recente" si trovano in genere più funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36221,8 +36221,8 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Note that it is easy to install multiple versions of OmegaT on Linux without conflicts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20130520T191619Z">
-        <seg>Si noti che è facile installare su Linux più versioni di OmegaT, senza conflitti.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091428Z">
+        <seg>Si noti che in Linux è possibile installare più versioni di OmegaT senza conflitti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49233,8 +49233,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130502T210515Z">
-        <seg>La versione Linux di OmegaT è ora fornita con il proprio script di installazione, linux-install.sh.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130528T091449Z">
+        <seg>La versione Linux di OmegaT ora è fornita col proprio script di installazione, linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
