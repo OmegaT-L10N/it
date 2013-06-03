@@ -24835,14 +24835,6 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Glossum</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121946Z">
-        <seg>Glossum</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Gnome users</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100616T104856Z">
@@ -32580,14 +32572,6 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T180012Z">
         <seg>Re&amp;gistro...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>LF Aligner</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130326T175911Z">
-        <seg>LF Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -65792,14 +65776,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>bitext2tmx</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121930Z">
-        <seg>bitext2tmx</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>bm</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215407Z">
@@ -67344,14 +67320,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>howtos/spelling.html#repositories</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121902Z">
-        <seg>howtos/spelling.html#repositories</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>hr</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215417Z">
@@ -67504,34 +67472,10 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://openoffice.org/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121907Z">
-        <seg>http://openoffice.org/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://projectlocker.com/</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215654Z">
         <seg>http://projectlocker.com/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/aligner</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130503T144356Z">
-        <seg>http://sourceforge.net/projects/aligner</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://sourceforge.net/projects/bitext2tmx</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121928Z">
-        <seg>http://sourceforge.net/projects/bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
@@ -67648,14 +67592,6 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://www.glossum.com/omegat</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130427T121940Z">
-        <seg>http://www.glossum.com/omegat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130301T094527Z">
@@ -67684,14 +67620,6 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215446Z">
         <seg>http://www.languagetool.org/languages/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://www.leuce.com/autoit/</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="MELO" changedate="20130512T220301Z">
-        <seg>http://www.leuce.com/autoit/</seg>
       </tuv>
     </tu>
     <tu>
