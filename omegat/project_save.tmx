@@ -34307,6 +34307,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T212222Z">
+        <seg>Marc Prior: la correzione della mia prima bozza è stato un atto d'amore nei confronti di OmegaT e la lingua inglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130213T193712Z">
@@ -47180,6 +47188,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T212458Z">
+        <seg>Stringa che mostra le differenze tra il testo di origine e la concordanza.&lt;e0&gt; Suggerimento:&lt;/e0&gt; usarla se il testo che si è tradotto è stato aggiornato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T211707Z">
@@ -48666,6 +48682,14 @@ current folder will be used instead.</seg>
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line brak into the text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130412T110733Z">
+        <seg>Il tasto "Maiusc" non presenta, di per sé, speciali comportamenti: se premuto, tutti i tasti spostano il cursore in base alla funzione attribuita loro, ad eccezione della combinazione &lt;l0&gt;Maiusc+Invio&lt;/l0&gt;, che inserisce un'interruzione di riga nel testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T212244Z">
         <seg>Il tasto "Maiusc" non presenta, di per sé, speciali comportamenti: se premuto, tutti i tasti spostano il cursore in base alla funzione attribuita loro, ad eccezione della combinazione &lt;l0&gt;Maiusc+Invio&lt;/l0&gt;, che inserisce un'interruzione di riga nel testo.</seg>
       </tuv>
     </tu>
