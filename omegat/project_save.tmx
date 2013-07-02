@@ -13751,6 +13751,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211843Z">
+        <seg>Risorse Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Android resource</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T171023Z">
@@ -25147,6 +25155,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T212048Z">
+        <seg>HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML and XHTML files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T103812Z">
@@ -32480,6 +32496,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211859Z">
+        <seg>Key=Valore testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key=Value Text Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095809Z">
@@ -33958,6 +33982,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120526T182237Z">
         <seg>I servizi di traduzione automatica hanno raggiunto buoni risultati e un deciso miglioramento, in base alle valutazioni di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211914Z">
+        <seg>CSV locale Magento CE</seg>
       </tuv>
     </tu>
     <tu>
@@ -47164,6 +47196,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211833Z">
+        <seg>Sottotitoli SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SubRip Subtitles Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095632Z">
@@ -56605,8 +56645,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valter" changedate="20100715T102239Z">
-        <seg>Questo documento è distribuito nella speranza che sia utile, ma SENZA ALCUNA GARANZIA; senza neppure la garanzia implicita di COMMERCIABILITÀ o di APPLICABILITÀ PER UN PARTICOLARE SCOPO.</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T212038Z">
+        <seg>Questo programma è distribuito nella speranza che sia utile, ma SENZA ALCUNA GARANZIA; senza neppure la garanzia implicita di COMMERCIABILITÀ o di APPLICABILITÀ PER UN PARTICOLARE SCOPO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56615,6 +56655,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T084456Z">
         <seg>Questo programma è software libero; è lecito redistribuirlo o modificarlo secondo i termini della GNU General Public License (GPL) come pubblicata dalla Free Software Foundation nella versione 2 della licenza o (a propria scelta) qualsiasi versione successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211957Z">
+        <seg>Questo programma è software libero; è lecito redistribuirlo o modificarlo secondo i termini della GNU General Public License (GPL) come pubblicata dalla Free Software Foundation nella versione 3 della licenza o (a propria scelta) qualsiasi versione successiva.</seg>
       </tuv>
     </tu>
     <tu>
