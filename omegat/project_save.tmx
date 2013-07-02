@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15950,6 +15950,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211645Z">
+        <seg>Camtasia per Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows (*.camproj)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120122T114241Z">
@@ -22946,6 +22954,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T221903Z">
         <seg>Flag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211721Z">
+        <seg>Esportazione Flash XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -43588,6 +43604,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVG Image</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211712Z">
+        <seg>Immagine SVG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVG Image Files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T084404Z">
@@ -48362,6 +48386,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T140747Z">
         <seg>Controlli di qualità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211814Z">
+        <seg>Testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -62262,6 +62294,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211659Z">
+        <seg>Localizzazione WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WiX Localization (*.wxl)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110719T121346Z">
@@ -62378,6 +62418,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T095655Z">
         <seg>File di risorse Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211805Z">
+        <seg>Risorse di Windows</seg>
       </tuv>
     </tu>
     <tu>
