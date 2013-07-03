@@ -1472,6 +1472,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130703T200912Z">
+        <seg>(+altri {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;i0&gt;project_name&lt;/i0&gt; being the name of your project).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101004T101954Z">
@@ -24136,6 +24144,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130703T200745Z">
+        <seg>Formato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatted files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T091855Z">
@@ -24188,6 +24204,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T223945Z">
         <seg>Avanti nella cronologia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130703T200845Z">
+        <seg>Trovato in:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34943,6 +34967,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T212928Z">
         <seg>Mongolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130703T200752Z">
+        <seg>Monolingue</seg>
       </tuv>
     </tu>
     <tu>
@@ -56687,6 +56719,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130702T211957Z">
         <seg>Questo programma è software libero; è lecito redistribuirlo o modificarlo secondo i termini della GNU General Public License (GPL) come pubblicata dalla Free Software Foundation nella versione 3 della licenza o (a propria scelta) qualsiasi versione successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20130703T200856Z">
+        <seg>Questo progetto</seg>
       </tuv>
     </tu>
     <tu>
