@@ -14836,6 +14836,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172451Z" creationid="valtermura" creationdate="20131013T172451Z">
+        <seg>Voci di testo automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T190034Z">
@@ -16322,6 +16330,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T184356Z">
         <seg>Set di caratteri e codifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172500Z" creationid="valtermura" creationdate="20131013T172500Z">
+        <seg>Tabella caratteri</seg>
       </tuv>
     </tu>
     <tu>
@@ -41398,6 +41414,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130416T192342Z">
         <seg>Premere &lt;k0&gt;Ctrl+M&lt;/k0&gt; sostituire la traduzione del segmento attivo con quella della traduzione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172416Z" creationid="valtermura" creationdate="20131013T172416Z">
+        <seg>Premere &lt;u&gt;{0}&lt;/u&gt; per andare ai suggerimenti &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172321Z" creationid="valtermura" creationdate="20131013T172321Z">
+        <seg>Premere &lt;u&gt;{0}&lt;/u&gt; per tornare ai suggerimenti &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
