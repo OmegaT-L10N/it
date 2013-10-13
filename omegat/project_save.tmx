@@ -16382,6 +16382,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174348Z" creationid="valtermura" creationdate="20131013T174348Z">
+        <seg>Opzioni tabella caratteri completamento automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100722T221949Z">
@@ -17380,6 +17388,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (manager dei rilasci), Kim Bruning, A
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T100337Z">
         <seg>Comme&amp;nti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174217Z" creationid="valtermura" creationdate="20131013T174217Z">
+        <seg>Commento</seg>
       </tuv>
     </tu>
     <tu>
@@ -18975,6 +18991,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130521T084540Z">
         <seg>Identificativo cliente (Customer ID)&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174406Z" creationid="valtermura" creationdate="20131013T174406Z">
+        <seg>Personalizza tabella caratteri</seg>
       </tuv>
     </tu>
     <tu>
