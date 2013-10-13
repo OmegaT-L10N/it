@@ -55068,6 +55068,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T175134Z" creationid="valtermura" creationdate="20131013T175134Z">
+        <seg>Prima di generare i file tradotti, premere dunque &lt;k0&gt;Ctrl+Maiusc+V&lt;/k0&gt; per verificare che i tag siano corretti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+T&lt;/k0&gt; before you generate your translated file, to validate that your tags are correct.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120513T214929Z">
