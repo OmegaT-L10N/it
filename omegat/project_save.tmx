@@ -968,6 +968,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174111Z" creationid="valtermura" creationdate="20131013T174111Z">
+        <seg>&amp;Carica...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Lower Case</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T190348Z">
@@ -1228,6 +1236,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T094716Z">
         <seg>&amp;Salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174115Z" creationid="valtermura" creationdate="20131013T174115Z">
+        <seg>&amp;Salva...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14796,6 +14812,22 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174130Z" creationid="valtermura" creationdate="20131013T174035Z">
+        <seg>Configurazione testo automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174146Z" creationid="valtermura" creationdate="20131013T174146Z">
+        <seg>File testo automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T205736Z">
@@ -19619,6 +19651,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174104Z" creationid="valtermura" creationdate="20131013T174104Z">
+        <seg>Visualizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;All</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T190832Z">
@@ -21593,6 +21633,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20130107T183755Z">
         <seg>Se si inserisce qui un'espressione regolare, OmegaT considererà le istanze individuate come un tag personalizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174107Z" creationid="valtermura" creationdate="20131013T174107Z">
+        <seg>Voci</seg>
       </tuv>
     </tu>
     <tu>
@@ -24476,6 +24524,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191623Z">
         <seg>Percorso completo della TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174207Z" creationid="valtermura" creationdate="20131013T174207Z">
+        <seg>Testo completo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46004,6 +46060,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174201Z" creationid="valtermura" creationdate="20131013T174201Z">
+        <seg>Scorciatoia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100731T092656Z">
@@ -46672,6 +46736,30 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T164535Z">
         <seg>A volte può risultare utile distinguere tra memorie di traduzione di alta qualità e quelle, a causa dell'argomento, il cliente, lo stato di revisione e via discorrendo, meno affidabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort alphabetically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173923Z" creationid="valtermura" creationdate="20131013T173923Z">
+        <seg>Ordina alfabeticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174215Z" creationid="valtermura" creationdate="20131013T174026Z">
+        <seg>Ordina per testo completo, non per scorciatoia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by length</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173912Z" creationid="valtermura" creationdate="20131013T173912Z">
+        <seg>Ordina per lunghezza</seg>
       </tuv>
     </tu>
     <tu>
@@ -59761,6 +59849,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T115809Z">
         <seg>Impossibile leggere il file del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174155Z" creationid="valtermura" creationdate="20131013T174155Z">
+        <seg>Impossibile salvare i dati.</seg>
       </tuv>
     </tu>
     <tu>
