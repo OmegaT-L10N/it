@@ -12274,6 +12274,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174609Z" creationid="valtermura" creationdate="20131013T174609Z">
+        <seg>Aggiungi caratteri alla tabella personalizzata facendo doppio clic o evidenziando e premendo il tasto Ins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20121223T194013Z">
@@ -13070,6 +13078,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110718T102156Z">
         <seg>Consenti traduzioni vuote nei file tradotti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174635Z" creationid="valtermura" creationdate="20131013T174635Z">
+        <seg>Permetti solo caratteri univoci</seg>
       </tuv>
     </tu>
     <tu>
@@ -16790,6 +16806,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174640Z" creationid="valtermura" creationdate="20131013T174640Z">
+        <seg>Azzera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T103610Z">
@@ -18959,6 +18983,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100610T165543Z">
         <seg>Attualmente, OmegaT è in grado di riconoscere i seguenti formati di file di solo testo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174623Z" creationid="valtermura" creationdate="20131013T174623Z">
+        <seg>Tabella personalizzata</seg>
       </tuv>
     </tu>
     <tu>
@@ -24548,6 +24580,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130415T191623Z">
         <seg>Percorso completo della TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T174617Z" creationid="valtermura" creationdate="20131013T174617Z">
+        <seg>Tabella completa</seg>
       </tuv>
     </tu>
     <tu>
