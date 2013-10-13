@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -584,6 +584,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-text...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T171648Z" creationid="valtermura" creationdate="20131013T171648Z">
+        <seg>Testo &amp;automatico...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T121858Z">
@@ -628,6 +636,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T092831Z">
         <seg>&amp;Annulla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Character table...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T171700Z" creationid="valtermura" creationdate="20131013T171700Z">
+        <seg>Tabella &amp;caratteri...</seg>
       </tuv>
     </tu>
     <tu>
@@ -820,6 +836,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20111204T223633Z">
         <seg>&amp;Glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary...</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T171623Z" creationid="valtermura" creationdate="20131013T171623Z">
+        <seg>&amp;Glossario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12046,6 +12070,14 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101114T115147Z">
         <seg>Tag complessi&amp;vi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T171618Z" creationid="valtermura" creationdate="20131013T171618Z">
+        <seg>Completamento a&amp;utomatico</seg>
       </tuv>
     </tu>
     <tu>
@@ -63688,6 +63720,14 @@ to link it from there.</seg>
         <seg>You can create glossary entries with Create Glossary Entry in the Edit  menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120401T092851Z">
+        <seg>È possibile creare voci di glossario tramite il comando "Crea voce di glossario" nel menu Modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T171818Z" creationid="valtermura" creationdate="20131013T171818Z">
         <seg>È possibile creare voci di glossario tramite il comando "Crea voce di glossario" nel menu Modifica.</seg>
       </tuv>
     </tu>
