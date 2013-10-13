@@ -19893,8 +19893,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173437Z" creationid="valtermura" creationdate="20131013T173437Z">
-        <seg>Mostra le voci nel modo "&lt;target&gt; → &lt;source&gt;"</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173511Z" creationid="valtermura" creationdate="20131013T173437Z">
+        <seg>Mostra le voci nel modo "&lt;arrivo&gt; → &lt;partenza&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -46094,16 +46094,24 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Show longer target terms first</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172945Z" creationid="valtermura" creationdate="20131013T172945Z">
-        <seg>Mostra prima i termini di destinazione più lunghi</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173458Z" creationid="valtermura" creationdate="20131013T172945Z">
+        <seg>Mostra prima i termini di arrivo più lunghi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show source term first</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173523Z" creationid="valtermura" creationdate="20131013T173523Z">
+        <seg>Mostra prima il termine di partenza</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Show target term first</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173353Z" creationid="valtermura" creationdate="20131013T173353Z">
-        <seg>Mostra prima il termine di destinazione</seg>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173452Z" creationid="valtermura" creationdate="20131013T173353Z">
+        <seg>Mostra prima il termine di arrivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48634,6 +48642,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20120515T205427Z">
         <seg>I termini del segmento corrente che &lt;a3&gt;OmegaT&lt;/a3&gt; reperisce all'interno del/dei file di glossario vengono visualizzati all'interno del pannello “Glossario” della schermata principale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173603Z" creationid="valtermura" creationdate="20131013T173603Z">
+        <seg>Termini con più significati</seg>
       </tuv>
     </tu>
     <tu>
