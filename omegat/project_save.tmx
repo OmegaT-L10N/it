@@ -21557,6 +21557,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T171927Z" creationid="valtermura" creationdate="20131013T171903Z">
+        <seg>Le voci provenienti dal glossario modificabile sono in grassetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entries with modified tags</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T101204Z">
@@ -21618,6 +21626,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20110125T230721Z">
         <seg>Errore durante la decodifica dell'utente e la password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error extracting MT result from MyMemory, response:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172154Z" creationid="valtermura" creationdate="20131013T172154Z">
+        <seg>Errore durante l'estrazione del risultato di traduzione automatica da MyMemory; risposta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35407,6 +35423,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       </tuv>
       <tuv lang="IT-IT" changeid="MELO" changedate="20130512T215253Z">
         <seg>MyMemory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T171953Z" creationid="valtermura" creationdate="20131013T171953Z">
+        <seg>MyMemory (umano)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172011Z" creationid="valtermura" creationdate="20131013T172011Z">
+        <seg>MyMemory (automatico)</seg>
       </tuv>
     </tu>
     <tu>
