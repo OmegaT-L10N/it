@@ -23110,6 +23110,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173901Z" creationid="valtermura" creationdate="20131013T173901Z">
+        <seg>Segui l'uso delle maiuscole del testo digitato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow the indications given in Hints for tags management.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100609T210552Z">
