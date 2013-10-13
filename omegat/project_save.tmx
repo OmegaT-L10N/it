@@ -19683,6 +19683,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display source terms</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172533Z" creationid="valtermura" creationdate="20131013T172533Z">
+        <seg>Mostra i termini di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays &lt;a0&gt;File filters&lt;/a0&gt; dialogue to configure file handling and parsing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T231229Z">
@@ -26648,6 +26656,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T224947Z">
         <seg>Se si seleziona l'opzione, i segmenti di origine verrano mostrati e saranno evidenziati in verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173042Z" creationid="valtermura" creationdate="20131013T173042Z">
+        <seg>Se l'opzione è attivata, le voci più lunghe saranno inserite all'inizio dell'elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46052,6 +46068,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show longer target terms first</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172945Z" creationid="valtermura" creationdate="20131013T172945Z">
+        <seg>Mostra prima i termini di destinazione più lunghi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows &lt;a0&gt;Font settings&lt;/a0&gt; dialogue to modify the text display font.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Valter Mura" changedate="20100620T230848Z">
@@ -46600,6 +46624,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valtermura" changedate="20130413T164535Z">
         <seg>A volte può risultare utile distinguere tra memorie di traduzione di alta qualità e quelle, a causa dell'argomento, il cliente, lo stato di revisione e via discorrendo, meno affidabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term alphabetically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T173116Z" creationid="valtermura" creationdate="20131013T173116Z">
+        <seg>Ordina alfabeticamente per termine di partenza</seg>
       </tuv>
     </tu>
     <tu>
@@ -61850,6 +61882,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T192029Z">
         <seg>In presenza di un'altra finestra di dialogo in primo piano, fare clic sulla finestra principale per portarla in primo piano, oppure premere &lt;c0&gt;&lt;s1&gt;Esc&lt;/s1&gt;&lt;/c0&gt; per chiudere la finestra sovrapposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131013T172908Z" creationid="valtermura" creationdate="20131013T172908Z">
+        <seg>Se l'opzione è attivata, le voci, nella vista di completamento automatico del glossario, conterranno anche il testo di partenza.</seg>
       </tuv>
     </tu>
     <tu>
