@@ -18267,6 +18267,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131108T194320Z" creationid="valtermura" creationdate="20131108T194320Z">
+        <seg>Crea il &amp;documento tradotto corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20101212T182343Z">
@@ -61766,6 +61774,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100714T150925Z">
         <seg>Attenzione alla riga {0}, colonna {1} durante l'analisi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131108T194353Z" creationid="valtermura" creationdate="20131108T194353Z">
+        <seg>Attenzione!</seg>
       </tuv>
     </tu>
     <tu>
