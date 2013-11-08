@@ -63689,6 +63689,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="valtermura" changedate="20131108T201412Z" creationid="valtermura" creationdate="20131108T201412Z">
+        <seg>Si sta tentando di usare HunspellTokenizer con la lingua {0}, ma non sono presenti dizionari ortografici per tale lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="valter" changedate="20100715T122040Z">
