@@ -1115,6 +1115,14 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Page 2 of 2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071042Z" creationid="MELO46" creationdate="20140710T071042Z">
+        <seg>(Page 2 of 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Record as described above, but only recording the command Ctrl+C followed by Ctrl+V.) You can then highlight text between the points at which formatting changes.</seg>
       </tuv>
     </tu>
@@ -2230,6 +2238,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>50 REM is 3,500 times 15 millirem (.015) and even 50 is lower than the &lt;a4&gt;100 REM threshold&lt;/a4&gt; commonly used for radiation sickness.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070826Z" creationid="MELO46" creationdate="20140710T070826Z">
+        <seg>50 REM è di 3.500 volte 15 millirem (.015) e addirittura 50 è inferiore alla &lt;a4&gt;100 Soglia REM&lt;/a4&gt; comunemente usato per malattie da radiazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
     </tu>
@@ -2501,6 +2517,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Jon Basil Utley&lt;/a0&gt; | May 7, 2013</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070456Z" creationid="MELO46" creationdate="20140710T070456Z">
+        <seg>&lt;a0&gt;Jon Basil Utley&lt;/a0&gt; | 7 maggio 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Language codes&lt;/a0&gt;, &lt;a1&gt;Languages&lt;/a1&gt;</seg>
       </tuv>
     </tu>
@@ -2712,6 +2736,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
     <tu>
       <tuv lang="EN">
         <seg>&lt;a1&gt;Download it from www.opera.com&lt;/a1&gt; (or for Linux users: through your distribution's repository).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;FEMA&lt;/a1&gt; (Federal Emergency Management Administration) removed its initial post-9/11 instructions to just run away from any radiation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070727Z" creationid="MELO46" creationdate="20140710T070727Z">
+        <seg>&lt;a1&gt;FEMA&lt;/a1&gt; (Federal Emergency Management Administration) rimosso le istruzioni post-9/11 iniziali di correre solo lontano dalle radiazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3851,6 +3883,22 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Do not change any other settings, for the purposes of this tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Forbes&lt;/f0&gt; magazine &lt;a1&gt;recently explained&lt;/a1&gt; how LNT does not take the immune system into account:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070958Z" creationid="MELO46" creationdate="20140710T070958Z">
+        <seg>&lt;f0&gt;Forbes&lt;/f0&gt; rivista &lt;a1&gt;recentemente spiegato&lt;/a1&gt; come LNT non tiene il sistema immunitario in considerazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Forbes&lt;/f0&gt;’ detailed article further explains: "UNSCEAR also found no observable health effects from last year’s nuclear accident in Fukushima.  No effects.  The Japanese people can start eating their own food again, and moving back into areas only lightly contaminated with radiation levels that are similar to background in many areas of the world like Colorado and Brazil."</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071035Z" creationid="MELO46" creationdate="20140710T071035Z">
+        <seg>&lt;f0&gt;Forbes&lt;/f0&gt;'Dettagliato articolo spiega ulteriormente:. ». UNSCEAR anche scoperto effetti sulla salute osservabili dello scorso anno incidente nucleare di Fukushima Nessun effetto Il popolo giapponese può ricominciare a mangiare il proprio cibo, e spostando indietro in aree solo leggermente contaminate, con livelli di radiazioni che sono simili di sfondo in molte aree del mondo come il Colorado e il Brasile. "</seg>
       </tuv>
     </tu>
     <tu>
@@ -7159,6 +7207,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f2&gt;Scientific American&lt;/f2&gt; &lt;a3&gt;article&lt;/a3&gt; explained how Japanese authorities ordered evacuation of anybody living within 20 kilometers of the stricken plant and told those within 30 kilometers to take shelter and stay indoors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070640Z" creationid="MELO46" creationdate="20140710T070640Z">
+        <seg>La &lt;f2&gt;Scientific American&lt;/f2&gt;&lt;a3&gt;articolo&lt;/a3&gt; spiegato come autorità giapponesi ordinato l'evacuazione di nessuno che vivono entro 20 km della pianta colpita e ha detto quelle raggio di 30 chilometri a rifugiarsi e stare in casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a "translation memory" (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
       </tuv>
     </tu>
@@ -7185,6 +7241,14 @@ echo $standard_name
     <tu>
       <tuv lang="EN">
         <seg>A character in the Greek block (simple &lt;a0&gt; block&lt;/a0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A city could be put in chaos.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071057Z" creationid="MELO46" creationdate="20140710T071057Z">
+        <seg>Una città potrebbe essere messo nel caos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7405,6 +7469,14 @@ echo $standard_name
     <tu>
       <tuv lang="EN">
         <seg>A pseudo-translated memory can be generated with the following command line parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A recent &lt;f0&gt;New York Times&lt;/f0&gt; report, “&lt;a1&gt;U.S.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070503Z" creationid="MELO46" creationdate="20140710T070503Z">
+        <seg>Un recente &lt;f0&gt;New York Times&lt;/f0&gt; relazione, "&lt;a1&gt;Stati Uniti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7657,6 +7729,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actual radiation sickness begins at &lt;a0&gt;exposure of 100 REM&lt;/a0&gt;, some 50 times the risk used to evacuate Japanese civilians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070558Z" creationid="MELO46" creationdate="20140710T070558Z">
+        <seg>Malattia da radiazioni effettiva inizia &lt;a0&gt;esposizione di 100 REM&lt;/a0&gt;, Circa 50 volte il rischio utilizzato per evacuare i civili giapponesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add OmegaT to the Dock by dragging and dropping the file &lt;e0&gt;OmegaT.app&lt;/e0&gt; on the Dock.</seg>
       </tuv>
     </tu>
@@ -7842,6 +7922,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After Hiroshima, victims not killed actually lived longer than average life spans.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070846Z" creationid="MELO46" creationdate="20140710T070846Z">
+        <seg>Dopo Hiroshima, vittime non uccise realmente vissuto più a lungo della vita media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After a bad manipulation:</seg>
       </tuv>
     </tu>
@@ -7958,6 +8046,14 @@ echo $standard_name
     <tu>
       <tuv lang="EN">
         <seg>After selecting and installing a suitable browser (and/or the required add-on), open your translated file in the /target folder of your project:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the 2011 Fukushima nuclear accident, Japan, following conventional guidelines, evacuated 160,000 persons from their homes, based on &lt;a0&gt;exposure levels of 2 REM&lt;/a0&gt; (a REM is the unit of measure used to gauge radiation damage to human tissue).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070545Z" creationid="MELO46" creationdate="20140710T070545Z">
+        <seg>Dopo l'incidente nucleare di Fukushima 2011, il Giappone, seguendo le linee guida convenzionali, evacuate 160.000 persone dalle loro case, sulla base di &lt;a0&gt;livelli di esposizione di 2 REM&lt;/a0&gt; (A REM è l'unità di misura utilizzata per misurare danni da radiazioni di tessuti umani).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8247,6 +8343,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also EPA &lt;a3&gt;still uses the 15 millirem limits&lt;/a3&gt; for superfund cleanups, thus adding hundreds of millions, if not billions, of dollars to the costs of such work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070818Z" creationid="MELO46" creationdate="20140710T070818Z">
+        <seg>Anche EPA &lt;a3&gt;utilizza ancora il 15 limiti millirem&lt;/a3&gt; per pulizie Superfund, aggiungendo così centinaia di milioni, se non miliardi, di dollari per i costi di tale lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also allow per-project external commands</seg>
       </tuv>
     </tu>
@@ -8258,6 +8362,14 @@ echo $standard_name
     <tu>
       <tuv lang="EN">
         <seg>Also supported is the CSV format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, one can spend hours on the Homeland Security website looking in vain for similar information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070741Z" creationid="MELO46" creationdate="20140710T070741Z">
+        <seg>Inoltre, si possono trascorrere ore sul sito Homeland Security cerca invano informazioni simili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8388,6 +8500,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although rarely discussed, LNT does not take into account the organisms immune system, biological recovery time between doses or other relevant mechanisms that operate at low doses on an actual organism versus cells in a petri dish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071029Z" creationid="MELO46" creationdate="20140710T071029Z">
+        <seg>Anche se raramente discusso, LNT non tiene conto del sistema immunitario organismi, tempo di recupero biologico tra le dosi o altri meccanismi pertinenti che operano a basse dosi su un organismo effettivi rispetto cellule in una capsula di Petri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although this has many advantages, it can be very useful for the translator to be able to see the ultimate layout and formatting whilst translating.</seg>
       </tuv>
     </tu>
@@ -8499,6 +8619,14 @@ OmegaT.exe.</seg>
     <tu>
       <tuv lang="EN">
         <seg>An example...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An excellent little book titled &lt;a0&gt;&lt;f1&gt;Under-Exposed&lt;/f1&gt;&lt;/a0&gt; describes radiation effects (and even the medical benefits of low doses) in great detail.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071125Z" creationid="MELO46" creationdate="20140710T071125Z">
+        <seg>Un eccellente piccolo libro intitolato &lt;a0&gt;&lt;f1&gt;Sottoesposta&lt;/f1&gt;&lt;/a0&gt; descrive gli effetti delle radiazioni (e anche i benefici medici di basse dosi) in grande dettaglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8676,6 +8804,14 @@ The TMX file will not be loaded.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another link &lt;a3&gt;shows specific health effects&lt;/a3&gt; from different radiation levels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071135Z" creationid="MELO46" creationdate="20140710T071135Z">
+        <seg>Un altro collegamento &lt;a3&gt;mostra specifici effetti sulla salute&lt;/a3&gt; da diversi livelli di radiazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8916,6 +9052,14 @@ The TMX file will not be loaded.</seg>
     <tu>
       <tuv lang="EN">
         <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As &lt;f1&gt;The New York Times&lt;/f1&gt; story cited above notes, Washington has so far failed to adjust its radiation danger thresholds.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070922Z" creationid="MELO46" creationdate="20140710T070922Z">
+        <seg>Come &lt;f1&gt;Il New York Times&lt;/f1&gt; storia citata nota, Washington ha finora omesso di adeguare le proprie soglie di pericolo radiazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9849,12 +9993,28 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But in fact those environmentalists may simply fear that a realistic radiation threat analysis could start unwinding much of their general activism against the use of nuclear power.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070804Z" creationid="MELO46" creationdate="20140710T070804Z">
+        <seg>Ma in realtà quei ambientalisti possono semplicemente temere che una realistica analisi della minaccia radiazioni potrebbe iniziare svolgimento molto del loro attivismo contro l'uso dell'energia nucleare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But it will at least stay at the same point in the text when the view is updated.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But these limits came into effect after World War 2 when scientists knew little about radiation’s threat to human beings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070840Z" creationid="MELO46" creationdate="20140710T070840Z">
+        <seg>Ma questi limiti sono entrate in vigore dopo la seconda guerra mondiale, quando due scienziati sapevano poco di minaccia di radiazioni per gli esseri umani.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9980,6 +10140,14 @@ documentation.</seg>
     <tu>
       <tuv lang="EN">
         <seg>By deleting a tag group you will remove the related formatting from the translated file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By such reasoning any tiny amount of radiation will kill some number of people out of every million exposed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070949Z" creationid="MELO46" creationdate="20140710T070949Z">
+        <seg>Con tale ragionamento qualsiasi piccola quantità di radiazione ucciderà qualche numero di persone da ogni milione esposto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12766,6 +12934,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double the dose, double the cancers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071010Z" creationid="MELO46" creationdate="20140710T071010Z">
+        <seg>Raddoppiare la dose, raddoppiare i tumori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on &lt;e0&gt;OmegaT.app&lt;/e0&gt; or click on its location in the Dock</seg>
       </tuv>
     </tu>
@@ -13743,6 +13919,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even today, Washington shies away from declaring what amount of radiation is dangerous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070722Z" creationid="MELO46" creationdate="20140710T070722Z">
+        <seg>Ancora oggi, Washington evita di dichiarare la quantità di radiazione è pericolosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
     </tu>
@@ -13784,6 +13968,14 @@ launch script.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Every call of the &lt;s5&gt; Search&lt;/s5&gt; window creates its own new window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every crisis can become an excuse for Congress to loot the American treasury, impose new taxes, and grow the power and intrusiveness of government.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070529Z" creationid="MELO46" creationdate="20140710T070529Z">
+        <seg>Ogni crisi può diventare una scusa per il Congresso di saccheggiare il tesoro americano, imporre nuove tasse, e far crescere la potenza e invadenza del governo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14438,6 +14630,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First put forward after WWII by Hermann Muller, and adopted by the world body, including UNSCEAR, its primary use was as a Cold War bargaining chip to force cessation of nuclear weapons testing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071016Z" creationid="MELO46" creationdate="20140710T071016Z">
+        <seg>Prima ha messo in avanti dopo la seconda guerra mondiale da Hermann Muller, e adottato dal corpo del mondo, tra cui UNSCEAR, il suo uso principale era come merce di scambio Guerra Fredda per forzare la cessazione dei test di armi nucleari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
@@ -14684,6 +14884,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For converting different measurements in the confusing world of radiation herewith is a very useful &lt;a2&gt;chart calculator&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071129Z" creationid="MELO46" creationdate="20140710T071129Z">
+        <seg>Per convertire misure diverse nel mondo confuso di radiazioni è presente una molto utile &lt;a2&gt;calcolatore grafico&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details of the tag handling rules, refer to the User's Manual.</seg>
       </tuv>
     </tu>
@@ -14794,6 +15002,22 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, EPA still uses the 15 millirem limits for other issues, such as for residents in the vicinity of the Yucca Mountain waste storage site in Nevada.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070814Z" creationid="MELO46" creationdate="20140710T070814Z">
+        <seg>Ad esempio, EPA utilizza ancora i limiti di 15 millirem per altri problemi, come ad esempio per i residenti nelle vicinanze del sito di stoccaggio di rifiuti Yucca Mountain in Nevada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, LNT deducts that, if falling 100 feet onto concrete is invariably fatal, then out of 10,000 people falling one inch, 10 of them will die from the fall.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070936Z" creationid="MELO46" creationdate="20140710T070936Z">
+        <seg>Ad esempio, LNT deduce che, se cade a 100 metri sul cemento è invariabilmente fatale, quindi su 10.000 persone di cui un pollice, 10 di loro moriranno dalla caduta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
     </tu>
@@ -14880,6 +15104,14 @@ Tutorial.</seg>
     <tu>
       <tuv lang="EN">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the United Nations Scientific Committee on the Effects of Atomic Radiation has finally admitted that we can't use the LNT hypothesis to predict cancer from low doses of radiation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071122Z" creationid="MELO46" creationdate="20140710T071122Z">
+        <seg>Per esempio, il Comitato scientifico delle Nazioni Unite sugli effetti delle radiazioni atomiche ha finalmente ammesso che non possiamo usare l'ipotesi LNT per predire il cancro da basse dosi di radiazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15056,6 +15288,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     <tu>
       <tuv lang="EN">
         <seg>For other kind of contributions, subscribe first to the user group at:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For perspective consider that the average American is &lt;a0&gt;exposed to 360 millirems&lt;/a0&gt; (.360 REM) per year while pilots and residents of high cities, such as Denver, get &lt;a1&gt;.920 REM&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070632Z" creationid="MELO46" creationdate="20140710T070632Z">
+        <seg>Per la prospettiva ritengono che l'americano medio è &lt;a0&gt;esposto a 360 millirems&lt;/a0&gt; (.360 REM) all'anno, mentre i piloti e gli abitanti delle alte città come Denver, si &lt;a1&gt;0,920 REM&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15987,6 +16227,14 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>He said that the consequence of a dirty bomb the size of the devices used in Boston would contaminate a large part of the city, devastating its economic life with major evacuations of population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070757Z" creationid="MELO46" creationdate="20140710T070757Z">
+        <seg>Ha detto che la conseguenza di una bomba sporca le dimensioni dei dispositivi utilizzati in Boston potrebbe contaminare gran parte della città, devastante sua vita economica con importanti evacuazioni di popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
     </tu>
@@ -16277,6 +16525,14 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However even this risk can be minimized by staying indoors and closing windows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070603Z" creationid="MELO46" creationdate="20140710T070603Z">
+        <seg>Tuttavia, anche questo rischio può essere minimizzato da stare in casa e chiudere le finestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, OmegaT does not &lt;i0&gt;fully&lt;/i0&gt; support imported level 2 TMX files (that store not only the translation, but also the formatting), so the quality of fuzzy matches will be a bit lower when importing level 2 TMX files.</seg>
       </tuv>
     </tu>
@@ -16303,6 +16559,14 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
     <tu>
       <tuv lang="EN">
         <seg>However, as the program is being given away and not sold commercially, there are no resources available to pay for translations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, even today I can’t find any specifics &lt;a2&gt;on the FEMA website&lt;/a2&gt; about what level of radiation starts to be dangerous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070737Z" creationid="MELO46" creationdate="20140710T070737Z">
+        <seg>Tuttavia, ancora oggi non riesco a trovare eventuali specifiche &lt;a2&gt;sul sito FEMA&lt;/a2&gt; quale livello di radiazione comincia a essere pericoloso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16413,6 +16677,14 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
     <tu>
       <tuv lang="EN">
         <seg>I don't know:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I first learned about this reality from attending meetings of &lt;a0&gt;Doctors for Disaster Preparedness&lt;/a0&gt;, run by the wise Dr. Jane Orient.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071103Z" creationid="MELO46" creationdate="20140710T071103Z">
+        <seg>Ho imparato a conoscere questa realtà a partecipare alle riunioni &lt;a0&gt;Medici di preparazione alle catastrofi&lt;/a0&gt;, Gestito dalla sapiente Dr. Jane Orient.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18312,6 +18584,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Imagine the problems that would arise from police and firemen running away from a dirty bomb attack based on false information about exposure to low doses of radiation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071051Z" creationid="MELO46" creationdate="20140710T071051Z">
+        <seg>Immaginate i problemi che potrebbero derivare da polizia e vigili del fuoco fuggendo da un attacco bomba sporca sulla base di false informazioni circa l'esposizione a basse dosi di radiazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Immediate preview of the selected font.</seg>
       </tuv>
     </tu>
@@ -18393,6 +18673,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     <tu>
       <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In March the EPA &lt;a0&gt;posted&lt;/a0&gt; new, much higher potential guidelines for commentary and &lt;t1/&gt;environmentalists promptly attacked them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070759Z" creationid="MELO46" creationdate="20140710T070759Z">
+        <seg>Nel mese di marzo l'EPA &lt;a0&gt;pubblicato&lt;/a0&gt; nuovi orientamenti potenziali molto più elevati per il commento e &lt;t1/&gt;ambientalisti prontamente attaccati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18758,6 +19046,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     <tu>
       <tuv lang="EN">
         <seg>In quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In response to the EPA’s March announcement, for instance, one leading environmentalist website immediately &lt;a0&gt;attacked the agency&lt;/a0&gt; and came out against any modification to the government’s radiation rules.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070902Z" creationid="MELO46" creationdate="20140710T070902Z">
+        <seg>In risposta a marzo l'annuncio del EPA, per esempio, un sito web leader ambientalista subito &lt;a0&gt;attaccato l'agenzia&lt;/a0&gt; ed è venuto fuori contro qualsiasi modifica alle regole di radiazione del governo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19318,6 +19614,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially, the old EPA limit may have been supposed to help ward off the threat of cancer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070836Z" creationid="MELO46" creationdate="20140710T070836Z">
+        <seg>Inizialmente, il vecchio limite EPA potrebbe essere stato supposto per aiutare a scongiurare la minaccia del cancro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
       </tuv>
     </tu>
@@ -19672,6 +19976,14 @@ Simply launch the installation program.</seg>
     <tu>
       <tuv lang="EN">
         <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also reported that the U.S.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070646Z" creationid="MELO46" creationdate="20140710T070646Z">
+        <seg>Ha inoltre riferito che gli Stati Uniti</seg>
       </tuv>
     </tu>
     <tu>
@@ -20571,6 +20883,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LNT is how the government came up with many of its dubious risk guidelines for chemicals and minerals—all while scientific research has progressed to the point where we can actually measure parts per billion, thus creating fear that almost any product may be dangerous.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070954Z" creationid="MELO46" creationdate="20140710T070954Z">
+        <seg>LNT è come il governo si avvicinò con molti dei suoi orientamenti rischio dubbie per i prodotti chimici e minerali, il tutto mentre la ricerca scientifica è progredita al punto in cui possiamo realmente misurare parti per miliardo, creando così paura che quasi ogni prodotto può essere pericoloso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LTR &amp; RTL strings in segments</seg>
       </tuv>
     </tu>
@@ -20717,6 +21037,14 @@ itself on the first run.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Later calls do not need to be online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Later the Japanese government &lt;a1&gt;raised the limit&lt;/a1&gt; for responders to 250 millisieverts (25 REM) from the initial 100 millisieverts (10 REM) which was inhibiting emergency response.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070617Z" creationid="MELO46" creationdate="20140710T070617Z">
+        <seg>In seguito il governo giapponese &lt;a1&gt;sollevato il limite&lt;/a1&gt; per i soccorritori a 250 millisievert (25 REM) dalle iniziali 100 millisievert (10 REM) che è stato inibendo la risposta alle emergenze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21617,6 +21945,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many EPA critics believe it is due to the agency not wanting to provoke criticism by extreme environmentalists, who appear to oppose almost any measures that would lessen public worry about “nukes.” Many environmentalists do indeed stoke fears in order to prevent the establishment of new nuclear electric energy plants and to promote universal nuclear disarmament.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070858Z" creationid="MELO46" creationdate="20140710T070858Z">
+        <seg>Molti critici EPA credono che sia dovuto alla agenzia non voler provocare critiche dagli ambientalisti estremi, che sembrano opporsi quasi tutte le misure che potrebbero diminuire la preoccupazione del pubblico di "armi nucleari." Molti ambientalisti fanno paura anzi Stoke al fine di evitare la creazione di nuove impianti di energia elettrica nucleare e per promuovere il disarmo nucleare universale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
     </tu>
@@ -22273,6 +22609,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     <tu>
       <tuv lang="EN">
         <seg>Multiple Translations pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>My 2005 article “&lt;a0&gt;Radiation Limits, Dirty Bombs and Chaos&lt;/a0&gt;” described much about nuclear radiation dangers, how to protect oneself, and about the wrong advice given by government agencies.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070713Z" creationid="MELO46" creationdate="20140710T070658Z">
+        <seg>Il mio articolo del 2005 "&lt;a0&gt;Limiti di radiazioni, bombe sporche e Chaos&lt;/a0&gt;"Descritta molto circa i pericoli di radiazioni nucleari, come proteggere se stessi, e per la consulenza sbagliata data da agenzie governative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23143,6 +23487,22 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     <tu>
       <tuv lang="EN">
         <seg>Nr, Date created etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nuclear Regulatory Commission then recommended that any American within 80 kilometers evacuate the area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070654Z" creationid="MELO46" creationdate="20140710T070654Z">
+        <seg>Nuclear Regulatory Commission ha quindi raccomandato che ogni americano nel raggio di 80 km evacuare la zona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nuclear radiation, fanned by media-generated panic and ignorance, is always at the top of the list of most feared events and is therefore an area particularly open to government overreaction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070534Z" creationid="MELO46" creationdate="20140710T070534Z">
+        <seg>Radiazioni nucleari, alimentata dal panico e l'ignoranza dei media generati, è sempre in cima alla lista degli eventi più temuto ed è quindi una zona particolarmente aperto alla reazione eccessiva del governo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25167,6 +25527,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or if 100 aspirin is a fatal does, then out of 100 people each taking one aspirin, one of them will die.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070943Z" creationid="MELO46" creationdate="20140710T070943Z">
+        <seg>Oppure, se 100 l'aspirina è un fatale fa, poi di 100 persone ogni prendendo una aspirina, uno di loro morirà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or if you are translating from Turkish, it might now be:</seg>
       </tuv>
     </tu>
@@ -26679,6 +27047,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recent hearings by the House Homeland Security Subcommittee focused on the possibility of the Boston bombing attack having been a radiological one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070746Z" creationid="MELO46" creationdate="20140710T070746Z">
+        <seg>Audizioni recenti della Casa Homeland Security sottocommissione concentrati sulla possibilità di bombardamento Boston essendo stato uno radiologica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recent versions of OpenOffice.org are able to convert between Microsoft Office 2007 and Open Document Format.</seg>
       </tuv>
     </tu>
@@ -27250,6 +27626,14 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Result:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rethinks How to Respond to Nuclear Disaster&lt;/a1&gt;,” offers a helpful reminder that the greatest threat from terrorism is often what Washington does in response, such as launching unnecessary foreign wars or clamping down on civil liberties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070520Z" creationid="MELO46" creationdate="20140710T070520Z">
+        <seg>Ripensa Come rispondere a disastri nucleari&lt;/a1&gt;, "Vi offre un utile promemoria che la più grande minaccia del terrorismo è spesso ciò che fa Washington in risposta, come ad esempio il lancio di guerre straniere non necessari o reprimere le libertà civili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28799,6 +29183,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>She explained how after 9/11 she found that the Tuscon, Arizona fire department had been given radiation detectors showing 15 millirem as the threat level.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071106Z" creationid="MELO46" creationdate="20140710T071106Z">
+        <seg>Ha spiegato come, dopo l'11/9 ha trovato che i vigili del fuoco Tucson, in Arizona era stato dato rivelatori di radiazione che mostra 15 millirem come il livello di minaccia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>She herself then provided them with more realistic detectors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071112Z" creationid="MELO46" creationdate="20140710T071112Z">
+        <seg>Lei stessa poi fornito loro rivelatori più realistici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>She then discovers that "abc" should be translated as "def".</seg>
       </tuv>
     </tu>
@@ -29120,6 +29520,14 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So far, this fear-mongering seems to be paying off.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070917Z" creationid="MELO46" creationdate="20140710T070917Z">
+        <seg>Finora, questo allarmismo sembra dare i primi frutti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30536,6 +30944,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terrorism and Radiation: Understanding the Real Threat To Our Cities</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070419Z" creationid="MELO46" creationdate="20140710T070220Z">
+        <seg>Terrorismo e radiazioni: comprendere la vera minaccia per la nostra città</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Test your translation (optional).</seg>
       </tuv>
     </tu>
@@ -30621,6 +31037,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thankfully, there is (slow) international progress in better understanding radiation risks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071117Z" creationid="MELO46" creationdate="20140710T071117Z">
+        <seg>Per fortuna, c'è (lento) progresso internazionale in meglio i rischi di radiazioni comprensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
     </tu>
@@ -30646,7 +31070,23 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That was the old ALARA (As Little Radiation As Possible) FEMA rule.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070734Z" creationid="MELO46" creationdate="20140710T070734Z">
+        <seg>Quello era il vecchio ALARA (As Piccolo Radiation As Possible) regola FEMA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That works well when the computer works in French for instance and the files are in English, or when the computer is German and you deal with get Italian files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That would be 7,000 times as high.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070832Z" creationid="MELO46" creationdate="20140710T070832Z">
+        <seg>Che sarebbe 7000 volte più alta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30657,6 +31097,14 @@ and then start OmegaT.</seg>
     <tu>
       <tuv lang="EN">
         <seg>That you have set the auto-refresh interval in the browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That’s the kind of panic response we might expect here in America if we get hit with a dirty bomb.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070706Z" creationid="MELO46" creationdate="20140710T070654Z">
+        <seg>Questo è il tipo di risposta di panico ci si potrebbe aspettare qui in America se ci ha colpito con una bomba sporca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30963,6 +31411,14 @@ current folder will be used instead.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The EPA’s long reliance on these levels weakens America’s civil defense.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070853Z" creationid="MELO46" creationdate="20140710T070853Z">
+        <seg>Lunga dipendenza dell'EPA su questi livelli indebolisce la difesa civile americana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32057,6 +32513,14 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The exaggerated threats from the Environmental Protection Agency guidelines are further exacerbated by the pervasive theory of Linear No-Threshold Dose Hypothesis (LNT), which extrapolates statistics to infinite, and frequently idiotic, extremes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070925Z" creationid="MELO46" creationdate="20140710T070925Z">
+        <seg>Le minacce esagerate alle indicazioni Environmental Protection Agency sono ulteriormente aggravate dalla teoria pervasiva di Linear No-Threshold Dose Ipotesi (LNT), che estrapola statistiche infinite, e spesso idiota, estremi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The example in the screenshot is the &lt;a0&gt;European Commission's SME user guide in Hungarian&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
@@ -32497,6 +32961,14 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The importance of understanding the real levels of radiation risk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070444Z" creationid="MELO46" creationdate="20140710T070444Z">
+        <seg>L'importanza di comprendere i reali livelli di rischio da radiazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The in-line formatting information made possible by the supported formats (at present DocBook, HTML, XHTML, Open Document, and OpenOffice.org) is presented as tags in OmegaT.</seg>
       </tuv>
     </tu>
@@ -32619,6 +33091,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     <tu>
       <tuv lang="EN">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The linear no-threshold dose hypothesis (LNT) does not apply to doses less than 10 rem, (note Japan’s evacuation above 2 Rem, Ed) which is the region encompassing background levels around the world, and is the region of most importance to nuclear energy, most medical procedures and most areas affected by accidents………– radiation doses less than about 10 rem (0.1 Sv) are no big deal.  LNT does not apply to doses less than 10 rem</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071002Z" creationid="MELO46" creationdate="20140710T071002Z">
+        <seg>La lineare ipotesi dose senza soglia (LNT) non si applica a dosi inferiori a 10 rem, (da notare l'evacuazione del Giappone sopra 2 Rem, ndr) che è la regione che comprende i livelli di fondo di tutto il mondo, ed è la regione più importanza al nucleare energia, la maggior parte delle procedure mediche e la maggior parte zone colpite da incidenti ......... - radiazioni dosi inferiori di circa 10 rem (0,1 Sv) sono un grosso problema. LNT non si applica a dosi inferiori a 10 rem</seg>
       </tuv>
     </tu>
     <tu>
@@ -33872,6 +34352,22 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The threat of homegrown terrorism is not going away.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071144Z" creationid="MELO46" creationdate="20140710T071144Z">
+        <seg>La minaccia del terrorismo interno non sta andando via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The threat of terrorism now makes it vital for American civil authorities to properly understand the real risks involved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071048Z" creationid="MELO46" creationdate="20140710T071048Z">
+        <seg>La minaccia del terrorismo rende ora di vitale importanza per le autorità civili americane per capire correttamente i rischi reali coinvolti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tmx file can be given any name you specify.</seg>
       </tuv>
     </tu>
@@ -35101,6 +35597,14 @@ configuration folder cannot be reliably determined.</seg>
     <tu>
       <tuv lang="EN">
         <seg>This especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This excessive caution all comes from old U.S.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070623Z" creationid="MELO46" creationdate="20140710T070623Z">
+        <seg>Questa eccessiva cautela tutto viene dal vecchio US</seg>
       </tuv>
     </tu>
     <tu>
@@ -36591,6 +37095,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To recap, LNT is a supposition that all radiation is deadly and there is no dose below which harmful effects will not occur.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071005Z" creationid="MELO46" creationdate="20140710T071005Z">
+        <seg>Per ricapitolare, LNT è una supposizione che tutte le radiazioni è mortale e non c'è la dose di sotto della quale non si verificano effetti nocivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
@@ -36862,6 +37374,14 @@ Kaptain.</seg>
     <tu>
       <tuv lang="EN">
         <seg>To use wild cards, make sure the option &lt;s2&gt;regular expressions&lt;/s2&gt; is not selected, otherwise these characters are interpreted as special regular expression characters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Today, however, there is &lt;a0&gt;a vast body of evidence&lt;/a0&gt; showing that low doses of radiation, up to 10 REM, build resistance to many diseases and prolong human life.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070843Z" creationid="MELO46" creationdate="20140710T070843Z">
+        <seg>Oggi, tuttavia, vi è &lt;a0&gt;un vasto corpo di prove&lt;/a0&gt; mostra che basse dosi di radiazioni, fino al 10 REM, costruire la resistenza a molte malattie e prolungare la vita umana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38654,6 +39174,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Washington must prevent future panics, unnecessary evacuations, and accompanying economic catastrophes by explaining to the American people the real levels of radiation risk</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071148Z" creationid="MELO46" creationdate="20140710T071148Z">
+        <seg>Washington deve impedire panico futuri, evacuazioni inutili, e le catastrofi economiche di accompagnamento spiegando al popolo americano i reali livelli di rischio da radiazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).</seg>
       </tuv>
     </tu>
@@ -39258,6 +39786,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While the EPA website now shows that health risks &lt;a2&gt;begin at 50 REM&lt;/a2&gt;, it still uses the old, lower numbers for its threat warnings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070811Z" creationid="MELO46" creationdate="20140710T070811Z">
+        <seg>Mentre il sito EPA ora mostra che i rischi di salute &lt;a2&gt;inizio alle 50 REM&lt;/a2&gt;, Si usa ancora i vecchi, i numeri più bassi per i suoi avvertimenti minacce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While the translation is progressing, additional files (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx and project_name-level2.tmx&lt;/f4&gt;) are created (and updated during the process of translation) in this folder.</seg>
       </tuv>
     </tu>
@@ -39811,6 +40347,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     <tu>
       <tuv lang="EN">
         <seg>Yes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yet &lt;a1&gt;not a single person died&lt;/a1&gt; and hardly any got ill, even among the emergency nuclear workers at the reactor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070549Z" creationid="MELO46" creationdate="20140710T070549Z">
+        <seg>Ancora &lt;a1&gt;non una sola persona è morta&lt;/a1&gt; e quasi nessuno si è ammalato, anche tra gli operai nucleari di emergenza al reattore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yet those hearings featured no discussion of different radiation danger thresholds, while New York’s Police Commissioner for Counter Terrorism &lt;a0&gt;described the threat&lt;/a0&gt; as if they still used the 15 millirem limit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070752Z" creationid="MELO46" creationdate="20140710T070752Z">
+        <seg>Eppure tali audizioni presenti nessuna discussione di diverse soglie di pericolo radiazioni, mentre il commissario di polizia di New York per Counter Terrorism &lt;a0&gt;descritto la minaccia&lt;/a0&gt; come se ancora usato il limite di 15 millirem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43021,6 +43573,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>limits of 15 millirem (.015 REM) which was considered the threat level of radiation for humans.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070629Z" creationid="MELO46" creationdate="20140710T070629Z">
+        <seg>limiti di 15 millirem (.015 REM) che è stato considerato il livello di minaccia delle radiazioni per l'uomo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>linguistic data for a growing number of language pairs</seg>
       </tuv>
     </tu>
@@ -44548,6 +45108,14 @@ create its configuration folder.</seg>
     <tu>
       <tuv lang="EN">
         <seg> If there's just one file with the expected name, then check its extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg> The fear of radiation that took over the worldview was a side-effect....</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T071024Z" creationid="MELO46" creationdate="20140710T071024Z">
+        <seg>La paura di radiazione che ha assunto la visione del mondo era un effetto collaterale ....</seg>
       </tuv>
     </tu>
     <tu>
