@@ -7731,8 +7731,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>Actual radiation sickness begins at &lt;a0&gt;exposure of 100 REM&lt;/a0&gt;, some 50 times the risk used to evacuate Japanese civilians.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="melo46" changedate="20140715T174958Z" creationid="MELO46" creationdate="20140710T070558Z">
-        <seg>La malattia da radiazioni effettiva inizia con una &lt;a0&gt;esposizione ad almeno 100 REM&lt;/a0&gt;, circa 50 volte il rischio utilizzato per evacuare i civili giapponesi. (</seg>
+      <tuv lang="IT-IT" changeid="melo46" changedate="20140715T223922Z" creationid="MELO46" creationdate="20140710T070558Z">
+        <seg>La malattia da radiazioni effettiva inizia con una &lt;a0&gt;esposizione ad almeno 100 REM&lt;/a0&gt;, circa 50 volte il rischio utilizzato per evacuare i civili giapponesi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40353,8 +40353,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Yet &lt;a1&gt;not a single person died&lt;/a1&gt; and hardly any got ill, even among the emergency nuclear workers at the reactor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="melo46" changedate="20140715T174923Z" creationid="MELO46" creationdate="20140710T070549Z">
-        <seg>Ancora &lt;a1&gt;non una sola persona è morta&lt;/a1&gt; e quasi nessuno si è ammalato, anche tra i tecnici operatori nucleari di emergenza al reattore (Quelli che in Italia da un inviato speciale della RAI, barricato a centinaia di chilometri di distanza, sono stati subito paragonati a "Kamikaze, vento divino", in modo da tranquillizzare i telespettatori che dovevano decidere di andare a votare al referendum).</seg>
+      <tuv lang="IT-IT" changeid="melo46" changedate="20140715T223821Z" creationid="MELO46" creationdate="20140710T070549Z">
+        <seg>Ancora &lt;a1&gt;non una sola persona è morta&lt;/a1&gt; e quasi nessuno si è ammalato, anche tra i tecnici operatori nucleari di emergenza al reattore (Quelli che in Italia da un inviato speciale della RAI, barricato a centinaia di chilometri di distanza, sono stati subito paragonati a "kamikaze, vento divino", in modo da tranquillizzare i telespettatori che dovevano decidere se andare a votare o meno al referendum; NdT).</seg>
       </tuv>
     </tu>
     <tu>
