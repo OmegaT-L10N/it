@@ -2240,8 +2240,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>50 REM is 3,500 times 15 millirem (.015) and even 50 is lower than the &lt;a4&gt;100 REM threshold&lt;/a4&gt; commonly used for radiation sickness.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070826Z" creationid="MELO46" creationdate="20140710T070826Z">
-        <seg>50 REM è di 3.500 volte 15 millirem (.015) e addirittura 50 è inferiore alla &lt;a4&gt;100 Soglia REM&lt;/a4&gt; comunemente usato per malattie da radiazioni.</seg>
+      <tuv lang="IT-IT" changeid="melo46" changedate="20140715T153001Z" creationid="MELO46" creationdate="20140710T070826Z">
+        <seg>50 REM è 3.500 volte 15 millirem (.015) e addirittura 50 è inferiore alla soglia di &lt;a4&gt;100 REM&lt;/a4&gt; comunemente usata per le malattie da radiazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7924,8 +7924,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>After Hiroshima, victims not killed actually lived longer than average life spans.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070846Z" creationid="MELO46" creationdate="20140710T070846Z">
-        <seg>Dopo Hiroshima, vittime non uccise realmente vissuto più a lungo della vita media.</seg>
+      <tuv lang="IT-IT" changeid="melo46" changedate="20140715T153243Z" creationid="MELO46" creationdate="20140710T070846Z">
+        <seg>Dopo Hiroshima, le vittime non effettivamente uccise hanno vissuto mediamente più a lungo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19616,8 +19616,8 @@ script,and select it.</seg>
       <tuv lang="EN">
         <seg>Initially, the old EPA limit may have been supposed to help ward off the threat of cancer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070836Z" creationid="MELO46" creationdate="20140710T070836Z">
-        <seg>Inizialmente, il vecchio limite EPA potrebbe essere stato supposto per aiutare a scongiurare la minaccia del cancro.</seg>
+      <tuv lang="IT-IT" changeid="melo46" changedate="20140715T153025Z" creationid="MELO46" creationdate="20140710T070836Z">
+        <seg>Inizialmente, il vecchio limite EPA potrebbe essere stato posto per scongiurare la minaccia del cancro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37380,8 +37380,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Today, however, there is &lt;a0&gt;a vast body of evidence&lt;/a0&gt; showing that low doses of radiation, up to 10 REM, build resistance to many diseases and prolong human life.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="MELO46" changedate="20140710T070843Z" creationid="MELO46" creationdate="20140710T070843Z">
-        <seg>Oggi, tuttavia, vi è &lt;a0&gt;un vasto corpo di prove&lt;/a0&gt; mostra che basse dosi di radiazioni, fino al 10 REM, costruire la resistenza a molte malattie e prolungare la vita umana.</seg>
+      <tuv lang="IT-IT" changeid="melo46" changedate="20140715T153135Z" creationid="MELO46" creationdate="20140710T070843Z">
+        <seg>Oggi, tuttavia, vi è &lt;a0&gt;un vasto corpo di prove&lt;/a0&gt; che mostra che basse dosi di radiazioni, fino al 10 REM, costruiscono resistenza a molte malattie e prolungano la vita umana.</seg>
       </tuv>
     </tu>
     <tu>
