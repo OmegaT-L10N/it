@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7333,6 +7333,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A further example of our vulnerability in Scotland is that Longannet, which is 44 years old, remains crucial to grid stability due to its capacity, design and resultant ability to cope with system disturbances in frequency and voltage and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232752Z" creationid="Melo" creationdate="20141202T232752Z">
+        <seg>Un ulteriore esempio della nostra vulnerabilità in Scozia è che Longannet, che è di 44 anni, rimane cruciale per la stabilità della griglia a causa della sua capacità, la progettazione e la conseguente capacità di far fronte con le dispersioni del sistema in tensione e frequenza e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A general observation: "compatibility" is rarely a black and white, "yes" or "no" issue.</seg>
       </tuv>
     </tu>
@@ -9074,6 +9082,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a chartered electrical engineer, I find that numbing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232813Z" creationid="Melo" creationdate="20141202T232813Z">
+        <seg>Come un ingegnere elettrico noleggiato, trovo che paralizzante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a general rule for the purpose of this tutorial, assume that if something is visible in your browser, it should be translated.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
@@ -9172,6 +9188,14 @@ may experience unexpected, but correct behaviour.</seg>
     <tu>
       <tuv lang="EN">
         <seg>As opposed to user-generated translation memories on one side (like in the case of OmegaT) or rule-based systems (usually found under the name of "machine translation" or MT in short) Google can afford a different approach: they feed the computer billions of words of text, both monolingual text in the target language, and aligned text consisting of examples of human translations between the languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As renewables increase, how do we re-start the grid in future if Longannet is not replaced by centralised generation of similar large capacity?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232757Z" creationid="Melo" creationdate="20141202T232757Z">
+        <seg>Come aumentano le energie rinnovabili, come ri-iniziamo la griglia in futuro se Longannet non viene sostituito da generazione centralizzata di simili grandi capacità?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,6 +10013,14 @@ documentation.</seg>
     <tu>
       <tuv lang="EN">
         <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But Longannet may be withdrawn from the grid by its owners because of disputes over its costs of connection when delivering to the grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232809Z" creationid="Melo" creationdate="20141202T232809Z">
+        <seg>Ma Longannet può essere ritirata dalla griglia dai suoi proprietari a causa di dispute sopra i costi di connessione quando si consegna alla griglia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10935,6 +10967,14 @@ application folder.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Co&amp;mments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Coal has been a major contributor to global warming over many decades and hence is a major threat to global and indeed local public health.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232828Z" creationid="Melo" creationdate="20141202T232828Z">
+        <seg>Carbone è stato un importante contributo al riscaldamento globale nel corso di molti decenni e quindi è una grave minaccia per la salute pubblica in effetti locali e globali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13568,6 +13608,22 @@ several security warnings.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Endnotes (Word)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Energy responsibility since privatisation rests only with the UK Government politicians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232731Z" creationid="Melo" creationdate="20141202T232731Z">
+        <seg>Responsabilità di energia poiché privatizzazione poggia solo con i politici del governo del Regno Unito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Engineers and entrepreneurs of the 18th century such as &lt;t0/&gt;James Watt and Matthew Boulton had no inkling this was the case and nor had they the means to measure and model the impact of carbon on our climate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232831Z" creationid="Melo" creationdate="20141202T232831Z">
+        <seg>Ingegneri e imprenditori del XVIII secolo come &lt;t0/&gt; James Watt e Matthew Boulton non aveva nessun sentore di questo era il caso e né che avevano i mezzi per misurare e modellare l'impatto del carbonio sul nostro clima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16676,6 +16732,14 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I am not surprised that green groups are "aghast at the prospect of shale gas exploitation" because they have learned the lessons of history well and see better and safer alternatives available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232854Z" creationid="Melo" creationdate="20141202T232854Z">
+        <seg>Non mi stupisce che i gruppi verdi sono "atterriti dalla prospettiva di sfruttamento di gas di scisto" perché hanno imparato le lezioni della storia bene e vedere i migliori e più sicure alternative disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I don't know:</seg>
       </tuv>
     </tu>
@@ -16685,6 +16749,22 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
       </tuv>
       <tuv lang="IT-IT" changeid="melo46" changedate="20140717T175102Z" creationid="MELO46" creationdate="20140710T071103Z">
         <seg>Ho imparato a conoscere questa realtà a partecipare alle riunioni di &lt;a0&gt;"Doctors for Disaster Preparedness" (dottori per la preparazione contro i disastri)&lt;/a0&gt;, gestito dalla sapiente Dr. Jane Orient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I like advocates of prudent technological development as history has proved them right so often.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232906Z" creationid="Melo" creationdate="20141202T232906Z">
+        <seg>Mi piace fautori dello sviluppo tecnologico prudente come la storia ha dimostrato proprio così spesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I refer to the article by Professors McInnes and Younger on their clearly described concerns that, in the absence of any informed analysis by those who understand the physics of electrical energy, "we have little hope of delivering a balanced supply" ("Why clean energy is far from secure in the future", The Herald, December 1).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232721Z" creationid="Melo" creationdate="20141202T232721Z">
+        <seg>Mi riferisco all'articolo di professori McInnes e giovane sulla loro chiaramente descritto che riguarda, in assenza di qualsiasi analisi informata da chi capisce la fisica dell'energia elettrica, "Abbiamo poca speranza di fornire un apporto equilibrato" ("Perché l'energia pulita è lontano da garantire in futuro", il Herald, 1 dicembre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19269,6 +19349,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the event of a major blackout, Cruachan pumped storage (or possibly Foyers if Cruachan is low) would be used to "black start" Longannet which has the capability to meet the instantaneous surge load presented by the grid when re-starting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232759Z" creationid="Melo" creationdate="20141202T232759Z">
+        <seg>In caso di blackout principali, immagazzinaggio Cruachan (o, eventualmente, Foyers se Cruachan è basso) sarebbe utilizzato "Start nero" Longannet che ha la capacità di soddisfare il carico di Sovracorrente istantanea presentato dalla griglia quando ri-partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example above, the first two metrics (46/46) are equal, as the tokenizer has not been used.</seg>
       </tuv>
     </tu>
@@ -21251,6 +21339,14 @@ OmegaT can be launched in a number of ways.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Letters special: renewable energy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232709Z" creationid="Melo" creationdate="20141202T232709Z">
+        <seg>Lettere speciali: energia rinnovabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 1 TMX files contain no formatting information.</seg>
       </tuv>
     </tu>
@@ -21958,6 +22054,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many would consider avoiding risks smart and failing to manage risks that benefit the few and not the many, as has often been the case, foolish .</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232856Z" creationid="Melo" creationdate="20141202T232856Z">
+        <seg>Molti considererebbero evitando rischi intelligenti e non riuscendo a gestire i rischi che il beneficio di pochi e non molti, come è stato spesso il caso, sciocco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
     </tu>
@@ -22359,6 +22463,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     <tu>
       <tuv lang="EN">
         <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monday 1 December 2014</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232714Z" creationid="Melo" creationdate="20141202T232714Z">
+        <seg>Lunedì 1° dicembre 2014</seg>
       </tuv>
     </tu>
     <tu>
@@ -22852,6 +22964,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     <tu>
       <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No energy body operating in the UK carries any responsibility for keeping the lights on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232728Z" creationid="Melo" creationdate="20141202T232728Z">
+        <seg>Nessun corpo di energia operanti nel Regno Unito porta qualsiasi responsabilità per tenere le luci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23568,6 +23688,14 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     <tu>
       <tuv lang="EN">
         <seg>Occitan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Occupational and Environmental Health Research Group,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232910Z" creationid="Melo" creationdate="20141202T232910Z">
+        <seg>Gruppo di ricerca salute occupazionale e ambientale,</seg>
       </tuv>
     </tu>
     <tu>
@@ -25130,6 +25258,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One contributor rightly flagged up a string of past failures to take precautions as risks and hazards emerged from 'old' technologies and materials, for example asbestos, benzene and tobacco.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232859Z" creationid="Melo" creationdate="20141202T232859Z">
+        <seg>Un contributore giustamente fermato in una stringa di fallimenti passati a prendere precauzioni come rischi e pericoli emersero dal 'vecchi' tecnologie e materiali, per esempio amianto, benzene e tabacco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
       </tuv>
     </tu>
@@ -26577,6 +26713,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Professor Andrew Watterson</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232908Z" creationid="Melo" creationdate="20141202T232908Z">
+        <seg>Il professor Andrew Watterson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
       </tuv>
     </tu>
@@ -27410,6 +27554,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Renewable energy seems to fit the precautionary approach nicely.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232904Z" creationid="Melo" creationdate="20141202T232904Z">
+        <seg>Energie rinnovabili sembra adattarsi bene l'approccio precauzionale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Renewables will be unable to provide this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232807Z" creationid="Melo" creationdate="20141202T232807Z">
+        <seg>Energie rinnovabili sarà in grado di fornire questo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
     </tu>
@@ -28104,6 +28264,14 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Schau dir &lt;f0&gt;das&lt;/f0&gt; an!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>School of Health Sciences, University of Stirling,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232913Z" creationid="Melo" creationdate="20141202T232913Z">
+        <seg>School of Health Sciences, Università di Stirling,</seg>
       </tuv>
     </tu>
     <tu>
@@ -29173,6 +29341,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shale gas and coal bed methane extraction are not answers to global climate change but will continue to contribute to it as well as to global and local public health threats along with a range of pollution threats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232851Z" creationid="Melo" creationdate="20141202T232851Z">
+        <seg>Estrazione di metano shale gas e carbone letto non sono risposte al cambiamento climatico globale, ma continuerà a contribuire a esso pure quanto a minacce per la salute pubblica globale e locale insieme a una vasta gamma di minacce di inquinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sharing a project using SVN</seg>
       </tuv>
     </tu>
@@ -29420,6 +29596,14 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since privatisation of the energy industries, no body has had responsibility for the strategic planning of electricity resources and leaving this to the market is putting future security of supply in the hands of people whose sole objective is to make a profit for their shareholders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232919Z" creationid="Melo" creationdate="20141202T232919Z">
+        <seg>Dalla privatizzazione delle industrie energetiche, nessun corpo ha avuto responsabilità per la pianificazione strategica delle risorse di energia elettrica e lasciando questo mercato sta mettendo la futura sicurezza dell'approvvigionamento nelle mani di persone il cui unico obiettivo è quello di realizzare un profitto per gli azionisti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30295,6 +30479,14 @@ and then start OmegaT.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Subsequent clicks on &lt;s4&gt;OmegaT.jnlp&lt;/s4&gt; will check for any upgrades, install them, if there's any, and then start OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subsidy breeding subsidy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232930Z" creationid="Melo" creationdate="20141202T232930Z">
+        <seg>Sovvenzione di allevamento di sovvenzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31410,6 +31602,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Davy lamp often failed to work to protect miners but what it often did was allow mine owners either to go deeper or extract coal from difficult seams that hitherto could not easily be exploited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232839Z" creationid="Melo" creationdate="20141202T232839Z">
+        <seg>La lampada di Davy spesso non ha funzionato per proteggere i minatori, ma cosa ha fatto spesso era miniera proprietari permettono sia di andare più in profondità o estrarre carbone dalle cuciture difficile che fino ad allora potrebbero non facilmente essere sfruttate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
     </tu>
@@ -31549,6 +31749,14 @@ current folder will be used instead.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Longannet generators will be able to meet the surge in power required to get the grid up and running again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232803Z" creationid="Melo" creationdate="20141202T232803Z">
+        <seg>I generatori Longannet non saranno più in grado di soddisfare l'aumento della potenza necessaria ad alzarsi la griglia e funzionante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31794,6 +32002,22 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The UK has been 25 years without energy planning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232740Z" creationid="Melo" creationdate="20141202T232740Z">
+        <seg>Il Regno Unito è stato 25 anni senza pianificazione energetica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The UK has had 12 energy secretaries in the past 16 years, none with an engineering background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232736Z" creationid="Melo" creationdate="20141202T232736Z">
+        <seg>Il Regno Unito ha avuto 12 segretari di energia negli ultimi 16 anni, nessuno con un background di ingegneria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
     </tu>
@@ -31926,6 +32150,14 @@ shown below.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The article by Colin McInnes and Paul Younger of Glasgow University should be required reading for the Scottish Government which is so obsessed with windpower that sound engineering logic is ignored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232915Z" creationid="Melo" creationdate="20141202T232915Z">
+        <seg>L'articolo di Colin McInnes e Paul Younger dell'Università di Glasgow dovrebbe essere lettura obbligatoria per il governo scozzese che è così ossessionato windpower che logica ingegneria suono viene ignorato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33035,6 +33267,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The latest UK legislation on the electricity industry makes provision for "capacity payments" to encourage electricity generating companies to invest in conventional generating plant to keep the lights on when the wind doesn't blow; frequently during periods of high pressure weather in winter when electricity demand is high but wind is almost totally absent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232922Z" creationid="Melo" creationdate="20141202T232922Z">
+        <seg>La più recente legislazione britannica sul settore elettrico prevede per "pagamenti di capacità" per incoraggiare le imprese a investire in un impianto di generazione convenzionale per tenere le luci accese quando non soffia il vento; di generazione di energia elettrica frequentemente durante i periodi di tempo ad alta pressione in inverno quando domanda di elettricità è elevata ma il vento è quasi totalmente assente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The launch command can be found in the file "omegat" and/or "omegat.bat" in the folder containing the program.</seg>
       </tuv>
     </tu>
@@ -33543,6 +33783,14 @@ an access to the hard drive of the computer.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The physics of electrical energy will always prevail over the metaphysics of the politicians and, as wind penetration increases, the stability of the grid becomes more difficult to control and security of supply has significantly diminished to the extent that the Ofgem/National Grid 2014 Report is forecasting only two per cent spare capacity over peak demand by 2015/16.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232746Z" creationid="Melo" creationdate="20141202T232746Z">
+        <seg>La fisica dell'energia elettrica prevarranno sempre la metafisica dei politici e, come aumenti di penetrazione del vento, la stabilità della griglia diventa più difficile da controllare e sicurezza dell'approvvigionamento è significativamente diminuita in quanto la relazione di 2014 Ofgem/National Grid è previsione soltanto due per cento di capacità inutilizzata sulla domanda di picco di 2015/16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34679,6 +34927,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Their much trumpeted renewables targets are regarded as holy writ, unquestioningly accepted as a means of saving the planet with little or no consideration of either their effectiveness in that regard or of security of supply.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232917Z" creationid="Melo" creationdate="20141202T232917Z">
+        <seg>Loro tanto sbandierati renewables bersagli sono considerati come sacra scrittura, senza saperlo, accettato come mezzo di salvare il pianeta con poca o nessuna considerazione di una loro efficacia in proposito o della sicurezza dell'approvvigionamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then enter the launch command itself, and confirm with ENTER.</seg>
       </tuv>
     </tu>
@@ -34930,6 +35186,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There was a conflict of interest for the engineer inventor who was being paid by the coal owners.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232845Z" creationid="Melo" creationdate="20141202T232845Z">
+        <seg>C'era un conflitto di interessi per l'inventore ingegnere che era essere pagato dai proprietari del carbone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There you will learn how translation memories, glossaries, and the search function work.</seg>
       </tuv>
     </tu>
@@ -35037,6 +35301,22 @@ configuration folder cannot be reliably determined.</seg>
     <tu>
       <tuv lang="EN">
         <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These historical facts appear in some respects to be both similar and relevant to the energy debates at present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232847Z" creationid="Melo" creationdate="20141202T232847Z">
+        <seg>Questi fatti storici appaiono in alcuni rispetti a essere rilevanti per i dibattiti di energia e simili al momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These payments are effectively, a subsidy to mitigate the adverse effects of subsidising windpower.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232924Z" creationid="Melo" creationdate="20141202T232924Z">
+        <seg>Questi pagamenti sono efficacemente, una sovvenzione per mitigare gli effetti negativi di sovvenzionare windpower.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35684,6 +35964,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has not achieved any consistency of energy policy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232738Z" creationid="Melo" creationdate="20141202T232738Z">
+        <seg>Questo non ha ottenuto alcuna coerenza della politica energetica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This has nothing to do with OmegaT or your browser, but is due to the fact that Wikipedia does not allow all the template information for its pages to be downloaded.</seg>
       </tuv>
     </tu>
@@ -35904,6 +36192,14 @@ your system, this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This is safe, since even if the JRE is already installed on your system, 
 this version will not interfere with it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is similar to the power surge required from a weight lifter in raising the bar from the floor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232805Z" creationid="Melo" creationdate="20141202T232805Z">
+        <seg>Questo è simile all'aumento di potenza richiesto da un sollevatore di peso nel sollevare la barra dal pavimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36254,6 +36550,14 @@ this version will not interfere with it.</seg>
     <tu>
       <tuv lang="EN">
         <seg>This should come as no surprise: OmegaT uses the &lt;a0&gt;Hunspell&lt;/a0&gt; spell checker, used among others in OpenOffice.org, Firefox and Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This should lead us to advocate precautionary public health policies for new and established processes, products and technologies.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232901Z" creationid="Melo" creationdate="20141202T232901Z">
+        <seg>Questo dovrebbe indurci a sostenere politiche sanitarie precauzionali per tecnologie, prodotti e processi nuovi e affermati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37386,6 +37690,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Today, we focus on the diverse views of our readers on the subject of renewable energy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232717Z" creationid="Melo" creationdate="20141202T232717Z">
+        <seg>Oggi, ci concentriamo diverse visualizzazioni dei nostri lettori in materia di energie rinnovabili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizer plugin</seg>
       </tuv>
     </tu>
@@ -38263,6 +38575,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Until the UK establishes an engineering body with the authority to identify and secure our future energy needs we remain rudderless.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232811Z" creationid="Melo" creationdate="20141202T232811Z">
+        <seg>Fino a quando il Regno Unito istituisce un corpo di ingegneria con l'autorità per identificare e garantire la nostra energia futura necessità rimaniamo senza timone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
       </tuv>
     </tu>
@@ -39069,6 +39389,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vested interests were at play to use technology to increase or maintain huge profits for the benefit of the few and not for the community at large or for the workforce.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232841Z" creationid="Melo" creationdate="20141202T232841Z">
+        <seg>Gli interessi erano in gioco a utilizzare la tecnologia per aumentare o mantenere enormi profitti a vantaggio di pochi e non per la Comunità in generale o per la forza lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vie&amp;w...</seg>
       </tuv>
     </tu>
@@ -39188,6 +39516,14 @@ searchable without subscription:</seg>
     <tu>
       <tuv lang="EN">
         <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We do now.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232833Z" creationid="Melo" creationdate="20141202T232833Z">
+        <seg>Facciamo ora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40062,6 +40398,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     <tu>
       <tuv lang="EN">
         <seg>With the autosave function activated, it will be automatically updated when you quit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the demise of the Electricity Council and the breakup of the Central Electricity Generating Board upon industry privatisation in 1990, the UK was left with no supervisory or legally empowered controlling body charged with the future long term engineering planning and safeguarding of the security of supply of the national network.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232724Z" creationid="Melo" creationdate="20141202T232724Z">
+        <seg>Con la scomparsa del Consiglio elettricità e lo scioglimento del Consiglio di generare elettricità centrale sulla privatizzazione dell'industria nel 1990, nel Regno Unito è stato lasciato senza sorveglianza o legalmente autorizzato corpo addebitato con l'ingegneria del futuro a lungo termine pianificazione e salvaguardia della sicurezza dell'approvvigionamento della rete nazionale di controllo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41037,6 +41381,14 @@ SourceForge too.</seg>
     <tu>
       <tuv lang="EN">
         <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You couldn't make it up.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232934Z" creationid="Melo" creationdate="20141202T232934Z">
+        <seg>Si non poteva lo compongono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43727,6 +44079,14 @@ create its configuration folder.</seg>
     <tu>
       <tuv lang="EN">
         <seg>move to the start of the segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>much of which result from the increase in wind turbines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20141202T232754Z" creationid="Melo" creationdate="20141202T232754Z">
+        <seg>Gran parte del quale risultato dall'aumento nelle turbine eoliche.</seg>
       </tuv>
     </tu>
     <tu>
