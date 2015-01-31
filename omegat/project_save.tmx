@@ -2667,6 +2667,9 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193102Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; usa la sequenza di azioni seguente:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -5405,6 +5408,9 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193018Z">
+        <seg>&lt;p0&gt;Progetto&lt;/p0&gt; &lt;s1&gt;Opzioni&lt;/s1&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -5424,6 +5430,9 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193016Z">
+        <seg>&lt;p0&gt;Proprietà&lt;/p0&gt; del &lt;s1&gt;Progetto&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5659,6 +5668,9 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Source level segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193133Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Segmentazione a livello di struttura&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30175,6 +30187,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source segmentation</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T192902Z">
+        <seg>Segmentazione del documento originale</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -30514,6 +30529,9 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Structure level segmentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193137Z">
+        <seg>Segmentazione a livello di struttura</seg>
       </tuv>
     </tu>
     <tu>
