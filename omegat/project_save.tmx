@@ -2032,6 +2032,9 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>... matches the following</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231821Z">
+        <seg>...corrisponde al seguente:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2051,6 +2054,9 @@ menu, on the desktop and in the quick launch area.</seg>
     <tu>
       <tuv lang="EN">
         <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231957Z">
+        <seg>...corrisponde al seguente</seg>
       </tuv>
     </tu>
     <tu>
@@ -13678,6 +13684,9 @@ several security warnings.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231832Z">
+        <seg>Consente di avviare una ricerca che non consideri le lettere maiuscole e minuscole (per impostazione predefinita, il modello distingue tra maiuscole e minuscole).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27496,6 +27505,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Character</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231844Z">
+        <seg>Regex - Carattere</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -27516,6 +27528,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231746Z">
+        <seg>Regex - Flag</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -27535,6 +27550,9 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231942Z">
+        <seg>Regex - Citazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -32584,6 +32602,9 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The character x, except the following...</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231937Z">
+        <seg>Viene rilevato il carattere corrispondente a x, ma con le seguenti eccezioni...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -32649,6 +32670,9 @@ instead.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The construct</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231814Z">
+        <seg>Il costrutto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35994,6 +36018,9 @@ configuration folder cannot be reliably determined.</seg>
     <tu>
       <tuv lang="EN">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231743Z">
+        <seg>Questo capitolo si rivolge agli utenti avanzati, che hanno la necessità di definire le proprie varianti delle regole di segmentazione o costruire combinazioni di ricerca più complesse ed efficaci.</seg>
       </tuv>
     </tu>
     <tu>
