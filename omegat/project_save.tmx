@@ -5467,6 +5467,9 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
       <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231704Z">
+        <seg>&lt;p0&gt;Espressioni regolari&lt;/p0&gt; &lt;s1&gt;Segmentazione&lt;/s1&gt; &lt;s2&gt;Ricerca&lt;/s2&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -27583,6 +27586,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regular expressions</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231540Z">
+        <seg>Espressioni regolari</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -43732,6 +43738,14 @@ create its configuration folder.</seg>
     <tu>
       <tuv lang="EN">
         <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231706Z" creationid="Melo" creationdate="20150131T231706Z">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
