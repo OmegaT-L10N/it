@@ -29479,6 +29479,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193845Z">
+        <seg>Impostare l'inizio del segmento dopo un punto ('. ') seguito da uno spazio, tab...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
