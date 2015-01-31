@@ -30424,6 +30424,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231152Z" creationid="Melo" creationdate="20150131T231152Z">
+        <seg>Usare il controllore ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
     </tu>
@@ -35023,6 +35031,9 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The user interface</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231345Z">
+        <seg>L'interfaccia utente</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -38314,6 +38325,9 @@ Kaptain.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Translation memories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T231348Z">
+        <seg>Memorie di traduzione</seg>
       </tuv>
     </tu>
     <tu>
