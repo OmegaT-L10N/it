@@ -5468,6 +5468,9 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
       <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Examples of use&lt;/s1&gt;</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232345Z">
+        <seg>&lt;p0&gt;Espressioni regolari&lt;/p0&gt; &lt;s1&gt;Esempi di utilizzo&lt;/s1&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -5480,6 +5483,9 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232341Z">
+        <seg>&lt;p0&gt;Espressioni regolari&lt;/p0&gt; &lt;s1&gt;Strumenti&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7516,6 +7522,14 @@ echo $standard_name
     <tu>
       <tuv lang="EN">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of interactive tools are available to develop and test regular expressions. They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232410Z" creationid="Melo" creationdate="20150131T232410Z">
+        <seg>A number of interactive tools are available to develop and test regular expressions. Essi seguono quasi tutti lo stesso schema (vedere sotto l'esempio preso dal Regular Expression Tester): l'espressione regolare (voce in alto) analizza il testo da ricercare (riquadro al centro), restituendo i risultati, mostrati nel riquadro dei risultati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13645,6 +13659,9 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>Either X or Y</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232521Z">
+        <seg>X oppure Y</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -13839,6 +13856,9 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232617Z">
+        <seg>Inglese: stesso controllo di cui sopra ma per le consonanti ("a", non "an")</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -13848,6 +13868,9 @@ several security warnings.</seg>
     <tu>
       <tuv lang="EN">
         <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232608Z">
+        <seg>Inglese: le parole inizianti per vocali devono essere in genere precedute da "an" e non "a"</seg>
       </tuv>
     </tu>
     <tu>
@@ -27582,6 +27605,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Logical operators</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232337Z">
+        <seg>Regex - Operatori logici</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -27608,10 +27634,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex Tester</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232412Z">
+        <seg>Tester di Regex</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232349Z">
+        <seg>Strumenti per le espressioni regolari ed esempi di utilizzo</seg>
       </tuv>
     </tu>
     <tu>
@@ -41066,6 +41098,9 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>XY as a single group</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232527Z">
+        <seg>XY come gruppo singolo</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -43006,6 +43041,9 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232548Z">
+        <seg>virgola o punto, seguiti da spazi e ancora un'altra virgola o punto</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -43256,6 +43294,9 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>double words</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232514Z">
+        <seg>doppie parole</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -43495,6 +43536,9 @@ create its configuration folder.</seg>
     <tu>
       <tuv lang="EN">
         <seg>extra spaces after the period at the end of the line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232555Z">
+        <seg>spazi aggiuntivi dopo un punto alla fine di una riga</seg>
       </tuv>
     </tu>
     <tu>
@@ -44441,6 +44485,9 @@ create its configuration folder.</seg>
     <tu>
       <tuv lang="EN">
         <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232624Z">
+        <seg>più di uno spazio</seg>
       </tuv>
     </tu>
     <tu>
