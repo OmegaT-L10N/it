@@ -7370,6 +7370,9 @@ echo $standard_name
       <tuv lang="EN">
         <seg>A digit: [0-9]</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232224Z">
+        <seg>Una cifra: [0-9]</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -7465,6 +7468,9 @@ echo $standard_name
     <tu>
       <tuv lang="EN">
         <seg>A non-digit: [^0-9]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232233Z">
+        <seg>Un carattere non numerico: [^0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -7664,10 +7670,16 @@ echo $standard_name
       <tuv lang="EN">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232245Z">
+        <seg>Un carattere di spazio bianco: [ \t\n\x0B\f\r]</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A word boundary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232310Z">
+        <seg>Limite di una parola</seg>
       </tuv>
     </tu>
     <tu>
@@ -8918,6 +8930,9 @@ The TMX file will not be loaded.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232221Z">
+        <seg>Qualsiasi carattere (eccetto i terminatori di riga)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15329,6 +15344,9 @@ Tutorial.</seg>
     <tu>
       <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232105Z">
+        <seg>Per esempio, questa combinazione corrisponde al carattere della barra rovesciata (“ \ ”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23750,6 +23768,9 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Nothing, but ends quoting started by \Q</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232208Z">
+        <seg>Nulla, ma conclude la citazione iniziata da \Q</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -23760,10 +23781,21 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="EN">
         <seg>Nothing, but quotes all characters until \E</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232134Z">
+        <seg>Nulla, ma indica tutti i caratteri fino a \E</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes the following character. This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232100Z" creationid="Melo" creationdate="20150131T232100Z">
+        <seg>Nulla, se non il carattere immediatamente successivo. È necessario quando si desidera usare i metacaratteri !$()*+.&lt;&gt;?[\]^{|} in modo che vengano utilizzati come caratteri e non come operatori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27500,6 +27532,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232254Z">
+        <seg>Regex - Rilevatori di limitazione</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -27518,6 +27553,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232137Z">
+        <seg>Regex - Classi per blocchi e categorie Unicode</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -27535,6 +27573,9 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Regex - Greedy quantifiers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232321Z">
+        <seg>Regex - Quantificatori di ripetizione</seg>
       </tuv>
     </tu>
     <tu>
@@ -27558,6 +27599,9 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232331Z">
+        <seg>Regex - Quantificatori riluttanti (non ripetitivi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32502,6 +32546,9 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The beginning of a line</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232258Z">
+        <seg>Inizio di una riga</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -33005,6 +33052,9 @@ space on your hard drive.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The end of a line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T232303Z">
+        <seg>Fine di una riga</seg>
       </tuv>
     </tu>
     <tu>
