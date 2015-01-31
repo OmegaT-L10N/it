@@ -5637,30 +5637,48 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Lates
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Creating a new rule&lt;/s1&gt; &lt;s2&gt;Regular expressions&lt;/s2&gt;</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193651Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Creare una nuova regola&lt;/s1&gt; &lt;s2&gt;Espressioni regolari&lt;/s2&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Examples&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193703Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Esempi&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules priority&lt;/s1&gt;</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193643Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Priorità delle regole&lt;/s1&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193510Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Regole&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Break rule&lt;/t2&gt;</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193600Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Regole&lt;/s1&gt; &lt;t2&gt;Le regole di interruzione&lt;/t2&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Exception rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193630Z">
+        <seg>&lt;p0&gt;Segmentazione&lt;/p0&gt; &lt;s1&gt;Regole&lt;/s1&gt; &lt;t2&gt;Le regole di eccezione &lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7348,6 +7366,9 @@ echo $standard_name
       <tuv lang="EN">
         <seg>A few simple examples</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193705Z">
+        <seg>Alcuni semplici esempi</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -7950,6 +7971,9 @@ echo $standard_name
       <tuv lang="EN">
         <seg>After</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193731Z">
+        <seg>Dopo</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -8072,6 +8096,9 @@ echo $standard_name
     <tu>
       <tuv lang="EN">
         <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193507Z">
+        <seg>Dopo aver ultimato la segmentazione del file di partenza in unità strutturali, &lt;a0&gt;OmegaT&lt;/a0&gt; avvierà un'ulteriore segmentazione di tali blocchi in frasi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9725,6 +9752,9 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Before</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193723Z">
+        <seg>Prima</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -9955,6 +9985,9 @@ documentation.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193605Z">
+        <seg>Le regole di interruzione </seg>
       </tuv>
     </tu>
     <tu>
@@ -11846,6 +11879,9 @@ archive to this folder and unpack it there.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Creating a new rule</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193700Z">
+        <seg>Creare una nuova regola</seg>
       </tuv>
     </tu>
     <tu>
@@ -14189,6 +14225,9 @@ launch script.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193634Z">
+        <seg>Le regole di eccezione </seg>
       </tuv>
     </tu>
     <tu>
@@ -20114,6 +20153,9 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Intention</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193707Z">
+        <seg>Scopo</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -23272,6 +23314,9 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
     <tu>
       <tuv lang="EN">
         <seg>Note</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193737Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -28107,6 +28152,9 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193647Z">
+        <seg>Priorità delle regole</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -29034,6 +29082,9 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Segmentation rules</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193513Z">
+        <seg>Regole di segmentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -34927,6 +34978,9 @@ an access to the hard drive of the computer.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Melo" changedate="20150131T193547Z">
+        <seg>I due tipi di regole si comportano come segue:</seg>
       </tuv>
     </tu>
     <tu>
