@@ -10111,14 +10111,6 @@ echo $standard_name
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Add Pattern</seg>
-      </tuv>
-      <tuv lang="IT" changeid="Kos Ivantsov" changedate="20170904T114618Z">
-        <seg> Aggiungi...</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Add Script</seg>
