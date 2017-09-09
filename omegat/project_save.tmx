@@ -2641,6 +2641,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ia" changedate="20170909T125323Z" creationid="ia" creationdate="20170909T125323Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>50 REM is 3,500 times 15 millirem (.015) and even 50 is lower than the &lt;a4&gt;100 REM threshold&lt;/a4&gt; commonly used for radiation sickness.</seg>
       </tuv>
       <tuv lang="IT" changeid="melo46" changedate="20140715T153001Z" creationid="MELO46" creationdate="20140710T070826Z">
@@ -32693,6 +32701,9 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Preparation</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ia" changedate="20170909T125317Z">
+        <seg>Preparazione</seg>
       </tuv>
     </tu>
     <tu>
