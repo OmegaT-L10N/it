@@ -67,6 +67,19 @@
         <files sourceFilenameMask="*.html" targetFilenamePattern="${filename}" targetEncoding="UTF-8"/>
         <files sourceFilenameMask="*.xhtml" targetFilenamePattern="${filename}" targetEncoding="UTF-8"/>
         <files sourceFilenameMask="*.xht" targetFilenamePattern="${filename}" targetEncoding="UTF-8"/>
+        <option name="compressWhitespace" value="false"/>
+        <option name="ignoreTags" value=""/>
+        <option name="paragraphOnBr" value="false"/>
+        <option name="removeComments" value="false"/>
+        <option name="rewriteEncoding" value="IFHEADER"/>
+        <option name="skipMeta" value="http-equiv=refresh,name=robots,name=revisit-after,http-equiv=expires,http-equiv=content-style-type,http-equiv=content-script-type"/>
+        <option name="skipRegExp" value="\{[{%].*?[}%]}"/>
+        <option name="translateButtonValue" value="false"/>
+        <option name="translateHref" value="false"/>
+        <option name="translateHreflang" value="true"/>
+        <option name="translateLang" value="true"/>
+        <option name="translateSrc" value="false"/>
+        <option name="translateValue" value="false"/>
     </filter>
     <filter className="org.omegat.filters2.latex.LatexFilter" enabled="true">
         <files sourceFilenameMask="*.tex" targetFilenamePattern="${filename}"/>
