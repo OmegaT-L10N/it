@@ -85067,6 +85067,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T201901Z" creationid="valter" creationdate="20170930T201901Z">
+        <seg>{0} non è una copia locale funzionante, viene saltata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20111002T184451Z">
@@ -85135,6 +85143,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20141101T214556Z" creationid="valtermura" creationdate="20141101T214556Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T201829Z" creationid="valter" creationdate="20170930T201829Z">
+        <seg>{0}:	pulizia eseguita!!</seg>
       </tuv>
     </tu>
     <tu>
