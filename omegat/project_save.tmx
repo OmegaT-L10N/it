@@ -34329,6 +34329,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T200425Z" creationid="valter" creationdate="20170930T200425Z">
+        <seg>Se nella traduzione si ha bisogno di riprodurre la formattazione del testo (così come elementi, per esempio, come i disegni), si può procedere in tre modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to run multiple instances of &lt;e2&gt;OmegaT.app&lt;/e2&gt;, use the file &lt;e3&gt;JavaApplicationStub&lt;/e3&gt; located in &lt;e4&gt;OmegaT.app/ Contents/MacOS/&lt;/e4&gt; instead.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T120320Z">
@@ -68986,6 +68994,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130324T190040Z">
         <seg>Chi fosse interessato può consultare il Manuale dell'utente e il gruppo degli utenti su Yahoo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T200252Z" creationid="valter" creationdate="20170930T200252Z">
+        <seg>I file PDF sono dunque trattati come file di solo testo, e i file che si ottengono sono file di solo testo.</seg>
       </tuv>
     </tu>
     <tu>
