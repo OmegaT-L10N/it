@@ -35117,6 +35117,14 @@ doppio clic sul collegamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T200951Z" creationid="valter" creationdate="20170930T200951Z">
+        <seg>Importare il file di partenza in &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, salvarlo come file ODG, tradurre ed esportarlo in PDF in base alle proprie esigenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T111410Z">
@@ -54517,6 +54525,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T200850Z" creationid="valter" creationdate="20170930T200850Z">
+        <seg>Si veda &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T205147Z">
@@ -72879,6 +72895,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T160053Z" creationid="valter" creationdate="20141207T160053Z">
         <seg>Usare il file &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; che si trova in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; per avviare &lt;a4&gt;OmegaT&lt;/a4&gt; dalla riga di comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T200746Z" creationid="valter" creationdate="20170930T200746Z">
+        <seg>Usare il filtro Iceni Infix.</seg>
       </tuv>
     </tu>
     <tu>
