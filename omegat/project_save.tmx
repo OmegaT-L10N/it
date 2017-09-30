@@ -18835,8 +18835,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20140705T081507Z" creationid="valtermura" creationdate="20140705T081448Z">
-        <seg>Ripulito</seg>
+      <tuv lang="IT" changeid="valter" changedate="20170930T202155Z" creationid="valtermura" creationdate="20140705T081448Z">
+        <seg>Annullata</seg>
       </tuv>
     </tu>
     <tu>
@@ -56951,6 +56951,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T202210Z" creationid="valter" creationdate="20170930T202204Z">
+        <seg>Spiacenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T093614Z" creationid="valter" creationdate="20170115T093614Z">
@@ -74282,6 +74290,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T202229Z" creationid="valter" creationdate="20170930T202229Z">
+        <seg>Non troviamo la pagina che stai cercando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We ignore these in Project 1 only for training purposes.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130320T101541Z">
@@ -77006,6 +77022,14 @@ OmegaT.exe nel menu Start, nel desktop o nella barra di avvio rapido.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130520T191923Z">
         <seg>È possibile, ad esempio, utilizzarlo per selezionare la lingua dell'interfaccia utente, assegnare più memoria a OmegaT o inserire una password di Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T202330Z" creationid="valter" creationdate="20170930T202330Z">
+        <seg>Puoi andare alla &lt;a0&gt;pagina iniziale&lt;/a0&gt; e sperare di trovare lì le informazioni che stai cercando.</seg>
       </tuv>
     </tu>
     <tu>
