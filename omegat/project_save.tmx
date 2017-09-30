@@ -6811,6 +6811,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T201028Z" creationid="valter" creationdate="20170930T201028Z">
+        <seg>&lt;e0&gt;Nota:&lt;/e0&gt; le informazioni sopra riportate si applicano solo ai file PDF con un livello di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;O&lt;/e0&gt;&lt;e1&gt;megaT 2.5&lt;/e1&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T170218Z">
@@ -34015,6 +34023,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130416T182644Z">
         <seg>Se l'opzione per i suggerimenti è attivata (&lt;g0&gt;Opzioni → Abilita suggerimenti&lt;/g0&gt;), è possibile fare clic col pulsante destro del mouse sulla parola evidenziata e aprire un menu contestuale contenente la traduzione suggerita dal glossario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T201656Z" creationid="valter" creationdate="20170930T201656Z">
+        <seg>Se si possiede un file PDF composto di pagine scannerizzate (a volte questi file vengono chiamati ‘dead PDF'), è necessario un programma OCR (riconoscimento ottico dei caratteri) per individuare il testo e convertirlo in un formato che OmegaT può gestire.</seg>
       </tuv>
     </tu>
     <tu>
