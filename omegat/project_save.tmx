@@ -5771,6 +5771,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195706Z" creationid="valter" creationdate="20170930T195706Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br&gt;Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130517T175955Z">
@@ -57119,6 +57127,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195554Z" creationid="valter" creationdate="20170930T195554Z">
+        <seg>File di partenza inviati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T125207Z">
@@ -85003,6 +85019,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195657Z" creationid="valter" creationdate="20170930T195657Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}/{1}</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20141101T214556Z" creationid="valtermura" creationdate="20141101T214556Z">
@@ -85031,6 +85055,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160404T185402Z" creationid="valter" creationdate="20160404T185402Z">
         <seg>{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195701Z" creationid="valter" creationdate="20170930T195701Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -85095,6 +85127,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215301Z">
         <seg>ï»¿@@TRANSLATION_NOTICE@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195634Z" creationid="valter" creationdate="20170930T195634Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195642Z" creationid="valter" creationdate="20170930T195642Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
