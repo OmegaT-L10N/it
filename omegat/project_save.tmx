@@ -10971,6 +10971,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195911Z" creationid="valter" creationdate="20170930T195911Z">
+        <seg>&lt;p0&gt;File di partenza&lt;/p0&gt; &lt;s1&gt;File PDF&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130107T175751Z">
@@ -11247,6 +11255,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120514T214428Z">
         <seg>&lt;p0&gt;File di arrivo&lt;/p0&gt; &lt;s1&gt;Altri formati di file&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195901Z" creationid="valter" creationdate="20170930T195901Z">
+        <seg>&lt;p0&gt;File di arrivo&lt;/p0&gt; &lt;s1&gt;File di testo PDF&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48699,6 +48715,22 @@ installare Oracle JRE per proprio conto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195915Z" creationid="valter" creationdate="20170930T195915Z">
+        <seg>File PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T195942Z" creationid="valter" creationdate="20170930T195942Z">
+        <seg>I file PDF sono da considerare un caso speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF files fall into two categories: true and "scanned" PDFs.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130426T201341Z">
@@ -66777,6 +66809,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120423T212020Z">
         <seg>Essi costituiscono le memorie di traduzione esportate utilizzabili in progetti futuri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T200108Z" creationid="valter" creationdate="20170930T200108Z">
+        <seg>Essi contengono informazioni di formattazione relative al testo, le quali non possono essere riutilizzate da &lt;a0&gt;OmegaT&lt;/a0&gt; per creare file di arrivo.</seg>
       </tuv>
     </tu>
     <tu>
