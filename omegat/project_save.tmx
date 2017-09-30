@@ -40701,6 +40701,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T201955Z" creationid="valter" creationdate="20170930T201955Z">
+        <seg>Copie locali funzionanti ripulite: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T145408Z">
@@ -53363,6 +53371,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T202123Z" creationid="valter" creationdate="20170930T202123Z">
+        <seg>SVN - Pulizia (ricorsiva)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVN - Clear authentication data</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151206T102435Z" creationid="valter" creationdate="20151206T102435Z">
@@ -64585,6 +64601,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T201936Z" creationid="valter" creationdate="20170930T201936Z">
+        <seg>Lo script ora sarà terminato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130216T174919Z">
@@ -66223,6 +66247,14 @@ Submenu and File - New Item.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T095639Z" creationid="valter" creationdate="20170115T095639Z">
         <seg>In rete sono disponibili molti plugin per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T201922Z" creationid="valter" creationdate="20170930T201922Z">
+        <seg>Non sono presenti copie locali funzionanti in {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68649,6 +68681,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T124044Z">
         <seg>Questo script visualizza il segmento di destinazione in un particolare tipo di carattere (cablato a codice nello script, ma può essere modificato) piuttosto che il tipo di carattere predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T202054Z" creationid="valter" creationdate="20170930T202054Z">
+        <seg>Lo script deve essere eseguito in OmegaT versione 3.6 e successive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76345,6 +76385,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130324T174610Z">
         <seg>Dopo un ultimo controllo positivo dei documenti tradotti nel loro formato originale, il lavoro è pronto per essere consegnato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20170930T202021Z" creationid="valter" creationdate="20170930T202021Z">
+        <seg>È in esecuzione OmegaT versione {0}.</seg>
       </tuv>
     </tu>
     <tu>
