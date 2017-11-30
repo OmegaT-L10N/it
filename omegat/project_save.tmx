@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -81623,6 +81623,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="IT" changeid="Karm46" changedate="20171130T170204Z" creationid="Karm46" creationdate="20171130T170204Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://java.com/en/download/</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T093313Z" creationid="valter" creationdate="20160911T093313Z">
@@ -81635,6 +81643,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160404T073344Z" creationid="valter" creationdate="20160404T073344Z">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="IT" changeid="Karm46" changedate="20171130T170157Z" creationid="Karm46" creationdate="20171130T170157Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
