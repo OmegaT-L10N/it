@@ -29891,6 +29891,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From within the root folder, execute Apache Ant by entering the ant executable.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193640Z" creationid="valter" creationdate="20171214T193640Z">
+        <seg>All'interno della cartella radice, eseguire Apache Ant digitando l'eseguibile di Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From within this folder, execute Apache Ant by entering the ant executable.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T130011Z">
@@ -45334,6 +45342,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T130609Z">
         <seg>Antico slavo ecclesiastico, Slavo ecclesiastico, Antico Bulgaro, Antico Slavo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Older versions of OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193454Z" creationid="valter" creationdate="20171214T193454Z">
+        <seg>Versioni precedenti di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -65077,6 +65093,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T154006Z" creationid="valter" creationdate="20141207T154006Z">
         <seg>I risultati ottenuti dal glossario prioritario (per impostazione predefinita, glossary/glossario.txt) appaiono nelle prime posizioni all'interno del pannello Glossario e nei Suggerimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results will be in the &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193442Z" creationid="valter" creationdate="20171214T193442Z">
+        <seg>Il risultato si troverà nella cartella &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
