@@ -66859,6 +66859,14 @@ Submenu and File - New Item.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T174910Z" creationid="valter" creationdate="20171214T174910Z">
+        <seg>Ci potrebbero essere dei ritardi nel rilascio di versioni firmate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T173648Z">
@@ -73930,6 +73938,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T125508Z">
         <seg>Gli utenti pertanto non devono compilare da sé OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T175151Z" creationid="valter" creationdate="20171214T175151Z">
+        <seg>Gli utenti che non intendono aspettare possono utilizzare la versione non firmata; se si hanno problemi ad avviare l'applicazione, si veda &lt;a0&gt;come aprire un'applicazione di uno sviluppatore non identificato&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
