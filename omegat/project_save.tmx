@@ -20967,6 +20967,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T110732Z" creationid="valter" creationdate="20171214T110732Z">
+        <seg>Invio dei file di arrivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T220857Z">
@@ -27427,6 +27435,22 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170930T195415Z" creationid="valter" creationdate="20170930T195401Z">
         <seg>Impossibile inviare il file di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T110657Z" creationid="valter" creationdate="20171214T110657Z">
+        <seg>Impossibile inviare il file di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T110712Z" creationid="valter" creationdate="20171214T110712Z">
+        <seg>Impossibile inviare il file di arrivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -59375,6 +59399,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120423T211214Z">
         <seg>File di arrivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T110745Z" creationid="valter" creationdate="20171214T110745Z">
+        <seg>File di arrivo inviati</seg>
       </tuv>
     </tu>
     <tu>
