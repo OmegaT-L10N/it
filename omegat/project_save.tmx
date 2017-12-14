@@ -55951,6 +55951,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170243Z" creationid="valter" creationdate="20171214T170243Z">
+        <seg>Self-paced online training course (in inglese, in vendita)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T091617Z">
