@@ -28676,8 +28676,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For both examples, compile and test as described above.</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130424T194100Z">
-        <seg>Per entrambi gli esempi, compilare e testare come descritto sopra.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194326Z">
+        <seg>Per entrambi gli esempi, compilare e verificare come descritto sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67816,6 +67816,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194511Z" creationid="valter" creationdate="20171214T194511Z">
+        <seg>Questa guida fornisce suggerimenti sulla traduzione di file MS Office 2007 e successivi (Office Open XML, .docx) con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This ID is already being used.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20161011T203818Z" creationid="valter" creationdate="20161011T203818Z">
@@ -79811,6 +79819,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T193953Z">
         <seg>e sostituire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;= 5&lt;/c0&gt; with &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194306Z" creationid="valter" creationdate="20171214T194306Z">
+        <seg>e sostituire &lt;c0&gt;= 5&lt;/c0&gt; con &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
