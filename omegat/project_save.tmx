@@ -2982,6 +2982,22 @@ To install OmegaT, simply create a suitable folder for OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The Beginner's Tutorial&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T200122Z" creationid="valter" creationdate="20171214T200122Z">
+        <seg>* L'Esercitazione per principianti&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The Instant Start guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T200051Z" creationid="valter" creationdate="20171214T200051Z">
+        <seg>* La guida di Avvio rapido (breve introduzione all'utilizzo di OmegaT)&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The OmegaT web pages (probably where you are reading this)</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130523T180554Z">
@@ -36266,6 +36282,14 @@ doppio clic sul collegamento.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120603T201729Z">
         <seg>In particolare, se si sta lavorando con due lingue appartenenti a due sistemi di scrittura/alfabeto diversi (come il Russo e il Giapponese), bisogna selezionare un tipo di carattere che possa essere usato da entrambe le lingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In particular, the main user manual is likely to take around two weeks to translate, and several translators may wish to share the work.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T200227Z" creationid="valter" creationdate="20171214T200227Z">
+        <seg>In particolare, il manuale principale dell'utente necessita di almeno due settimane per la traduzione, e diversi traduttori potrebbero voler condividere il lavoro.</seg>
       </tuv>
     </tu>
     <tu>
