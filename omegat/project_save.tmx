@@ -5035,10 +5035,26 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (inexpensive)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194953Z" creationid="valter" creationdate="20171214T194953Z">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (economico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Dictionaries&lt;/a0&gt; are the electronic version of printed MerriamWebsters, Duden, Larousse etc., you may keep on your desk.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110126T195945Z">
         <seg>I &lt;a0&gt;Dizionari&lt;/a0&gt; sono la versione elettronica dei formati cartacei dei vocabolari MerriamWebsters, Duden, Larousse, e così via, presenti nelle scrivanie di qualsiasi traduttore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (free)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195000Z" creationid="valter" creationdate="20171214T195000Z">
+        <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (gratuito)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21886,6 +21902,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T220248Z">
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195127Z" creationid="valter" creationdate="20171214T195127Z">
+        <seg>Copyright Marc Prior 2009-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -72415,6 +72439,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110719T095145Z">
         <seg>Due linguette nella parte inferiore della finestra aprono rispettivamente i pannelli del "Dizionario" e della "Traduzione automatica".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Two of these are:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194922Z" creationid="valter" creationdate="20171214T194922Z">
+        <seg>Due di questi sono:</seg>
       </tuv>
     </tu>
     <tu>
