@@ -41229,6 +41229,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T174624Z" creationid="valter" creationdate="20171214T174624Z">
+        <seg>Mac OS X ha una funzionalità chiamata Gatekeeper che aumenta la sicurezza rendendo difficile l'esecuzione di programmi non firmati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X specifics</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T202535Z">
@@ -46014,6 +46022,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T214504Z">
         <seg>Esercitazione a OmegaT per principianti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T174840Z" creationid="valter" creationdate="20171214T174840Z">
+        <seg>OmegaT per Mac OS X è disponibile nelle due versioni, firmata e non firmata; le loro funzionalità sono le stesse ma è preferita dal sistema la versione firmata, in quando questa viene riconosciuta come pubblicata da uno sviluppatore conosciuto.</seg>
       </tuv>
     </tu>
     <tu>
