@@ -28209,16 +28209,16 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Find the line</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130424T194012Z">
-        <seg>Trovare la riga</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194208Z">
+        <seg>Individuare la riga</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Find the lines:</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130519T130236Z">
-        <seg>Trovare le righe:</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194020Z">
+        <seg>Individuare le righe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36667,6 +36667,30 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T091759Z">
         <seg>In /src/org/omegat la cartella, aprire il file Bundle.properties in un editor di testo e individuare le righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; open the file &lt;c1&gt;OConsts.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194245Z" creationid="valter" creationdate="20171214T194245Z">
+        <seg>Nella cartella &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; aprire il file &lt;c1&gt;OConsts.java&lt;/c1&gt; in un editor di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; open the file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194115Z" creationid="valter" creationdate="20171214T194011Z">
+        <seg>Nella cartella &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; aprire il file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in un editor di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; open the file &lt;c1&gt;Styles.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194106Z" creationid="valter" creationdate="20171214T194106Z">
+        <seg>Nella cartella &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; aprire il file &lt;c1&gt;Styles.java&lt;/c1&gt; in un editor di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52797,6 +52821,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170114T232327Z" creationid="valter" creationdate="20170114T232327Z">
         <seg>Sostituisci i risultati del &amp;glossario all'inserimento del testo di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; and &lt;c2&gt;192, 255, 192&lt;/c2&gt; with &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194155Z" creationid="valter" creationdate="20171214T194155Z">
+        <seg>Sostituire &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; con &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; e &lt;c2&gt;192, 255, 192&lt;/c2&gt; con &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79779,6 +79811,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T193953Z">
         <seg>e sostituire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194039Z" creationid="valter" creationdate="20171214T194039Z">
+        <seg>e sostituire &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; con &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
