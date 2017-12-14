@@ -43470,6 +43470,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the root of the OmegaT source code (the folder containing the file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T192627Z" creationid="valter" creationdate="20171214T192627Z">
+        <seg>Navigare alla radice del codice sorgente di OmegaT (la cartella che contiene il file &lt;c0&gt;build.gradle&lt;/c0&gt;), es.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Near the bottom you will see entries and values for:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150417T180919Z" creationid="valter" creationdate="20150417T180919Z">
@@ -45438,6 +45446,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160328T192948Z" creationid="valter" creationdate="20160328T192948Z">
         <seg>OmegaT 3.5- Manuale dell'Utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 4.0 or later</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T192709Z" creationid="valter" creationdate="20171214T192709Z">
+        <seg>OmegaT v. 4.0 o successive</seg>
       </tuv>
     </tu>
     <tu>
@@ -80211,6 +80227,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T125945Z">
         <seg>cd C:\Documenti\MioOmegat\OmegaT_2.2.3_Beta_Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T192656Z" creationid="valter" creationdate="20171214T192656Z">
+        <seg>cd C:\Documenti\MioOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
       </tuv>
     </tu>
     <tu>
