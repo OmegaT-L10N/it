@@ -37388,6 +37388,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164823Z" creationid="valter" creationdate="20171214T164823Z">
+        <seg>Tipo di installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121001T093148Z">
@@ -38953,6 +38961,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T102006Z">
         <seg>JNA di Todd Fast, Timothy Wall et al (licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164844Z" creationid="valter" creationdate="20171214T164844Z">
+        <seg>JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -48414,6 +48430,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T094435Z">
         <seg>Opera è disponibile per tutte le piattaforme; inoltre è molto veloce e richiede modeste risorse hardware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164836Z" creationid="valter" creationdate="20171214T164836Z">
+        <seg>Sistema operativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -74252,6 +74276,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130511T123245Z">
         <seg>Blog aziendale di Velior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164825Z" creationid="valter" creationdate="20171214T164825Z">
+        <seg>Versione</seg>
       </tuv>
     </tu>
     <tu>
