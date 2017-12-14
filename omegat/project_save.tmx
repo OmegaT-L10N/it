@@ -23610,6 +23610,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170820Z" creationid="valter" creationdate="20171214T170820Z">
+        <seg>Istruzioni dettagliate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130425T072021Z">
@@ -23630,6 +23638,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140705T082752Z" creationid="valtermura" creationdate="20140705T082752Z">
         <seg>Rilevamento...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170907Z" creationid="valter" creationdate="20171214T170907Z">
+        <seg>Versione per gli sviluppatori</seg>
       </tuv>
     </tu>
     <tu>
@@ -40077,6 +40093,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170853Z" creationid="valter" creationdate="20171214T170853Z">
+        <seg>Versione più recente - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latest version</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T212801Z">
@@ -49592,6 +49616,14 @@ di tutto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170809Z" creationid="valter" creationdate="20171214T170809Z">
+        <seg>Piattaforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Platform (operating system)</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130510T144101Z">
@@ -58007,6 +58039,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170802Z" creationid="valter" creationdate="20171214T170802Z">
+        <seg>Versione standard - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard version</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130511T123708Z">
@@ -60170,6 +60210,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T113448Z">
         <seg>Sarà invece usata la cartella corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T171000Z" creationid="valter" creationdate="20171214T171000Z">
+        <seg>La versione "/trunk" è d'avanguardia, è una versione "alpha", ancora in fase di sviluppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85519,6 +85567,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T192208Z" creationid="valter" creationdate="20170115T192208Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170833Z" creationid="valter" creationdate="20171214T170833Z">
+        <seg>{% else %} &lt;a0&gt;Scarica&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170828Z" creationid="valter" creationdate="20171214T170828Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Scarica&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
