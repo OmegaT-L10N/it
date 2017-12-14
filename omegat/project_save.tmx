@@ -13249,6 +13249,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T180452Z" creationid="valter" creationdate="20171214T180452Z">
+        <seg>Un file "Vista esterna" di Déjà Vu prende la forma di un file RTF con una tabella a più colonne, incluse quelle per il testo di origine e per quello tradotto, in cui ogni segmento occupa una cella della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T101947Z">
@@ -36659,6 +36667,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T161756Z">
         <seg>Nella modalità quiet vengono registrate meno informazioni a video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T180356Z" creationid="valter" creationdate="20171214T180356Z">
+        <seg>Allo stesso modo, gli utenti di strumenti CAT, OmegaT compreso, che non possiedono Déjà Vu possono tradurre i file preparati da un utente Déjà Vu.</seg>
       </tuv>
     </tu>
     <tu>
