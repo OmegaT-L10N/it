@@ -49483,6 +49483,14 @@ installare Oracle JRE per proprio conto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodic builds are available on CloudBees.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T175331Z" creationid="valter" creationdate="20171214T175331Z">
+        <seg>Sono disponibili compilazioni periodiche su CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130306T202932Z">
@@ -61857,6 +61865,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T213635Z">
         <seg>Il certificato è firmato da "Didier Briel".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T175243Z" creationid="valter" creationdate="20171214T175243Z">
+        <seg>Il certificato è firmato da &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, un'azienda registrata in Francia.</seg>
       </tuv>
     </tu>
     <tu>
