@@ -77877,6 +77877,14 @@ lo script di installazione (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T173008Z" creationid="valter" creationdate="20171214T173008Z">
+        <seg>È possibile ancora trovare le &lt;a0&gt;versioni più vecchie, superate&lt;/a0&gt; di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can still use the browser solution described above to preview the translations of these files, but you will then also need a) a converter to convert the file to .html format, and b) a utility to launch the converter automatically so that you don't have to convert the files manually.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T100644Z">
