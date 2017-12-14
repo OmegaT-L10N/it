@@ -12510,6 +12510,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T165014Z" creationid="valter" creationdate="20171214T165014Z">
+        <seg>&lt;s1&gt;Vantaggio&lt;/s1&gt;: una volta avviata, i futuri aggiornamenti della versione Web Start saranno installati automaticamente sul proprio computer.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;Warning!&lt;/s1&gt; Changing the filters options when a project is open may cause data loss.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T161007Z">
@@ -12562,6 +12570,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T185722Z">
         <seg>&lt;s3&gt;I tag accoppiati&lt;/s3&gt;, di solito, indicano informazioni di stile che verranno applicate al testo contenuto tra il tag di apertura e quello di chiusura della coppia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T165050Z" creationid="valter" creationdate="20171214T165050Z">
+        <seg>&lt;s3&gt;Svantaggio&lt;/s3&gt;: questa versione non può essere utilizzata, al momento, insieme con i plug-in, quindi non tutte le funzioni sono disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29030,6 +29046,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130510T183036Z">
         <seg>Per l'installazione su Windows (98 o versioni successive).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T165119Z" creationid="valter" creationdate="20171214T165119Z">
+        <seg>Per l'installazione sul sistema Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61309,8 +61333,8 @@ Provare a correggere l'errore e ricaricare il progetto.</seg>
       <tuv lang="EN">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130526T081210Z">
-        <seg>La versione "installa e dimentica".&lt;br0/&gt;</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164915Z">
+        <seg>La versione Web Start è la versione cosiddetta "installa e dimentica".&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
