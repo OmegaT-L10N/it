@@ -33565,6 +33565,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this is all you're interested in, you can skip to step 3a.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193321Z" creationid="valter" creationdate="20171214T193321Z">
+        <seg>Se si interessati solo a questo, è possibile saltare al passaggio 3a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this is not the case, open the main dialog by selecting&lt;e0&gt; Options → File Filters...&lt;/e0&gt; from the main menu.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T101649Z">
@@ -69949,6 +69957,14 @@ file type is associated with Java on your system.</seg>
       <tuv lang="IT" changeid="valter" changedate="20100718T194759Z">
         <seg>Per accedere alla pagina delle segnalazioni degli errori e registrare
 una nuova segnalazione di errore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To build the OmegaT program and all associated files, instead do</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193412Z" creationid="valter" creationdate="20171214T193412Z">
+        <seg>Per compilare il programma OmegaT e tutti i file associati, eseguire invece</seg>
       </tuv>
     </tu>
     <tu>
