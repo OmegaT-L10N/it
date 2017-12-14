@@ -18451,8 +18451,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130526T174139Z">
-        <seg>Di Marco Cevoli e Sergio Alasia.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164427Z">
+        <seg>di Marco Cevoli e Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30756,6 +30756,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164336Z" creationid="valter" creationdate="20171214T164336Z">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Guides you step-by-step to selecting a suitable OmegaT version for download.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130526T080936Z">
@@ -33539,6 +33547,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T213135Z">
         <seg>Se si è sicuri che una versione adatta di JRE è già installata sul proprio computer, è possibile scaricare una versione di OmegaT senza JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164811Z" creationid="valter" creationdate="20171214T164811Z">
+        <seg>Se non si è certi della versione da scaricare, è possibile usare il &lt;a0&gt;Selettore di scaricamento&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74268,6 +74284,30 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T095723Z">
         <seg>Per l'ambiente Windows, &lt;u1&gt;TortoiseSVN&lt;/u1&gt; e &lt;u2&gt;TortoiseGit&lt;/u2&gt; sono client molto popolari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164316Z" creationid="valter" creationdate="20171214T164316Z">
+        <seg>Video 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164322Z" creationid="valter" creationdate="20171214T164322Z">
+        <seg>Video 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164328Z" creationid="valter" creationdate="20171214T164328Z">
+        <seg>Video 3</seg>
       </tuv>
     </tu>
     <tu>
