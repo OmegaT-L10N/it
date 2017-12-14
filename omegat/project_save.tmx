@@ -25724,6 +25724,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Earlier versions of OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T192405Z" creationid="valter" creationdate="20171214T192405Z">
+        <seg>Per le versioni precedenti di OmegaT è necessario &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T191831Z" creationid="valter" creationdate="20170115T191831Z">
@@ -28539,6 +28547,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T103558Z">
         <seg>Per Mac si può scaricare il client, per esempio, da &lt;u1&gt;SourceForge&lt;/u1&gt;, per Linux vedere &lt;u2&gt;Comandi Subversion e script&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For OmegaT 4.0 and later, no additional software is required.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T192327Z" creationid="valter" creationdate="20171214T192327Z">
+        <seg>Per OmegaT v. 4.0 e successive non è richiesto software aggiuntivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78512,6 +78528,14 @@ di una finestra di Finder per poterlo avviare da qualsiasi posizione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130224T215906Z">
         <seg>Si potranno aprire insieme più finestre di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have to set your &lt;c0&gt;JAVA_HOME&lt;/c0&gt; environment variable to point to the location of the JDK.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T192515Z" creationid="valter" creationdate="20171214T192515Z">
+        <seg>Per puntare alla posizione del JDK potrebbe essere necessario impostare la variabile d'ambiente &lt;c0&gt;JAVA_HOME&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
