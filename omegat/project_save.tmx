@@ -382,6 +382,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170435Z" creationid="valter" creationdate="20171214T170435Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215921Z">
@@ -17744,6 +17752,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170628Z" creationid="valter" creationdate="20171214T170628Z">
+        <seg>In base alle scelte personali, raccomandiamo l'utilizzo di:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bashkir</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215407Z">
@@ -24918,6 +24934,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140704T194125Z" creationid="valtermura" creationdate="20140704T194125Z">
         <seg>Parole doppie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170703Z" creationid="valter" creationdate="20171214T170703Z">
+        <seg>Scarica</seg>
       </tuv>
     </tu>
     <tu>
@@ -33491,6 +33515,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130213T200028Z">
         <seg>Se l'opzione è selezionata, il primo caso tradotto per i plurali verrà propagato nelle traduzioni alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170744Z" creationid="valter" creationdate="20171214T170744Z">
+        <seg>Se questa versione non è disponibile, è possibile provare a &lt;a0&gt;scaricare la versione non firmata&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63344,6 +63376,14 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170528Z" creationid="valter" creationdate="20171214T170528Z">
+        <seg>La versione di JRE inclusa è la versione a 64 bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130426T071822Z">
@@ -76060,6 +76100,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170502Z" creationid="valter" creationdate="20171214T170502Z">
+        <seg>Con JRE a 64 bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With &lt;e3&gt;TransTips/Exact Match &lt;/e3&gt; checked, only complete words will be checked, otherwise parts of words will be matched as well.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120531T185923Z">
@@ -84263,6 +84311,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140720T093757Z" creationid="valtermura" creationdate="20140720T093757Z">
         <seg>slf4j-*.jar (licenza MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170656Z" creationid="valter" creationdate="20171214T170656Z">
+        <seg>una qualche versione</seg>
       </tuv>
     </tu>
     <tu>
