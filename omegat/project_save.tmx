@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10213" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1268,6 +1268,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170114T232856Z" creationid="valter" creationdate="20170114T232856Z">
         <seg>&amp;Ignora il contesto dei file quando si identificano segmenti con traduzioni alternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T110506Z" creationid="valter" creationdate="20171214T110506Z">
+        <seg>&amp;Ignora i risultati con grosse differenze (es. PIPPO vs. pippo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20931,6 +20939,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170930T195336Z" creationid="valter" creationdate="20170930T195336Z">
         <seg>Invia i file di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T110324Z" creationid="valter" creationdate="20171214T110324Z">
+        <seg>Invia i file di arrivo</seg>
       </tuv>
     </tu>
     <tu>
