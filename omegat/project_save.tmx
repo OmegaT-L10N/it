@@ -25153,6 +25153,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download and install the Java Development Kit (JDK)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T190654Z" creationid="valter" creationdate="20171214T190654Z">
+        <seg>Scaricare e installare il Java Development Kit (JDK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download and install the Java Development Kit (JDK) and Apache Ant</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T193745Z">
