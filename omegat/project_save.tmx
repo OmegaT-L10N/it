@@ -43630,6 +43630,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T171156Z" creationid="valter" creationdate="20171214T171156Z">
+        <seg>Nightly Builds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No / I don't know:</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T102202Z">
@@ -50224,6 +50232,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T192712Z">
         <seg>In parole povere, OmegaT unisce le informazioni di traduzione salvate in &lt;s2&gt;/omegat/project_save.tmx&lt;/s2&gt; con i documenti di partenza per produrre il contenuto di &lt;s3&gt;/target/&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T171147Z" creationid="valter" creationdate="20171214T171147Z">
+        <seg>Eseguibili precompilati sono disponibili come Nightly Builds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72031,6 +72047,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T084818Z">
         <seg>I file PDF veri (talvolta chiamati file PDF "nativi" o "distillati", sebbene "distillato" abbia un significato più preciso) sono file esportati da un'altra applicazione, solitamente un programma di desktop publishing (DTP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trunk</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T171152Z" creationid="valter" creationdate="20171214T171152Z">
+        <seg>Trunk</seg>
       </tuv>
     </tu>
     <tu>
