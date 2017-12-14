@@ -37588,6 +37588,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163426Z" creationid="valter" creationdate="20171214T163426Z">
+        <seg>Responsabile dell'integrazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intended in particular for users who are new to Linux.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130526T173556Z">
@@ -40227,8 +40235,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Lead developer</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130420T145932Z">
-        <seg>Sviluppatore cliente potenziale</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163411Z">
+        <seg>Sviluppatore principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -45858,6 +45866,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163615Z" creationid="valter" creationdate="20171214T163615Z">
+        <seg>OmegaT ha un gruppo di utenti molto attivo, solidale e multilingue &lt;a0&gt;qui&lt;/a0&gt;, gli utenti sono caldamente incoraggiati a partecipare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T210802Z">
@@ -49552,6 +49568,14 @@ per determinare l'origine dell'errore e riprovare.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163734Z" creationid="valter" creationdate="20171214T163734Z">
+        <seg>Si prega di contattare il &lt;a0&gt;responsabile del progetto OmegaT&lt;/a0&gt; per quanto riguarda qualsiasi questione non trattata sopra.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the Yahoo user group&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T183318Z">
@@ -50994,8 +51018,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project manager</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171214T163342Z" creationid="valter" creationdate="20171214T163342Z">
-        <seg>Gestore del progetto</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163507Z" creationid="valter" creationdate="20171214T163342Z">
+        <seg>Responsabile del progetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -74507,6 +74531,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T172025Z">
         <seg>Grafica del sito di:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163500Z" creationid="valter" creationdate="20171214T163500Z">
+        <seg>Responsabile sito web</seg>
       </tuv>
     </tu>
     <tu>
