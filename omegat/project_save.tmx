@@ -16830,6 +16830,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As already mentioned, this problem with MS Word is not unique to OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194738Z" creationid="valter" creationdate="20171214T194738Z">
+        <seg>Come già accennato, questo problema con MS Word non è limitato solo a OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As an open-source application, OmegaT has been included by many Linux distributions in their repositories, so you may be able to install it by this route.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T091259Z">
@@ -17898,8 +17906,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Before following the instructions below for removal of the nuisance codes, however, remember to make the configuration changes in Word first, or Word may simply re-insert nuisance codes again when the file is next opened.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130528T082237Z">
-        <seg>Prima di seguire le seguenti istruzioni per la rimozione dei codici fastidiosi, tuttavia, si rammenti di apportare le modifiche di configurazione in Word, altrimenti Word potrà semplicemente reinserire tali codici appena il file viene riaperto.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194908Z">
+        <seg>Prima di seguire le istruzioni seguenti per la rimozione dei codici fastidiosi, tuttavia, si rammenti di apportare le modifiche di configurazione in Word, altrimenti Word potrà semplicemente reinserire tali codici appena il file viene riaperto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67681,6 +67689,22 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130319T204833Z">
         <seg>Software di terze parti da usare con OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party tools</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194716Z" creationid="valter" creationdate="20171214T194708Z">
+        <seg>Strumenti di terze parti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party tools have been produced to deal with the problem.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T194825Z" creationid="valter" creationdate="20171214T194825Z">
+        <seg>Gli strumenti di terze parti sono stati creati per gestire il problema.</seg>
       </tuv>
     </tu>
     <tu>
