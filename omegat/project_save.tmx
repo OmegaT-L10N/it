@@ -43472,8 +43472,8 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       <tuv lang="EN">
         <seg>Navigate to the root of the OmegaT source code (the folder containing the file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171214T192627Z" creationid="valter" creationdate="20171214T192627Z">
-        <seg>Navigare alla radice del codice sorgente di OmegaT (la cartella che contiene il file &lt;c0&gt;build.gradle&lt;/c0&gt;), es.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193018Z" creationid="valter" creationdate="20171214T192627Z">
+        <seg>Navigare fino alla radice del codice sorgente di OmegaT (la cartella che contiene il file &lt;c0&gt;build.gradle&lt;/c0&gt;), es.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77977,6 +77977,14 @@ lo script di installazione (linux-install.sh).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130411T194126Z">
         <seg>È possibile considerare questi tre file tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; e &lt;f4&gt;-level2.tmx&lt;/f4&gt;) come una "memoria di traduzione da esportazione", ossia come un'esportazione del contenuto dell'attuale progetto in formato bilingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can run OmegaT directly from the command line with</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193110Z" creationid="valter" creationdate="20171214T193110Z">
+        <seg>È possibile avviare OmegaT direttamente dalla riga di comando con</seg>
       </tuv>
     </tu>
     <tu>
