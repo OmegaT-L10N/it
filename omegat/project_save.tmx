@@ -16298,6 +16298,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And remove "#" at the line head.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195611Z" creationid="valter" creationdate="20171214T195611Z">
+        <seg>e rimuovere "#" all'inizio della riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And subscribe to the translators' list:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T193715Z">
@@ -21926,6 +21934,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T195127Z" creationid="valter" creationdate="20171214T195127Z">
         <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2010-2012</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195748Z" creationid="valter" creationdate="20171214T195748Z">
+        <seg>Copyright Marc Prior 2010-2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -31840,6 +31856,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T201242Z">
         <seg>È bene sapere, tuttavia, cosa è possibile fare e come farlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T200005Z" creationid="valter" creationdate="20171214T200005Z">
+        <seg>Tuttavia, poiché non siamo un progetto commerciale non abbiamo un budget per commissionare le traduzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54219,6 +54243,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195646Z" creationid="valter" creationdate="20171214T195646Z">
+        <seg>Salvare OmegaT.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Options</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120512T185048Z">
@@ -61389,6 +61421,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130326T193958Z">
         <seg>La filosofia del progetto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195829Z" creationid="valter" creationdate="20171214T195829Z">
+        <seg>Il gruppo di progetto di OmegaT non è una società o una persona giuridica formale, ma solo un gruppo di volontari coinvolti nel progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69057,6 +69097,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T201807Z">
         <seg>Questa licenza di occupa della documentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This line defines GOOGLE_API_KEY.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195638Z" creationid="valter" creationdate="20171214T195638Z">
+        <seg>Questa riga definisce GOOGLE_API_KEY.</seg>
       </tuv>
     </tu>
     <tu>
