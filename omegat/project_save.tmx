@@ -2797,6 +2797,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(where "xxxxx" is the API key provided by Google).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195434Z" creationid="valter" creationdate="20171214T195434Z">
+        <seg>(dove "xxxxx" è la chiave API fornita da Google).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* By double-clicking on the file OmegaT.jar.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T192422Z">
@@ -16282,6 +16290,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And remove "#" at the line head of -Dgoogle.api.key.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195409Z" creationid="valter" creationdate="20171214T195409Z">
+        <seg>e rimuovere "#" all'inizio della riga -Dgoogle.api.key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And subscribe to the translators' list:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T193715Z">
@@ -28235,6 +28251,22 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110722T182149Z">
         <seg>Infine, si dovrebbe sempre effettuare una verifica finale della formattazione aprendo il documento tradotto con l'applicazione di visualizzazione o di modifica adatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195546Z" creationid="valter" creationdate="20171214T195546Z">
+        <seg>Individuare il file OmegaT.app/Contents/MacOS/OmegaT.sh e selezionare il proprio editor di testo preferito per aprirlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the following lines;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T195331Z" creationid="valter" creationdate="20171214T195331Z">
+        <seg>Individuare le righe seguenti:</seg>
       </tuv>
     </tu>
     <tu>
