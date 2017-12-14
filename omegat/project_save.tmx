@@ -30972,6 +30972,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML; XHTML:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T175837Z" creationid="valter" creationdate="20171214T175837Z">
+        <seg>HTML; XHTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T101918Z">
@@ -38564,6 +38572,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T204237Z">
         <seg>A volte potrebbe essere utile rendere non traducibili certi tag basati sul valore degli attributi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T175905Z" creationid="valter" creationdate="20171214T175905Z">
+        <seg>È supportato da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48102,6 +48118,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T132003Z">
         <seg>File Open Document Format (ODF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Document Format: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T175805Z" creationid="valter" creationdate="20171214T175805Z">
+        <seg>Formato Open Document: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -61251,8 +61275,8 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       <tuv lang="EN">
         <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130519T112732Z">
-        <seg>Il formato Open Document è uno standard internazionale e ha sostituito il precedente formato di file proprietario (ma aperto) Star Office (due formati di file diversi ma molto simili).</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T175831Z">
+        <seg>Il formato Open Document (ODF) è uno standard internazionale e ha sostituito il precedente formato di file proprietario (ma aperto) Star Office (due formati di file diversi ma molto simili).</seg>
       </tuv>
     </tu>
     <tu>
@@ -67756,6 +67780,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T121546Z">
         <seg>Questa chiamata DEVE essere in swing thread</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T180053Z" creationid="valter" creationdate="20171214T180053Z">
+        <seg>Si può fare (per Déjà Vu DVX) con l'uso del formato di file "Vista esterna" di Déjà Vu.</seg>
       </tuv>
     </tu>
     <tu>
