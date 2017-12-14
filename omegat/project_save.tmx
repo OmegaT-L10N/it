@@ -26292,6 +26292,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163252Z" creationid="valter" creationdate="20171214T163252Z">
+        <seg>Traduttori della versione inglese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130216T164823Z">
@@ -48513,6 +48521,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163326Z" creationid="valter" creationdate="20171214T163326Z">
+        <seg>Autore originale dell'applicazione OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130420T145823Z">
@@ -50972,6 +50988,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120602T134518Z">
         <seg>Scorciatoie per la gestione del progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163342Z" creationid="valter" creationdate="20171214T163342Z">
+        <seg>Gestore del progetto</seg>
       </tuv>
     </tu>
     <tu>
@@ -74457,8 +74481,8 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       <tuv lang="EN">
         <seg>Website content authors</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171214T163205Z" creationid="valter" creationdate="20171214T163205Z">
-        <seg>Autori dei contenuti del sito</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163228Z" creationid="valter" creationdate="20171214T163205Z">
+        <seg>Autori dei contenuti del sito web</seg>
       </tuv>
     </tu>
     <tu>
@@ -74467,6 +74491,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T172032Z">
         <seg>Contenuti del sito di:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163218Z" creationid="valter" creationdate="20171214T163218Z">
+        <seg>Struttura del sito web</seg>
       </tuv>
     </tu>
     <tu>
