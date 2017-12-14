@@ -60574,6 +60574,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T192243Z" creationid="valter" creationdate="20171214T192243Z">
+        <seg>È necessario il &lt;a0&gt;Java Development Kit&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT web site&lt;/a0&gt; contains links to various OmegaT resources, so you should probably start there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101005T172258Z">
