@@ -14673,6 +14673,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T180556Z" creationid="valter" creationdate="20171214T180556Z">
+        <seg>Dopo aver completato la traduzione e creato i documenti tradotti, copiare la colonna tradotta del file tradotto all'interno della colonna di &lt;i0&gt;destinazione&lt;/i0&gt; del file originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;s0&gt;target&lt;/s0&gt; column of the original file.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T074642Z">
