@@ -56735,6 +56735,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T174521Z" creationid="valter" creationdate="20171214T174521Z">
+        <seg>Firmato/Non firmato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T105346Z">
