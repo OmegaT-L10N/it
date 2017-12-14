@@ -946,8 +946,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171214T115216Z" creationid="valter" creationdate="20171214T115216Z">
-        <seg>&amp;Copia informazioni assistenza</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T115532Z" creationid="valter" creationdate="20171214T115216Z">
+        <seg>&amp;Copia info supporto</seg>
       </tuv>
     </tu>
     <tu>
@@ -30220,6 +30220,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T115642Z" creationid="valter" creationdate="20171214T115642Z">
+        <seg>Concordanze del glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary and Dictionary matches</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110722T165014Z">
@@ -48198,6 +48206,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T101601Z">
         <seg>Aprire una finestra di terminale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T115606Z" creationid="valter" creationdate="20171214T115606Z">
+        <seg>Apertura del progetto in collaborazione</seg>
       </tuv>
     </tu>
     <tu>
