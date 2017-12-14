@@ -16052,8 +16052,8 @@ Il file TMX non sarà caricato.</seg>
       <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130511T215040Z">
-        <seg>Un video introduttivo a OmegaT in inglese da John Moran.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164310Z">
+        <seg>Un video introduttivo a OmegaT di John Moran (in inglese).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18457,6 +18457,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164116Z" creationid="valter" creationdate="20171214T164116Z">
+        <seg>di Sheila Gomes (in Brasiliano).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T214511Z">
@@ -18485,6 +18493,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130425T180105Z">
         <seg>Di Torsten Rox (in tedesco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164055Z" creationid="valter" creationdate="20171214T164055Z">
+        <seg>di Vladimir Zhdanov (in Russo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30832,6 +30848,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T162133Z">
         <seg>File HTML e file HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164008Z" creationid="valter" creationdate="20171214T164008Z">
+        <seg>Manuale utente HTML in linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -45994,6 +46018,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164238Z" creationid="valter" creationdate="20171214T164238Z">
+        <seg>Esercitazione introduttiva a OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T174038Z">
@@ -50612,6 +50644,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130511T070905Z">
         <seg>Procedura per la configurazione di Microsoft Translator su un Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164154Z" creationid="valter" creationdate="20171214T164154Z">
+        <seg>Procedura per la configurazione di Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60613,6 +60653,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110722T172438Z">
         <seg>I tag HTML, evidenziati in blu, saranno ignorati da &lt;a1&gt;OmegaT&lt;/a1&gt;, poiché racchiudono completamente il segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T164045Z" creationid="valter" creationdate="20171214T164045Z">
+        <seg>Il manuale HTML dell'utente per la versione standard di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
