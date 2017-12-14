@@ -49576,6 +49576,14 @@ per determinare l'origine dell'errore e riprovare.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163831Z" creationid="valter" creationdate="20171214T163831Z">
+        <seg>Si prega di contattare il &lt;a2&gt;webmaster&lt;/a2&gt; per qualsiasi questione riguardi specificamente il sito web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the Yahoo user group&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T183318Z">
@@ -65865,6 +65873,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163944Z" creationid="valter" creationdate="20171214T163944Z">
+        <seg>Il manuale dell'utente per OmegaT in formato PDF ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user manual is an HTML document with links to different chapters.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101005T171401Z">
@@ -73473,6 +73489,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101005T171700Z">
         <seg>Navigazione fuori linea all'interno del manuale utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T163908Z" creationid="valter" creationdate="20171214T163908Z">
+        <seg>Manuale utente in linea</seg>
       </tuv>
     </tu>
     <tu>
