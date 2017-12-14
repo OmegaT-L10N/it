@@ -7923,6 +7923,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170322Z" creationid="valter" creationdate="20171214T170322Z">
+        <seg>&lt;i1&gt;OmegaT può essere installato su qualsiasi sistema operativo in grado di eseguire la versione 1.6 di Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version &lt;?php echo $min_jre_version?&gt; of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130510T183143Z">
@@ -45710,6 +45718,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T190058Z">
         <seg>OmegaT, prima di procedere con la segmentazione delle frasi, crea i propri tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T170354Z" creationid="valter" creationdate="20171214T170354Z">
+        <seg>OmegaT attualmente richiede la versione 1.6 o successiva di JRE.</seg>
       </tuv>
     </tu>
     <tu>
