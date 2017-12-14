@@ -32927,8 +32927,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If not, debugging messages will be shown which will (hopefully) provide some idea of where the problem is.</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130426T080752Z">
-        <seg>In caso contrario verranno mostrati i messaggi di debug che (si spera) forniranno un'idea di dov'è il problema.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193751Z">
+        <seg>In caso contrario saranno mostrati i messaggi di debug che, si spera, forniranno un'idea di dov'è il problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33129,6 +33129,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T130040Z">
         <seg>Se il codice viene compilato correttamente, sarà visualizzato il messaggio "BUILD SUCCESSFUL".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the code compiles successfully, you will see the &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt; message.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193732Z" creationid="valter" creationdate="20171214T193732Z">
+        <seg>Se il codice è compilato correttamente, sarà visualizzato il messaggio &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35181,8 +35189,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="EN">
         <seg>If your code has compiled successfully, the compiled OmegaT is placed in:</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130426T080901Z">
-        <seg>Se il codice è stato compilato con successo, il file OmegaT compilato si troverà in:</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193815Z">
+        <seg>Se il codice è stato compilato correttamente, il file OmegaT compilato si troverà in:</seg>
       </tuv>
     </tu>
     <tu>
@@ -80287,6 +80295,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193849Z" creationid="valter" creationdate="20171214T193849Z">
+        <seg>cd C:\Documenti\MioOmegat\OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120526T161433Z">
@@ -82869,6 +82885,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120526T170515Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /percorso/al/progetto \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T193902Z" creationid="valter" creationdate="20171214T193902Z">
+        <seg>java -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
