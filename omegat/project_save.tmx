@@ -944,6 +944,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T115216Z" creationid="valter" creationdate="20171214T115216Z">
+        <seg>&amp;Copia informazioni assistenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150725T182533Z" creationid="valter" creationdate="20150725T182533Z">
@@ -27449,16 +27457,16 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171214T110712Z" creationid="valter" creationdate="20171214T110712Z">
-        <seg>Impossibile inviare il file di arrivo</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T114800Z" creationid="valter" creationdate="20171214T110712Z">
+        <seg>Invio dei file di arrivo non riuscito.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20100714T101158Z">
-        <seg>Impossibile compilare i file del progetto.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T114915Z">
+        <seg>Compilazione dei file del progetto non riuscita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27473,8 +27481,8 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20100714T101153Z">
-        <seg>Impossibile caricare il progetto indicato.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T114846Z">
+        <seg>Caricamento del progetto indicato non riuscito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27489,8 +27497,16 @@ launch script.</seg>
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20111002T175148Z">
-        <seg>Caricamento della memoria di traduzione {0} del progetto non riuscita!</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171214T114826Z">
+        <seg>Caricamento della memoria di traduzione {0} del progetto non riuscita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T114958Z" creationid="valter" creationdate="20171214T114958Z">
+        <seg>Aggiornamento delle proprietà del progetto non riuscito</seg>
       </tuv>
     </tu>
     <tu>
