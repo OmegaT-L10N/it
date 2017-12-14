@@ -12302,6 +12302,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T173316Z" creationid="valter" creationdate="20171214T173316Z">
+        <seg>&lt;s0&gt;Utenti di Mac OS X&lt;/s0&gt;: JRE è installato su Mac OS X per impostazione predefinita, pertanto non esiste una versione per Mac OS X con JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Memory assignment:&lt;/s0&gt;&lt;e1&gt; -XmxZZM&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T100612Z">
@@ -34449,6 +34457,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T173206Z" creationid="valter" creationdate="20171214T173206Z">
+        <seg>Se si installa la versione di OmegaT con JRE anche se JRE è già installato nel computer, il JRE di OmegaT verrà installato separatamente e non entrerà in conflitto con esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you know exactly what you are looking for, go directly to the &lt;a0&gt;download area on Sourceforge&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T220514Z">
@@ -35970,6 +35986,14 @@ doppio clic sul collegamento.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T122314Z">
         <seg>Per rendere il funzionamento del codice script più chiaro, ogni script esegue essenzialmente una sola funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171214T173053Z" creationid="valter" creationdate="20171214T173053Z">
+        <seg>Per essere eseguito, OmegaT richiede l'installazione nel proprio computer di Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
