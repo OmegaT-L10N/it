@@ -18673,6 +18673,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123228Z" creationid="valter" creationdate="20171215T123228Z">
+        <seg>Browser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T085926Z">
@@ -22198,6 +22206,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T220248Z">
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2009-2011 Susan Welsh and Marc Prior &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2008-2011</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123218Z" creationid="valter" creationdate="20171215T123218Z">
+        <seg>Copyright Marc Prior 2008-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -28659,6 +28675,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T212506Z">
         <seg>Finlandese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Firefox:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123235Z" creationid="valter" creationdate="20171215T123235Z">
+        <seg>Firefox:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36089,6 +36113,22 @@ doppio clic sul collegamento.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T201206Z">
         <seg>In TMX, il tag di paragrafo corrispondente a un segmento è "tu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In TMXDialect.java:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123006Z" creationid="valter" creationdate="20171215T123006Z">
+        <seg>In TMXDialect.java:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In TMXFilter.java:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123138Z" creationid="valter" creationdate="20171215T123138Z">
+        <seg>In TMXFilter.java:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49270,6 +49310,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T094435Z">
         <seg>Opera è disponibile per tutte le piattaforme; inoltre è molto veloce e richiede modeste risorse hardware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opera:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123239Z" creationid="valter" creationdate="20171215T123239Z">
+        <seg>Opera:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -81427,6 +81475,38 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120514T220149Z">
         <seg>giustificazione predefinita, ossia quella definita dalla lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123039Z" creationid="valter" creationdate="20171215T123039Z">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123015Z" creationid="valter" creationdate="20171215T123015Z">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123023Z" creationid="valter" creationdate="20171215T123023Z">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineShortcut("link", "li");</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123030Z" creationid="valter" creationdate="20171215T123030Z">
+        <seg>defineShortcut("link", "li");</seg>
       </tuv>
     </tu>
     <tu>
