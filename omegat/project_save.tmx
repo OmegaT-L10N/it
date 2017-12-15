@@ -3803,6 +3803,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- You may pick from any of the available subscription offers, shown in the right area of the page.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T113515Z" creationid="valter" creationdate="20171215T113515Z">
+        <seg>- Si può scegliere una qualsiasi delle offerte disponibili tra quelle mostrate a destra della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- ability to run on any operating system supporting Java</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T184321Z">
@@ -35277,6 +35285,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101005T174633Z">
         <seg>Se si desidera seguire lo sviluppo delle operazioni correlate a una segnalazione, ci si dovrebbe registrare come utente SourceForge, effettuare l'accesso e registrare una segnalazione di errore mentre si è ancora collegati, oppure fare semplicemente clic su “Monitor” sulla parte superiore del rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T113945Z" creationid="valter" creationdate="20171215T113945Z">
+        <seg>Per ottenere l'iscrizione di base (gratuita, fino a due milioni di caratteri al mese) fare clic su [ACCEDI] in cima all'elenco delle iscrizioni.&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
