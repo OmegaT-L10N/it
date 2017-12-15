@@ -3283,10 +3283,26 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Click [DEVELOPERS] in the left "my account" menu.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114113Z" creationid="valter" creationdate="20171215T114113Z">
+        <seg>- Fare clic su [SVILUPPATORI] nel menu "mio account" a sinistra.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T114022Z" creationid="valter" creationdate="20171215T114022Z">
         <seg>- Fare clic su [Mio account] in cima alla pagina.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [REGISTER] shown below "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114155Z" creationid="valter" creationdate="20171215T114155Z">
+        <seg>- Fare clic su [REGISTRA] che si trova sotto "Applicazioni registrate."&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,6 +3671,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T093535Z">
         <seg>- File QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Register an application with the following infomation:&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114217Z" creationid="valter" creationdate="20171215T114217Z">
+        <seg>- Registrare un'applicazione con le infomazioni seguenti:&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -86615,6 +86639,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101004T165732Z">
         <seg>Si può &lt;a5&gt;selezionare&lt;/a5&gt; un'altra corrispondenza tramite la combinazione di tasti &lt;c6&gt;Ctrl+2&lt;/c6&gt;, &lt;c7&gt;3&lt;/c7&gt;, &lt;c8&gt;4&lt;/c8&gt; o &lt;c9&gt;5.&lt;/c9&gt; Se non dovesse esistere una corrispondenza #5, naturalmente la combinazione &lt;c10&gt;Ctrl+5&lt;/c10&gt; non sortirebbe alcun effetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client ID: Any string ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114239Z" creationid="valter" creationdate="20171215T114239Z">
+        <seg>   - Client ID: qualsiasi stringa es.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114257Z" creationid="valter" creationdate="20171215T114257Z">
+        <seg>   - Nome: qualsiasi stringa es.) my_application01&lt;br9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
