@@ -29015,6 +29015,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For LibreOffice+Unoconv:&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T130659Z" creationid="valter" creationdate="20171215T130659Z">
+        <seg>Per LibreOffice+Unoconv:&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For LibreOffice+Unoconv:br/&gt; unoconv -f html &lt;i5&gt;file&lt;/i5&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130503T231117Z">
@@ -78450,6 +78458,14 @@ OmegaT.exe nel menu Start, nel desktop o nella barra di avvio rapido.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T201836Z">
         <seg>È possibile eliminare la riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T131022Z" creationid="valter" creationdate="20171215T130809Z">
+        <seg>È possibile disattivare la funzione di propagazione automatica in Progetto &gt; Proprietà, togliendo la spunta alla casella "Propagazione automatica delle traduzioni".</seg>
       </tuv>
     </tu>
     <tu>
