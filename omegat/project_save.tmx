@@ -18817,6 +18817,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143021Z" creationid="valter" creationdate="20171215T143021Z">
+        <seg>Plugin Browser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T085926Z">
@@ -28267,6 +28275,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215422Z">
         <seg>Faroese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143036Z" creationid="valter" creationdate="20171215T143036Z">
+        <seg>Accesso rapido ai siti web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60379,6 +60395,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMXMerger</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143129Z" creationid="valter" creationdate="20171215T143129Z">
+        <seg>TMXMerger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMs</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130421T170553Z">
@@ -65821,6 +65845,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T162019Z">
         <seg>È definita "RFE" ('Request for Feature Enhancement', richiesta di potenziamento di funzionalità) ed è gestita &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143000Z" creationid="valter" creationdate="20171215T143000Z">
+        <seg>È definita &lt;a0&gt;"RFE" ('Request for Feature Enhancement', richiesta di potenziamento di funzionalità) ed è gestita qui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76267,6 +76299,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T163500Z" creationid="valter" creationdate="20171214T163500Z">
         <seg>Responsabile sito web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143121Z" creationid="valter" creationdate="20171215T143121Z">
+        <seg>Il supporto ai siti web può essere scritto in script Groovy.</seg>
       </tuv>
     </tu>
     <tu>
