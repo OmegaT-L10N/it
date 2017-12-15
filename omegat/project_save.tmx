@@ -29619,6 +29619,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the full and minimal packages (user interface and documentation), you do not need to create an OmegaT project as you normally would in OmegaT: when unpacked, the files for localization of the OmegaT program are a ready-to-use OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T110733Z" creationid="valter" creationdate="20171215T110733Z">
+        <seg>Non è necessario creare un progetto OmegaT per i pacchetti completi e minimi (interfaccia utente e documentazione), come si farebbe normalmente in OmegaT: una volta decompressi i file da localizzare del programma sono già pronti in forma di progetto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the kaptain script to work, however, you must first install kaptain.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130520T215333Z">
