@@ -3219,6 +3219,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Add the following options to launch OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T121501Z" creationid="valter" creationdate="20171215T121435Z">
+        <seg>- Aggiungere le seguenti opzioni per l'avvio di OmegaT (dove Client ID: my_clientid1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T120146Z" creationid="valter" creationdate="20171215T120146Z">
@@ -3783,6 +3791,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T120250Z" creationid="valter" creationdate="20171215T120250Z">
         <seg>- Salvare OmegaT.l4J.ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T121352Z" creationid="valter" creationdate="20171215T121352Z">
+        <seg>- Salvare OmegaT.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74848,6 +74864,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Microsoft Translator machine translation in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T121534Z" creationid="valter" creationdate="20171215T121534Z">
+        <seg>Uso della traduzione automatica di Microsoft Translator in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT TMs&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T092329Z">
@@ -83461,6 +83485,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101212T181623Z">
         <seg>java -Xmx1024M -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T121444Z" creationid="valter" creationdate="20171215T121444Z">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=proprio Client secret OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
