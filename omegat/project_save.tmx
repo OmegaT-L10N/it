@@ -12494,6 +12494,22 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140747Z" creationid="valter" creationdate="20171215T140747Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Versione più recente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140739Z" creationid="valter" creationdate="20171215T140739Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Versione standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;c1&gt;Ctrl&lt;/c1&gt;&lt;/s0&gt; is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;s2&gt;&lt;c3&gt;Ctrl&lt;/c3&gt;&lt;/s2&gt; / &lt;c4&gt;&lt;s5&gt;Control&lt;/s5&gt;&lt;/c4&gt; key.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T192252Z">
@@ -75017,6 +75033,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130511T064901Z">
         <seg>Manuali dell'utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T141258Z" creationid="valter" creationdate="20171215T141258Z">
+        <seg>Ritratto dell'utente</seg>
       </tuv>
     </tu>
     <tu>
