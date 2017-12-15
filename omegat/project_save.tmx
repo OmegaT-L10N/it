@@ -3715,6 +3715,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T112923Z" creationid="valter" creationdate="20171215T112923Z">
+        <seg>- Per usare la Microsoft Translator API è necessario registrare la propria Applicazione in Microsoft Azure Marketplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Typo3 LocManager (*.xml)</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T093537Z">
