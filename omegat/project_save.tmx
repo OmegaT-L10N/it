@@ -25369,6 +25369,14 @@ $endlink='&lt;/a&gt;';?&gt;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the files for translation.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T105330Z" creationid="valter" creationdate="20171215T105330Z">
+        <seg>Scaricare i file da tradurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the most recent files (OmegaT-tokenizers_0.4_2-2.1.zip at the time of this writing).</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T182037Z">
@@ -29543,6 +29551,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160328T184148Z" creationid="valter" creationdate="20160328T184148Z">
         <seg>Per tale motivo, la sua impostazione predefinita è DISATTIVO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the &lt;s0&gt;OmegaT program and documentation&lt;/s0&gt;, these are either the &lt;a1&gt;"Full" package&lt;/a1&gt; or the &lt;a2&gt;"Minimal" package&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T105615Z" creationid="valter" creationdate="20171215T105615Z">
+        <seg>I file relativi al &lt;s0&gt;programma e alla documentazione di OmegaT&lt;/s0&gt; si possono trovare o nel &lt;a1&gt;pacchetto "completo"&lt;/a1&gt; o nel &lt;a2&gt;pacchetto "minimo"&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
