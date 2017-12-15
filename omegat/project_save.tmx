@@ -28287,6 +28287,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, there is the &lt;s0&gt;Beginner's Tutorial&lt;/s0&gt;, available &lt;a1&gt;here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T110214Z" creationid="valter" creationdate="20171215T110214Z">
+        <seg>Per finire, l'&lt;s0&gt;Esercitazione per principianti&lt;/s0&gt; è disponibile &lt;a1&gt;qui&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, you should always double-check the final formatting by opening the translated document in its associated viewer or editor.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T204358Z">
@@ -41281,6 +41289,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130326T192815Z">
         <seg>Risorse per la localizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizations of the OmegaT user interface and documentation are generally updated in step with new releases of OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T110048Z" creationid="valter" creationdate="20171215T110048Z">
+        <seg>Gli aggiornamenti delle localizzazioni dell'interfaccia utente e della documentazione di OmegaT vanno in genere di pari passo con i nuovi rilasci del programma.</seg>
       </tuv>
     </tu>
     <tu>
