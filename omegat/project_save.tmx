@@ -86819,6 +86819,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122251Z" creationid="valter" creationdate="20171215T122251Z">
+        <seg>   - Se, nella finestra Traduzione automatica, compare un messaggio di "Bad Request", verifica che i valori "Client ID" e "Client secret" siano corretti.&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T114257Z" creationid="valter" creationdate="20171215T114257Z">
