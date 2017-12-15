@@ -34415,6 +34415,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T142749Z" creationid="valter" creationdate="20171215T142749Z">
+        <seg>Se hai già una buona familiarità con i computer in generale e scegli un semplice linguaggio di script come Tcl/Tk, potresti imparare abbastanza da essere in grado di scrivere script semplici ma utili in un paio di settimane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T110322Z">
@@ -59823,6 +59831,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101005T161433Z">
         <seg>Si tratta di una condizione che risulta particolarmente utile quando si devono apportare modifiche terminologiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T142407Z" creationid="valter" creationdate="20171215T142407Z">
+        <seg>Tale codice ausiliario, per esempio, è già stato scritto in Javascript, Groovy and Tcl/Tk, per esempio.</seg>
       </tuv>
     </tu>
     <tu>
