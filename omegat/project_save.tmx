@@ -35113,6 +35113,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T111853Z" creationid="valter" creationdate="20171215T111853Z">
+        <seg>Se si è utilizzato OmegaT o un altro strumento CAT per il lavoro, caricare anche la memoria di traduzione (file TMX) nel &lt;a0&gt;deposito delle memorie di traduzione, all'interno del gruppo in linea degli utenti&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170319T174604Z" creationid="valter" creationdate="20170319T174604Z">
