@@ -3611,6 +3611,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114555Z" creationid="valter" creationdate="20171215T114555Z">
+        <seg>- OmegaT usa le informazioni "Client ID" e "Client secret" con cui si è registrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- On Linux, on the command line&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130523T191738Z">
