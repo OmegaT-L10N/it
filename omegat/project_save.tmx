@@ -14801,6 +14801,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143532Z" creationid="valter" creationdate="20171215T143532Z">
+        <seg>Aggiungere numeri a tutti i segmenti e così renderli tutti "univoci"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T104209Z">
@@ -14813,6 +14821,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130213T200735Z">
         <seg>Aggiungi o riscrivi la dichiarazione di codifica nei file HTML e XHTML: &lt;e0&gt;spesso i file di destinazione devono contenere una codifica dei caratteri diversa da quella specificata nei file di partenza (definita essa in modo esplicito o implicito).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143513Z" creationid="valter" creationdate="20171215T143513Z">
+        <seg>Aggiungere termini a un glossario mentre si sta traducendo in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19001,6 +19017,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143639Z" creationid="valter" creationdate="20171215T143639Z">
+        <seg>Di Leo Viëtor (in olandese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T164427Z">
@@ -19061,6 +19085,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130425T195724Z">
         <seg>Di Václav Hejda (in ceco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143615Z" creationid="valter" creationdate="20171215T143615Z">
+        <seg>Di Yutaka Kachi (in Japanese).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20149,6 +20181,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140705T080119Z" creationid="valtermura" creationdate="20140705T075716Z">
         <seg>Verifica gli spazi intorno ai tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143605Z" creationid="valter" creationdate="20171215T143605Z">
+        <seg>Controllo ortografico (varie procedure)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22726,6 +22766,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T115723Z">
         <seg>Crea un nuovo progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143504Z" creationid="valter" creationdate="20171215T143504Z">
+        <seg>Creare un file TMX contenente tutte le stringhe che contengano testo di origine e di destinazione identico</seg>
       </tuv>
     </tu>
     <tu>
@@ -28131,6 +28179,14 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T174620Z">
         <seg>Per convertire i nei formati supportati possono essere usati gli strumenti esterni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143451Z" creationid="valter" creationdate="20171215T143451Z">
+        <seg>Estrarre tutto il testo di partenza dai file del progetto in un unico grande file di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -47704,6 +47760,14 @@ essere avviato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143700Z" creationid="valter" creationdate="20171215T143700Z">
+        <seg>OmegaT su Wikipedia &lt;s0&gt;25 lingue&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on the Web</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T100645Z">
@@ -53641,6 +53705,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143555Z" creationid="valter" creationdate="20171215T143555Z">
+        <seg>Rimuovere tutto il testo tranne i tag, o tutti i tag tranne il testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T175535Z">
@@ -54439,6 +54511,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130425T200046Z">
         <seg>Recensione di OmegaT, 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143626Z" creationid="valter" creationdate="20171215T143626Z">
+        <seg>Recensione di OmegaT, 2010.</seg>
       </tuv>
     </tu>
     <tu>
