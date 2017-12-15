@@ -48402,8 +48402,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="EN">
         <seg>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130528T101857Z">
-        <seg>Una volta avviato Priorview, tuttavia, non è possibile selezionare un browser o un utilità di conversione differente; queste opzioni sono dunque nascoste dopo l'avvio.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T130508Z">
+        <seg>Una volta avviato Priorview, tuttavia, non è possibile selezionare un browser o un'utilità di conversione differente; queste opzioni sono dunque nascoste dopo l'avvio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62187,7 +62187,7 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       <tuv lang="EN">
         <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130528T101918Z">
+      <tuv lang="IT" changeid="valter" changedate="20171215T130525Z">
         <seg>Il pulsante Esci chiude Priorview ed elimina anche i file temporanei creati</seg>
       </tuv>
     </tu>
