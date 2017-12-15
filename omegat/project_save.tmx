@@ -3131,6 +3131,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>*If you do not already have an Microsoft account, you will need to register one first.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T113331Z" creationid="valter" creationdate="20171215T113331Z">
+        <seg>*Se non si possiede già un account Microsoft, sarà necessario prima registrarne uno.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140705T082556Z" creationid="valtermura" creationdate="20140705T082535Z">
@@ -3207,6 +3215,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130326T180821Z">
         <seg>- Aggiungere termini a un glossario mentre si sta traducendo in OmegaT &lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T113418Z" creationid="valter" creationdate="20171215T113418Z">
+        <seg>- Dopo aver eseguito l'accesso in Microsoft Azure Marketplace, è possibile ottenere un'iscrizione per utilizzare Microsoft Translator.&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
