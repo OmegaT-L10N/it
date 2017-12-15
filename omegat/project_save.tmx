@@ -14793,6 +14793,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After downloading the zip archive of the full or minimal package or the website localization package, unpack the archive.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T110425Z" creationid="valter" creationdate="20171215T110425Z">
+        <seg>Decomprimere l'archivio zip del pacchetto completo o minimo, o del pacchetto di localizzazione del sito web, dopo averlo scaricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130523T191634Z">
