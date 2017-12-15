@@ -34897,6 +34897,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T105824Z" creationid="valter" creationdate="20171215T105824Z">
+        <seg>Se si preferisce tradurre da una lingua diversa in cui OmegaT è già stato localizzato, contattare il &lt;a2&gt;webmaster di OmegaT&lt;/a2&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer to translate into an empty target field, set this option in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behaviour...&lt;i3/&gt;&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110719T124309Z">
@@ -35222,6 +35230,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T135251Z">
         <seg>Se si desidera ricercare segmenti contenenti &lt;s0&gt;*&lt;/s0&gt; o &lt;s1&gt;?&lt;/s1&gt;, si dovrà avviare una ricerca per espressioni regolari e prefissare questi caratteri a una barra rovesciata ('\'), per esempio 'x\*y' per trovare istanze di 'x*y' e 'x\?&lt;c2&gt;y&lt;/c2&gt;' per quelle di '&lt;c3&gt;x?y&lt;/c3&gt;'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to translate the &lt;s0&gt;OmegaT web pages&lt;/s0&gt;, download the &lt;a1&gt;website localization package&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T105731Z" creationid="valter" creationdate="20171215T105731Z">
+        <seg>Se si vogliono tradurre le &lt;s0&gt;pagine web di OmegaT&lt;/s0&gt;, scaricare il &lt;a1&gt;pacchetto di localizzazione del sito web&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78604,8 +78620,8 @@ SourceForge too.</seg>
       <tuv lang="EN">
         <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130523T181550Z">
-        <seg>Non è necessario tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (bundle), o soltanto la guida di avvio rapido.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T105637Z">
+        <seg>Non è necessario tradurre un pacchetto completo; è possibile, ad esempio, tradurre solo l'interfaccia utente (il file bundle.properties), o soltanto la guida di avvio rapido.</seg>
       </tuv>
     </tu>
     <tu>
