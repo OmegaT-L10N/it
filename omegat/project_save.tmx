@@ -3555,6 +3555,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T120045Z" creationid="valter" creationdate="20171215T120045Z">
+        <seg>- Individuare il file OmegaT.l4J.ini (nella cartella principale del programma OmegaT) e modificare le righe che seguono col proprio editor di testo:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Log into Microsoft Azure Marketplace:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T084406Z">
