@@ -3939,6 +3939,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- When you select any segments, its translation will be displayed in Machine Translation window of OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122111Z" creationid="valter" creationdate="20171215T122111Z">
+        <seg>- Quando si seleziona un segmento, la sua traduzione sarà mostrata nella finestra Traduzione automatica di OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- WiX Localization (*.wxl)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120511T191006Z">
