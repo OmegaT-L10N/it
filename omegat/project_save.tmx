@@ -24970,6 +24970,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't forget to &lt;s0&gt;update the OmegaT Localization Plan&lt;/s0&gt; (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T112024Z" creationid="valter" creationdate="20171215T112024Z">
+        <seg>Non dimenticare di &lt;s0&gt;aggiornare il piano di localizzazione di OmegaT&lt;/s0&gt; (si veda il passaggio due della procedura) per mostrare che è stata completata la traduzione di una particolare versione o di un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don't forget to update the OmegaT Localization Plan (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T100036Z">
@@ -34367,6 +34375,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130507T092322Z">
         <seg>Se si interrompere prima di completare la transaltion, si prega di creare i file tmx per quello che avete fatto e li invia al coordinatore della localizzazione.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you discontinue before completing the translation, please do create the tmx files for the you have done and upload them to the translation memory repository.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T112214Z" creationid="valter" creationdate="20171215T112214Z">
+        <seg>Se ci si ferma prima di completare la traduzione, raccomandiamo di creare i file .tmx per il lavoro già fatto e caricarli del deposito delle memorie di traduzione.</seg>
       </tuv>
     </tu>
     <tu>
