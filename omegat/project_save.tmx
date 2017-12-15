@@ -3283,6 +3283,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114022Z" creationid="valter" creationdate="20171215T114022Z">
+        <seg>- Fare clic su [Mio account] in cima alla pagina.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Click on the Contents folder and make a backup/copy/duplicate of your info.plist file.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T084838Z">
@@ -52573,6 +52581,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140223T202528Z" creationid="valtermura" creationdate="20140223T202528Z">
         <seg>Registra traduzione uguale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register your application</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114001Z" creationid="valter" creationdate="20171215T114001Z">
+        <seg>Registrare la propria applicazione</seg>
       </tuv>
     </tu>
     <tu>
