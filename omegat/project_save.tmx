@@ -2691,8 +2691,8 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       <tuv lang="EN">
         <seg>(This is not the case for the website localization files.)</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171215T110833Z" creationid="valter" creationdate="20171215T110833Z">
-        <seg>(Questo non avviene per i file di localizzazione del sito web.)</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T111359Z" creationid="valter" creationdate="20171215T110833Z">
+        <seg>Questo non avviene per i file di localizzazione del sito web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23526,6 +23526,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T191939Z" creationid="valter" creationdate="20170115T191939Z">
         <seg>Delimitatore:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT (user interface and documentation) or upload it to the website (website pages).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T111640Z" creationid="valter" creationdate="20171215T111640Z">
+        <seg>Consegnare il file al coordinatore della localizzazione, che lo passerà alla squadra degli sviluppatori per l'inclusione nel prossimo rilascio di OmegaT (interfaccia utente e documentazione) o caricarlo nel sito web (pagine del sito web).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51288,6 +51296,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Produce a screenshot of OmegaT in your language (after translating the user interface).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T111451Z" creationid="valter" creationdate="20171215T111451Z">
+        <seg>Produrre una schermata di OmegaT nella propria lingua (dopo aver tradotto l'interfaccia utente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Produce a screenshot of OmegaT in your language.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130523T183635Z">
@@ -68819,8 +68835,8 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
       <tuv lang="EN">
         <seg>This is also optional, but if you have been able to launch OmegaT with your localized bundle (see above), it will enhance the quality of your translation.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130528T095811Z">
-        <seg>Anche questa procedura è facoltativa, ma se si è stati in grado di avviare OmegaT col proprio pacchetto localizzato (vedere sopra), essa migliorerà la qualità della traduzione.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T111511Z">
+        <seg>Anche questa procedura è facoltativa, ma è stato possibile avviare OmegaT col proprio pacchetto localizzato (vedere sopra), essa migliorerà la qualità della traduzione.</seg>
       </tuv>
     </tu>
     <tu>
