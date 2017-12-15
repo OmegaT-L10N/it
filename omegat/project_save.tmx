@@ -5299,6 +5299,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123430Z" creationid="valter" creationdate="20171215T123430Z">
+        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (inexpensive)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T194953Z" creationid="valter" creationdate="20171214T194953Z">
@@ -5651,6 +5659,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123420Z" creationid="valter" creationdate="20171215T123420Z">
+        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Other systems - Solaris SPARC/x86/x64,&lt;/a0&gt; &lt;a1&gt;Linux x64/PowerPC, Windows x64&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T101456Z">
@@ -5855,6 +5871,22 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215847Z">
         <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123447Z" creationid="valter" creationdate="20171215T123447Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123439Z" creationid="valter" creationdate="20171215T123439Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20321,6 +20353,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chrome:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123245Z" creationid="valter" creationdate="20171215T123245Z">
+        <seg>Chrome:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chuvash</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T121049Z">
@@ -22238,6 +22278,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T195748Z" creationid="valter" creationdate="20171214T195748Z">
         <seg>Copyright Marc Prior 2010-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2012</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123349Z" creationid="valter" creationdate="20171215T123349Z">
+        <seg>Copyright Marc Prior 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -48544,6 +48592,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have installed either Abiword or the LibreOffice+Unoconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123342Z" creationid="valter" creationdate="20171215T123342Z">
+        <seg>Una volta installato Abiword o la combinazione di LibreOffice+Uniconv, è possibile convertire i file di destinazione prodotti da OmegaT in formato html, in modo da poter essere letti dal browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have joined, you can post questions there regarding OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130324T193035Z">
@@ -71388,8 +71444,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To launch Priorview, open a command prompt/terminal/console and type in:</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130521T102134Z">
-        <seg>Per il lancio di Priorview, aprire un prompt dei comandi/terminale/console e digitare:</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123516Z">
+        <seg>Per avviare Priorview, aprire un prompt dei comandi/terminale/console e digitare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -85741,8 +85797,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>the file conversion utility that you have installed.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130521T102411Z">
-        <seg>l'utilità di conversione file che si è installato.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T123551Z">
+        <seg>l'utilità di conversione file che si è installata.</seg>
       </tuv>
     </tu>
     <tu>
