@@ -29875,6 +29875,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For some file types, OmegaT differentiates between identical segments by referring to their preceding and following segments.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T133927Z" creationid="valter" creationdate="20171215T133927Z">
+        <seg>Per differenziare i segmenti identici di alcuni tipi di file, OmegaT fa riferimento ai segmenti precedenti e seguenti il segmento interessato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For some file types, OmegaT uses the preceding and following segments to make segments unique.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T103346Z">
@@ -71741,8 +71749,8 @@ sviluppatori a:</seg>
       <tuv lang="EN">
         <seg>To remove the "alternative translation" status of a single segment and bring it back into line with the "default translation", simply delete the content of the segment.</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130504T075315Z">
-        <seg>Per rimuovere lo stato di «traduzione alternativa» di un singolo segmento e riportarlo in linea con la "traduzione predefinita", è sufficiente rimuovere il contenuto del segmento.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T133704Z">
+        <seg>Per rimuovere lo stato di "traduzione alternativa" di un singolo segmento e riportarlo in linea con la "traduzione predefinita", è sufficiente rimuovere il contenuto del segmento.</seg>
       </tuv>
     </tu>
     <tu>
