@@ -3979,6 +3979,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- You can check your usage limit in your account by accessing the above page.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122744Z" creationid="valter" creationdate="20171215T122744Z">
+        <seg>- È possibile verificare il limite d'uso all'interno del proprio account eseguendo l'accesso alla pagina sopra indicata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- You may pick from any of the available subscription offers, shown in the right area of the page.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T113515Z" creationid="valter" creationdate="20171215T113515Z">
@@ -22222,6 +22230,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T084444Z">
         <seg>Copyright Milan Hubacek e Marc Prior 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Will Helton and OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122931Z" creationid="valter" creationdate="20171215T122931Z">
+        <seg>Copyright Will Helton e la Squadra di localizzazione giapponese di OmegaT 2012-2015&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61106,6 +61122,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T220930Z">
         <seg>La versione "standard" di OmegaT include un manuale dell'utente completo (almeno in inglese) e in genere è stata provata per qualche tempo per eliminare qualsiasi errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Status" field displays the limit like as "1,998,890 Characters remaining" for example.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122847Z" creationid="valter" creationdate="20171215T122847Z">
+        <seg>Il campo "Status" mostra il limite in formato "1,998,890 caratteri rimasti", per esempio.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
