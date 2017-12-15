@@ -34927,6 +34927,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T133645Z" creationid="valter" creationdate="20171215T133645Z">
+        <seg>Se si è già tradotta un'istanza di un segmento non univoco e si desidera rendere un'istanza diversa del segmento non univoco la traduzione predefinita, senza modificare la traduzione dell'istanza già tradotta, si deve prima impostare in "traduzione alternativa" lo stato del segmento che è stato già tradotto utilizzando il comando «Crea traduzione alternativa».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have an existing terminology handling system - MultiTerm for example - it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120515T214610Z">
