@@ -21485,8 +21485,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
       <tuv lang="EN">
         <seg>Contact the relevant co-ordinator for the translation work:&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171215T104115Z" creationid="valter" creationdate="20171215T104115Z">
-        <seg>Contattare il relativo coordinatore del progetto di traduzione:&lt;br0/&gt;</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T104434Z" creationid="valter" creationdate="20171215T104115Z">
+        <seg>Contattare il relativo Coordinatore del progetto di traduzione:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35214,6 +35214,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130523T181604Z">
         <seg>Se si vogliono tradurre le pagine web di OmegaT, scaricare il &lt;a0&gt;pacchetto di localizzazione del sito Web&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to translate the OmegaT website and/or the Beginner's Tutorial, please contact the &lt;a3&gt;OmegaT Website Manager&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T105312Z" creationid="valter" creationdate="20171215T105312Z">
+        <seg>Se si vuoIe tradurre il sito web o l'Esercitazione per principianti di OmegaT, contattare il &lt;a3&gt;Responsabile del sito web di OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
