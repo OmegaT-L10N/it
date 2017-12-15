@@ -12726,6 +12726,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140509Z" creationid="valter" creationdate="20171215T140509Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; è disponibile in diverse versioni per soddisfare le esigenze di un'ampia gamma di utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Other: &lt;Something&gt;\OmegaT&lt;/s0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java.)</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T193503Z">
@@ -15918,6 +15926,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120512T182415Z">
         <seg>In alternativa, fare doppio-clic sul file OmegaT.exe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140653Z" creationid="valter" creationdate="20171215T140653Z">
+        <seg>In alternativa, se si sa già quale versione si desidera scaricare, fare clic sul pulsante per visualizzare una panoramica delle diverse versioni di OmegaT disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25630,6 +25646,22 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130320T080152Z">
         <seg>Scaricare OmegaT (attualmente, versione 2.6.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140731Z" creationid="valter" creationdate="20171215T140731Z">
+        <seg>Informazioni generali sullo scaricamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140706Z" creationid="valter" creationdate="20171215T140706Z">
+        <seg>Selettore di scaricamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -46406,6 +46438,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101005T172108Z">
         <seg>Progetto OmegaT sul Web, segnalazione errori e contributi - Manuale per l'Utente di OmegaT 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140440Z" creationid="valter" creationdate="20171215T140440Z">
+        <seg>Schermata di OmegaT</seg>
       </tuv>
     </tu>
     <tu>
