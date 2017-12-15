@@ -41353,6 +41353,14 @@ OmegaT può essere avviato in vari modi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T134152Z" creationid="valter" creationdate="20171215T134152Z">
+        <seg>LibreOffice e le versioni più recenti di OpenOffice ora usano il formato delle "estensioni" per questi dizionari, in cui i file sono forniti in un archivio compresso con estensione .oxt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice is a fully featured office suite similar to Microsoft Office.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T100943Z">
@@ -63804,6 +63812,14 @@ space on your hard drive.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101004T111818Z">
         <seg>Il file “project_save.tmx” contiene tutti i segmenti che sono stati memorizzati a partire dall'inizio della traduzione del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T134612Z" creationid="valter" creationdate="20171215T134612Z">
+        <seg>I file vengono scritti nella cartella secondaria /script all'interno della cartella dei file utente di OmegaT (per la posizione di questa cartella nel proprio sistema operativo, vedere il Manuale dell'utente (F1 all'interno di OmegaT) &gt; File e cartelle di OmegaT &gt; File delle impostazioni utente):</seg>
       </tuv>
     </tu>
     <tu>
