@@ -5371,6 +5371,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T142054Z" creationid="valter" creationdate="20171215T142054Z">
+        <seg>La &lt;a0&gt;documentazione&lt;/a0&gt; è molto importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T202245Z">
@@ -25434,6 +25442,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T142100Z" creationid="valter" creationdate="20171215T142100Z">
+        <seg>Donazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140223T203921Z" creationid="valtermura" creationdate="20140223T203921Z">
@@ -35151,6 +35167,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T142213Z" creationid="valter" creationdate="20171215T142213Z">
+        <seg>Se hai trovato utile OmegaT e vuoi esprimere la tua gratitudine facendo una &lt;a0&gt;donazione&lt;/a0&gt; sul nostro conto Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have found OmegaT useful, you are welcome to contact the development team and make a donation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T183443Z">
@@ -35927,6 +35951,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T221211Z">
         <seg>Il sostegno economico per consentire lo sviluppo di OmegaT nel tempo è altamente apprezzato: fate clic su questo collegamento per accedere all'&lt;u0&gt;account PayPal di OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T142328Z" creationid="valter" creationdate="20171215T142328Z">
+        <seg>Se sei un programmatore e per caso conosci Java, guarda la documentazione in &lt;a0&gt;source code&lt;/a0&gt; sotto /docs_devel per ottenere informazioni su come iniziare a collaborare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62261,6 +62293,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T144739Z">
         <seg>Il progetto OmegaT e tu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T142026Z" creationid="valter" creationdate="20171215T142026Z">
+        <seg>Tu e il progetto OmegaT</seg>
       </tuv>
     </tu>
     <tu>
