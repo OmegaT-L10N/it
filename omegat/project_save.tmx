@@ -5395,6 +5395,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140050Z" creationid="valter" creationdate="20171215T140050Z">
+        <seg>&lt;a0&gt;Scarica&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T101756Z">
@@ -22302,6 +22310,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T112241Z" creationid="valter" creationdate="20171215T112241Z">
         <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2010-2011</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T135826Z" creationid="valter" creationdate="20171215T135826Z">
+        <seg>Copyright Marc Prior 2010-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -46222,6 +46238,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T092757Z" creationid="valter" creationdate="20160911T092757Z">
         <seg>File Leggimi di OmegaT 4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T135902Z" creationid="valter" creationdate="20171215T135902Z">
+        <seg>OmegaT &lt;s0&gt;lo strumento gratuito per memorie di traduzione&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -75676,6 +75700,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T164328Z" creationid="valter" creationdate="20171214T164328Z">
         <seg>Video 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140114Z" creationid="valter" creationdate="20171215T140114Z">
+        <seg>Video a cura di &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
     </tu>
     <tu>
