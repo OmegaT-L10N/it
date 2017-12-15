@@ -2641,6 +2641,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140239Z" creationid="valter" creationdate="20171215T140239Z">
+        <seg>(Il software che fa questo è chiamato "traduttore automatico", e si dovrà cercare altrove).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.) OmegaT has the following features:</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T211722Z">
@@ -12706,6 +12714,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T104902Z">
         <seg>&lt;s0&gt;OmegaT versione 2.1.0 e precedenti&lt;/s0&gt;: l'attuale tokenizer non è più compatibile con queste versioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140145Z" creationid="valter" creationdate="20171215T140145Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; è un'applicazione di memoria di traduzione gratuita scritta in Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43308,6 +43324,14 @@ la versione Mac contiene una copia di JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140342Z" creationid="valter" creationdate="20171215T140342Z">
+        <seg>Microsoft Word, Excel, Powerpoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Word, Excel, Powerpoint (.docx, .xlsx, .pptx)&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T141752Z">
@@ -51212,6 +51236,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140431Z" creationid="valter" creationdate="20171215T140431Z">
+        <seg>Strumenti avanzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Practically speaking, OmegaT merges the translation information saved in &lt;s2&gt;/omegat/project_save.tmx&lt;/s2&gt; with the source documents to produce the &lt;s3&gt;/target/&lt;/s3&gt; contents.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T192712Z">
@@ -51852,6 +51884,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130523T183635Z">
         <seg>Produrre una schermata di OmegaT nella propria lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140301Z" creationid="valter" creationdate="20171215T140301Z">
+        <seg>Funzioni professionali</seg>
       </tuv>
     </tu>
     <tu>
@@ -77700,6 +77740,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140330Z" creationid="valter" creationdate="20171215T140330Z">
+        <seg>Funziona con più di trenta formati di file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Working with Formatted Text - OmegaT 2.0 User Manual</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T183304Z">
@@ -77912,6 +77960,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T105535Z">
         <seg>Opzioni filtro XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T140345Z" creationid="valter" creationdate="20171215T140345Z">
+        <seg>XHTML e HTML</seg>
       </tuv>
     </tu>
     <tu>
