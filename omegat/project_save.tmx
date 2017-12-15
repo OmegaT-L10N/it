@@ -48712,6 +48712,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One-to-many matching</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T131313Z" creationid="valter" creationdate="20171215T131313Z">
+        <seg>Concordanza uno-a-molti </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One-to-many matching (version 2.5.0 onwards)</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T104313Z">
@@ -69179,8 +69187,8 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
       <tuv lang="EN">
         <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171215T131226Z" creationid="valter" creationdate="20171215T131226Z">
-        <seg>Questa azione ha l'effetto di rendere traduzioni alternative tutte le istanze di segmenti non univoci (si veda sotto "Corrispondenza una-a-molte").</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T131302Z" creationid="valter" creationdate="20171215T131226Z">
+        <seg>Questa azione ha l'effetto di rendere traduzioni alternative tutte le istanze di segmenti non univoci (si veda sotto "Concordanza uno-a-molti").</seg>
       </tuv>
     </tu>
     <tu>
