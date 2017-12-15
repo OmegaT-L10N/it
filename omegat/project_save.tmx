@@ -3219,6 +3219,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T120146Z" creationid="valter" creationdate="20171215T120146Z">
+        <seg>- Dopo la modifica di OmegaT.l4J.ini (dove Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T114514Z" creationid="valter" creationdate="20171215T114514Z">
@@ -3253,8 +3261,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171215T120109Z" creationid="valter" creationdate="20171215T120109Z">
-        <seg>- Prima di modificare OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T120124Z" creationid="valter" creationdate="20171215T120109Z">
+        <seg>- Prima della modifica di OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,6 +3723,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T120243Z" creationid="valter" creationdate="20171215T120243Z">
+        <seg>- Rimuovere "#" all'inizio della riga e sostituire "xxxxx" coi propri "Client ID" e "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Remove all text except tags, or all tags except text&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130326T180942Z">
@@ -3727,6 +3743,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120511T190904Z">
         <seg>- file ResX (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.l4J.ini.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T120250Z" creationid="valter" creationdate="20171215T120250Z">
+        <seg>- Salvare OmegaT.l4J.ini.</seg>
       </tuv>
     </tu>
     <tu>
