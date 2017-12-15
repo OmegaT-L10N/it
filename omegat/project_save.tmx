@@ -3219,6 +3219,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114514Z" creationid="valter" creationdate="20171215T114514Z">
+        <seg>- Dopo essersi registrati, verificare se la propria applicazione è mostrata nella pagina "Applicazioni registrate".&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T113418Z" creationid="valter" creationdate="20171215T113418Z">
@@ -47300,6 +47308,14 @@ o superiore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT setting</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114522Z" creationid="valter" creationdate="20171215T114522Z">
+        <seg>Impostazioni di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T131837Z">
@@ -86651,10 +86667,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>   - Client secret: Use string displayed by default&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114341Z" creationid="valter" creationdate="20171215T114341Z">
+        <seg>   - Client secret: usare la stringa visualizzata per impostazione predefinita&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T114257Z" creationid="valter" creationdate="20171215T114257Z">
         <seg>   - Nome: qualsiasi stringa es.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T114420Z" creationid="valter" creationdate="20171215T114420Z">
+        <seg>   - Redirect URI: qualsiasi URI (URL non valido richiesto quando si usa Microsoft Translator) es.) http://dummy/&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
