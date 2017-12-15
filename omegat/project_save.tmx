@@ -3187,6 +3187,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T113213Z" creationid="valter" creationdate="20171215T113213Z">
+        <seg>- Andare al sito web summenzionato e [Accedere] a Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Add numbers to all segments, making them all "unique"&lt;br6/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T205521Z">
@@ -47380,6 +47388,14 @@ o superiore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T113034Z" creationid="valter" creationdate="20171215T113034Z">
+        <seg>OmegaT usa le informazioni "Client ID" e "Client secret" con cui si è registrati.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses TMX files in 3 separate locations.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101004T101704Z">
@@ -59093,6 +59109,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T090425Z">
         <seg>Iscriversi al gruppo degli sviluppatori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T113041Z" creationid="valter" creationdate="20171215T113041Z">
+        <seg>Iscrizione</seg>
       </tuv>
     </tu>
     <tu>
