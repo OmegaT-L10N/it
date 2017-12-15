@@ -5715,6 +5715,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143319Z" creationid="valter" creationdate="20171215T143319Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T123420Z" creationid="valter" creationdate="20171215T123420Z">
@@ -5863,6 +5871,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T181252Z">
         <seg>&lt;a1&gt;Pagina ufficiale di po4a&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143324Z" creationid="valter" creationdate="20171215T143324Z">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21779,6 +21795,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T083528Z">
         <seg>Per eseguire modifiche ai comandi di avvio, dunque, basta modificare il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143312Z" creationid="valter" creationdate="20171215T143312Z">
+        <seg>È costituito da un manuale di uno studente modello con istruzioni per i formatori riguardanti l'adattamento e le risorse degli esempi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40653,6 +40677,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143337Z" creationid="valter" creationdate="20171215T143337Z">
+        <seg>LF Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LTR &amp; RTL strings in segments</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T090631Z">
@@ -48920,6 +48952,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ondiloto</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143214Z" creationid="valter" creationdate="20171215T143214Z">
+        <seg>Ondiloto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One can enter a regular expression for unwanted contents in the target.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130107T184848Z">
@@ -51868,6 +51908,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T153436Z" creationid="valter" creationdate="20141207T153436Z">
         <seg>Glossario prioritario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priorview</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143220Z" creationid="valter" creationdate="20171215T143220Z">
+        <seg>Priorview</seg>
       </tuv>
     </tu>
     <tu>
@@ -55557,6 +55605,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143410Z" creationid="valter" creationdate="20171215T143410Z">
+        <seg>Gli script e le procedure sono disponibili per consentire di effettuare le seguenti operazioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripts/procedures are available to enable you to do the following:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T105755Z">
@@ -58143,6 +58199,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143436Z" creationid="valter" creationdate="20171215T143436Z">
+        <seg>Ignorare segmenti contenenti un certo insieme di caratteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip segments where source=target</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151205T124521Z" creationid="valter" creationdate="20151205T124521Z">
@@ -59617,6 +59681,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stripper</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143201Z" creationid="valter" creationdate="20171215T143201Z">
+        <seg>Stripper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Structure level segmentation</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T091626Z">
@@ -60251,6 +60323,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TKount</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143209Z" creationid="valter" creationdate="20171215T143209Z">
+        <seg>TKount</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TKount text counting utility.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130425T175014Z">
@@ -60391,6 +60471,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130526T181215Z">
         <seg>I file TMX prodotti su sistemi Windows possono iniziare con un "Byte-Order Mark" (BOM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143140Z" creationid="valter" creationdate="20171215T143140Z">
+        <seg>TMXCleaner</seg>
       </tuv>
     </tu>
     <tu>
@@ -72713,6 +72801,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toxic</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143151Z" creationid="valter" creationdate="20171215T143151Z">
+        <seg>Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toxic for Linux</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T192810Z">
@@ -81331,6 +81427,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215410Z">
         <seg>bis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T143330Z" creationid="valter" creationdate="20171215T143330Z">
+        <seg>bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
