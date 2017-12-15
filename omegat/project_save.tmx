@@ -14265,6 +14265,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T142001Z" creationid="valter" creationdate="20171215T142001Z">
+        <seg>Una vasta gamma di funzioni, un'interfaccia pulita e, ancora più importante, uno sviluppo costante, regolare e open source!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A version may be "Standard, without JRE, for Windows", or "Latest, with JRE, for Linux", etc.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T215959Z">
@@ -32624,6 +32632,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T094859Z">
         <seg>I&amp;nserisci il testo di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T141834Z" creationid="valter" creationdate="20171215T141834Z">
+        <seg>Ho usato OmegaT come traduttore professionista per più di dieci anni, sfruttando nel primo periodo la sua facilità di utilizzo e il forum estremamente utile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75716,6 +75732,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T172226Z">
         <seg>Convalidare i tag, creare i documenti di arrivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T141708Z" creationid="valter" creationdate="20171215T141708Z">
+        <seg>Valter Mura - Traduttore EN &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
