@@ -21483,6 +21483,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact the relevant co-ordinator for the translation work:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T104115Z" creationid="valter" creationdate="20171215T104115Z">
+        <seg>Contattare il relativo coordinatore del progetto di traduzione:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120423T213727Z">
@@ -29615,6 +29623,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T121718Z">
         <seg>Per usare la funzione di esportazione testo è necessario prima abilitarla nello stesso OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a1&gt;OmegaT Localization Co-ordinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T104430Z" creationid="valter" creationdate="20171215T104430Z">
+        <seg>Per informazioni relative all'interfaccia, al manuale dell'utente, alla guida di avvio rapido e al file readme, contattare il &lt;a1&gt;Coordinatore della localizzazione di OmegaT&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
