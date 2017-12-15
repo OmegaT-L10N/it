@@ -69177,6 +69177,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T131226Z" creationid="valter" creationdate="20171215T131226Z">
+        <seg>Questa azione ha l'effetto di rendere traduzioni alternative tutte le istanze di segmenti non univoci (si veda sotto "Corrispondenza una-a-molte").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120516T191406Z">
