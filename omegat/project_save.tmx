@@ -25657,6 +25657,14 @@ install the OmegaT package bundled with JRE (the .tar.gz bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the &lt;a0&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T135420Z" creationid="valter" creationdate="20171215T135420Z">
+        <seg>Scaricare il &lt;a0&gt;pacchetto compresso zip del tokenizer (per la versione 2.1.1 di OmegaT o successive)&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the &lt;cp0/&gt; &lt;cp1/&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;cp2/&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130510T062814Z">
