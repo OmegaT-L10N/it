@@ -3323,6 +3323,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Check [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T121639Z" creationid="valter" creationdate="20171215T121639Z">
+        <seg>- Attivare [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Check spelling (various procedures)</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T205535Z">
@@ -3603,6 +3611,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Launch OmegaT and open your project.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T121554Z" creationid="valter" creationdate="20171215T121554Z">
+        <seg>- Avviare OmegaT e aprire il proprio progetto.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T120045Z" creationid="valter" creationdate="20171215T120045Z">
@@ -3799,6 +3815,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T121352Z" creationid="valter" creationdate="20171215T121352Z">
         <seg>- Salvare OmegaT.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T121630Z" creationid="valter" creationdate="20171215T121630Z">
+        <seg>- Select [Opzioni] &gt; [Traduzione automatica]&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
