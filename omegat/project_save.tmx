@@ -50298,6 +50298,14 @@ devono essere intraprese altre azioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please keep translations of files in their original format, and do not change the file names.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T111154Z" creationid="valter" creationdate="20171215T111154Z">
+        <seg>È importante mantenere la traduzione dei file nel loro formato originale e non modificare i nomi dei file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please keep translations of files in their original format.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130523T182554Z">
@@ -55153,6 +55161,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130216T173940Z">
         <seg>Ricercare &lt;l0&gt;open file&lt;/l0&gt; individuerà dunque tutte le occorrenze della stringa &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, ma non &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; o &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secondly, unless yours is a very uncommon language, both documents have in all probability already been translated.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T111119Z" creationid="valter" creationdate="20171215T111119Z">
+        <seg>In secondo luogo, a meno che il proprio linguaggio non sia molto raro, entrambi i documenti con buona probabilità già sono stati tradotti.</seg>
       </tuv>
     </tu>
     <tu>
