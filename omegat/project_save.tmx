@@ -34999,6 +34999,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have been using the tokenizer plug-in with an earlier version of OmegaT and have upgraded to version 3.0.0 or later of OmegaT, delete the tokenizer plug-in files from your plug-in folder.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T135040Z" creationid="valter" creationdate="20171215T135040Z">
+        <seg>Se si è utilizzato il plugin dei tokenizer con una versione precedente di OmegaT e si è aggiornato OmegaT alla versione 3.0.0 o successiva, eliminare i file del plugin dei tokenizer dalla propria cartella «plugins».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have found OmegaT useful, you are welcome to contact the development team and make a donation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T183443Z">
@@ -64064,6 +64072,14 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following information is therefore applicable only if you are using a version of OmegaT earlier than 3.0.0.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T134831Z" creationid="valter" creationdate="20171215T134831Z">
+        <seg>Questa informazione è dunque valida solo se si sta utilizzando una versione di OmegaT precedente alla 3.0.0.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130216T164533Z">
@@ -66909,6 +66925,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T182557Z">
         <seg>I nomi dei tokenizer sono indicati nel file Readme.txt distribuito con i file del tokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T134741Z" creationid="valter" creationdate="20171215T134741Z">
+        <seg>Il plugin dei tokenizer sono stati integrati dalla versione 3.0.0 di OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
