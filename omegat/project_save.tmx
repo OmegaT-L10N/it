@@ -4699,6 +4699,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T135813Z" creationid="valter" creationdate="20171215T135813Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T220226Z">
@@ -4945,6 +4953,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T135732Z" creationid="valter" creationdate="20171215T135732Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>7.A.2.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T184602Z">
@@ -4977,6 +4993,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T135745Z" creationid="valter" creationdate="20171215T135745Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer 84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215707Z">
@@ -4989,6 +5013,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215213Z">
         <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T135755Z" creationid="valter" creationdate="20171215T135755Z">
+        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
