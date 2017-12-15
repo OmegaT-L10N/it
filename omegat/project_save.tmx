@@ -3387,6 +3387,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122505Z" creationid="valter" creationdate="20171215T122505Z">
+        <seg>- Ctrl+M (o Comando+M su Mac) sostituirà la traduzione corrente del segmento con quella della traduzione automatica.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- DTD files (*.DTD)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120511T190615Z">
@@ -3821,8 +3829,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171215T121630Z" creationid="valter" creationdate="20171215T121630Z">
-        <seg>- Select [Opzioni] &gt; [Traduzione automatica]&lt;br1/&gt;</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122358Z" creationid="valter" creationdate="20171215T121630Z">
+        <seg>- Selezionare [Opzioni] &gt; [Traduzione automatica]&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32064,6 +32072,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T091355Z">
         <seg>Come usare Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How will I know when I reach my monthly usage limit?</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122610Z" creationid="valter" creationdate="20171215T122610Z">
+        <seg>Come conoscere il raggiungimento del limite mensile d'uso?</seg>
       </tuv>
     </tu>
     <tu>
@@ -86821,8 +86837,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171215T122251Z" creationid="valter" creationdate="20171215T122251Z">
-        <seg>   - Se, nella finestra Traduzione automatica, compare un messaggio di "Bad Request", verifica che i valori "Client ID" e "Client secret" siano corretti.&lt;br4/&gt;</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T122347Z" creationid="valter" creationdate="20171215T122251Z">
+        <seg>   - Se, nella finestra Traduzione automatica, compare un messaggio di "Bad Request", verificare che i valori "Client ID" e "Client secret" siano corretti.&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
