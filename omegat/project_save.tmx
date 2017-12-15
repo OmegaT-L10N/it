@@ -2689,6 +2689,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This is not the case for the website localization files.)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T110833Z" creationid="valter" creationdate="20171215T110833Z">
+        <seg>(Questo non avviene per i file di localizzazione del sito web.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215828Z">
@@ -29621,8 +29629,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="EN">
         <seg>For the full and minimal packages (user interface and documentation), you do not need to create an OmegaT project as you normally would in OmegaT: when unpacked, the files for localization of the OmegaT program are a ready-to-use OmegaT project.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171215T110733Z" creationid="valter" creationdate="20171215T110733Z">
-        <seg>Non è necessario creare un progetto OmegaT per i pacchetti completi e minimi (interfaccia utente e documentazione), come si farebbe normalmente in OmegaT: una volta decompressi i file da localizzare del programma sono già pronti in forma di progetto OmegaT.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T110803Z" creationid="valter" creationdate="20171215T110733Z">
+        <seg>Non è necessario creare un progetto OmegaT per i pacchetti completi e minimi (interfaccia utente e documentazione), come si farebbe normalmente in OmegaT: una volta decompressi, i file da localizzare del programma sono già pronti in forma di progetto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33351,8 +33359,8 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       <tuv lang="EN">
         <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130507T130006Z">
-        <seg>Se il documento che si sta traducendo lo contiene, si prega di &lt;s0&gt;non&lt;/s0&gt; tradurre la licenza GPL (GNU Public License) o GFDL (GNU Free Documentation License).</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171215T111030Z">
+        <seg>Si prega di &lt;s0&gt;non&lt;/s0&gt; tradurre la licenza GPL (GNU Public License) o GFDL (GNU Free Documentation License), se il documento che si sta traducendo la contiene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34563,6 +34571,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T152633Z" creationid="valter" creationdate="20141207T152633Z">
         <seg>Se si possiede già un sistema di gestione terminologica, è molto probabile che esso preveda l'esportazione dei dati terminologici nel formato TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171215T110953Z" creationid="valter" creationdate="20171215T110953Z">
+        <seg>Se si hanno domande, la &lt;a0&gt;lista OmT-l10n&lt;/a0&gt; è il posto migliore per formularle.</seg>
       </tuv>
     </tu>
     <tu>
