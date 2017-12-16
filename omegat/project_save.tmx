@@ -21623,6 +21623,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221137Z" creationid="valter" creationdate="20171216T221137Z">
+        <seg>Compatibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130511T213438Z">
@@ -32476,6 +32484,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221306Z" creationid="valter" creationdate="20171216T221127Z">
+        <seg>Guide all'uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HowTo: Adding a preview function to OmegaT</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130426T205412Z">
@@ -32696,6 +32712,54 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100722T212022Z">
         <seg>Tuttavia, sarebbe bene adottare le opportune precauzioni per evitare, quando si lavora con OmegaT, la possibile perdita dei dati, proprio come si dovrebbe fare con una qualsiasi altra applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221217Z" creationid="valter" creationdate="20171216T221217Z">
+        <seg>Guida - Compilare OmegaT dal codice sorgente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221259Z" creationid="valter" creationdate="20171216T221259Z">
+        <seg>Guida - Esportazione da OmegaT in formato 'RTF Trados non ripuliti'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221355Z" creationid="valter" creationdate="20171216T221204Z">
+        <seg>Guida - Compatibilità OmegaT con Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221350Z" creationid="valter" creationdate="20171216T221350Z">
+        <seg>Guida - Tradurre i file PDF con Iceni Infix e OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221234Z" creationid="valter" creationdate="20171216T221234Z">
+        <seg>Guida - Tradurre file Word 2007 in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221328Z" creationid="valter" creationdate="20171216T221328Z">
+        <seg>Guida - Usare Google Translate in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
