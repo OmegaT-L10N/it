@@ -278,6 +278,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Google Translate v2 API key
+#-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224148Z" creationid="valter" creationdate="20171216T224148Z">
+        <seg># Google Translate v2 API key
+#-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224218Z" creationid="valter" creationdate="20171216T224218Z">
+        <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
+-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224152Z" creationid="valter" creationdate="20171216T224152Z">
+        <seg># Google Translate v2 API key
+-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224224Z" creationid="valter" creationdate="20171216T224224Z">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># Language&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T114602Z">
@@ -4559,6 +4599,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224237Z" creationid="valter" creationdate="20171216T224237Z">
+        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-Dmymemory.api.email=your@email-address.com</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T074553Z" creationid="valter" creationdate="20160911T074553Z">
@@ -4951,6 +4999,22 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.10</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224231Z" creationid="valter" creationdate="20171216T224231Z">
+        <seg>3.10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.11</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224234Z" creationid="valter" creationdate="20171216T224234Z">
+        <seg>3.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.2</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T094530Z">
@@ -4971,6 +5035,62 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T094728Z">
         <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224132Z" creationid="valter" creationdate="20171216T224132Z">
+        <seg>3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224139Z" creationid="valter" creationdate="20171216T224139Z">
+        <seg>3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224159Z" creationid="valter" creationdate="20171216T224159Z">
+        <seg>3.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224203Z" creationid="valter" creationdate="20171216T224203Z">
+        <seg>3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.7.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224206Z" creationid="valter" creationdate="20171216T224206Z">
+        <seg>3.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.8.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224210Z" creationid="valter" creationdate="20171216T224210Z">
+        <seg>3.8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.9</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224227Z" creationid="valter" creationdate="20171216T224227Z">
+        <seg>3.9</seg>
       </tuv>
     </tu>
     <tu>
@@ -5039,10 +5159,42 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.1.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224244Z" creationid="valter" creationdate="20171216T224244Z">
+        <seg>4.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224247Z" creationid="valter" creationdate="20171216T224247Z">
+        <seg>4.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224250Z" creationid="valter" creationdate="20171216T224250Z">
+        <seg>4.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>5.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160404T184958Z" creationid="valter" creationdate="20160404T184958Z">
         <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224255Z" creationid="valter" creationdate="20171216T224255Z">
+        <seg>5.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -86067,6 +86219,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101212T181623Z">
         <seg>java -Xmx1024M -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224241Z" creationid="valter" creationdate="20171216T224241Z">
+        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
