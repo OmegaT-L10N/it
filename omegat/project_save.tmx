@@ -31740,6 +31740,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gujarati</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222215Z" creationid="valter" creationdate="20171216T222215Z">
+        <seg>Gujarati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T105309Z">
@@ -31948,6 +31956,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hausa</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222240Z" creationid="valter" creationdate="20171216T222240Z">
+        <seg>Hausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Have you considered writing some user documentation yourself?</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T140604Z">
@@ -31984,6 +32000,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T163528Z">
         <seg>Intestazione (Word)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222107Z" creationid="valter" creationdate="20171216T222107Z">
+        <seg>Heapwise</seg>
       </tuv>
     </tu>
     <tu>
@@ -50739,6 +50763,14 @@ installare Oracle JRE per proprio conto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222111Z" creationid="valter" creationdate="20171216T222111Z">
+        <seg>Parsewise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T131037Z">
@@ -51640,6 +51672,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T194732Z">
         <seg>Punti da tenere presente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222123Z" creationid="valter" creationdate="20171216T222123Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -57711,6 +57751,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222039Z" creationid="valter" creationdate="20171216T222039Z">
+        <seg>Il server non comprende il metodo "translate"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20161011T203705Z" creationid="valter" creationdate="20161011T203705Z">
@@ -60839,6 +60887,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T184039Z">
         <seg>TTX è un formato basato su XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222101Z" creationid="valter" creationdate="20171216T222101Z">
+        <seg>TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -76520,6 +76576,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222116Z" creationid="valter" creationdate="20171216T222116Z">
+        <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130502T211244Z">
@@ -82919,6 +82983,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222203Z" creationid="valter" creationdate="20171216T222203Z">
+        <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>eng</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215420Z">
@@ -83559,6 +83631,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>grn</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222210Z" creationid="valter" creationdate="20171216T222210Z">
+        <seg>grn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>groovy-all-2.2.2.jar (Apache Licence 2.0)</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140423T220704Z" creationid="valtermura" creationdate="20140423T220704Z">
@@ -83575,6 +83655,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gu</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222220Z" creationid="valter" creationdate="20171216T222220Z">
+        <seg>gu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>guj</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222224Z" creationid="valter" creationdate="20171216T222224Z">
+        <seg>guj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T104742Z">
@@ -83583,10 +83679,42 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ha</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222247Z" creationid="valter" creationdate="20171216T222247Z">
+        <seg>ha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T093342Z">
         <seg>inviare una segnalazione di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hat</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222236Z" creationid="valter" creationdate="20171216T222236Z">
+        <seg>hat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hau</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222254Z" creationid="valter" creationdate="20171216T222254Z">
+        <seg>hau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>he</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222558Z" creationid="valter" creationdate="20171216T222558Z">
+        <seg>he</seg>
       </tuv>
     </tu>
     <tu>
@@ -83659,6 +83787,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215417Z">
         <seg>hrv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ht</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222230Z" creationid="valter" creationdate="20171216T222230Z">
+        <seg>ht</seg>
       </tuv>
     </tu>
     <tu>
@@ -88236,6 +88372,16 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T221839Z" creationid="valter" creationdate="20171216T221839Z">
         <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">SCW_MENU_JAVADOC</prop>
+      <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222048Z" creationid="valter" creationdate="20171216T222048Z">
+        <seg>OmegaT Javadoc...</seg>
       </tuv>
     </tu>
     <tu>
