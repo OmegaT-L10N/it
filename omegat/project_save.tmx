@@ -4959,6 +4959,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3a.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223826Z" creationid="valter" creationdate="20171216T223826Z">
+        <seg>3a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160404T184954Z" creationid="valter" creationdate="20160404T184954Z">
@@ -33170,6 +33178,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Iceni Infix</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223601Z" creationid="valter" creationdate="20171216T223601Z">
+        <seg>Iceni Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Iceni Infix (*.xml)</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215838Z">
@@ -42699,6 +42715,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MS Translator</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223607Z" creationid="valter" creationdate="20171216T223607Z">
+        <seg>MS Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MS Translator on Mac</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130511T070833Z">
@@ -43362,6 +43386,14 @@ la versione Mac contiene una copia di JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223529Z" creationid="valter" creationdate="20171216T223529Z">
+        <seg>Marc Prior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior (webmaster)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150307T162519Z" creationid="valter" creationdate="20150307T162519Z">
@@ -43942,6 +43974,22 @@ la versione Mac contiene una copia di JRE.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T095508Z">
         <seg>Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223746Z" creationid="valter" creationdate="20171216T223746Z">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223751Z" creationid="valter" creationdate="20171216T223751Z">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
       </tuv>
     </tu>
     <tu>
@@ -46920,6 +46968,22 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223545Z" creationid="valter" creationdate="20171216T223545Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223541Z" creationid="valter" creationdate="20171216T223541Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151205T092235Z" creationid="valter" creationdate="20151205T092235Z">
@@ -49154,6 +49218,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215822Z">
         <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223821Z" creationid="valter" creationdate="20171216T223821Z">
+        <seg>OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
       </tuv>
     </tu>
     <tu>
@@ -53558,6 +53630,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RTF (Rich Text Format):</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223757Z" creationid="valter" creationdate="20171216T223757Z">
+        <seg>RTF (Rich Text Format):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTF is structurally quite different from the Microsoft Office 98-2003 file format, but with regard to OmegaT, the same applies: it is not supported directly and must first be converted to .docx (MS Office 2007/2010) or Open Document format (LibreOffice/OpenOffice.org).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130526T180145Z">
@@ -53714,6 +53794,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T130729Z">
         <seg>Ricerca ricorsi&amp;va</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223555Z" creationid="valter" creationdate="20171216T223555Z">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
       </tuv>
     </tu>
     <tu>
@@ -73687,10 +73775,26 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trados TTX</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223802Z" creationid="valter" creationdate="20171216T223802Z">
+        <seg>Trados TTX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trados TTX format is the counterpart to the "uncleaned RTF" format for Trados Tag Editor, which unlike Trados Workbench, does not work in direct combination with MS Word.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T125041Z">
         <seg>Il formato Trados TTX è la controparte del formato "RTF non ripulito" per Trados Tag Editor, che a differenza di Trados Workbench, non funziona in combinazione diretta con MS Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223719Z" creationid="valter" creationdate="20171216T223719Z">
+        <seg>Formazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -76970,6 +77074,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120514T183241Z">
         <seg>Vista...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223533Z" creationid="valter" creationdate="20171216T223533Z">
+        <seg>Vincent Bidaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -84229,6 +84341,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gradlew installDist</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223815Z" creationid="valter" creationdate="20171216T223815Z">
+        <seg>gradlew installDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223811Z" creationid="valter" creationdate="20171216T223811Z">
+        <seg>gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130216T163608Z">
@@ -88777,6 +88905,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223731Z" creationid="valter" creationdate="20171216T223731Z">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sw</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T223014Z" creationid="valter" creationdate="20171216T223014Z">
@@ -90605,6 +90741,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215301Z">
         <seg>ï»¿@@TRANSLATION_NOTICE@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223551Z" creationid="valter" creationdate="20171216T223551Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
     <tu>
