@@ -9233,6 +9233,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k7&gt;unoconv -f html &lt;i8&gt;file&lt;/i8&gt;&lt;/k7&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225556Z" creationid="valter" creationdate="20171216T225556Z">
+        <seg>&lt;k7&gt;unoconv -f html &lt;i8&gt;file&lt;/i8&gt;&lt;/k7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215706Z">
@@ -83309,6 +83317,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225701Z" creationid="valter" creationdate="20171216T225701Z">
+        <seg>cd C:\Documents and Settings\Nome utente\Application Data\OmegaT\script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd C:\My Documents\MyOmegat\OmegaT_1.8.0_01_Beta_Source\dist</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T130147Z">
@@ -85221,6 +85237,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225617Z" creationid="valter" creationdate="20171216T225617Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225619Z" creationid="valter" creationdate="20171216T225619Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://belazar.info/</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T220009Z">
@@ -85309,6 +85341,78 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225608Z" creationid="valter" creationdate="20171216T225608Z">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225623Z" creationid="valter" creationdate="20171216T225623Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225625Z" creationid="valter" creationdate="20171216T225625Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225620Z" creationid="valter" creationdate="20171216T225620Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225622Z" creationid="valter" creationdate="20171216T225622Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225613Z" creationid="valter" creationdate="20171216T225613Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225615Z" creationid="valter" creationdate="20171216T225615Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225612Z" creationid="valter" creationdate="20171216T225612Z">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225610Z" creationid="valter" creationdate="20171216T225610Z">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215647Z">
@@ -85329,6 +85433,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215709Z">
         <seg>http://groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225616Z" creationid="valter" creationdate="20171216T225616Z">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -85401,6 +85513,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160404T184141Z" creationid="valter" creationdate="20160404T184141Z">
         <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225626Z" creationid="valter" creationdate="20171216T225626Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
