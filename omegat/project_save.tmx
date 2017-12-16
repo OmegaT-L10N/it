@@ -318,6 +318,14 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224952Z" creationid="valter" creationdate="20171216T224952Z">
+        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># Language&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T114602Z">
@@ -342,6 +350,42 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
         <seg># Microsoft Translator credentials
 #-Dmicrosoft.api.client_id=xxxxx
 #-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224847Z" creationid="valter" creationdate="20171216T224847Z">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224843Z" creationid="valter" creationdate="20171216T224843Z">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=propria Client secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224856Z" creationid="valter" creationdate="20171216T224856Z">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=propria Client secret"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6057,6 +6101,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120512T185428Z">
         <seg>&lt;a0&gt;Con OmegaT si possono&lt;/a0&gt; tradurre vari tipi di formati di file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224859Z" creationid="valter" creationdate="20171216T224859Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -83721,6 +83773,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224906Z" creationid="valter" creationdate="20171216T224906Z">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T123039Z" creationid="valter" creationdate="20171215T123039Z">
@@ -88589,6 +88649,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224935Z" creationid="valter" creationdate="20171216T224935Z">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T223841Z" creationid="valter" creationdate="20171216T223841Z">
@@ -91465,6 +91533,102 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T224028Z" creationid="valter" creationdate="20171216T224028Z">
         <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "bpt",&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224920Z" creationid="valter" creationdate="20171216T224920Z">
+        <seg>   "bpt",&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ept",&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224925Z" creationid="valter" creationdate="20171216T224925Z">
+        <seg>   "ept",&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "header",&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224913Z" creationid="valter" creationdate="20171216T224913Z">
+        <seg>   "header",&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "it",&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224927Z" creationid="valter" creationdate="20171216T224927Z">
+        <seg>   "it",&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ph",&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224918Z" creationid="valter" creationdate="20171216T224918Z">
+        <seg>   "ph",&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "prop",&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224915Z" creationid="valter" creationdate="20171216T224915Z">
+        <seg>   "prop",&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ut",&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224929Z" creationid="valter" creationdate="20171216T224929Z">
+        <seg>   "ut",&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225125Z" creationid="valter" creationdate="20171216T225125Z">
+        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224947Z" creationid="valter" creationdate="20171216T224947Z">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224940Z" creationid="valter" creationdate="20171216T224940Z">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   {&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224910Z" creationid="valter" creationdate="20171216T224910Z">
+        <seg>   {&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   });</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224931Z" creationid="valter" creationdate="20171216T224931Z">
+        <seg>   });</seg>
       </tuv>
     </tu>
     <tu>
