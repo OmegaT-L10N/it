@@ -1,0 +1,59 @@
+<div class="container">
+  <p>Questa guida descrive come compilare OmegaT a partire dal codice sorgente.</p>
+  <p>OmegaT è fornito pronto e già compilato per diverse piattaforme, incluso una versione multi-piattaforma. Gli utenti pertanto non devono compilare da sé OmegaT. La compilazione di OmegaT è importante per gli sviluppatori che desiderano apportare proprie modifiche al codice. </p>
+  <p>
+    <strong>1. Scaricare e installare il Java Development Kit (JDK)</strong>
+  </p>
+  <p>È necessario il <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java Development Kit</a>. Per OmegaT v. 4.0 e successive non è richiesto software aggiuntivo.</p>
+  <p>Per le versioni precedenti di OmegaT è necessario <a href="http://ant.apache.org">Apache Ant</a>.</p>
+  <p>Per puntare alla posizione del JDK potrebbe essere necessario impostare la variabile d'ambiente <code>JAVA_HOME</code>.</p>
+  <p>
+    <strong>2. Compilare il codice</strong>
+  </p>
+  <p>Aprire una finestra della riga di comando (console, finestra DOS). Navigare fino alla radice del codice sorgente di OmegaT (la cartella che contiene il file <code>build.gradle</code>), es.</p>
+  <pre>cd C:\Documenti\MioOmegat\OmegaT_&lt;version&gt;_Beta_Source</pre>
+  <p>
+    <em>OmegaT v. 4.0 o successive</em>
+  </p>
+  <p>È possibile avviare OmegaT direttamente dalla riga di comando con</p>
+  <pre>gradlew run</pre>
+  <p>Se si interessati solo a questo, è possibile saltare al passaggio 3a.</p>
+  <p>Per compilare il programma OmegaT e tutti i file associati, eseguire invece</p>
+  <pre>gradlew installDist</pre>
+  <p>Il risultato si troverà nella cartella <code>build\install\OmegaT</code>.</p>
+  <p>
+    <em>Versioni precedenti di OmegaT</em>
+  </p>
+  <p>All'interno della cartella radice, eseguire Apache Ant digitando l'eseguibile di Ant. Potrebbe essere necessario immettere il percorso completo, ad esempio:</p>
+  <pre>C:\Programmi\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</pre>
+  <p>Se il codice è compilato correttamente, sarà visualizzato il messaggio <code>BUILD SUCCESSFUL</code>. In caso contrario saranno mostrati i messaggi di debug che, si spera, forniranno un'idea di dov'è il problema.</p>
+  <p>Se il codice è stato compilato correttamente, il file OmegaT compilato si troverà in:</p>
+  <pre>OmegaT_&lt;version&gt;_Beta_Source\dist</pre>
+  <p>Nella finestra della riga di comando, passare a questa cartella, per esempio con:</p>
+  <pre>cd C:\Documenti\MioOmegat\OmegaT_&lt;version&gt;_Beta_Source\dist</pre>
+  <p>e avviare OmegaT con:</p>
+  <pre>java -jar OmegaT.jar</pre>
+  <p>
+    <strong>3a. 1° esempio di modifica: cambiare il colore di evidenziazione del segmento</strong>
+  </p>
+  <p>Nella cartella <code>src/org/omegat/gui/editor</code> aprire il file <code>SegmentBuilder.java</code> in un editor di testo.</p>
+  <p>Individuare le righe:</p>
+  <pre>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</pre>
+  <p>e</p>
+  <pre>b = Styles.COLOR_GREEN;</pre>
+  <p>e sostituire <code>COLOR_GREEN</code> con <code>COLOR_BLUE</code>.</p>
+  <p>Nella cartella <code>src/org/omegat/util/gui</code> aprire il file <code>Styles.java</code> in un editor di testo.</p>
+  <p>Individuare la riga</p>
+  <pre>public static final Color COLOR_GREEN = new Color(192, 255, 192);</pre>
+  <p>Sostituire <code>COLOR_GREEN</code> con <code>COLOR_BLUE</code> e <code>192, 255, 192</code> con <code>225, 225, 255</code>.</p>
+  <p>
+    <strong>3b. 2 ° esempio di modifica: aumentare il numero di corrispondenze parziali visualizzate da cinque a dieci</strong>
+  </p>
+  <p>Nella cartella <code>/src/org/omegat/util</code> aprire il file <code>OConsts.java</code> in un editor di testo.</p>
+  <p>Individuare le righe:</p>
+  <pre>    /** Number of fuzzy matches to display */
+    public static final int MAX_NEAR_STRINGS = 5;</pre>
+  <p>e sostituire <code>= 5</code> con <code>= 10</code>.</p>
+  <p>Per entrambi gli esempi, compilare e verificare come descritto sopra.</p>
+  <p>Copyright Marc Prior 2011-2012</p>
+</div>
