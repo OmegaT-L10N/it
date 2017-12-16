@@ -334,6 +334,18 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224647Z" creationid="valter" creationdate="20171216T224647Z">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># MyMemory email</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T223427Z" creationid="valter" creationdate="20171216T223427Z">
@@ -4785,6 +4797,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224550Z" creationid="valter" creationdate="20171216T224550Z">
+        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140223T203836Z" creationid="valtermura" creationdate="20140223T203836Z">
@@ -6041,6 +6061,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224601Z" creationid="valter" creationdate="20171216T224601Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a10&gt;OmegaT&lt;/a10&gt; will build translated versions of all the translatable documents in the Source folder of the project, whether or not they have been fully translated.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110722T171221Z">
@@ -6053,6 +6081,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110719T120611Z">
         <seg>Per impostazione predefinita, &lt;a11&gt;OmegaT&lt;/a11&gt; apre il primo file dell'elenco del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224625Z" creationid="valter" creationdate="20171216T224625Z">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6165,6 +6201,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T170702Z">
         <seg>&lt;a3&gt;&lt;/a3&gt; OmegaT gestisce in modo differente i vari tipi di file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224614Z" creationid="valter" creationdate="20171216T224614Z">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6425,10 +6469,58 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224629Z" creationid="valter" creationdate="20171216T224629Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224621Z" creationid="valter" creationdate="20171216T224621Z">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215848Z">
         <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224604Z" creationid="valter" creationdate="20171216T224604Z">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224607Z" creationid="valter" creationdate="20171216T224607Z">
+        <seg>&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224619Z" creationid="valter" creationdate="20171216T224619Z">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224611Z" creationid="valter" creationdate="20171216T224611Z">
+        <seg>&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22788,6 +22880,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T195748Z" creationid="valter" creationdate="20171214T195748Z">
         <seg>Copyright Marc Prior 2010-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224515Z" creationid="valter" creationdate="20171216T224515Z">
+        <seg>Copyright Marc Prior 2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -40799,6 +40899,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130803T184605Z" creationid="valtermura" creationdate="20130803T184605Z">
         <seg>Jar utilizzato per i plugin: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224522Z" creationid="valter" creationdate="20171216T224522Z">
+        <seg>Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -83077,6 +83185,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224545Z" creationid="valter" creationdate="20171216T224545Z">
+        <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd /usr/local/omegat</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215856Z">
@@ -85981,6 +86097,30 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>infix1.png</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224455Z" creationid="valter" creationdate="20171216T224455Z">
+        <seg>infix1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix3.png</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224506Z" creationid="valter" creationdate="20171216T224506Z">
+        <seg>infix3.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix4.png</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224509Z" creationid="valter" creationdate="20171216T224509Z">
+        <seg>infix4.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
@@ -86307,6 +86447,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130411T201852Z">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;nome_file&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -version</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224527Z" creationid="valter" creationdate="20171216T224527Z">
+        <seg>java -version</seg>
       </tuv>
     </tu>
     <tu>
@@ -88205,6 +88353,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222844Z" creationid="valter" creationdate="20171216T222844Z">
         <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>preview_ss.png</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224539Z" creationid="valter" creationdate="20171216T224539Z">
+        <seg>preview_ss.png</seg>
       </tuv>
     </tu>
     <tu>
