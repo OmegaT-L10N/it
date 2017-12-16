@@ -294,6 +294,36 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># MyMemory email</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223427Z" creationid="valter" creationdate="20171216T223427Z">
+        <seg># MyMemory email</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223345Z" creationid="valter" creationdate="20171216T223345Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory 
@@ -9787,6 +9817,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223301Z" creationid="valter" creationdate="20171216T223301Z">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120526T190439Z">
@@ -11471,6 +11509,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140720T100533Z">
         <seg>&lt;p0&gt;Statistiche&lt;/p0&gt; &lt;s1&gt;Menu Strumenti&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223305Z" creationid="valter" creationdate="20171216T223305Z">
+        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13598,6 +13644,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223500Z" creationid="valter" creationdate="20171216T223500Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>==============================================================================
 6.</seg>
       </tuv>
@@ -13612,6 +13666,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150914T191011Z">
         <seg>Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223454Z" creationid="valter" creationdate="20171216T223454Z">
+        <seg>Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2017</seg>
       </tuv>
     </tu>
     <tu>
@@ -15469,6 +15531,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T213211Z">
         <seg>Albanese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223523Z" creationid="valter" creationdate="20171216T223523Z">
+        <seg>Alex Buloichik</seg>
       </tuv>
     </tu>
     <tu>
@@ -40809,6 +40879,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120122T195818Z">
         <seg>Continuate così!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223519Z" creationid="valter" creationdate="20171216T223519Z">
+        <seg>Keith Godfrey</seg>
       </tuv>
     </tu>
     <tu>
@@ -84527,6 +84605,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223432Z" creationid="valter" creationdate="20171216T223432Z">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215855Z">
@@ -84927,6 +85013,30 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223323Z" creationid="valter" creationdate="20171216T223323Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223351Z" creationid="valter" creationdate="20171216T223351Z">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223513Z" creationid="valter" creationdate="20171216T223513Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160404T073455Z" creationid="valter" creationdate="20160404T073455Z">
@@ -84975,6 +85085,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223314Z" creationid="valter" creationdate="20171216T223314Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215651Z">
@@ -84987,6 +85105,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T195719Z" creationid="valter" creationdate="20160911T195719Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223327Z" creationid="valter" creationdate="20171216T223327Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
