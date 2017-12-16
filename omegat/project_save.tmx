@@ -23178,6 +23178,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221749Z" creationid="valter" creationdate="20171216T221749Z">
+        <seg>Multi-piattaforma senza JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130520T183450Z">
@@ -42019,6 +42027,22 @@ Ubuntu), as these are either outdated or incomplete.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221732Z" creationid="valter" creationdate="20171216T221732Z">
+        <seg>Linux con JRE a 64 bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221719Z" creationid="valter" creationdate="20171216T221719Z">
+        <seg>Linux con JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux/Solaris/FreeBSD</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215805Z">
@@ -44048,6 +44072,22 @@ la versione Mac contiene una copia di JRE.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T172039Z">
         <seg>Più precisamente, OmegaT cerca di associare i modelli del nome del file di partenza del filtro al nome dello stesso file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221854Z" creationid="valter" creationdate="20171216T221854Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221936Z" creationid="valter" creationdate="20171216T221936Z">
+        <seg>URL del server Moses:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46330,6 +46370,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222003Z" creationid="valter" creationdate="20171216T222003Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T165837Z">
@@ -46342,6 +46390,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T221710Z" creationid="valter" creationdate="20171216T221710Z">
         <seg>OS X firmato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221716Z" creationid="valter" creationdate="20171216T221716Z">
+        <seg>OS X non firmato</seg>
       </tuv>
     </tu>
     <tu>
@@ -61627,6 +61683,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221958Z" creationid="valter" creationdate="20171216T221958Z">
+        <seg>Prova...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130702T211814Z">
@@ -62661,6 +62725,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T111619Z">
         <seg>I formati di file di Microsoft Office 2007-2010 possono essere elaborati direttamente in OmegaT; ulteriori informazioni si trovano &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221948Z" creationid="valter" creationdate="20171216T221948Z">
+        <seg>L'URL del server Moses non è impostato</seg>
       </tuv>
     </tu>
     <tu>
@@ -76623,6 +76695,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221756Z" creationid="valter" creationdate="20171216T221756Z">
+        <seg>Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Web Start version</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130510T144614Z">
@@ -88146,6 +88226,16 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170930T195144Z" creationid="valter" creationdate="20170930T195144Z">
         <seg>Parola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">OpenXML_WORD</prop>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221839Z" creationid="valter" creationdate="20171216T221839Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
