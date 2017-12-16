@@ -2278,6 +2278,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>' levelformat macro&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223946Z" creationid="valter" creationdate="20171216T223946Z">
+        <seg>' levelformat macro&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -2292,6 +2300,30 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130216T172618Z">
         <seg>'*' corrisponde a zero caratteri o più caratteri consecutivi, dalla posizione attuale in una parola data fino alla sua fine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223944Z" creationid="valter" creationdate="20171216T223944Z">
+        <seg>'&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223947Z" creationid="valter" creationdate="20171216T223947Z">
+        <seg>'&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223949Z" creationid="valter" creationdate="20171216T223949Z">
+        <seg>'&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,6 +4705,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/** Number of fuzzy matches to display */</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223910Z" creationid="valter" creationdate="20171216T223910Z">
+        <seg>/** Number of fuzzy matches to display */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215808Z">
@@ -4903,10 +4943,26 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.1.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224122Z" creationid="valter" creationdate="20171216T224122Z">
+        <seg>3.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.2</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T094530Z">
         <seg>3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.2.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224129Z" creationid="valter" creationdate="20171216T224129Z">
+        <seg>3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4963,6 +5019,14 @@ L'impostazione attuale è {0}MB;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T223826Z" creationid="valter" creationdate="20171216T223826Z">
         <seg>3a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3b.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223846Z" creationid="valter" creationdate="20171216T223846Z">
+        <seg>3b.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22576,6 +22640,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223924Z" creationid="valter" creationdate="20171216T223924Z">
+        <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2012</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T123349Z" creationid="valter" creationdate="20171215T123349Z">
@@ -24740,6 +24812,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140704T194324Z" creationid="valtermura" creationdate="20140704T194324Z">
         <seg>Lettera iniziale diversa (MAIUSC/minusc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224022Z" creationid="valter" creationdate="20171216T224022Z">
+        <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27078,6 +27158,46 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T192233Z" creationid="valter" creationdate="20160911T192233Z">
         <seg>Termina allineamento millimetrico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223958Z" creationid="valter" creationdate="20171216T223958Z">
+        <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Sub&lt;br28/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224114Z" creationid="valter" creationdate="20171216T224114Z">
+        <seg>End Sub&lt;br28/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224047Z" creationid="valter" creationdate="20171216T224047Z">
+        <seg>End With&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224101Z" creationid="valter" creationdate="20171216T224101Z">
+        <seg>End With&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224112Z" creationid="valter" creationdate="20171216T224112Z">
+        <seg>End With&lt;br27/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58125,6 +58245,62 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection.Copy&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223955Z" creationid="valter" creationdate="20171216T223955Z">
+        <seg>Selection.Copy&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223952Z" creationid="valter" creationdate="20171216T223952Z">
+        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223953Z" creationid="valter" creationdate="20171216T223953Z">
+        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223950Z" creationid="valter" creationdate="20171216T223950Z">
+        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224003Z" creationid="valter" creationdate="20171216T224003Z">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223957Z" creationid="valter" creationdate="20171216T223957Z">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224007Z" creationid="valter" creationdate="20171216T224007Z">
+        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T170243Z" creationid="valter" creationdate="20171214T170243Z">
@@ -58265,6 +58441,30 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130324T174858Z">
         <seg>Configurarlo come è stato fatto con &lt;f1&gt;Il mio progetto-1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sExt = ActiveDocument.Styles.Add(Name:="tw4winExternal", _&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224102Z" creationid="valter" creationdate="20171216T224102Z">
+        <seg>Set sExt = ActiveDocument.Styles.Add(Name:="tw4winExternal", _&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sInt = ActiveDocument.Styles.Add(Name:="tw4winInternal", _&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224048Z" creationid="valter" creationdate="20171216T224048Z">
+        <seg>Set sInt = ActiveDocument.Styles.Add(Name:="tw4winInternal", _&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sMark = ActiveDocument.Styles.Add(Name:="tw4winMark", _&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224026Z" creationid="valter" creationdate="20171216T224026Z">
+        <seg>Set sMark = ActiveDocument.Styles.Add(Name:="tw4winMark", _&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60531,6 +60731,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T091626Z">
         <seg>Segmentazione a livello di struttura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sub levelformat()&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223942Z" creationid="valter" creationdate="20171216T223942Z">
+        <seg>Sub levelformat()&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -78818,6 +79026,30 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With sExt.Font&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224106Z" creationid="valter" creationdate="20171216T224106Z">
+        <seg>With sExt.Font&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With sInt.Font&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224054Z" creationid="valter" creationdate="20171216T224054Z">
+        <seg>With sInt.Font&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With sMark.Font&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224030Z" creationid="valter" creationdate="20171216T224030Z">
+        <seg>With sMark.Font&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140423T215535Z" creationid="valtermura" creationdate="20140423T215535Z">
@@ -81909,6 +82141,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>___________________</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224000Z" creationid="valter" creationdate="20171216T224000Z">
+        <seg>___________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>___________________&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223933Z" creationid="valter" creationdate="20171216T223933Z">
+        <seg>___________________&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a file might have no matching entries, so it will show empty.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T141632Z">
@@ -82385,6 +82633,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215406Z">
         <seg>aze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b = Styles.COLOR_GREEN;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223835Z" creationid="valter" creationdate="20171216T223835Z">
+        <seg>b = Styles.COLOR_GREEN;</seg>
       </tuv>
     </tu>
     <tu>
@@ -88017,6 +88273,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223841Z" creationid="valter" creationdate="20171216T223841Z">
+        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223914Z" creationid="valter" creationdate="20171216T223914Z">
+        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pus</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222841Z" creationid="valter" creationdate="20171216T222841Z">
@@ -88209,6 +88481,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223831Z" creationid="valter" creationdate="20171216T223831Z">
+        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>right justification</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T203928Z">
@@ -88317,6 +88597,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222643Z" creationid="valter" creationdate="20171216T222643Z">
         <seg>rw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sExt.LanguageID = wdNoProofing&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224105Z" creationid="valter" creationdate="20171216T224105Z">
+        <seg>sExt.LanguageID = wdNoProofing&lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sInt.LanguageID = wdNoProofing&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224052Z" creationid="valter" creationdate="20171216T224052Z">
+        <seg>sInt.LanguageID = wdNoProofing&lt;br14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -90313,6 +90609,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>www.leuce.com/autoit/uncleanifyTMX.zip</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224011Z" creationid="valter" creationdate="20171216T224011Z">
+        <seg>www.leuce.com/autoit/uncleanifyTMX.zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215652Z">
@@ -90649,6 +90953,94 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>  .ColorIndex = wdGray50&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224111Z" creationid="valter" creationdate="20171216T224111Z">
+        <seg>  .ColorIndex = wdGray50&lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .ColorIndex = wdRed&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224059Z" creationid="valter" creationdate="20171216T224059Z">
+        <seg>  .ColorIndex = wdRed&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .ColorIndex = wdViolet&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224045Z" creationid="valter" creationdate="20171216T224045Z">
+        <seg>  .ColorIndex = wdViolet&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Hidden = True&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224041Z" creationid="valter" creationdate="20171216T224041Z">
+        <seg>  .Hidden = True&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224056Z" creationid="valter" creationdate="20171216T224056Z">
+        <seg>  .Name = "Courier"&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224108Z" creationid="valter" creationdate="20171216T224108Z">
+        <seg>  .Name = "Courier"&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224039Z" creationid="valter" creationdate="20171216T224039Z">
+        <seg>  .Name = "Courier"&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224057Z" creationid="valter" creationdate="20171216T224057Z">
+        <seg>  .Size = 11&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224109Z" creationid="valter" creationdate="20171216T224109Z">
+        <seg>  .Size = 11&lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224040Z" creationid="valter" creationdate="20171216T224040Z">
+        <seg>  .Size = 11&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224043Z" creationid="valter" creationdate="20171216T224043Z">
+        <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130523T182906Z">
@@ -90733,6 +91125,30 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T114420Z" creationid="valter" creationdate="20171215T114420Z">
         <seg>   - Redirect URI: qualsiasi URI (URL non valido richiesto quando si usa Microsoft Translator) es.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224050Z" creationid="valter" creationdate="20171216T224050Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224104Z" creationid="valter" creationdate="20171216T224104Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T224028Z" creationid="valter" creationdate="20171216T224028Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
