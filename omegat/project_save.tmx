@@ -6129,6 +6129,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225735Z" creationid="valter" creationdate="20171216T225735Z">
+        <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a10&gt;OmegaT&lt;/a10&gt; will build translated versions of all the translatable documents in the Source folder of the project, whether or not they have been fully translated.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110722T171221Z">
@@ -6257,6 +6265,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225738Z" creationid="valter" creationdate="20171216T225738Z">
+        <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a3&gt;&lt;/a3&gt; Each file type is handled differently in OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T170702Z">
@@ -6269,6 +6285,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T224614Z" creationid="valter" creationdate="20171216T224614Z">
         <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a4&gt;www.tutorialspoint.com/tcl-tk/&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225740Z" creationid="valter" creationdate="20171216T225740Z">
+        <seg>&lt;a4&gt;www.tutorialspoint.com/tcl-tk/&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -86631,6 +86655,30 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225851Z" creationid="valter" creationdate="20171216T225851Z">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballEnglishTokenizer</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225837Z" creationid="valter" creationdate="20171216T225837Z">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballEnglishTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225843Z" creationid="valter" creationdate="20171216T225843Z">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -jar OmegaT.jar --ITokenizer=[source language tokenizer name] --ITokenizerTarget=[target language tokenizer name]</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T182503Z">
@@ -88383,6 +88431,246 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneArabicTokenizer&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225749Z" creationid="valter" creationdate="20171216T225749Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneArabicTokenizer&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225750Z" creationid="valter" creationdate="20171216T225750Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225753Z" creationid="valter" creationdate="20171216T225753Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneChineseTokenizer&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225752Z" creationid="valter" creationdate="20171216T225752Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneChineseTokenizer&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneCzechTokenizer&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225754Z" creationid="valter" creationdate="20171216T225754Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneCzechTokenizer&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneDutchTokenizer&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225756Z" creationid="valter" creationdate="20171216T225756Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneDutchTokenizer&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225757Z" creationid="valter" creationdate="20171216T225757Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneGermanTokenizer&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225758Z" creationid="valter" creationdate="20171216T225758Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneGermanTokenizer&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneGreekTokenizer&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225759Z" creationid="valter" creationdate="20171216T225759Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneGreekTokenizer&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LucenePersianTokenizer&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225801Z" creationid="valter" creationdate="20171216T225801Z">
+        <seg>org.omegat.plugins.tokenizer.LucenePersianTokenizer&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneRussianTokenizer&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225803Z" creationid="valter" creationdate="20171216T225803Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneRussianTokenizer&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneSmartChineseTokenizer&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225802Z" creationid="valter" creationdate="20171216T225802Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneSmartChineseTokenizer&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneThaiTokenizer&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225804Z" creationid="valter" creationdate="20171216T225804Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneThaiTokenizer&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballDanishTokenizer&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225806Z" creationid="valter" creationdate="20171216T225806Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballDanishTokenizer&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballDutchTokenizer&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225807Z" creationid="valter" creationdate="20171216T225807Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballDutchTokenizer&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballEnglishTokenizer&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225808Z" creationid="valter" creationdate="20171216T225808Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballEnglishTokenizer&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballFinnishTokenizer&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225810Z" creationid="valter" creationdate="20171216T225810Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballFinnishTokenizer&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballFrenchTokenizer&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225811Z" creationid="valter" creationdate="20171216T225811Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballFrenchTokenizer&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballGerman2Tokenizer&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225812Z" creationid="valter" creationdate="20171216T225812Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballGerman2Tokenizer&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballGermanTokenizer&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225813Z" creationid="valter" creationdate="20171216T225813Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballGermanTokenizer&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballHungarianTokenizer&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225814Z" creationid="valter" creationdate="20171216T225814Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballHungarianTokenizer&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballItalianTokenizer&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225816Z" creationid="valter" creationdate="20171216T225816Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballItalianTokenizer&lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballNorwegianTokenizer&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225817Z" creationid="valter" creationdate="20171216T225817Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballNorwegianTokenizer&lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballPorterTokenizer&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225818Z" creationid="valter" creationdate="20171216T225818Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballPorterTokenizer&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballPortugueseTokenizer&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225819Z" creationid="valter" creationdate="20171216T225819Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballPortugueseTokenizer&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballRomanianTokenizer&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225820Z" creationid="valter" creationdate="20171216T225820Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballRomanianTokenizer&lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballRussianTokenizer&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225822Z" creationid="valter" creationdate="20171216T225822Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballRussianTokenizer&lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballSpanishTokenizer&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225823Z" creationid="valter" creationdate="20171216T225823Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballSpanishTokenizer&lt;br27/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballSwedishTokenizer&lt;br28/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225825Z" creationid="valter" creationdate="20171216T225825Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballSwedishTokenizer&lt;br28/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225827Z" creationid="valter" creationdate="20171216T225827Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words from Okapi
 (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
@@ -89865,6 +90153,70 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>te-basic-source</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225706Z" creationid="valter" creationdate="20171216T225706Z">
+        <seg>te-basic-source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-basic-target</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225711Z" creationid="valter" creationdate="20171216T225711Z">
+        <seg>te-basic-target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-gloss-highlight</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225722Z" creationid="valter" creationdate="20171216T225722Z">
+        <seg>te-gloss-highlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-gloss-subst</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225726Z" creationid="valter" creationdate="20171216T225726Z">
+        <seg>te-gloss-subst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-gloss-subst-highlight</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225729Z" creationid="valter" creationdate="20171216T225729Z">
+        <seg>te-gloss-subst-highlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-notags</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225716Z" creationid="valter" creationdate="20171216T225716Z">
+        <seg>te-notags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-tags</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225719Z" creationid="valter" creationdate="20171216T225719Z">
+        <seg>te-tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-warning</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225713Z" creationid="valter" creationdate="20171216T225713Z">
+        <seg>te-warning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>teaching</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T204853Z">
@@ -91089,6 +91441,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>wish te-basic-source.tcl</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225703Z" creationid="valter" creationdate="20171216T225703Z">
+        <seg>wish te-basic-source.tcl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>wish8.5 priorview.tcl</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T225205Z" creationid="valter" creationdate="20171216T225205Z">
@@ -91821,6 +92181,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T224931Z" creationid="valter" creationdate="20171216T224931Z">
         <seg>   });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T225900Z" creationid="valter" creationdate="20171216T225900Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
