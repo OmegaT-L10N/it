@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10213" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14489,6 +14489,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T220949Z" creationid="valter" creationdate="20171216T220949Z">
+        <seg>Informazioni su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20111002T212357Z">
@@ -21799,6 +21807,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221011Z" creationid="valter" creationdate="20171216T221011Z">
+        <seg>Connetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connecting to dictionary repository...</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T122344Z">
@@ -21927,6 +21943,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T100924Z">
         <seg>Contatto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221049Z" creationid="valter" creationdate="20171216T221049Z">
+        <seg>Contatti e supporto</seg>
       </tuv>
     </tu>
     <tu>
@@ -42844,6 +42868,14 @@ la versione Mac contiene una copia di JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221055Z" creationid="valter" creationdate="20171216T221055Z">
+        <seg>Manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20161011T203531Z" creationid="valter" creationdate="20161011T203531Z">
@@ -46394,6 +46426,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T220848Z" creationid="valter" creationdate="20171216T220848Z">
+        <seg>OmegaT - lo strumento gratuito per memorie di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT - User's Guide</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120603T203325Z">
@@ -47368,6 +47408,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T080335Z">
         <seg>OmegaT è uno strumento CAT (Traduzione Assistita da Computer) con le seguenti caratteristiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T220937Z" creationid="valter" creationdate="20171216T220937Z">
+        <seg>OmegaT è un'applicazione di memoria di traduzione gratuita per traduttori professionisti scritta in Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50399,6 +50447,14 @@ installare Oracle JRE per proprio conto.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T101219Z">
         <seg>Pacchetto da scaricare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221039Z" creationid="valter" creationdate="20171216T221039Z">
+        <seg>Pagina non trovata</seg>
       </tuv>
     </tu>
     <tu>
@@ -54351,6 +54407,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T191436Z" creationid="valter" creationdate="20160911T191436Z">
         <seg>Nome risorsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T220956Z" creationid="valter" creationdate="20171216T220956Z">
+        <seg>Risorse</seg>
       </tuv>
     </tu>
     <tu>
@@ -62469,6 +62533,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140223T203057Z" creationid="valtermura" creationdate="20140223T203057Z">
         <seg>Il filtro Mozilla DTD ha restituito un'eccezione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221021Z" creationid="valter" creationdate="20171216T221021Z">
+        <seg>Il progetto OmegaT</seg>
       </tuv>
     </tu>
     <tu>
