@@ -32716,10 +32716,26 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221504Z" creationid="valter" creationdate="20171216T221504Z">
+        <seg>Guida - Aggiunta di una funzione di anteprima a OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T221217Z" creationid="valter" creationdate="20171216T221217Z">
         <seg>Guida - Compilare OmegaT dal codice sorgente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221452Z" creationid="valter" creationdate="20171216T221452Z">
+        <seg>Guida - Creazione di un nuovo filtro di file</seg>
       </tuv>
     </tu>
     <tu>
@@ -32736,6 +32752,30 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T221355Z" creationid="valter" creationdate="20171216T221204Z">
         <seg>Guida - Compatibilità OmegaT con Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221542Z" creationid="valter" creationdate="20171216T221542Z">
+        <seg>Guida - Correttore ortografico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221529Z" creationid="valter" creationdate="20171216T221529Z">
+        <seg>Guida - L'utilità di anteprima "Priorview"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221416Z" creationid="valter" creationdate="20171216T221416Z">
+        <seg>Guida - Tradurre OmegaT nella propria lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -32760,6 +32800,30 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T221328Z" creationid="valter" creationdate="20171216T221328Z">
         <seg>Guida - Usare Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221427Z" creationid="valter" creationdate="20171216T221427Z">
+        <seg>Guida - Usare Microsoft Translator in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221613Z" creationid="valter" creationdate="20171216T221613Z">
+        <seg>Guida - Usare la funzione di esportazione di testo di OmegaT (interfaccia di script)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221628Z" creationid="valter" creationdate="20171216T221628Z">
+        <seg>Guida - Usare il tokenizer per OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -46274,6 +46338,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221710Z" creationid="valter" creationdate="20171216T221710Z">
+        <seg>OS X firmato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OS menu setup</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T110815Z">
@@ -52754,8 +52826,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Propagation and one-to-many matching HowTo</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20130521T103731Z">
-        <seg>Guida: Concordanza uno-a-molti e propagazione</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221534Z">
+        <seg>Guida - Concordanza uno-a-molti e propagazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -77912,6 +77984,30 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T194906Z">
         <seg>Utenti Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221646Z" creationid="valter" creationdate="20171216T221646Z">
+        <seg>Windows con JRE a 64 bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221632Z" creationid="valter" creationdate="20171216T221632Z">
+        <seg>Windows con JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T221650Z" creationid="valter" creationdate="20171216T221650Z">
+        <seg>Windows senza JRE</seg>
       </tuv>
     </tu>
     <tu>
