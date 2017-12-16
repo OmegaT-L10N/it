@@ -40981,6 +40981,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kirundi</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222904Z" creationid="valter" creationdate="20171216T222904Z">
+        <seg>Kirundi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Komi</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222646Z" creationid="valter" creationdate="20171216T222646Z">
@@ -55755,6 +55763,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sango</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222925Z" creationid="valter" creationdate="20171216T222925Z">
+        <seg>Sango</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sanskrit (Saṁskṛta)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T131327Z">
@@ -58367,6 +58383,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shona</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222931Z" creationid="valter" creationdate="20171216T222931Z">
+        <seg>Shona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Short-cuts are activated by pressing &lt;c0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/c0&gt; and a letter.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T192109Z">
@@ -58795,6 +58819,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T121027Z">
         <seg>Dalla versione 2.0.1, OmegaT ha una funzione di esportazione testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sindhi</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222916Z" creationid="valter" creationdate="20171216T222916Z">
+        <seg>Sindhi</seg>
       </tuv>
     </tu>
     <tu>
@@ -60755,6 +60787,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Swahili</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223013Z" creationid="valter" creationdate="20171216T223013Z">
+        <seg>Swahili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swati</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T162925Z">
@@ -61475,6 +61515,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagalog</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223037Z" creationid="valter" creationdate="20171216T223037Z">
+        <seg>Tagalog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tagged files and tags</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T085010Z">
@@ -61639,6 +61687,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T162139Z">
         <seg>Prestare particolare attenzione quando si apportano modifiche ai file contenuti nella cartella &lt;l0&gt;/source&lt;/l0&gt; mentre ci si trova a un livello intermedio del lavoro di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223021Z" creationid="valter" creationdate="20171216T223021Z">
+        <seg>Tamil</seg>
       </tuv>
     </tu>
     <tu>
@@ -61887,6 +61943,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T110450Z">
         <seg>In gergo tecnico, il segmento &lt;c0&gt;msgstr&lt;/c0&gt; nel file PO di arrivo, se creato, sarà lasciato vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Telugu</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223022Z" creationid="valter" creationdate="20171216T223022Z">
+        <seg>Telugu</seg>
       </tuv>
     </tu>
     <tu>
@@ -74243,6 +74307,22 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tsonga</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223058Z" creationid="valter" creationdate="20171216T223058Z">
+        <seg>Tsonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tswana</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223038Z" creationid="valter" creationdate="20171216T223038Z">
+        <seg>Tswana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turkish</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T213358Z">
@@ -74271,6 +74351,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T214423Z">
         <seg>Esercitazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twi</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223107Z" creationid="valter" creationdate="20171216T223107Z">
+        <seg>Twi</seg>
       </tuv>
     </tu>
     <tu>
@@ -75191,6 +75279,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T212627Z">
         <seg>Sorabo superiore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Urdu</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223119Z" creationid="valter" creationdate="20171216T223119Z">
+        <seg>Urdu</seg>
       </tuv>
     </tu>
     <tu>
@@ -76656,6 +76752,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Venda</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223122Z" creationid="valter" creationdate="20171216T223122Z">
+        <seg>Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Version</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T164825Z" creationid="valter" creationdate="20171214T164825Z">
@@ -76852,6 +76956,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T193950Z">
         <seg>Vito Smolej (gestore della documentazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Volapük</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223130Z" creationid="valter" creationdate="20171216T223130Z">
+        <seg>Volapük</seg>
       </tuv>
     </tu>
     <tu>
@@ -78684,6 +78796,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wolof</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223138Z" creationid="valter" creationdate="20171216T223138Z">
+        <seg>Wolof</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T132311Z">
@@ -79076,6 +79196,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Xhosa</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223152Z" creationid="valter" creationdate="20171216T223152Z">
+        <seg>Xhosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X|Y</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T220211Z">
@@ -79120,6 +79248,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T102023Z">
         <seg>Sì:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yiddish</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223154Z" creationid="valter" creationdate="20171216T223154Z">
+        <seg>Yiddish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yoruba</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223156Z" creationid="valter" creationdate="20171216T223156Z">
+        <seg>Yoruba</seg>
       </tuv>
     </tu>
     <tu>
@@ -81191,6 +81335,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Zhuang, Chuang</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223204Z" creationid="valter" creationdate="20171216T223204Z">
+        <seg>Zhuang, Chuang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Zoltan Bartko</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T093237Z">
@@ -82167,6 +82319,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>bo</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223035Z" creationid="valter" creationdate="20171216T223035Z">
+        <seg>bo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bod</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223035Z" creationid="valter" creationdate="20171216T223035Z">
+        <seg>bod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>bos</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215411Z">
@@ -82663,10 +82831,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cy</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223137Z" creationid="valter" creationdate="20171216T223137Z">
+        <seg>cy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cycleSwitchCaseMenuItem</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215608Z">
         <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cym</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223138Z" creationid="valter" creationdate="20171216T223138Z">
+        <seg>cym</seg>
       </tuv>
     </tu>
     <tu>
@@ -83791,6 +83975,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>fy</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223142Z" creationid="valter" creationdate="20171216T223142Z">
+        <seg>fy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ga</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222617Z" creationid="valter" creationdate="20171216T222617Z">
@@ -83799,10 +83991,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gd</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222930Z" creationid="valter" creationdate="20171216T222930Z">
+        <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gl</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215425Z">
         <seg>gl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gla</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222931Z" creationid="valter" creationdate="20171216T222931Z">
+        <seg>gla</seg>
       </tuv>
     </tu>
     <tu>
@@ -87747,6 +87955,54 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>rm</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222903Z" creationid="valter" creationdate="20171216T222903Z">
+        <seg>rm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rn</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222905Z" creationid="valter" creationdate="20171216T222905Z">
+        <seg>rn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ro</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222906Z" creationid="valter" creationdate="20171216T222906Z">
+        <seg>ro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>roh</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222904Z" creationid="valter" creationdate="20171216T222904Z">
+        <seg>roh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ron</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222908Z" creationid="valter" creationdate="20171216T222908Z">
+        <seg>ron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ru</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222909Z" creationid="valter" creationdate="20171216T222909Z">
+        <seg>ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130303T064313Z">
@@ -87759,6 +88015,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T204552Z">
         <seg>Rugby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>run</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222906Z" creationid="valter" creationdate="20171216T222906Z">
+        <seg>run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rus</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222909Z" creationid="valter" creationdate="20171216T222909Z">
+        <seg>rus</seg>
       </tuv>
     </tu>
     <tu>
@@ -87787,6 +88059,30 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sa</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222912Z" creationid="valter" creationdate="20171216T222912Z">
+        <seg>sa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sag</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222927Z" creationid="valter" creationdate="20171216T222927Z">
+        <seg>sag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>san</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222913Z" creationid="valter" creationdate="20171216T222913Z">
+        <seg>san</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>save file as dialog for the glossary</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T224643Z">
@@ -87811,6 +88107,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sc</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222914Z" creationid="valter" creationdate="20171216T222914Z">
+        <seg>sc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T093233Z">
@@ -87831,6 +88135,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215802Z">
         <seg>script/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sd</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222916Z" creationid="valter" creationdate="20171216T222916Z">
+        <seg>sd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>se</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222923Z" creationid="valter" creationdate="20171216T222923Z">
+        <seg>se</seg>
       </tuv>
     </tu>
     <tu>
@@ -87979,10 +88299,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sg</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222927Z" creationid="valter" creationdate="20171216T222927Z">
+        <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>shown below.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T093546Z">
         <seg>sono descritti di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>si</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222934Z" creationid="valter" creationdate="20171216T222934Z">
+        <seg>si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sin</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222934Z" creationid="valter" creationdate="20171216T222934Z">
+        <seg>sin</seg>
       </tuv>
     </tu>
     <tu>
@@ -87995,10 +88339,26 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sk</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222937Z" creationid="valter" creationdate="20171216T222937Z">
+        <seg>sk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>skye</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T204243Z">
         <seg>Skye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sl</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222938Z" creationid="valter" creationdate="20171216T222938Z">
+        <seg>sl</seg>
       </tuv>
     </tu>
     <tu>
@@ -88019,10 +88379,90 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slk</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222937Z" creationid="valter" creationdate="20171216T222937Z">
+        <seg>slk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slv</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222939Z" creationid="valter" creationdate="20171216T222939Z">
+        <seg>slv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sm</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222925Z" creationid="valter" creationdate="20171216T222925Z">
+        <seg>sm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sme</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222923Z" creationid="valter" creationdate="20171216T222923Z">
+        <seg>sme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>smo</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222925Z" creationid="valter" creationdate="20171216T222925Z">
+        <seg>smo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sn</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222932Z" creationid="valter" creationdate="20171216T222932Z">
+        <seg>sn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sna</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222933Z" creationid="valter" creationdate="20171216T222933Z">
+        <seg>sna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>snd</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222917Z" creationid="valter" creationdate="20171216T222917Z">
+        <seg>snd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>som</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222948Z" creationid="valter" creationdate="20171216T222948Z">
+        <seg>som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>some version</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T170656Z" creationid="valter" creationdate="20171214T170656Z">
         <seg>una qualche versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sot</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222950Z" creationid="valter" creationdate="20171216T222950Z">
+        <seg>sot</seg>
       </tuv>
     </tu>
     <tu>
@@ -88047,6 +88487,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130505T081124Z">
         <seg>source.txt - contiene il testo sorgente del segmento &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spa</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223002Z" creationid="valter" creationdate="20171216T223002Z">
+        <seg>spa</seg>
       </tuv>
     </tu>
     <tu>
@@ -88083,10 +88531,58 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sr</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222928Z" creationid="valter" creationdate="20171216T222928Z">
+        <seg>sr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T104709Z">
         <seg>src (URL di i&amp;mmagini)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>srd</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222915Z" creationid="valter" creationdate="20171216T222915Z">
+        <seg>srd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>srp</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222929Z" creationid="valter" creationdate="20171216T222929Z">
+        <seg>srp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ss</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223017Z" creationid="valter" creationdate="20171216T223017Z">
+        <seg>ss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ssw</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223018Z" creationid="valter" creationdate="20171216T223018Z">
+        <seg>ssw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>st</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222949Z" creationid="valter" creationdate="20171216T222949Z">
+        <seg>st</seg>
       </tuv>
     </tu>
     <tu>
@@ -88103,6 +88599,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T201117Z">
         <seg>stock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>su</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223007Z" creationid="valter" creationdate="20171216T223007Z">
+        <seg>su</seg>
       </tuv>
     </tu>
     <tu>
@@ -88131,6 +88635,38 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sv</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223020Z" creationid="valter" creationdate="20171216T223020Z">
+        <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sw</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223014Z" creationid="valter" creationdate="20171216T223014Z">
+        <seg>sw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>swa</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223015Z" creationid="valter" creationdate="20171216T223015Z">
+        <seg>swa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>swe</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223020Z" creationid="valter" creationdate="20171216T223020Z">
+        <seg>swe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>swimming</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T201314Z">
@@ -88143,6 +88679,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T123839Z">
         <seg>t virgole e punti  mischiati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ta</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223021Z" creationid="valter" creationdate="20171216T223021Z">
+        <seg>ta</seg>
       </tuv>
     </tu>
     <tu>
@@ -88163,6 +88707,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tah</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223114Z" creationid="valter" creationdate="20171216T223114Z">
+        <seg>tah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tam</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223022Z" creationid="valter" creationdate="20171216T223022Z">
+        <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T192247Z" creationid="valter" creationdate="20170115T192247Z">
@@ -88179,10 +88739,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tat</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223107Z" creationid="valter" creationdate="20171216T223107Z">
+        <seg>tat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223022Z" creationid="valter" creationdate="20171216T223022Z">
+        <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>teaching</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T204853Z">
         <seg>insegnamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tel</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223023Z" creationid="valter" creationdate="20171216T223023Z">
+        <seg>tel</seg>
       </tuv>
     </tu>
     <tu>
@@ -88199,6 +88783,46 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215915Z">
         <seg>test\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tg</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223027Z" creationid="valter" creationdate="20171216T223027Z">
+        <seg>tg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tgk</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223028Z" creationid="valter" creationdate="20171216T223028Z">
+        <seg>tgk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tgl</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223038Z" creationid="valter" creationdate="20171216T223038Z">
+        <seg>tgl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>th</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223030Z" creationid="valter" creationdate="20171216T223030Z">
+        <seg>th</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tha</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223031Z" creationid="valter" creationdate="20171216T223031Z">
+        <seg>tha</seg>
       </tuv>
     </tu>
     <tu>
@@ -88483,6 +89107,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ti</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223034Z" creationid="valter" creationdate="20171216T223034Z">
+        <seg>ti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tinysegmenter.jar (Modified BSD license)</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130517T180858Z">
@@ -88491,10 +89123,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tir</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223034Z" creationid="valter" creationdate="20171216T223034Z">
+        <seg>tir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>titleCaseMenuItem</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215607Z">
         <seg>titleCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tk</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223036Z" creationid="valter" creationdate="20171216T223036Z">
+        <seg>tk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tl</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223037Z" creationid="valter" creationdate="20171216T223037Z">
+        <seg>tl</seg>
       </tuv>
     </tu>
     <tu>
@@ -88559,6 +89215,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T084003Z">
         <seg>Cartelle tmx - posizione e scopo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tn</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223039Z" creationid="valter" creationdate="20171216T223039Z">
+        <seg>tn</seg>
       </tuv>
     </tu>
     <tu>
@@ -88667,6 +89331,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ton</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223053Z" creationid="valter" creationdate="20171216T223053Z">
+        <seg>ton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tools to manage the linguistic data necessary to build a machine translation system for a given language pair</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150417T180644Z" creationid="valter" creationdate="20150417T180644Z">
@@ -88735,6 +89407,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101004T145227Z">
         <seg>numero totale di segmenti (incluse le ripetizioni) nel progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tr</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223057Z" creationid="valter" creationdate="20171216T223057Z">
+        <seg>tr</seg>
       </tuv>
     </tu>
     <tu>
@@ -88827,10 +89507,114 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ts</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223059Z" creationid="valter" creationdate="20171216T223059Z">
+        <seg>ts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tsn</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223040Z" creationid="valter" creationdate="20171216T223040Z">
+        <seg>tsn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tso</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223100Z" creationid="valter" creationdate="20171216T223100Z">
+        <seg>tso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tt</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223106Z" creationid="valter" creationdate="20171216T223106Z">
+        <seg>tt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tuk</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223037Z" creationid="valter" creationdate="20171216T223037Z">
+        <seg>tuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tur</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223057Z" creationid="valter" creationdate="20171216T223057Z">
+        <seg>tur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tw</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223109Z" creationid="valter" creationdate="20171216T223109Z">
+        <seg>tw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>twi</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223111Z" creationid="valter" creationdate="20171216T223111Z">
+        <seg>twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ty</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223113Z" creationid="valter" creationdate="20171216T223113Z">
+        <seg>ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ug</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223116Z" creationid="valter" creationdate="20171216T223116Z">
+        <seg>ug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>uiLayout.xml</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215804Z">
         <seg>uiLayout.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uig</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223117Z" creationid="valter" creationdate="20171216T223117Z">
+        <seg>uig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uk</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223118Z" creationid="valter" creationdate="20171216T223118Z">
+        <seg>uk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ukr</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223118Z" creationid="valter" creationdate="20171216T223118Z">
+        <seg>ukr</seg>
       </tuv>
     </tu>
     <tu>
@@ -88867,6 +89651,22 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ur</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223119Z" creationid="valter" creationdate="20171216T223119Z">
+        <seg>ur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>urd</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223119Z" creationid="valter" creationdate="20171216T223119Z">
+        <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>user's default file filters</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T220151Z">
@@ -88883,10 +89683,58 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>uz</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223121Z" creationid="valter" creationdate="20171216T223121Z">
+        <seg>uz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uzb</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223122Z" creationid="valter" creationdate="20171216T223122Z">
+        <seg>uzb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20141101T213214Z">
         <seg>value (di pulsanti, e immi&amp;ssione di invio e azzeramenti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ve</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223123Z" creationid="valter" creationdate="20171216T223123Z">
+        <seg>ve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ven</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223126Z" creationid="valter" creationdate="20171216T223126Z">
+        <seg>ven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vi</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223128Z" creationid="valter" creationdate="20171216T223128Z">
+        <seg>vi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vie</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223129Z" creationid="valter" creationdate="20171216T223129Z">
+        <seg>vie</seg>
       </tuv>
     </tu>
     <tu>
@@ -88995,10 +89843,34 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>vo</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223131Z" creationid="valter" creationdate="20171216T223131Z">
+        <seg>vo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vol</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223133Z" creationid="valter" creationdate="20171216T223133Z">
+        <seg>vol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>vs</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T220145Z">
         <seg>vs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wa</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223135Z" creationid="valter" creationdate="20171216T223135Z">
+        <seg>wa</seg>
       </tuv>
     </tu>
     <tu>
@@ -89147,6 +90019,30 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>wln</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223136Z" creationid="valter" creationdate="20171216T223136Z">
+        <seg>wln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wo</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223139Z" creationid="valter" creationdate="20171216T223139Z">
+        <seg>wo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wol</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223140Z" creationid="valter" creationdate="20171216T223140Z">
+        <seg>wol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215652Z">
@@ -89163,10 +90059,50 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>xh</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223152Z" creationid="valter" creationdate="20171216T223152Z">
+        <seg>xh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>xho</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223153Z" creationid="valter" creationdate="20171216T223153Z">
+        <seg>xho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yi</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223155Z" creationid="valter" creationdate="20171216T223155Z">
+        <seg>yi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yid</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223155Z" creationid="valter" creationdate="20171216T223155Z">
+        <seg>yid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>yoga</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T201501Z">
         <seg>Yoga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yor</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223202Z" creationid="valter" creationdate="20171216T223202Z">
+        <seg>yor</seg>
       </tuv>
     </tu>
     <tu>
@@ -90039,6 +90975,28 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <prop type="file">doc_src/App_Languages.xml</prop>
+      <prop type="prev">Spanish, Castilian</prop>
+      <prop type="next">spa</prop>
+      <tuv lang="EN">
+        <seg>es</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222957Z" creationid="valter" creationdate="20171216T222957Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Languages.xml</prop>
+      <prop type="prev">fy</prop>
+      <prop type="next">Xhosa</prop>
+      <tuv lang="EN">
+        <seg>fry</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223150Z" creationid="valter" creationdate="20171216T223150Z">
+        <seg>fry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Languages.xml</prop>
       <prop type="prev">Oriya</prop>
       <prop type="next">ori</prop>
       <tuv lang="EN">
@@ -90057,6 +91015,50 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222902Z" creationid="valter" creationdate="20171216T222902Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Languages.xml</prop>
+      <prop type="prev">Somali</prop>
+      <prop type="next">som</prop>
+      <tuv lang="EN">
+        <seg>so</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T222948Z" creationid="valter" creationdate="20171216T222948Z">
+        <seg>so</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Languages.xml</prop>
+      <prop type="prev">su</prop>
+      <prop type="next">Swahili</prop>
+      <tuv lang="EN">
+        <seg>sun</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223013Z" creationid="valter" creationdate="20171216T223013Z">
+        <seg>sun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Languages.xml</prop>
+      <prop type="prev">Tonga (Tonga Islands)</prop>
+      <prop type="next">ton</prop>
+      <tuv lang="EN">
+        <seg>to</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223052Z" creationid="valter" creationdate="20171216T223052Z">
+        <seg>to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Languages.xml</prop>
+      <prop type="prev">Yoruba</prop>
+      <prop type="next">yor</prop>
+      <tuv lang="EN">
+        <seg>yo</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T223202Z" creationid="valter" creationdate="20171216T223202Z">
+        <seg>yo</seg>
       </tuv>
     </tu>
     <tu>
