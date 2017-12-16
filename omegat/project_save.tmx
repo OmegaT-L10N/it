@@ -5739,8 +5739,8 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20171215T140050Z" creationid="valter" creationdate="20171215T140050Z">
-        <seg>&lt;a0&gt;Scarica&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230102Z" creationid="valter" creationdate="20171215T140050Z">
+        <seg>&lt;a0&gt;Scarica&lt;/a0&gt; &lt;a1&gt;Primi passi&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18734,6 +18734,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Balabit</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230230Z" creationid="valter" creationdate="20171216T230230Z">
+        <seg>Balabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215406Z">
@@ -19843,6 +19851,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130320T073108Z">
         <seg>Gli strumenti CAT variano nel prezzo da zero (e.g. OmegaT) a 2500 $ o più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CJ Translations</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230234Z" creationid="valter" creationdate="20171216T230234Z">
+        <seg>CJ Translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -22089,6 +22105,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (svilupp
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T110732Z" creationid="valter" creationdate="20171214T110732Z">
         <seg>Invio dei file di arrivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commodity12</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230235Z" creationid="valter" creationdate="20171216T230235Z">
+        <seg>Commodity12</seg>
       </tuv>
     </tu>
     <tu>
@@ -25176,6 +25200,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diptik</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230237Z" creationid="valter" creationdate="20171216T230237Z">
+        <seg>Diptik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Direct link to Sourceforge</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T220459Z">
@@ -26196,6 +26228,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140704T194125Z" creationid="valtermura" creationdate="20140704T194125Z">
         <seg>Parole doppie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doublet KK</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230238Z" creationid="valter" creationdate="20171216T230238Z">
+        <seg>Doublet KK</seg>
       </tuv>
     </tu>
     <tu>
@@ -31566,6 +31606,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T094120Z" creationid="valter" creationdate="20170115T094120Z">
         <seg>Ottieni la chiave API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230112Z" creationid="valter" creationdate="20171216T230112Z">
+        <seg>Primi passi con OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -44338,6 +44386,14 @@ la versione Mac contiene una copia di JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230117Z" creationid="valter" creationdate="20171216T230117Z">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140423T221013Z" creationid="valtermura" creationdate="20140423T221013Z">
@@ -50408,6 +50464,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230115Z" creationid="valter" creationdate="20171216T230115Z">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T132003Z">
@@ -55897,6 +55961,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230141Z" creationid="valter" creationdate="20171216T230141Z">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Romanian</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T213158Z">
@@ -59289,6 +59361,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151206T092453Z" creationid="valter" creationdate="20151206T092453Z">
         <seg>Mostra le &amp;opzioni avanzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230200Z" creationid="valter" creationdate="20171216T230200Z">
+        <seg>Mostra la versione inglese</seg>
       </tuv>
     </tu>
     <tu>
@@ -72107,6 +72187,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230223Z" creationid="valter" creationdate="20171216T230223Z">
+        <seg>Questo sito è disponibile anche in inglese!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This site is maintained on behalf of the OmegaT project by:</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130420T145407Z">
@@ -83241,6 +83329,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T092302Z">
         <seg>da altri strumenti di traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cApStAn</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20171216T230232Z" creationid="valter" creationdate="20171216T230232Z">
+        <seg>cApStAn</seg>
       </tuv>
     </tu>
     <tu>
