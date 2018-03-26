@@ -28029,6 +28029,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180326T203109Z" creationid="valter" creationdate="20180326T203109Z">
+        <seg>Errore durante la sostituzione dell'espressione regolare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20131013T172154Z" creationid="valtermura" creationdate="20131013T172154Z">
@@ -32302,6 +32310,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T175928Z" creationid="valter" creationdate="20160911T175928Z">
         <seg>Groovy (licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180326T203139Z" creationid="valter" creationdate="20180326T203139Z">
+        <seg>Il gruppo {0} non esiste nell'espressione di ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -76281,6 +76297,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180326T203045Z" creationid="valter" creationdate="20180326T203045Z">
+        <seg>Usare $n per fare riferimento al gruppo n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170114T232404Z" creationid="valter" creationdate="20170114T232404Z">
@@ -78682,6 +78706,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151206T095223Z" creationid="valter" creationdate="20151206T095223Z">
         <seg>Durante l'uso delle espressioni regolari, la stringa di sostituzione non supporta i riferimenti ai gruppi definiti nella stringa di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180326T203010Z" creationid="valter" creationdate="20180326T203010Z">
+        <seg>Durante l'uso delle espressioni regolari, la stringa di sostituzione supporta i riferimenti ai gruppi definiti nella stringa di ricerca..</seg>
       </tuv>
     </tu>
     <tu>
