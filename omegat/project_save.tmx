@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10213" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24492,6 +24492,22 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T195251Z">
         <seg>La decompressione si esegue, in genere, facendo doppio clic sul pacchetto scaricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="IT" changeid="Kos Ivantsov" changedate="20180402T092418Z" creationid="Kos Ivantsov" creationdate="20180402T092418Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="Kos Ivantsov" changedate="20180402T092733Z" creationid="Kos Ivantsov" creationdate="20180402T092733Z">
+        <seg>Chiave DeepL Api non disponibile.</seg>
       </tuv>
     </tu>
     <tu>
