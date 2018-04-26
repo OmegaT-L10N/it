@@ -16039,6 +16039,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T221907Z" creationid="karm46" creationdate="20180426T221907Z">
+        <seg>Tutti i file DOCX del progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120526T173529Z">
@@ -18850,6 +18858,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       </tuv>
       <tuv lang="IT" changeid="karm46" changedate="20180426T213424Z" creationid="karm46" creationdate="20180426T213424Z">
         <seg>Abbellire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T221826Z" creationid="karm46" creationdate="20180426T221826Z">
+        <seg>Abbellire il file DOCX risultante</seg>
       </tuv>
     </tu>
     <tu>
@@ -24276,6 +24292,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160404T071459Z" creationid="valter" creationdate="20160404T071459Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T222027Z" creationid="karm46" creationdate="20180426T222027Z">
+        <seg>File DOCX attuale</seg>
       </tuv>
     </tu>
     <tu>
