@@ -22732,6 +22732,22 @@ Submenu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212739Z" creationid="karm46" creationdate="20180426T212739Z">
+        <seg>Conversione di tutti i file .DOCX del progetto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212758Z" creationid="karm46" creationdate="20180426T212758Z">
+        <seg>Conversione dell'attuale rile .DOCX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converting to MS Office 2007 format</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T080406Z">
@@ -46086,6 +46102,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212836Z" creationid="karm46" creationdate="20180426T212836Z">
+        <seg>Nessun file .DOCX da ripulire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No / I don't know:</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T102202Z">
@@ -56387,6 +56411,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212615Z" creationid="karm46" creationdate="20180426T212615Z">
+        <seg>Eseguire Tagwipe per il file '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running on Java {0}</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150914T185349Z" creationid="valter" creationdate="20150914T185349Z">
@@ -58899,6 +58931,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20111204T224058Z">
         <seg>Motore selezionato: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212649Z" creationid="karm46" creationdate="20180426T212649Z">
+        <seg>Opzioni scelte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62727,6 +62767,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T184323Z">
         <seg>I tag che appaiono all'interno del segmento tradotto saranno presenti anche all'interno del documento tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212929Z" creationid="karm46" creationdate="20180426T212929Z">
+        <seg>Tagwipe ha finito, ricaricamento del progetto...</seg>
       </tuv>
     </tu>
     <tu>
