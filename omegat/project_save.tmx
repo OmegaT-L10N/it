@@ -2620,8 +2620,8 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20170319T175512Z" creationid="valter" creationdate="20170319T175512Z">
-        <seg>(se ritenete di aver contribuito in modo significativo al Progetto OmegaT ma
+      <tuv lang="IT" changeid="karm46" changedate="20180426T211821Z" creationid="valter" creationdate="20170319T175512Z">
+        <seg>(se ritenete di aver contribuito in modo significativo al Progetto OmegaT,
 ma il vostro nome non è presente nell'elenco, contattateci senza problemi).</seg>
       </tuv>
     </tu>
@@ -44100,6 +44100,14 @@ la versione Mac contiene una copia di JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (project co-ordinator, webmaster)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T211412Z" creationid="karm46" creationdate="20180426T211412Z">
+        <seg>Marc Prior (co-ordinatore del progetto, webmaster)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior (webmaster)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150307T162519Z" creationid="valter" creationdate="20150307T162519Z">
@@ -78066,8 +78074,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Vito Smolej (documentation manager)</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20100718T193950Z">
-        <seg>Vito Smolej (gestore della documentazione)</seg>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T211422Z">
+        <seg>Vito Smolej (responsabile della documentazione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -83121,8 +83129,8 @@ di creare la propria cartella di configurazione.</seg>
       <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20140519T191204Z">
-        <seg>e tantissime altre persone che hanno contribuito</seg>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T211601Z">
+        <seg>e tantissime altre persone utilissime</seg>
       </tuv>
     </tu>
     <tu>
