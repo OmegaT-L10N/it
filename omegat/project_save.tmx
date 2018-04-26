@@ -46182,6 +46182,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212443Z" creationid="karm46" creationdate="20180426T212443Z">
+        <seg>Nessun progetto caricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20111206T190925Z">
@@ -53852,6 +53860,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100715T121657Z">
         <seg>Avvio compilazione progetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212548Z" creationid="karm46" creationdate="20180426T212548Z">
+        <seg>Il progetto non contiene file.</seg>
       </tuv>
     </tu>
     <tu>
