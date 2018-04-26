@@ -23672,6 +23672,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T213143Z" creationid="karm46" creationdate="20180426T213143Z">
+        <seg>Creazione del file di output '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T203023Z">
@@ -51070,6 +51078,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T101601Z">
         <seg>Aprire una finestra di terminale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T213027Z" creationid="karm46" creationdate="20180426T213027Z">
+        <seg>Apertura de file di partenza '{0}'</seg>
       </tuv>
     </tu>
     <tu>
