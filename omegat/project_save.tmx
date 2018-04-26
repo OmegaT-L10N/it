@@ -32828,6 +32828,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Henry Pijffers (release manager)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T211328Z" creationid="karm46" creationdate="20180426T211328Z">
+        <seg>Henry Pijffers (responsabile della edizione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here a platform-independent package in a standard Java form is considered.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T220601Z">
@@ -44552,6 +44560,14 @@ la versione Mac contiene una copia di JRE.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T095457Z">
         <seg>Maxym Mykhalchuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maxym Mykhalchuk (lead developper)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T211256Z" creationid="karm46" creationdate="20180426T211256Z">
+        <seg>Maxym Mykhalchuk (sviluppatore capo developper)</seg>
       </tuv>
     </tu>
     <tu>
