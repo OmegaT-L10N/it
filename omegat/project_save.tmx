@@ -18694,6 +18694,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T221739Z" creationid="karm46" creationdate="20180426T221739Z">
+        <seg>Fare copia di riserva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T214630Z">
@@ -45658,6 +45666,22 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120602T141209Z">
         <seg>Scorciatoie per gli spostamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T221617Z" creationid="karm46" creationdate="20180426T221617Z">
+        <seg>Spostamento del file ripulito '{0}' a '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T221645Z" creationid="karm46" creationdate="20180426T221527Z">
+        <seg>Spostamento del file originale '{0}' a '{1}'</seg>
       </tuv>
     </tu>
     <tu>
