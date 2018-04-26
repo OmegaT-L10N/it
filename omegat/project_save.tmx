@@ -55305,6 +55305,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T212349Z" creationid="karm46" creationdate="20180426T212349Z">
+        <seg>Rimuove i tag dai documenti DOCX documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151206T101930Z" creationid="valter" creationdate="20151206T101930Z">
