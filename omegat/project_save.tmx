@@ -23488,6 +23488,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T222137Z" creationid="karm46" creationdate="20180426T222137Z">
+        <seg>Creare file di riserva del file DOCX originale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T102737Z">
@@ -62943,6 +62951,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T184323Z">
         <seg>I tag che appaiono all'interno del segmento tradotto saranno presenti anche all'interno del documento tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T222248Z" creationid="karm46" creationdate="20180426T222248Z">
+        <seg>Tagwipe</seg>
       </tuv>
     </tu>
     <tu>
