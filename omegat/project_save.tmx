@@ -24224,6 +24224,16 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T205937Z" creationid="karm46" creationdate="20180426T205937Z">
+        <seg>Team attuale:
+(ordine alfabetico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120512T192910Z">
@@ -25148,6 +25158,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150307T162415Z" creationid="valter" creationdate="20150307T162415Z">
         <seg>Didier Briel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (OmegaT project manager, Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T210035Z" creationid="karm46" creationdate="20180426T210035Z">
+        <seg>Didier Briel (project manager di OmegaT progetto, community manager di Twitter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41743,6 +41761,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140213T194319Z" creationid="valtermura" creationdate="20140213T194319Z">
         <seg>KoreanAnalyzer-3x-120223.jar (licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="karm46" changedate="20180426T210131Z" creationid="karm46" creationdate="20180426T210131Z">
+        <seg>Kos Ivantsof (manager della localisazzazione )</seg>
       </tuv>
     </tu>
     <tu>
