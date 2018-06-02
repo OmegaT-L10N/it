@@ -1048,8 +1048,8 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       <tuv lang="EN">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20180602T080621Z" creationid="valter" creationdate="20180602T080621Z">
-        <seg>Verifi&amp;ca aggiornamenti...</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081516Z" creationid="valter" creationdate="20180602T080621Z">
+        <seg>&amp;Controlla aggiornamenti...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1402,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T095139Z">
         <seg>&amp;Vai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081237Z" creationid="valter" creationdate="20180602T081237Z">
+        <seg>&amp;Vai agli Scaricamenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8633,6 +8641,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081256Z" creationid="valter" creationdate="20180602T081256Z">
+        <seg>&lt;html&gt;Versione attuale: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T180220Z">
@@ -8677,6 +8693,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151206T102643Z" creationid="valter" creationdate="20151206T102643Z">
         <seg>&lt;html&gt;Il progetto in collaborazione SVN è attualmente aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081306Z" creationid="valter" creationdate="20180602T081306Z">
+        <seg>&lt;html&gt;Canale di aggiornamento: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18501,6 +18525,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081408Z" creationid="valter" creationdate="20180602T081408Z">
+        <seg>Controlla automaticamente gli aggiornamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable Contents with its translation.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T160814Z">
@@ -20489,8 +20521,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Check &amp;automatically</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20180602T081218Z" creationid="valter" creationdate="20180602T081218Z">
-        <seg>Verifica &amp;automaticamente</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081430Z" creationid="valter" creationdate="20180602T081218Z">
+        <seg>Controlla &amp;automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -20555,6 +20587,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150608T143220Z" creationid="valter" creationdate="20150608T143220Z">
         <seg>Verifica le regole LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081424Z" creationid="valter" creationdate="20180602T081424Z">
+        <seg>Controlla ora</seg>
       </tuv>
     </tu>
     <tu>
@@ -61367,6 +61407,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081309Z" creationid="valter" creationdate="20180602T081309Z">
+        <seg>Stabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20141101T212215Z" creationid="valtermura" creationdate="20141101T212215Z">
@@ -76631,6 +76679,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140705T083232Z" creationid="valtermura" creationdate="20140705T083232Z">
         <seg>Aggiornato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081244Z" creationid="valter" creationdate="20180602T081244Z">
+        <seg>Aggiornamenti</seg>
       </tuv>
     </tu>
     <tu>
