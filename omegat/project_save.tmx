@@ -1070,6 +1070,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081646Z" creationid="valter" creationdate="20180602T081646Z">
+        <seg>&amp;Pulisci il menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T092836Z">
@@ -33824,6 +33832,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T141834Z" creationid="valter" creationdate="20171215T141834Z">
         <seg>Ho usato OmegaT come traduttore professionista per più di dieci anni, sfruttando nel primo periodo la sua facilità di utilizzo e il forum estremamente utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081525Z" creationid="valter" creationdate="20180602T081525Z">
+        <seg>IBM Watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -92615,6 +92631,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170930T201829Z" creationid="valter" creationdate="20170930T201829Z">
         <seg>{0}:	pulizia eseguita!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081603Z" creationid="valter" creationdate="20180602T081603Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
