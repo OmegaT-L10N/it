@@ -20487,6 +20487,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081218Z" creationid="valter" creationdate="20180602T081218Z">
+        <seg>Verifica &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150417T182818Z" creationid="valter" creationdate="20150417T182818Z">
@@ -33776,6 +33784,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T141834Z" creationid="valter" creationdate="20171215T141834Z">
         <seg>Ho usato OmegaT come traduttore professionista per più di dieci anni, sfruttando nel primo periodo la sua facilità di utilizzo e il forum estremamente utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081047Z" creationid="valter" creationdate="20180602T081047Z">
+        <seg>IBM Watson non disponibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50104,6 +50120,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081138Z" creationid="valter" creationdate="20180602T081138Z">
+        <seg>È ora disponibile OmegaT {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T162454Z">
@@ -52191,6 +52215,14 @@ installare Oracle JRE per proprio conto.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120226T131037Z">
         <seg>Pashtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081021Z" creationid="valter" creationdate="20180602T081021Z">
+        <seg>Password:</seg>
       </tuv>
     </tu>
     <tu>
@@ -77550,6 +77582,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081017Z" creationid="valter" creationdate="20180602T081017Z">
+        <seg>Nome utente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130326T194010Z">
@@ -80724,6 +80764,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081104Z" creationid="valter" creationdate="20180602T081104Z">
+        <seg>Possiedi già l'ultima versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T105713Z">
@@ -81982,6 +82030,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T110158Z">
         <seg>Nel proprio disco rigido, creare prima una cartella client vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180602T081201Z" creationid="valter" creationdate="20180602T081201Z">
+        <seg>Attualmente hai {1}.</seg>
       </tuv>
     </tu>
     <tu>
