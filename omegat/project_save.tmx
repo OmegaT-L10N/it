@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10213" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -46106,6 +46106,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T212943Z">
         <seg>Nepalese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="IT" changeid="Kos Ivantsov" changedate="20180606T204731Z" creationid="Kos Ivantsov" creationdate="20180606T204731Z">
+        <seg>Traduzione automatica neuronale</seg>
       </tuv>
     </tu>
     <tu>
