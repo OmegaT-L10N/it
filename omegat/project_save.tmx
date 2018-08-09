@@ -18768,8 +18768,8 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Backup</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T221739Z" creationid="karm46" creationdate="20180426T221739Z">
-        <seg>Fare copia di riserva</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090828Z" creationid="karm46" creationdate="20180426T221739Z">
+        <seg>Crea copia di sicurezza</seg>
       </tuv>
     </tu>
     <tu>
@@ -18920,16 +18920,16 @@ in English-speaking countries, it is appropriate that the documentation (and, if
       <tuv lang="EN">
         <seg>Beautify</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T213424Z" creationid="karm46" creationdate="20180426T213424Z">
-        <seg>Abbellire</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090725Z" creationid="karm46" creationdate="20180426T213424Z">
+        <seg>Abbellisci</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Beautify resulting DOCX</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T221826Z" creationid="karm46" creationdate="20180426T221826Z">
-        <seg>Abbellire il file DOCX risultante</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090751Z" creationid="karm46" creationdate="20180426T221826Z">
+        <seg>Abbellisci il file DOCX risultante</seg>
       </tuv>
     </tu>
     <tu>
@@ -21185,8 +21185,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T213250Z" creationid="karm46" creationdate="20180426T213250Z">
-        <seg>Ripulitura dell'entrata '{0}'...</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090654Z" creationid="karm46" creationdate="20180426T213250Z">
+        <seg>Ripulitura della voce '{0}'...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22830,8 +22830,8 @@ Submenu.</seg>
       <tuv lang="EN">
         <seg>Convert</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T213443Z" creationid="karm46" creationdate="20180426T213443Z">
-        <seg>Convertire</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090731Z" creationid="karm46" creationdate="20180426T213443Z">
+        <seg>Converti</seg>
       </tuv>
     </tu>
     <tu>
@@ -22870,8 +22870,8 @@ Submenu.</seg>
       <tuv lang="EN">
         <seg>Converting current .DOCX...</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T212758Z" creationid="karm46" creationdate="20180426T212758Z">
-        <seg>Conversione dell'attuale rile .DOCX...</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090604Z" creationid="karm46" creationdate="20180426T212758Z">
+        <seg>Conversione del file .DOCX attuale...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23578,8 +23578,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Create backup files of original DOCX</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T222137Z" creationid="karm46" creationdate="20180426T222137Z">
-        <seg>Creare file di riserva del file DOCX originale</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090817Z" creationid="karm46" creationdate="20180426T222137Z">
+        <seg>Creare copia di sicurezza del file DOCX originale</seg>
       </tuv>
     </tu>
     <tu>
@@ -23818,8 +23818,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Creating output file '{0}'</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T213143Z" creationid="karm46" creationdate="20180426T213143Z">
-        <seg>Creazione del file di output '{0}'</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090642Z" creationid="karm46" creationdate="20180426T213143Z">
+        <seg>Creazione del file di arrivo '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -42939,8 +42939,8 @@ OmegaT può essere avviato in vari modi.</seg>
       <tuv lang="EN">
         <seg>Level</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T213359Z" creationid="karm46" creationdate="20180426T213327Z">
-        <seg>Livellare</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090738Z" creationid="karm46" creationdate="20180426T213327Z">
+        <seg>Livella</seg>
       </tuv>
     </tu>
     <tu>
@@ -51412,8 +51412,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Opening input file '{0}'</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T213027Z" creationid="karm46" creationdate="20180426T213027Z">
-        <seg>Apertura de file di partenza '{0}'</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090633Z" creationid="karm46" creationdate="20180426T213027Z">
+        <seg>Apertura del file di partenza '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -56765,8 +56765,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Running Tagwipe for file '{0}'</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T212615Z" creationid="karm46" creationdate="20180426T212615Z">
-        <seg>Eseguire Tagwipe per il file '{0}'</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090539Z" creationid="karm46" creationdate="20180426T212615Z">
+        <seg>Esegui Tagwipe per il file '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -63141,8 +63141,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tagwipe finished, reloading project...</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T212929Z" creationid="karm46" creationdate="20180426T212929Z">
-        <seg>Tagwipe ha finito, ricaricamento del progetto...</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090629Z" creationid="karm46" creationdate="20180426T212929Z">
+        <seg>Tagwipe ha finito, sto ricaricando il progetto...</seg>
       </tuv>
     </tu>
     <tu>
