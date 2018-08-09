@@ -40485,6 +40485,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T092939Z" creationid="valter" creationdate="20180809T092939Z">
+        <seg>Essa è di solito in uso da qualche tempo, quindi è collaudata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes a number of tools to manipulate such files before or after their translation in OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T181238Z">
