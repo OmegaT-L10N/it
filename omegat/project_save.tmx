@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2731,6 +2731,14 @@ Per aggiungere file al progetto, fare clic sul pulsante Importa i file di parten
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T104006Z">
         <seg>(naturalmente, i controlli saranno eseguiti per lo spagnolo boliviano anziché quello messicano!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T084441Z" creationid="valter" creationdate="20180809T084441Z">
+        <seg>(lasciare la password in bianco se si sta usando una chiave API)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45196,6 +45204,14 @@ la versione Mac contiene una copia di JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T084349Z" creationid="valter" creationdate="20180809T084349Z">
+        <seg>Id modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120527T211606Z">
@@ -77658,6 +77674,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110125T230653Z">
         <seg>Utente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T084318Z" creationid="valter" creationdate="20180809T084318Z">
+        <seg>Nome utente o chiave API:</seg>
       </tuv>
     </tu>
     <tu>
