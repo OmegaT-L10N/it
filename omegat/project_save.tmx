@@ -21089,8 +21089,8 @@ documentation.</seg>
       <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20140705T081750Z" creationid="valtermura" creationdate="20140705T081444Z">
-        <seg>Scegliere il deposito SVN su cui eseguire la pulizia</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090446Z" creationid="valtermura" creationdate="20140705T081444Z">
+        <seg>Scegli il deposito SVN su cui eseguire la pulizia</seg>
       </tuv>
     </tu>
     <tu>
@@ -52485,8 +52485,8 @@ installare Oracle JRE per proprio conto.</seg>
       <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="IT" changeid="valtermura" changedate="20140705T081744Z" creationid="valtermura" creationdate="20140705T081413Z">
-        <seg>Esegue la pulizia SVN sull'attuale progetto o su qualsiasi deposito SVN locale</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090442Z" creationid="valtermura" creationdate="20140705T081413Z">
+        <seg>Esegui la pulizia SVN sull'attuale progetto o su qualsiasi deposito SVN locale</seg>
       </tuv>
     </tu>
     <tu>
@@ -55699,8 +55699,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Remove tags from DOCX documents</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T212349Z" creationid="karm46" creationdate="20180426T212349Z">
-        <seg>Rimuove i tag dai documenti DOCX documents</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090522Z" creationid="karm46" creationdate="20180426T212349Z">
+        <seg>Rimuove i tag dai documenti DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -55811,8 +55811,8 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       <tuv lang="EN">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="IT" changeid="MELO" changedate="20130424T194020Z">
-        <seg>Sostituire</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090241Z">
+        <seg>Sostituisci</seg>
       </tuv>
     </tu>
     <tu>
@@ -57655,8 +57655,8 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20100731T091345Z">
-        <seg>Ricerca</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090236Z">
+        <seg>Cerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -61803,8 +61803,8 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20151206T102248Z" creationid="valter" creationdate="20151206T102248Z">
-        <seg>Estrazione i marcatori BiDi</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T090414Z" creationid="valter" creationdate="20151206T102248Z">
+        <seg>Estrai i marcatori BiDi</seg>
       </tuv>
     </tu>
     <tu>
