@@ -50128,6 +50128,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T091045Z" creationid="valter" creationdate="20180809T091045Z">
+        <seg>OmegaT funzionerà su qualsiasi sistema su cui è stato, o può essere, installato il corretto Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will run on the open-implementation source Java</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T093218Z">
@@ -64925,6 +64933,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130526T150718Z">
         <seg>La versione standard è di solito in uso da qualche tempo, quindi è collaudata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T092904Z" creationid="valter" creationdate="20180809T092904Z">
+        <seg>La versione standard richiede Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
