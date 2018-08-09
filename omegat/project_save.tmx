@@ -33014,8 +33014,8 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       <tuv lang="EN">
         <seg>Henry Pijffers (release manager)</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T211328Z" creationid="karm46" creationdate="20180426T211328Z">
-        <seg>Henry Pijffers (responsabile della edizione)</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T085614Z" creationid="karm46" creationdate="20180426T211328Z">
+        <seg>Henry Pijffers (responsabile dei rilasci)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34216,9 +34216,9 @@ path need not be entered.)</seg>
         <seg>If Java is installed at system level and is in the command path, the full path
 need not be entered.)</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20170319T175224Z" creationid="valter" creationdate="20170319T175224Z">
+      <tuv lang="IT" changeid="valter" changedate="20180809T085521Z" creationid="valter" creationdate="20170319T175224Z">
         <seg>Se Java è installato a livello di sistema ed è nel percorso del comando, il percorso completo
-non deve essere indicato.)</seg>
+non deve essere indicato).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44406,8 +44406,8 @@ la versione Mac contiene una copia di JRE.</seg>
       <tuv lang="EN">
         <seg>Marc Prior (project co-ordinator, webmaster)</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T211412Z" creationid="karm46" creationdate="20180426T211412Z">
-        <seg>Marc Prior (co-ordinatore del progetto, webmaster)</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T085953Z" creationid="karm46" creationdate="20180426T211412Z">
+        <seg>Marc Prior (coordinatore del progetto, webmaster)</seg>
       </tuv>
     </tu>
     <tu>
