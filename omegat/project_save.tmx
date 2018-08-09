@@ -40525,6 +40525,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T093107Z" creationid="valter" creationdate="20180809T093107Z">
+        <seg>Essa è più recente di quella standard e include nuove caratteristiche non presenti in quest'ultima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121001T102910Z">
@@ -64549,6 +64557,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130524T140943Z">
         <seg>Questa versione è più recente di quella standard e include nuove caratteristiche non presenti in quest'ultima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T093024Z" creationid="valter" creationdate="20180809T093024Z">
+        <seg>La versione più recente richiede Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
