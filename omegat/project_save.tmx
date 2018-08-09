@@ -17376,6 +17376,14 @@ Il file TMX non sarà caricato.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T085118Z" creationid="valter" creationdate="20180809T085118Z">
+        <seg>Anthony Baldwin (responsabile della localizzazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Antonio Vilei</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T095504Z">
@@ -41517,6 +41525,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20180809T085215Z" creationid="valter" creationdate="20180809T085133Z">
+        <seg>Jean-Christophe Helary (titolare del gruppo di supporto, responsabile della localizzazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (support group owner, localization manager)</seg>
       </tuv>
       <tuv lang="IT" changeid="karm46" changedate="20180426T211218Z" creationid="karm46" creationdate="20180426T211218Z">
@@ -41999,8 +42015,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Kos Ivantsof (localisation manager)</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T210828Z" creationid="karm46" creationdate="20180426T210131Z">
-        <seg>Kos Ivantsof (responsabile della localisazzazione )</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T085244Z" creationid="karm46" creationdate="20180426T210131Z">
+        <seg>Kos Ivantsof (responsabile della localizzazione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44862,8 +44878,8 @@ la versione Mac contiene una copia di JRE.</seg>
       <tuv lang="EN">
         <seg>Maxym Mykhalchuk (lead developper)</seg>
       </tuv>
-      <tuv lang="IT" changeid="karm46" changedate="20180426T211256Z" creationid="karm46" creationdate="20180426T211256Z">
-        <seg>Maxym Mykhalchuk (sviluppatore capo developper)</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T085231Z" creationid="karm46" creationdate="20180426T211256Z">
+        <seg>Maxym Mykhalchuk (sviluppatore capo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -82003,8 +82019,8 @@ omegat.kaptn</seg>
       <tuv lang="EN">
         <seg>You can then launch the Kaptain launch script with:</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20170319T174750Z" creationid="valter" creationdate="20170319T174750Z">
-        <seg>Si potrà allora avviare lo script di lancio in Kaptain con :</seg>
+      <tuv lang="IT" changeid="valter" changedate="20180809T085259Z" creationid="valter" creationdate="20170319T174750Z">
+        <seg>Si potrà allora avviare lo script di lancio in Kaptain con:</seg>
       </tuv>
     </tu>
     <tu>
