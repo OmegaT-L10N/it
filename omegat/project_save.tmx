@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -45456,6 +45456,14 @@ la versione Mac contiene una copia di JRE.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130416T192424Z">
         <seg>È possibile reperire ulteriori informazioni nel capitolo &lt;l1&gt;Traduzione automatica&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools on the helpful &lt;a0&gt;blog maintained by Kevin Lossner&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20181113T193102Z" creationid="valter" creationdate="20181113T193102Z">
+        <seg>Maggiori informazioni sul formato e sulla procedura per la sua creazione, sia per gli utenti di Déjà Vu, sia per quelli di altri strumenti CAT, si possono trovare sull'utile &lt;a0&gt;blog curato da Kevin Lossner&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
