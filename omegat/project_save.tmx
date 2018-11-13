@@ -2584,6 +2584,14 @@ echo printf(_("OmegaT è molto %s"),$var);</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt; or &lt;a1&gt;here&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20181113T193202Z" creationid="valter" creationdate="20181113T193202Z">
+        <seg>(per maggiori informazioni, consultare il manuale di istruzioni o fare clic &lt;a0&gt;qui&lt;/a0&gt; o &lt;a1&gt;qui&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T082544Z">
