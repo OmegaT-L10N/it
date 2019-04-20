@@ -14991,6 +14991,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085036Z" creationid="valter" creationdate="20190420T085036Z">
+        <seg>Aaron Madlon-Kay è il responsabile del progetto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abiword and LibreOffice are a word processor and an office suite respectively.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T100723Z">
@@ -23308,6 +23316,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="karm46" changedate="20180426T205619Z" creationid="karm46" creationdate="20180426T205619Z">
         <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk e altri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085013Z" creationid="valter" creationdate="20190420T085013Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk et al</seg>
       </tuv>
     </tu>
     <tu>
@@ -45420,6 +45436,14 @@ la versione Mac contiene una copia di JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T084919Z" creationid="valter" creationdate="20190420T084919Z">
+        <seg>Opzioni filtro Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150525T183916Z" creationid="valter" creationdate="20150525T183916Z">
@@ -52303,6 +52327,14 @@ installare Oracle JRE per proprio conto.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222821Z" creationid="valter" creationdate="20171216T222821Z">
         <seg>Panjabi, Punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085202Z" creationid="valter" creationdate="20190420T085202Z">
+        <seg>Formato delimitazione paragrafi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64693,6 +64725,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T111619Z">
         <seg>I formati di file di Microsoft Office 2007-2010 possono essere elaborati direttamente in OmegaT; ulteriori informazioni si trovano &lt;a0&gt;qui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T084952Z" creationid="valter" creationdate="20190420T084952Z">
+        <seg>Il filtro Moodle PHP ha restituito un'eccezione:</seg>
       </tuv>
     </tu>
     <tu>
