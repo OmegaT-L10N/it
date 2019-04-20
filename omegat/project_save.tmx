@@ -29207,6 +29207,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085836Z" creationid="valter" creationdate="20190420T085836Z">
+        <seg>Gruppo Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151206T095545Z" creationid="valter" creationdate="20151206T095545Z">
@@ -31119,6 +31127,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T194626Z">
         <seg>Per tali paragrafi, considerare le seguenti alternative:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T090020Z" creationid="valter" creationdate="20190420T090020Z">
+        <seg>Per richieste di assistenza, utilizzare il &lt;a1&gt;canale di assistenza suggerito&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49066,6 +49082,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085825Z" creationid="valter" creationdate="20190420T085825Z">
+        <seg>OmegaT è presente in varie reti sociali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T163615Z" creationid="valter" creationdate="20171214T163615Z">
@@ -52980,6 +53004,14 @@ per determinare l'origine dell'errore e riprovare.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130326T190410Z">
         <seg>Si prega di contattare il &lt;a0&gt;Coordinatore del progetto OmegaT&lt;/a0&gt; per quanto riguarda eventuali problemi di amministrazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085932Z" creationid="valter" creationdate="20190420T085932Z">
+        <seg>Si prega di contattare il &lt;a0&gt;responsabile del progetto OmegaT&lt;/a0&gt; per quanto riguarda qualsiasi questione non trattata sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60663,6 +60695,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085813Z" creationid="valter" creationdate="20190420T085813Z">
+        <seg>Reti sociali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Software required</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T202400Z">
@@ -63623,6 +63663,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T110450Z">
         <seg>In gergo tecnico, il segmento &lt;c0&gt;msgstr&lt;/c0&gt; nel file PO di arrivo, se creato, sarà lasciato vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085848Z" creationid="valter" creationdate="20190420T085848Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -76103,6 +76151,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T223107Z" creationid="valter" creationdate="20171216T223107Z">
         <seg>Twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085841Z" creationid="valter" creationdate="20190420T085841Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
