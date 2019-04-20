@@ -13284,6 +13284,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T090620Z" creationid="valter" creationdate="20190420T090620Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; è un'applicazione di memoria di traduzione gratuita che funziona in Windows, macOS, Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T140145Z" creationid="valter" creationdate="20171215T140145Z">
@@ -52715,6 +52723,14 @@ installare Oracle JRE per proprio conto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T090450Z" creationid="valter" creationdate="20190420T090450Z">
+        <seg>Sono disponibili compilazioni periodiche su Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130306T202932Z">
@@ -76393,6 +76409,14 @@ Le ricerche esatte individuano l'intera stringa ricercata.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130503T130735Z">
         <seg>URL di archivi di dizionari ortografici:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T090416Z" creationid="valter" creationdate="20190420T090416Z">
+        <seg>USD &lt;a0&gt;Dona&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
