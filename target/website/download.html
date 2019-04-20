@@ -92,6 +92,7 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>.</p
         <p>In base alle scelte personali, raccomandiamo l'utilizzo di:</p>
         <h3><a id="wizard-result-version" href="#">una qualche versione</a></h3>
         <a id="wizard-result-btn" class="btn btn-primary btn-lg" href="#" role="button"><span class="glyphicon glyphicon-download"></span> Scarica</a>
+	
         <div id="wizard-result-osx" style="display:none;">
           <p>Se questa versione non è disponibile, è possibile provare a <a href="#" id="wizard-result-unsigned">scaricare la versione non firmata</a>.</p> 
         </div>
@@ -108,7 +109,30 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>.</p
 <p>I file in formato Microsoft Office XML possono essere tradotti direttamente in OmegaT. I file nei vecchi formati di MS Word, Excel e Powerpoint possono essere tradotti dopo la conversione negli equivalenti attuali formati Microsoft Office o, in alternativa, nel formato Office Open XML, tramite OpenOffice o LibreOffice (gratuiti). Per scaricare OpenOffice o LibreOffice, seguire il collegamento dal pulsante a sinistra "Software di terze parti".</p>
 
 <h4>Requisiti utente</h4>
-<p>OmegaT non è particolarmente difficile da installare o usare, ma richiede la volontà di leggere e seguire le istruzioni. Se si ha una naturale avversione per la lettura delle istruzioni e il proprio approccio al nuovo software è fare clic su ogni pulsante che si vede fino a che "qualcosa di simile" all'effetto desiderato si verifica, allora OmegaT probabilmente non è adatto a voi.</p>
+<p>OmegaT non è particolarmente difficile da installare o usare, ma richiede la volontà di leggere e seguire le istruzioni. Se si ha una naturale avversione per la lettura delle istruzioni e il proprio approccio al nuovo software è fare clic su ogni pulsante che si vede fino a che "qualcosa di simile" all'effetto desiderato si verifica, allora OmegaT probabilmente non è adatto a voi.</p><!-- Donation slider -->
+
+
+<div class="donation-section section">
+	<div class="donation-call">
+		<h3>Prima di procedere</h3>
+
+		<span>Hai considerato di donare a OmegaT? Anche se il programma è gratuito, se pensi che OmegaT sia utile e desideri esprimere la tua gratitudine, puoi fare una donazione sul nostro conto Paypal.</span>
+
+		<input id="donation-slider" type="range" min="5" max="100" step="5" value="35" data-rangeslider>
+		
+		<form action="https://www.paypal.com/cgi-bin/webscr" target="_paypal" id="donation-form" method="post">
+			<input type="hidden" name="business" value="thank.you.omegat@gmail.com">
+			<input type="hidden" name="cmd" value="_donations">
+			<input type="hidden" name="item_name" value="Donation to OmegaT - multiplatform CAT tool">
+			<input type="hidden" name="currency_code" value="USD">
+
+			<input type="text" class="input-lg" id="amount" name="amount" size="3" value="35">&nbsp;USD <a class="btn btn-primary" href="#" id="donate-button">Dona</a>
+		</form>
+	</div>
+	
+	{% asset donation.js %}
+
+</div>
 
 <h3 id="standard">Versione standard - {{site.data.versions.standard.name}}</h3>
 
@@ -274,10 +298,7 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>.</p
 </div>
 
 <div id="popover_content_nightly" style="display:none">
-  <p>Sono disponibili compilazioni periodiche su CloudBees.</p>
-  <div class="text-md-center">
-    <img src="https://www.cloudbees.com/sites/default/files/Button-Built-on-CB-1.png" width="209" height="72" alt="compilato su DEV@cloud" />
-  </div>
+  <p>Sono disponibili compilazioni periodiche su Sourceforge.</p>
 </div>
 
 <div id="popover_content_source" style="display:none">
