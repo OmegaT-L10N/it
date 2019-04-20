@@ -28863,6 +28863,14 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085334Z" creationid="valter" creationdate="20190420T085334Z">
+        <seg>Esecuzione dello script {0} (evento {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130213T192000Z">
@@ -31559,6 +31567,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20141022T191940Z" creationid="valtermura" creationdate="20141022T191940Z">
         <seg>Dalla memoria automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085413Z" creationid="valter" creationdate="20190420T085413Z">
+        <seg>Dalla memoria imposta</seg>
       </tuv>
     </tu>
     <tu>
@@ -44510,8 +44526,8 @@ la versione Mac contiene una copia di JRE.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20190420T084627Z" creationid="valter" creationdate="20190420T084627Z">
-        <seg>Evidenzia i limiti dei &amp;paragrafi</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085219Z" creationid="valter" creationdate="20190420T084627Z">
+        <seg>Evidenzia le delimitazioni dei &amp;paragrafi</seg>
       </tuv>
     </tu>
     <tu>
@@ -45432,6 +45448,14 @@ la versione Mac contiene una copia di JRE.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130703T200752Z">
         <seg>Monolingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085227Z" creationid="valter" creationdate="20190420T085227Z">
+        <seg>Moodle PHP</seg>
       </tuv>
     </tu>
     <tu>
