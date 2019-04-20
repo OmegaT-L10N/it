@@ -14152,8 +14152,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20180809T090028Z" creationid="valter" creationdate="20171216T223454Z">
-        <seg>Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2018</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085530Z" creationid="valter" creationdate="20171216T223454Z">
+        <seg>Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2019</seg>
       </tuv>
     </tu>
     <tu>
@@ -25398,6 +25398,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101114T114739Z">
         <seg>Didier Briel (gestore dello sviluppo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (project manager)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085602Z" creationid="valter" creationdate="20190420T085602Z">
+        <seg>Didier Briel (responsabile del progetto)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41581,6 +41589,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085526Z" creationid="valter" creationdate="20190420T085526Z">
+        <seg>Jean-Christophe Helary (responsabile comunità di Twitter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T193936Z">
@@ -44496,6 +44512,14 @@ la versione Mac contiene una copia di JRE.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130702T212222Z">
         <seg>Marc Prior: la correzione della mia prima bozza è stato un atto d'amore nei confronti di OmegaT e la lingua inglese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085505Z" creationid="valter" creationdate="20190420T085505Z">
+        <seg>Marco Cevoli (responsabile comunità di Telegram)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49050,6 +49074,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085658Z" creationid="valter" creationdate="20190420T085658Z">
+        <seg>OmegaT ha un gruppo di utenti molto attivo, solidale e multilingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T210802Z">
@@ -52351,6 +52383,14 @@ installare Oracle JRE per proprio conto.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222821Z" creationid="valter" creationdate="20171216T222821Z">
         <seg>Panjabi, Punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085435Z" creationid="valter" creationdate="20190420T085435Z">
+        <seg>Delimitazione dei paragrafi</seg>
       </tuv>
     </tu>
     <tu>
@@ -72417,6 +72457,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120512T183656Z">
         <seg>Essa è sicura: nonostante JRE sia già installato nel sistema, questa versione non interferirà con esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190420T085805Z" creationid="valter" creationdate="20190420T085805Z">
+        <seg>Questo è il &lt;a0&gt;canale di assistenza consigliato&lt;/a0&gt;, a cui gli utenti sono caldamente incoraggiati a partecipare.</seg>
       </tuv>
     </tu>
     <tu>
