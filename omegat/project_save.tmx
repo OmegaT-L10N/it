@@ -31989,6 +31989,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T183658Z" creationid="valter" creationdate="20190520T183658Z">
+        <seg>Preferenze generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General comments</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130425T201019Z">
