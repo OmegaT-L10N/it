@@ -25726,6 +25726,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184939Z" creationid="valter" creationdate="20190520T184939Z">
+        <seg>Mostra la descrizione contestuale per i glossari TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T092218Z">
@@ -76926,6 +76934,14 @@ Le ricerche esatte individuano l'intera stringa ricercata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185111Z" creationid="valter" creationdate="20190520T185111Z">
+        <seg>Deselezionare questa opzione se la descrizione del contesto mostrata per ciascuna voce del glossario non è necessaria o è eccessivamente lunga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T122855Z" creationid="valter" creationdate="20141207T122855Z">
@@ -77896,6 +77912,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170114T232250Z" creationid="valter" creationdate="20170114T232250Z">
         <seg>Usa i termini che &amp;appaiono separatamente nel testo di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185119Z" creationid="valter" creationdate="20190520T185119Z">
+        <seg>Usa i termini che appaiono separatamente nel testo di partenza</seg>
       </tuv>
     </tu>
     <tu>
@@ -79965,6 +79989,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T184023Z">
         <seg>Quando questo comando viene eseguito, i pannelli presentano un indicatore di scheda nella loro sommità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185302Z" creationid="valter" creationdate="20190520T185302Z">
+        <seg>Quando l'opzione è selezionata, il glossario mostrerà le coppie o i gruppi di parole (espressioni) anche se le parole al loro interno appaiono separate nel segmento di partenza.</seg>
       </tuv>
     </tu>
     <tu>
