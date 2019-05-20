@@ -14126,8 +14126,8 @@ echo $standard_name
       <tuv lang="EN">
         <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20190520T181944Z" creationid="valter" creationdate="20190520T181944Z">
-        <seg>La &lt;u0&gt;raccolta di terminologia Microsoft&lt;/u0&gt; può essere scaricata in quasi cento lingue è può servire come punto di partenza per la creazione di un glossario informatico.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190520T182119Z" creationid="valter" creationdate="20190520T181944Z">
+        <seg>La &lt;u0&gt;Raccolta terminologica Microsoft&lt;/u0&gt; può essere scaricata in quasi cento lingue è può servire come punto di partenza per la creazione di un glossario informatico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81847,6 +81847,14 @@ OmegaT.exe nel menu Start, nel desktop o nella barra di avvio rapido.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T124013Z">
         <seg>È possibile modificare o aggiungere modelli di nome del file per quei file che dovranno essere gestiti da ciascun filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T182347Z" creationid="valter" creationdate="20190520T182347Z">
+        <seg>È possibile modificare le scorciatoie già assegnate, come pure aggiungerne di nuove, inserendo un file di definizione delle scorciatoie all'interno della cartella delle preferenze di &lt;a0&gt;OmegaT&lt;/a0&gt; (raggiungibile dal menu &lt;m1&gt; &lt;g2&gt;Opzioni&lt;/g2&gt; &lt;g3&gt;Accedi alla cartella di configurazione&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
