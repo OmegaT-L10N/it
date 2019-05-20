@@ -14124,6 +14124,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T181944Z" creationid="valter" creationdate="20190520T181944Z">
+        <seg>La &lt;u0&gt;raccolta di terminologia Microsoft&lt;/u0&gt; può essere scaricata in quasi cento lingue è può servire come punto di partenza per la creazione di un glossario informatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;u1&gt;Microsoft Terminology Collection&lt;/u1&gt; &lt;i2/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130107T192132Z">
@@ -67902,6 +67910,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120603T185256Z">
         <seg>La posizione non è importante, poiché è possibile specificarla nella riga di comando all'avvio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T181840Z" creationid="valter" creationdate="20190520T181840Z">
+        <seg>Il file &lt;f0&gt;.tbx&lt;/f0&gt; deve essere contenuto nella cartella &lt;f1&gt;/glossary&lt;/f1&gt;, ma può trovarsi anche in un'ulteriore sotto cartella (per es., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
