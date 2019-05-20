@@ -18866,10 +18866,10 @@ in English-speaking countries, it is appropriate that the documentation (and, if
 Your page cannot be found, boy
 Buy another drink</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20190520T180420Z" creationid="valter" creationdate="20190520T180420Z">
+      <tuv lang="IT" changeid="valter" changedate="20190520T180502Z" creationid="valter" creationdate="20190520T180420Z">
         <seg>Il barista urla ad alta voce
 la pagina non può essere trovata,
-ragazzo acquista un altro drink.</seg>
+ragazzo acquista un altro drink</seg>
       </tuv>
     </tu>
     <tu>
@@ -27696,6 +27696,18 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180639Z" creationid="valter" creationdate="20190520T180639Z">
+        <seg>Vuoto dell'anima
+Oscurità sempre dolente
+Impossibile trovare la tua pagina di aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215135Z">
@@ -28294,6 +28306,19 @@ launch script.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T101204Z">
         <seg>Voci con tag modificati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180712Z" creationid="valter" creationdate="20190520T180712Z">
+        <seg>Pagina effimera
+Io sono lo Schermo blu della morte
+Nessuno sente le tue urla
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -52491,6 +52516,18 @@ installare Oracle JRE per proprio conto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180453Z" creationid="valter" creationdate="20190520T180453Z">
+        <seg>La pagina sfugge alla mano
+Il polso batte duro e frenetico
+Evanescente come nebbia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215110Z">
@@ -67440,6 +67477,18 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180606Z" creationid="valter" creationdate="20190520T180606Z">
+        <seg>La pagina d'aiuto che cerchi
+Si trova al di là della nostra percezione
+Ma altre attendono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20141101T210819Z">
@@ -71113,6 +71162,18 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130426T074743Z">
         <seg>Questi segmenti sono contrassegnati e delimitati da caratteri speciali e stili di formattazione MS Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180538Z" creationid="valter" creationdate="20190520T180538Z">
+        <seg>Tre sono le cose certe:
+La morte, le tasse, e la pagina non trovata
+Sei vittima di una di queste</seg>
       </tuv>
     </tu>
     <tu>
