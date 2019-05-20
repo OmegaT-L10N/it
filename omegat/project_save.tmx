@@ -18605,6 +18605,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184040Z" creationid="valter" creationdate="20190520T184040Z">
+        <seg>Recupera automaticamente le traduzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable Contents with its translation.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T160814Z">
@@ -30511,6 +30519,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T091128Z">
         <seg>Per la compilazione di OmegaT dal codice sorgente, vedere la &lt;a0&gt;Guida alla compilazione di OmegaT dal codice sorgente&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184220Z" creationid="valter" creationdate="20190520T184220Z">
+        <seg>Per ragioni di riservatezza, si potrebbe non voler inviare tutti i segmenti al motore di Traduzione automatica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60136,6 +60152,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184001Z" creationid="valter" creationdate="20190520T184001Z">
+        <seg>Imposta la convalida di un segmento con il tasto Tab invece che con il tasto di Invio predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T171848Z" creationid="valter" creationdate="20141207T171848Z">
@@ -68809,6 +68833,14 @@ an access to the hard drive of the computer.</seg>
         <seg>The program will see confirmation before closing down.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120531T184326Z">
+        <seg>Il programma chiederà sempre la conferma dell'uscita prima di chiudersi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184019Z" creationid="valter" creationdate="20190520T184019Z">
         <seg>Il programma chiederà sempre la conferma dell'uscita prima di chiudersi.</seg>
       </tuv>
     </tu>
