@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24514,6 +24514,22 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T175938Z" creationid="valter" creationdate="20190520T175938Z">
+        <seg>Cursore bloccato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T175944Z" creationid="valter" creationdate="20190520T175944Z">
+        <seg>Cursore sbloccato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Co&amp;lours...</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20141022T190832Z" creationid="valtermura" creationdate="20141022T190832Z">
@@ -39535,6 +39551,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180023Z" creationid="valter" creationdate="20190520T180023Z">
+        <seg>Modalità inserimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130421T165500Z">
@@ -42189,6 +42213,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180037Z" creationid="valter" creationdate="20190520T180037Z">
+        <seg>BLC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LEARNED:</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140705T080735Z" creationid="valtermura" creationdate="20140705T080735Z">
@@ -44592,6 +44624,14 @@ la versione Mac contiene una copia di JRE.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T092133Z">
         <seg>Evidenzia gli spazi &amp;non divisibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T175914Z" creationid="valter" creationdate="20190520T175914Z">
+        <seg>Evidenzia le delimitazioni dei &amp;paragrafi</seg>
       </tuv>
     </tu>
     <tu>
@@ -48054,6 +48094,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T110815Z">
         <seg>Impostazione del menu del sistema operativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180107Z" creationid="valter" creationdate="20190520T180107Z">
+        <seg>SSC</seg>
       </tuv>
     </tu>
     <tu>
@@ -52255,6 +52303,14 @@ installare Oracle JRE per proprio conto.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T110420Z">
         <seg>Panoramica delle versioni di OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180005Z" creationid="valter" creationdate="20190520T180005Z">
+        <seg>Modalità sovrascrittura</seg>
       </tuv>
     </tu>
     <tu>
@@ -76345,6 +76401,14 @@ Le ricerche esatte individuano l'intera stringa ricercata.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140423T221031Z" creationid="valtermura" creationdate="20140423T221031Z">
         <seg>&amp;Non tradotti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180048Z" creationid="valter" creationdate="20190520T180048Z">
+        <seg>SBL</seg>
       </tuv>
     </tu>
     <tu>
