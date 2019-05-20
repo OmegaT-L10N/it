@@ -40449,6 +40449,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T183831Z" creationid="valter" creationdate="20190520T183831Z">
+        <seg>Permette di impostare i parametri per tutti i progetti di traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160328T192930Z" creationid="valter" creationdate="20160328T192930Z">
@@ -72170,6 +72178,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T183749Z" creationid="valter" creationdate="20190520T183749Z">
+        <seg>Questa finestra di dialogo è raggiungibile selezionando &lt;m0&gt; &lt;g1&gt;Opzioni&lt;/g1&gt; &lt;g2&gt;Preferenze...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog is used to modify the project folders and languages.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100722T214538Z">
@@ -77656,6 +77672,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T225948Z">
         <seg>Avanza con il tasto TAB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T183915Z" creationid="valter" creationdate="20190520T183915Z">
+        <seg>Avanza col tasto TAB</seg>
       </tuv>
     </tu>
     <tu>
