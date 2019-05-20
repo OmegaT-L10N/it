@@ -18862,6 +18862,18 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180420Z" creationid="valter" creationdate="20190520T180420Z">
+        <seg>Il barista urla ad alta voce
+la pagina non può essere trovata,
+ragazzo acquista un altro drink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215102Z">
@@ -28855,6 +28867,18 @@ launch script.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180322Z" creationid="valter" creationdate="20190520T180303Z">
+        <seg>Pagina d'aiuto eccitante
+le discussioni di Gossamer ti colpiscono ancora
+404 non trovata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215035Z">
@@ -34056,6 +34080,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T165626Z">
         <seg>File INI (“codice” = “valore”) (.ini)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180157Z" creationid="valter" creationdate="20190520T180157Z">
+        <seg>INS</seg>
       </tuv>
     </tu>
     <tu>
@@ -76407,8 +76439,8 @@ Le ricerche esatte individuano l'intera stringa ricercata.</seg>
       <tuv lang="EN">
         <seg>UNL</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20190520T180048Z" creationid="valter" creationdate="20190520T180048Z">
-        <seg>SBL</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180148Z" creationid="valter" creationdate="20190520T180048Z">
+        <seg>SBC</seg>
       </tuv>
     </tu>
     <tu>
@@ -80334,6 +80366,18 @@ Sia le ricerche regolari sia quelle con parola chiave supportano i caratteri jol
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T225052Z">
         <seg>Verrà proposto un elenco dei segmenti contenenti errori di tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T180351Z" creationid="valter" creationdate="20190520T180351Z">
+        <seg>Il vento coglie il giglio
+spargendone i petali:
+la pagina non è stata trovata</seg>
       </tuv>
     </tu>
     <tu>
