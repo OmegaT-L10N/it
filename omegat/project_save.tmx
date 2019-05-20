@@ -59576,6 +59576,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184808Z" creationid="valter" creationdate="20190520T184808Z">
+        <seg>Selezionare un fornitore dall'elenco e, se necessario, premere il pulsante &lt;g0&gt;Configura&lt;/g0&gt; per immettere i dettagli identificativi ricevuti dal gestore del servizio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T091201Z">
@@ -68818,6 +68826,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130305T102818Z">
         <seg>Le procedure descritte per 'Il mio progetto-1', passaggi &lt;f2&gt;7.A.1-7.A.4,&lt;/f2&gt; &lt;f3&gt; sono tutte valide anche per i file HTML.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184929Z" creationid="valter" creationdate="20190520T184929Z">
+        <seg>Le procedure per la configurazione dell'accesso ai servizi di Microsoft Translator e Google Translate sono descritti &lt;u0&gt;qui&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87544,6 +87560,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T195603Z" creationid="valter" creationdate="20160911T195603Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184815Z" creationid="valter" creationdate="20190520T184815Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
       </tuv>
     </tu>
     <tu>
