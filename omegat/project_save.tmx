@@ -21035,6 +21035,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184558Z" creationid="valter" creationdate="20190520T184558Z">
+        <seg>Selezionare questa casella se si intendono inviare ai servizi di traduzione automatica solo i segmenti non tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160328T183715Z" creationid="valter" creationdate="20160328T183715Z">
@@ -37114,6 +37122,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130216T171649Z">
         <seg>Quando si attivano le &lt;e2&gt;&lt;i3/&gt;Opzioni avanzate&lt;/e2&gt;, è possibile combinare la ricerca col nome dell'autore della traduzione e la data dell'ultima modifica apportata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184344Z" creationid="valter" creationdate="20190520T184344Z">
+        <seg>Deselezionando questa opzione, le traduzioni automatiche saranno recuperate solo se è premuta la combinazione di tasti &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; in OS X) nel segmento attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77372,6 +77388,14 @@ alla riga {1}, colonna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184452Z" creationid="valter" creationdate="20190520T184452Z">
+        <seg>Solo segmenti non tradotti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141230T202551Z" creationid="valter" creationdate="20141230T202551Z">
@@ -83221,6 +83245,14 @@ di una finestra di Finder per poterlo avviare da qualsiasi posizione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T083417Z">
         <seg>Si dovrà ancora gestire adeguatamente i tag durante la produzione e la modifica della traduzione, ma è possibile visualizzarla in una finestra separata senza il loro ingombro ("zuppa di tag").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T184445Z" creationid="valter" creationdate="20190520T184445Z">
+        <seg>Si deve poi premere una seconda volta &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; per inserire il suggerimento.</seg>
       </tuv>
     </tu>
     <tu>
