@@ -6241,6 +6241,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T181433Z" creationid="valter" creationdate="20190520T181433Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; OmegaT, quando apre un progetto, rileva automaticamente i file di glossario presenti in questa cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T104905Z">
@@ -37906,6 +37914,14 @@ doppio clic sul collegamento.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T181626Z" creationid="valter" creationdate="20190520T181626Z">
+        <seg>Oltre al formato di solo testo, è supportato anche il formato TBX come formato di glossario a sola lettura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the text you wish to translate, tagged text files contain formatting information made visible in OmegaT in the form of “tags”.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110719T121818Z">
@@ -63988,6 +64004,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T181557Z" creationid="valter" creationdate="20190520T181557Z">
+        <seg>I termini del segmento corrente che &lt;a2&gt;OmegaT&lt;/a2&gt; reperisce all'interno del o dei file di glossario vengono visualizzati all'interno del pannello “Glossario” della schermata principale:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120515T205427Z">
@@ -75301,6 +75325,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T202405Z">
         <seg>Per utilizzare Priorview su Windows o Linux, è necessario quanto segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T181416Z" creationid="valter" creationdate="20190520T181416Z">
+        <seg>Per utilizzare un glossario esistente, sarà sufficiente inserirlo nella cartella &lt;f0&gt;/glossary&lt;/f0&gt; dopo aver creato il progetto.</seg>
       </tuv>
     </tu>
     <tu>
