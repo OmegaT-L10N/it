@@ -34724,6 +34724,14 @@ non deve essere indicato).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185812Z" creationid="valter" creationdate="20190520T185812Z">
+        <seg>Se è selezionata sia questa opzione, sia l'opzione &lt;l0&gt;&lt;g1&gt;Inserisci il testo di partenza&lt;/g1&gt;&lt;/l0&gt;, tutte le parole cui corrisponde una voce di glossario saranno tradotte automaticamente quando viene inserito il testo di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-breakable spaces in the segment will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120527T211553Z">
@@ -56444,6 +56452,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185456Z" creationid="valter" creationdate="20190520T185456Z">
+        <seg>Sostituisci i risultati del glossario all'inserimento del testo di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151206T101731Z" creationid="valter" creationdate="20151206T101731Z">
@@ -59780,6 +59796,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120527T174043Z">
         <seg>Selezionare questa voce di menu, se l'attuale traduzione, non è adatta e inserire la traduzione alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185438Z" creationid="valter" creationdate="20190520T185438Z">
+        <seg>Selezionare questa opzione se si desidera che il glossario mostri le parole contenenti la medesima radice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76942,6 +76966,14 @@ Le ricerche esatte individuano l'intera stringa ricercata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185335Z" creationid="valter" creationdate="20190520T185335Z">
+        <seg>Deselezionare questa opzione se il glossario mostra troppi falsi positivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T122855Z" creationid="valter" creationdate="20141207T122855Z">
@@ -77904,6 +77936,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150608T142621Z" creationid="valter" creationdate="20150608T142621Z">
         <seg>Usa il riconoscimento della radice per le voci di &amp;glossario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185349Z" creationid="valter" creationdate="20190520T185349Z">
+        <seg>Usa il riconoscimento della radice per le voci di glossario</seg>
       </tuv>
     </tu>
     <tu>
@@ -79995,8 +80035,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20190520T185302Z" creationid="valter" creationdate="20190520T185302Z">
-        <seg>Quando l'opzione è selezionata, il glossario mostrerà le coppie o i gruppi di parole (espressioni) anche se le parole al loro interno appaiono separate nel segmento di partenza.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190520T185502Z" creationid="valter" creationdate="20190520T185302Z">
+        <seg>Quando l'opzione è selezionata, il glossario mostrerà le coppie o i gruppi di parole (espressioni) anche se le parole al loro interno appaiono separate nel testo di partenza.</seg>
       </tuv>
     </tu>
     <tu>
