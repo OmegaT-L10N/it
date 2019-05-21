@@ -21637,6 +21637,14 @@ application folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090141Z" creationid="valter" creationdate="20190521T090141Z">
+        <seg>Premere questo pulsante per accedere al sito del progetto &lt;u0&gt;TaaS&lt;/u0&gt; e creare un account per l'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click “Install” and you will be given a list of many possible dictionaries (&lt;f7&gt;b&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130310T213741Z">
@@ -35824,6 +35832,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121001T111352Z">
         <seg>Se l'opzione è attivata, quando viene inserita, in modo automatico o manualmente, una concordanza parziale, OmegaT tenta di convertire i numeri contenuti nelle concordanze parziali in base al contenuto del segmento di partenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090357Z" creationid="valter" creationdate="20190521T090357Z">
+        <seg>Se questa opzione è attivata, OmegaT non conserverà in memoria la chiave di accesso tra una sessione e un'altra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62370,6 +62386,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090257Z" creationid="valter" creationdate="20190521T090257Z">
+        <seg>Memorizza solo per questa sessione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T122051Z">
@@ -82810,6 +82834,14 @@ lo script di installazione (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090251Z" creationid="valter" creationdate="20190521T090251Z">
+        <seg>È quindi possibile creare una chiave di accesso nella pagina &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then enter a new shortcut and assign it with Assign as you did before.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T211335Z">
@@ -87680,6 +87712,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T195719Z" creationid="valter" creationdate="20160911T195719Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090147Z" creationid="valter" creationdate="20190521T090147Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
       </tuv>
     </tu>
     <tu>
