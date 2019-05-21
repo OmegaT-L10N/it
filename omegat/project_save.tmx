@@ -61784,6 +61784,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095012Z" creationid="valter" creationdate="20190521T095012Z">
+        <seg>Codifica dei file di partenza e dei file tradotti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T170235Z">
@@ -64144,6 +64152,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120423T211214Z">
         <seg>File di arrivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095139Z" creationid="valter" creationdate="20190521T095139Z">
+        <seg>I file di arrivo possono anche essere scritti utilizzando una qualsiasi codifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70074,6 +70090,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T201102Z">
         <seg>La filosofia di approccio è "Non fasciarsi la testa se non è rotta".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095223Z" creationid="valter" creationdate="20190521T095223Z">
+        <seg>I campi di codifica del file di partenza e di quello di arrivo utilizzano i menu a tendina che contengono tutte le codifiche riconosciute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82559,6 +82583,14 @@ OmegaT.exe nel menu Start, nel desktop o nella barra di avvio rapido.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110719T124425Z">
         <seg>Nella voce di menu principale Vista è possibile modificare l'impostazione del pannello dell'Editor (affinché mostri o no, ad esempio, il testo di partenza, evidenzi il testo tradotto, ecc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095047Z" creationid="valter" creationdate="20190521T095047Z">
+        <seg>Per ogni modello di nome dei file di partenza si ha la possibilità di modificare la codifica originaria.</seg>
       </tuv>
     </tu>
     <tu>
