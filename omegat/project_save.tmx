@@ -20483,6 +20483,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T100149Z" creationid="valter" creationdate="20190521T100149Z">
+        <seg>Cambiare il nome del gruppo di regole e del modello linguistico nella lingua interessata e il suo codice di lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100801T200748Z">
