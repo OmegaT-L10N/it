@@ -25110,6 +25110,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111008Z" creationid="valter" creationdate="20190521T111008Z">
+        <seg>Definisce le risorse di ricerca esterna specifiche del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T193312Z">
@@ -33611,8 +33619,8 @@ Il suo inverno è arrivato</seg>
       <tuv lang="EN">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20130107T211542Z">
-        <seg>È qui possibile selezionare sottocartelle diverse, per esempio la sottocartella con i file di partenza, quella per i file di destinazione, e via discorrendo.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111021Z">
+        <seg>È qui possibile selezionare sottocartelle diverse, per esempio la sotto-cartella con i file di partenza, quella per i file di destinazione, e via discorrendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45105,6 +45113,14 @@ la versione Mac contiene una copia di JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111226Z" creationid="valter" creationdate="20190521T111226Z">
+        <seg>Gestione delle lingue da destra a sinistra (Right-To-Left, RTL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manfred Martin</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20150307T162501Z" creationid="valter" creationdate="20150307T162501Z">
@@ -54700,6 +54716,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111250Z" creationid="valter" creationdate="20190521T111250Z">
+        <seg>Prevenzione della perdina di dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preventing Data Loss - OmegaT 2.0 User Manual</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100722T211953Z">
@@ -57432,6 +57456,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140705T083554Z" creationid="valtermura" creationdate="20140705T083554Z">
         <seg>Recupera l'elenco dei domini...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111314Z" creationid="valter" creationdate="20190521T111314Z">
+        <seg>Riutilizzo delle memorie di traduzione</seg>
       </tuv>
     </tu>
     <tu>
