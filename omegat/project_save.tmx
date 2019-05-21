@@ -60112,6 +60112,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T100622Z" creationid="valter" creationdate="20190521T100622Z">
+        <seg>Selezionare la posizione del verificatore linguistico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the match you prefer in the Match Viewer: &lt;c0&gt;Ctrl+2&lt;/c0&gt; for the second match displayed, &lt;c1&gt;Ctrl+3&lt;/c1&gt; for the third match, etc.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101005T192912Z">
@@ -79301,6 +79309,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T220833Z">
         <seg>Uso di Trados Multiterm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T100822Z" creationid="valter" creationdate="20190521T100822Z">
+        <seg>L'uso, sulla propria macchina, di un verificatore linguistico diverso da quello fornito con OmegaT offre la possibilità di personalizzazione delle regole di verifica.</seg>
       </tuv>
     </tu>
     <tu>
