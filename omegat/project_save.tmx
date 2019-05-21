@@ -35962,6 +35962,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113119Z" creationid="valter" creationdate="20190521T113119Z">
+        <seg>Se il progetto usa filtri specifici e parametri di segmentazione, devono essere aggiunti al sistema di versione e pubblicati sul server entrambi i file &lt;f0&gt;filters.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130324T213757Z">
@@ -62600,6 +62608,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112924Z" creationid="valter" creationdate="20190521T112924Z">
+        <seg>Parametri specifici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies to which file the translation memory is written.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T140552Z">
@@ -63078,6 +63094,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130510T183250Z">
         <seg>Passo 2: "Standard" o "Ultimo"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113142Z" creationid="valter" creationdate="20190521T113142Z">
+        <seg>Passaggio 2: aggiungere file da tradurre e altre risorse</seg>
       </tuv>
     </tu>
     <tu>
@@ -72961,6 +72985,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113233Z" creationid="valter" creationdate="20190521T113233Z">
+        <seg>Quest'operazione può essere anche eseguita da OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T180053Z" creationid="valter" creationdate="20171214T180053Z">
@@ -75051,6 +75083,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T094404Z">
         <seg>Per aggiungere file al progetto, fare clic sul pulsante Importa i file di partenza... nella finestra File di progetto oppure richiamare la funzione dal menù Progetto; selezionare quindi i file da importare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113427Z" creationid="valter" creationdate="20190521T113427Z">
+        <seg>Usare un client SVN o Git per aggiungere altre risorse (dizionari, TMX o glossari).</seg>
       </tuv>
     </tu>
     <tu>
@@ -78840,6 +78880,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140223T203917Z" creationid="valtermura" creationdate="20140223T203917Z">
         <seg>Usa tutti gli aggiornati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113208Z" creationid="valter" creationdate="20190521T113208Z">
+        <seg>Utilizzare un client SVN o Git per aggiungere i file da tradurre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86376,6 +86424,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T214815Z">
         <seg>contiene le ultime statistiche di concordanza del progetto generate dal comando &lt;g0&gt;Strumenti &gt; Statistiche delle concordanze&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113247Z" creationid="valter" creationdate="20190521T113247Z">
+        <seg>copiare i file nella cartella &lt;f0&gt;/source&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -93980,6 +94036,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T223119Z" creationid="valter" creationdate="20171216T223119Z">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113325Z" creationid="valter" creationdate="20190521T113325Z">
+        <seg>usare il comando &lt;m0&gt; &lt;g1&gt;Progetto&lt;/g1&gt; &lt;g2&gt;Invia i file di partenza&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
