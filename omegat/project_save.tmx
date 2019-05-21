@@ -19515,6 +19515,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090405Z" creationid="valter" creationdate="20190521T090405Z">
+        <seg>Sfoglia le raccolte TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20161011T203953Z" creationid="valter" creationdate="20161011T203953Z">
@@ -72085,6 +72093,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130416T200655Z">
         <seg>Questa barra comunica all'utente quali sono le operazioni specifiche in corso di esecuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090811Z" creationid="valter" creationdate="20190521T090811Z">
+        <seg>Questo pulsante abilita alla navigazione tra le raccolte presenti per le lingue di arrivo e di partenza del progetto, permettendo anche di scaricarle.</seg>
       </tuv>
     </tu>
     <tu>
