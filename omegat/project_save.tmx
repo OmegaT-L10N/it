@@ -30971,6 +30971,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T102701Z" creationid="valter" creationdate="20190521T102701Z">
+        <seg>Se, per esempio, si digita &lt;u0&gt;\d+&lt;/u0&gt; nel campo &lt;g1&gt;Espressione regolare per i tag personalizzati&lt;/g1&gt;, tutti i numeri saranno considerati tag, e ciò permetterà la verifica che i numeri non siano stati modificati per sbaglio durante la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120514T215119Z">
@@ -80721,6 +80729,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T102124Z" creationid="valter" creationdate="20190521T102124Z">
+        <seg>Quando si traducono file relativi a software, permette di configurare le opzioni della Convalida dei tag anche per il controllo delle variabili di programmazione (%...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160328T192707Z" creationid="valter" creationdate="20160328T192707Z">
@@ -82544,6 +82560,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T214326Z">
         <seg>È anche possibile consultare il manuale fornito con OmegaT senza avviare il programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T102221Z" creationid="valter" creationdate="20190521T102221Z">
+        <seg>È possibile anche definire varie opzioni relative alla convalida dei tag e impostare tag personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
