@@ -25942,6 +25942,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displaying tags in non-OmegaT TMXs</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T104245Z" creationid="valter" creationdate="20190521T104245Z">
+        <seg>Visualizzazione dei tag nelle memorie di traduzione non di OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays &lt;a0&gt;File filters&lt;/a0&gt; dialogue to configure file handling and parsing.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100620T231229Z">
@@ -75663,6 +75671,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T163128Z">
         <seg>Per scaricare OpenOffice o LibreOffice, seguire il collegamento dal pulsante a sinistra "Software di terze parti".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T103705Z" creationid="valter" creationdate="20190521T103705Z">
+        <seg>Per ottenere concordanze più letterali e vicine al 100%, selezionare l'opzione &lt;g0&gt;Testo completo, incluso tag e numeri&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
