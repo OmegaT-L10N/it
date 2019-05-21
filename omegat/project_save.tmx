@@ -89806,6 +89806,14 @@ di creare la propria cartella di configurazione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105239Z" creationid="valter" creationdate="20190521T105239Z">
+        <seg>intervalli lunghi per progetti in collaborazione ospitati in server esterni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160404T184243Z" creationid="valter" creationdate="20160404T184243Z">
@@ -92236,6 +92244,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171216T222927Z" creationid="valter" creationdate="20171216T222927Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105207Z" creationid="valter" creationdate="20190521T105207Z">
+        <seg>intervalli brevi (minimo 10 secondi) per i progetti sincronizzati in un server interno.</seg>
       </tuv>
     </tu>
     <tu>
