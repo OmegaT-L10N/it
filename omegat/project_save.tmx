@@ -28052,6 +28052,14 @@ Impossibile trovare la tua pagina di aiuto</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T101521Z" creationid="valter" creationdate="20190521T101521Z">
+        <seg>Abilita a cambiare l'ordine dei comandi nel menu contestuale (quello che appare col pulsante destro del mouse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoded text</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T165554Z">
@@ -51645,6 +51653,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T165818Z">
         <seg>Solo un numero limitato di formati di file specifica una codifica obbligatoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T101348Z" creationid="valter" creationdate="20190521T101348Z">
+        <seg>Attivare questa opzione solo se si è certi di quello che si sta facendo, e solo per i progetti provenienti da fonti affidabili.</seg>
       </tuv>
     </tu>
     <tu>
