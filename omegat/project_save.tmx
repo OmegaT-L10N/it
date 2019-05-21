@@ -37046,6 +37046,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T091844Z" creationid="valter" creationdate="20190521T091844Z">
+        <seg>Se si preferisce non utilizzare OmegaT per tradurre i file di un certo tipo, sarà sufficiente togliere la spunta alla casella corrispondente al tipo di file, presente nella colonna "Abilitato".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer to proofread your translation on paper, print out the &lt;f0&gt;target document.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130324T174353Z">
@@ -50668,6 +50676,14 @@ with exactly the same structure, including copies of any non-supported files.</s
         <seg>OmegaT will then omit the appropriate files while loading projects, and will copy them untouched while creating target documents.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T161402Z">
+        <seg>In questo caso, OmegaT, quando caricherà i progetti, ignorerà questo tipo di file e, quando creerà i documenti di arrivo, li copierà senza apportarvi alcuna modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T091955Z" creationid="valter" creationdate="20190521T091955Z">
         <seg>In questo caso, OmegaT, quando caricherà i progetti, ignorerà questo tipo di file e, quando creerà i documenti di arrivo, li copierà senza apportarvi alcuna modifica.</seg>
       </tuv>
     </tu>
@@ -67241,6 +67257,14 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T091739Z" creationid="valter" creationdate="20190521T091739Z">
+        <seg>I filtri utilizzati nel progetto corrente sono evidenziati in grassetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130520T220402Z">
@@ -72429,6 +72453,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
         <seg>This dialog lists available file filters.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T102419Z">
+        <seg>Questa finestra contiene un elenco dei filtri dei file disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T091705Z" creationid="valter" creationdate="20190521T091705Z">
         <seg>Questa finestra contiene un elenco dei filtri dei file disponibili.</seg>
       </tuv>
     </tu>
