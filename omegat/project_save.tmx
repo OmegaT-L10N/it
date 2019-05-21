@@ -32469,6 +32469,14 @@ Per funzionare, OmegaT richiede che sul sistema sia installato Java Runtime Envi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110300Z" creationid="valter" creationdate="20190521T110300Z">
+        <seg>Permette l'accesso a un elenco di plugin disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gives access to the project folders.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160328T181846Z" creationid="valter" creationdate="20160328T181846Z">
@@ -64376,6 +64384,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T213033Z">
         <seg>Si consiglia di leggere la sezione &lt;a1&gt;Operazioni con i tag&lt;/a1&gt; per capire come è possibile intervenire su questi elementi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110128Z" creationid="valter" creationdate="20190521T110128Z">
+        <seg>Prendere nota di tutti questi dettagli prima di creare la nuova password, perché essi saranno eliminati e si dovrà procedere a reinserirli.</seg>
       </tuv>
     </tu>
     <tu>
