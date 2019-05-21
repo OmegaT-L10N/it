@@ -28108,6 +28108,14 @@ Impossibile trovare la tua pagina di aiuto</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110354Z" creationid="valter" creationdate="20190521T110354Z">
+        <seg>Abilita le notifiche automatiche degli aggiornamenti di &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T095402Z">
@@ -36723,6 +36731,14 @@ folder, see the manual for its location).</seg>
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151205T122656Z" creationid="valter" creationdate="20151205T122656Z">
+        <seg>Se, a metà del lavoro, si decide di passare da una traduzione a livello di frase a quella a livello di paragrafo, la memoria di traduzione interna del progetto non verrà alterata (OmegaT può aggiornare le vecchie memorie di traduzione che non utilizzano la segmentazione per frasi, ma non viceversa). ma OmegaT tenterà di creare corrispondenze parziali di paragrafo combinando assieme le traduzioni di frasi esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110510Z" creationid="valter" creationdate="20190521T110510Z">
         <seg>Se, a metà del lavoro, si decide di passare da una traduzione a livello di frase a quella a livello di paragrafo, la memoria di traduzione interna del progetto non verrà alterata (OmegaT può aggiornare le vecchie memorie di traduzione che non utilizzano la segmentazione per frasi, ma non viceversa). ma OmegaT tenterà di creare corrispondenze parziali di paragrafo combinando assieme le traduzioni di frasi esistenti.</seg>
       </tuv>
     </tu>
@@ -54185,6 +54201,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110321Z" creationid="valter" creationdate="20190521T110321Z">
+        <seg>I plugin vengono installati nella cartella &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Po4a official page</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T090552Z">
@@ -59270,6 +59294,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110701Z" creationid="valter" creationdate="20190521T110701Z">
+        <seg>Per ulteriori informazioni sulle regole di segmentazione, si veda &lt;l1&gt;Preferenze della Configurazione della segmentazione&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l1&gt;Tag Validation&lt;/l1&gt; and &lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120527T212413Z">
@@ -59282,6 +59314,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20190521T100406Z" creationid="valter" creationdate="20190521T100406Z">
         <seg>Si consulti &lt;l2&gt;Espressioni regolari&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110757Z" creationid="valter" creationdate="20190521T110757Z">
+        <seg>Per ulteriori informazioni sull'argomento, si veda &lt;l3&gt;Preferenze dei Filtri dei file&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73002,6 +73042,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110450Z" creationid="valter" creationdate="20190521T110450Z">
+        <seg>Questa finestra di dialogo è raggiungibile selezionando &lt;m0&gt; &lt;g1&gt;Progetto&lt;/g1&gt; &lt;g2&gt;Proprietà...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog is used to modify the project folders and languages.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100722T214538Z">
@@ -80981,6 +81029,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20180326T203010Z" creationid="valter" creationdate="20180326T203010Z">
         <seg>Durante l'uso delle espressioni regolari, la stringa di sostituzione supporta i riferimenti ai gruppi definiti nella stringa di ricerca..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T110917Z" creationid="valter" creationdate="20190521T110917Z">
+        <seg>Quando si lavora in un progetto in collaborazione, questa finestra consente di definire la mappatura tra le cartelle remote e quelle locali (si vedano &lt;l0&gt;qui&lt;/l0&gt; degli esempi).</seg>
       </tuv>
     </tu>
     <tu>
