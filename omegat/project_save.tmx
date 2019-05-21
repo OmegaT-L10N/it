@@ -35554,6 +35554,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092554Z" creationid="valter" creationdate="20190521T092554Z">
+        <seg>Se l'opzione è attivata, il nome del file di partenza non verrà usato e le traduzioni alternative avranno effetto in qualsiasi file, così come le altre corrispondenze di contesto (segmenti precedenti e successivi oppure qualche tipo di identificativo del segmento che dipende dal formato del file).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the option is off, the source text will be copied to the target segment.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151205T090756Z">
@@ -37717,6 +37725,14 @@ doppio clic sul collegamento.</seg>
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T150743Z" creationid="valter" creationdate="20141207T150319Z">
+        <seg>Ignora il contesto dei file quando si identificano segmenti con traduzioni alternative: per impostazione predefinita, OmegaT utilizza il nome del file di partenza come parte identificativa di una traduzione alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092443Z" creationid="valter" creationdate="20190521T092443Z">
         <seg>Ignora il contesto dei file quando si identificano segmenti con traduzioni alternative: per impostazione predefinita, OmegaT utilizza il nome del file di partenza come parte identificativa di una traduzione alternativa.</seg>
       </tuv>
     </tu>
@@ -54047,6 +54063,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T150157Z" creationid="valter" creationdate="20141207T150157Z">
         <seg>Preserva gli spazi per tutti i tag: attivare questa opzione se i documenti di partenza contengono spazi significativi (per ragioni compositive) che non devono essere ignorati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092415Z" creationid="valter" creationdate="20190521T092415Z">
+        <seg>Preserva gli spazi per tutti i tag: attivare questa opzione se i documenti di partenza contengono spazi significativi utilizzati per ragioni compositive che non devono essere ignorati.</seg>
       </tuv>
     </tu>
     <tu>
