@@ -5543,6 +5543,16 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161114Z" creationid="valter" creationdate="20190521T161114Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120515T193557Z">
@@ -9881,6 +9891,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161110Z" creationid="valter" creationdate="20190521T161110Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T192628Z">
@@ -13128,6 +13146,22 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120526T175329Z">
         <seg>&lt;r0&gt;Nota:&lt;/r0&gt;in un Apple Mac, usare il tasto &lt;k1&gt;Cmd&lt;/k1&gt; o &lt;k2&gt;Apple&lt;/k2&gt; anziché il tasto &lt;k3&gt;Ctrl&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161059Z" creationid="valter" creationdate="20190521T161059Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161105Z" creationid="valter" creationdate="20190521T161105Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23862,8 +23896,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20190521T112608Z" creationid="valter" creationdate="20190521T112608Z">
-        <seg>Creare una copia locale del repository (&lt;c0&gt;check out&lt;/c0&gt; con SVN, &lt;c1&gt;clone&lt;/c1&gt; con Git).</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161008Z" creationid="valter" creationdate="20190521T112608Z">
+        <seg>Creare una copia locale del deposito (&lt;c0&gt;check out&lt;/c0&gt; con SVN, &lt;c1&gt;clone&lt;/c1&gt; con Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23878,8 +23912,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Create a new, empty OmegaT project in the local repository.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20190521T112629Z" creationid="valter" creationdate="20190521T112629Z">
-        <seg>Creare un progetto OmegaT nuovo e vuoto nel repository locale.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161026Z" creationid="valter" creationdate="20190521T112629Z">
+        <seg>Creare un progetto OmegaT nuovo e vuoto nel deposito locale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23910,8 +23944,8 @@ archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
-      <tuv lang="IT" changeid="valter" changedate="20190521T112545Z" creationid="valter" creationdate="20190521T112545Z">
-        <seg>Creare un repository SVN o Git in un server che sia accessibile dai traduttori.</seg>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161015Z" creationid="valter" creationdate="20190521T112545Z">
+        <seg>Creare un deposito (repository) SVN o Git in un server che sia accessibile dai traduttori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38543,6 +38577,14 @@ doppio clic sul collegamento.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T101150Z">
         <seg>In Firefox e Opera, questo può essere fatto facendo clic col pulsante destro del mouse sul file .html tradotto aperto, e scegliendo il comando Ricarica ogni &gt; selezionare un intervallo desiderato (ad esempio, cinque secondi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161234Z" creationid="valter" creationdate="20190521T161234Z">
+        <seg>In entrambi i casi, il responsabile del progetto deve inviare al traduttore le sue credenziali (ID e password) per accedere al deposito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70022,6 +70064,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161054Z" creationid="valter" creationdate="20190521T160919Z">
+        <seg>Il riferimento all'URL è specificato come indicato sotto (in questo caso punta a un deposito Git):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100722T221808Z">
@@ -92604,6 +92654,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T122029Z">
         <seg>selection.txt - contiene il testo evidenziato dall'utente, quando si preme Ctrl-Maiusc-C o è selezionato Modifica &gt; Esporta la selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T160820Z" creationid="valter" creationdate="20190521T160820Z">
+        <seg>inviando un file &lt;f0&gt;omegat.project&lt;/f0&gt; contenente un riferimento all'URL e chiedendo al traduttore di copiarlo in una cartella dedicata e aprirlo con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
