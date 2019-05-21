@@ -37776,6 +37776,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T100337Z" creationid="valter" creationdate="20190521T100337Z">
+        <seg>Nel caso in cui la serie di regole gestisca una coppia lingua-nazione, si consiglia di spostarla in cima utilizzando il pulsante &lt;e1&gt;Sposta in alto&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130401T190157Z">
@@ -49587,6 +49595,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T100542Z" creationid="valter" creationdate="20190521T100542Z">
+        <seg>OmegaT possiede un correttore ortografico incorporato che si basa sul &lt;l0&gt;correttore ortografico&lt;/l0&gt; usato in Apache OpenOffice, LibreOffice, Firefox e Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T103016Z">
@@ -59050,6 +59066,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120527T212413Z">
         <seg>Vedere &lt;l1&gt;Convalida dei tag&lt;/l1&gt; e &lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T100406Z" creationid="valter" creationdate="20190521T100406Z">
+        <seg>Si consulti &lt;l2&gt;Espressioni regolari&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
