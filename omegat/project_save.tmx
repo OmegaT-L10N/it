@@ -60824,6 +60824,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111500Z" creationid="valter" creationdate="20190521T111500Z">
+        <seg>Impostazione di un progetto in collaborazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set up a new project</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120513T181404Z">
@@ -68093,6 +68101,14 @@ space on your hard drive.</seg>
       </tuv>
       <tuv lang="IT" changeid="karm46" changedate="20180426T205550Z" creationid="karm46" creationdate="20180426T205550Z">
         <seg>Il seguenti opzioni non si applicano se "Compatibility with OmegaT 2.6" è spuntato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111332Z" creationid="valter" creationdate="20190521T111332Z">
+        <seg>La soluzione seguente è solo una delle possibilità, abbastanza semplice, però, da seguire senza che il proprio patrimonio di lavoro possa subire perdite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79597,6 +79613,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130503T225608Z">
         <seg>Usare Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111444Z" creationid="valter" creationdate="20190521T111444Z">
+        <seg>Uso delle TMX con lingua alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -93020,6 +93044,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130301T093144Z">
         <seg>con tale programma, in modo che gli utenti non debbano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T111413Z" creationid="valter" creationdate="20190521T111413Z">
+        <seg>I file TMX contenuti nella cartella principale del progetto (vedere sopra) ora contengono le traduzioni nella coppia di lingua selezionata, per i file copiati all'interno della cartella source.</seg>
       </tuv>
     </tu>
     <tu>
