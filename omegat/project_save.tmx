@@ -79673,6 +79673,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T101806Z" creationid="valter" creationdate="20190521T101806Z">
+        <seg>Impostando il valore intorno a 100 i comandi saranno visualizzati in cima, mentre se si imposta intorno a 900 saranno visualizzati in fondo al menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T151424Z">
