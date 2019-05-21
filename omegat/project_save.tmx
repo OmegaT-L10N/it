@@ -39870,6 +39870,14 @@ script,and select it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162034Z" creationid="valter" creationdate="20190521T162034Z">
+        <seg>In tal caso, la procedura da seguire è la stessa ma il responsabile del progetto non aggiunge i file alla cartella /source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this chapter we will consider the &lt;a0&gt;platform independent package&lt;/a0&gt; that contains the application in a standard Java form.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T194708Z">
@@ -45319,6 +45327,14 @@ la versione Mac contiene una copia di JRE.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T101711Z" creationid="valter" creationdate="20160911T101711Z">
         <seg>Mappatura delle cartelle locali vs, le cartelle remote nei depositi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162044Z" creationid="valter" creationdate="20190521T162044Z">
+        <seg>Mappatura dei parametri</seg>
       </tuv>
     </tu>
     <tu>
@@ -50891,6 +50907,14 @@ o superiore.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T210023Z">
         <seg>Tag OmegaT nei segmenti RTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161945Z" creationid="valter" creationdate="20190521T161945Z">
+        <seg>I progetti in collaborazione di OmegaT possono essere configurati anche in modo diverso, in cui traduttori diversi condividono lo stesso file project_save.tmx ma non i file di partenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56752,6 +56776,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T101609Z" creationid="valter" creationdate="20160911T101609Z">
         <seg>Rimuovi depositi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote location of the files to translate.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162204Z" creationid="valter" creationdate="20190521T162204Z">
+        <seg>Posizione remota dei file da tradurre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73168,6 +73200,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20190521T112644Z" creationid="valter" creationdate="20190521T112644Z">
         <seg>Ciò può essere fatto in due modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be either http (which includes https), svn or git.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162133Z" creationid="valter" creationdate="20190521T162133Z">
+        <seg>può essere http (che include https), svn o git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92326,6 +92366,22 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120603T202603Z">
         <seg>rinominare l'attuale file &lt;f0&gt;project_save.tmx &lt;/f0&gt; (per esempio in &lt;f1&gt;project_save.tmx.temporaneo&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162147Z" creationid="valter" creationdate="20190521T162106Z">
+        <seg>Tipo di deposito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162144Z" creationid="valter" creationdate="20190521T162144Z">
+        <seg>URL deposito</seg>
       </tuv>
     </tu>
     <tu>
