@@ -35370,6 +35370,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T100116Z" creationid="valter" creationdate="20190521T100116Z">
+        <seg>Se si seleziona la segmentazione a livello di frase, è possibile impostarne le regole dal menu principale &lt;m4&gt; &lt;g5&gt;Opzioni&lt;/g5&gt; &lt;g6&gt;Segmentazione...&lt;/g6&gt; &lt;/m4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130324T194219Z">
@@ -38679,6 +38687,14 @@ doppio clic sul collegamento.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130224T220330Z">
         <seg>Per selezionare il tipo di segmentazione, selezionare &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Progetto&lt;/g2&gt; &lt;g4&gt;Proprietà...&lt;/g4&gt; &lt;/m1&gt; dalla barra dei menu e attivare o disattivare l'appropriata casella di controllo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T100009Z" creationid="valter" creationdate="20190521T100009Z">
+        <seg>Per selezionare il tipo di segmentazione, scegliere &lt;m1&gt; &lt;g2&gt;Progetto&lt;/g2&gt; &lt;g3&gt;Proprietà...&lt;/g3&gt; &lt;/m1&gt; dalla barra dei menu e attivare o disattivare l'appropriata casella di controllo.</seg>
       </tuv>
     </tu>
     <tu>
