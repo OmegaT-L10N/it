@@ -8561,6 +8561,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112655Z" creationid="valter" creationdate="20190521T112655Z">
+        <seg>&lt;g0&gt;Progetto&lt;/g0&gt; &lt;g1&gt;Nuovo...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;h2&gt;Detailed descriptions&lt;/h2&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130506T170356Z">
@@ -15531,6 +15539,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T212915Z">
         <seg>Aggiungere la riga seguente al testo del file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112744Z" creationid="valter" creationdate="20190521T112744Z">
+        <seg>Aggiungere il nuovo progetto OmegaT al sistema di versione (&lt;c0&gt;add&lt;/c0&gt; con SVN e Git)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23836,10 +23852,26 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112608Z" creationid="valter" creationdate="20190521T112608Z">
+        <seg>Creare una copia locale del repository (&lt;c0&gt;check out&lt;/c0&gt; con SVN, &lt;c1&gt;clone&lt;/c1&gt; con Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T104420Z">
         <seg>Creare un nuovo progetto in ProjectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112629Z" creationid="valter" creationdate="20190521T112629Z">
+        <seg>Creare un progetto OmegaT nuovo e vuoto nel repository locale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23864,6 +23896,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T195450Z">
         <seg>Creare un progetto OmegaT nel modo consueto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112545Z" creationid="valter" creationdate="20190521T112545Z">
+        <seg>Creare un repository SVN o Git in un server che sia accessibile dai traduttori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24120,6 +24160,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T134004Z" creationid="valter" creationdate="20171215T134004Z">
         <seg>La creazione di una "traduzione alternativa" si basa pertanto su segmenti identici che hanno un segmento precedente o seguente diverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112503Z" creationid="valter" creationdate="20190521T112503Z">
+        <seg>Creazione di un progetto vuoto su un server</seg>
       </tuv>
     </tu>
     <tu>
@@ -48315,6 +48363,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112834Z" creationid="valter" creationdate="20190521T112834Z">
+        <seg>Nota: se il progetto è stato creato con riga di comando nel passaggio 3, questo passaggio è stato già eseguito dal programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140720T100451Z">
@@ -55697,6 +55753,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130424T145948Z">
         <seg>Pubblicità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112913Z" creationid="valter" creationdate="20190521T112913Z">
+        <seg>Pubblicare il nuovo progetto OmegaT sul server (&lt;c0&gt;commit&lt;/c0&gt; con SVN, &lt;c1&gt;commit&lt;/c1&gt; seguito da &lt;c2&gt;push&lt;/c2&gt; con Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -72926,6 +72990,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T123554Z">
         <seg>Questo si può fare o all'interno dell'applicazione CAT in questione, o in alcuni casi in un formato di file esterno bilingue che l'applicazione è in grado di gestire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112644Z" creationid="valter" creationdate="20190521T112644Z">
+        <seg>Ciò può essere fatto in due modi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -90850,6 +90922,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130512T215803Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112715Z" creationid="valter" creationdate="20190521T112715Z">
+        <seg>nella riga di comando: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
