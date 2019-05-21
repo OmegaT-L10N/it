@@ -35242,6 +35242,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092834Z" creationid="valter" creationdate="20190521T092834Z">
+        <seg>se attivata, la traduzione del file di arrivo risulterà vuota se un segmento PO (che può essere un intero paragrafo) non viene tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130324T194219Z">
@@ -60440,6 +60448,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092654Z" creationid="valter" creationdate="20190521T092654Z">
+        <seg>Diversi filtri (file di testo, file XHTML, file HTML e XHTML, file OpenDocument e Microsoft Open XML) hanno una o più opzioni particolari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several of the bilingual file formats can be handled by OmegaT, and not necessarily with great effort.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T123927Z">
@@ -75219,6 +75235,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092722Z" creationid="valter" creationdate="20190521T092722Z">
+        <seg>Per modificare le opzioni selezionare il filtro nell'elenco e premere il pulsante &lt;e0&gt;Opzioni&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move to any other part of the text, whether above or below, double-click on the sentence or paragraph you wish to open.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101017T174317Z">
@@ -88088,6 +88112,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T215140Z">
         <seg>se esistente, contiene le regole di segmentazione proprie del progetto, se richiesto in &lt;g0&gt;Progetto &gt; Proprietà...&lt;/g0&gt; Si veda il &lt;l1&gt;capitolo Proprietà del progetto&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092749Z" creationid="valter" creationdate="20190521T092749Z">
+        <seg>se le regole di segmentazione a livello di frase sono attive, il testo verrà ulteriormente segmentato in base all'opzione qui selezionata.</seg>
       </tuv>
     </tu>
     <tu>
