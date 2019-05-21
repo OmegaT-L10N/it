@@ -6361,6 +6361,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095251Z" creationid="valter" creationdate="20190521T095251Z">
+        <seg>&lt;auto&gt; lascia la scelta della codifica a &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T161715Z">
@@ -49691,6 +49699,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095335Z" creationid="valter" creationdate="20190521T095335Z">
+        <seg>OmegaT identifica la codifica del file di partenza utilizzando la sua dichiarazione di codifica, se presente (file HTML, file basati su XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120526T165143Z">
@@ -49909,6 +49925,14 @@ pubblicata dalla Free Software Foundation, sia che si tratti della versione 3 de
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T162834Z">
         <seg>OmegaT è impostato per utilizzare una codifica obbligatoria per alcuni formati di file (Java properties, ecc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095400Z" creationid="valter" creationdate="20190521T095400Z">
+        <seg>OmegaT è impostato per utilizzare una codifica obbligatoria per alcuni formati di file (Java properties, ecc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70438,6 +70462,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095713Z" creationid="valter" creationdate="20190521T095713Z">
+        <seg>Il modello del nome del file di arrivo utilizza una sintassi particolare, pertanto, se si vuole intervenire su questo campo, si deve fare clic su &lt;e0&gt;Modifica...&lt;/e0&gt; e usare la finestra di dialogo Modifica filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T163204Z">
@@ -76496,6 +76528,14 @@ install.sh.</seg>
       <tuv lang="IT" changeid="valter" changedate="20160404T082819Z" creationid="valter" creationdate="20160404T082819Z">
         <seg>Il percorso dei file tradotti non può essere uguale al percorso dei file di partenza:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095413Z" creationid="valter" creationdate="20190521T095413Z">
+        <seg>Nome del file tradotto</seg>
       </tuv>
     </tu>
     <tu>
