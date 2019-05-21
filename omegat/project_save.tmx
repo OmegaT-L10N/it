@@ -7241,6 +7241,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094237Z" creationid="valter" creationdate="20190521T094237Z">
+        <seg>&lt;e0&gt;Aggiungi o riscrivi la dichiarazione di codifica nei file HTML e XHTML&lt;/e0&gt;: spesso i file di destinazione devono contenere una codifica dei caratteri diversa da quella specificata nei file di partenza (che sia definita o no esplicitamente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20190521T094027Z" creationid="valter" creationdate="20190521T094027Z">
@@ -7789,6 +7797,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T112720Z">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: commenti, master e layout della presentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094145Z" creationid="valter" creationdate="20190521T094145Z">
+        <seg>&lt;e0&gt;Preserva spazi per tutti i tag&lt;/e0&gt;: se selezionato, lo "spazio vuoto" (ossia gli spazi e le nuove righe) sarà preservato, anche se questa opzione non è definita all'interno del documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -31167,6 +31183,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130213T200705Z">
         <seg>Per esempio, se il filtro dei file specifica UTF8 come schema di codifica per i file di destinazione, selezionare "Sempre" consentirà di includere tale informazione all'interno dei file tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094411Z" creationid="valter" creationdate="20190521T094411Z">
+        <seg>Per esempio, se il filtro dei file specifica UTF8 come schema di codifica per i file di destinazione, selezionando "Sempre" si avrà la certezza di includere tale informazione all'interno dei file tradotti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79220,6 +79244,14 @@ searchable without subscription:</seg>
         <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130213T200446Z">
+        <seg>Tramite l'uso di questa opzione il traduttore può specificare se i file di destinazione debbano includere la dichiarazione di codifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094252Z" creationid="valter" creationdate="20190521T094252Z">
         <seg>Tramite l'uso di questa opzione il traduttore può specificare se i file di destinazione debbano includere la dichiarazione di codifica.</seg>
       </tuv>
     </tu>
