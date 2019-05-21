@@ -44010,6 +44010,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T103130Z" creationid="valter" creationdate="20190521T103130Z">
+        <seg>Elenco dei progetti i cui dettagli di accesso sono memorizzati in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130528T110953Z">
@@ -56502,6 +56510,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T161352Z" creationid="valter" creationdate="20141207T161352Z">
         <seg>Rimuovi traduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T103248Z" creationid="valter" creationdate="20190521T103248Z">
+        <seg>Rimuovere un progetto da questo elenco se si desidera che OmegaT chieda le credenziali di accesso ogni volta che si apre il progetto.</seg>
       </tuv>
     </tu>
     <tu>
