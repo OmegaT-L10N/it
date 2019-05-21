@@ -21349,6 +21349,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161245Z" creationid="valter" creationdate="20190521T161245Z">
+        <seg>Controllo delle statistiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking your translation</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130302T212159Z">
@@ -36120,6 +36128,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120526T174550Z">
         <seg>Se il valore è &lt;l2&gt;warn&lt;/l2&gt; ("avvisa"), allora gli errori vengono visualizzati ma OmegaT continua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161505Z" creationid="valter" creationdate="20190521T161505Z">
+        <seg>Se si notano delle differenze, verificare che i file &lt;f0&gt;filters.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; siano sotto il controllo di versione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62658,6 +62674,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161527Z" creationid="valter" creationdate="20190521T161527Z">
+        <seg>Caso speciale: condivisione minima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Special tags</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T092018Z">
@@ -66412,6 +66436,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161400Z" creationid="valter" creationdate="20190521T161400Z">
+        <seg>Il responsabile del progetto deve controllare, insieme con il traduttore, che le statistiche siano identiche in entrambi i lati (lato server e lato traduttore).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T130525Z">
@@ -69844,6 +69876,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20190520T184929Z" creationid="valter" creationdate="20190520T184929Z">
         <seg>Le procedure per la configurazione dell'accesso ai servizi di Microsoft Translator e Google Translate sono descritti &lt;u0&gt;qui&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T161737Z" creationid="valter" creationdate="20190521T161737Z">
+        <seg>Il processo sopra riportato descrive un caso normale, in cui il responsabile del progetto vuole mantenere il pieno controllo del progetto e in cui i file (e le statistiche) sono identiche in entrambi i lati (lato server e lato traduttore).</seg>
       </tuv>
     </tu>
     <tu>
