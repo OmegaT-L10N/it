@@ -13166,6 +13166,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162658Z" creationid="valter" creationdate="20190521T162658Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;User Home&gt;/.omegat&lt;/s0&gt; (.omegat is a directory, the dot preceding its name makes it invisible unless you type &lt;c1&gt;ls -a&lt;/c1&gt; or an equivalent command.)</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T193812Z">
@@ -15537,6 +15545,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162435Z" creationid="valter" creationdate="20190521T162435Z">
+        <seg>Aggiunge modelli utilizzando caratteri jolly (in stile Apache Ant): *, ?, **</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T143513Z" creationid="valter" creationdate="20171215T143513Z">
@@ -16405,6 +16421,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130401T184731Z">
         <seg>Tutte le serie di regole di segmentazione corrispondenti a un modello linguistico sono attive e applicate in un ordine di priorità specifico e, pertanto, sarà necessario che le lingue dalle quali comunemente si traduce si trovino in una posizione precedente rispetto a quelle presenti in modo predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162732Z" creationid="valter" creationdate="20190521T162732Z">
+        <seg>Tutti i contenuti di &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; sono mappati al progetto OmegaT locale</seg>
       </tuv>
     </tu>
     <tu>
@@ -18050,6 +18074,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Come risultato di ciò, tutte le impostazioni
 saranno riportate ai valori predefiniti, e si potranno
 sperimentare comportamenti inaspettati ma corretti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162448Z" creationid="valter" creationdate="20190521T162448Z">
+        <seg>Come sopra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29182,6 +29214,14 @@ Nessuno sente le tue urla
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162653Z" creationid="valter" creationdate="20190521T162653Z">
+        <seg>Esempi di mappatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example of create pseudo translated tmx:&lt;br6&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T143552Z">
@@ -29210,6 +29250,22 @@ Nessuno sente le tue urla
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T201418Z">
         <seg>Esempio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162612Z" creationid="valter" creationdate="20190521T162612Z">
+        <seg>Esempio: &lt;u0&gt;**/*.odt&lt;/u0&gt; per aggiungere tutti i file .odt, in qualsiasi punto siano essi dislocati nel progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162439Z" creationid="valter" creationdate="20190521T162439Z">
+        <seg>Esempio: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47013,6 +47069,22 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130415T191612Z">
         <seg>Nome della TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162307Z" creationid="valter" creationdate="20190521T162307Z">
+        <seg>Nome della cartella o del file locale, relativo alla radice del progetto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162403Z" creationid="valter" creationdate="20190521T162403Z">
+        <seg>Nome della cartella o del file remoto, relativo all'URL del deposito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68771,6 +68843,14 @@ Ma altre attendono</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171214T170528Z" creationid="valter" creationdate="20171214T170528Z">
         <seg>La versione di JRE inclusa è la versione a 64 bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The inclusion rules take priority over the exclusion rules.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162636Z" creationid="valter" creationdate="20190521T162636Z">
+        <seg>Le regole di inclusione hanno priorità sulle regole di esclusione.</seg>
       </tuv>
     </tu>
     <tu>
