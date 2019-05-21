@@ -48283,6 +48283,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T102925Z" creationid="valter" creationdate="20190521T102925Z">
+        <seg>Nota: queste due istruzioni si possono combinare scrivendo &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T163321Z">
@@ -61140,6 +61148,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100610T174940Z">
         <seg>In modo simile, OmegaT sarà in grado di aprire vari formati di file di testo formattato (compresi quelli generati da Microsoft Office) sempre che questi vengano prima convertiti nel formato Open Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T102853Z" creationid="valter" creationdate="20190521T102853Z">
+        <seg>In modo simile, l'espressione &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; permetterà di accertarsi che i tag HTML, per esempio, inseriti nel testo di partenza siano preservati senza modifiche nella traduzione.</seg>
       </tuv>
     </tu>
     <tu>
