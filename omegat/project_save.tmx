@@ -30915,6 +30915,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094913Z" creationid="valter" creationdate="20190521T094913Z">
+        <seg>Per esempio, per impostazione predefinita, per lavorare sui file con estensione .xhtml viene utilizzato il filtro XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120514T215119Z">
@@ -66928,6 +66936,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094829Z" creationid="valter" creationdate="20190521T094829Z">
+        <seg>La finestra include uno speciale editor dei modelli del nome del file di arrivo, che permette di personalizzare i nomi dei file prodotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog is useful because it includes a special target filename pattern editor allows you to customize the names of output files.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T172020Z">
@@ -74447,6 +74463,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094734Z" creationid="valter" creationdate="20190521T094734Z">
+        <seg>Per aggiungere un modello di filtro dei file, fare clic su &lt;e1&gt;Aggiungi&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add a new file filter pattern, click &lt;s1&gt;Add&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T163855Z">
@@ -75359,6 +75383,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T122922Z">
         <seg>Per modificare un modello di filtro dei file, modificare direttamente i campi o fare clic su &lt;e0&gt;Modifica&lt;/e0&gt;. Per aggiungerne uno nuovo, fare clic su &lt;e1&gt;Aggiungi&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094715Z" creationid="valter" creationdate="20190521T094715Z">
+        <seg>Per modificare un modello di filtro dei file, modificare direttamente i campi o fare clic su &lt;e0&gt;Modifica&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
