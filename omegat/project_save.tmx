@@ -53344,6 +53344,30 @@ Evanescente come nebbia</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T104725Z" creationid="valter" creationdate="20190521T104725Z">
+        <seg>Percentuale calcolata con l'opzione &lt;g0&gt;Testo completo, incluso tag e numeri&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T104635Z" creationid="valter" creationdate="20190521T104635Z">
+        <seg>Percentuale calcolata con l'opzione &lt;g0&gt;Nessun tag e nessun numero&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T104547Z" creationid="valter" creationdate="20190521T104547Z">
+        <seg>Percentuale calcolata con l'opzione &lt;g0&gt;Elaborazione della radice, nessun tag e nessun numero&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Percentage with tokenizer</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130415T191535Z">
