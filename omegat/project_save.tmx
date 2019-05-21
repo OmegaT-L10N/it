@@ -18117,6 +18117,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092931Z" creationid="valter" creationdate="20190521T092931Z">
+        <seg>Poiché questo è il comportamento usuale per i file PO, l'opzione è attiva in modo predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130425T072506Z">
@@ -65618,6 +65626,14 @@ org.omegat.tokenizer.LuceneEnglishTokenizer) mutuano originariamente le stop wor
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T093002Z" creationid="valter" creationdate="20190521T093002Z">
+        <seg>Se questa opzione viene attivata, l'intestazione PO verrà saltata e non modificata..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Project Files &lt;/f1&gt;&lt;f2&gt;dialog will display your source document.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130310T220834Z">
@@ -73538,6 +73554,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130421T172546Z">
         <seg>Questa operazione riguarderà {0} segmenti e non potrà essere annullata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T093104Z" creationid="valter" creationdate="20190521T093104Z">
+        <seg>L'opzione permette a OmegaT di non tenere conto delle specifiche contenute nell'intestazione del file PO e usare le impostazioni predefinite per la lingua di destinazione selezionata.</seg>
       </tuv>
     </tu>
     <tu>
