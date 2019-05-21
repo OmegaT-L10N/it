@@ -16511,6 +16511,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T101911Z" creationid="valter" creationdate="20190521T101911Z">
+        <seg>Permetti traduzione uguale all'originale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120527T172136Z">
@@ -40112,6 +40120,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110719T130303Z">
         <seg>Inserisci la concordanza parziale migliore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T101902Z" creationid="valter" creationdate="20190521T101902Z">
+        <seg>Inserisci il testo di partenza</seg>
       </tuv>
     </tu>
     <tu>
@@ -75531,6 +75547,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T102033Z" creationid="valter" creationdate="20190521T102033Z">
+        <seg>Per renderla possibile, selezionare quest'opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T122922Z">
@@ -84230,6 +84254,14 @@ them.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130303T065750Z">
         <seg>Avrete bisogno di una cartella per conservare i dizionari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T101846Z" creationid="valter" creationdate="20190521T101846Z">
+        <seg>Bisognerà riavviare OmegaT affinché questa modifica diventi operativa.</seg>
       </tuv>
     </tu>
     <tu>
