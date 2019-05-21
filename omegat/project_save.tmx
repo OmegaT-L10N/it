@@ -19923,6 +19923,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T101237Z" creationid="valter" creationdate="20190521T101237Z">
+        <seg>OmegaT, per impostazione predefinita, non esegue i comandi specificati nelle impostazioni proprie del progetto (il file &lt;f0&gt;finder.xml&lt;/f0&gt; nella cartella &lt;f1&gt;omegat&lt;/f1&gt;), dato che potrebbero avere un impatto critico sulla sicurezza della macchina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T103812Z">
@@ -20975,6 +20983,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140705T080116Z" creationid="valtermura" creationdate="20140705T075658Z">
         <seg>Verifica il numero di tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T101030Z" creationid="valter" creationdate="20190521T101030Z">
+        <seg>Attivare o disattivare le regole a seconda che esse siano o no rilevanti per il tipo di testo che si sta traducendo.</seg>
       </tuv>
     </tu>
     <tu>
