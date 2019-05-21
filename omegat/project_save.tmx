@@ -18613,6 +18613,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T091125Z" creationid="valter" creationdate="20190521T091125Z">
+        <seg>Controlla automaticamente il testo del segmento nel dizionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable Contents with its translation.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T160814Z">
@@ -21327,6 +21335,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151206T102504Z" creationid="valter" creationdate="20151206T102504Z">
         <seg>Azzera i dati di autenticazione per il repository SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T091240Z" creationid="valter" creationdate="20190521T091240Z">
+        <seg>Deselezionare l'opzione per disattivare la ricerca automatica – per esempio, se i dizionari sono troppo lunghi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77952,6 +77968,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140910T194630Z" creationid="valtermura" creationdate="20140910T194630Z">
         <seg>Usa modelli personalizzati per le informazioni di modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T091248Z" creationid="valter" creationdate="20190521T091248Z">
+        <seg>Usa la concordanza parziale per le voci di dizionario</seg>
       </tuv>
     </tu>
     <tu>
