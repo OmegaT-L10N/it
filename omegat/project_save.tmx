@@ -37494,6 +37494,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T095834Z" creationid="valter" creationdate="20190521T095834Z">
+        <seg>Se si vuole tornare alla configurazione predefinita del filtro, fare clic su &lt;e1&gt;Predefiniti&lt;/e1&gt;. È possibile anche modificare direttamente il nome nel campo del modello del nome del file di arrivo della finestra di dialogo dei filtri dei file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T113945Z" creationid="valter" creationdate="20171215T113945Z">
