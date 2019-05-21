@@ -7385,6 +7385,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T093530Z" creationid="valter" creationdate="20190521T093530Z">
+        <seg>&lt;e0&gt;Non tradurre l'attributo di contenuto dei metatag... :&lt;/e0&gt; i metatag indicati nel riquadro non verranno tradotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags&lt;/e0&gt; ... : the attribute key-value pairs, separated by commas, will be left untranslated</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T114811Z">
@@ -7397,6 +7405,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T204112Z">
         <seg>&lt;e0&gt;Non tradurre il contenuto dei tag con la seguente coppia di valori-chiave di attributo (separati da virgole)&lt;/e0&gt;: la corrispondenza all'interno dell'elenco delle coppie di valori-chiave farà sì che il contenuto dei tag venga ignorato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T093738Z" creationid="valter" creationdate="20190521T093738Z">
+        <seg>&lt;e0&gt;Non tradurre il contenuto dei tag con la seguente coppia di valori-chiave di attributo (separati da virgole)&lt;/e0&gt;: la corrispondenza di un tag all'interno dell'elenco delle coppie di valori-chiave farà sì che il suo contenuto sia ignorato</seg>
       </tuv>
     </tu>
     <tu>
