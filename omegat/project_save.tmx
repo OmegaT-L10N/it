@@ -20443,6 +20443,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105121Z" creationid="valter" creationdate="20190521T105121Z">
+        <seg>Cambiare l'intervallo predefinito (3 minuti) a seconda delle esigenze per il progetto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the encoding of your files to Unicode</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120603T211125Z">
@@ -21215,6 +21223,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20141207T123318Z" creationid="valter" creationdate="20141207T123318Z">
         <seg>Attivare questa opzione per essere avvisati delle differenze tra i tag del segmento di partenza e quello di arrivo, ogni volta che si passa a un altro segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T104844Z" creationid="valter" creationdate="20190521T104844Z">
+        <seg>Selezionare questa opzione per visualizzare in colore grigio tutti i segmenti non univoci (ripetizioni).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39792,6 +39808,14 @@ script,and select it.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T085427Z">
         <seg>Includi il primo segmento non &amp;univoco quando evidenzi i segmenti non univoci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T104744Z" creationid="valter" creationdate="20190521T104744Z">
+        <seg>Includi il primo segmento non univoco quando evidenzi i segmenti non univoci</seg>
       </tuv>
     </tu>
     <tu>
@@ -80749,6 +80773,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100722T203429Z">
         <seg>Quando il computer legge il file, ne “decodifica” le informazioni in base alla propria codifica e li visualizza in base al proprio set di caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105024Z" creationid="valter" creationdate="20190521T105024Z">
+        <seg>Quando l'opzione è disattivata, tutti i segmenti non univoci vengono visualizzati in colore grigio, ad eccezione della prima occorrenza.</seg>
       </tuv>
     </tu>
     <tu>
