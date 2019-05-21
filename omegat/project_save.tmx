@@ -35050,6 +35050,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T091113Z" creationid="valter" creationdate="20190521T091113Z">
+        <seg>È possibile selezionare, se necessario, un dominio specifico per limitare il volume di dati inviati e ricevuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If neither the language code not the country code match, the segments are not loaded in memory.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101004T111745Z">
@@ -59600,6 +59608,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090854Z" creationid="valter" creationdate="20190521T090854Z">
+        <seg>Seleziona il dominio di ricerca terminologica TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20140705T083541Z" creationid="valtermura" creationdate="20140705T083541Z">
@@ -66258,6 +66274,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T125920Z">
         <seg>La traduzione in collaborazione offerta da OmegaT si basa sulla funzionalità di controllo della versione o revisione, largamente usata dalle comunità informatiche per tenere sotto controllo il codice di un programma e permettere la collaborazione senza intoppi all'interno della relativa squadra di sviluppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T090845Z" creationid="valter" creationdate="20190521T090845Z">
+        <seg>Le raccolte vengono scaricate come glossari TBX e memorizzate nella cartella di glossario corrente.</seg>
       </tuv>
     </tu>
     <tu>
