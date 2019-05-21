@@ -20027,6 +20027,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T103533Z" creationid="valter" creationdate="20190521T103533Z">
+        <seg>Per impostazione predefinita, le concordanze più vicine visualizzate nel pannello &lt;g0&gt;Concordanze parziali&lt;/g0&gt; sono determinate tramite il riconoscimento della radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the source text is pasted into the target text segment for you.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130303T082935Z">
