@@ -36066,6 +36066,14 @@ ai valori predefiniti, dovuto al cambio di posizione.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T160331Z" creationid="valter" creationdate="20190521T160331Z">
+        <seg>Se il traduttore tenta di modificarli, essi ritornano al loro stato originale ogniqualvolta il progetto viene aperto, chiuso, salvato o ricaricato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120526T174450Z">
@@ -51673,6 +51681,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T160540Z" creationid="valter" creationdate="20190521T160540Z">
+        <seg>Dopo che il progetto è configurato nel server, il responsabile del progetto può invitare il traduttore a lavorarci in due modi differenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the spell checker has been activated and the vocabulary for the target language is available, the spell checker will monitor target segments, that are being displayed in the editing pane.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100801T202931Z">
@@ -63150,6 +63166,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T220851Z">
         <seg>Passaggio 3: "Standard" o "Più recente"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T160409Z" creationid="valter" creationdate="20190521T160409Z">
+        <seg>Passaggio 3: spedire un invito al traduttore</seg>
       </tuv>
     </tu>
     <tu>
@@ -92580,6 +92604,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T122029Z">
         <seg>selection.txt - contiene il testo evidenziato dall'utente, quando si preme Ctrl-Maiusc-C o è selezionato Modifica &gt; Esporta la selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T160719Z" creationid="valter" creationdate="20190521T160719Z">
+        <seg>inviando l'URL del progetto e chiedendo al traduttore di creare una copia locale tramite il comando &lt;m0&gt; &lt;g1&gt;Progetto&lt;/g1&gt; &lt;g2&gt;Scarica il progetto in collaborazione&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
