@@ -7241,6 +7241,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094027Z" creationid="valter" creationdate="20190521T094027Z">
+        <seg>&lt;e0&gt;Tag complessivi&lt;/e0&gt;: se selezionato, i tag senza testo traducibile verranno aggregati in un singolo tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T113024Z">
@@ -30827,6 +30835,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T093827Z" creationid="valter" creationdate="20190521T093827Z">
+        <seg>Per esempio, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T143032Z">
@@ -31424,6 +31440,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20121223T204426Z">
         <seg>L'esempio sopra conterrebbe: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T093931Z" creationid="valter" creationdate="20190521T093931Z">
+        <seg>L'esempio sopra conterrebbe: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41265,6 +41289,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130406T082452Z">
         <seg>È tuttavia più semplice cercare i dizionari su Internet, utilizzando il campo &lt;e0&gt;URL per i dizionari in linea&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T093809Z" creationid="valter" creationdate="20190521T093809Z">
+        <seg>A volte potrebbe essere utile rendere non traducibili certi tag basati sui valori degli attributi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82583,6 +82615,14 @@ OmegaT.exe nel menu Start, nel desktop o nella barra di avvio rapido.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T095319Z">
         <seg>Si può decidere di non tradurre proprio tali segmenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T093856Z" creationid="valter" creationdate="20190521T093856Z">
+        <seg>È possibile definire coppie di valori-chiave per i tag da non tradurre.</seg>
       </tuv>
     </tu>
     <tu>
