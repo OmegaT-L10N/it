@@ -9899,6 +9899,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162742Z" creationid="valter" creationdate="20190521T162742Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T192628Z">
@@ -13166,6 +13174,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162738Z" creationid="valter" creationdate="20190521T162738Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20190521T162658Z" creationid="valter" creationdate="20190521T162658Z">
@@ -16421,6 +16437,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130401T184731Z">
         <seg>Tutte le serie di regole di segmentazione corrispondenti a un modello linguistico sono attive e applicate in un ordine di priorità specifico e, pertanto, sarà necessario che le lingue dalle quali comunemente si traduce si trovino in una posizione precedente rispetto a quelle presenti in modo predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T162812Z" creationid="valter" creationdate="20190521T162812Z">
+        <seg>Tutti i contenuti di &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; sono mappati al progetto OmegaT locale.</seg>
       </tuv>
     </tu>
     <tu>
