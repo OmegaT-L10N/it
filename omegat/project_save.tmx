@@ -7321,6 +7321,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094442Z" creationid="valter" creationdate="20190521T094442Z">
+        <seg>&lt;e0&gt;Comprimi lo spazio vuoto nel documento tradotto&lt;/e0&gt;: più spazi vuoti continui saranno convertiti in un unico spazio vuoto all'interno del documento tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151205T092053Z" creationid="valter" creationdate="20151205T092053Z">
@@ -7845,6 +7853,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151205T092219Z" creationid="valter" creationdate="20151205T092219Z">
         <seg>&lt;e0&gt;Rimuovi i commenti HTML nel documento tradotto&lt;/e0&gt;: tutte le parti commentate (comprese nei tag &lt;!-- e --&gt;) non saranno copiate nel documento tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094516Z" creationid="valter" creationdate="20190521T094516Z">
+        <seg>&lt;e0&gt;Rimuovi i commenti HTML nel documento tradotto&lt;/e0&gt;: le parti commentate (comprese nei tag &lt;!-- e --&gt;) non saranno copiate nel documento tradotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72598,6 +72614,14 @@ eliminerà i dati locali e riscaricherà i contenuti del progetto dal server.</s
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120401T122556Z">
         <seg>Questa finestra di dialogo consente di impostare i modelli dei nomi dei file di partenza per quei file che dovranno essere elaborati dal filtro, di personalizzare i nomi dei file tradotti e di selezionare la codifica da adottare quando viene caricato il file di partenza e salvato quello di arrivo tradotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T094646Z" creationid="valter" creationdate="20190521T094646Z">
+        <seg>Questa finestra di dialogo consente di specificare i modelli dei nomi dei file di partenza per quei file che dovranno essere elaborati dal filtro, di personalizzare i nomi dei file tradotti e di selezionare la codifica da adottare quando viene caricato il file di partenza e salvato quello di arrivo tradotto.</seg>
       </tuv>
     </tu>
     <tu>
