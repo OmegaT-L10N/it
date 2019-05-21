@@ -17148,6 +17148,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105445Z" creationid="valter" creationdate="20190521T105445Z">
+        <seg>Un esempio d'uso di questa funzionalità potrebbe essere l'invio dei documenti tradotti al server FTP del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example script that achieves this function is described in the &lt;a0&gt;Priorview Howto&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130503T224535Z">
@@ -19935,6 +19943,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20190521T101237Z" creationid="valter" creationdate="20190521T101237Z">
         <seg>OmegaT, per impostazione predefinita, non esegue i comandi specificati nelle impostazioni proprie del progetto (il file &lt;f0&gt;finder.xml&lt;/f0&gt; nella cartella &lt;f1&gt;omegat&lt;/f1&gt;), dato che potrebbero avere un impatto critico sulla sicurezza della macchina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105559Z" creationid="valter" creationdate="20190521T105559Z">
+        <seg>OmegaT, per impostazione predefinita, non esegue i comandi specificati nelle impostazioni proprie del progetto (il file &lt;f0&gt;omegat.project&lt;/f0&gt;), dato che potrebbero avere un impatto critico sulla sicurezza della macchina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33569,6 +33585,14 @@ Il suo inverno è arrivato</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105951Z" creationid="valter" creationdate="20190521T105951Z">
+        <seg>In questa finestra è possibile ridefinire la password principale utilizzata per proteggere i dettagli di autenticazione e le chiavi di accesso per i servizi di traduzione automatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130107T211542Z">
@@ -34760,6 +34784,14 @@ non deve essere indicato).</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101005T192635Z">
         <seg>Se OmegaT rileva, per il segmento successivo, la presenza nella memoria di traduzione di una concordanza parziale (fuzzy match) (pari o superiore al 30%), essa viene riportata all'interno della finestra “Corrispondenze parziali (fuzzy)”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105752Z" creationid="valter" creationdate="20190521T105752Z">
+        <seg>Se, per accedere a Internet, OmegaT ha necessità di utilizzare un server proxy autenticato, immettere qui i dettagli forniti dall'amministratore di rete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59086,6 +59118,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105756Z" creationid="valter" creationdate="20190521T105756Z">
+        <seg>Memorizzazione sicura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Security error encountered loading project file!</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100714T111018Z">
@@ -62412,6 +62452,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T191743Z" creationid="valter" creationdate="20170115T191743Z">
         <seg>Specifica un aiuto mnemonico con "&amp;": "Pipp&amp;o" per usare O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T105347Z" creationid="valter" creationdate="20190521T105347Z">
+        <seg>Specificare i comandi da eseguire dopo il comando &lt;g0&gt;Crea i documenti di arrivo&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
