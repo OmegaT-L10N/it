@@ -56266,6 +56266,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092147Z" creationid="valter" creationdate="20190521T092147Z">
+        <seg>Rimuovi i tag di inizio e fine: disattivare questa opzione per visualizzare tutti i tag, incluso quelli di inizio e fine segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130421T172339Z">
@@ -66672,6 +66680,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092058Z" creationid="valter" creationdate="20190521T092058Z">
+        <seg>La finestra di dialogo permette di abilitare o disabilitare le seguenti opzioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog allows you to setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100609T163652Z">
@@ -74714,6 +74730,14 @@ una nuova segnalazione di errore:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092041Z" creationid="valter" creationdate="20190521T092041Z">
+        <seg>Per modificare il modo in cui il filtro interviene sui file e sulla loro codifica, selezionare dall'elenco il filtro e fare clic su &lt;e1&gt;Modifica&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit this file, you may need Administrator mode, or to move it temporarily to a different location on your hard drive.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130519T212844Z">
@@ -79583,6 +79607,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20130213T193116Z">
         <seg>Attenzione: la modifica dell'ordine dei tag può creare errori all'interno del documento tradotto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T092308Z" creationid="valter" creationdate="20190521T092308Z">
+        <seg>Attenzione: nei formati Microsoft Open XML (docx, xlsx, e via discorrendo), se tutti i tag sono visualizzati, NON inserire del testo davanti al primo tag (è un tag tecnico che deve sempre iniziare il segmento).</seg>
       </tuv>
     </tu>
     <tu>
