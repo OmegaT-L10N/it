@@ -16343,6 +16343,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other files are read-only.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113740Z" creationid="valter" creationdate="20190521T113740Z">
+        <seg>Tutti gli altri file solo in sola lettura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T104545Z">
@@ -48131,6 +48139,14 @@ posizione appropriata, per esempio la cartella delle Applicazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113723Z" creationid="valter" creationdate="20190521T113723Z">
+        <seg>Si noti che, durante il processo di traduzione, vengono modificati da OmegaT solo due file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130406T100952Z">
@@ -72290,6 +72306,14 @@ OmegaT non può essere, dunque, determinata con certezza.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113625Z" creationid="valter" creationdate="20190521T113625Z">
+        <seg>I file interessati non saranno eliminati automaticamente dal lato del traduttore: bisognerà richiedere loro di eliminarli manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
       </tuv>
       <tuv lang="IT" changeid="MELO" changedate="20130426T105634Z">
@@ -74971,6 +74995,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T165259Z">
         <seg>I file TMX contengono le unità di traduzione che corrispondono ai vari segmenti equivalenti, in lingue diverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T113511Z" creationid="valter" creationdate="20190521T113511Z">
+        <seg>Se si vogliono &lt;e0&gt;eliminare file&lt;/e0&gt;, utilizzare un client SVN o Git.</seg>
       </tuv>
     </tu>
     <tu>
