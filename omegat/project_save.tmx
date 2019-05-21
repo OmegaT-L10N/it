@@ -18156,6 +18156,14 @@ sperimentare comportamenti inaspettati ma corretti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112404Z" creationid="valter" creationdate="20190521T112404Z">
+        <seg>Dato che sono disponibili in linea molte informazioni sui sistemi SVN e Git, questi non saranno descritti qui, ma verrà trattato solo il modo in cui OmegaT funziona con essi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120514T221339Z">
@@ -41829,6 +41837,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112152Z" creationid="valter" creationdate="20190521T112152Z">
+        <seg>Esso dovrebbe, dunque, essere gestito da un responsabile o un gestore del progetto o un ingegnere della localizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It shows translation of terms found in the current segment, but it only shows it for reference purposes, and does not allow to insert or replace the term with its translation.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20101004T220525Z">
@@ -60928,6 +60944,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112011Z" creationid="valter" creationdate="20190521T112011Z">
+        <seg>L'impostazione di un progetto in collaborazione richiede qualche conoscenza dei server e dei sistemi di versione SVN o Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130411T205003Z">
@@ -62958,6 +62982,14 @@ Per impostazione predefinita, l'ambito di una ricerca è il progetto, ma può es
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T192550Z" creationid="valter" creationdate="20160911T192550Z">
         <seg>Passaggio 1: regola i parametri di allineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190521T112429Z" creationid="valter" creationdate="20190521T112429Z">
+        <seg>Passo 1: creare un progetto vuoto su un server</seg>
       </tuv>
     </tu>
     <tu>
