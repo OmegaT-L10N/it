@@ -29206,6 +29206,14 @@ Nessuno sente le tue urla
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T184836Z" creationid="valter" creationdate="20190522T184836Z">
+        <seg>Ogni tre minuti (impostazione predefinita) il progetto locale viene sincronizzato col deposito remoto, in modo che il responsabile del progetto o gli altri traduttori possano visualizzare e utilizzare le traduzioni apportate durante quel periodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Every call of the &lt;s5&gt; Search&lt;/s5&gt; window creates its own new window.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T130505Z">
