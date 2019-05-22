@@ -5543,6 +5543,14 @@ L'impostazione attuale è {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183258Z" creationid="valter" creationdate="20190522T183258Z">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -9907,6 +9915,22 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183252Z" creationid="valter" creationdate="20190522T183252Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183333Z" creationid="valter" creationdate="20190522T183333Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100718T192628Z">
@@ -13170,6 +13194,14 @@ the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20190521T161105Z" creationid="valter" creationdate="20190521T161105Z">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183247Z" creationid="valter" creationdate="20190522T183247Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70312,6 +70344,22 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183400Z" creationid="valter" creationdate="20190522T183400Z">
+        <seg>Il file remoto &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; è mappato al file locale &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183327Z" creationid="valter" creationdate="20190522T183327Z">
+        <seg>Il file remoto &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; è mappato al file locale &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T110119Z">
@@ -74416,6 +74464,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183707Z" creationid="valter" creationdate="20190522T183707Z">
+        <seg>Questo rende possibile rinominare il file per la traduzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual is not perfect and will be modified over the course of time and following the evolution of OmegaT.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20110126T194626Z">
@@ -77248,6 +77304,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20100731T090544Z">
         <seg>Pagina ufficiale di Translate Toolkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183724Z" creationid="valter" creationdate="20190522T183724Z">
+        <seg>Traduzione un file PDF</seg>
       </tuv>
     </tu>
     <tu>
