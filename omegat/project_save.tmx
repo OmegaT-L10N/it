@@ -14985,6 +14985,14 @@ echo $standard_name
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192606Z" creationid="valter" creationdate="20190522T192606Z">
+        <seg>È possibile aprire e tradurre un progetto in collaborazione fuori linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120423T214522Z">
@@ -55855,6 +55863,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192512Z" creationid="valter" creationdate="20190522T192512Z">
+        <seg>I parametri del progetto devono essere modificati dal responsabile del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T095638Z">
@@ -82911,6 +82927,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20171215T140330Z" creationid="valter" creationdate="20171215T140330Z">
         <seg>Funziona con più di trenta formati di file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192528Z" creationid="valter" creationdate="20190522T192528Z">
+        <seg>Lavorare fuori linea</seg>
       </tuv>
     </tu>
     <tu>
