@@ -18855,6 +18855,14 @@ in English-speaking countries, it is appropriate that the documentation (and, if
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T184202Z" creationid="valter" creationdate="20190522T184202Z">
+        <seg>Salvataggio automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic translation is very difficult due to context problems (the sentence "Time flies like an arrow" being just the best known example for it), it may be some time before anyone can offer human quality translations.&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="Valter Mura" changedate="20100616T090344Z">
@@ -51047,6 +51055,14 @@ o superiore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183945Z" creationid="valter" creationdate="20190522T183906Z">
+        <seg>Innanzitutto i progetti in collaborazione di OmegaT devono essere &lt;l0&gt;configurati&lt;/l0&gt; in un server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T214930Z">
@@ -51887,6 +51903,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130517T183213Z">
         <seg>Una volta completata l'operazione, è possibile controllare la suddetta cartella: deve ora contenere una sottocartella .svn e un segno di spunta OK verde sulla sua icona, che indica che i contenuti della cartella sono aggiornati:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T184152Z" creationid="valter" creationdate="20190522T184152Z">
+        <seg>Una volta aperto il progetto, la traduzione procede allo stesso modo di un progetto individuale, ad eccezione dei punti che seguono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76851,6 +76875,14 @@ script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T184036Z" creationid="valter" creationdate="20190522T184036Z">
+        <seg>Per utilizzare la prima volta un progetto in collaborazione, seguire le istruzioni fornite dal responsabile del progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20190520T181416Z" creationid="valter" creationdate="20190520T181416Z">
@@ -79210,6 +79242,14 @@ alla riga {1}, colonna {2}.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160910T192011Z" creationid="valter" creationdate="20160910T192011Z">
         <seg>Usa i termini che appaiono separatamente nel testo di partenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T183754Z" creationid="valter" creationdate="20190522T183754Z">
+        <seg>Uso di progetto in collaborazione</seg>
       </tuv>
     </tu>
     <tu>
