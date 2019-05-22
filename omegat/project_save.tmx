@@ -7699,6 +7699,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T193003Z" creationid="valter" creationdate="20190522T193003Z">
+        <seg>&lt;e0&gt;No / non so:&lt;/e0&gt; scaricare &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_2.5.x_Windows.exe.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120516T182255Z">
@@ -8279,6 +8287,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130518T104746Z">
         <seg>&lt;e0&gt;Sì: &lt;/e0&gt;scaricare &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192942Z" creationid="valter" creationdate="20190522T192942Z">
+        <seg>&lt;e0&gt;Sì: &lt;/e0&gt;scaricare &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16493,6 +16509,14 @@ echo $standard_name
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130401T184731Z">
         <seg>Tutte le serie di regole di segmentazione corrispondenti a un modello linguistico sono attive e applicate in un ordine di priorità specifico e, pertanto, sarà necessario che le lingue dalle quali comunemente si traduce si trovino in una posizione precedente rispetto a quelle presenti in modo predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192653Z" creationid="valter" creationdate="20190522T192653Z">
+        <seg>Tutte le modifiche saranno sincronizzate non appena sarà disponibile una connessione alla rete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26096,6 +26120,14 @@ archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192723Z" creationid="valter" creationdate="20190522T192723Z">
+        <seg>Disconnettersi dalla rete prima di aprire il progetto,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20170115T093359Z" creationid="valter" creationdate="20170115T093359Z">
@@ -26668,6 +26700,14 @@ archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130518T101848Z">
         <seg>Si ha un'implementazione Java compatibile con Java 1.6 JRE di Oracle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192921Z" creationid="valter" creationdate="20190522T192921Z">
+        <seg>Si ha un'implementazione Java compatibile con Java 8 JRE di Oracle?</seg>
       </tuv>
     </tu>
     <tu>
@@ -37010,6 +37050,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you check the corresponding checkbox, the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T193037Z" creationid="valter" creationdate="20190522T193037Z">
+        <seg>Attivando la casella corrispondente, il file &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; verrà modificato per utilizzare la lingua selezionata (per i dettagli, si veda la sezione seguente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130216T154150Z">
@@ -43632,6 +43680,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151205T092729Z">
         <seg>Successivamente, una volta accettato il contratto di licenza, il programma chiederà se si vuole creare un gruppo nel menu &lt;e0&gt;start&lt;/e0&gt; , e un collegamento nel desktop e nella barra di avvio rapido: è possibile creare queste scorciatoie anche in seguito, trascinando l'icona &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; nel desktop o nel menu "start".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T193231Z" creationid="valter" creationdate="20190522T193231Z">
+        <seg>Successivamente, una volta accettato il contratto di licenza, il programma chiederà se si vuole creare un gruppo nel menu &lt;e1&gt;Start&lt;/e1&gt; , e un collegamento nel desktop e nella barra di avvio rapido: è possibile creare queste scorciatoie anche in seguito, trascinando l'icona &lt;f2&gt;OmegaT.exe&lt;/f2&gt; nel desktop o nel menu Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77084,6 +77140,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192701Z" creationid="valter" creationdate="20190522T192701Z">
+        <seg>Per lavorare fuori linea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20160911T192125Z" creationid="valter" creationdate="20160911T192125Z">
@@ -91836,6 +91900,14 @@ di creare la propria cartella di configurazione.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130521T101943Z">
         <seg>oppure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T192850Z" creationid="valter" creationdate="20190522T192850Z">
+        <seg>o aprire il progetto col la riga di comando utilizzando l'opzione &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
