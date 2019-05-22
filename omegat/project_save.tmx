@@ -51899,6 +51899,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T193343Z" creationid="valter" creationdate="20190522T193343Z">
+        <seg>Una volta installato &lt;a0&gt;OmegaT&lt;/a0&gt;, è possibile avviarlo sia facendo clic direttamente su &lt;f1&gt;OmegaT.jar&lt;/f1&gt; , sia da riga di comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120519T110653Z">
@@ -58338,6 +58346,14 @@ Si riferisce alle versioni di OmegaT: 2.0.0, 2.5.5_05 &lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20111204T224130Z">
         <seg>Avvia script nello slot #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190522T193237Z" creationid="valter" creationdate="20190522T193237Z">
+        <seg>Avvio di &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
