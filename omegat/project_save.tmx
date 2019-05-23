@@ -7587,6 +7587,14 @@ href="http://omegat.sourceforge.net/webstart-dev/OmegaT.jnlp"&gt;Web Start Ultim
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190523T194519Z" creationid="valter" creationdate="20190523T194519Z">
+        <seg>&lt;e0&gt;Installare sull'installazione esistente.&lt;/e0&gt; Per fare questo, mentre si installa la nuova versione, basta selezionare la cartella in cui risiede l'installazione esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20120516T191552Z">
@@ -68611,6 +68619,14 @@ space on your hard drive.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190523T194347Z" creationid="valter" creationdate="20190523T194347Z">
+        <seg>L'esempio di file INI che segue riserva 1 GB di memoria, richiede il francese come lingua dell'utente e il Canada come nazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="IT" changeid="valter" changedate="20151205T093049Z">
@@ -69937,6 +69953,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="IT" changeid="valtermura" changedate="20130413T131640Z">
         <seg>L'opzione permette a OmegaT di non tenere conto delle specifiche contenute nell'intestazione del file PO e usare le impostazioni predefinite per la lingua di destinazione selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="valter" changedate="20190523T194251Z" creationid="valter" creationdate="20190523T194251Z">
+        <seg>In questo caso, le opzioni per l'avvio del programma saranno lette dal file &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, che si trova nella stessa cartella del file eseguibile e che può essere modificato affinché rispecchi le proprie impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
