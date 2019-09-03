@@ -14,10 +14,12 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>.</p
           <ul class="nav nav-pills">
             <li>
               <a href="#tab-install-type" data-toggle="tab">Tipo di installazione</a>
-            </li>
+            </li><!--
             <li>
-              <a href="#tab-version" data-toggle="tab">Versione</a>
+              <a href="#tab-version" data-toggle="tab">Version</a>
             </li>
+            -->
+            
             <li>
               <a href="#tab-operating-system" data-toggle="tab">Sistema operativo</a>
             </li>
@@ -77,17 +79,26 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>.</p
           <label><input type="radio" class="radio-primary" value="nojre" name="optJRE"/>Senza JRE</label>
           <p>Se si è certi che il corretto Java Runtime Environment è già installato sul proprio computer a livello di sistema, è possibile selezionare l'opzione senza JRE.</p>
         </div>
-      </div>
+      </div><!--
       <div class="tab-pane fade" id="tab-version">
         <div class="radio">
           <label><input type="radio" class="radio-primary" value="standard" name="optVersion"/>Standard</label>
-          <p>La versione "standard" di OmegaT include un manuale dell'utente completo (almeno in inglese) e in genere è stata provata per qualche tempo per eliminare qualsiasi errore. È la versione consigliata per i nuovi utenti.</p>
+          <p>The "Standard" version of OmegaT includes a full user manual (at
+          least in English) and will usually have been tested for some time to
+          eliminate any bugs. It is the recommended version for first-time users.</p>
           <div class="radio">
-            <label><input type="radio" class="radio-primary" value="latest" name="optVersion"/>Più recente</label>
-            <p>Come suggerisce il nome, la versione "più recente" di OmegaT è quella più aggiornata. Comunque, il manuale utente potrebbe non essere aggiornato (e quindi possibilmente fuorviante), e potrebbero essere presenti alcuni errori secondari. Ad ogni modo, le versioni "più recenti" di OmegaT sono di solito molto stabili e consigliate per tutti gli utenti che hanno avuto già esperienza con OmegaT.</p>
+            <label><input type="radio" class="radio-primary" value="latest" name="optVersion"/>Latest</label>
+            <p>As its name suggests, the "Latest" version of Omegat is more up to
+          date. However, the user manual may no longer be up to date (and
+          therefore possibly confusing), and some minor bugs are possible.
+          Nevertheless, the "Latest" versions of OmegaT are usually very stable
+          and are recommended for any users who already have some experience with
+          OmegaT.</p>
           </div>
         </div>
       </div>
+      -->
+      
       <div class="panel-footer collapse text-center" style="display:none;" id="wizard-result">
         <p>In base alle scelte personali, raccomandiamo l'utilizzo di:</p>
         <h3><a id="wizard-result-version" href="#">una qualche versione</a></h3>
@@ -136,7 +147,7 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>.</p
 
 <h3 id="standard">Versione standard - {{site.data.versions.standard.name}}</h3>
 
-<p>La versione standard richiede Java {{site.data.versions.standard.java_version}}. Essa è di solito in uso da qualche tempo, quindi è collaudata. La sua documentazione, almeno quella in inglese, è in genere ragionevolmente aggiornata. Mancheranno tuttavia alcune delle caratteristiche della versione "Più recente".</p>
+<p>La versione standard richiede Java {{site.data.versions.standard.java_version}}. Essa è di solito in uso da qualche tempo, quindi è collaudata. La sua documentazione, almeno quella in inglese, è in genere ragionevolmente aggiornata.<!--It will however lack some of the features of the "Latest" version.--></p>
 
 <table class="table table-striped downloads">
   <thead>
@@ -175,49 +186,47 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>.</p
   
   </tbody>
 
-</table>
+</table><!--
+<h3 id="latest">Latest Version - {{site.data.versions.latest.name}}</h3>
 
-<h3 id="latest">Versione più recente - {{site.data.versions.latest.name}}</h3>
-
-<p>La versione più recente richiede Java {{site.data.versions.latest.java_version}}. Essa è più recente di quella standard e include nuove caratteristiche non presenti in quest'ultima. La versione più recente è, di solito, ragionevolmente stabile e utilizzabile, ma potrebbe contenere ancora alcuni errori. La documentazione, in particolare delle nuove funzionalità, sarà meno completa rispetto a quella della versione standard. Gli utenti che hanno già qualche esperienza con OmegaT spesso preferiscono la versione più recente.</p>
+<p>The Latest version requires Java {{site.data.versions.latest.java_version}}. It is a more recent version than the Standard version and
+includes new features not present in the latter. The Latest version will
+usually be reasonably stable and usable, but may have some bugs. Documentation,
+particularly of new features, will be less comprehensive than that of the
+Standard version. Users who already have some experience with OmegaT often
+prefer the Latest version.</p>
 
 <table class="table table-striped downloads">
   <thead>
     <tr>
-      <th>Piattaforma</th>
-      <th>Istruzioni dettagliate</th>
+      <th>Platform</th>
+      <th>Detailed instructions</th>
       <th></th>
     </tr>
   </thead>
   <tbody>
-
 {% for platform in site.data.downloads.latest.platforms %}
- 
  <tr id="{{ platform.id }}">
       <td class="version-name">{% translate platform.name %}</td>
       <td>
-      
       {% if platform.noInfo != true %}
-          
-          <span rel="popover" data-platform="{{ platform.name }}" data-title="{% translate platform.name %}" data-content="" class="glyphicon glyphicon-info-sign"><!----></span>
-      
+          <span rel="popover" data-platform="{{ platform.name }}" data-title="{% translate platform.name %}" data-content="" class="glyphicon glyphicon-info-sign"> </span>
       {% endif %}
-      
       </td>
       <td>
-      {% if platform.link != null %} <a class="btn btn-primary version-download" href="{{ platform.link }}" role="button">Scarica</a></td>
-      {% else %} <a class="btn btn-primary version-download" href="{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.latest.folder }}/{{ site.data.versions.latest.name }}/OmegaT_{{ site.data.versions.latest.version }}_{{ platform.fileName}}/download" role="button">Scarica</a></td>
-      
+      {% if platform.link != null %}
+        <a class="btn btn-primary version-download" href="{{ platform.link }}" role="button">Download</a></td>
+      {% else %}
+        <a class="btn btn-primary version-download" href="{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.latest.folder }}/{{ site.data.versions.latest.name }}/OmegaT_{{ site.data.versions.latest.version }}_{{ platform.fileName}}/download" role="button">Download</a></td>
       {% endif %}
-      
       </td>
   </tr>
-
 {% endfor %}
-  
   </tbody>
 
 </table>
+-->
+
 
 <h3 id="downloadTrunk">Versione per gli sviluppatori</h3>
 
