@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="chapter.installing.and.running">
-  <title>Installare e avviare <application>OmegaT</application></title>
+  <title>Installazione e avvio di <application>OmegaT</application></title>
 
   <section>
     <title id="Windows.users">Utenti di Windows</title>
 
     <section>
-      <title id="which.package.to.download.windows">Scaricare il pacchetto</title>
+      <title id="which.package.to.download.windows">Scaricamento del pacchetto</title>
 
-      <para>Si ha un'implementazione Java compatibile con Java 8 JRE di Oracle?</para>
+      <para>Si possiede un'implementazione Java compatibile con Java 8 JRE di Oracle?</para>
 
       <itemizedlist>
         <listitem>
@@ -35,7 +35,7 @@
     <section id="running.OmegaT.Windows">
       <title>Avvio di <application>OmegaT</application></title>
 
-      <para>Una volta installato <application>OmegaT</application>, è possibile avviarlo sia facendo clic direttamente su <filename>OmegaT.jar</filename> , sia da riga di comando.</para>
+      <para>Una volta installato, è possibile avviare <application>OmegaT</application> sia facendo clic direttamente su <filename>OmegaT.jar</filename> , sia da riga di comando.</para>
 
       <para>Il metodo più semplice per avviare OmegaT è, comunque, eseguire il programma <filename>OmegaT.exe</filename>. In questo caso, le opzioni per l'avvio del programma saranno lette dal file <filename>OmegaT.l4J.ini</filename>, che si trova nella stessa cartella del file eseguibile e che può essere modificato affinché rispecchi le proprie impostazioni. L'esempio di file INI che segue riserva 1 GB di memoria, richiede il francese come lingua dell'utente e il Canada come nazione:</para>
 
@@ -92,9 +92,9 @@
     <title>Utenti di Linux (Intel)</title>
 
     <section id="which.package.to.download.Linux">
-      <title>Scaricare il pacchetto corretto</title>
+      <title>Scaricamento del pacchetto corretto</title>
 
-      <para>Si ha un'implementazione Java compatibile con Java 8 JRE di Oracle?</para>
+      <para>Si possiede un'implementazione Java compatibile con Java 8 JRE di Oracle?</para>
 
       <itemizedlist>
         <listitem>
@@ -118,7 +118,7 @@
     </section>
 
     <section id="adding.OmegaT.to.your.menus.or.panels">
-      <title>Aggiungere <application>OmegaT</application> ai propri menu (KDE) o ai pannelli (Gnome)</title>
+      <title>Aggiunta di <application>OmegaT</application> ai menu (KDE) o ai pannelli (Gnome)</title>
 
       <section id="KDE.users">
         <title>Utenti di KDE 4</title>
@@ -184,7 +184,7 @@
     <title>Utenti di macOS</title>
 
     <section id="which.package.to.download.OSX">
-      <title>Scaricare il pacchetto</title>
+      <title>Scaricamento del pacchetto</title>
 
       <para><application>OmegaT</application> contiene Java JRE 1.8</para>
 
@@ -214,7 +214,7 @@
 
       <para>Le opzioni vengono cambiate modificando <filename>Configuration.properties</filename>. Per ottenere delle opzioni predefinite, abilitare un parametro rimuovendo il carattere <literal>#</literal> all'inizio della riga. Per esempio, <literal>user.language=ja</literal> (senza <literal>#</literal>) avvierà <application>OmegaT</application> con l'interfaccia giapponese.</para>
 
-      <para>Per cambiare la quantità di memoria disponibile, modificare il file <filename>OmegaT.app/Contents/MacOS/OmegaT</filename> e rimuovere <literal>#</literal> prima della voce <literal>MEMORY=-Xmx<parameter>?</parameter>g</literal>. Per esempio, <literal>MEMORY=-Xmx6g</literal> avvierà OmegaT con 6 GB di memoria.</para>
+      <para>Per cambiare la quantità di memoria disponibile, modificare il file <emphasis>OmegaT.app/Contents/Info.plist</emphasis> e decommentare la riga <literal>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</literal> rimuovendo <literal>&lt;!--</literal> e <literal>--&gt;</literal>. OmegaT sarà avviato con 6 GB di memoria; cambiare <literal>6g</literal> con la quantità prescelta.</para>
 
       <para>Per avviare più istanze di <filename>OmegaT.app</filename>, fare doppio clic sul file <emphasis>OmegaT</emphasis> che si trova in <filename>OmegaT.app/Contents/MacOS/</filename>.</para>
 
@@ -234,11 +234,11 @@
     <para>Queste informazioni sono valide per sistemi tipo Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</para>
 
     <section>
-      <title id="which.package.to.download.other">Scaricare il pacchetto corretto</title>
+      <title id="which.package.to.download.other">Scaricamento del pacchetto corretto</title>
 
       <para><application>OmegaT</application> è disponibile con Oracle Java JRE per le piattaforme Linux (Intel x86) e Windows. Per essere in grado di usare <application>OmegaT</application>, gli utenti di piattaforme differenti (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64, e via discorrendo) devono avere installato un JRE Java compatibile e funzionante sul proprio sistema.</para>
 
-      <para>Si ha un'implementazione Java compatibile con Java 8 JRE di Oracle?</para>
+      <para>Si possiede un'implementazione Java compatibile con Java 8 JRE di Oracle?</para>
 
       <itemizedlist>
         <listitem>
@@ -306,7 +306,7 @@
     <para>Non è, in genere, necessario avviare <application>OmegaT</application> da riga di comando. Questa alternativa, tuttavia, consente all'utente di controllare e modificare il comportamento del programma. Esistono due modi per avviare <application>OmegaT</application> dalla riga di comando.</para>
 
     <section id="method1.opening.commandline.window">
-      <title>Aprire una finestra di terminale</title>
+      <title>Apertura di una finestra di terminale</title>
 
       <para>Una finestra a riga di comando viene anche chiamata &quot;finestra di terminale&quot;. In Windows è chiamata &quot;finestra MS-DOS&quot; ed è disponibile all'interno dei Programmi nel menu Start, tramite la voce &quot;MS-DOS&quot;. L'equivalente macOS è l'applicazione Terminale, che si trova in <filename>Applicazioni/Utilità</filename>.</para>
 

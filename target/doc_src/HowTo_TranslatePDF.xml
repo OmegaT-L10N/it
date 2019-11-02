@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="howto.translatepdf">
-  <title>Traduzione un file PDF</title>
+  <title>Traduzione di un file PDF</title>
 
 <para>I file PDF sono da considerare un caso speciale. Essi contengono informazioni di formattazione relative al testo, le quali non possono essere riutilizzate da <application>OmegaT</application> per creare file di arrivo. I file PDF sono dunque trattati come file di solo testo, e i file che si ottengono sono file di solo testo.</para>
   <para>Se nella traduzione si ha bisogno di riprodurre la formattazione del testo (così come elementi, per esempio, come i disegni), si può procedere in tre modi:</para>

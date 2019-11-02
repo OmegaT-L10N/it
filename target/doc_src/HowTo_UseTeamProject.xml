@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="howto.useteamproject">
-  <title>Uso di progetto in collaborazione</title>
+  <title>Uso di progetti in collaborazione</title>
 
   <para>Innanzitutto i progetti in collaborazione di OmegaT devono essere <link linkend="howto.setupteamproject">configurati</link> in un server.</para>
 
