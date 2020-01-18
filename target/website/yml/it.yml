@@ -9,6 +9,7 @@ menu:
   contact: Contact
   download: Download
   resources: Resources
+  support: Support
 
 footer:
   connect: Connect
@@ -19,6 +20,7 @@ titles:
   404: Page Not Found
   about: About
   contact: Contact and Support
+  support: Support
   documentation: Documentation
   download: Download
   home: OmegaT - The Free Translation Memory Tool
@@ -52,7 +54,7 @@ titles:
 windows_jre: Windows with JRE
 windows_jre64b: Windows with 64-bit JRE
 windows_nojre: Windows without JRE
-osx_signed: OS X Signed
+osx_signed: OS X Notarized
 osx_unsigned: OS X Unsigned
 linux_jre: Linux with JRE
 linux_jre64b: Linux with 64-bit JRE
