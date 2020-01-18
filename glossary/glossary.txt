@@ -1,74 +1,38 @@
 OmegaT	OmegaT
-has	ha
-chosen	scelto
 automatically	automaticamente
 option	opzione
 options	opzioni
-none	nessuna
 launch	avvio
 GUI	interfaccia grafica
-only	solo
 path	percorso
 project	progetto
-and	e
-load	caricamento
 project team	progetto in collaborazione
-specified	specifico
 details	dettagli
-for	per
 invoke	invocare
-show	mostra
 usage information	informazioni sull'uso
-download	scarica
-an	un
 omegat.project file	file omegat.project
 from the URL	dall'URL
-given	specificato
-as	come
-load	carica
-the	il
 specify	specifica
-a	un
-mode	modo
-other	oltre
-default	predefinito
-see	vedere
-below	sotto
-Java	Java
 from which	da cui
-to load	caricare
 default settings	impostazioni predefinite
 Java .properties file	file Java .properties
-use	usare
 interface text	testo dell'interfaccia
 directory	cartella
 read/write	leggere/scrivere
 configuration	configurazione
-from/to	da/in
 do not attempt	non tentare di
 to lock	bloccare
 project's	del progetto
 do not remember	non memorizzare
-the last	l'ultima
-opened	aperta
-in the	nella
-file picker	cronologia di apertura file
-aisable	disabilita
 functionality	funzionalità
-disable	disabilita
 command line stdout	stdout della riga di comando
-to	allo
-reduce	riduce
 output	output
 script file	file di script
 to be executed	da eseguire
-on	in base a
 project events	eventi del progetto
 validate tags	convalida dei tag
 with	con
 error	errore
-tags	i tag
-invalid	non validi
 if	se
 exit	esci
 regex whitelist	lista bianca regex
@@ -77,46 +41,25 @@ process	elaborare
 pseudotranslated	pseudotradotto
 output	uscita
 what	che cosa
-to fill	popolare
 TMX	file TMX
-containing	contenente
 translated files	file tradotti
 help	aiuto
 user's manual	manuale dell'utente
-more	altre
 information	informazioni
 commands	comandi
-initialize	inizializza
-minimal	minimo
 languages	lingue
 working tree	albero di lavoro
 results	risultati
-the	i
-place	posiziona
 supplemental material	materiale aggiuntivo
-required	richiesto
-then	poi
 commit	esegue il commit
-everything	tutto
 filter	filtro
-re&move	eli&mina
-replace	sostituisci
-all	tutto
 confirm	conferma
 ran out of	ha esaurito
 memory	memoria
 will quit	sarà terminato
 you may try to	si può cercare di
-solve	risolvere
 problem	problema
-following	seguenti
-ways	modi
-reduce	ridurre
 number	numero
-of	di
-translate	tradurre
-batches	batch
-increase	aumentare
 amount	quantità
 available	disponibile
 by specifying	specificando
@@ -125,7 +68,6 @@ start script	script di avvio
 setting	impostazione
 current	attuale
 is	è
-or	o
 chapter	capitolo
 installing	installare
 will terminate	sarà terminato
@@ -133,21 +75,16 @@ now	ora
 running	esecuzione
 on	su
 usage	uso
-of which	di cui
-which	cui
 free memory	memoria libera
-maximum	massimo
 does not	non
 contain	contiene
 any files	alcun file
 supported	supportati
 file format	formato di file
 do not	non
-apply	si applicano
-checked	spuntato
 machine translation	traduzione automatica
 alphabetical order	ordine alfabetico
-localisation manager	manager della localisazzazione
+localisation manager	manager della localizzazione
 manager	responsabile
 integration	integrazione
 documentation	documentazione
@@ -158,59 +95,34 @@ group	gruppo
 support	supporto
 localization	localizzazione
 lead	capo
-developper	sviluppatore
+developer	sviluppatore
 release	edizione
-co-ordinator	co-ordinatore
-very helpful	utilissime
+co-ordinator	coordinatore
 people	persone
-many, many	tantissime
-you think	ritenete
-have	aver
 significantly	in modo significativo
 contributed	contribuito
 OmegaT Project	progetto OmegaT
-your	vostro
-name	nome
 contact us	contattateci
 links	collegamenti
 info	informazioni
-most current	più aggiornate
-about	su
-can	possono
-be	essere
-found	reperite
 multilingual	multilingue
-where	in cui
 archives	archivi
 without	senza
 subscription	iscrizione
 user group	gruppo utenti
 enhancements	miglioramenti
 requests	richieste
-remove	rimuove
 documents	documenti
-from	dai
-no	nessun
-loaded	caricato
-files	file
-selected	scelte
 converting	conversione
 clean	ripulire
-finished	ha finito
 reloading	ricaricamento
 input file	file di partenza
-creating	creazione
 output file	file di output
-entry	entrata
 cleaning	ripulitura del
-level	livello
-level	livellare
 beautify	abbellire
 convert	convertire
 moving	spostamento del
 original	originale
-to	a
-cleaned	ripulito
 backup	fare copia di riserva
 resulting	risultante
 DOCX file	file DOCX
