@@ -1,41 +1,5 @@
 <div class="container">
 
-  <div class="text-md-center">
-  <h3>Autori dei contenuti del sito web</h3>
-  <ul class="list-unstyled">
-    
-    {% for author in site.data.credits.website %}
-      
-      <li>{{ author }}</li>
-    
-    {% endfor %}
-  
-  </ul>
-
-  <h3>Struttura del sito web</h3>
-  <ul class="list-unstyled">
-    <li>Briac Pilpré</li>
-  </ul>
-
-  
-
-  {% if site.lang != "en" %}
-  
-  <h3>Traduttori della versione inglese</h3>
-  <ul class="list-unstyled">
-    
-    {% for translator in site.data.credits.translators[site.lang] %}
-      
-      <li>{{ translator }}</li>
-    
-    {% endfor %}
-  
-  </ul>
-  
-  {% endif %}
-  
-  </div>
-
   <h2>Il progetto OmegaT</h2>
   <p>Il progetto OmegaT è mantenuto da un gruppo internazionale, informale, di volontari. Il suo scopo è quello di sviluppare, distribuire e supportare l'utilizzo di OmegaT, un'applicazione software open-source di memoria di traduzione.</p>
   <p>I membri principali del progetto sono:</p>
@@ -49,7 +13,7 @@
     <h3>Responsabile dell'integrazione</h3>
     <p>Aaron Madlon-Kay</p>
     <h3>Responsabile sito web</h3>
-    <p>Marc Prior</p>
+    <p>Briac Pilpré</p>
     <h3>Responsabile della documentazione</h3>
     <p>Vincent Bidaux</p>
     <h3>Responsabile della localizzazione, proprietario del gruppo utenti</h3>
@@ -63,6 +27,38 @@
     
     </ul>
   </div>
+
+  <div class="text-md-center">
+    <h3>Autori dei contenuti del sito web</h3>
+    <ul class="list-unstyled">
+      
+      {% for author in site.data.credits.website %}
+        
+        <li>{{ author }}</li>
+      
+      {% endfor %}
+    
+    </ul>
+
+    
+
+    {% if site.lang != "en" %}
+    
+    <h3>Traduttori della versione inglese</h3>
+    <ul class="list-unstyled">
+      
+      {% for translator in site.data.credits.translators[site.lang] %}
+        
+        <li>{{ translator }}</li>
+      
+      {% endfor %}
+    
+    </ul>
+    
+    {% endif %}
+    
+    </div>
+
   <p>La filosofia del progetto è descritta <a href="philosophy.html">qui</a>.</p>
   <p>Fin dall'inizio il progetto, ha ricevuto il sostegno di decine di altri collaboratori, troppo numerosi da menzionare qui, ma per il cui aiuto siamo molto grati.</p>
 </div>

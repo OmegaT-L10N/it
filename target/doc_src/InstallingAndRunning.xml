@@ -569,7 +569,7 @@
   <section id="building.OmegaT.from.source">
     <title>Costruire un pacchetto <application>OmegaT</application> dai sorgenti</title>
 
-    <para>I file sorgente della versione corrente si possono scaricare con un client SVN dal deposito <ulink url="svn://svn.code.sf.net/p/omegat/svn/trunk"/> o direttamente da <ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk">SourceForge</ulink>.</para>
+    <para>I file sorgente della versione corrente si possono scaricare con un client Git dal deposito <ulink url="https://git.code.sf.net/p/omegat/code"/> o direttamente da <ulink url="https://sourceforge.net/p/omegat/code/ci/master/tarball?path=">SourceForge</ulink>.</para>
 
     <para>Una volta scaricato il codice, aprire la riga di comando nella cartella dei file di partenza e digitare:</para>
 
