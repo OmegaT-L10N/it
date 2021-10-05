@@ -44,7 +44,6 @@ titles:
      ms_translator: Howto - Using Microsoft Translator in OmegaT
      new_filter: Howto - Creating a new file filter
      preview: Howto - Adding a preview function to OmegaT
-     priorview: Howto - The "Priorview" preview utility
      prop12m: Propagation and one-to-many matching HowTo
      spelling: Howto - Spellchecking
      text_export: Howto - Using the OmegaT text export function (scripting interface)
@@ -54,11 +53,10 @@ titles:
 windows_jre: Windows with JRE
 windows_jre64b: Windows with 64-bit JRE
 windows_nojre: Windows without JRE
-osx_signed: OS X Notarized
-osx_unsigned: OS X Unsigned
+osx_signed: macOS Notarized
+osx_unsigned: macOS Unsigned
 linux_jre: Linux with JRE
 linux_jre64b: Linux with 64-bit JRE
 nojre: Cross-platform without JRE
 webstart: Web Start
 source: Source code
-

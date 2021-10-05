@@ -20,43 +20,28 @@
     <p>Kos Ivantsov</p>
     <h3>Sviluppatori</h3>
     <ul class="list-unstyled">
-      
       {% for dev in site.data.contributors %}
       {% if dev.name.size &gt; 0 %}<li>{{ dev.name }}</li>{% endif %}
       {% endfor %}
-    
     </ul>
   </div>
 
   <div class="text-md-center">
     <h3>Autori dei contenuti del sito web</h3>
     <ul class="list-unstyled">
-      
       {% for author in site.data.credits.website %}
-        
         <li>{{ author }}</li>
-      
       {% endfor %}
-    
     </ul>
-
-    
 
     {% if site.lang != "en" %}
-    
     <h3>Traduttori della versione inglese</h3>
     <ul class="list-unstyled">
-      
       {% for translator in site.data.credits.translators[site.lang] %}
-        
         <li>{{ translator }}</li>
-      
       {% endfor %}
-    
     </ul>
-    
     {% endif %}
-    
     </div>
 
   <p>La filosofia del progetto è descritta <a href="philosophy.html">qui</a>.</p>
