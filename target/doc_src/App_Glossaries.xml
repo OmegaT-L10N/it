@@ -9,20 +9,20 @@
 
   <para>A prescindere dal numero di glossari contenuti in un progetto, qualsiasi termine di un segmento che abbia un riscontro all'interno di un glossario verrà visualizzato nel pannello Glossario.</para>
 
-  <section>
+  <section id="glossaries.defaultglossary">
     <title>Glossario predefinito</title>
 
-    <para>Il glossario predefinito modificabile si trova nella cartella del progetto <filename>/glossary</filename> ed è chiamato <filename>glossary.txt</filename>.</para>
+    <para>Il glossario predefinito modificabile si trova nella cartella del progetto <filename class="directory">glossary</filename> ed è chiamato <filename>glossary.txt</filename>.</para>
 
-    <para>È possibile modificare il nome e la posizione del glossario all'interno della finestra di dialogo delle proprietà del progetto, ma deve possedere l'estensione <filename>.txt</filename> o <filename>.utf8</filename> e la sua posizione deve essere all'interno della cartella del progetto <filename>/glossary</filename>.</para>
+    <para>È possibile modificare il nome e la posizione del glossario all'interno della finestra di dialogo delle proprietà del progetto, ma deve possedere l'estensione <filename>.txt</filename> o <filename>.utf8</filename> e la sua posizione deve essere all'interno della cartella del progetto <filename class="directory">glossary</filename>.</para>
 
     <para>Non è obbligatorio che il file esista, esso verrà creato quando si aggiunge la prima voce di glossario. Se il file esiste già, non sarà fatta alcuna verifica sul formato o sul gruppo di caratteri del file: le nuove voci saranno sempre aggiunte in formato con spazi separati da tabulazione e il file verrà salvato con codifica UTF-8.</para>
   </section>
 
-  <section>
+  <section id="glossaries.usage">
     <title>Uso</title>
 
-    <para>Per utilizzare un glossario esistente, sarà sufficiente inserirlo nella cartella <filename>/glossary</filename> dopo aver creato il progetto. <application>OmegaT</application> OmegaT, quando apre un progetto, rileva automaticamente i file di glossario presenti in questa cartella.</para>
+    <para>Per utilizzare un glossario esistente, sarà sufficiente inserirlo nella cartella <filename class="directory">glossary</filename> dopo aver creato il progetto. OmegaT, quando apre un progetto, rileva automaticamente i file di glossario presenti in questa cartella.</para>
 
     <para>Per aggiungere un nuovo termine al glossario modificabile, utilizzare il comando <guimenuitem>Modifica</guimenuitem> &gt; <guimenuitem>Crea voce di glossario</guimenuitem> (<keycap>Ctrl+Maiusc+G</keycap>). Le nuove voci di glossario saranno disponibili immediatamente. Per aggiungere nuovi termini ai glossari di riferimento, modificateli con un editor di testo esterno. Le nuove voci di glossario saranno disponibili al salvataggio delle modifiche.</para>
 
@@ -37,7 +37,7 @@
     <para>Utilizzare <guimenuitem>Vista</guimenuitem> &gt; <guimenuitem>Evidenzia le concordanze di glossario</guimenuitem> per sottolineare le voci con concordanza nel segmento di partenza. Fare clic col pulsante destro del mouse sul termine sottolineato e selezionare il termine di arrivo per inserirlo nella posizione del cursore all'interno del segmento di arrivo.</para>
   </section>
 
-  <section>
+  <section id="glossaries.fileformat">
     <title>Formato dei file</title>
 
     <para>I file di glossario OmegaT sono dei semplici file di solo testo composti da elenchi su tre colonne, col termine di partenza nella prima colonna, un termine di arrivo opzionale nella seconda colonna e un commento, sempre opzionale, nella terza.</para>
@@ -62,17 +62,17 @@
       </tbody>
     </table>
 
-    <para>I glossari devono risiedere all'interno della cartella del progetto <filename>/glossary</filename>. Vengono riconosciuti anche i glossari contenuti nelle cartelle nidificate.</para>
+    <para>I glossari devono risiedere all'interno della cartella del progetto <filename class="directory">glossary</filename>. Vengono riconosciuti anche i glossari contenuti nelle cartelle nidificate.</para>
   </section>
 
-  <section>
+  <section id="glossaries.commonproblems">
     <title>Problemi comuni dei glossari</title>
 
     <para><emphasis role="bold">Problema: non è visualizzato alcun termine di glossario - cause possibili:</emphasis></para>
 
     <itemizedlist>
       <listitem>
-        <para>Non sono presenti file di glossario nella cartella &quot;glossary&quot;.</para>
+        <para>Non sono presenti file di glossario nella cartella <filename class="directory">glossary</filename>.</para>
       </listitem>
     </itemizedlist>
 

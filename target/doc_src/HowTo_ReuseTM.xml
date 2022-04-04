@@ -5,11 +5,11 @@
 
   <para>In principio, quando si crea il progetto, la memoria di traduzione principale, <filename>project_save.tmx</filename>, è vuota. Essa viene popolata gradualmente durante la traduzione. Per velocizzare il processo, possono essere riutilizzate le memorie esistenti. Se una frase specifica è stata già tradotta correttamente una volta, non è necessario che venga tradotta nuovamente. Le memorie di traduzione possono contenere anche traduzioni di collegamenti: la legislazione multinazionale, come quella della Comunità Europea, è un tipico esempio.</para>
 
-  <para>Quando, in un progetto <application>OmegaT</application>, si creano i documenti di arrivo, la sua memoria di traduzione viene memorizzata sotto forma di tre file all'interno della cartella principale del progetto <application>OmegaT</application> cui fa riferimento (si veda la descrizione sopra). È possibile considerare questi tre file tmx (<filename>-omegat.tmx</filename>, <filename>-level1.tmx</filename> e <filename>-level2.tmx</filename>) come una &quot;memoria di traduzione da esportazione&quot;, ossia come un'esportazione del contenuto dell'attuale progetto in formato bilingue.</para>
+  <para>Quando, in un progetto OmegaT, si creano i documenti di arrivo, la memoria di traduzione del progetto viene memorizzata sotto forma di tre file all'interno della cartella principale del progetto OmegaT cui fa riferimento (si veda la descrizione sopra). È possibile considerare questi tre file tmx (<filename>-omegat.tmx</filename>, <filename>-level1.tmx</filename> e <filename>-level2.tmx</filename>) come una &quot;memoria di traduzione da esportazione&quot;, ossia come un'esportazione del contenuto dell'attuale progetto in formato bilingue.</para>
 
-  <para>Si potrebbe voler riutilizzare una memoria di traduzione di un progetto precedente (per esempio, perché il nuovo progetto è simile al precedente, oppure perché utilizza una terminologia simile): è possibile usare queste memorie come &quot;memorie di traduzione di immissione&quot;, ad esempio da importare all'interno del nuovo progetto. In tal caso, copiare le memorie di traduzione che si desidera utilizzare nella cartella <emphasis>/tm</emphasis> o <emphasis>/tm</emphasis>/auto del nuovo progetto: nel primo caso si otterranno risultati da queste memorie di traduzione nel riquadro delle corrispondenze parziali, nel secondo le memorie verranno usate per tradurre subito il testo di partenza.</para>
+  <para>Si potrebbe voler riutilizzare una memoria di traduzione di un progetto precedente (per esempio, perché il nuovo progetto è simile al precedente, oppure perché utilizza una terminologia simile): è possibile usare queste memorie come &quot;memorie di traduzione di immissione&quot;, ad esempio da importare all'interno del nuovo progetto. In tal caso, copiare le memorie di traduzione che si desidera utilizzare nella cartella <filename class="directory">/tm</filename> o <filename class="directory">tm/auto</filename> del nuovo progetto: nel primo caso si otterranno risultati da queste memorie di traduzione nel riquadro delle corrispondenze parziali, nel secondo le memorie verranno usate per tradurre subito il testo di partenza.</para>
 
-  <para>Per impostazione predefinita, la cartella /tm è contenuta all'interno della cartella principale del progetto (per es. <emphasis>/MioProgetto/tm</emphasis>), ma è possibile scegliere una cartella diversa nella finestra di dialogo delle proprietà. Tale metodo è utile se si usano spesso memorie di traduzione create in precedenza, per esempio perché si occupano dello stesso argomento o sono legate a uno stesso cliente. In questo caso, un metodo da seguire potrebbe essere:</para>
+  <para>Per impostazione predefinita, la cartella <filename class="directory">tm</filename> è contenuta all'interno della cartella principale del progetto (per es. <filename class="directory">MioProgetto/tm</filename>), ma è possibile scegliere una cartella diversa nella finestra di dialogo delle proprietà. Tale metodo è utile se si usano spesso memorie di traduzione create in precedenza, per esempio perché si occupano dello stesso argomento o sono legate a uno stesso cliente. In questo caso, un metodo da seguire potrebbe essere:</para>
 
   <itemizedlist>
     <listitem>
@@ -56,19 +56,19 @@
 
     <itemizedlist>
       <listitem>
-        <para>Copiare i documenti, sarà necessaria la memoria di traduzione per essi, all'interno della cartella di partenza del progetto.</para>
+        <para>Copiare i documenti, sarà necessaria la memoria di traduzione per essi, all'interno della cartella di partenza (<filename class="directory">source</filename>) del progetto.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Copiare le memorie di traduzione, contenenti le traduzioni dei documenti sopra citati, all'interno della sotto-cartella <filename>tm/auto</filename> del nuovo progetto.</para>
+        <para>Copiare le memorie di traduzione, contenenti le traduzioni dei documenti sopra citati, all'interno della sottocartella <filename class="directory">tm/auto</filename> del nuovo progetto.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Avviare il progetto. Verificare possibili errori nei tag con <keycap>Ctrl+T</keycap> e segmenti non tradotti con <keycap>Ctrl+U</keycap>. Per verificare il risultato finale atteso, è possibile premere <keycap>Ctrl+D</keycap> per creare i documenti di arrivo e controllarne il contenuto.</para>
+        <para>Avviare il progetto. Verificare possibili errori nei tag con <keycombo><keycap>Ctrl</keycap><keycap>T</keycap></keycombo> e segmenti non tradotti con <keycombo><keycap>Ctrl</keycap><keycap>U</keycap></keycombo>. Per verificare il risultato finale atteso, è possibile premere <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo> per creare i documenti di arrivo e controllarne il contenuto.</para>
       </listitem>
     </itemizedlist>
 
@@ -98,7 +98,7 @@
 
     <para>Potrebbero verificarsi casi in cui è stato creato un progetto, per esempio, con file di origine olandese e una traduzione, diciamo, in Inglese. Si ha ora necessità di una traduzione in Cinese, ma la traduttrice non conosce l'Olandese; ella, tuttavia, padroneggia perfettamente l'Inglese. In questo caso, la memoria di traduzione NL-EN può servire da ponte per aiutare a generare la traduzione da NL a ZH.</para>
 
-    <para>La soluzione, nel nostro esempio, è copiare la memoria di traduzione esistente all'interno della sotto-cartella tm/tmx2source/ e rinominarla ZH_CN.tmx per indicare la lingua di destinazione della tmx. Alla traduttrice si presenteranno traduzioni in Inglese per i segmenti di partenza in Olandese, che saranno usate per creare la traduzione in Cinese.</para>
+    <para>La soluzione, nel nostro esempio, è copiare la memoria di traduzione esistente all'interno della sottocartella <filename class="directory">tm/tmx2source/</filename> e rinominarla ZH_CN.tmx per indicare la lingua di destinazione della tmx. Alla traduttrice si presenteranno traduzioni in Inglese per i segmenti di partenza in Olandese, che saranno usate per creare la traduzione in Cinese.</para>
 
     <para><emphasis role="bold">Importante: </emphasis>la TMX di aiuto deve essere rinominata XX_YY.tmx, dove XX_YY è la lingua di destinazione della tmx, per esempio in ZH_CN.tmx, nell'esempio sopra riportato. Il progetto e le lingue di origine della TMX devono essere, ovviamente, identiche - NL nel nostro esempio. Si noti che è possibile solo una TMX per una coppia linguistica specifica, perciò, nel caso in cui fossero presenti più memorie, sarà necessario unirle tutte all'interno del file XX_YY.tmx.</para>
   </section>

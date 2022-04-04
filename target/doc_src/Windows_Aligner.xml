@@ -5,7 +5,7 @@
 
   <para>L'allineamento comporta la creazione di una memoria di traduzione bilingue da documenti monolingue che sono stati già tradotti.</para>
 
-  <para>Per accedere a questa finestra, selezionare <menuchoice> <guimenuitem>Strumenti</guimenuitem> <guimenuitem>Allinea file...</guimenuitem> </menuchoice>.</para>
+  <para>Per accedere a questa finestra, selezionare <menuchoice><guimenu>Strumenti</guimenu><guimenuitem>Allinea file...</guimenuitem></menuchoice>.</para>
 
   <section>
     <title>Passaggio 1: regolare i parametri di allineamento</title>
@@ -36,7 +36,7 @@
       </listitem>
 
       <listitem>
-        <para>Premere la barra spaziatrice (scorciatoia per <menuchoice> <guimenuitem>Modifica</guimenuitem> <guimenuitem>Avvia allineamento millimetrico</guimenuitem> </menuchoice>).</para>
+        <para>Premere la barra spaziatrice (scorciatoia per <menuchoice><guimenu>Modifica</guimenu><guimenuitem>Avvia allineamento millimetrico</guimenuitem> </menuchoice>).</para>
       </listitem>
 
       <listitem>
@@ -44,7 +44,7 @@
       </listitem>
     </orderedlist>
 
-    <para>Dopo aver compiuto varie volte questa operazione, selezionare <menuchoice> <guimenuitem>Modifica</guimenuitem> <guimenuitem>Riallinea In sospeso</guimenuitem> </menuchoice> per aggiornare l'allineamento degli altri segmenti.</para>
+    <para>Dopo aver compiuto varie volte questa operazione, selezionare <menuchoice><guimenu>Modifica</guimenu><guimenuitem>Riallinea In sospeso</guimenuitem></menuchoice> per aggiornare l'allineamento degli altri segmenti.</para>
 
     <para>Per modificare singolarmente la posizione di uno o più segmenti, selezionare il segmento, o i segmenti, e premere <userinput>U</userinput> (<guilabel>Sposta in alto</guilabel>) o <userinput>D</userinput> (<guilabel>Sposta in basso</guilabel>).</para>
 

@@ -3,9 +3,9 @@
 <section id="howto.preventdataloss">
   <title>Prevenzione della perdina di dati</title>
 
-  <para><application>OmegaT</application> è un'applicazione stabile. Tuttavia, sarebbe bene adottare le opportune precauzioni per evitare, quando si lavora con <application>OmegaT</application>, la possibile perdita dei dati, proprio come si dovrebbe fare con una qualsiasi altra applicazione. Quando si traducono i file, <application>OmegaT</application> memorizza tutte le modifiche nella memoria di traduzione <literal>project_save.tmx</literal> nella sotto-cartella <literal>/omegat</literal> del progetto.</para>
+  <para>OmegaT è un'applicazione stabile. Tuttavia, sarebbe bene adottare le opportune precauzioni per evitare, quando si lavora con OmegaT, la possibile perdita dei dati, proprio come si dovrebbe fare con una qualsiasi altra applicazione. Quando si traducono i file, OmegaT memorizza tutte le modifiche nella memoria di traduzione <filename>project_save.tmx</filename> che si trova nella sottocartella <filename class="directory">omegat</filename> del progetto.</para>
 
-  <para>OmegaT, inoltre, nella stessa sotto-cartella, e ogni volta che un progetto viene aperto o ricaricato, crea anche file di backup della memoria di traduzione, ai quali assegna il nome project_save.tmx.ANNOMMGGHHNN.bak. ANNO è l'anno espresso in 4 cifre, MM è il mese, GG è il giorno del mese, HH e NN corrispondono alle ore e ai minuti in cui è stata salvata la precedente memoria di traduzione.</para>
+  <para>OmegaT, inoltre, nella stessa sottocartella, e ogni volta che un progetto viene aperto o ricaricato, crea anche file di backup della memoria di traduzione, ai quali assegna il nome project_save.tmx.ANNOMMGGHHNN.bak. ANNO è l'anno espresso in 4 cifre, MM è il mese, GG è il giorno del mese, HH e NN corrispondono alle ore e ai minuti in cui è stata salvata la precedente memoria di traduzione.</para>
 
   <para>Se si ritiene di aver perso i dati di traduzione, è possibile seguire la procedura seguente, che permetterà di ripristinare il progetto al punto di salvataggio più recente, in genere non più vecchio di circa dieci minuti:</para>
 
@@ -23,7 +23,7 @@
     </listitem>
 
     <listitem>
-      <para>rinominarla in <literal>project_save.tmx</literal></para>
+      <para>rinominarla <filename>project_save.tmx</filename></para>
     </listitem>
 
     <listitem>
@@ -35,21 +35,21 @@
 
   <itemizedlist>
     <listitem>
-      <para>Effettuare regolarmente copie del file /omegat/project_save.tmx su periferiche di backup, come CD o DVD.</para>
+      <para>Effettuare regolarmente copie del file <filename>/omegat/project_save.tmx</filename> su periferiche di backup come CD o DVD.</para>
     </listitem>
 
     <listitem>
-      <para>Fino a quando non si sarà familiarizzato con <application>OmegaT</application>, creare file finali a intervalli regolari e controllare che contengano l'ultima versione della traduzione.</para>
+      <para>Fino a quando non si sarà familiarizzato con OmegaT, creare file finali a intervalli regolari e controllare che i file tradotti contengano l'ultima versione della traduzione.</para>
     </listitem>
 
     <listitem>
-      <para>Prestare particolare attenzione quando si apportano modifiche ai file contenuti nella cartella <literal>/source</literal> mentre ci si trova a un livello intermedio del lavoro di traduzione. Se il file originale viene modificato dopo aver iniziato la traduzione, <application>OmegaT</application> potrebbe non essere più in grado di reperire un segmento che è stato precedentemente tradotto.</para>
+      <para>Prestare particolare attenzione quando si apportano modifiche ai file contenuti nella cartella <filename class="directory">source</filename> mentre ci si trova a un livello intermedio del lavoro di traduzione. Se il file originale viene modificato dopo aver iniziato la traduzione, OmegaT potrebbe non essere più in grado di reperire un segmento del file che è stato precedentemente tradotto.</para>
     </listitem>
   </itemizedlist>
 
   <itemizedlist>
     <listitem>
-      <para>Per le prime nozioni, usare questa guida. Nel caso in cui si dovessero presentare problemi, inviare un messaggio al <ulink url="https://omegat.org/support">Gruppo utenti di <application>OmegaT</application></ulink>. Non esitare a inviare un messaggio nella lingua che vi è più familiare.</para>
+      <para>Per le prime nozioni, usare questa guida. Nel caso in cui si dovessero presentare problemi, inviare un messaggio al <ulink url="https://omegat.org/support">Gruppo utenti di OmegaT</ulink>. Non esitare a inviare un messaggio nella lingua che vi è più familiare.</para>
     </listitem>
   </itemizedlist>
 </section>

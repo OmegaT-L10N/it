@@ -86,7 +86,7 @@
       <term>Esporta la selezione</term>
 
       <listitem>
-        <para>Esporta la selezione attiva in un file di testo per successiva elaborazione. Se non è stato selezionato alcun testo, nel file viene copiato il segmento originale attivo. Quando l'utente chiude <application>OmegaT</application>, questo file non è vuoto, in modo da essere coerente col normale comportamento degli Appunti. Il contenuto esportato viene copiato nel file <filename>selection.txt</filename>, memorizzato nella cartella delle preferenze dell'utente.</para>
+        <para>Esporta la selezione attiva in un file di testo per successiva elaborazione. Se non è stato selezionato alcun testo, nel file viene copiato il segmento originale attivo. Quando l'utente chiude OmegaT, questo file non è vuoto, in modo da essere coerente col normale comportamento degli Appunti. Il contenuto esportato viene copiato nel file <filename>selection.txt</filename> memorizzato nella cartella delle preferenze dell'utente.</para>
       </listitem>
     </varlistentry>
 
@@ -136,7 +136,7 @@
       <term>Commuta carattere in</term>
 
       <listitem>
-        <para>Commuta il carattere del testo selezionato nel segmento di destinazione in base all'opzione scelta (minuscolo, MAIUSCOLO, Prima lettera maiuscola o Prima frase maiuscola). Usare <keycombo> <keycap>Maiusc</keycap> <keycap>F3</keycap> </keycombo> per alternare da uno stato all'altro. Se non è selezionato alcun testo, <application>OmegaT</application> sceglie la parola che contiene una lettera immediatamente alla destra del cursore.</para>
+        <para>Commuta il carattere del testo selezionato nel segmento di destinazione in base all'opzione scelta (minuscolo, MAIUSCOLO, Prima lettera maiuscola o Prima frase maiuscola). Usare <keycombo> <keycap>Maiusc</keycap> <keycap>F3</keycap> </keycombo> per alternare da uno stato all'altro. Se non è selezionato alcun testo, OmegaT sceglie la parola che contiene una lettera immediatamente alla destra del cursore.</para>
       </listitem>
     </varlistentry>
 

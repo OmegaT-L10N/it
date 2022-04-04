@@ -6,7 +6,7 @@
   <section>
     <title>Come scaricare e installare dizionari</title>
 
-    <para>I dizionari in <application>OmegaT</application> sono basati sul formato StarDict o quello Lingvo DSL. Per installare i file necessari per il formato StarDict procedere come illustrato di seguito:</para>
+    <para>I dizionari in OmegaT sono basati sul formato StarDict o Lingvo DSL. Per installare i file necessari per il formato StarDict procedere come illustrato di seguito:</para>
 
     <itemizedlist>
       <listitem>
@@ -16,13 +16,13 @@
 
     <itemizedlist>
       <listitem>
-        <para>Scaricare il file - deve essere un archivio <filename>tarball</filename> (estensione <emphasis>tar.bz</emphasis> o <emphasis>tar.bz2</emphasis>).</para>
+        <para>Scaricare il - deve essere un archivio tarball (estensione <filename>tar.bz</filename> o <filename>tar.bz2</filename>).</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Usare untar (o il suo equivalente, per esempio, <filename> winrar</filename> in Windows) per estrarre il suo contenuto nella cartella del progetto &quot;Dictionary&quot;. Ci devono essere tre file, con le estensioni <emphasis>dz, idx </emphasis>e <emphasis>ifo</emphasis>.</para>
+        <para>Usare l'accessorio untar (o il suo equivalente, per esempio <filename> winrar</filename> in Windows) per estrarre il suo contenuto nella cartella del progetto <filename class="directory">dictionary</filename>. Ci devono essere tre file, con le estensioni <filename>dz, idx</filename> e <filename>ifo</filename>.</para>
       </listitem>
     </itemizedlist>
 
@@ -80,7 +80,7 @@
 
     <itemizedlist>
       <listitem>
-        <para>La cartella contiene tre file con lo stesso nome, con estensioni? Se solo un file è presente, verificarne l'estensione. Se si presenta come <emphasis>tar.bz</emphasis>, allora ci si è dimenticati di scompattarlo (untar).</para>
+        <para>La cartella contiene tre file con lo stesso nome, con estensioni? Se solo un file è presente, verificarne l'estensione. Se si presenta come <filename>tar.bz</filename>, allora ci si è dimenticati di scompattarlo (untar).</para>
       </listitem>
     </itemizedlist>
   </section>

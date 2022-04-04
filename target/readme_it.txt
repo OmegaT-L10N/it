@@ -1,4 +1,4 @@
-Questa traduzione è frutto del lavoro di Valter Mura, copyright© 2021
+Questa traduzione è frutto del lavoro di Valter Mura, copyright© 20221
 
 
 Che cosa è OmegaT?

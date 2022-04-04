@@ -13,7 +13,7 @@
 
   <para>Ogni tre minuti (impostazione predefinita) il progetto locale viene sincronizzato col deposito remoto, in modo che il responsabile del progetto o gli altri traduttori possano visualizzare e utilizzare le traduzioni apportate durante quel periodo.</para>
 
-  <para>Il tempo dell'intervallo è modificabile in <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Opzioni</guimenuitem> <guimenuitem>Preferenze</guimenuitem> <guimenuitem>Salvataggio e risultato</guimenuitem> </menuchoice></link>.</para>
+  <para>Il tempo dell'intervallo è modificabile in <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenu>Opzioni</guimenu> <guimenuitem>Preferenze</guimenuitem> <guimenuitem>Salvataggio e risultato</guimenuitem> </menuchoice></link>.</para>
 
   <para><emphasis role="bold">File sincronizzati</emphasis></para>
 
@@ -21,11 +21,11 @@
 
   <itemizedlist>
     <listitem>
-      <para><filename>omegat/project_save.tmx</filename></para>
+      <para>omegat/project_save.tmx</para>
     </listitem>
 
     <listitem>
-      <para><filename>glossary/glossary.txt</filename></para>
+      <para>glossary/glossary.txt</para>
     </listitem>
   </itemizedlist>
 
@@ -37,11 +37,11 @@
 
   <para><orderedlist>
       <listitem>
-        <para>copiare i file nella cartella <filename>/source</filename></para>
+        <para>copiare i file nella cartella <filename class="directory">source</filename></para>
       </listitem>
 
       <listitem>
-        <para>usare il comando <menuchoice> <guimenuitem>Progetto</guimenuitem> <guimenuitem>Invia i file di partenza</guimenuitem> </menuchoice></para>
+        <para>usare il comando <menuchoice> <guimenu>Progetto</guimenu> <guimenuitem>Invia i file di partenza</guimenuitem> </menuchoice></para>
       </listitem>
     </orderedlist>I file di partenza presenti sono modificabili, ma l'operazione di invio (commit) deve essere eseguita prima di un salvataggio automatico e prima che il progetto venga ricaricato o chiuso.</para>
 

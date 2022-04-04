@@ -62,7 +62,7 @@
 
     <orderedlist>
       <listitem>
-        <para>copiare i file nella cartella <filename>/source</filename></para>
+        <para>copiare i file nella cartella <filename>source</filename></para>
       </listitem>
 
       <listitem>
@@ -204,7 +204,7 @@
 
     <para>Tutti i contenuti di <filename>https://repo_for_OmegaT_team_project</filename> sono mappati al progetto OmegaT locale</para>
 
-    <para>Mappatura per progetti in una sotto-cartella del deposito:<programlisting>&lt;repositories&gt;
+    <para>Mappatura per progetti in una sottocartella del deposito:<programlisting>&lt;repositories&gt;
  &lt;repository type=&quot;svn&quot; url=&quot;https://repo_for_All_OmegaT_team_projects&quot;&gt;
   &lt;mapping local=&quot;&quot; repository=&quot;En-US_DE_project&quot;/&gt;
  &lt;/repository&gt;

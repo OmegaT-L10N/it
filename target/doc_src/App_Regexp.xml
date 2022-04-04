@@ -494,7 +494,7 @@
 
     <para>Per eseguire verifiche con uno strumento indipendente, nelle versioni per Windows, Linux, Mac e FreeBSD, usare <ulink url="http://weitz.de/regex-coach/">The Regex Coach</ulink>. Funziona in modo quasi identico all'esempio di cui sopra.</para>
 
-    <para>In <application>OmegaT</application> è pure presente una buona raccolta di utili esempi regex (si veda Opzioni &gt; Segmentazione). L'elenco seguente include espressioni che potrebbero risultare utili quando si eseguono ricerche attraverso la memoria di traduzione:</para>
+    <para>In OmegaT è pure presente una buona raccolta di utili esempi regex (vedere Opzioni &gt; Segmentazione). L'elenco seguente include espressioni che potrebbero risultare utili quando si eseguono ricerche attraverso la memoria di traduzione:</para>
 
     <table>
       <title>Regex - Esempi di espressioni regolari nelle traduzioni</title>

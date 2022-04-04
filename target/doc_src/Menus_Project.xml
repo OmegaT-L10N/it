@@ -40,7 +40,7 @@
       <term>Copia i file nella cartella di partenza...</term>
 
       <listitem>
-        <para>Copia i file selezionati nella cartella <filename>source</filename> e ricarica il progetto per caricare i nuovi file.</para>
+        <para>Copia i file selezionati nella cartella <filename class="directory">source</filename> e ricarica il progetto per caricare i nuovi file.</para>
       </listitem>
     </varlistentry>
 
@@ -56,7 +56,7 @@
           </listitem>
 
           <listitem>
-            <para>Copiare l'URL della pagina (che termina con <guilabel>action=edit</guilabel>) e incollarlo in <application>OmegaT</application>.</para>
+            <para>Copiare l'URL della pagina (che termina con <guilabel>action=edit</guilabel>) e incollarlo in OmegaT.</para>
           </listitem>
         </orderedlist>
 
@@ -64,7 +64,7 @@
 
         <orderedlist>
           <listitem>
-            <para>Aprire il file <filename>.UTF8</filename> generato nella cartella <filename>/target</filename>.</para>
+            <para>Aprire il file <filename>.UTF8</filename> generato nella cartella <filename class="directory">target</filename>.</para>
           </listitem>
 
           <listitem>
@@ -80,7 +80,7 @@
       <listitem>
         <para>Ricarica il progetto per riflettere le modifiche esterne nei file di partenza e nelle impostazioni del progetto.</para>
 
-        <para>Le nuove memorie di traduzione che si trovano nella cartella <filename>/tm</filename> durante la traduzione vengono caricate automaticamente non appena il cursore si sposta da un segmento a un altro.</para>
+        <para>Le nuove memorie di traduzione che si trovano nella cartella <filename class="directory">tm</filename> durante la traduzione vengono caricate automaticamente non appena il cursore si sposta da un segmento a un altro.</para>
       </listitem>
     </varlistentry>
 
@@ -98,7 +98,7 @@
       <listitem>
         <para>Salva la memoria di traduzione interna nel disco rigido. OmegaT salva automaticamente le traduzioni ogni tre minuti, oppure tutte le volte che si chiude un progetto o che si esce da OmegaT.</para>
 
-        <para>Il tempo dell'intervallo è modificabile in <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Opzioni</guimenuitem> <guimenuitem>Preferenze</guimenuitem> <guimenuitem>Salvataggio e risultato</guimenuitem> </menuchoice></link>.</para>
+        <para>Il tempo dell'intervallo è modificabile in <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenu>Opzioni</guimenu> <guimenuitem>Preferenze</guimenuitem> <guimenuitem>Salvataggio e risultato</guimenuitem> </menuchoice></link>.</para>
       </listitem>
     </varlistentry>
 
@@ -106,7 +106,7 @@
       <term>Invia i file di partenza</term>
 
       <listitem>
-        <para>Carica nel deposito i file che sono stati aggiunti o modificati localmente nella cartella <filename>source</filename>.</para>
+        <para>Carica nel deposito i file che sono stati aggiunti o modificati localmente nella cartella <filename class="directory">source</filename>.</para>
 
         <para>Questa funzione è specifica dei progetti in collaborazione.</para>
       </listitem>
@@ -116,7 +116,7 @@
       <term>Invia i file di arrivo</term>
 
       <listitem>
-        <para>Carica nel deposito i file che sono stati creati localmente nella cartella <filename>target</filename>.</para>
+        <para>Carica nel deposito i file che sono stati creati localmente nella cartella <filename class="directory">target</filename>.</para>
 
         <para>Questa funzione è specifica dei progetti in collaborazione.</para>
       </listitem>
@@ -126,7 +126,7 @@
       <term>Crea i documenti di arrivo</term>
 
       <listitem>
-        <para>Crea i documenti finali inserendo negli stessi la traduzione. I documenti finali saranno creati nella cartella <filename>target</filename>.</para>
+        <para>Crea i documenti finali inserendo negli stessi la traduzione. I documenti finali saranno creati nella cartella <filename class="directory">target</filename>.</para>
       </listitem>
     </varlistentry>
 
@@ -181,10 +181,20 @@
     </varlistentry>
 
     <varlistentry>
+      <term>Riavvia</term>
+
+      <listitem>
+        <para>Salva il progetto e riavvia OmegaT. Se il progetto non è ancora stato salvato manualmente, verrà richiesto se si desidera davvero uscire dall'applicazione.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
       <term>Esci</term>
 
       <listitem>
-        <para>Salva il progetto ed esce da <application>OmegaT</application>. Se il progetto non è ancora stato salvato manualmente, verrà richiesto se si desidera davvero uscire dall'applicazione.</para>
+        <para>Salva il progetto ed esce da OmegaT. Se il progetto non è ancora stato salvato manualmente, verrà richiesto se si desidera davvero uscire dall'applicazione.</para>
+
+		<para>In macOS, questo elemento di menu è elencato nel menu delle applicazioni.</para>
       </listitem>
     </varlistentry>
   </variablelist>

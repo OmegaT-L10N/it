@@ -80,7 +80,7 @@
       <term>Evidenzia i segmenti popolati automaticamente</term>
 
       <listitem>
-        <para>Se si seleziona questa opzione, lo sfondo di tutti i segmenti popolati automaticamente (dalle memorie di traduzione presenti in <filename>/tm/auto</filename>, per esempio) viene colorato. I colori sono visualizzati se è attivata l'opzione <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Salva lo stato di popolazione automatica</guimenuitem></link>. Le solite traduzioni inserite dalla cartella &quot;auto&quot; vengono visualizzate in arancione. Le altre traduzioni, individuate in modo specifico nella TMX, possono essere visualizzate usando colori diversi. Per i dettagli tecnici, vedere il capitolo <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Proposte di miglioramenti</ulink>.</para>
+        <para>Se si seleziona questa opzione, lo sfondo di tutti i segmenti popolati automaticamente (dalle memorie di traduzione presenti in <filename class="directory">/tm/auto</filename>, per esempio) viene colorato. I colori sono visualizzati se è attivata l'opzione <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Salva lo stato di popolazione automatica</guimenuitem></link>. Le solite traduzioni inserite dalla cartella <filename class="directory">auto</filename> vengono visualizzate in arancione. Le altre traduzioni, individuate in modo specifico nella TMX, possono essere visualizzate usando colori diversi. Per i dettagli tecnici, vedere il capitolo <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Proposte di miglioramenti</ulink>.</para>
       </listitem>
     </varlistentry>
 
@@ -88,7 +88,7 @@
       <term>Sostituzione aggressiva del carattere</term>
 
       <listitem>
-        <para>Attivare questa opzione nel caso in cui <application>OmegaT</application> non visualizzi correttamente determinati glifi (anche se i caratteri che li contengono sono installati nella propria macchina). Nota: in Windows sembra che questo meccanismo di sostituzione manuale dei caratteri possa interferire con la sostituzione standard, causando sostituzioni di carattere impreviste non volute. Per tale motivo, la sua impostazione predefinita è DISATTIVO.</para>
+        <para>Attivare questa opzione nel caso in cui OmegaT non visualizzi correttamente determinati glifi (anche se i caratteri che li contengono sono installati nella propria macchina). Nota: in Windows sembra che questo meccanismo di sostituzione manuale dei caratteri possa interferire con la sostituzione standard, causando sostituzioni di carattere impreviste non volute. Per tale motivo, la sua impostazione predefinita è DISATTIVO.</para>
       </listitem>
     </varlistentry>
 

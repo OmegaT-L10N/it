@@ -6,11 +6,11 @@
   <section id="ch04.shortcuts.customization">
     <title>Personalizzazione delle scorciatoie</title>
 
-    <para>Alla maggior parte degli elementi che appaiono nel menu principale si può applicare una nuova scorciatoia. È possibile modificare le scorciatoie già assegnate, come pure aggiungerne di nuove, inserendo un file di definizione delle scorciatoie all'interno della cartella delle preferenze di <application>OmegaT</application> (raggiungibile dal menu <menuchoice> <guimenuitem>Opzioni</guimenuitem> <guimenuitem>Accedi alla cartella di configurazione</guimenuitem> </menuchoice>).</para>
+    <para>Alla maggior parte degli elementi che appaiono nel menu principale si può applicare una nuova scorciatoia. È possibile modificare le scorciatoie già assegnate, come pure aggiungerne di nuove, inserendo un file di definizione delle scorciatoie all'interno della cartella delle preferenze di OmegaT (raggiungibile dal menu <menuchoice> <guimenuitem>Opzioni</guimenuitem> <guimenuitem>Accedi alla cartella di configurazione</guimenuitem> </menuchoice>).</para>
 
     <para>Il file di definizione delle scorciatoie si deve chiamare <filename>MainMenuShortcuts.properties</filename> e deve contenere una definizione di scorciatoia per riga. Sono accettate le righe vuote, mentre quelle di commento devono iniziare con &quot;//&quot;. Tutto quello che segue i segni &quot;//&quot; viene ignorato.</para>
 
-    <para>Una volta modificato il file <filename>MainMenuShortcuts.properties</filename>, <application>OmegaT</application> deve essere riavviato in modo da attivare le nuove scorciatoie.</para>
+    <para>Una volta modificato il file <filename>MainMenuShortcuts.properties</filename>, OmegaT deve essere riavviato in modo da attivare le nuove scorciatoie.</para>
 
     <para>La sintassi di definizione delle scorciatoie è la seguente: <code>&lt;codice elemento menu&gt;=&lt;scorciatoia&gt;</code>, dove <emphasis>&lt;codice elemento menu&gt;</emphasis> è il codice ripreso dalle tabelle in basso e <emphasis>&lt;scorciatoia&gt;</emphasis> è una combinazione di pressione di tasti specificata dall'utente<footnote>
         <para>La sintassi completa per le combinazioni di tasti (scorciatoie) è definita nelle documentazione Java 1.6 seguente di Oracle (fondo della pagina): <ulink url="http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html">Java 1.6 keystrokes shortcuts</ulink></para>
@@ -63,7 +63,7 @@
     <para><code> toolsShowStatisticsStandardMenuItem=shift meta
     S</code></para>
 
-    <para>Salvare poi il file e riavviare <application>OmegaT</application>. Le nuove scorciatoie dovrebbero apparire accanto agli elementi di menu che sono stati modificati. Se non entrano in conflitto con le scorciatoie di sistema, esse saranno disponibili all'interno di OmegaT.</para>
+    <para>Salvare poi il file e riavviare OmegaT. Le nuove scorciatoie dovrebbero apparire accanto agli elementi di menu che sono stati modificati. Se non entrano in conflitto con le scorciatoie di sistema, esse saranno disponibili all'interno di OmegaT.</para>
   </section>
 
   <section id="ch04.shortcuts.ProjectMenu">
@@ -256,6 +256,14 @@
             <entry/>
 
             <entry>projectAccessWriteableGlossaryMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Riavvia</entry>
+
+            <entry/>
+
+            <entry>projectRestartMenuItem</entry>
           </row>
 
           <row>
