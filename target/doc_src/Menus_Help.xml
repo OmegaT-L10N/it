@@ -1,47 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.help">
-  <title>Aiuto</title>
+  <title id="menus.help.title">Aiuto</title>
 
   <variablelist>
-    <varlistentry>
-      <term>Manuale dell'utente...</term>
-
+    <varlistentry id="menus.help.user.manual">
+      <term id="menus.help.user.manual.title">User Guide...		  <keycombo><keycap>F1</keycap></keycombo>
+</term>
       <listitem>
-        <para>Apre questo manuale nel browser predefinito.</para>
+        <para>Opens this guide in the default browser.</para>
+		<para>
+		</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Informazioni su...</term>
-
+    <varlistentry id="menus.help.about">
+      <term id="menus.help.about.title">Informazioni su...</term>
       <listitem>
-        <para>Visualizza le informazioni di copyright, i crediti e le informazioni di licenza.</para>
+        <para>Visualizza le informazioni di copyright, i crediti e le informazioni di licenza.</para>      </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.help.last.changes">
+      <term id="menus.help.last.changes.title">Ultime modifiche...</term>
+      <listitem>
+        <para>Displays the list of new functionality, enhancements and bug fixes for each new release.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Ultime modifiche...</term>
-
+    <varlistentry id="menus.help.log">
+      <term id="menus.help.log.title">Registro...</term>
       <listitem>
-        <para>Mostra l'elenco delle nuove funzionalità, i miglioramenti e le correzioni errori per ciascun nuovo rilascio.</para>
+        <para>Mostra il file di registro corrente. The title of the dialog reflects the file currently in use (which depends on the number of concurrently running OmegaT instances).</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Registro...</term>
-
+    <varlistentry id="menus.help.check.for.updates">
+      <term id="menus.help.check.for.updates.title">Controlla aggiornamenti...</term>
       <listitem>
-        <para>Mostra il file di registro corrente. Il titolo della finestra rispecchia il file realmente usato (che dipende da quante istanze di OmegaT sono in esecuzione assieme).</para>
-      </listitem>
-    </varlistentry>
-
-    <varlistentry>
-      <term>Controlla aggiornamenti...</term>
-
-      <listitem>
-        <para>Verifica se è stata rilasciata una versione più recente di OmegaT.</para>
-      </listitem>
+        <para>Checks to see if a newer version of OmegaT is available.</para>      </listitem>
     </varlistentry>
   </variablelist>
 </section>

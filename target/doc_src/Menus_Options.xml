@@ -1,92 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.options">
-  <title>Opzioni</title>
+  <title id="menus.options.title">Opzioni</title>
 
   <variablelist>
-    <varlistentry>
-      <term>Preferenze...</term>
-
+    <varlistentry id="menus.options.preferences">
+      <term id="menus.options.preferences.title">Preferenze...</term>
       <listitem>
-        <para>Apre la finestra di dialogo delle <link linkend="dialogs.preferences">Preferenxe</link>.</para>
+        <para>Opens the <link linkend="dialogs.preferences" endterm="dialogs.preferences.title"/> dialog.</para>
+		<note><para>In macOS, this menu item is found under the
+		<guimenu>OmegaT</guimenu> menu.</para></note>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Traduzione automatica</term>
-
+    <varlistentry id="menus.options.mt">
+      <term id="menus.options.mt.title">Traduzione automatica</term>
       <listitem>
-        <para>Permette di attivare/disattivare gli strumenti di Traduzione automatica offerti.</para>
-
-        <para>Se sono selezionati più motori di traduzione automatica, viene utilizzata anche la combinazione di tasti <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> per passare da un motore all'altro e inserire l'ultima traduzione selezionata.</para>
+        <para>Select Preferences – <link linkend="dialogs.preferences.mt.automatically.fetch.trasnlations" endterm="dialogs.preferences.mt.automatically.fetch.trasnlations.title"/> to activate it.</para>
+		<para>Allows you to activate/deactivate the available machine
+		translation engines.</para>
+        <para>If several translation engines are selected, you can also use
+        <keycombo><keycap>C</keycap><keycap>M</keycap></keycombo> to switch
+        between them and insert the last one selected. See  for details.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Glossario</term>
-
+    <varlistentry id="menus.options.glossary">
+      <term id="menus.options.glossary.title">Glossario</term>
       <listitem>
-        <para>Selezionare <guimenuitem>Ricerca terminologica TaaS</guimenuitem> per attivare questa ricerca.</para>
+        <para>Select Preferences – <link linkend="dialogs.preferences.dictionary.use.fuzzy.matching.for.dictionary.entries" endterm="dialogs.preferences.dictionary.use.fuzzy.matching.for.dictionary.entries.title"/> to activate it.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Dizionario</term>
-
+    <varlistentry id="menus.options.dictionary">
+      <term id="menus.options.dictionary.title">Dizionario</term>
       <listitem>
-        <para>Attivare l'opzione <guimenuitem>Usa la concordanza parziale per le voci di dizionario</guimenuitem> se si desidera che i dizionari mostrino le parole contenenti la medesima radice.</para>
+        <para>Select Preferences – <link linkend="dialogs.preferences.dictionary.use.fuzzy.matching.for.dictionary.entries" endterm="dialogs.preferences.dictionary.use.fuzzy.matching.for.dictionary.entries.title"/> to activate it.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Completamento automatico</term>
-
+    <varlistentry id="menus.options.autocompletion">
+      <term id="menus.options.autocompletion.title">Completamento automatico</term>
       <listitem>
-        <para>Se l'opzione <guimenuitem>Mostra automaticamente i suggerimenti pertinenti</guimenuitem> è attivata, il completamento automatico viene avviato automaticamente digitando le prime lettere della voce di glossario tradotta, o digitando &quot;&lt;&quot; nel caso di tag.</para>
+      <para>Select the various options to activate them. Vedere <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per dettagli.</para></listitem>
+    </varlistentry>
 
-        <para>Attivare l'opzione <guimenuitem>Abilita il completamento cronologia</guimenuitem> per visualizzare le parole suggerite durante la digitazione delle loro prime lettere.</para>
-
-        <para>Attivare l'opzione <guimenuitem>Abilita la predizione cronologia</guimenuitem> per visualizzare le parole suggerite che seguono comunemente la parola che è stata appena digitata.</para>
+    <varlistentry id="menus.options.file.filters">
+      <term id="menus.options.file.filters.title">Filtri dei file...</term>
+      <listitem>
+        <para>Opens the <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> global preference
+        dialog.</para>
+        <para>Project specific settings are accessible with <link linkend="menus.project.properties" endterm="menus.project.properties.title"/>.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Filtri dei file...</term>
-
+    <varlistentry id="menus.options.segmentation">
+      <term id="menus.options.segmentation.title">Segmentazione...</term>
       <listitem>
-        <para>Apre la finestra di dialogo <link linkend="dialogs.preferences.filefilters">Filtri dei file</link> all'interno delle Preferenze.</para>
-
-        <para>Queste impostazioni si applicano al livello generale di OmegaT, ossia coinvolgono tutti i progetti.</para>
+        <para>Opens the <link linkend="dialogs.preferences.segmentation.setup" endterm="dialogs.preferences.segmentation.setup.title"/> global
+        preference dialog.</para>
+        <para>Project specific settings are accessible with <link linkend="menus.project.properties" endterm="menus.project.properties.title"/>.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Segmentazione...</term>
-
+    <varlistentry id="menus.options.editor">
+      <term id="menus.options.editor.title">Editor...</term>
       <listitem>
-        <para>Apre le opzioni <link linkend="dialogs.preferences.segmentationsetup">Configura la segmentazione</link> all'interno della finestra di dialogo delle Preferenze.</para>
-
-        <para>Queste impostazioni si applicano al livello generale di OmegaT, ossia coinvolgono tutti i progetti.</para>
-
+        <para>Opens the <link linkend="dialogs.preferences.editor" endterm="dialogs.preferences.editor.title"/> global preferences dialog.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Editor...</term>
-
+    <varlistentry id="menus.options.access.configuration.folder">
+      <term id="menus.options.access.configuration.folder.title">Accedi alla cartella di configurazione</term>
       <listitem>
-        <para>Apre le opzioni <link linkend="dialogs.preferences.editor">Editor</link> all'interno della finestra di dialogo delle Preferenze.</para>
-
-        <para>Queste impostazioni si applicano al livello generale di OmegaT, ossia coinvolgono tutti i progetti.</para>
-
-      </listitem>
-    </varlistentry>
-
-    <varlistentry>
-      <term>Accedi alla cartella di configurazione</term>
-
-      <listitem>
-        <para>Apre la cartella locale in cui sono memorizzati i file di configurazione di OmegaT (dipende dal sistema operativo utilizzato).</para>
+        <para>Opens the local folder where OmegaT configuration files are
+        stored.</para>
+		<note><para>The location depends on the operating system and launch options. Vedere <link linkend="configuration.folder" endterm="configuration.folder.title"/> per dettagli.</para></note>
       </listitem>
     </varlistentry>
   </variablelist>

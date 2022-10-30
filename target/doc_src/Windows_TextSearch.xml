@@ -1,181 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
-<section id="windows.textsearch">
-  <title>Ricerca testo</title>
+<section id="windows.text.search">
+  <title id="windows.text.search.title">Ricerca testo</title>
 
-  <para>Aprire la finestra “Cerca” tramite la combinazione di tasti <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo> e inserire nella casella <guilabel>Cerca</guilabel> la parola o la frase da trovare.</para>
+  <para>Use <link linkend="menus.edit.search.project" endterm="menus.edit.search.project.title"/> to open a new search window and
+  enter the word or phrase you wish to search for in the search field.</para>
+  
+  <para>Alternatively, select a word or phrase in the <link linkend="panes.editor" endterm="panes.editor.title"/>, <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/>, or <link linkend="panes.glossary" endterm="panes.glossary.title"/> pane and use <link linkend="menus.edit.search.project" endterm="menus.edit.search.project.title"/>. The selection is
+  automatically entered in the search field.</para>
 
-  <para>In alternativa, selezionare una parola o una frase nella finestra dell'Editor e premere <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>. La parola o la frase selezionata viene automaticamente immessa all'interno della casella <guilabel>Cerca</guilabel>. È possibile mantenere aperte contemporaneamente più finestre di ricerca, ma è preferibile chiuderle quando non sono più necessarie, per non intasare lo spazio di lavoro in cui si sta lavorando.</para>
+  <para>You can have several search windows opened at the same time. Use
+  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>F</keycap></keycombo> to
+  call the last search window.</para>
 
-  <para>Fare clic sulla freccia del menu a tendina della casella <guilabel>Cerca</guilabel> per visualizzare le ultime dieci ricerche.</para>
+  <para>Click the drop-down arrow of the <guilabel>Search for:</guilabel> field
+  to access the last ten searches.</para>
 
-  <para>La finestra Cerca ha i suoi propri menu:</para>
+  <para>Click on <guibutton>Search</guibutton> or hit <keycap>Enter</keycap> when
+  the search field is selected to start the search.</para>
+  
+  <para>Matches will be displayed in bold blue characters.</para>
+
+  <para>The search window has its own menus:</para>
 
   <itemizedlist>
     <listitem>
-      <para>File &gt; Cerca selezione (<keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>): il programma si posiziona sul campo di ricerca e seleziona tutto il suo contenuto.</para>
+      <para><guimenu>File</guimenu> &gt; <guimenuitem>Search for
+      Selection</guimenuitem> (<keycombo><keycap>C</keycap><keycap>F</keycap></keycombo>): the current selection is inserted in the search
+      field.</para>
     </listitem>
 
     <listitem>
-      <para>File &gt; Chiudi (<keycombo> <keycap>Ctrl</keycap> <keycap>W</keycap> </keycombo>): chiude la finestra di ricerca (alla stessa maniera del comando <keycap>Esc</keycap>)</para>
+      <para><guimenu>File</guimenu> &gt; <guimenuitem>Close</guimenuitem>
+      (<keycombo><keycap>C</keycap><keycap>W</keycap></keycombo>): close the
+      search window.</para>
     </listitem>
 
     <listitem>
-      <para>Modifica &gt; Inserisci il testo di partenza (<keycombo> <keycap>Ctrl</keycap> <keycap>Maiusc</keycap> <keycap>I</keycap> </keycombo>): inserisce il segmento di partenza corrente.</para>
+      <para><guimenu>Edit</guimenu> &gt; <guimenuitem>Insert
+      Source</guimenuitem> (<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>I</keycap></keycombo>): insert the content of the current source
+      segment.</para>
     </listitem>
 
     <listitem>
-      <para>Modifica &gt; Sostituisci col testo di partenza (<keycombo> <keycap>Ctrl</keycap> <keycap>Maiusc</keycap> <keycap>R</keycap> </keycombo>): sostituisce col segmento corrente del testo di partenza.</para>
+      <para><guimenu>Edit</guimenu> &gt; <guimenuitem>Replace with
+      Source</guimenuitem> (<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>R</keycap></keycombo>): replace the contents of
+      the search field with those of the current source segment.</para>
     </listitem>
 
     <listitem>
-      <para>Modifica &gt; Crea voce di glossario (<keycombo> <keycap>Ctrl</keycap> <keycap>Maiusc</keycap> <keycap>G</keycap> </keycombo>): aggiunge un nuovo elemento di glossario.</para>
+      <para><guimenu>Edit </guimenu>&gt; <guimenuitem>Create Glossary Entry</guimenuitem> (<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>G</keycap></keycombo>): add a new glossary item. See <link linkend="menus.edit.create.glossary.entry" endterm="menus.edit.create.glossary.entry.title"/> for details.</para>
+    </listitem>
+
+    <listitem>
+      <para><guimenu>Edit</guimenu> &gt; <guimenuitem>Reset
+      Options</guimenuitem>: reset the search window options.</para>
     </listitem>
   </itemizedlist>
 
-  <section id="using.wild.cards">
-    <title>Uso dei caratteri jolly</title>
+  <section id="windows.text.search.methods">
+    <title id="windows.text.search.methods.title">Search type</title>
 
-    <para>Sia le ricerche esatte, sia quelle di parole chiave consentono di utilizzare i caratteri jolly '*' and '?'. Il loro significato è familiare agli utenti di Word:</para>
-
-    <itemizedlist>
-      <listitem>
-        <para>'*' corrisponde a zero caratteri o più caratteri consecutivi, dalla posizione attuale in una parola data fino alla sua fine. Il termine di ricerca <literal>'mobil*'</literal>, per esempio, potrebbe estrarre le parole <literal>'mobile'</literal>, <literal>'mobili'</literal> e <literal>'mobilità'</literal>.</para>
-      </listitem>
-    </itemizedlist>
-
-    <itemizedlist>
-      <listitem>
-        <para>'?' corrisponde a qualsiasi singolo carattere. Per esempio, <literal>'run?'</literal> estrarrà le parole <literal>'runs'</literal> e <literal>'runn'</literal> all'interno della parola <literal>'running'</literal>.</para>
-      </listitem>
-    </itemizedlist>
-
-    <para>Le corrispondenze verranno visualizzate in grassetto blu. Si noti che '*' e '?' possiedono un significato speciale nelle espressioni regolari, dunque la ricerca con caratteri jolly, come qui descritta, è valida solo per la ricerca di parole chiave e la ricerca esatta (vedere sotto).</para>
-  </section>
-
-  <section id="search.methoids">
-    <title>Metodi e opzioni di ricerca</title>
-
-    <para>Selezionare il metodo di ricerca tramite i pulsanti di scelta. Sono disponibili i seguenti metodi di ricerca:</para>
+    <para>Use the radio buttons to select the type of search. The following
+    search types are available:</para>
 
     <variablelist>
-      <varlistentry>
-        <term>ricerca esatta</term>
-
+      <varlistentry id="windows.text.search.methods.exact">
+        <term id="windows.text.search.methods.exact.title">Exact search</term>
         <listitem>
-          <para>Avvia la ricerca dei segmenti contenenti esattamente la stringa specificata. Una ricerca esatta di una frase, per esempio se vengono inserite varie parole, darà un risultato solo se le parole immesse verranno individuate in quella medesima sequenza. Ricercare <literal>open file</literal> individuerà dunque tutte le occorrenze della stringa <emphasis><literal>open file</literal></emphasis>, ma non <emphasis><literal>file opened</literal></emphasis> o <emphasis><literal>open input file</literal></emphasis>.</para>
+          <para>Search for the string exactly as it was entered in the search
+          field.</para>
+		  <para>It is equivalent to a web search enclosed in quotation marks.</para>
         </listitem>
       </varlistentry>
 
-      <varlistentry>
-        <term>ricerca con parole chiave</term>
-
+      <varlistentry id="windows.text.search.methods.keyword">
+        <term id="windows.text.search.methods.keyword.title">Keyword
+        search</term>
         <listitem>
-          <para>Avvia la ricerca dei segmenti contenenti tutte le parole specificate, indipendentemente dall'ordine di immissione. Selezionare la ricerca con parole chiave per eseguire una ricerca su un qualsiasi numero di parole intere singole, in qualsiasi ordine. OmegaT proporrà un elenco di tutti i segmenti contenente tutte le parole specificate. Le ricerche di parole chiave sono simili alle ricerche di “tutte le parole” di un motore di ricerca Internet, come Google (in base a un operatore logico AND). L'uso di una ricerca con parole chiave con <emphasis><literal>open file</literal></emphasis> individuerà tutte le occorrenze della stringa <emphasis><literal>open file</literal>,</emphasis>, come pure <emphasis><literal>file opened</literal>, <literal>open input file</literal>, <literal>file may not be safe to open</literal></emphasis>, e via discorrendo.</para>
+          <para>Search for segments containing each of the search terms
+          separated by a space.</para>
+		  <para>It is equivalent to a web search without quotation marks.</para>
         </listitem>
       </varlistentry>
 
-      <varlistentry>
-        <term><emphasis role="bold">espressioni regolari</emphasis></term>
-
+      <varlistentry id="windows.text.search.methods.regex">
+        <term id="windows.text.search.methods.regex.title">Espressioni regolari</term>
         <listitem>
-          <para>La stringa immessa nel campo “Cerca” verrà considerata come un'espressione regolare. La stringa di ricerca - [a-zA-Z]+[öäüqwß] - nell'esempio sopra, ricerca parole nel segmento di destinazione, contenenti caratteri dubbi provenienti dalla tastiera tedesca. Le <link linkend="appendix.regexp">espressioni regolari</link> sono un sistema particolarmente valido per reperire alcuni elementi di un segmento.</para>
+          <para>Treat the search string as a regular expression.</para>
+		  <para>Regular expressions are a very powerful way to search for general or complex patterns rather than exact strings. Vedere <link linkend="app.regex" endterm="app.regex.title"/> per dettagli.</para>
         </listitem>
       </varlistentry>
     </variablelist>
 
-    <para>Oltre a uno di questi metodi, si avrà la possibilità di selezionare tra le seguenti opzioni:</para>
+    <para>The <code>*</code> and <code>?</code> characters can be used in both
+    exact and keyword searches:</para>
 
     <itemizedlist>
       <listitem>
-        <para><guilabel>maiuscole/minuscole</guilabel>: verrà ricercata l'esatta corrispondenza della stringa immessa nel campo “Cerca”; per esempio, si controllerà la presenza di lettere maiuscole.</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>Lo spazio corrisponde a nbsp</guilabel>: se questa opzione è selezionata, un carattere di spazio inserito come voce di ricerca può corrispondere sia a un carattere di spazio normale, sia a uno di spazio non divisibile (\u00A).</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>nei file di partenza</guilabel>: si eseguirà la ricerca nei segmenti di origine</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>nelle traduzioni</guilabel>: si eseguirà la ricerca nei segmenti di destinazione</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>nelle note</guilabel>: si eseguirà la ricerca nelle note dei segmenti</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>nei commenti</guilabel>: si eseguirà la ricerca nei commenti dei segmenti</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>Tradotti o non tradotti</guilabel>: si eseguirà la ricerca sia nei segmenti tradotti, sia in quelli non tradotti.</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>Tradotti</guilabel>: si eseguirà la ricerca solo nei segmenti tradotti.</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>Non tradotti</guilabel>: si eseguirà la ricerca solo nei segmenti non tradotti.</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>Visualizza: tutti i segmenti corrispondenti</guilabel>: se attivata, verrano visualizzati tutti i segmenti in modo analitico, anche se ricorrono più volte nello stesso documento o in documenti diversi.</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>Visualizza: nomi dei file</guilabel>: se attivata, il nome del file, dove si trova ciascun segmento, viene visualizzato sopra ogni risultanza.</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>Cerca in Progetto</guilabel>: attivare <guilabel>Memoria</guilabel>per includere nella ricerca la memoria del progetto (il file <filename>project_save.tmx</filename> file). Attivare <guilabel>TMs</guilabel> per includere nella ricerca le memorie di traduzione che si trovano nella cartella <filename class="directory">tm</filename>. Attivare <guilabel>Glossari</guilabel> per includere nella ricerca i glossari che si trovano nella cartella <filename class="directory">glossary</filename>.</para>
-      </listitem>
-
-      <listitem>
-        <para><guilabel>Cerca in File</guilabel>: esegue la ricerca in un singolo file o una cartella contenente un gruppo di file. Quando si esegue una ricerca all'interno dei file (al contrario delle memorie di traduzione), OmegaT restringe la ricerca ai file nei formati di file di partenza. Di conseguenza, sebbene OmegaT sia perfettamente in grado di gestire i file <filename>tmx</filename>non li include durante la ricerca all'interno dei file.</para>
+        <para><code>*</code> matches zero or more characters, from the current
+        position up to the end of a word.</para>
+		<para>The search term <literal>run*</literal>, for example, matches
+		<literal>run</literal>, <literal>runs</literal> and
+		<literal>running</literal>.</para>
       </listitem>
     </itemizedlist>
-
-    <para>Premendo il pulsante <guibutton>Opzioni avanzate</guibutton> potranno essere selezionati criteri di ricerca aggiuntivi (autore o revisore della traduzione, data di traduzione, ad esclusione dei segmenti orfani, ecc.). Se è selezionata l'opzione <guilabel>Non considerare la larghezza carattere</guilabel>, le ricerche per le forme a larghezza intera (caratteri CJK, ossia cinesi, giapponesi e coreani) troveranno le corrispondenze con le forme a metà larghezza e viceversa.</para>
-  </section>
-
-  <section id="search.result.display">
-    <title>Visualizzazione dei risultati</title>
-
-    <para>La pressione del pulsante “Cerca”, dopo aver immesso una stringa nel campo del testo da trovare, genera la visualizzazione di tutti i segmenti del progetto contenenti la stringa digitata. Dato che OmegaT gestisce i segmenti identici come una singola entità, viene mostrato solo il primo segmento univoco. I segmenti vengono visualizzati in ordine di comparsa all'interno del progetto. I segmenti tradotti vengono visualizzati con sopra il testo originale e sotto il testo tradotto; per i segmenti non tradotti viene, invece, visualizzato solo come testo sorgente.</para>
-
-    <para>Il doppio clic su un segmento apre quest'ultimo nell'Editor, al fine di consentirne la modifica (il singolo clic esegue la stessa azione quando è attivata l'opzione <guilabel role="bold">Sincronizzazione automatica con Editor</guilabel>). A questo punto si può tornare alla finestra “Cerca” e passare al successivo segmento estratto, per eseguire il controllo e apportare le eventuali modifiche.</para>
-
-    <para>Nella finestra di Ricerca testo è possibile usare le scorciatoie standard (<keycombo> <keycap>Ctrl</keycap> <keycap>N</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>P</keycap> </keycombo>) per spostarsi da un segmento all'altro.</para>
-
-    <para>Si potranno aprire insieme più finestre di ricerca. È possibile visualizzare rapidamente il loro contenuto leggendone il titolo, che contiene il termine di ricerca utilizzato.</para>
-  </section>
-
-  <section id="search.filter">
-    <title>Voci dei filtri nell'editor in base alla ricerca</title>
-
-    <para>Al fine di una navigazione più facile all'interno dell'insieme dei risultati di ricerca, è possibile applicare la ricerca all'interno dell'editor. Per limitare le voci visualizzate nella finestra dell'editor a quelle che corrispondono alla ricerca corrente, premere il pulsante <guibutton>Filtro</guibutton> in basso. Utilizzare la normale navigazione per spostarsi, ad esempio, al successivo segmento (non tradotto) che corrisponde al criterio di ricerca.</para>
-
-    <para>N.B.:</para>
 
     <itemizedlist>
       <listitem>
-        <para>la ricerca può essere limitata a 1000 voci; se si effettua, dunque, una ricerca su una frase comune, l'editor mostrerà solo quelle 1000 voci e non tutte quelle che corrispondono al criterio di ricerca.</para>
-      </listitem>
-
-      <listitem>
-        <para>un file potrebbe non contenere corrispondenze, dunque la finestra sarà vuota.</para>
-      </listitem>
-
-      <listitem>
-        <para>se una ricerca rimuove i duplicati, essi non saranno presenti nell'Editor.</para>
+        <para><code>?</code> matches any single character.</para>
+		<para>For instance, <literal>run?</literal> matches
+		<literal>runs</literal>, as well as the <literal>runn</literal> portion
+		of <literal>running</literal> or <literal>runner</literal>.</para>
       </listitem>
     </itemizedlist>
+<warning><para>The <code>*</code> and <code>?</code> characters have a special
+meaning in regular expressions. Therefore, the wild card searches described
+above only apply to exact and keyword searches.</para></warning>
+  </section>
 
-    <para>Per rimuovere un filtro, premere il pulsante <guibutton>Rimuovi filtro</guibutton> o ricaricare il progetto.</para>
+  <section id="windows.text.search.options">
+	<title id="windows.text.search.options.title">Opzioni</title>
+	
+  <variablelist>
+	<varlistentry><term>Case sensitive</term><listitem><para>Only returns
+	results with the same letter case as the search
+	terms.</para></listitem></varlistentry>
+	
+	<varlistentry><term>Space matches nbsp</term><listitem><para>Space
+	characters in search terms will match both a normal space and a non-breaking
+	space (\u00A) character.</para></listitem></varlistentry>
+
+	<varlistentry><term>In source</term><listitem><para>Search in the source
+	segments.</para></listitem></varlistentry>
+
+	<varlistentry><term>In translations</term><listitem><para>Search in the
+	target segments.</para></listitem></varlistentry>
+
+	<varlistentry><term>Nelle note</term><listitem><para>Search in notes attached
+	to segments.</para></listitem></varlistentry>
+
+	<varlistentry><term>Nei commenti</term><listitem><para>Search in comments
+	attached to segments.</para></listitem></varlistentry>
+
+	<varlistentry><term>Tradotti o non tradotti</term><listitem><para>Search
+	in both translated and untranslated
+	segments.</para></listitem></varlistentry>
+
+	<varlistentry><term>Tradotti</term><listitem><para>Search only in
+	translated segments.</para></listitem></varlistentry>
+
+	<varlistentry><term>Non tradotti</term><listitem><para>Search only in
+	untranslated segments.</para></listitem></varlistentry>
+
+	<varlistentry><term>Display: all matching
+	segments</term><listitem><para>Every segment is displayed individually, even
+	if it is a duplicate found in either the same document or a different
+	document in the project.</para></listitem></varlistentry>
+
+	<varlistentry><term>Display: file names</term><listitem><para>The name of
+	the file containing the segment is found is displayed above each
+	result.</para></listitem></varlistentry>
+
+	<varlistentry><term>Search in: Project</term><listitem><para>You can check
+	<guilabel>Memory</guilabel> to include the project memory (<link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>), <guilabel>TMs</guilabel>
+	to include other translation memories located in the <link linkend="project.folder.tm" endterm="project.folder.tm.title"/> folder, and
+	<guilabel>Glossaries</guilabel> to include the glossaries located in the
+	<link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/> folder, in the
+	search.</para></listitem></varlistentry>
+
+	<varlistentry><term>Search in: Files</term><listitem><para>Search in a
+	single file or in a folder containing several files.</para>
+	<para>File searches (unlike translation memories), are limited to files in
+	source file formats supported by OmegaT. Consequently,
+	<filename>TMX</filename> files are excluded from file searches since OmegaT
+	does not recognize them as a source file format despite supporting them for
+	translation memories.</para></listitem></varlistentry>
+  </variablelist>
+ 
+    <para>You can click on <guibutton>Show Advanced Options</guibutton>
+    button to select additional criteria such as the person who authored or
+    changed the translation, the date and time of translation (modification), or
+    whether to exclude orphan segments.</para>
+
+	<para>Checking the <guilabel>Full/Half-width char insensitive</guilabel>
+	option will return results that match both the full- and half-width forms
+	(CJK characters) of the characters in the search terms.</para>
+
+	<para><guilabel>Number of matching segments</guilabel> sets the maximum
+	number of matches displayed in the search result area.</para>
+  </section>
+
+  <section id="windows.text.search.result.display">
+    <title id="windows.text.search.result.display.title">Results display</title>
+
+    <para>Matches are displayed in their order of appearance in the project. For
+    translated segments, the original text is displayed above the translated
+    text. Only the source text is displayed for untranslated segments.</para>
+
+    <para>You can use the following shortcuts in the search results:
+	<variablelist>
+	  <varlistentry>
+		<term><keycombo><keycap>C</keycap><keycap>N</keycap></keycombo></term>
+		<listitem><para>Move to the next segment</para></listitem>
+	  </varlistentry>
+	  <varlistentry>
+		<term><keycombo><keycap>C</keycap><keycap>P</keycap></keycombo></term>
+		<listitem><para>Move to the preceding segment</para></listitem>
+	  </varlistentry>
+	  <varlistentry>
+		<term><keycombo><keycap>C</keycap><keycap>J</keycap></keycombo></term>
+		<listitem><para>Jump to the current segment in the editor.</para></listitem>
+	  </varlistentry>
+	</variablelist>
+	</para>
+	
+    <para>Double-click on a segment to open it in the <link linkend="panes.editor" endterm="panes.editor.title"/>.</para>
+
+  	<para>Check the <guilabel>Auto-sync with Editor</guilabel> box at the bottom
+  	of the search window to have selected segments open in the Editor
+  	automatically.</para>
+
+  	<para>Check the <guilabel>Back to the initial segment on close</guilabel>
+  	box to automatically return to the segment you were in when you started the
+  	search after you close the window.</para>
+  </section>
+	
+  <section id="windows.text.search.filter">
+    <title id="windows.text.search.filter.title">Filtro</title>
+
+	<para>Click on <guibutton>Filter</guibutton> to show only the matching search result
+	segments in the <link linkend="panes.editor" endterm="panes.editor.title"/>. To remove the filter, click
+	on <guibutton>Remove Filter</guibutton> or reload the project.</para>
   </section>
 </section>

@@ -1,200 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.project">
-  <title>Progetto</title>
-
+  <title id="menus.project.title">Progetto</title>
+      <example><title id="example.new.project.shortcut.title">Nuovo...</title>
+  		<para>In this guide:
+		  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>N</keycap></keycombo>
+		</para>
+		<para>On Windows and Linux:
+		  <keycombo><keycap>Control</keycap><keycap>Shift</keycap><keycap>N</keycap></keycombo>
+		</para>
+		<para>On macOS:
+		  <keycombo><keycap>Shift</keycap><keycap>Command</keycap><keycap>N</keycap></keycombo>
+		</para>
+		</example>
+  
   <variablelist>
-    <varlistentry>
-      <term><guimenuitem>Nuovo...</guimenuitem></term>
-
+    <varlistentry id="menus.project.new">
+      <term id="menus.project.new.title">New...		  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>N</keycap></keycombo>
+</term>
       <listitem>
-        <para>Crea e apre un nuovo progetto.</para>
+        <para>Crea e apre un nuovo progetto. Vedere <link linkend="introduction.create.and.open.new.project" endterm="introduction.create.and.open.new.project.title"/> per dettagli.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term><guimenuitem>Scarica il progetto in collaborazione...</guimenuitem></term>
-
+    <varlistentry id="menus.project.download.team.project">
+      <term id="menus.project.download.team.project.title">Scarica il progetto in collaborazione...</term>
       <listitem>
-        <para>Crea una copia locale di un progetto OmegaT remoto. Per i dettagli si veda <link linkend="howto.useteamproject">Utilizzare un progetto in collaborazione</link>.</para>
+        <para>Crea una copia locale di un progetto OmegaT remoto. Vedere <link linkend="how.to.use.team.project" endterm="how.to.use.team.project.title"/> per dettagli.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Apri...</term>
-
+    <varlistentry id="menus.project.open">
+      <term id="menus.project.open.title">Open... <keycombo><keycap>C</keycap><keycap>O</keycap></keycombo></term>
       <listitem>
         <para>Apre un progetto esistente.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Apri progetto recente</term>
-
+    <varlistentry id="menus.project.open.recent">
+      <term id="menus.project.open.recent.title">Apri progetto recente</term>
       <listitem>
-        <para>Dà accesso agli ultimi dieci progetti modificati di recente. Facendo clic su uno qualsiasi, verrà salvato e chiuso il progetto attivo e aperto l'altro.</para>
+        <para>Gives access to the last ten edited projects. Clicking one will
+        save the current project, close it and open the selected project.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Copia i file nella cartella di partenza...</term>
-
+    <varlistentry id="menus.project.copy.files.to.source.folder">
+      <term id="menus.project.copy.files.to.source.folder.title">Copia i file nella cartella di partenza...</term>
       <listitem>
-        <para>Copia i file selezionati nella cartella <filename class="directory">source</filename> e ricarica il progetto per caricare i nuovi file.</para>
+        <para>Copies the selected files to the <link linkend="project.folder.source" endterm="project.folder.source.title"/>
+        folder and reloads the project to take the new files into
+        account.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Scarica la pagina MediaWiki...</term>
-
+    <varlistentry id="menus.project.download.mediawiki.page">
+      <term id="menus.project.download.mediawiki.page.title">Scarica la pagina MediaWiki...</term>
       <listitem>
-        <para>Per tradurre il contenuto di una pagina Wikipedia (per esempio):</para>
-
-        <orderedlist>
-          <listitem>
-            <para>Fare clic sulla scheda <guilabel>Modifica</guilabel> della pagina Wikipedia.</para>
-          </listitem>
-
-          <listitem>
-            <para>Copiare l'URL della pagina (che termina con <guilabel>action=edit</guilabel>) e incollarlo in OmegaT.</para>
-          </listitem>
-        </orderedlist>
-
-        <para>Dopo aver completato la traduzione, ecco la procedura per importarla in Wikipedia:</para>
-
-        <orderedlist>
-          <listitem>
-            <para>Aprire il file <filename>.UTF8</filename> generato nella cartella <filename class="directory">target</filename>.</para>
-          </listitem>
-
-          <listitem>
-            <para>Copiare il testo e incollarlo nella versione tradotta della pagina Wikipedia.</para>
-          </listitem>
-        </orderedlist>
+		<para>Opens a dialog where you can paste the URL of the Mediawiki page you want to translate. The source data of the page will be copied into the <link linkend="project.folder.source" endterm="project.folder.source.title"/> folder, as a text file, with the <filename>.utf8</filename> extension.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Ricarica</term>
-
+    <varlistentry id="menus.project.reload">
+      <term id="menus.project.reload.title">Reload		  <keycombo><keycap>F5</keycap></keycombo>
+</term>
       <listitem>
         <para>Ricarica il progetto per riflettere le modifiche esterne nei file di partenza e nelle impostazioni del progetto.</para>
-
-        <para>Le nuove memorie di traduzione che si trovano nella cartella <filename class="directory">tm</filename> durante la traduzione vengono caricate automaticamente non appena il cursore si sposta da un segmento a un altro.</para>
+        <note><para>New translation memories placed in the <link linkend="project.folder.tm" endterm="project.folder.tm.title"/> folder
+        while translating are loaded automatically as soon as the cursor moves
+        from one segment to another. Similarly, the contents of the <link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/> folder are automatically
+        recognized and do not require reloading the project.</para></note>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Chiudi</term>
-
+    <varlistentry id="menus.project.close">
+      <term id="menus.project.close.title">Close		  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>W</keycap></keycombo>
+</term>
       <listitem>
-        <para>Salva la traduzione e chiude il progetto.</para>
+        <para>Saves the project translation memory and closes the project. Vedere <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/> per dettagli.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Salva</term>
-
+    <varlistentry id="menus.project.save">
+      <term id="menus.project.save.title">Save		  <keycombo><keycap>C</keycap><keycap>S</keycap></keycombo>
+</term>
       <listitem>
-        <para>Salva la memoria di traduzione interna nel disco rigido. OmegaT salva automaticamente le traduzioni ogni tre minuti, oppure tutte le volte che si chiude un progetto o che si esce da OmegaT.</para>
-
-        <para>Il tempo dell'intervallo è modificabile in <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenu>Opzioni</guimenu> <guimenuitem>Preferenze</guimenuitem> <guimenuitem>Salvataggio e risultato</guimenuitem> </menuchoice></link>.</para>
+        <para>Saves the project translation memory. Vedere <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/> per dettagli.</para>
+		<para>OmegaT salva automaticamente le traduzioni ogni tre minuti, oppure tutte le volte che si chiude un progetto o che si esce da OmegaT. Vedere <link linkend="dialog.preferences.saving.and.output.interval" endterm="dialog.preferences.saving.and.output.interval.title"/> per dettagli.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Invia i file di partenza</term>
-
+    <varlistentry id="menus.project.commit.source.files">
+      <term id="menus.project.commit.source.files.title">Invia i file di partenza</term>
       <listitem>
-        <para>Carica nel deposito i file che sono stati aggiunti o modificati localmente nella cartella <filename class="directory">source</filename>.</para>
-
-        <para>Questa funzione è specifica dei progetti in collaborazione.</para>
+        <warning><para>Questa funzione è specifica dei progetti in collaborazione. <emphasis>Only the team project manager should use this function</emphasis>. Vedere <link linkend="how.to.use.team.project" endterm="how.to.use.team.project.title"/> per i dettagli.</para></warning>
+        <para>Uploads locally added or modified files in the <filename class="directory">source</filename> folder to the team project repository.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Invia i file di arrivo</term>
-
+    <varlistentry id="menus.project.commit.target.files">
+      <term id="menus.project.commit.target.files.title">Invia i file di arrivo</term>
       <listitem>
-        <para>Carica nel deposito i file che sono stati creati localmente nella cartella <filename class="directory">target</filename>.</para>
-
-        <para>Questa funzione è specifica dei progetti in collaborazione.</para>
+        <warning><para>Questa funzione è specifica dei progetti in collaborazione. <emphasis>Use this function only if the team project manager requested so</emphasis>. Vedere <link linkend="how.to.use.team.project" endterm="how.to.use.team.project.title"/> per i dettagli.</para></warning>
+        <para>Uploads locally created in the <link linkend="project.folder.target" endterm="project.folder.target.title"/> folder to the team project repository.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Crea i documenti di arrivo</term>
-
+    <varlistentry id="menus.project.create.translated.documents">
+      <term id="menus.project.create.translated.documents.title">Create Translated Documents		  <keycombo><keycap>C</keycap><keycap>D</keycap></keycombo>
+</term>
       <listitem>
-        <para>Crea i documenti finali inserendo negli stessi la traduzione. I documenti finali saranno creati nella cartella <filename class="directory">target</filename>.</para>
+        <para>Crea i documenti finali inserendo negli stessi la traduzione. The created target documents are located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/> folder.</para>
+		<para>
+		</para>				
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Crea il documento tradotto corrente</term>
-
+    <varlistentry id="menus.project.create.current.translated.document">
+      <term id="menus.project.create.current.translated.document.title">Create Current Translated Document		  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>D</keycap></keycombo>
+</term>
       <listitem>
-        <para>Crea il documento di arrivo che corrisponde al documento corrente contenuto nella traduzione.</para>
+        <para>Creates the target document corresponding to source document currently being translated. The resulting document is located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/>
+        folder.</para>
+		<para>
+		</para>				
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Apri progetto MED...</term>
-
+    <varlistentry id="menus.project.open.med.project">
+      <term id="menus.project.open.med.project.title">Apri progetto MED...</term>
+	  <!-- TODO add link to a format description -->
       <listitem>
         <para>Apre un pacchetto di progetto nel formato MED definito dalla EU Directorate-General for Translation (EU-Direzione generale della Traduzione).</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Crea progetto MED...</term>
-
+    <varlistentry id="menus.project.create.med.project">
+      <term id="menus.project.create.med.project.title">Crea progetto MED...</term>
+	  <!-- TODO add link to a format description -->
       <listitem>
         <para>Converte il progetto attivo in un pacchetto MED.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Proprietà...</term>
-
+    <varlistentry id="menus.project.properties">
+      <term id="menus.project.properties.title">Properties...		  <keycombo><keycap>C</keycap><keycap>E</keycap></keycombo>
+</term>
       <listitem>
-        <para>Visualizza la finestra di dialogo <link linkend="dialogs.projectproperties">Proprietà del progetto</link> nella quale si potranno modificare le lingue del progetto e il percorso di memorizzazione delle cartelle.</para>
+        <para>Displays the <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/> dialog to edit the project languages and folder
+        locations.</para>
+		<para>
+		</para>		
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>File del progetto...</term>
-
+    <varlistentry id="menus.project.project.files">
+      <term id="menus.project.project.files.title">Project Files...		  <keycombo><keycap>C</keycap><keycap>L</keycap></keycombo>
+</term>
       <listitem>
-        <para>Apre la finestra <link linkend="windows.projectfiles">File del progetto</link>.</para>
+        <para>Opens the <link linkend="windows.project.files" endterm="windows.project.files.title"/> window.</para>
+		<para>
+		</para>				
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Accedi al contenuto del progetto</term>
-
+    <varlistentry id="menus.project.access.project.contents">
+      <term id="menus.project.access.project.contents.title">Accedi al contenuto del progetto</term>
       <listitem>
-        <para>Permette l'accesso alle cartelle del progetto.</para>
+        <para>Gives access to the various project folders. See <link linkend="project.folder" endterm="project.folder.title"/> for more details.</para>
+        <para>In addition, there are three menu entries that directly open the current
+        source or target documents, or the writable glossary. The documents are
+        opened in the default application set by the operating system. The options are grayed out if the documents do not exist yet.</para>
 
-        <para>In aggiunta, due voci di menu permettono l'apertura diretta dei documenti correnti di arrivo e di partenza e del glossario modificabile. I documenti sono aperti dall'applicazione scelta dal sistema operativo. Se i documenti non sono disponibili, la voce è disattivata.</para>
+		<variablelist>
+		  <varlistentry>
+			<term><link linkend="project.folder" endterm="project.folder.title"/></term>
+		  </varlistentry>
+		  <varlistentry>
+			<term><link linkend="project.folder.dictionary" endterm="project.folder.dictionary.title"/></term>
+		  </varlistentry>
+		  <varlistentry>
+			<term><link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/></term>
+		  </varlistentry>
+		  <varlistentry>
+			<term><link linkend="project.folder.source" endterm="project.folder.source.title"/></term>
+		  </varlistentry>
+		  <varlistentry>
+			<term><link linkend="project.folder.target" endterm="project.folder.target.title"/></term>
+		  </varlistentry>
+		  <varlistentry>
+			<term><link linkend="project.folder.tm" endterm="project.folder.tm.title"/></term>
+		  </varlistentry>
+		  <varlistentry>
+			<term>Current Source Document</term>
+			<listitem>
+			  <para>The current source document is located in the <link linkend="project.folder.source" endterm="project.folder.source.title"/> folder.</para></listitem>
+		  </varlistentry>
+		  <varlistentry>
+			<term>Current Target Document</term>
+			<listitem>
+			  <para>The current target document is located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/> folder.</para></listitem>
+		  </varlistentry>
+		  <varlistentry>
+			<term>Writable Glossary</term>
+			<listitem>
+			  <para>The writable glossary is located in the <link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/> folder.</para></listitem>
+		  </varlistentry>
+		</variablelist>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Riavvia</term>
-
+    <varlistentry id="menus.project.restart">
+      <term id="menus.project.restart.title">Riavvia</term>
       <listitem>
-        <para>Salva il progetto e riavvia OmegaT. Se il progetto non è ancora stato salvato manualmente, verrà richiesto se si desidera davvero uscire dall'applicazione.</para>
+        <para>Salva il progetto e riavvia OmegaT. You are asked to confirm that you really want to quit if you have not yet saved the project.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Esci</term>
-
+    <varlistentry id="menus.project.quit">
+      <term id="menus.project.quit.title">Quit		  <keycombo><keycap>C</keycap><keycap>Q</keycap></keycombo>
+</term>
       <listitem>
-        <para>Salva il progetto ed esce da OmegaT. Se il progetto non è ancora stato salvato manualmente, verrà richiesto se si desidera davvero uscire dall'applicazione.</para>
-
-		<para>In macOS, questo elemento di menu è elencato nel menu delle applicazioni.</para>
+        <para>Salva il progetto ed esce da OmegaT. You are asked to confirm that you really want to quit if you have not yet saved the project.</para>
+		<note><para>In macOS, this menu item is found under the
+		<guimenu>OmegaT</guimenu> menu.</para></note>
       </listitem>
     </varlistentry>
   </variablelist>

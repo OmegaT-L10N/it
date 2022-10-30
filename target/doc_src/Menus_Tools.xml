@@ -1,134 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.tools">
-  <title>Strumenti</title>
+  <title id="menus.tools.title">Strumenti</title>
+
+	<example><title id="example.check.issues.title">Verifica problemi...</title>
+	<para>In this manual:
+	<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>V</keycap></keycombo>
+	</para>
+	<para>On Windows and Linux:
+	<keycombo><keycap>Control</keycap><keycap>Shift</keycap><keycap>V</keycap></keycombo>
+	</para>
+	<para>On macOS:
+	<keycombo><keycap>Shift</keycap><keycap>Command</keycap><keycap>V</keycap></keycombo>
+	</para>
+	</example>
 
   <variablelist>
-    <varlistentry>
-      <term>Verifica problemi...</term>
-
+    <varlistentry id="menus.tools.check.issues">
+      <term id="menus.tools.check.issues.title">Check Issues...	<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>V</keycap></keycombo>
+</term>
       <listitem>
-        <para>Lo strumento per il controllo della qualità che esegue in un'unica operazione tutte le verifiche automatiche e ne mostra i risultati in una finestra.</para>
-
-        <para>Vengono individuati quattro tipi di problemi:</para>
-
+        <para>This quality assurance tool carries out all automatic checks in
+        one go and displays the results in a window.</para>
+        <para>Four types of issues can be detected:</para>
         <itemizedlist>
           <listitem>
-            <para>Tag mancanti o usati in modo scorretto, incluso i <link linkend="dialogs.preferences.tagprocessing">tag personalizzati</link>. L'opzione <guilabel>Problemi con tag</guilabel> è sempre selezionata.</para>
+            <para><guilabel>Tag Issues</guilabel> (always selected): detects
+            missing or displaced tags, including custom tags and controlled
+            strings. See Preferences – <link linkend="dialogs.preferences.tag.processing" endterm="dialogs.preferences.tag.processing.title"/> for details.
+            The option is always selected.</para>
           </listitem>
-
           <listitem>
-            <para><guilabel>Problemi ortografici</guilabel> (facoltativa). Funziona solo se è installato un dizionario ortografico.</para>
+            <para><guilabel>Spelling Issues</guilabel> (optional): detects spelling mistakes. Funziona solo se è installato un dizionario ortografico. Vedere <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per i dettagli.</para>
           </listitem>
-
           <listitem>
-            <para><guilabel>Problemi con la terminologia</guilabel> (facoltativa).</para>
+            <para><guilabel>Terminology Issues</guilabel> (optional): detects
+            all the glossary items that are not properly translated. See Preferences – <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> for details.</para>
           </listitem>
-
           <listitem>
-            <para><guilabel>Problemi di LanguageTool</guilabel> (facoltativa).</para>
+            <para><guilabel>LanguageTool Issues</guilabel> (optional): detects grammatical or typographical issues. Vedere <link linkend="dialog.preferences.languagetool.plugin" endterm="dialog.preferences.languagetool.plugin.title"/> per i dettagli.</para>
           </listitem>
         </itemizedlist>
-
-        <para>La finestra dei risultati è visualizzata in forma tabellare, in cui:</para>
-
+        <para>The results are presented as a table in which:</para>
         <itemizedlist>
           <listitem>
             <para>il doppio clic su una riga attiva il segmento corrispondente nel pannello dell'Editor,</para>
           </listitem>
-
           <listitem>
-            <para>il clic su un'intestazione di colonna cambia l'ordine della colonna,</para>
+            <para>clicking a column header changes the sort order for that column,</para>
           </listitem>
-
           <listitem>
-            <para>la selezione o lo spostamento del mouse su una riga mostra un'icona di un menu a comparsa, nell'ultima colonna, che contiene le azioni per correggere o ignorare gli errori.</para>
+            <para>selecting a row, or moving the mouse over it, displays a
+            context menu icon in the last column; clicking that icon presents
+            actions available to correct or ignore the error.</para>
           </listitem>
         </itemizedlist>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Verifica problemi per il documento attivo</term>
-
+    <varlistentry id="menus.tools.check.issues.for.current.document">
+      <term id="menus.tools.check.issues.for.current.document.title">Verifica problemi per il documento attivo</term>
       <listitem>
         <para>Come sopra, ma solo per il documento correntemente aperto nel pannello dell'Editor.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Statistiche</term>
-
+    <varlistentry id="menus.tools.statistics">
+      <term id="menus.tools.statistics.title">Statistiche</term>
       <listitem>
-        <para>Apre una nuova finestra e mostra le statistiche del progetto, per esempio i totali del progetto e quelli per ciascun file al suo interno.</para>
+        <para>Opens a new window and displays project statistics such as the
+        overall project word count or segment totals, and totals for every file
+        in the project.</para>
+		<para>The data is also saved as a text file in <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/>.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Statistiche delle concordanze</term>
-
+    <varlistentry id="menus.tools.match.statistics">
+      <term id="menus.tools.match.statistics.title">Statistiche delle concordanze</term>
       <listitem>
         <para>Mostra le statistiche di concordanza per il progetto: numero di ripetizioni, concordanze esatte, parziali e nessuna, per i segmenti, le parole e i caratteri.</para>
+		<para>The data is also saved as a text file in <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/>.</para>
       </listitem>
     </varlistentry>
-
-    <varlistentry>
-      <term>Statistiche delle concordanze per file</term>
-
+	
+    <varlistentry id="menus.tools.match.statistics.per.file">
+      <term id="menus.tools.match.statistics.per.file.title">Statistiche delle concordanze per file</term>
       <listitem>
         <para>Mostra le statistiche di concordanza per ciascun file del progetto: numero di ripetizioni, concordanze esatte, parziali e nessuna, per i segmenti, le parole e i caratteri.</para>
+		<para>The data is also saved as a text file in <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/>.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Allinea file...</term>
-
+    <varlistentry id="menus.tools.align.files">
+      <term id="menus.tools.align.files.title">Allinea file...</term>
       <listitem>
-        <para>Selezionare i due file da allineare (il file di partenza e la sua traduzione) e premere OK per aprire la finestra <link linkend="windows.aligner"><guilabel>Allinea</guilabel></link>.</para>
-
-        <para>I formati di file supportati sono quelli elencati in <menuchoice> <guimenuitem>Progetto</guimenuitem> <guimenuitem>Proprietà</guimenuitem> <guimenuitem>Filtri dei file</guimenuitem> </menuchoice>.</para>
-
+        <para>Select the two files to align (the source file and its
+        translation) and click <guibutton>OK</guibutton> to open the <link linkend="windows.aligner" endterm="windows.aligner.title"/> window.</para>
+        <para>The supported file formats are the same as those listed in Preferences – <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/>.</para>
         <para>I file di partenza e quelli di arrivo possono avere formati diversi (per esempio, un file <filename>.docx</filename> può essere allineato con un file <filename>.pdf</filename>).</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Azioni di script...</term>
-
+    <varlistentry id="menus.tools.scripting">
+      <term id="menus.tools.scripting.title">Azioni di script...</term>
       <listitem>
-        <para>Apre la <link linkend="windows.scripts">finestra <guilabel>Azioni di script</guilabel></link> in cui è possibile impostare la posizione degli script, e in cui essi possono essere scritti, avviati e associati a una scorciatoia.</para>
+        <para>Opens the <link linkend="windows.scripts" endterm="windows.scripts.title"/> window, which allows you to set the
+        location where scripts are stored, as well was write and run scripts,
+        and assign them a shortcut.</para>
+		<para>The list below this item displays 12 potential slots for
+		scripts. Clicking on an assigned slot launches the script assigned to
+		that slot.</para>
+		<note>
+		  <para>To assign a number to a script:</para>
+          <orderedlist>
+			<listitem>
+              <para>Aprire la finestra Azioni di script</para>
+			</listitem>
+			<listitem>
+              <para>Select the script you want from the list on the left.</para>
+			</listitem>
+			<listitem>
+              <para>At the bottom of the window, right-click on an unassigned
+              number and select <guilabel>Add Script</guilabel>.</para>
+			</listitem>
+          </orderedlist>
+		</note>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>n - (nome script)</term>
-
+    <varlistentry id="menus.tools.external.search.commands">
+      <term id="menus.tools.external.search.commands.title">External search
+      commands</term>
       <listitem>
-        <para>Avvia gli script associati con un numero.</para>
-
-        <para>per associare uno script a un numero:</para>
-
-        <orderedlist>
-          <listitem>
-            <para>Aprire la finestra Azioni di script</para>
-          </listitem>
-
-          <listitem>
-            <para>Selezionare lo script dall'elenco a sinistra</para>
-          </listitem>
-
-          <listitem>
-            <para>Nella parte inferiore della finestra, fare clic col pulsante destro su un numero libero e e selezionare <guilabel>Aggiungi script</guilabel>.</para>
-          </listitem>
-        </orderedlist>
-      </listitem>
-    </varlistentry>
-
-    <varlistentry>
-      <term>(comandi per la ricerca esterna)</term>
-
-      <listitem>
-        <para>Se, nelle <link linkend="dialogs.preferences.externalsearch">Preferenze</link>, sono stati definiti i comandi per eseguire ricerche esterne, essi sono elencati e raggiungibili da qui.</para>
+        <para>If commands to perform external searches have been defined in
+        Preferences – <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/>, they are listed
+        and accessible here.</para>
       </listitem>
     </varlistentry>
   </variablelist>

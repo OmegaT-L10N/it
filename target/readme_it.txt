@@ -147,34 +147,34 @@ Contributi
 
 OmegaT è un lavoro originale di Keith Godfrey.
 
-Aaron Madlon-Kay è il responsabile del progetto OmegaT.
+Jean-Christophe Helary è il responsabile del progetto OmegaT.
 
 Team attuale:
 (ordine alfabetico)
 
-- Vincent Bidaux (responsabile della documentazione)
-- Marco Cevoli (responsabile della comunità Telegram)
-- Jean-Christophe Helary (responsabile della comunità Twitter)
-- Kos Ivantsof (responsabile della localizzazione)
-- Concepción Martin (responsabile della comunità Facebook)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
 - Briac Pilpré (webmaster)
-- Lucie Vecerova (responsabile della comunità Facebook)
+- Lucie Vecerova (Facebook community manager)
 
 I contributi al codice sono documentati in /docs/contributors.txt.
 
 Elenco dei contributi precedenti (in ordine alfabetico)
 
-- Anthony Baldwin (responsabile della localizzazione)
-- Didier Briel (responsabile del progetto)
-- Alex Buloichik (sviluppatore principale)
+- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
 - Sabine Cretella
 - Dmitri Gabinski
-- Jean-Christophe Helary (titolare del gruppo di supporto, responsabile della localizzazione)
-- Maxym Mykhalchuk (sviluppatore principale)
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
 - Samuel Murray
-- Henry Pijffers (responsabile dei rilasci)
-- Marc Prior (coordinatore del progetto, webmaster)
-- Vito Smolej (responsabile della documentazione)
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)
 
 e tantissime altre persone utilissime
 
