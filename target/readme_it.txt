@@ -1,4 +1,5 @@
-Questa traduzione è frutto del lavoro di Valter Mura, copyright© 20221
+The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@
 
 
 Che cosa è OmegaT?
@@ -64,21 +65,6 @@ Installazione di OmegaT (Solaris, FreeBSD, ecc.)
 
 Salvare ed estrarre l'archivio in una cartella di propria scelta. OmegaT è pronto per
 essere avviato.
-
-
-
-Uso di Java Web Start per l'installazione di OmegaT (tutte le piattaforme)
-==========================================================================
-
-Se Java è già installato sul proprio sistema, un metodo per installare OmegaT
-è usare Java Web Start.
-
-A questo proposito, scaricare ed eseguire il file seguente:
-
-  https://omegat.sourceforge.net/webstart/OmegaT.jnlp
-
-Esso installerà l'ambiente corretto per il proprio computer e l'applicazione
-per il primo avvio. Non è necessario eseguire online le chiamate successive.
 
 
 
@@ -154,27 +140,29 @@ Team attuale:
 
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
-- Kos Ivantsof (localisation manager)
+- Kos Ivantsov (localisation manager)
 - Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
 - Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
 - Lucie Vecerova (Facebook community manager)
 
 I contributi al codice sono documentati in /docs/contributors.txt.
 
 Elenco dei contributi precedenti (in ordine alfabetico)
 
-- Anthony Baldwin (localisation manager)
-- Vincent Bidaux (documentation manager)
-- Didier Briel (project manager)
-- Alex Buloichik (lead developer)
+- Anthony Baldwin (responsabile della localizzazione)
+- Vincent Bidaux (responsabile della documentazione)
+- Didier Briel (responsabile del progetto)
+- Alex Buloichik (sviluppatore principale)
 - Sabine Cretella
 - Dmitri Gabinski
-- Aaron Madlon-Kay (project manager)
-- Maxym Mykhalchuk (lead developer)
+- Aaron Madlon-Kay (responsabile del progetto)
+- Maxym Mykhalchuk (sviluppatore principale)
 - Samuel Murray
-- Henry Pijffers (release manager)
-- Marc Prior (project co-ordinator, webmaster)
-- Vito Smolej (documentation manager)
+- Henry Pijffers (responsabile dei rilasci)
+- Marc Prior (coordinatore del progetto, webmaster)
+- Vito Smolej (responsabile della documentazione)
 
 e tantissime altre persone utilissime
 

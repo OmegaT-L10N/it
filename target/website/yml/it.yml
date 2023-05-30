@@ -8,6 +8,7 @@ menu:
   documentation: Documentation
   contact: Contact
   download: Download
+  install: Install
   resources: Resources
   support: Support
 
@@ -15,6 +16,7 @@ footer:
   connect: Connect
   omegat_project: The OmegaT Project
   documentation: Documentation
+  developers: Contributing
 
 titles:
   404: Page Not Found
@@ -23,8 +25,10 @@ titles:
   support: Support
   documentation: Documentation
   download: Download
+  install: Install
   home: OmegaT - The Free Translation Memory Tool
   philosophy: Philosophy
+  policies: Policies
   resources: Resources
   manual: Manual
   tutorials: Tutorials

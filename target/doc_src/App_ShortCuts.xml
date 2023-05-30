@@ -1,405 +1,254 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="app.shortcuts">
-  <title id="app.shortcuts.title">OmegaT Shortcuts</title>
+  <title id="app.shortcuts.title">Scorciatoie di OmegaT</title>
 
   <section id="app.shortcuts.description">
     <title id="app.shortcuts.description.title">Descrizione</title>
 
-    <para>The OmegaT interface generally does not rely on buttons to give
-    access to its functions. Instead, they are called from the menus or, for the
-    majority of functions, from their assigned default shortcut.</para>
+    <para>L'interfaccia di OmegaT non si basa, in generale, su pulsanti di accesso alle funzioni del programma. Queste vengono richiamate, invece, dai menu o, per la maggior parte di esse, dalla scorciatoia a loro assegnata.</para>
   
-    <para>Learning the most frequent shortcuts will not take long once you
-    start working with OmegaT. The shortcuts are indicated next to each menu
-    item, allowing them to learn new shortcuts gradually as you use the software.</para>
+    <para>Il tempo necessario ad apprendere le scorciatoie più frequenti non è superiore a quello impiegato per iniziare a lavorare con OmegaT. Le scorciatoie vengono indicate accanto alle voci di ciascun menu, consentendo all'utente di impararle man mano che utilizza il programma.</para>
 
-    <para>You can customize the majority of the shortcuts in OmegaT. Vedere <link endterm="app.shortcuts.customization.title" linkend="app.shortcuts.customization"/> per dettagli.</para>
+    <para>In OmegaT è possibile personalizzare la maggior parte delle scorciatoie. Vedere la sezione <link endterm="app.shortcuts.customization.title" linkend="app.shortcuts.customization"/> per i dettagli.</para>
 
-    <para>OmegaT runs on any platform that runs a Java Runtime Environment
-    (Windows, macOS, and Linux being the most mainstream). The modifier keys
-    that form the shortcuts vary slightly depending between platforms. To make
-    reading easier we have adopted the following convention for modifier keys:
-    <table id="shortcut.description">
-      <title id="shortcut.description.title">Modifier key identifiers</title>
+    <para>OmegaT funziona su qualsiasi piattaforma esegue un Java Runtime Environment (considerando Windows, macOS e Linux come sistemi principali). I tasti modificatori che formano le scorciatoie variano leggermente a seconda della piattaforma utilizzata. Al fine di rendere semplice la lettura dei tasti modificatori è stata adottata la convenzione seguente:</para>
+	
+    <table id="app.shortcut.description">
+      <title id="app.shortcut.description.title">Identificatori tasti modificatori</title>
 
       <tgroup cols="3">
         <thead>
           <row>
             <entry>Linux/Windows</entry>
-            <entry>Key identifier</entry>
+            <entry>Identificatore tasto</entry>
             <entry>macOS</entry>
           </row>
         </thead>
 
         <tbody>
           <row>
-            <entry><keycap>Shift</keycap></entry>
+            <entry><keycap>Maiusc</keycap></entry>
             <entry><keycap>S</keycap></entry>
-            <entry><keycap>shift</keycap> or <keycap>⇧</keycap></entry>
+            <entry><keycap>Maiusc (Shift)</keycap> o <keycap>⇧</keycap></entry>
           </row>
 
           <row>
-            <entry><keycap>Ctrl</keycap> or <keycap>Control</keycap></entry>
+            <entry><keycap>Ctrl</keycap> o <keycap>Control</keycap></entry>
             <entry><keycap>C</keycap></entry>
-            <entry><keycap>command</keycap> or <keycap>⌘</keycap></entry>
+            <entry><keycap>command (Cmd)</keycap> o <keycap>⌘</keycap></entry>
           </row>
 
           <row>
             <entry><keycap>Alt</keycap></entry>
             <entry><keycap>A</keycap></entry>
-            <entry><keycap>alt / option</keycap> or
-            <keycap>⌥</keycap></entry>
+            <entry><keycap>Alt / Opzione (Option)</keycap> o <keycap>⌥</keycap></entry>
           </row>
 
           <row>
             <entry/>
             <entry><keycap>Ctrl</keycap></entry>
-            <entry><keycap>control</keycap> or <keycap>⌃</keycap></entry>
+            <entry><keycap>control</keycap> o <keycap>⌃</keycap></entry>
           </row>
         </tbody>
       </tgroup>
-      </table></para>
-      
-      <para>The <emphasis role="bold">Key identifiers</emphasis> above enable us
-      to avoid listing multiple notations for every shortcut.</para>
+    </table>
+        
+    <para>Gli <emphasis role="bold">identificatori tasto</emphasis> sopra indicati permettono di evitare un elenco di notazioni multiple per ciascuna scorciatoia.</para>
 
-          <example id="example.avoid.listing.multiple.notations"><title id="example.avoid.listing.multiple.notations.title">How we avoid listing multiple notations:</title>
-		<para>On Windows and Linux:
-		  <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap><keycap>N</keycap></keycombo>
-		</para>
-		<para>On macOS:
-		  <keycombo><keycap>Shift</keycap><keycap>Command</keycap><keycap>N</keycap></keycombo>
-		</para>
-  		<para>In this guide:
-		  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>N</keycap></keycombo>
-		</para>
-		</example>
+    <example id="example.avoid.listing.multiple.notations">
+	  <title id="example.avoid.listing.multiple.notations.title">Come evitiamo l'elenco di notazioni multiple:</title>
+	  <para>In Windows e Linux: <keycombo><keycap>Ctrl</keycap><keycap>Maiusc</keycap><keycap>N</keycap></keycombo></para>
+
+	  <para>In macOS: <keycombo><keycap>Maiusc</keycap><keycap>Command</keycap><keycap>N</keycap></keycombo></para>
+
+	  <para>In questo manuale: <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>N</keycap></keycombo></para>
+	</example>
   </section>
   
-  <section id="app.shortcuts.streamline.workflow">
-    <title id="app.shortcuts.streamline.workflow.title">A shortcut based workflow</title>
-
-    <para>Remembering the main editing and navigation shortcuts (or <link linkend="app.shortcuts.customization">modifying them to suit your
-    needs</link>) can help you streamline your work.</para>
-    <para>This is best illustrated with an example:</para>
-
-      <example id="example.shortcuts.streamline.workflow">
-        <title id="example.shortcuts.streamline.workflow.title">Using shortcuts
-        to streamline the translation process</title>
-
-        <para>Picture a technical translator tasked with translating an updated
-        version of a manual from a previous job.</para>
-        
-        <para>Since the first few pages have not changed, the translator is
-        greeted with a screenful of already translated segments from the
-        previous job's memory upon opening the project. Rather than tediously
-        scroll down until she finds the first segment to translate, the
-        translator quickly presses
-        <keycombo><keycap>C</keycap><keycap>U</keycap></keycombo> to
-        <link linkend="menus.goto.next.untranslated.segment">jump
-        straight into the action</link> and start translating. (And doing so
-        again each time she reaches a large unchanged section.)</para>
-
-        <para>A few segments later, the translator comes across a term she
-        should add to the glossary. Instead of reaching for the mouse, she unlocks the cursor with <link linkend="panes.editor.cursor.lock"><keycap>F2</keycap></link>,
-       uses the cursor keys and standard system shortcuts to navigate to the
-        term and select it, and then presses
-        <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>G</keycap>
-        </keycombo> to <link linkend="menus.edit.create.glossary.entry">call up
-        the glossary entry dialog</link> to enter the source term, and then
-        switches back to the editor and repeats the process to enter the target
-        term.</para>
-
-		<para>The translator has enabled the auto-completer to automatically
-		display history predictions, but also glossary terms, and pre-defined
-		short strings, which can be entered with simple arrow navigation.</para>
-		
-        <para>The translator then reaches a revised section of the text where
-        the <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/> pane shows a number of similar
-        segments from the previous job. After quickly tapping
-        <keycombo><keycap>C</keycap><keycap>I</keycap></keycombo> to insert the
-        match, she makes the necessary changes to match the revised text. This
-        continues, with the occasional sequence of
-        <keycombo><keycap>C</keycap><keycap>2</keycap></keycombo> (or other
-        number) followed by
-        <keycombo><keycap>C</keycap><keycap>I</keycap></keycombo> when one of
-        the matches from 2 to 5 is more suitable. By the time she gets near the
-        end of the section, she has also used
-        <keycombo><keycap>C</keycap><keycap>R</keycap></keycombo> once or twice
-        to replace already automatically entered fuzzy matches from the previous
-        translation with better matches from earlier in the current
-        section.</para>
-
-        <para>Later on, the translator comes up with a better way to phrase a
-        somewhat thorny expression that came up earlier, so she selects it in
-        the source text, presses
-        <keycombo><keycap>C</keycap><keycap>F</keycap></keycombo> <link linkend="windows.text.search">to find</link> it, and then uses
-        <keycombo><keycap>C</keycap><keycap>J</keycap></keycombo> to immediately
-        to that segment from the search dialog. Since she had noted the number of the segment she was in, she uses
-        <keycombo><keycap>C</keycap><keycap>J</keycap></keycombo> again in the
-        editor, enters the number in the dialog, and immediately continues from
-        where she left off.</para>
-
-        <para>Time for a break. As she savors her coffee, the translator
-        reflects on how much more smoothly she was able to use the various
-        OmegaT functions compared to when she had just gotten started and spent
-        a lot of time clicking through menus.</para>
-        
-        <para>The smoother workfow, in turn, allowed her to better focus on the
-        translation itself.</para>
-        
-        <para>At the same time, the translator realized that during her
-        session, she used the menu and cursor keys to select the
-        <link linkend="menus.edit.create.alternative.translation" endterm="menus.edit.create.alternative.translation.title"/> function
-        several times, and decides to <link linkend="example.shortcut.addition">add a new shortcut</link> to
-        streamline that part of the process as well.</para>
-      </example>
-    
-    <para>Taking the time to learn the shortcuts for the functions you use often
-    will be well worth your while.</para>    
-  </section>
-
   <section id="app.shortcuts.customization">
-    <title id="app.shortcuts.customization.title">Customization</title>
+    <title id="app.shortcuts.customization.title">Personalizzazione</title>
 
-    <para>OmegaT assigns shortcuts to most of the functions available in the
-    <link linkend="menus.project" endterm="menus.project.title"/>,
-    <link linkend="menus.edit" endterm="menus.edit.title"/>, and
-    <link linkend="menus.goto" endterm="menus.goto.title"/> menus and	to a
-    number of functions in the Editor window. You can also add or modify the
-    shortcuts for most of the functions.</para>
-    <para>To do so, you have to put the appropriate shortcut definition file in your OmegaT configuration folder. Vedere <link endterm="configuration.folder.title" linkend="configuration.folder"/> per dettagli.</para>
+    <para>OmegaT assegna scorciatoie alla maggior parte delle funzioni disponibili nei menu <link linkend="menus.project" endterm="menus.project.title"/>, <link linkend="menus.edit" endterm="menus.edit.title"/> e <link linkend="menus.goto" endterm="menus.goto.title"/>, e ad alcune funzioni nel pannello <link linkend="panes.editor" endterm="panes.editor.title"/>. È possibile anche aggiungere o modificare le scorciatoie per la maggior parte delle funzioni.</para>
 
-    <para>There are two shortcut definition files.</para>
-    <variablelist>
+	<para>Per farlo è necessario inserire il corretto file di definizione delle scorciatoie nella propria cartella di configurazione di OmegaT. Vedere l'appendice <link endterm="configuration.folder.title" linkend="configuration.folder"/>per i dettagli.</para>
+
+    <para>Esistono due file di definizione delle scorciatoie.</para>
+
+	<variablelist>
       <varlistentry>
         <term id="MainMenuShortcuts.properties">MainMenuShortcuts.properties</term>
         <listitem>
-          <para>The shortcut definition file for the menus and a few other
-          items.</para>
+          <para>Il file di definizione delle scorciatoie per i menu e alcuni altri elementi.</para>
         </listitem>
       </varlistentry>
-      <varlistentry>
+
+	  <varlistentry>
         <term id="EditorShortcuts.properties">EditorShortcuts.properties</term>
-        <listitem><para>The shortcut definition file for the editor.</para>
+        <listitem><para>Il file di definizione delle scorciatoie per l'editor.</para>
         </listitem>
       </varlistentry>
     </variablelist>
 
-    <para>OmegaT must be restarted after a shortcut definition file has been
-    modified for the new shortcuts to take effect.</para>
+    <para>Affinché le nuove scorciatoie siano attive dopo aver modificato un file di definizione delle scorciatoie, OmegaT deve essere riavviato.</para>
 
     <note>
-      <para>You can copy the default OmegaT shortcut files from the OmegaT
-      development site on Sourceforge to
-      <link linkend="configuration.folder">your configuration folder</link> and
-      modify them to suit your needs:</para>
+      <para>È possibile copiare i file delle scorciatoie predefinite di OmegaT nella <link linkend="configuration.folder">propria cartella di configurazione</link> dal sito di sviluppo OmegaT in Sourceforge e modificarli in base alle proprie necessità:</para>
 
       <variablelist>
         <varlistentry>
-          <term>Windows and Linux default shortcuts</term>
+          <term>Scorciatoie predefinite per Windows e Linux</term>
           <listitem>
             <itemizedlist>
               <listitem>
-                <para><ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties">MainMenuShortcuts.properties</ulink></para>
+                <para><ulink url="https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties">MainMenuShortcuts.properties</ulink></para>
               </listitem>
+
               <listitem>
-                <para><ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/EditorShortcuts.properties">EditorShortcuts.properties</ulink></para>
+                <para><ulink url="https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties">EditorShortcuts.properties</ulink></para>
               </listitem>
             </itemizedlist>
           </listitem>
         </varlistentry>
-        <varlistentry><term>macOS default shortcuts</term>
+		
+        <varlistentry><term>Scorciatoie predefinite per macOS</term>
           <listitem>
             <itemizedlist>
               <listitem>
-                <para><ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties">MainMenuShortcuts.mac.properties</ulink></para>
+                <para><ulink url="https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties">MainMenuShortcuts.mac.properties</ulink></para>
               </listitem>
+
               <listitem>
-                <para><ulink url="https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/EditorShortcuts.mac.properties">EditorShortcuts.mac.properties</ulink></para>
+                <para><ulink url="https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties">EditorShortcuts.mac.properties</ulink></para>
               </listitem>
             </itemizedlist>
           </listitem>
         </varlistentry>
       </variablelist>
-        <para>The macOS files must be renamed <link linkend="MainMenuShortcuts.properties" endterm="MainMenuShortcuts.properties"/> and
-        <link linkend="EditorShortcuts.properties" endterm="EditorShortcuts.properties"/> for OmegaT to recognize
-      them.</para>
+
+      <para>I file macOS devono essere rinominati <link linkend="MainMenuShortcuts.properties" endterm="MainMenuShortcuts.properties"/> e <link linkend="EditorShortcuts.properties" endterm="EditorShortcuts.properties"/> affinché OmegaT li riconosca.</para>
     </note>
-    <para>
-      The next section describes the syntax used in the shortcut definition
-      files, and provides an example modification.
-    </para>
+
+    <para>La sezione seguente descrive la sintassi utilizzata nei file di definizione delle scorciatoie e fornisce un esempio di modifica.</para>
   </section>
 
   <section id="app.shortcuts.syntax">
-    <title id="app.shortcuts.syntax.title">Syntax</title>
+    <title id="app.shortcuts.syntax.title">Sintassi</title>
 
-    <para>The basic syntax of the shortcut definitions files is simply:</para>
-    <para><code>function code=shortcut</code></para>
-    <para>Use the tables in the <link linkend="app.shortcuts.lists" endterm="app.shortcuts.lists.title"/> section below to find the values for
-    <code>function code</code>.</para>
+    <para>La sintassi di base dei file di definizione delle scorciatoie è semplice:</para>
+
+    <para><code>codice funzione=scorciatoia</code></para>
+
+	<para>Utilizzare le tabelle nella sezione <link linkend="app.shortcuts.lists" endterm="app.shortcuts.lists.title"/> riportata sotto per individuare i valori per il <code>codice funzione</code>.</para>
     
-    <para>The <code>shortcut</code> represents the key combination pressed by
-    the user. It takes the following form:
+    <para>La <code>scorciatoia</code> rappresenta la combinazione di tasti premuta dall'utente. Assume la forma seguente:</para>
     
     <itemizedlist>
       <listitem>
-        <para>0 or more <code>modifier</code></para>
+        <para><code>modificatore</code> 0 o più</para>
       </listitem>
     
       <listitem>
-        <para>followed by 0 or 1 <code>event</code></para>
+        <para>seguito da <code>evento</code> 0 o 1</para>
       </listitem>
     
       <listitem>
-        <para>followed by 1 <code>key</code></para>
+        <para>seguito da <code>tasto</code> 1</para>
       </listitem>
     </itemizedlist>
-    where:</para>
-    
+
     <itemizedlist>
       <listitem>
-        <para><code>modifier</code> can be:
-        <literal>shift</literal>, <literal>ctrl</literal>,
-        <literal>meta</literal>, <literal>alt</literal>,
-        <literal>altGraph</literal></para>
+        <para>dove <code>modificatore</code> può essere: <literal>maiusc</literal>, <literal>ctrl</literal>, <literal>meta</literal>, <literal>alt</literal> o <literal>altGraph</literal></para>
 
         <note>
-          <para><literal>meta</literal> refers to the key with the Windows
-          logo on most keyboards for Windows or Linux systems, and to the
-          <literal>command</literal> on macOS.</para>
-          <para><literal>altGraph</literal> refers to the
-          <emphasis>Alt</emphasis> key to the right of the spacebar on
-          keyboards with two <emphasis>Alt</emphasis> keys.</para>
+          <para><literal>meta</literal> fa riferimento al tasto con il logo Windows nella maggior parte delle tastiere per sistemi Windows o Linux, e a <literal>command</literal> in macOS.</para>
+
+          <para><literal>altGraph</literal> fa riferimento al tasto <emphasis>Alt</emphasis> che si trova alla destra della barra spaziatrice nelle tastiere con due tasti <emphasis>Alt</emphasis>.</para>
         </note>
       </listitem>
 
       <listitem>
-        <para><code>event</code> can be: <option>typed</option>,
-        <option>pressed</option>, <option>released</option></para>
+        <para><code>evento</code> può essere: <option>typed</option>, <option>pressed</option>, <option>released</option></para>
       </listitem>
 
       <listitem>
-        <para>and <code>key</code> can be any key available on your
-        keyboard. You can refer to the <link linkend="app.shortcuts.lists.function.codes.editor.table">table presenting the different
-        editor shortcuts</link> to find the values for keys such as
-        <literal>Home</literal>, <literal>Page Up</literal>, or the arrow keys.</para>
+        <para>e <code>tasto</code> può essere qualsiasi tasto disponibile nella propria tastiera. Si può fare riferimento alla <link linkend="app.shortcuts.lists.function.codes.editor.table">tabella che presenta le diverse scorciatoie dell'editor</link> per trovare i valori dei tasti quali <literal>Home</literal>, <literal>PagSu</literal> o i tasti freccia.</para>
       </listitem>
     </itemizedlist>
 
-    <para>Empty lines and comments can be added to organize the list and make it
-    easier to read. A comment line starts with a <code>#</code>, and everything
-    after that is ignored by the applicaton.</para>
+    <para>È possibile aggiungere righe vuote e commenti per organizzare l'elenco e renderlo di facile lettura. Una riga di commento inizia con <code>#</code>, e l'applicazione ignora tutto quello che vi si trova dietro.</para>
 
-    <para>The easiest way to modify the shortcuts is to download copies of the
-    default files to <link linkend="configuration.folder">your configuration
-    folder</link>, as noted above, and make the changes you want there.</para>
+    <para>Il modo migliore per modificare le scorciatoie è scaricare una copia dei file predefiniti nella <link linkend="configuration.folder">propria cartella di configurazione</link>, come detto in precedenza, e apportare lì le modifiche volute.</para>
     
     <example id="example.shortcut.modification">
-      <title id="example.shortcut.modification.title">Modifying a
-      shortcut</title>
+      <title id="example.shortcut.modification.title">Modificare una scorciatoia</title>
 
-      <para>The default shortcut for <link linkend="menus.project.close">closing
-      a project</link> is defined as:
-        <simplelist>
-          <member><code>projectCloseMenuItem=ctrl shift W</code></member>
-        </simplelist>
-      on Windows and Linux, and as
-        <simplelist>
-          <member><code>projectCloseMenuItem=meta shift W</code></member>
-        </simplelist>
-      on macOS.
-      </para>
+      <para>La scorciatoia predefinita per <link linkend="menus.project.close">chiudere un progetto</link> è definita in Windows e Linux come:</para>
 
-      <para>However, you may want to remove the <keycap>S</keycap> key from the
-      shortcut to make it only
-      <keycombo><keycap>Ctrl</keycap><keycap>W</keycap></keycombo> (or
-      <keycombo><keycap>Command</keycap><keycap>W</keycap></keycombo> on macOS)
-      to match the shortcut you use in other applications. To do so, modify the
-      <filename>MainMenuShortcuts.properties</filename> as follows:
-        <simplelist>
-          <member><code>projectCloseMenuItem=ctrl W</code></member>
-        </simplelist>
-      in Windows or Linux, or</para>
-      <para>
-        <simplelist>
-          <member><code>projectCloseMenuItem=meta W</code></member>
-        </simplelist>
-      on macOS.</para>
+	  <para><code>projectCloseMenuItem=ctrl shift W</code></para>
+
+      <para>e in macOS come:</para>
+	  
+	  <para><code>projectCloseMenuItem=meta shift W</code></para>
+
+      <para>Tuttavia, si potrebbe voler rimuovere il tasto <keycap>S</keycap> dalla scorciatoia per trasformarla solo in <keycombo><keycap>Ctrl</keycap><keycap>W</keycap></keycombo> (o <keycombo><keycap>Command</keycap><keycap>W</keycap></keycombo> in macOS) in modo da farla corrispondere a quella utilizzata nelle altre applicazioni.</para>
+
+	  <para>Per farlo, modificare <filename>MainMenuShortcuts.properties</filename> per Windows o Linux nel modo seguente:</para>
+
+	  <para><code>projectCloseMenuItem=ctrl W</code></para>
+
+	  <para>o per macOS nel modo seguente:</para>
+
+      <para><code>projectCloseMenuItem=meta W</code></para>
     </example>
 
     <example id="example.shortcut.addition">
-      <title id="example.shortcut.addition.title">Adding a shortcut</title>
+      <title id="example.shortcut.addition.title">Aggiungere una scorciatoia</title>
 
-      <para>If your language pair calls for the frequent use <link linkend="menus.edit.create.alternative.translation">alternative
-      translations</link>, you may want to assign a shortcut to that function
-      since it does not have one by default.</para>
+      <para>Se la propria coppia linguistica richiama frequentemente <link linkend="menus.edit.create.alternative.translation">traduzioni alternative</link>, si potrebbe voler assegnare una scorciatoia a quella funzione, dato che essa non ne possiede una predefinita.</para>
 
-      <para>The steps below demonstrate how to assign the
-      <keycombo><keycap>Alt</keycap><keycap>X</keycap></keycombo> shortcut to the
-      <link linkend="menus.edit.create.alternative.translation" endterm="menus.edit.create.alternative.translation.title"/> function.
-        <orderedlist>
-          <listitem>
-            <para>Open the <filename>MainMenuShortcuts.properties</filename> you
-            have copied to <link linkend="configuration.folder">your
-            configuration folder</link> in a text editor.</para>
-          </listitem>
-          <listitem>
-            <para>As shown in the <link linkend="app.shortcuts.lists.function.codes.edit.menu.table">Edit
-            menu table</link> below, the function code for the <guimenuitem>Create Alternative Translation</guimenuitem> function
-            is <code>editMultipleAlternate</code>.</para>
-            <para>Searching for that code in the file will bring you to the
-            following line:
-              <simplelist>
-                <member><code>#	editMultipleAlternate=</code></member>                
-              </simplelist>
-            </para>
-          </listitem>
-          <listitem>
-            <para>The line is currently a comment. Delete the <code>#</code> at
-            the beginning of the line so OmegaT will recognize the shortcut, and
-            add <option>alt X</option> after the <code>=</code> sign at the end
-            of the line:
-              <simplelist>
-                <member><code>editMultipleAlternate=alt X</code></member>
-              </simplelist>
-            </para>
-          </listitem>
-          <listitem>
-            <para>Save and close the file. The next time you start OmegaT, you
-            your new shortcut should be active and displayed next to the name of
-            the function in the menu.</para>
+      <para>I passaggi che seguono illustrano come assegnare la scorciatoia <keycombo><keycap>Alt</keycap><keycap>X</keycap></keycombo> alla voce di menu <link linkend="menus.edit" endterm="menus.edit.title"/><link linkend="menus.edit.create.alternative.translation" endterm="menus.edit.create.alternative.translation.title"/>.</para>
+	  
+      <orderedlist>
+        <listitem>
+          <para>Aprire <filename>MainMenuShortcuts.properties</filename> che è stato copiato nella <link linkend="configuration.folder">propria cartella di configurazione</link> in un editor di testo.</para>
+        </listitem>
+
+		<listitem>
+          <para>Come mostrato nella <link linkend="app.shortcuts.lists.function.codes.edit.menu.table">tabella del menu Modifica</link> sottostante, il codice funzione per la funzione <guimenuitem>Crea traduzione alternativa</guimenuitem> è <code>editMultipleAlternate</code>.</para>
+
+          <para>Ricercando quel codice nel file si arriva alla riga seguente:</para>
+		  
+          <para><code>#	editMultipleAlternate=</code></para>
+        </listitem>
+
+		<listitem>
+            <para>La riga è attualmente un commento. Eliminare il carattere <code>#</code> all'inizio della riga in modo che OmegaT riconosca la scorciatoia e aggiungere <option>alt X</option> dopo il segno <code>=</code> alla fine della riga:</para>
+			
+            <para><code>editMultipleAlternate=alt X</code></para>
+        </listitem>
+
+		<listitem>
+            <para>Salvare e chiudere il file. Al prossimo avvio di OmegaT la nuova scorciatoia creata dovrebbe essere attiva e mostrata accanto al nome della funzione nel menu.</para>
           </listitem>
         </orderedlist>
-      </para>
     </example>
 
-    <para>Save the file after you have finished making your changes. If OmegaT
-    is open, you will have to restart it for your changes to take effect.</para>
-    <para>Your modified or added shortcuts should now be displayed next to the
-    menu items you have changed. They will now be availabe in OmegaT as long as
-    there are no conflicts with other functions or with system-wide shortcuts.</para>
+    <para>Salvare il file dopo aver completato le modifiche. Nel caso in cui fosse aperto, bisognerà riavviare OmegaT affinché le modifiche diventino attive.</para>
+    <para>Le scorciatoie modificate o aggiunte saranno ora visibili accanto alle voci del menu che sono state modificate. Saranno disponibili in OmegaT nel momento in cui non siano presenti conflitti con altre funzioni o con le scorciatoie globali del sistema.</para>
 
-    <para>The next section presents tables with the function codes and 
-    corresponding default shortcut for each menu or editor function in
-    OmegaT.</para>
+    <para>La sezione seguente illustra le tabelle dei codici funzione e la corrispondente scorciatoia predefinita per ciascun menu o funzione dell'editor in OmegaT.</para>
   </section>
 
   
 
   <section id="app.shortcuts.lists">
-    <title id="app.shortcuts.lists.title">Lists of functions and codes</title>
+    <title id="app.shortcuts.lists.title">Elenchi di funzioni e codici</title>
     <section id="app.shortcuts.lists.function.codes.menus">
-      <title id="app.shortcuts.lists.function.codes.menus.title">Menu
-      functions</title>
+      <title id="app.shortcuts.lists.function.codes.menus.title">Funzioni del Menu</title>
 
-      <para>The functions that can be modified in the
-      <filename>MainMenuShortcuts.properties</filename> file, along with their
-      default values, are presented in the tables below. Shortcuts in
-      parentheses are alternatives for the same function found in the
-      <filename>EditorShortcuts.properties</filename>.</para>
+      <para>Le tabelle sotto riportate illustrano le funzioni modificabili nel file <filename>MainMenuShortcuts.properties</filename>, insieme con i loro valori predefiniti. Le scorciatoie tra parentesi sono alternative per la stessa funzione presente in <filename>EditorShortcuts.properties</filename>.</para>
 
       <table id="app.shortcuts.lists.function.codes.project.menu.table">
         <title id="app.shortcuts.lists.function.codes.project.menu.table.title">Menu Progetto</title>
@@ -412,8 +261,8 @@
 
           <thead>
             <row>
-              <entry>Menu item</entry>
-              <entry>Function code</entry>
+              <entry>Voce del menu</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -421,37 +270,27 @@
 
           <tbody>
             <row>
-              <entry>Nuovo</entry>
+              <entry>Nuovo...</entry>
               <entry>projectNewMenuItem</entry>
               <entry>ctrl shift N</entry>
               <entry>meta shift N</entry>
             </row>
 
             <row>
-              <entry>Scarica il progetto in collaborazione</entry>
+              <entry>Scarica il progetto in collaborazione...</entry>
               <entry>projectTeamNewMenuItem</entry>
             </row>
 
             <row>
-              <entry>Apri</entry>
+              <entry>Apri...</entry>
               <entry>projectOpenMenuItem</entry>
               <entry>ctrl O</entry>
               <entry>meta O</entry>
             </row>
 
             <row>
-              <entry>Apri progetto recente</entry>
+              <entry>Apri recente...</entry>
               <entry>projectOpenRecentMenuItem</entry>
-            </row>
-
-            <row>
-              <entry>Copia i file nella cartella di partenza...</entry>
-              <entry>projectImportMenuItem</entry>
-            </row>
-
-            <row>
-              <entry>Scarica la pagina MediaWiki...</entry>
-              <entry>projectWikiImportMenuItem</entry>
             </row>
 
             <row>
@@ -475,6 +314,16 @@
             </row>
 
             <row>
+              <entry>Aggiungi file...</entry>
+              <entry>projectImportMenuItem</entry>
+            </row>
+
+            <row>
+              <entry>Aggiungi pagina MediaWiki...</entry>
+              <entry>projectWikiImportMenuItem</entry>
+            </row>
+
+            <row>
               <entry>Invia i file di partenza</entry>
               <entry>projectCommitSourceFiles</entry>
             </row>
@@ -485,17 +334,27 @@
             </row>
 
             <row>
-              <entry>Crea i documenti di arrivo</entry>
+              <entry>Crea i file tradotti</entry>
               <entry>projectCompileMenuItem</entry>
               <entry>ctrl D</entry>
               <entry>meta D</entry>
             </row>
 
             <row>
-              <entry>Crea i documenti tradotti correnti</entry>
+              <entry>Crea i file tradotti correnti</entry>
               <entry>projectSingleCompileMenuItem</entry>
               <entry>ctrl shift D</entry>
               <entry>meta shift D</entry>
+            </row>
+
+            <row>
+              <entry>Apri progetto MED...</entry>
+              <entry>projectMedOpenMenuItem</entry>
+            </row>
+
+            <row>
+              <entry>Crea progetto MED</entry>
+              <entry>projectMedCreateMenuItem</entry>
             </row>
 
             <row>
@@ -506,14 +365,14 @@
             </row>
 
             <row>
-              <entry>File del progetto...</entry>
+              <entry>File di partenza...</entry>
               <entry>viewFileListMenuItem</entry>
               <entry>ctrl L</entry>
               <entry>meta L</entry>
             </row>
 
             <row>
-              <entry>Accedi al contenuto del progetto/Radice</entry>
+              <entry>Accedi al contenuto del progetto/Cartella del progetto</entry>
               <entry>projectAccessRootMenuItem</entry>
             </row>
 
@@ -535,6 +394,16 @@
             <row>
               <entry>Accedi al contenuto del progetto/File di arrivo</entry>
               <entry>projectAccessTargetMenuItem</entry>
+            </row>
+            
+            <row>
+              <entry>Accedi al contenuto del progetto//TM</entry>
+              <entry>projectAccessTMMenuItem</entry>
+            </row>
+
+            <row>
+              <entry>Accedi al contenuto del progetto//TM esportate</entry>
+              <entry>projectAccessExportTMMenuItem</entry>
             </row>
 
             <row>
@@ -578,8 +447,8 @@
 
           <thead>
             <row>
-              <entry>Menu item</entry>
-              <entry>Function code</entry>
+              <entry>Voce del menu</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -587,14 +456,14 @@
 
           <tbody>
             <row>
-              <entry>Annulla l'ultima azione</entry>
+              <entry>Annulla</entry>
               <entry>editUndoMenuItem</entry>
               <entry>ctrl Z</entry>
               <entry>meta Z</entry>
             </row>
 
             <row>
-              <entry>Ripristina l'ultima azione</entry>
+              <entry>Ripristina</entry>
               <entry>editRedoMenuItem</entry>
               <entry>ctrl Y</entry>
               <entry>meta Y</entry>
@@ -615,13 +484,6 @@
             </row>
 
             <row>
-              <entry>Sostituisci con la Traduzione automatica</entry>
-              <entry>editOverwriteMachineTranslationMenuItem</entry>
-              <entry>ctrl M</entry>
-              <entry>meta M</entry>
-            </row>
-
-            <row>
               <entry>Sostituisci col testo di partenza</entry>
               <entry>editOverwriteSourceMenuItem</entry>
               <entry>ctrl shift R</entry>
@@ -636,7 +498,21 @@
             </row>
 
             <row>
-              <entry>Inserisci i tag di partenza mancanti</entry>
+              <entry>Seleziona testo di partenza</entry>
+              <entry>editSelectSourceMenuItem</entry>
+              <entry>ctrl shift A</entry>
+              <entry>meta shift A</entry>
+            </row>
+
+            <row>
+              <entry>Sostituisci con la Traduzione automatica</entry>
+              <entry>editOverwriteMachineTranslationMenuItem</entry>
+              <entry>ctrl M</entry>
+              <entry>meta M</entry>
+            </row>
+
+            <row>
+              <entry>Inserisci i tag mancanti</entry>
               <entry>editTagPainterMenuItem</entry>
               <entry>ctrl shift T</entry>
               <entry>meta shift T</entry>
@@ -664,21 +540,21 @@
             </row>
 
             <row>
-              <entry>Cerca nel progetto...</entry>
+              <entry>Cerca...</entry>
               <entry>editFindInProjectMenuItem</entry>
               <entry>ctrl F</entry>
               <entry>meta F</entry>
             </row>
 
             <row>
-              <entry>(Call Last Search Window)</entry>
+              <entry>(richiama l'ultima finestra di ricerca)</entry>
               <entry>findInProjectReuseLastWindow</entry>
               <entry>ctrl shift F</entry>
               <entry>meta shift F</entry>
             </row>
 
             <row>
-              <entry>Cerca e sostituisci...</entry>
+              <entry>Sostituisci...</entry>
               <entry>editReplaceInProjectMenuItem</entry>
               <entry>ctrl K</entry>
               <entry>meta K</entry>
@@ -687,15 +563,16 @@
             <row>
               <entry>Cerca dizionari</entry>
               <entry>editSearchDictionaryMenuItem</entry>
+              <entry namest="3" nameend="4">alt shift D</entry>
             </row>
 
             <row>
-              <entry>Commuta carattere in/Minuscolo</entry>
+              <entry>Commuta carattere in/minuscolo</entry>
               <entry>lowerCaseMenuItem</entry>
             </row>
 
             <row>
-              <entry>Commuta carattere in/Maiuscolo</entry>
+              <entry>Commuta carattere in/MAIUSCOLO</entry>
               <entry>upperCaseMenuItem</entry>
             </row>
 
@@ -716,81 +593,76 @@
             </row>
 
             <row>
-              <entry>Seleziona la concordanza precedente</entry>
+              <entry>Seleziona concordanza/Seleziona la concordanza precedente</entry>
               <entry>editSelectFuzzyPrevMenuItem</entry>
               <entry>ctrl UP</entry>
               <entry>meta UP</entry>
             </row>
 
             <row>
-              <entry>Seleziona la concordanza successiva</entry>
+              <entry>Seleziona concordanza/Seleziona la concordanza successiva</entry>
               <entry>editSelectFuzzyNextMenuItem</entry>
               <entry>ctrl DOWN</entry>
               <entry>meta DOWN</entry>
             </row>
 
             <row>
-              <entry>Seleziona la concordanza #1</entry>
+              <entry>Seleziona concordanza/Seleziona concordanza #1</entry>
               <entry>editSelectFuzzy1MenuItem</entry>
               <entry>ctrl 1</entry>
               <entry>meta 1</entry>
             </row>
 
             <row>
-              <entry>Seleziona la concordanza #2</entry>
+              <entry>Seleziona concordanza/Seleziona concordanza #2</entry>
               <entry>editSelectFuzzy2MenuItem</entry>
               <entry>ctrl 2</entry>
               <entry>meta 2</entry>
             </row>
 
             <row>
-              <entry>Seleziona la concordanza #3</entry>
+              <entry>Seleziona concordanza/Seleziona concordanza #3</entry>
               <entry>editSelectFuzzy3MenuItem</entry>
               <entry>ctrl 3</entry>
               <entry>meta 3</entry>
             </row>
 
             <row>
-              <entry>Seleziona la concordanza #4</entry>
+              <entry>Seleziona concordanza/Seleziona concordanza #4</entry>
               <entry>editSelectFuzzy4MenuItem</entry>
               <entry>ctrl 4</entry>
               <entry>meta 4</entry>
             </row>
 
             <row>
-              <entry>Seleziona la concordanza #5</entry>
+              <entry>Seleziona concordanza/Seleziona concordanza #5</entry>
               <entry>editSelectFuzzy5MenuItem</entry>
               <entry>ctrl 5</entry>
               <entry>meta 5</entry>
             </row>
 
             <row>
-              <entry>Insert Unicode Control Character/Left-to-Right Mark
-              (LRM U+200E)</entry>
+              <entry>Inserisci carattere di controllo Bidi/Marca da sinistra a destra (LRM U+200E)</entry>
               <entry>insertCharsLRM</entry>
             </row>
 
             <row>
-              <entry>Insert Unicode Control Character/Right-to-Left Mark
-              (RLM U+200F)</entry>
+              <entry>Inserisci carattere di controllo Bidi/Marca da destra a sinistra (RLM U+200F)</entry>
               <entry>insertCharsRLM</entry>
             </row>
             
             <row>
-              <entry>Insert Unicode Control Character/Left-to-Right Embedding
-              (LRE U+202A)</entry>
+              <entry>Inserisci carattere di controllo Bidi/Incorporazione da sinistra a destra (LRE U+202A)</entry>
               <entry>insertCharsLRE</entry>
             </row>
 
              <row>
-              <entry>Insert Unicode Control Character/Right-to-Left Embedding
-              (RLE U+202B)</entry>
+              <entry>Inserisci carattere di controllo Bidi/Incorporazione da destra a sinistra (RLE U+202B)</entry>
               <entry>insertCharsRLE</entry>
             </row>
             
             <row>
-              <entry>Insert Unicode Control Character/Pop Directional
-              Formatting (PDF U+202C)</entry>
+              <entry>Inserisci carattere di controllo Bidi/Pop Directional Formatting (PDF U+202C)</entry>
               <entry>insertCharsPDF</entry>
             </row>
 
@@ -807,6 +679,8 @@
             <row>
               <entry>Rimuovi traduzione</entry>
               <entry>editRegisterUntranslatedMenuItem</entry>
+              <entry>ctrl shift X</entry>
+              <entry>meta shift X</entry>
             </row>
 
             <row>
@@ -835,8 +709,8 @@
 
           <thead>
             <row>
-              <entry>Menu item</entry>
-              <entry>Function code</entry>
+              <entry>Voce del menu</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -881,18 +755,22 @@
             <row>
               <entry>Nota successiva</entry>
               <entry>gotoNextNoteMenuItem</entry>
+              <entry>ctrl alt N</entry>
+              <entry>meta alt N</entry>
             </row>
 
             <row>
               <entry>Nota precedente</entry>
               <entry>gotoPreviousNoteMenuItem</entry>
+              <entry>ctrl alt P</entry>
+              <entry>meta alt P</entry>
             </row>
 
             <row>
               <entry>Segmento univoco successivo</entry>
               <entry>gotoNextUniqueMenuItem</entry>
-              <entry>ctrl shift Q</entry>
-              <entry>meta shift Q</entry>
+              <entry>ctrl shift K</entry>
+              <entry>meta shift K</entry>
             </row>
 
             <row>
@@ -903,18 +781,61 @@
             </row>
 
             <row>
-              <entry>Avanti nella cronologia...</entry>
+              <entry>Segmenti popolati automaticamente/Segmento successivo da tm/auto/</entry>
+              <entry>gotoNextXAutoMenuItem</entry>
+              <entry>ctrl alt VIRGOLA</entry>
+              <entry>meta alt VIRGOLA</entry>
+            </row>
+
+            <row>
+              <entry>Segmenti popolati automaticamente/Segmento precedente da tm/auto/</entry>
+              <entry>gotoPrevXAutoMenuItem</entry>
+              <entry>ctrl alt shift VIRGOLA</entry>
+              <entry>meta alt shift VIRGOLA</entry>
+            </row>
+
+            <row>
+              <entry>Segmenti popolati automaticamente/Segmento successivo da tm/enforce/</entry>
+              <entry>gotoNextXEnforcedMenuItem</entry>
+              <entry>ctrl alt PUNTO</entry>
+              <entry>meta alt PUNTO</entry>
+            </row>
+
+            <row>
+              <entry>Segmenti popolati automaticamente/Segmento precedente da tm/enforce/</entry>
+              <entry>gotoPrevXEnforcedMenuItem</entry>
+              <entry>ctrl alt shift PUNTO</entry>
+              <entry>meta alt shift PUNTO</entry>
+            </row>
+
+            <row>
+              <entry>Indietro nella cronologia</entry>
+              <entry>gotoHistoryBackMenuItem</entry>
+              <entry>ctrl shift P</entry>
+              <entry>meta shift P</entry>
+            </row>
+
+            <row>
+              <entry>Avanti nella cronologia</entry>
               <entry>gotoHistoryForwardMenuItem</entry>
               <entry>ctrl shift N</entry>
               <entry>meta shift N</entry>
             </row>
 
             <row>
-              <entry>Indietro nella cronologia...</entry>
-              <entry>gotoHistoryBackMenuItem</entry>
-              <entry>ctrl shift P</entry>
-              <entry>meta shift P</entry>
+              <entry>Blocco note</entry>
+              <entry>gotoNotesPanelMenuItem</entry>
+              <entry>ctrl alt 9</entry>
+              <entry>meta alt 9</entry>
             </row>
+
+            <row>
+              <entry>Editor</entry>
+              <entry>gotoEditorPanelMenuItem</entry>
+              <entry>ctrl alt 0</entry>
+              <entry>meta alt 0</entry>
+            </row>
+
           </tbody>
         </tgroup>
       </table>
@@ -930,8 +851,8 @@
 
           <thead>
             <row>
-              <entry>Menu item</entry>
-              <entry>Function code</entry>
+              <entry>Voce del menu</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -949,7 +870,7 @@
             </row>
 
             <row>
-              <entry>Mark Paragraph Delimitations</entry>
+              <entry>Mostra le delimitazioni dei paragrafi</entry>
               <entry>viewMarkParagraphStartCheckBoxMenuItem</entry>
             </row>
 
@@ -959,7 +880,7 @@
             </row>
 
             <row>
-              <entry>Evidenzia i segmenti non univoci</entry>
+              <entry>Evidenzia i segmenti ripetuti</entry>
               <entry>viewMarkNonUniqueSegmentsCheckBoxMenuItem</entry>
             </row>
 
@@ -969,17 +890,17 @@
             </row>
 
             <row>
-              <entry>Evidenzia gli spazi non divisibili</entry>
+              <entry>Mostra gli spazi non divisibili</entry>
               <entry>viewMarkNBSPCheckBoxMenuItem</entry>
             </row>
 
             <row>
-              <entry>Evidenza gli spazi vuoti</entry>
+              <entry>Mostra spazio vuoto</entry>
               <entry>viewMarkWhitespaceCheckBoxMenuItem</entry>
             </row>
 
             <row>
-              <entry>Evidenzia caratteri di controllo algoritmo bidirezionale</entry>
+              <entry>Mostra caratteri di controllo algoritmo bidirezionale</entry>
               <entry>viewMarkBidiCheckBoxMenuItem</entry>
             </row>
 
@@ -994,28 +915,33 @@
             </row>
 
             <row>
-              <entry>Verificatore linguistico</entry>
+              <entry>Evidenzia i problemi di verifica linguistica</entry>
               <entry>viewMarkLanguageCheckerCheckBoxMenuItem</entry>
             </row>
 
             <row>
-              <entry>Agressive Font Fallback</entry>
+              <entry>Usa la sostituzione aggressiva del carattere</entry>
               <entry>viewMarkFontFallbackCheckBoxMenuItem</entry>
             </row>
 
             <row>
-              <entry>Informazioni sulla modifica/Nessuna</entry>
+              <entry>Mostra informazioni sulla modifica/Nessuna</entry>
               <entry>viewDisplayModificationInfoNoneRadioButtonMenuItem</entry>
             </row>
 
             <row>
-              <entry>Modification Info/Display for Current Segment</entry>
+              <entry>Mostra informazioni sulla modifica/Per il segmento attivo</entry>
               <entry>viewDisplayModificationInfoSelectedRadioButtonMenuItem</entry>
             </row>
 
             <row>
-              <entry>Informazioni sulla modifica/Tutto</entry>
+              <entry>Mostra informazioni sulla modifica/Per tutti i segmenti</entry>
               <entry>viewDisplayModificationInfoAllRadioButtonMenuItem</entry>
+            </row>
+
+            <row>
+              <entry>Ripristina la finestra di OmegaT</entry>
+              <entry>viewRestoreGUIMenuItem</entry>
             </row>
           </tbody>
         </tgroup>
@@ -1032,8 +958,8 @@
 
           <thead>
             <row>
-              <entry>Menu item</entry>
-              <entry>Function code</entry>
+              <entry>Voce del menu</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -1048,7 +974,7 @@
             </row>
 
             <row>
-              <entry>Verifica problemi per il documento attivo</entry>
+              <entry>Verifica problemi per il file attivo</entry>
               <entry>toolsCheckIssuesCurrentFileMenuItem</entry>
             </row>
 
@@ -1068,7 +994,7 @@
             </row>
 
             <row>
-              <entry>Align File...</entry>
+              <entry>Allinea file...</entry>
               <entry>toolsAlignFilesMenuItem</entry>
             </row>            
           </tbody>
@@ -1076,10 +1002,9 @@
       </table>
 
       <note>
-        <para>The <link linkend="windows.scripts" endterm="windows.scripts.title"/> item in the <link linkend="menus.tools" endterm="menus.tools.title"/> menu is an
-        exception.</para>
-        <para>It is not possible to add a shortcut to call the script editor, or
-        to modify the shortcuts assigned to the scripts.</para>
+        <para>L'elemento <link linkend="windows.scripts" endterm="windows.scripts.title"/> nel menu <link linkend="menus.tools" endterm="menus.tools.title"/> rappresenta un'eccezione.</para>
+
+        <para>Non è possibile aggiungere una scorciatoia per richiamare l'editor degli script o modificare le scorciatoie assegnate agli script.</para>
       </note>
 
       <table id="app.shortcuts.lists.function.codes.options.menu.table">
@@ -1093,8 +1018,8 @@
 
           <thead>
             <row>
-              <entry>Menu item</entry>
-              <entry>Function code</entry>
+              <entry>Voce del menu</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -1107,18 +1032,17 @@
             </row>
 
             <row>
-              <entry>Machine Translate/Automatically Fetch Translations</entry>
+              <entry>Traduzione automatica/Recupera automaticamente le traduzioni</entry>
               <entry>optionsMTAutoFetchCheckboxMenuItem</entry>
             </row>
 
             <row>
-              <entry>Glossary/Use Fuzzy Matching for Glossary Entries</entry>
+              <entry>Glossari/Usa concordanze parziali</entry>
               <entry>optionsGlossaryFuzzyMatchingCheckBoxMenuItem</entry>
             </row>
 
             <row>
-              <entry>Dictionary/Use Fuzzy Matching for Dictionary
-              Entries</entry>
+              <entry>Dizionari/Glossari/Usa concordanze parziali</entry>
               <entry>optionsDictionaryFuzzyMatchingCheckBoxMenuItem</entry>
             </row>
 
@@ -1128,22 +1052,22 @@
             </row>
 
             <row>
-              <entry>Auto-completion/History Completion</entry>
+              <entry>Completamento automatico/Completamento cronologia</entry>
               <entry>optionsAutoCompleteHistoryCompletionMenuItem</entry>
             </row>
 
             <row>
-              <entry>Auto-completion/History Prediction</entry>
+              <entry>Completamento automatico/Predizione cronologia</entry>
               <entry>optionsAutoCompleteHistoryPredictionMenuItem</entry>
             </row>
 
             <row>
-              <entry>Filtri dei file...</entry>
+              <entry>Filtri dei file globali...</entry>
               <entry>optionsSetupFileFiltersMenuItem</entry>
             </row>
 
             <row>
-              <entry>Segmentazione...</entry>
+              <entry>Regole di segmentazione globali...</entry>
               <entry>optionsSentsegMenuItem</entry>
             </row>
 
@@ -1171,8 +1095,8 @@
 
           <thead>
             <row>
-              <entry>Menu item</entry>
-              <entry>Function code</entry>
+              <entry>Voce del menu</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -1180,7 +1104,7 @@
 
           <tbody>
             <row>
-              <entry>User Guide...</entry>
+              <entry>Manuale dell'utente...</entry>
               <entry>helpContentsMenuItem</entry>
               <entry namest="3" nameend="4">F1</entry>
             </row>
@@ -1209,7 +1133,7 @@
       </table>
       
       <table id="app.shortcuts.lists.function.codes.search.window.table">
-        <title id="app.shortcuts.lists.function.codes.search.window.table.title">Search Window</title>
+        <title id="app.shortcuts.lists.function.codes.search.window.table.title">Finestra di ricerca</title>
 
         <tgroup cols="4" colsep="1">
           <colspec align="left" colname="1" colnum="1"/>
@@ -1219,8 +1143,8 @@
 
           <thead>
             <row>
-              <entry>Menu item</entry>
-              <entry>Function code</entry>
+              <entry>Voce del menu</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -1228,7 +1152,7 @@
 
           <tbody>
             <row>
-              <entry>Jump to Entry in Editor</entry>
+              <entry>Passa alla voce nell'Editor</entry>
               <entry>jumpToEntryInEditor</entry>
               <entry>ctrl J</entry>
               <entry>meta J</entry>
@@ -1239,12 +1163,9 @@
     </section>
   
     <section id="app.shortcuts.lists.function.codes.windows">
-      <title id="app.shortcuts.lists.function.codes.windows.title">Editor
-      functions</title>
+      <title id="app.shortcuts.lists.function.codes.windows.title">Funzioni dell'Editor</title>
 
-      <para>The shortcuts that can be modified in the
-      <filename>EditorShortcuts.properties</filename> file, along with their
-      default values, are presented in the table below</para>
+      <para>La tabella sotto riportata illustra le scorciatoie modificabili nel file <filename>EditorShortcuts.properties</filename>, insieme con i loro valori predefiniti.</para>
 
       <table id="app.shortcuts.lists.function.codes.editor.table">
         <title id="app.shortcuts.lists.function.codes.editor.table.title">Editor</title>
@@ -1257,8 +1178,8 @@
 
           <thead>
             <row>
-              <entry>Function</entry>
-              <entry>Function code</entry>
+              <entry>Funzione</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -1266,120 +1187,114 @@
 
           <tbody>
             <row id="shortcuts.open.contextual.menu">
-              <entry>Open Context Menu</entry>
+              <entry>Apri menu contestuale</entry>
               <entry>editorContextMenu</entry>
               <entry>CONTEXT_MENU</entry>
               <entry>shift ESCAPE</entry>
             </row>
 
             <row>
-              <entry>Go to Next Segment</entry>
+              <entry>Vai al segmento successivo</entry>
               <entry>editorNextSegment</entry>
               <entry namest="3" nameend="4">TAB</entry>
             </row>
 
             <row>
-              <entry>Go to Previous Segment</entry>
+              <entry>Vai al segmento precedente</entry>
               <entry>editorPrevSegment</entry>
               <entry namest="3" nameend="4">shift TAB</entry>
             </row>
 
             <row>
-              <entry>Go to Next Segment (not TAB)</entry>
+              <entry>Vai al segmento successivo (non TAB)</entry>
               <entry>editorNextSegmentNotTab</entry>
               <entry namest="3" nameend="4">ENTER</entry>
             </row>
 
             <row>
-              <entry>Go to Previous Segment (not TAB)</entry>
+              <entry>Vai al segmento precedente (non TAB)</entry>
               <entry>editorPrevSegmentNotTab</entry>
               <entry>ctrl ENTER</entry>
               <entry>meta ENTER</entry>
             </row>
 
             <row>
-              <entry>Insert Linebreak</entry>
+              <entry>Inserisci interruzione di riga</entry>
               <entry>editorInsertLineBreak</entry>
               <entry namest="3" nameend="4">shift ENTER</entry>
             </row>
 
             <row>
-              <entry>Select All</entry>
+              <entry>Seleziona tutto</entry>
               <entry>editorSelectAll</entry>
               <entry>ctrl A</entry>
               <entry>meta A</entry>
             </row>
 
             <row>
-              <entry>Switch RtL/LtR Orientation</entry>
-              <entry>editorSwitchOrientation</entry>
-              <entry namest="3" nameend="4">ctrl shift O</entry>
-            </row>
-
-            <row>
-              <entry>Delete Previous Token</entry>
+              <entry>Elimina Token precedente</entry>
               <entry>editorDeletePrevToken</entry>
               <entry>ctrl BACK_SPACE</entry>
               <entry>alt BACK_SPACE</entry>
             </row>
 
             <row>
-              <entry>Delete Next Token</entry>
+              <entry>Elimina Token successivo</entry>
               <entry>editorDeleteNextToken</entry>
               <entry>ctrl DELETE</entry>
               <entry>alt DELETE</entry>
             </row>
 
             <row>
-              <entry>Go to First Segment</entry>
+              <entry>Vai al primo segmento</entry>
               <entry>editorFirstSegment</entry>
               <entry>ctrl PAGE_UP</entry>
               <entry>meta PAGE_UP</entry>
             </row>
 
             <row>
-              <entry>Go to Last Segment</entry>
+              <entry>Vai all'ultimo segmento</entry>
               <entry>editorLastSegment</entry>
               <entry>ctrl PAGE_DOWN</entry>
               <entry>meta PAGE_DOWN</entry>
             </row>
 
             <row>
-              <entry>Skip Next Token</entry>
+              <entry>Salta Token successivo</entry>
               <entry>editorSkipNextToken</entry>
               <entry>ctrl RIGHT</entry>
               <entry>alt RIGHT</entry>
             </row>
 
             <row>
-              <entry>Skip Previous Token</entry>
+              <entry>Salta Token precedente</entry>
               <entry>editorSkipPrevToken</entry>
               <entry>ctrl LEFT</entry>
-              <entry>alt RIGHT</entry>
+              <entry>alt LEFT</entry>
             </row>
 
             <row>
-              <entry>Skip Next Token with Selection</entry>
+              <entry>Salta Token successivo con selezione</entry>
               <entry>editorSkipNextTokenWithSelection</entry>
               <entry>ctrl shift RIGHT</entry>
               <entry>alt shift RIGHT</entry>
             </row>
 
             <row>
-              <entry>Skip Previous Token with Selection</entry>
+              <entry>Salta Token precedente con selezione</entry>
               <entry>editorSkipPrevTokenWithSelection</entry>
               <entry>ctrl shift LEFT</entry>
               <entry>alt shift LEFT</entry>
             </row>
 
             <row>
-              <entry>Toggle Cursor Lock</entry>
+              <entry>Attiva/disattiva blocco cursore</entry>
               <entry>editorToggleCursorLock</entry>
               <entry namest="3" nameend="4">F2</entry>
             </row>
 
             <row>
-              <entry>Toggle Overtype</entry>
+              <entry>Attiva/disattiva Sovrascrittura</entry>
               <entry>editorToggleOvertype</entry>
               <entry>INSERT</entry>
               <entry>F3</entry>
@@ -1389,7 +1304,7 @@
       </table>
 
       <table id="app.shortcuts.lists.function.codes.autocompleter.table">
-        <title id="app.shortcuts.lists.function.codes.autocompleter.table.title">Autocompleter</title>
+        <title id="app.shortcuts.lists.function.codes.autocompleter.table.title">Completamento automatico</title>
 
         <tgroup cols="4" colsep="1">
           <colspec align="left" colname="1" colnum="1"/>
@@ -1399,8 +1314,8 @@
 
           <thead>
             <row>
-              <entry>Function</entry>
-              <entry>Function code</entry>
+              <entry>Funzione</entry>
+              <entry>Codice funzione</entry>
               <entry>Windows/Linux</entry>
               <entry>macOS</entry>
             </row>
@@ -1408,126 +1323,126 @@
 
           <tbody>
             <row>
-              <entry>Open Autocompleter</entry>
+              <entry>Apri completamento automatico</entry>
               <entry>autocompleterTrigger</entry>
               <entry>ctrl SPACE</entry>
               <entry>ESCAPE</entry>
             </row>
 
             <row>
-              <entry>Open Autocompleter Next View</entry>
+              <entry>Apri completamento automatico - vista successiva</entry>
               <entry>autocompleterNextView</entry>
               <entry>ctrl SPACE</entry>
               <entry>ctrl DOWN</entry>
             </row>
 
             <row>
-              <entry>Open Autocompleter Previous View</entry>
+              <entry>Apri completamento automatico - vista precedente</entry>
               <entry>autocompleterPrevView</entry>
               <entry>ctrl shift SPACE</entry>
               <entry>ctrl UP</entry>
             </row>
 
             <row>
-              <entry>Confirm and Close Autocompleter</entry>
+              <entry>Conferma e chiudi completamento automatico</entry>
               <entry>autocompleterConfirmAndClose</entry>
               <entry namest="3" nameend="4">ENTER</entry>
             </row>
 
             <row>
-              <entry>Confirm Autocompleter Without Closing</entry>
+              <entry>Conferma completamento automatico senza chiudere</entry>
               <entry>autocompleterConfirmWithoutClose</entry>
               <entry namest="3" nameend="4">INSERT</entry>
             </row>
 
             <row>
-              <entry>Close Autocompleter</entry>
+              <entry>Chiudi completamento automatico</entry>
               <entry>autocompleterClose</entry>
               <entry namest="3" nameend="4">ESCAPE</entry>
             </row>
 
             <row>
-              <entry>Go Up The List</entry>
+              <entry>Vai su nell'elenco</entry>
               <entry>autocompleterListUp</entry>
               <entry namest="3" nameend="4">UP</entry>
             </row>
 
             <row>
-              <entry>Go Down The List</entry>
+              <entry>Vai giù nell'elenco</entry>
               <entry>autocompleterListDown</entry>
               <entry namest="3" nameend="4">DOWN</entry>
             </row>
 
             <row>
-              <entry>Go Up One Page</entry>
+              <entry>Vai su di una pagina</entry>
               <entry>autocompleterListPageUp</entry>
               <entry namest="3" nameend="4">PAGE_UP</entry>
             </row>
 
             <row>
-              <entry>Go Down One Page</entry>
+              <entry>Vai giù di una pagina</entry>
               <entry>autocompleterListPageDown</entry>
               <entry namest="3" nameend="4">PAGE_DOWN</entry>
             </row>
 
             <row>
-              <entry>Go Up in Table</entry>
+              <entry>Vai su nella tabella</entry>
               <entry>autocompleterTableUp</entry>
               <entry namest="3" nameend="4">UP</entry>
             </row>
 
             <row>
-              <entry>Go Down in Table</entry>
+              <entry>Vai giù nella tabella</entry>
               <entry>autocompleterTableDown</entry>
               <entry namest="3" nameend="4">DOWN</entry>
             </row>
 
             <row>
-              <entry>Go Left in Table</entry>
+              <entry>Vai a sinistra nella tabella</entry>
               <entry>autocompleterTableLeft</entry>
               <entry namest="3" nameend="4">LEFT</entry>
             </row>
 
             <row>
-              <entry>Go Right in Table</entry>
+              <entry>Vai a destra nella tabella</entry>
               <entry>autocompleterTableRight</entry>
               <entry namest="3" nameend="4">RIGHT</entry>
             </row>
 
             <row>
-              <entry>Go Up One Page in Table</entry>
+              <entry>Vai su di una pagina nella tabella</entry>
               <entry>autocompleterTablePageUp</entry>
               <entry namest="3" nameend="4">PAGE_UP</entry>
             </row>
 
             <row>
-              <entry>Go Down One Page in Table</entry>
+              <entry>Vai giù di una pagina nella tabella</entry>
               <entry>autocompleterTablePageDown</entry>
               <entry namest="3" nameend="4">PAGE_DOWN</entry>
             </row>
 
             <row>
-              <entry>Go to First Table</entry>
+              <entry>Vai alla prima tabella</entry>
               <entry>autocompleterTableFirst</entry>
               <entry>ctrl HOME</entry>
               <entry>meta HOME</entry>
             </row>
 
             <row>
-              <entry>Go to Last Table</entry>
+              <entry>Vai all'ultima tabella</entry>
               <entry>autocompleterTableLast</entry>
               <entry>ctrl END</entry>
               <entry>meta END</entry>
             </row>
 
             <row>
-              <entry>Go to First Row in Table</entry>
+              <entry>Vai alla prima riga nella tabella</entry>
               <entry>autocompleterTableFirstInRow</entry>
               <entry namest="3" nameend="4">HOME</entry>
             </row>
 
             <row>
-              <entry>Go to Last Row in Table</entry>
+              <entry>Vai all'ultima riga nella tabella</entry>
               <entry>autocompleterTableLastInRow</entry>
               <entry namest="3" nameend="4">END</entry>
             </row>

@@ -3,175 +3,131 @@
 <section id="how.to.use.team.project">
   <title id="how.to.use.team.project.title">Uso di progetti in collaborazione</title>
 
-    <para>Using a team project requires keeping a few differences from regular
-  local projects in mind.</para>
+  <para>I progetti in collaborazione utilizzano meccanismi di sincronizzazione tra i membri del progetto in collaborazione.</para>
 
-  <para>After a
-  OmegaT team project on a server, the administrator will send you the
-  information you need to access it.</para>
+  <para>Una volta che il progetto in collaborazione OmegaT è stato installato su un server, l'amministratore invia ai membri le informazioni per accedere al progetto: un URL che indica la posizione del progetto oppure un file <filename>omegat.project</filename>.</para>
 
-  <para>In most cases, this will consist of a URL indicating the location of
-  the project, but in some cases it may be an
-  <filename>omegat.project</filename> file.
-  The first time you access the project, you will have download it to
-  create a local copy on your system.</para>
+  <para>Dopo che il progetto è scaricato, viene installato in locale e richiede solo di essere aperto localmente per la sincronizzazione col server.</para>
 
-    <variablelist>
+  <para>Le credenziali del deposito sono memorizzate nel file <link linkend="configuration.folder.extra.contents.repositories" endterm="configuration.folder.extra.contents.repositories.title"/> e possono essere eliminate dalle preferenze <link linkend="dialog.preferences.team.title.repository.credentials" endterm="dialog.preferences.team.title.repository.credentials.title"/>.</para>
+
+  <para>Dato che la sincronizzazione avviene, per impostazione predefinita, ogni tre minuti, i membri del progetto talvolta potrebbero tradurre o modificare un segmento che è stato già tradotto da un altro membro ma non ancora sincronizzato. Quando questo succede, i membri devono selezionare la traduzione corretta.</para>
+
+  <para>I membri hanno la facoltà di organizzare turni di traduzione e revisione dei file. La funzione Ricerca permette loro di filtrare il pannello dell'Editor per contenuti tradotti da una persona specificata, oppure per contenuti tradotti prima o dopo una certa data, per esempio.</para>
+  
+  <variablelist>
     <varlistentry>
-      <term>Downloading the project</term>
-
+      <term>Scaricare il progetto</term>
       <listitem>
+		<orderedlist>
+		  <listitem>
+			<para>Da un URL</para>
 
-  <orderedlist>
-    <listitem>
-      <para>From a URL</para>
+			<para>Usare <link endterm="menus.project.title" linkend="menus.project"/><link endterm="menus.project.download.team.project.title" linkend="menus.project.download.team.project"/> per richiamare la finestra di dialogo <guilabel>Scarica progetto in collaborazione</guilabel>.</para>
 
-      <para>Click the <link endterm="menus.project.download.team.project.title" linkend="menus.project.download.team.project"/> command in the <link endterm="menus.project.title" linkend="menus.project"/> menu. This will
-      bring up the <guilabel>Download Team Project</guilabel> dialog.</para>
+			<para>Inserire l'URL fornito dall'amministratore del progetto in collaborazione nel campo <guilabel>URL del deposito:</guilabel> che si trova in cima alla finestra di dialogo, e specificare una cartella per il progetto nel campo <guilabel>Nuovo progetto locale:</guilabel>. Tenere spuntata l'opzione <guilabel>Ramo predefinito</guilabel>, a meno che l'amministratore non abbia fornito delle istruzioni per utilizzare un ramo personalizzato.</para>
+		  </listitem>
 
-      <para>Enter the URL provided by the team project manager in the
-      <guilabel>Repository URL:</guilabel> field at the top of the dialog, and
-      specify a folder for the project in the <guilabel>New Local Project
-      Folder:</guilabel> field. Leave the <guilabel>Default branch</guilabel>
-      option checked unless the project administrator has provided instructions
-      for using a custom branch.</para>
-    </listitem>
+		  <listitem>
+			<para>Da un file <filename>omegat.project</filename></para>
 
-    <listitem>
-      <para>From an <filename>omegat.project</filename> file</para>
+			<para>Inserire il file <filename>omegat.project</filename> in una cartella vuota e aprirlo in OmegaT. Il progetto verrà automaticamente scaricato nella cartella che contiene quel file.</para>
+		  </listitem>
+		</orderedlist>
 
-      <para>Put the <filename>omegat.project</filename> file in an empty
-      folder, and open it in OmegaT. The project will automatically be
-      downloaded to the folder containing that file.</para>
-    </listitem>
-  </orderedlist>
+		<note>
+		  <para>I server in genere utilizzano due tipi principali di autenticazione: inserimento di <emphasis>nome_utente/password</emphasis> o <emphasis>SSH</emphasis>.</para>
 
-  <note>
-    <para>Servers generally use two main types of authentication: entering a
-    <emphasis>username/password</emphasis>, or
-    <emphasis>SSH</emphasis>.</para>
+		  <para>Se il server si basa su un'autenticazione tramite username/password, OmegaT farà comparire una finestra di dialogo <guilabel>Autenticazione</guilabel>per inserire il proprio nome utente e la password, sia che sia il primo scaricamento del progetto, sia in una fase successiva. OmegaT ricorderà le credenziali per quel progetto specifico, a meno che non siano state esplicitamente eliminate. Vedere le preferenze <link linkend="dialog.preferences.team.title.repository.credentials" endterm="dialog.preferences.team.title.repository.credentials.title"/> per i dettagli.</para>
 
-    <para>If the server relies on username/password authentication, OmegaT will present you with an <guilabel>Authentication</guilabel> dialog to enter your username and password either when you first download the project or later on in the process. OmegaT will then remember your credentials for that specific project unless you explicitly delete them. Vedere <link linkend="dialog.preferences.team.title.repository.credentials" endterm="dialog.preferences.team.title.repository.credentials.title"/> per i dettagli.</para>
+		  <para>Se il server usa l'autenticazione SSH, prima di tentare di scaricare il progetto accertarsi di aggiornare la propria configurazione SSH per includere quel server, in caso contrario verrebbe restituito un errore di autenticazione e il progetto non caricherà.</para>
 
-    <para>If the server uses SSH authentication, make sure you update your SSH
-    configuration to include that server before attempting to download the
-    project, otherwise you will get an authentication error and the project
-    will fail to load.</para>
-  </note>
-
+		  <para>Se si utilizzano più progetti sullo stesso server, le credenziali verranno chieste solo una volta.</para>
+		</note>
 	  </listitem>
-</varlistentry>
+	</varlistentry>
 
     <varlistentry>
-      <term>Synchronization</term>
+      <term>Sincronizzazione</term>
 
       <listitem>
-        <para>Synchronizing the project adds translations made by other team
-        members to your local copy of the project, and makes your own
-        translations available to the rest of the team. Only the contents of
-        the two following files are synchronized: <itemizedlist>
-        <listitem>
-          <para><filename>project.save</filename></para>
-        </listitem>
+        <para>La sincronizzazione del progetto aggiunge le traduzioni fatte da tutti i membri della squadra alle copie locali del progetto. Viene sincronizzato solamente il contenuto  dei due file seguenti:</para>
 
-        <listitem>
-          <para><filename>glossary.txt</filename></para>
-        </listitem>
-        </itemizedlist></para>
+		<itemizedlist>
+          <listitem>
+			<para><filename>project.save</filename></para>
+          </listitem>
 
-        <para>During synchronization, all the other files are overwritten with the versions on the remote server, exept for <filename>omegat.project</filename> which is subject
-        to special handling, described below.</para>
+          <listitem>
+			<para><filename>glossary.txt</filename></para>
+          </listitem>
+        </itemizedlist>
 
-        <para>OmegaT synchronizes a team project when it is opened, reloaded,
-        closed or saved. This means the automatic save function also regularly
-        synchronizes your local project with the version on the server at the
-        interval specified in Preferences –  <link endterm="dialog.preferences.saving.and.output.interval.title" linkend="dialog.preferences.saving.and.output.interval"/>.</para>
+        <para>Durante la sincronizzazione, tutti gli altri file locali sono sovrascritti con le versioni presenti sul server remoto, ad eccezione di <filename>omegat.project</filename> (vedere sotto).</para>
+
+        <para>OmegaT sincronizza un progetto in collaborazione quando viene aperto, ricaricato, chiuso o salvato. Ciò significa che anche la funzione di salvataggio automatico sincronizza regolarmente le versioni locali con la versione sul server con intervallo specificato nelle preferenze <link endterm="dialog.preferences.saving.and.output.interval.title" linkend="dialog.preferences.saving.and.output.interval"/>.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Team project configuration</term>
+      <term>Configurazione del progetto in collaborazione</term>
 
       <listitem>
-        <para>As in regular local projects, the configuration of the team
-        project is defined by the contents <filename>omegat.project</filename>
-        file and the optional use of special files to for project-specific
-        filters or segmentation rules.</para>
+        <para>Come nei progetti locali regolari, la configurazione del progetto in collaborazione viene definito dal contenuto del file <filename>omegat.project</filename> e dall'uso facoltativo di file speciali per i filtri specifici del progetto o di regole di segmentazione.</para>
 
-        <para>The first time the project is downloaded, OmegaT retrieves the
-        <filename>omegat.project</filename> file from the server. This file
-        defines the following parameters:</para>
+        <para>La prima volta che il progetto viene scaricato, OmegaT recupera il file <filename>omegat.project</filename> dal server. Questo file definisce i parametri che seguono:</para>
 
         <itemizedlist>
           <listitem>
-            <para><emphasis>Basic project configuration:</emphasis> Source and
-            languages, tokenizers, and the project folder hierarchy.</para>
+            <para><emphasis>Configurazione di base del progetto:</emphasis> sorgente e lingue, tokenizer e gerarchia delle cartelle del progetto.</para>
 
-			<para>In a team
-            project, the basic configuration parameters of the local project
-            are always overridden by the configuration on the server that was
-            set by the project administrator.</para>
+			<para>I parametri di configurazione di base del progetto locale, in un progetto in collaborazione, vengono sempre sovrascritti dalla configurazione originariamente impostata nel server dall'amministratore del progetto.</para>
           </listitem>
 
           <listitem>
-            <para><emphasis>Repository mappings</emphasis></para>
+            <para><emphasis>Mappature del deposito</emphasis></para>
 
-            <para>Vedere <link linkend="how.to.setup.team.project.mapping.parameters" endterm="how.to.setup.team.project.mapping.parameters.title"/> per dettagli.<itemizedlist>
+            <para>Vedere la guida all'uso <link linkend="how.to.setup.team.project.mapping.parameters" endterm="how.to.setup.team.project.mapping.parameters.title"/> per i dettagli.</para>
+
+            <itemizedlist>
               <listitem>
-                <para>If no custom mappings have been defined for the remote
-                project, but local mappings have been customized, the local
-                settings are preserved without affecting the settings on the
-                server.</para>
+                <para>Se non è stata definita alcuna mappatura personalizzata per il progetto remoto ma le mappature locali sono state personalizzate, le impostazioni locali vengono preservate senza influenzare le impostazioni sul server.</para>
               </listitem>
 
               <listitem>
-                <para>If the remote project contains custom mappings, but the
-                local project does not, the mappings from the server are
-                applied to the local project.</para>
+                <para>Se il progetto remoto contiene mappature personalizzate ma il progetto locale no, a quest'ultimo vengono applicate le mappature del server.</para>
               </listitem>
 
               <listitem>
-                <para>If the remote project specifies a URL protocol and you
-                download it using a different protocol, your local
-                configuration will be preserved.</para>
+                <para>Se il progetto remoto specifica un protocollo URL e lo si scarica utilizzando un protocollo diverso, viene preservata la propria configurazione locale.</para>
 
-                <para>For example, many hosting services support access to the
-                same repository using either the SSH +Git or https protocol.
-                OmegaT will respect the local protocol selection.</para>
+                <para>Per esempio, molti servizi di hosting supportano l'accesso allo stesso deposito utilizzando sia il protocollo SSH +Git, sia quello https. OmegaT osserverà la selezione del protocollo locale.</para>
               </listitem>
 
               <listitem>
-                <para>If you first download the remote project using an
-                <filename>omegat.project</filename> file provided by the
-                project administrator, OmegaT will use the mappings in that
-                file, if any.</para>
+                <para>Se prima scarichi il progetto remoto utilizzando un file <filename>omegat.project</filename> fornito dall'amministratore del progetto, OmegaT utilizzerà le mappature contenute in quel file, se presenti.</para>
               </listitem>
 
               <listitem>
-                <para>If there is a conflict between the remote and local
-                versions of the <filename>omegat.project</filename> and the
-                local version is overwritten, OmegaT creates a backup file
-                called <filename>omegat.project.YYYYMMDDhhmm.bak</filename>.
-                The backup files are kept for a least ten days, and older
-                backups are automatically deleted.</para>
+                <para>Se esiste un conflitto tra la versione remota e quella locale del file <filename>omegat.project</filename>, e la versione locale viene sovrascritta, OmegaT crea una copia di sicurezza chiamata <filename>omegat.project.YYYYMMDDhhmm.bak</filename>. OmegaT crea fino a dieci copie di sicurezza, mentre le ulteriori copie più vecchie vengono automaticamente eliminate.</para>
               </listitem>
             </itemizedlist>
-			</para>
 		  </listitem>
 		</itemizedlist>
 
         <warning>
-          <para>Remember that any modifications to the local project
-          configuration files will be overwritten by the versions on the
-          server when the project is synchronized.</para>
+          <para>Tenere presente che qualsiasi modifica ai file di configurazione del progetto locale sarà sovrascritta dalle versioni presenti nel server quando il progetto viene sincronizzato.</para>
         </warning>
       </listitem>
     </varlistentry>
 
     <varlistentry>
       <term>File di partenza</term>
-          <listitem>
-            <warning><para>The <link endterm="menus.project.commit.source.files.title" linkend="menus.project.commit.source.files"/> command should only be used by the project administrator.</para></warning>
+
+      <listitem>
+        <warning>
+		  <para>Solamente l'amministratore del progetto dovrebbe utilizzare <link endterm="menus.project.title" linkend="menus.project"/><link endterm="menus.project.commit.source.files.title" linkend="menus.project.commit.source.files"/>.</para>
+		</warning>
       </listitem>
     </varlistentry>
 
@@ -179,20 +135,15 @@
       <term>File di arrivo</term>
 
       <listitem>
-        <para>After you generate the target files, and if the project
-        administrator requests so, you can use the <link endterm="menus.project.commit.target.files.title" linkend="menus.project.commit.target.files"/> command to add them to the
-        server.</para>
+        <para>Dopo aver generato i file di arrivo, usare <link endterm="menus.project.title" linkend="menus.project"/><link endterm="menus.project.commit.target.files.title" linkend="menus.project.commit.target.files"/> per aggiungerli al server, nel caso in cui l'amministratore del progetto lo richieda.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Deleting files</term>
+      <term>Eliminazione di file</term>
 
       <listitem>
-        <para>Files in a team project cannot be deleted from OmegaT or the
-        local file system. They will be restored the next time the project is
-        synchronized. This task is normally performed by the project
-        administrator.</para>
+        <para>I file in un progetto in collaborazione non possono essere eliminati da OmegaT o dal sistema di file locale. Essi vengono ripristinati ogniqualvolta il progetto viene sincronizzato. Questa attività viene normalmente eseguita dall'amministratore del progetto.</para>
       </listitem>
     </varlistentry>
 
@@ -200,19 +151,17 @@
       <term>Lavorare fuori linea</term>
 
       <listitem>
-        <para>You can open a team project and work on it offline. All changes
-        will be synchronized the next time a connection is available.</para>
+        <para>È possibile aprire un progetto in collaborazione e lavorarci fuori linea. Tutte le modifiche saranno sincronizzate non appena sarà disponibile una connessione alla rete.</para>
 
-        <para>There are two ways work offline:</para>
+        <para>Ci sono due modi per lavorare fuori linea:</para>
 
         <itemizedlist>
           <listitem>
-            <para>Disconnect from the network before opening the
-            project.</para>
+            <para>Disconnettersi dalla rete prima di aprire il progetto.</para>
           </listitem>
 
           <listitem>
-            <para>Open the project from the command line with the <parameter>--no-team</parameter> option. Vedere <link linkend="launch.with.command.line" endterm="launch.with.command.line.title"/> per i dettagli.</para>
+            <para>Aprire il progetto dalla riga di comando con l'opzione <parameter>--no-team</parameter>. Vedere la sezione <link linkend="launch.with.command.line" endterm="launch.with.command.line.title"/> per i dettagli.</para>
           </listitem>
         </itemizedlist>
       </listitem>

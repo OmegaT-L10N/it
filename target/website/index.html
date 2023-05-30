@@ -20,7 +20,7 @@
         </div>
         <div class="modal-body">
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="ytvideo embed-responsive-item" src="//www.youtube.com/embed/WMXr6aJTpcU?rel=0" allowfullscreen=""></iframe>
+            <iframe class="ytvideo embed-responsive-item" src="//www.youtube-nocookie.com/embed/WMXr6aJTpcU?rel=0" allowfullscreen=""></iframe>
           </div>
           <p class="text-center">Video a cura di <a href="https://www.youtube.com/channel/UC2EFKLWWI4gh9BGpMf0-_5g">CATguruEN</a> (Dominique Pivard)</p>
         </div>
@@ -32,8 +32,11 @@
   </div>
 
   <div class="container-fluid section">
-    <p class="lead">
-<strong>OmegaT</strong> è un'applicazione di memoria di traduzione gratuita che funziona in Windows, macOS, Linux... È uno strumento progettato per traduttori professionisti. Essa non traduce per te! (Il software che fa questo è chiamato "traduttore automatico", e si dovrà cercare altrove).</p>
+<p class="lead">
+<strong>OmegaT</strong> è un'applicazione di memoria di traduzione che funziona in Windows, macOS, Linux… È uno strumento progettato per traduttori professionisti. Non traduce per te! (Il software che fa questo lavoro è chiamato "traduttore automatico". OmegaT è in grado di interfacciarsi con alcuni programmi o servizi Internet di traduzione automatica)</p>
+
+    <p class="lead">OmegaT è un software gratuito. Ciò significa che gli utenti come te possono scaricarlo e utilizzarlo senza restrizioni. Sei anche libero di copiarlo e di distribuirlo ad altre persone e persino di modificarlo in modo che soddisfi le tue esigenze. Puoi trovare una <a href="https://www.gnu.org/philosophy/free-sw.html">spiegazione del software libero</a> più dettagliata nel sito web della Free Software Foundation.</p>
+    
     <div class="row">
       <div class="col-md-4">
         <h3>Funzioni professionali</h3>
@@ -50,23 +53,23 @@
         <h3>Funziona con più di trenta formati di file</h3>
         <div class="header-line"><!----></div>
         <ul>
-          <li>Microsoft Word, Excel, Powerpoint
-          </li><li>XHTML e HTML</li>
-          <li>Open Document Format (LibreOffice, OpenOffice.org)</li>
+          <li>Microsoft Office Word, Excel, PowerPoint (versione 2007 e successive)</li>
+          <li>XHTML e HTML</li>
+          <li>OpenDocument Format (formato di file nativo per LibreOffice, Apache OpenOffice)</li>
           <li>MediaWiki (Wikipedia)</li>
           <li>File di solo testo</li>
-          <li>... e circa trenta altri formati di file</li>
+          <li>…e circa altri trenta formati di file</li>
         </ul>
       </div>
       <div class="col-md-4">
         <h3>Strumenti avanzati</h3>
         <div class="header-line"><!----></div>
         <ul>
-          <li>Supporto Unicode (UTF-8): può essere utilizzato con alfabeti non latini</li>
-          <li>Supporto per le lingue da destra a sinistra</li>
-          <li>Correttore ortografico integrato</li>
-          <li>Compatibile con altre applicazioni per memorie di traduzione (TMX, TTX, XML, XLIFF, SDLXLIFF)</li>
-          <li>Interfaccia di Google Translate</li>
+          <li>Supporto Unicode: può essere utilizzato con vari alfabeti e script</li>
+          <li>Supporto per le lingue da destra a sinistra (RTL)</li>
+          <li>Correttore ortografico completo che utilizza i dizionari Hunspell (gli stessi utilizzati in altri software tipo LibreOffice o Mozilla Firefox)</li>
+          <li>Compatibile con altre applicazioni per memorie di traduzione attraverso formati di scambio come TMX, TTX, TXML, XLIFF, SDLXLIFF</li>
+          <li>Interfaccia ai servizi software/web di traduzione automatica e traduzione automatica neurale</li>
         </ul>
       </div>
     </div>
@@ -192,8 +195,6 @@
     <h2>Tu e il progetto OmegaT</h2>
     <div class="header-line"><!----></div>
     <p>OmegaT non è solo un prodotto, è un progetto entusiasmante e puoi farne parte.</p>
-    <p>OmegaT è un software gratuito. Ciò significa che gli utenti come te sono liberi di scaricarlo e utilizzarlo con pochissime restrizioni. Sei anche libero di copiarlo e di distribuirlo ad altre persone.</p>
-    <p>OmegaT è un software open source. Ciò significa che se pensi di esserne in grado, puoi modificare OmegaT per soddisfare le tue esigenze. Per i sostenitori del software open source, questa libertà è persino più importante dell'esenzione dal dover pagare qualcosa.</p>
     <p>Il progetto OmegaT beneficerebbe da un maggiore sostegno da parte dei volontari, in quasi tutti i settori. Anche se molti utenti ne sono consapevoli, spesso la loro risposta è: "Ma io non so programmare!". La programmazione è certamente la funzione più importante, e senza di essa non esisterebbe alcun programma. Ma la programmazione non è l'unico lavoro necessario. Di seguito è riportato un elenco delle aree nelle quali sarebbero più che benvenuti nuovi volontari!</p>
     <div class="row project">
       <div class="col-sm-4">
@@ -216,7 +217,8 @@
         </span>
         <h3>Controlli di qualità</h3>
         <p>Una delle cose più utili che l'utente di OmegaT può fare è...  usare OmegaT. E quando si trovano cose che non funzionano, o carenze nella documentazione, segnalarcele.</p>
-      </div>
+    <p>Considera, inoltre, di provare le <a href="https://sourceforge.net/projects/omegat/files/Nightly/">nightly build</a> di OmegaT che potrebbero contenere persino errori più nuovi e interessanti!</p>
+    </div>
     </div>
     <div class="row project">
       <div class="col-sm-6">
@@ -240,7 +242,7 @@
           <!---->
         </span>
         <h3>Programmazione (Java)</h3>
-        <p>OmegaT è scritto in Java. Se sei un programmatore e per caso conosci Java, guarda la documentazione in <a href="download#downloadTrunk">source code</a> sotto /docs_devel per ottenere informazioni su come iniziare a collaborare.</p>
+        <p>OmegaT è scritto in Java. Se sei un programmatore e per caso conosci Java, consulta la <a href="https://omegat.readthedocs.io/en/latest/">OmegaT contribution guide</a>, o il suo testo sorgente nel <a href="download#downloadTrunk">codice sorgente</a> in /docs_devel, per ottenere informazioni su come iniziare a collaborare.</p>
       </div>
       <div class="col-sm-6">
         <span class="glyphicon glyphicon-cog">

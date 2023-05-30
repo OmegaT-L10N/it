@@ -26,7 +26,7 @@
   <section id="translate.the.segments.one.by.one">
     <title>Tradurre il file</title>
 
-    <para>OmegaT offre da tradurre un segmento alla volta. Una volta che si è tradotto un segmento, premere <keycombo><keycap>Ctrl</keycap><keycap>U</keycap></keycombo> per spostarsi al segmento successivo da tradurre (o <keycombo><keycap>Ctrl</keycap><keycap>Maiusc</keycap><keycap>U</keycap></keycombo> per spostarsi a quello successivo tradotto). Per visualizzare come apparirà la traduzione nella sua forma finale, premere <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo> per generare i documenti tradotti, che verranno creati nella sottocartella <filename class="directory">target</filename>, all'interno della cartella del proprio progetto. Utilizzare, mentre si traduce, i menu <guimenu>Modifica</guimenu> e <guimenu>Vai</guimenu> per eseguire varie e utili funzioni.</para>
+    <para>OmegaT offre da tradurre un segmento alla volta. Una volta che si è tradotto un segmento, premere <keycombo><keycap>Ctrl</keycap><keycap>U</keycap></keycombo> per spostarsi al segmento successivo da tradurre (o <keycombo><keycap>Ctrl</keycap><keycap>Maiusc</keycap><keycap>U</keycap></keycombo> per spostarsi a quello precedente tradotto). Per visualizzare come apparirà la traduzione nella sua forma finale, premere <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo> per generare i documenti tradotti, che verranno creati nella sottocartella <filename class="directory">target</filename>, all'interno della cartella del proprio progetto. Utilizzare, mentre si traduce, i menu <guimenu>Modifica</guimenu> e <guimenu>Vai</guimenu> per eseguire varie e utili funzioni.</para>
   </section>
 
   <section>

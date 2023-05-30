@@ -4,33 +4,68 @@
 <!ENTITY % manualvariables SYSTEM "manualvariables.mod">
 %manualvariables;
 ]>
-<book lang="it" id="book.user.guide">
+<book lang="it" id="book.user.manual">
   <bookinfo>
-    <title id="book.user.guide.title">OmegaT 5.8.0 - User Guide <emphasis role="bold">DRAFT</emphasis></title>
-    <pubdate>@timestamp@</pubdate>
+    <title id="book.user.manual.title">OmegaT 6.1.0 - User Manual</title>
+
+	<!-- Copyright 2002-2023
+		 - Vincent Bidaux
+		 - Didier Briel
+		 - Jean-Christophe Helary
+		 - Aaron Madlon-Kay
+		 - Maxym Mychalchuk
+		 - Marc Prior
+		 - Vito Smolej
+		 - Kerry Swatridge
+		 - Philippe Tourigny
+	-->
+
+    <!-- <pubdate>@timestamp@</pubdate> -->
 	<!-- TODO automate date insertion -->
     <abstract>
-      <para>This document is the official user guide to OmegaT, the free
-      Computer Aided Translation tool.</para>
+      <para>This document is the official user manual to OmegaT, the free
+      Computer-Assisted Translation tool.</para>
+
+	  <para>OmegaT's main purpose is to help you create a good translation the
+	  fastest possible by giving you access to your translation ressources in
+	  the most reliable way possible.</para>
+
+	  <para>OmegaT is distributed under the terms of the <emphasis>GNU General Public License, version 3.0</emphasis>. La licenza concede le seguenti libertà:<itemizedlist id="freedoms.list">
+		<listitem>
+		  <para>La libertà di eseguire OmegaT come si preferisce, per qualsiasi scopo.</para>
+		</listitem>
+
+		<listitem>
+		  <para>La libertà di studiare il funzionamento di OmegaT, e di cambiarlo in base alle proprie esigenze informatiche.</para>
+		</listitem>
+
+		<listitem>
+		  <para>La libertà di redistribuirne le copie in modo da poter aiutare gli altri utenti.</para>
+		</listitem>
+
+		<listitem>
+		  <para>La libertà di distribuire copie delle proprie versioni modificate agli altri utenti.</para>
+		</listitem>
+	  </itemizedlist>
+	  </para>
     </abstract>
   </bookinfo>
 
+  
   <xi:include href="Introduction.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="OmegaT5_EditorsPanes.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  <xi:include href="OmegaT_HowTo.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="OmegaT5_Menus.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  <xi:include href="OmegaT_EditorsPanes.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="OmegaT5_WindowsAndDialogs.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  <xi:include href="OmegaT_Menus.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="OmegaT5_ProjectFolder.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  <xi:include href="OmegaT_WindowsAndDialogs.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="OmegaT5_ConfigurationFolder.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  <xi:include href="OmegaT_Preferences.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="OmegaT5_Preferences.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  <xi:include href="OmegaT_ProjectFolder.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
-  <xi:include href="OmegaT5_HowTo.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-
-  <xi:include href="OmegaT5_Appendices.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  <xi:include href="OmegaT_Appendices.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	           
 </book>
