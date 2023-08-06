@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="windows.source.files.list">
-  <title id="windows.source.files.list.title"><guilabel>Source
-  Files</guilabel></title>
+  <title id="windows.source.files.list.title"><guilabel>File di partenza</guilabel></title>
 
   <para>This window is displayed automatically when OmegaT loads a project, and
   can be called at any time using <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.source.files.list" endterm="menus.project.source.files.list.title"/>.</para>
@@ -66,8 +65,7 @@
 	<varlistentry id="windows.source.files.list.copy.files">
 	  <term id="windows.source.files.list.copy.files.title"><guibutton>Aggiungi file...</guibutton></term>
 	<listitem>
-	  <para>Copies the selected files to the <link linkend="project.folder.source" endterm="project.folder.source.title"/>
-	  folder and reloads the project to take the new files into account.</para>
+	  <para>Copia i file selezionati nella cartella <link linkend="project.folder.source" endterm="project.folder.source.title"/> e ricarica il progetto per prendere in considerazione i nuovi file.</para>
 	</listitem>
 	</varlistentry>
 	

@@ -60,7 +60,7 @@
 	  <title id="example.avoid.listing.multiple.notations.title">Come evitiamo l'elenco di notazioni multiple:</title>
 	  <para>In Windows e Linux: <keycombo><keycap>Ctrl</keycap><keycap>Maiusc</keycap><keycap>N</keycap></keycombo></para>
 
-	  <para>In macOS: <keycombo><keycap>Maiusc</keycap><keycap>Command</keycap><keycap>N</keycap></keycombo></para>
+	  <para>In macOS: <keycombo><keycap>Maiusc (Shift)</keycap><keycap>Cmd</keycap><keycap>N</keycap></keycombo></para>
 
 	  <para>In questo manuale: <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>N</keycap></keycombo></para>
 	</example>

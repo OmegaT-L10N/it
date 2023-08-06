@@ -1,5 +1,5 @@
-The @language@ version of OmegaT has been translated by:
-@TRANSLATION_NOTICE@
+La versione italiana di OmegaT è stata tradotta da:
+Valter Mura
 
 
 Che cosa è OmegaT?
@@ -138,14 +138,14 @@ Jean-Christophe Helary è il responsabile del progetto OmegaT.
 Team attuale:
 (ordine alfabetico)
 
-- Marco Cevoli (Telegram community manager)
-- Jean-Christophe Helary (Twitter community manager)
-- Kos Ivantsov (localisation manager)
-- Concepción Martin (Facebook community manager)
-- Hiroshi Miura (lead developer)
+- Marco Cevoli (responsabile della comunità Telegram)
+- Jean-Christophe Helary (responsabile della comunità Twitter)
+- Kos Ivantsov (responsabile della localizzazione)
+- Concepción Martin (responsabile della comunità Facebook)
+- Hiroshi Miura (sviluppatore principale)
 - Briac Pilpré (webmaster)
-- Philippe Tourigny (documentation manager)
-- Lucie Vecerova (Facebook community manager)
+- Philippe Tourigny (responsabile della documentazione)
+- Lucie Vecerova (responsabile della comunità Facebook)
 
 I contributi al codice sono documentati in /docs/contributors.txt.
 

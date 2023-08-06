@@ -50,10 +50,9 @@
       <varlistentry id="dialogs.preferences.general.access.configuration.folder">
         <term id="dialogs.preferences.general.access.configuration.folder.title"><option>Accedi alla cartella di configurazione</option></term>
 		<listitem>
-          <para>Opens the local folder where OmegaT configuration files are
-          stored.</para>
+          <para>Apre la cartella locale in cui sono memorizzati i file di configurazione di OmegaT.</para>
 		  <note>
-			<para>The location depends on the operating system and launch options. Vedere l'appendice <link linkend="configuration.folder" endterm="configuration.folder.title"/>per i dettagli.</para>
+			<para>La posizione dipende dal sistema operativo in uso e dalle opzioni di avvio. Vedere l'appendice <link linkend="configuration.folder" endterm="configuration.folder.title"/>per i dettagli.</para>
 		  </note>
 		</listitem>
       </varlistentry>

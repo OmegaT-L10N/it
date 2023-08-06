@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="chapter.project.folder">
-  <title id="chapter.project.folder.title">Project Folder</title>
+  <title id="chapter.project.folder.title">Cartella del progetto</title>
 
   <section>
 	<title>Default structure</title>
@@ -344,10 +344,7 @@
       <varlistentry id="project.folder.tm.tmx2source">
 		<term id="project.folder.tm.tmx2source.title">tm/tmx2source</term>
 		<listitem>
-		  <para>You can display a third language <emphasis>right
-		  under</emphasis> the source segment to use as a third language
-		  reference. See the <link linkend="how.to.tm.bridge.two.languages" endterm="how.to.tm.bridge.two.languages.title"/> how-to for
-		  details.</para>
+		  <para>You can display a third language <emphasis>right under</emphasis> the source segment to use as a third language reference. Vedere la guida all'uso <link linkend="how.to.tm.bridge.two.languages" endterm="how.to.tm.bridge.two.languages.title"/> per i dettagli.</para>
 		</listitem>
 	  </varlistentry>
 	</variablelist>

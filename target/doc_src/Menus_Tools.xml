@@ -3,79 +3,64 @@
 <section id="menus.tools">
   <title id="menus.tools.title"><guimenu>Strumenti</guimenu></title>
 
-  <para>This menu gives you access to a number of tools, including QA
-  validation, match reports, an aligner, and scripting.</para>
+  <para>Questo menu permette l'accesso a vari strumenti, tra cui la convalida di qualità, le statistiche delle concordanze, un allineatore di segmenti e le azioni di script.</para>
 
   <example id="example.check.issues">
-	<title id="example.check.issues.title">Shortcut description example</title>
-	<para>On Windows and Linux:
-	<keycombo><keycap>Control</keycap><keycap>Shift</keycap><keycap>V</keycap></keycombo></para>
+	<title id="example.check.issues.title">Esempio di descrizione delle scorciatoie</title>
+	<para>In Windows e Linux: <keycombo><keycap>Ctrl</keycap><keycap>Maiusc (Shift)</keycap><keycap>V</keycap></keycombo></para>
 
-	<para>On macOS:
-	<keycombo><keycap>Shift</keycap><keycap>Command</keycap><keycap>V</keycap></keycombo></para>
+	<para>In macOS: <keycombo><keycap>Maiusc (Shift)</keycap><keycap>Cmd</keycap><keycap>V</keycap></keycombo></para>
 
-	<para><emphasis role="bold">In this manual:</emphasis>
-	<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>V</keycap></keycombo></para>
+	<para><emphasis role="bold">In questo manuale:</emphasis> <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>V</keycap></keycombo> (NdT: per questioni di coerenza e per evitare confusione si è lasciato &quot;S&quot; di &quot;Shift&quot; al posto di &quot;M&quot;)</para>
   </example>
 
   <variablelist>
     <varlistentry id="menus.tools.check.issues">
-      <term id="menus.tools.check.issues.title"><guimenuitem>Check
-      Issues...</guimenuitem>
-      <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>V</keycap></keycombo></term>
+      <term id="menus.tools.check.issues.title"><guimenuitem>Verifica problemi...</guimenuitem> <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>V</keycap></keycombo></term>
       <listitem>
-        <para>This quality assurance tool carries out all automatic checks in
-        one go and displays the results in a window.</para>
+        <para>Lo strumento di verifica della qualità (QA, quality assurance) esegue tutti i controlli automatici in un colpo solo e visualizza i risultati in una finestra separata.</para>
 
-        <para>Four types of issues can be detected:</para>
+        <para>Vengono individuati quattro tipi di problemi:</para>
 
         <itemizedlist>
           <listitem>
-            <para><guilabel>Tag Issues</guilabel> (always selected): detects missing or misplaced tags, including custom tags and flagged text. Vedere le preferenze <link linkend="dialogs.preferences.tag.processing" endterm="dialogs.preferences.tag.processing.title"/> per i dettagli.</para>
+            <para><guilabel>Problemi con i tag</guilabel> (sempre selezionato): rileva i tag mancanti o usati in modo scorretto, incluso i tag personalizzati e il testo con flag. Vedere le preferenze <link linkend="dialogs.preferences.tag.processing" endterm="dialogs.preferences.tag.processing.title"/> per i dettagli.</para>
 
 			<note>
-			  <para>The option is always selected.</para>
+			  <para>Questa opzione è sempre selezionata.</para>
 			</note>
           </listitem>
 
           <listitem>
-            <para><guilabel>Spelling Issues</guilabel> (optional): detects spelling mistakes. Funziona solo se è installato un dizionario ortografico. Vedere le preferenze <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per i dettagli.</para>
+            <para><guilabel>Problemi ortografici</guilabel> (facoltativo): rileva gli errori di ortografia. Funziona solo se è installato un dizionario ortografico. Vedere le preferenze <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per i dettagli.</para>
           </listitem>
 
           <listitem>
-            <para><guilabel>Terminology Issues</guilabel> (optional): detects all the glossary items that are not properly translated. Vedere le preferenze <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per i dettagli.</para>
+            <para><guilabel>Problemi terminologici</guilabel> (facoltativo): detects all the glossary items that are not properly translated. Vedere le preferenze <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per i dettagli.</para>
           </listitem>
 
 		  <listitem>
-            <para><guilabel>LanguageTool Issues</guilabel> (optional): detects grammatical or typographical issues. Vedere le preferenze <link linkend="dialog.preferences.languagetool.plugin" endterm="dialog.preferences.languagetool.plugin.title"/> per i dettagli.</para>
+            <para><guilabel>Problemi di LanguageTool</guilabel> (facoltativo): rileva problemi tipografici o grammaticali. Vedere le preferenze <link linkend="dialog.preferences.languagetool.plugin" endterm="dialog.preferences.languagetool.plugin.title"/> per i dettagli.</para>
           </listitem>
         </itemizedlist>
 
-        <para>The results are presented as a table in which:</para>
+        <para>I risultati sono presentati in forma tabellare, in cui:</para>
         <itemizedlist>
           <listitem>
-            <para>Double-clicking a row activates the corresponding segment in
-            the Editor pane.</para>
+            <para>Il doppio clic su una riga attiva il segmento corrispondente nel pannello dell'Editor.</para>
           </listitem>
 
           <listitem>
-            <para>Clicking a column header changes the sort order for that
-            column.</para>
+            <para>Il clic su un'intestazione di colonna cambia l'ordine della colonna.</para>
           </listitem>
 
           <listitem>
-            <para>Selecting or mousing over a row displays a
-            context menu icon in the last column. Clicking that icon presents
-            actions available to correct or ignore the error.</para>
+            <para>La selezione o lo spostamento del mouse su una riga mostra un'icona di un menu contestuale nell'ultima colonna. Il clic sull'icona offre le azioni per correggere o ignorare l'errore.</para>
 
 			<note>
-			  <para>To force issue checking each time you leave a segment,
-			  enable the <link linkend="dialogs.preferences.editor.validate.tags.when.leaving.a.segment" endterm="dialogs.preferences.editor.validate.tags.when.leaving.a.segment.title"/>
-			  preference.</para>
+			  <para>Per forzare la verifica dei problemi ogni volta che si conferma un segmento, attivare la preferenza <link linkend="dialogs.preferences.editor.validate.tags.when.leaving.a.segment" endterm="dialogs.preferences.editor.validate.tags.when.leaving.a.segment.title"/>.</para>
 
-			  <para>To prevent the creation of translated files if tag issues are 
-			  found, enable the <link linkend="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues" endterm="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues.title"/>
-			  preference.</para>
+			  <para>Per impedire la creazione dei file tradotti nel caso siano individuati problemi con i tag, attivare la preferenza <link linkend="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues" endterm="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues.title"/>.</para>
 			</note>
           </listitem>
         </itemizedlist>
@@ -92,37 +77,28 @@
     <varlistentry id="menus.tools.statistics">
       <term id="menus.tools.statistics.title"><guimenuitem>Statistiche</guimenuitem></term>
       <listitem>
-        <para>Opens a new window and displays project statistics such as the
-        overall project word count or segment totals, and totals for every file
-        in the project.</para>
+        <para>Apre una nuova finestra e mostra le statistiche del progetto quali il conteggio delle parole totali del progetto, i totali dei segmenti e i totali per ciascun file del progetto.</para>
 
-		<para>The data is saved in the <link linkend="project.folder.project.stats" endterm="project.folder.project.stats.title"/> file located in the <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/> folder of the
-		project.</para>
+		<para>I dati sono salvati nel file <link linkend="project.folder.project.stats" endterm="project.folder.project.stats.title"/> memorizzato nella cartella <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/> del progetto.</para>
 
 		<note>
-		  <para>Word count, segment total and other items can be influenced by
-		  the following factors:</para>
+		  <para>Il conteggio delle parole, il totale dei segmenti e altri elementi sono influenzati dai fattori seguenti:</para>
 		  
 		  <itemizedlist>
 			<listitem>
-			  <para>File filter settings: some filters allow for extra parts to
-			  be considered for translation. See the file filter <link linkend="filters.options">options</link> for details.</para>
+			  <para>Impostazioni dei filtri dei file: alcuni filtri permettono che determinate parti aggiuntive possano essere tradotte. Vedere le <link linkend="filters.options">opzioni</link> dei filtri dei file per i dettagli.</para>
 			</listitem>
 
 			<listitem>
-			  <para>Segmentation rules: different rules will generate a different number of segment. Vedere l'appendice <link linkend="app.segmentation" endterm="app.segmentation.title"/>per i dettagli.</para>
+			  <para>Regole di segmentazione: regole diverse genereranno un numero diverso di segmenti. Vedere l'appendice <link linkend="app.segmentation" endterm="app.segmentation.title"/>per i dettagli.</para>
 			</listitem>
 
 			<listitem>
-			  <para>Tags: OmegaT tags are never counted in the statistics but in
-			  some cases can split terms and create discrepancies in the way
-			  OmegaT counts them. See the <link linkend="dialogs.project.properties.hide.tags" endterm="dialogs.project.properties.hide.tags.title"/>
-			  preference in the <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/> dialog for
-			  details.</para>
+			  <para>Tag: i tag di OmegaT non vengono mai conteggiati nelle statistiche, ma in alcuni casi possono dividere dei termini e creare delle discrepanze nel modo in cui OmegaT li conta. Vedere la preferenza <link linkend="dialogs.project.properties.hide.tags" endterm="dialogs.project.properties.hide.tags.title"/> nella finestra di dialogo <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/> per i dettagli.</para>
 			</listitem>
 
 			<listitem>
-			  <para>Custom tags and flagged text: as with OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words. Vedere la preferenza <link linkend="dialogs.preferences.tag.processing.count.protected.text.and.custom.tags.in.statistics" endterm="dialogs.preferences.tag.processing.count.protected.text.and.custom.tags.in.statistics.title"/> per i dettagli.</para>
+			  <para>Tag personalizzati e testo con flag: allo stesso modo dei tag di OmegaT, non vengono normalmente conteggiati nelle statistiche, ma è possibile fare in modo che OmegaT li conteggi come parole. Vedere la preferenza <link linkend="dialogs.preferences.tag.processing.count.protected.text.and.custom.tags.in.statistics" endterm="dialogs.preferences.tag.processing.count.protected.text.and.custom.tags.in.statistics.title"/> per i dettagli.</para>
 			</listitem>
 		  </itemizedlist>
 		</note>
@@ -132,35 +108,27 @@
     <varlistentry id="menus.tools.match.statistics">
       <term id="menus.tools.match.statistics.title"><guimenuitem>Statistiche delle concordanze</guimenuitem></term>
       <listitem>
-        <para>Displays the match statistics for the project, which consist of 
-        the number of repetitions, exact matches, fuzzy matches and no-matches 
-        for segments, words and characters.</para>
+        <para>Mostra le statistiche di concordanza per il progetto, che consistono nel numero di ripetizioni, concordanze esatte, parziali e nessuna, sia per i segmenti, sia per le parole e i caratteri.</para>
 
-		<para>The data is saved in the <link linkend="project.folder.omegat.project.stats.match" endterm="project.folder.omegat.project.stats.match.title"/> file located in the <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/> folder of the
-		project.</para>
+		<para>I dati sono salvati nel file <link linkend="project.folder.omegat.project.stats.match" endterm="project.folder.omegat.project.stats.match.title"/> memorizzato nella cartella <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/> del progetto.</para>
       </listitem>
     </varlistentry>
 	
     <varlistentry id="menus.tools.match.statistics.per.file">
       <term id="menus.tools.match.statistics.per.file.title"><guimenuitem>Statistiche delle concordanze per file</guimenuitem></term>
       <listitem>
-        <para>Displays the individual match statistics, which consist of the
-        number of repetitions, exact matches, fuzzy matches and no-matches for
-        segments, words and characters, for each file in the project.</para>
+        <para>Mostra le statistiche di concordanza per ciascun file del progetto, che consistono nel numero di ripetizioni, concordanze esatte, parziali e nessuna, sia per i segmenti, sia per le parole e i caratteri.</para>
 
-		<para>The data is saved in the <link linkend="project.folder.omegat.project.stats.match.per.file" endterm="project.folder.omegat.project.stats.match.per.file.title"/> file located in the <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/> folder of the
-		project.</para>
+		<para>I dati sono salvati nel file <link linkend="project.folder.omegat.project.stats.match.per.file" endterm="project.folder.omegat.project.stats.match.per.file.title"/> memorizzato nella cartella <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/> del progetto.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry id="menus.tools.align.files">
       <term id="menus.tools.align.files.title"><guimenuitem>Allinea file...</guimenuitem></term>
       <listitem>
-        <para>Select the two files to align (the source file and its
-        translation) and click <guibutton>OK</guibutton> to open the <link linkend="windows.aligner" endterm="windows.aligner.title"/>
-        window.</para>
+        <para>Selezionare i due file da allineare (il file di partenza e la sua traduzione) e fare clic su <guibutton>OK</guibutton> per aprire la finestra <link linkend="windows.aligner" endterm="windows.aligner.title"/>.</para>
 
-        <para>The supported file formats depend on your project setting. Vedere l'appendice <link linkend="file.filters" endterm="file.filters.title"/>per i dettagli.</para>
+        <para>I formati di file supportati dipendono dalle impostazioni del progetto. Vedere l'appendice <link linkend="file.filters" endterm="file.filters.title"/>per i dettagli.</para>
         <para>I file di partenza e quelli di arrivo possono avere formati diversi (per esempio, un file <filename>.docx</filename> può essere allineato con un file <filename>.pdf</filename>).</para>
       </listitem>
     </varlistentry>
@@ -168,15 +136,11 @@
     <varlistentry id="menus.tools.scripting">
       <term id="menus.tools.scripting.title"><guimenuitem>Azioni di script...</guimenuitem></term>
       <listitem>
-        <para>Opens the <link linkend="windows.scripts" endterm="windows.scripts.title"/> window, which allows you to set the
-        location where scripts are stored, as well as write and run scripts, and
-        assign them a shortcut.</para>
-		<para>The list below this item displays 12 potential slots for
-		scripts. Clicking on an assigned slot launches the script assigned to
-		that slot.</para>
+        <para>Apre la finestra <link linkend="windows.scripts" endterm="windows.scripts.title"/>, che consente di impostare la posizione di salvataggio degli script, di scrivere ed eseguire script e assegnar loro una scorciatoia.</para>
+		<para>L'elenco sotto questo elemento mostra dodici spazi potenziali per gli script. Facendo clic su uno spazio assegnato si avvierà lo script ad esso collegato.</para>
 
 		<note>
-		  <para>To assign a number to a script:</para>
+		  <para>Per assegnare un numero a uno script:</para>
 
           <orderedlist>
 			<listitem>
@@ -184,12 +148,11 @@
 			</listitem>
 
 			<listitem>
-              <para>Select the script you want from the list on the left.</para>
+              <para>Selezionare lo script prescelto dall'elenco a sinistra.</para>
 			</listitem>
 
 			<listitem>
-              <para>At the bottom of the window, right-click on an unassigned
-              number and select <guilabel>Add Script</guilabel>.</para>
+              <para>Nella parte inferiore della finestra fare clic col pulsante destro del mouse su un numero libero e selezionare <guilabel>Aggiungi script</guilabel>.</para>
 			</listitem>
           </orderedlist>
 		</note>
@@ -197,11 +160,9 @@
     </varlistentry>
 
     <varlistentry id="menus.tools.external.search.commands">
-      <term id="menus.tools.external.search.commands.title">External search
-      commands</term>
+      <term id="menus.tools.external.search.commands.title">Comandi per la ricerca esterna</term>
       <listitem>
-        <para>If you have defined external searches in the <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> preferences,
-        they are listed and accessible here.</para>
+        <para>Se sono state definite ricerche esterne nelle preferenze <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/>, è possibile accedervi con questo comando.</para>
       </listitem>
     </varlistentry>
   </variablelist>
