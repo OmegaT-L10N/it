@@ -4,90 +4,69 @@
   <title id="chapter.project.folder.title">Cartella del progetto</title>
 
   <section>
-	<title>Default structure</title>
-	<para>An OmegaT project consists of a set of folders and files that contain
-	the resources used for translating.</para>
+	<title>Struttura predefinita</title>
+	<para>Un progetto OmegaT consiste di un gruppo di cartelle e file contenenti le risorse utilizzate per la traduzione.</para>
 
-	<para>By default, a newly created project will contain all the required
-	resources within its folder, and those resources are assigned the default
-	names below.</para>
+	<para>Per impostazione predefinita, un progetto appena creato conterrà tutte le risorse necessarie all'interno della sua cartella, e a tali risorse vengono assegnati i nomi riportati di seguito.</para>
 
 	<itemizedlist>
 	  <listitem>
-		<para><link linkend="project.folder.source" endterm="project.folder.source.title"/> contains the source files</para>
+		<para><link linkend="project.folder.source" endterm="project.folder.source.title"/>contiene i file di partenza</para>
 	  </listitem>
 
 	  <listitem>
-		<para><link linkend="project.folder.target" endterm="project.folder.target.title"/> is the location where the target
-		files are created</para>
+		<para><link linkend="project.folder.target" endterm="project.folder.target.title"/>è la posizione dove sono creati i file di arrivo</para>
 	  </listitem>
 
 	  <listitem>
-		<para><link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/> contains the glossaries</para>
+		<para><link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/>contiene i glossari</para>
 	  </listitem>
 
 	  <listitem>
-		<para><link linkend="project.folder.glossary.txt" endterm="project.folder.glossary.txt.title"/> is the project writable
-		glossary</para>
+		<para><link linkend="project.folder.glossary.txt" endterm="project.folder.glossary.txt.title"/>è il glossario scrivibile del progetto</para>
 	  </listitem>
 
 	  <listitem>
-		<para><link linkend="project.folder.tm" endterm="project.folder.tm.title"/> contains the reference translation
-		memories</para>
+		<para><link linkend="project.folder.tm" endterm="project.folder.tm.title"/>contiene le memorie di traduzione di riferimento</para>
 	  </listitem>
 
 	  <listitem>
-		<para><link linkend="project.folder.dictionary" endterm="project.folder.dictionary.title"/> contains the reference
-		dictionaries</para>
+		<para><link linkend="project.folder.dictionary" endterm="project.folder.dictionary.title"/>contiene i dizionari di riferimento</para>
 	  </listitem>
 	</itemizedlist>
 
-	<para>Use <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.access.project.contents" endterm="menus.project.access.project.contents.title"/> to access the project
-	folder and its subfolders.</para>
+	<para>Usare <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.access.project.contents" endterm="menus.project.access.project.contents.title"/> per accedere alla cartella del progetto e alle sue sottocartelle.</para>
 
-	<para>Use <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.properties" endterm="menus.project.properties.title"/>,
-	to easily assign locations other than the default ones to the various
-	resources either when you create the project, or later on.</para>
+	<para>Usare <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.properties" endterm="menus.project.properties.title"/> per assegnare rapidamente posizioni diverse da quelle predefinite alle varie risorse, sia durante la creazione del progetto, sia in un momento successivo.</para>
 
-	<para>For example, you can</para>
+	<para>È possibile, per esempio</para>
 
 	<itemizedlist>
 	  <listitem>
-		<para>create the translated files in a shared folder outside the project
-		folder, in a location easily accessible to your reviewer, or</para>
+		<para>creare i file tradotti in una cartella condivisa, al di fuori della cartella del progetto, in una posizione facilmente accessibile dal proprio revisore, oppure</para>
 	  </listitem>
 
 	  <listitem>
-		<para>use a glossary folder from a separate but related project, or</para>
+		<para>usare una cartella di glossario da un progetto separato ma collegato, oppure</para>
 	  </listitem>
 
 	  <listitem>
-		<para>use a reference translation memory folder that you have set up for
-		related projects, and so on.</para>
+		<para>usare una cartella di memorie di traduzione di riferimento configurata per progetti collegati, e via discorrendo.</para>
 	  </listitem>
 	</itemizedlist>
 	
-	<para>Creating a project gives it a core hierarchy, but its final structure is
-	not fixed. You can always remove or add files and folders to the
-	project.</para>
+	<para>La creazione di un progetto crea una gerarchia, ma la sua struttura finale non è fissa. Al progetto è sempre possibile rimuovere o aggiungere file e cartelle.</para>
 
 	<note>
-	  <para>You can also create OmegaT projects either manually or with scripts by
-	  copying a set of prewritten files to a new folder:</para>
+	  <para>È possibile anche creare progetti OmegaT manualmente, oppure con script copiando in una nuova cartella un gruppo di file scritti in precedenza:</para>
 	  
 	  <itemizedlist>
 		<listitem>
-		  <para>Any given folder that contains a valid
-		  <filename>omegat.project</filename> file will be recognized as a
-		  translation project by OmegaT (even if it later needs manual
-		  adjustments).</para>
+		  <para>Qualsiasi cartella specificata che contenga un file <filename>omegat.project</filename> valido verrà riconosciuta da OmegaT come un progetto di traduzione (anche se poi avrà necessità di regolazioni manuali).</para>
 		</listitem>
 
 		<listitem>
-		  <para>If the folder is an empty repository and the
-		  <filename>omegat.project</filename> file contains remote repository
-		  information, the project will be recognized as a team project by
-		  OmegaT:</para>
+		  <para>Se la cartella è un deposito vuoto e il file <filename>omegat.project</filename> contiene informazioni su un deposito remoto, il progetto sarà riconosciuto come un progetto in collaborazione:</para>
 		  
 		  <programlisting>...
     &lt;external_command&gt;&lt;/external_command&gt;
@@ -106,38 +85,30 @@
   </section>
 
   <section>
-	<title>Minimal contents</title>
+	<title>Contenuto minimo</title>
 
-	<para>A project is a folder containing, at a minimum, the following:</para>
+	<para>Un progetto è una cartella che contiene, come minimo, i seguenti elementi:</para>
 	
 	<variablelist>
 	  <varlistentry id="project.folder.omegat">
 		<term id="project.folder.omegat.title">omegat</term>
 		<listitem>
-		  <para>This is the project folder that always contains <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>, the project
-		  translation memory, and <link linkend="project.folder.project.stats" endterm="project.folder.project.stats.title"/>, the statistics data file
-		  for the project.</para>
+		  <para>Questa è la cartella del progetto che contiene sempre <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>, la memoria di traduzione del progetto, e <link linkend="project.folder.project.stats" endterm="project.folder.project.stats.title"/>, il file dei dati statistici del progetto.</para>
 
-		  <para>Other files will be added over the course of the translation.</para>
+		  <para>Con l'avanzare della traduzione saranno aggiunti altri file.</para>
 
-		  <para>See <link linkend="project.folder.omegat.folder">below</link> for
-		  details.</para>
+		  <para>Vedere <link linkend="project.folder.omegat.folder">sotto</link> per i dettagli.</para>
 		</listitem>
 	  </varlistentry>
 
 	  <varlistentry id="project.folder.omegat.project.file">
 		<term id="project.folder.omegat.project.file.title">omegat.project</term>
 		<listitem>
-		  <para>This file contains the project parameters defined in the <link linkend="dialogs.project.properties">project properties</link>, such as
-		  the source and target languages, their respective tokenizers and the type of
-		  segmentation.</para>
+		  <para>Questo file contiene i parametri del progetto definiti nelle <link linkend="dialogs.project.properties">proprietà del progetto</link>, quali la lingua di partenza e di arrivo, i relativi tokenizer e il tipo di segmentazione.</para>
 		  
-		  <para>It also acts as an <emphasis>address book</emphasis> that
-		  specifies where project resources are located.</para>
+		  <para>Funge anche da <emphasis>rubrica</emphasis> che specifica dove sono memorizzate le risorse del progetto.</para>
 
-		  <para>OmegaT also creates a backup of that file
-		  (<filename>omegat.project.bak</filename>) and will automatically use it to
-		  restore your project settings in case of need.</para>
+		  <para>OmegaT crea anche una copia di sicurezza di tale file (<filename>omegat.project.bak</filename>) e lo utilizza automaticamente per ripristinare le impostazioni del progetto, in caso di necessità.</para>
 		</listitem>
 	  </varlistentry>
 	</variablelist>
@@ -145,104 +116,72 @@
   
   <section id="project.folder.source">
     <title id="project.folder.source.title">source</title>
-    <para>The source folder contains the files to translate.</para>
+    <para>Questa cartella contiene i file da tradurre.</para>
 
-	<para>Use <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.copy.files.to.source.folder" endterm="menus.project.copy.files.to.source.folder.title"/> or drop files on
-	the <link linkend="panes.editor" endterm="panes.editor.title"/> pane to add
-	files any time you want.</para>
+	<para>Usare <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.copy.files.to.source.folder" endterm="menus.project.copy.files.to.source.folder.title"/> o trascinare e rilasciare i file sul pannello <link linkend="panes.editor" endterm="panes.editor.title"/> per aggiungerli in qualsiasi momento.</para>
 
-	<para>The contents of the files in a format that OmegaT supports will be
-	displayed in the <link linkend="panes.editor" endterm="panes.editor.title"/>
-	pane for translation.</para>
+	<para>Il contenuto dei file, in un formato supportato da OmegaT, sarà visualizzato nel pannello <link linkend="panes.editor" endterm="panes.editor.title"/> per la traduzione.</para>
 
-	<para>You can add folders or remove files with your file manager.</para>
+	<para>È possibile aggiungere cartelle o rimuovere file tramite il proprio gestore di file.</para>
 
-	<para>If your translation project involves a number of folders and you feel
-	like working on one folder at a time, use <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.properties" endterm="menus.project.properties.title"/> to access the project properties
-	and change the assigned <link linkend="dialogs.project.properties.file.locations.source.files">source
-	folder</link> as you wish.</para>
+	<para>Se il progetto di traduzione implica svariate cartelle e si preferisce lavorare una cartella alla volta, usare <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.properties" endterm="menus.project.properties.title"/> per accedere alle proprietà del progetto e cambiare a proprio piacimento la <link linkend="dialogs.project.properties.file.locations.source.files">cartella source</link> assegnata.</para>
   </section>
 
   <section id="project.folder.target">
     <title id="project.folder.target.title">target</title>
     <para>Al principio questa cartella è vuota.</para>
 
-	<para>It will be populated with the translated files every time you use
-	<link linkend="menus.project.create.translated.documents" endterm="menus.project.create.translated.documents.title"/> or <link linkend="menus.project.create.current.translated.document" endterm="menus.project.create.current.translated.document.title"/>.</para>
+	<para>Verrà popolata con i file tradotti ogni volta che si usa <link linkend="menus.project.create.translated.documents" endterm="menus.project.create.translated.documents.title"/> o <link linkend="menus.project.create.current.translated.document" endterm="menus.project.create.current.translated.document.title"/>.</para>
 
-	<para>The translated files that correspond to the contents of the <link linkend="project.folder.source" endterm="project.folder.source.title"/>
-	folder, whether fully translated or not, are then created here, using the
-	same hierarchy as in the source folder.</para>
+	<para>I file tradotti che corrispondono al contenuto della cartella <link linkend="project.folder.source" endterm="project.folder.source.title"/>, sia che siano totalmente tradotti o no, verranno creati qui, utilizzando la stessa gerarchia della cartella di partenza.</para>
 
-	<para>The files created here will reflect the current state of the
-	translation. Untranslated segments will remain in the source
-	language.</para>
+	<para>I file creati qui rispecchiano lo stato attuale della traduzione. I segmenti non tradotti resteranno nella lingua di partenza.</para>
   </section>
 
   <section id="project.folder.tm">
     <title id="project.folder.tm.title">tm</title>
-    <para>This folder can contain any number of bilingual reference documents
-    (TMX files, but also any file in a bilingual format supported by OmegaT,
-    including PO files, etc.) and the TMX files can also be compressed in the
-    gzip format.</para>
+    <para>Questa cartella è in grado di contenere un numero qualsiasi di documenti di riferimento bilingui (file TMX ma anche qualsiasi file in formato bilingue supportato da OmegaT, inclusi i file PO, ecc.) e i file TMX che possono essere pure compressi nel formato gzip.</para>
 	
-	<para>OmegaT can be instructed to automatically insert matches. To remind
-	you that a match was inserted by OmegaT and not by you, OmegaT adds the
-	prefix set in the <link linkend="dialogs.preferences.editor.insert.the.best.fuzzy.match" endterm="dialogs.preferences.editor.insert.the.best.fuzzy.match.title"/>
-	preference.</para>
+	<para>OmegaT può essere istruito a inserire automaticamente le concordanze. Per evidenziare che una concordanza è stata aggiunta dal programma e non dal traduttore, OmegaT aggiunge il prefisso impostato nelle preferenze <link linkend="dialogs.preferences.editor.insert.the.best.fuzzy.match" endterm="dialogs.preferences.editor.insert.the.best.fuzzy.match.title"/>.</para>
 	
-    <para>Matches from the reference memories are displayed in the <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/> pane,
-    just like matches from <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>, the project translation
-    memory.</para>
+    <para>Nel pannello <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/> vengono mostrate le concordanze derivanti dalle memorie di riferimento, proprio come le concordanze provenienti da <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>, la memoria di traduzione del progetto.</para>
 
-	<para>Such matches are by default limited to the source and target languages defined in the <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/> dialog, but you can also add matches in languages that are not the target language. Vedere le preferenze <link linkend="dialog.preferences.tm.matches.other.languages" endterm="dialog.preferences.tm.matches.other.languages.title"/> per i dettagli.</para>
+	<para>Tali concordanze sono, per impostazione predefinita, limitate alle lingue di partenza e di arrivo definite nella finestra di dialogo <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/>, ma è possibile aggiungere concordanze anche in lingue diverse dalla lingua di destinazione. Vedere le preferenze <link linkend="dialog.preferences.tm.matches.other.languages" endterm="dialog.preferences.tm.matches.other.languages.title"/> per i dettagli.</para>
 
-	<para>The folder can contain any number of subfolders, including some that
-	have special functions:</para>
+	<para>La cartella può contenere qualsiasi numero di sottocartelle, incluso quelle contenenti funzioni speciali:</para>
 
 	<variablelist>
       <varlistentry id="project.folder.tm.auto">
 		<term id="project.folder.tm.auto.title">tm/auto</term>
 		<listitem>
-		  <para>This folder is intended for reliable references files that can
-		  automatically fill exactly matching and not yet translated
-		  segments.</para>
+		  <para>Questa cartella è concepita per contenere file di riferimento affidabili che possono popolare automaticamente le corrispondenze esatte e i segmenti non ancora tradotti.</para>
 
-		  <para>Translations from TMX files placed in this folder are
-		  automatically inserted in matching segments without the automatic
-		  prefix, making it unnecessary to confirm these segments.</para>
+		  <para>Le traduzioni derivanti da file TMX salvati in questa cartella sono inserite automaticamente nei segmenti corrispondenti e senza l'aggiunta del prefisso automatico, rendendone superflua la conferma.</para>
 
-		  <para>Translations coming from this folder are considered to be
-		  <emphasis>as</emphasis> reliable as the project memory.</para>
+		  <para>Le traduzioni provenienti da questa cartella sono considerate affidabili <emphasis>quanto</emphasis> quelle della memoria del progetto.</para>
 
 		  <note>
-			<para>Enable the <link linkend="dialogs.preferences.editor.save.auto-populated.status" endterm="dialogs.preferences.editor.save.auto-populated.status.title"/>
-			option to have OmegaT remember that the inserted matches came from
-			this folder.</para>
+			<para>Abilitare l'opzione <link linkend="dialogs.preferences.editor.save.auto-populated.status" endterm="dialogs.preferences.editor.save.auto-populated.status.title"/> per fare in modo che OmegaT ricordi che le concordanze inserite provengono da questa cartella.</para>
 		  </note>
 
 		<orderedlist>
 			<listitem>
-			  <para>Put the applicable memories in the <filename class="directory">tm/auto</filename> folder.</para>
+			  <para>Inserire le memorie applicabili nella cartella <filename class="directory">tm/auto</filename>.</para>
 			</listitem>
 			
 			<listitem>
-			  <para>Aprire il progetto. You will see that segments identical to source segments in those memories are already filled in. Use <link linkend="menus.view" endterm="menus.view.title"/><link linkend="menus.view.mark.auto.populated.segments" endterm="menus.view.mark.auto.populated.segments.title"/> to highlight them.</para>
+			  <para>Aprire il progetto. I segmenti identici ai segmenti di partenza contenuti in quelle memorie di traduzione verranno popolati istantaneamente. Usare <link linkend="menus.view" endterm="menus.view.title"/><link linkend="menus.view.mark.auto.populated.segments" endterm="menus.view.mark.auto.populated.segments.title"/> per evidenziarli.</para>
 			</listitem>
 
 			<listitem>
-			  <para>Make a minor change anywhere in the project and save it. This
-			  will add the translations loaded from the tm/auto folder to the
-			  project translation memory.</para>
+			  <para>Eseguire una piccola modifica in un punto qualsiasi del progetto e salvarlo. Questa operazione aggiungerà le traduzioni caricate dalla cartella tm/auto alla memoria di traduzione del progetto.</para>
 			</listitem>
 		  </orderedlist>
 
-		  <para>Use the navigation menus found in <link linkend="menus.goto" endterm="menus.goto.title"/><link linkend="menus.goto.auto.populated.segments" endterm="menus.goto.auto.populated.segments.title"/> to navigate to the
-		  inserted segments.</para>
+		  <para>Utilizzare i menu di navigazione che si trovano in <link linkend="menus.goto" endterm="menus.goto.title"/><link linkend="menus.goto.auto.populated.segments" endterm="menus.goto.auto.populated.segments.title"/> per passare ai segmenti inseriti.</para>
 				
 		  <warning>
-			<para>If you remove a TMX file from <filename class="directory">tm/auto</filename> before Step 3, its content will
-			not be kept.</para>
+			<para>Se si rimuove un file TMX dalla cartella <filename class="directory">tm/auto</filename> prima del passaggio 3, il suo contenuto verrà scartato.</para>
 		  </warning>
 		</listitem>
 	  </varlistentry>
@@ -250,68 +189,50 @@
       <varlistentry id="project.folder.tm.enforce">
 		<term id="project.folder.tm.enforce.title">tm/enforce</term>
 		<listitem>
-		  <para>This folder is made for reliable references files that are also
-		  meant to automatically overwrite previously translated contents.</para>
+		  <para>Questa cartella è fatta per i file di riferimento affidabili che sono anche concepiti per sovrascrivere il contenuto tradotto in precedenza.</para>
 
-		  <para>Translations from TMX files placed in this folder are
-		  automatically inserted in matching segments without the fuzzy match
-		  prefix, making it unnecessary to confirm these segments.</para>
+		  <para>Le traduzioni derivanti da file TMX salvati in questa cartella sono inserite automaticamente nei segmenti corrispondenti e senza l'aggiunta del prefisso per la concordanza parziale, rendendone superflua la conferma.</para>
 
-		  <para>Translations coming from this folder are considered to be
-		  <emphasis>more</emphasis> reliable than the current project
-		  memory.</para>
+		  <para>Le traduzioni provenienti da questa cartella sono considerate <emphasis>più</emphasis> affidabili di quelle della memoria del progetto attivo.</para>
 
-		  <para>If you have no doubt that a given TMX contains more accurate
-		  translations than the current <filename>project_save.tmx</filename>
-		  file, put that TMX in the <filename class="directory">tm/enforce</filename> folder to overwrite the
-		  existing translations unconditionally.</para>
+		  <para>Se si è certi che una determinata TMX contiene traduzioni più accurate del file <filename>project_save.tmx</filename> attuale, inserire detta TMX nella cartella <filename class="directory">tm/enforce</filename> per sovrascrivere in modo categorico le traduzioni esistenti.</para>
 
 		  <note>
-			<para>Enable the <link linkend="dialogs.preferences.editor.save.auto-populated.status" endterm="dialogs.preferences.editor.save.auto-populated.status.title"/>
-			option to have OmegaT remember that the inserted matches came from
-			this folder.</para>
+			<para>Abilitare l'opzione <link linkend="dialogs.preferences.editor.save.auto-populated.status" endterm="dialogs.preferences.editor.save.auto-populated.status.title"/> per fare in modo che OmegaT ricordi che le concordanze inserite provengono da questa cartella.</para>
 		  </note>
 
 		  <orderedlist>
 			<listitem>
-			  <para>Put the applicable memories in the <filename class="directory">tm/enforce</filename> folder.</para>
+			  <para>Inserire le memorie applicabili nella cartella <filename class="directory">tm/enforce</filename>.</para>
 			</listitem>
 
 			<listitem>
-			  <para>Aprire il progetto. You will see that segments identical to source segments in those memories are already filled in.</para>
+			  <para>Aprire il progetto. I segmenti identici ai segmenti di partenza contenuti in quelle memorie di traduzione verranno popolati istantaneamente.</para>
 			</listitem>
 			
 			<listitem>
-			  <para>Make a minor change anywhere in the project and save. This
-			  updates the project translation memory.</para>
+			  <para>Eseguire una piccola modifica in un punto qualsiasi del progetto e salvarlo. Questa azione aggiorna la memoria di traduzione del progetto.</para>
 			</listitem>
 
 			<listitem>
-			  <para>Make a decision about the immutability of the enforced
-			  segments:</para>
+			  <para>Decidere riguardo l'immutabilità dei segmenti forzati:</para>
 			  
 			  <itemizedlist>
 				<listitem>
-				  <para>If they <emphasis>don't need</emphasis> to remain
-				  immutable to further changes, remove the TMX from <filename class="directory">tm/enforce</filename>.</para>
+				  <para>Se <emphasis>non è necessario</emphasis> che restino immutati in seguito a modifiche successive, rimuovere la TMX dalla cartella <filename class="directory">tm/enforce</filename>.</para>
 				</listitem>
 
 				<listitem>
-				  <para>If they <emphasis>do need</emphasis> to remain immutable
-				  to further changes, leave the TMX in <filename class="directory">tm/enforce</filename>. Any modification to the
-				  segments that come from these memories will
-				  <emphasis>not</emphasis> be taken into account.</para>
+				  <para>Se <emphasis>è necessario</emphasis> che restino immutati in seguito a modifiche successive, lasciare la TMX nella cartella <filename class="directory">tm/enforce</filename>. Qualsiasi modifica apportata ai segmenti provengano da queste memorie <emphasis>non</emphasis> verrà presa in considerazione.</para>
 				</listitem>
 			  </itemizedlist>
 			</listitem>
 		  </orderedlist>
 
-		  <para>Use the navigation menus found in <link linkend="menus.goto" endterm="menus.goto.title"/><link linkend="menus.goto.auto.populated.segments" endterm="menus.goto.auto.populated.segments.title"/> to navigate to the
-		  segments that have been inserted.</para>
+		  <para>Utilizzare i menu di navigazione che si trovano in <link linkend="menus.goto" endterm="menus.goto.title"/><link linkend="menus.goto.auto.populated.segments" endterm="menus.goto.auto.populated.segments.title"/> per passare ai segmenti che sono stati inseriti.</para>
 
 		  <warning>
-			<para>If you remove a TMX file from <filename class="directory">tm/enforce</filename> before Step 3, none of the
-			enforced translations will be kept.</para>
+			<para>Se si rimuove un file TMX dalla cartella <filename class="directory">tm/enforce</filename> prima del passaggio 3, le sue traduzioni forzate saranno mantenute</para>
 		  </warning>
 		</listitem>
 	  </varlistentry>
@@ -319,42 +240,31 @@
       <varlistentry id="project.folder.tm.mt">
 		<term id="project.folder.tm.mt.title">tm/mt</term>
 		<listitem>
-		  <para>When a match is inserted from a TMX contained in this folder, the
-		  background colour of the active segment changes to red.</para>
+		  <para>Quando viene inserita una concordanza proveniente da una TMX contenuta in questa cartella, il colore dello sfondo del segmento attivo diventa rosso.</para>
 
-		  <para>The background colour is restored to normal when you leave the
-		  segment or when you modify the segment.</para>
+		  <para>Lo sfondo ritorna al colore normale se si lascia il segmento oppure se lo si modifica</para>
 		</listitem>
 	  </varlistentry>
 	  
       <varlistentry id="project.folder.tm.penalty">
 		<term id="project.folder.tm.penalty.title">tm/penalty-xxx</term>
 		<listitem>
-		  <para><literal>xxx</literal> is a number from 0 to 100 that will act as
-		  a penalty subtracted from the match percentage of segments coming from
-		  this folder.</para>
+		  <para><literal>xxx</literal> è un numero da 0 a 100 che funziona come penalità sottratta dalla percentuale corrispondente di segmenti provenienti da questa cartella.</para>
 
-		  <para>For example, a 100% match in a TMX, stored in a folder called
-		  <filename class="directory">penalty-30</filename> becomes a 70%
-		  match. The penalty applies to all three match percentages. Scores of 75,
-		  80 and 90 for a match are lowered to 45, 50 and 60.</para>
+		  <para>Per esempio, una concordanza del 100% in una TMX, memorizzata in una cartella chiamata <filename class="directory">penalty-30</filename> diventa una concordanza del 70%. La penalità si applica a tutt'e tre le percentuali di corrispondenza. I punteggi 75, 80 e 90 di corrispondenza saranno abbassati a 45, 50 e 60</para>
 		</listitem>
 	  </varlistentry>
 
       <varlistentry id="project.folder.tm.tmx2source">
 		<term id="project.folder.tm.tmx2source.title">tm/tmx2source</term>
 		<listitem>
-		  <para>You can display a third language <emphasis>right under</emphasis> the source segment to use as a third language reference. Vedere la guida all'uso <link linkend="how.to.tm.bridge.two.languages" endterm="how.to.tm.bridge.two.languages.title"/> per i dettagli.</para>
+		  <para>È possibile visualizzare una terza lingua, da utilizzare come ulteriore riferimento linguistico, <emphasis>subito sotto</emphasis> il segmento. Vedere la guida all'uso <link linkend="how.to.tm.bridge.two.languages" endterm="how.to.tm.bridge.two.languages.title"/> per i dettagli.</para>
 		</listitem>
 	  </varlistentry>
 	</variablelist>
 
 	<note>
-	  <para>You can combine folders to create new functions. For example, a 10%
-	  penalty folder within the machine translation folder:
-	  <filename>tm/mt/penalty-010</filename> would never generate 100% matches
-	  that could otherwise be automatically inserted by OmegaT, and would always
-	  set a red background to the match whenever it is inserted.</para>
+	  <para>È possibile combinare cartelle per creare nuove funzioni. Per esempio, una cartella con penalità del 10% all'interno della cartella della traduzione automatica: <filename>tm/mt/penalty-010</filename> non genererebbe mai concordanze del 100%, che altrimenti verrebbero inserite automaticamente da OmegaT, e imposterebbe sempre uno sfondo rosso nella concordanza, ogniqualvolta venga inserita.</para>
 	</note>
   </section>
 
@@ -365,55 +275,40 @@
 
   <section id="project.folder.dictionary">
     <title id="project.folder.dictionary.title">dictionary</title>
-    <para>This folder is initially empty, and is used to store any dictionaries
-    you add to the project.</para>
+    <para>Al principio vuota, questa cartella viene utilizzata per memorizzare tutti i dizionari che sono aggiunti al progetto.</para>
 
-	<para>Dictionary terms that match parts of the segment are displayed in the <link linkend="panes.dictionary" endterm="panes.dictionary.title"/> pane. Vedere le preferenze <link linkend="dialogs.preferences.dictionary" endterm="dialogs.preferences.dictionary.title"/> per i dettagli.</para>
+	<para>I termini del dizionario che coincidono con parti del segmento sono mostrati nel pannello <link linkend="panes.dictionary" endterm="panes.dictionary.title"/>. Vedere le preferenze <link linkend="dialogs.preferences.dictionary" endterm="dialogs.preferences.dictionary.title"/> per i dettagli.</para>
 
-    <para>OmegaT supports dictionaries in the StarDict or in the Lingvo DSL
-    format. You can find some dictionaries on the <ulink url="https://sourceforge.net/p/omegat/wiki/Reference%20Material/">OmegaT
-    Wiki</ulink>.</para>
+    <para>OmegaT supporta i dizionari nel formato StarDict e Lingvo DSL. Alcuni dizionari sono disponibili nel <ulink url="https://sourceforge.net/p/omegat/wiki/Reference%20Material/">wiki di OmegaT</ulink>.</para>
 
-	<para>To install dictionaries:</para>
+	<para>Per installare i dizionari:</para>
 
     <orderedlist>
       <listitem>
-        <para>download the file - it should be a tarball archive (extension
-        <filename>tar.bz</filename> or <filename>tar.bz2</filename>),</para>
+        <para>scaricare il file - deve essere un archivio tarball (con estensione <filename>tar.bz</filename> o <filename>tar.bz2</filename>),</para>
       </listitem>
 	  
       <listitem>
-        <para>extract its contents into this folder. There should be three files
-        per dictionary, with extensions <filename>dz</filename>,
-        <filename>idx</filename> and <filename>ifo</filename>.</para>
+        <para>estrarre il suo contenuto in questa cartella. Ci devono essere tre file per ciascun dizionario, con estensione <filename>dz</filename>, <filename>idx</filename> e <filename>ifo</filename> rispettivamente.</para>
       </listitem>
     </orderedlist>
 
-	<para>If you want to remove words from potential dictionary matches, add an
-	<filename>ignore.txt</filename> encoded in UTF-8 to the folder. The file
-	must have one word per line. All the words contained in that list will be
-	ignored by OmegaT.</para>
+	<para>Nel caso si volessero rimuovere parole da potenziali corrispondenze del dizionario, aggiungere nella cartella un file <filename>ignore.txt</filename> codificato in UTF-8. Il file deve contenere una parola per riga. OmegaT ignorerà tutte le parole contenute in questo elenco.</para>
   </section>
 
   <section id="project.folder.glossary">
     <title id="project.folder.glossary.title">glossary</title>
-    <para>Al principio questa cartella è vuota. It is used to store the default writable glossary and any other glossaries you use in the project.</para>
+    <para>Al principio questa cartella è vuota. Viene utilizzata per memorizzare il glossario scrivibile predefinito e qualsiasi altro glossario che si utilizza nel progetto.</para>
 
-	<para>Glossary terms that match parts of the segment are displayed in the
-	<link linkend="panes.glossary" endterm="panes.glossary.title"/> pane. See
-	the <link linkend="app.glossaries" endterm="app.glossaries.title"/> appendix
-	for details.</para>
+	<para>I termini del glossario che coincidono con parti del segmento sono mostrati nel pannello <link linkend="panes.glossary" endterm="panes.glossary.title"/>. Vedere l'appendice <link linkend="app.glossaries" endterm="app.glossaries.title"/> per i dettagli.</para>
 
 	<variablelist>
       <varlistentry id="project.folder.glossary.txt">
         <term id="project.folder.glossary.txt.title">glossary.txt</term>
         <listitem>
-          <para>This is the project writable glossary. It is created the first
-          time you use <link linkend="menus.edit.create.glossary.entry" endterm="menus.edit.create.glossary.entry.title"/>.</para>
+          <para>Questo è il glossario scrivibile del progetto. Viene creato la prima volta che si utilizza <link linkend="menus.edit.create.glossary.entry" endterm="menus.edit.create.glossary.entry.title"/>.</para>
 
-		  <para>You can access it with <link linkend="menus.project.access.project.contents.title" endterm="menus.project.access.project.contents.title"/>, open it in a
-		  text editor, modify it with a text editor. As soon as you have saved
-		  your modifications, they will be taken into account by OmegaT.</para>
+		  <para>È possibile accedervi con <link linkend="menus.project.access.project.contents.title" endterm="menus.project.access.project.contents.title"/>, aprirlo con un editor di testo e modificarlo. Una volta salvate, le modifiche sono subito disponibili in OmegaT.</para>
         </listitem>
       </varlistentry>
 	</variablelist>
@@ -421,71 +316,54 @@
 
   <section id="project.folder.omegat.folder">
     <title id="project.folder.omegat.folder.title">omegat</title>
-    <para>The <filename class="directory">omegat</filename> folder contains, at
-    a minimum, the <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/> and <link linkend="project.folder.project.stats" endterm="project.folder.project.stats.title"/> files. It may also include
-    several other files.</para>
+    <para>La cartella <filename class="directory">omegat</filename> contiene, come minimo, i file <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/> e <link linkend="project.folder.project.stats" endterm="project.folder.project.stats.title"/>. Può contenere anche diversi altri file.</para>
 
     <variablelist>
       <varlistentry id="project.folder.project.save.tmx">
         <term id="project.folder.project.save.tmx.title">project_save.tmx</term>
         <listitem>
-          <para>This is the most important file in the project. When you create
-          a new project, the file is empty and is gradually filled with the
-          translations of the text in files located in the <link linkend="project.folder.source" endterm="project.folder.source.title"/> folder.</para>
+          <para>È il file più importante del progetto. Quando si crea un nuovo progetto il file è vuoto e viene gradualmente riempito con le traduzioni del testo nei file che si trovano nella cartella <link linkend="project.folder.source" endterm="project.folder.source.title"/>.</para>
 
-		  <para>It constitutes the working translation memory of the
-		  project.</para>
+		  <para>Costituisce la memoria di traduzione funzionante del progetto.</para>
 
-		  <para>OmegaT regularly backs-up that file. Vedere la guida all'uso <link linkend="how.to.restore.your.data" endterm="how.to.restore.your.data.title"/> per i dettagli.</para>
+		  <para>OmegaT crea regolarmente copie di sicurezza di quel file. Vedere la guida all'uso <link linkend="how.to.restore.your.data" endterm="how.to.restore.your.data.title"/> per i dettagli.</para>
 		</listitem>
       </varlistentry>
 	  
 	  <varlistentry id="project.folder.project.save.tmx.bak">
 		<term id="project.folder.project.save.tmx.bak.title">project_save.tmx.bak</term>
 		<listitem>
-		  <para>This file is a backup of <filename>project_save.tmx</filename>
-		  and is automatically recreated every time
-		  <filename>project_save.tmx</filename> has been modified: either after
-		  using <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.save" endterm="menus.project.save.title"/>, or as a regular backup every 3
-		  minutes by default. See the <link linkend="dialog.preferences.saving.and.output.interval" endterm="dialog.preferences.saving.and.output.interval.title"/>
-		  preference for details.</para>
+		  <para>È una copia di sicurezza del file <filename>project_save.tmx</filename> ed è ricreato automaticamente ogni volta che il file <filename>project_save.tmx</filename> viene modificato, sia usando <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.save" endterm="menus.project.save.title"/>, sia tramite creazione della copia di sicurezza regolare impostata in modo predefinito ogni tre minuti. Vedere la preferenza <link linkend="dialog.preferences.saving.and.output.interval" endterm="dialog.preferences.saving.and.output.interval.title"/> per i dettagli.</para>
 		</listitem>
 	  </varlistentry>
 	  
 	  <varlistentry id="project.folder.project.save.tmx.timestamp.bak">
 		<term id="project.folder.project.save.tmx.timestamp.bak.title">project_save.tmx.timestamp.bak</term>
 		<listitem>
-		  <para>Every time a project is loaded, OmegaT creates a backup of
-		  <filename>project_save.tmx</filename> with the name
-		  <filename>project_save.tmx.[time stamp].bak</filename>. OmegaT keeps
-		  up to 10 of those files.</para>
+		  <para>OmegaT crea una copia di sicurezza del file <filename>project_save.tmx</filename>, chiamata <filename>project_save.tmx.[time stamp].bak</filename>, ogni volta che un progetto viene caricato. OmegaT conserva fino a dieci di tali file.</para>
 		</listitem>
 	  </varlistentry>
 
       <varlistentry id="project.folder.project.stats">
         <term id="project.folder.project.stats.title">project_stats.txt</term>
         <listitem>
-          <para>This is the statistics file for the whole project. It is updated
-          each time the project is reloaded.</para>
+          <para>È il file delle statistiche dell'intero progetto. Viene aggiornato ogni volta che si ricarica il progetto.</para>
 
-		  <para>Use <link linkend="menus.tools" endterm="menus.tools.title"/><link linkend="menus.tools.statistics" endterm="menus.tools.statistics.title"/> to update it.</para>
+		  <para>Usare <link linkend="menus.tools" endterm="menus.tools.title"/><link linkend="menus.tools.statistics" endterm="menus.tools.statistics.title"/> per aggiornarlo.</para>
         </listitem>
       </varlistentry>
 	  
       <varlistentry id="project.folder.omegat.project.stats.match">
         <term id="project.folder.omegat.project.stats.match.title">project_stats_match.txt</term>
         <listitem>
-          <para>This file contains the latest project match statistics. Use
-          <link linkend="menus.tools" endterm="menus.tools.title"/><link linkend="menus.tools.match.statistics" endterm="menus.tools.match.statistics.title"/> to generate it.</para>
+          <para>Questo file contiene le ultime statistiche di concordanza del progetto. Usare <link linkend="menus.tools" endterm="menus.tools.title"/><link linkend="menus.tools.match.statistics" endterm="menus.tools.match.statistics.title"/> per generarlo.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry id="project.folder.omegat.project.stats.match.per.file">
         <term id="project.folder.omegat.project.stats.match.per.file.title">project_stats_match_per_file.txt</term>
         <listitem>
-          <para>This file contains the latest project match statistics by file.
-          Use <link linkend="menus.tools" endterm="menus.tools.title"/><link linkend="menus.tools.match.statistics.per.file" endterm="menus.tools.match.statistics.per.file.title"/> to generate
-          it.</para>
+          <para>Questo file contiene le ultime statistiche di concordanza del progetto per file. Usare <link linkend="menus.tools" endterm="menus.tools.title"/><link linkend="menus.tools.match.statistics.per.file" endterm="menus.tools.match.statistics.per.file.title"/> per generarlo.</para>
         </listitem>
       </varlistentry>
 
@@ -493,65 +371,51 @@
         <term id="project.folder.omegat.ignored.words.title">ignored_words.txt</term>
         <term id="project.folder.omegat.learned.words">learned_words.txt</term>
         <listitem>
-          <para>These files are created and used by the spellchecker. You can
-          add terms in the <link linkend="panes.editor" endterm="panes.editor.title"/> pane by right-clicking on a word marked
-          as incorrect and selecting <guimenuitem>Ignore All</guimenuitem> (for
-          words to skip during spellchecking), or <guimenuitem>Add to
-          Dictionary</guimenuitem> (for words to accept as correct),
-          respectively, from the <link linkend="panes.editor.context.menu">context menu</link>. See the <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> preferences for
-          details.</para>
+          <para>Questi file sono creati e utilizzati dal correttore ortografico. È possibile aggiungere termini nel pannello <link linkend="panes.editor" endterm="panes.editor.title"/> facendo clic col pulsante destro del mouse su una parola scorretta e selezionando rispettivamente l'opzione <guimenuitem>Ignora tutto</guimenuitem> (per le parole da saltare durante la correzione ortografica) o <guimenuitem>Aggiungi al dizionario</guimenuitem> (per le parole da accettare come corrette) dal <link linkend="panes.editor.context.menu">menu contestuale</link>. Vedere le preferenze <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per i dettagli.</para>
 
-		  <para>If you already have a collection of words you want the
-		  spellchecker to ignore or accept, simply save them in text files with
-		  the corresponding names, and copy the files to the <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/> folder of your current
-		  project.</para>
+		  <para>Se si possiede già una raccolta di parole da far ignorare o accettare al correttore ortografico, basta salvarle in file di testo con i nomi corrispondenti e copiare i file nella cartella <link linkend="project.folder.omegat.folder" endterm="project.folder.omegat.folder.title"/> del proprio progetto attivo.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry id="project.folder.omegat.segmentation">
         <term id="project.folder.omegat.segmentation.title">segmentation.conf</term>
         <listitem>
-          <para>This file contains the project-specific segmentation
-          rules.</para>
+          <para>Contiene le regole di segmentazione specifiche del progetto.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry id="project.folder.omegat.filters">
         <term id="project.folder.omegat.filters.title">filters.xml</term>
         <listitem>
-          <para>This file contains the project-specific file filters.</para>
+          <para>Contiene i filtri dei file specifici del progetto.</para>
         </listitem>
       </varlistentry>
 	  
       <varlistentry id="project.folder.omegat.uiLayout">
         <term id="project.folder.omegat.uiLayout.title">uiLayout.xml</term>
         <listitem>
-          <para>This file contains the project-specific GUI settings.</para>
+          <para>Contiene le impostazioni specifiche del progetto relative all'interfaccia.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry id="project.folder.omegat.finder">
         <term id="project.folder.omegat.finder.title">finder.xml</term>
         <listitem>
-          <para>This file contains the project-specific external searches.</para>
+          <para>Contiene le ricerche esterne specifiche del progetto.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry id="project.folder.omegat.file.order">
         <term id="project.folder.omegat.file.order.title">files_order.txt</term>
         <listitem>
-          <para>This file is created if you manually change the order of the
-          files in the <link linkend="windows.source.files.list" endterm="windows.source.files.list.title"/> window.</para>
+          <para>Questo file è creato se si cambia a mano l'ordine dei file nella finestra <link linkend="windows.source.files.list" endterm="windows.source.files.list.title"/>.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry id="project.folder.omegat.last.entry">
         <term id="project.folder.omegat.last.entry.title">last_entry.properties</term>
         <listitem>
-          <para>This file keeps a record of the last segment you visited,
-          including its number, its source contents, the file name and the date,
-          so that you can come back to it when you reload/relaunch the
-          project.</para>
+          <para>Questo file mantiene un registro dell'ultimo segmento visitato, incluso il suo numero, il contenuto originale, il nome del file e la data, in modo da poter riprendere da esso quando si ricarica/riavvia il progetto.</para>
         </listitem>
       </varlistentry>	  
     </variablelist>
@@ -561,9 +425,8 @@
     <title id="project.folder.repositories.title">.repositories</title>
     <para>In un progetto in collaborazione, questa cartella contiene una copia di versione della struttura ad albero del progetto collegata direttamente al server remoto.</para>
 
-    <para>You can make changes to the remote files (such as deleting or replacing them) by making your changes in this folder and using a Git or SVN client to synchronize them with the remote server. Vedere la guida all'uso <link linkend="how.to.setup.team.project" endterm="how.to.setup.team.project.title"/> per i dettagli.</para>
+    <para>È possibile apportare modifiche ai file remoti (come eliminarli o sostituirli) eseguendo le modifiche in questa cartella e utilizzando un client Git o SVN per sincronizzarli col server remoto. Vedere la guida all'uso <link linkend="how.to.setup.team.project" endterm="how.to.setup.team.project.title"/> per i dettagli.</para>
 
-    <para>In some operating systems, this folder is hidden by default. Turn on
-    the option to show hidden files in your system to make it visible.</para>
+    <para>In alcuni sistemi operativi, per impostazione predefinita questa cartella viene nascosta. Attivare l'opzione per mostrare i file nascosti nel sistema e renderla visibile.</para>
   </section>
 </chapter>

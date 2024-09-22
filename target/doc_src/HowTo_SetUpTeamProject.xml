@@ -5,7 +5,7 @@
 
   <para>La gestione di un progetto in collaborazione richiede qualche conoscenza del sistema di controllo di versione di <emphasis>SVN</emphasis> o <emphasis>Git</emphasis> (<emphasis>VCS</emphasis> nel prosieguo di questa sezione).</para>
 
-  <para>Poiché le informazioni su questi argomenti è facilmente disponibile, questo manuale tratta solo di descrivere il loro uso nell'ambito di un progetto in collaborazione OmegaT.</para>
+  <para>Poiché le informazioni su questi argomenti sono prontamente disponibili, questo manuale tratta solo la descrizione del loro uso nell'ambito di un progetto in collaborazione OmegaT.</para>
 
   <note>
 	<para>Un progetto in collaborazione OmegaT sincronizza la memoria di traduzione del progetto <link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/> e il glossario scrivibile del progetto <link linkend="project.folder.glossary.txt" endterm="project.folder.glossary.txt.title"/> tra il server ospite e tutti i membri che fanno parte della squadra, e gestisce tutti i possibili conflitti che ne possono derivare.</para>
@@ -14,20 +14,20 @@
   <section id="how.to.setup.team.project.prepare.the.repository">
     <title id="how.to.setup.team.project.prepare.the.repository.title">Preparazione</title>
 
-	<para>Di seguito si forniscono i passaggi per configurare un progetto in collaborazione:</para>
+	<para>Di seguito i passaggi per configurare un progetto in collaborazione:</para>
 
 	<orderedlist>
       <listitem id="how.to.setup.team.project.create.empty.repository">
 		<para id="how.to.setup.team.project.create.empty.repository.title">Creare un repository vuoto nel proprio server VCS ospite</para>
 
-		<para>Questa operazione viene normalmente fatta attraverso un'interfaccia web, un'applicazione grafica o la riga di comando. Consultare la documentazione del proprio server o del servizio di hosting per i dettagli.</para>
+		<para>Quest'operazione viene normalmente fatta attraverso un'interfaccia web, un'applicazione con interfaccia grafica o la riga di comando. Consultare la documentazione del proprio server o del servizio di hosting per i dettagli.</para>
 	  </listitem>
 
 	  <listitem id="how.to.setup.team.project.clone.locally">
-		<para id="how.to.setup.team.project.clone.locally.title">Usare il VCS per creare una copia locale (clone)</para>
+		<para id="how.to.setup.team.project.clone.locally.title">Usare il locale VCS per creare una copia locale (clone)</para>
 
 		<note>
-		  <para>Questa versione locale contiene la propria copia del <emphasis>responsabile del progetto</emphasis> del progetto OmegaT. Usarla per creare modifiche che riguardano l'intera squadra.</para>
+		  <para>Questa versione locale contiene la copia personale del <emphasis>responsabile del progetto</emphasis> del progetto OmegaT. Usarla per creare modifiche che riguardano l'intera squadra.</para>
 		</note>
 
 		<para>Il deposito locale viene utilizzato per aggiungere il progetto iniziale al server, e può essere anche utilizzato per attività di manutenzione, per es. l'eliminazione dei file, che non possono essere eseguite direttamente dall'interno di OmegaT.</para>
@@ -45,7 +45,7 @@
 			<para>Questo comando registra anche automaticamente il progetto nel sistema di controllo versione.</para>
 		  </listitem>
 		  <listitem>
-			<para>Scegliere le impostazioni corrette</para>
+			<para>Scegliere le impostazioni adeguate</para>
 
 			<para>In questa fase vanno apportate le modifiche necessarie alle proprietà del progetto, inclusi i filtri dei file locali o le impostazioni di segmentazione. Vedere la finestra di dialogo <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/> per i dettagli.</para>
 		  </listitem>
@@ -179,7 +179,7 @@
       </varlistentry>
 
       <varlistentry>
-		<term>esclude</term>
+		<term>excludes</term>
 		<listitem>
           <para>Usare i caratteri jolly (conformemente allo stile Ant di Apache: *, ?, **) per aggiungere modelli per i file che non devono far parte della mappatura. Usare un punto e virgola per separare modelli differenti.</para>
           <para>Esempio: <userinput>**/excludedfolder/**;*.txt</userinput> esclude i file che contengono /excludedfolder/ nel percorso, così come i file con estensione <filename>.txt</filename>.</para>
@@ -187,7 +187,7 @@
       </varlistentry>
 
       <varlistentry>
-		<term>include</term>
+		<term>includes</term>
 		<listitem>
           <para>Come sopra, ma per i file che devono far parte della mappatura. Poiché per impostazione predefinita i file vengono inclusi, a meno che non siano esplicitamente esclusi, questa opzione è necessaria solamente per specificare le eccezioni in un modello di esclusione.</para>
           <para>Esempio: <userinput>**/*.docx</userinput> per aggiungere tutti i file .docx nel progetto, anche se si trovano in una cartella esclusa.</para>
@@ -234,9 +234,9 @@
 
 	<para>Questo rende possibile rinominare il file da tradurre.</para>
 
-	<para>Mappatura dei file locali:<programlisting>&lt;repository type=&quot;file&quot; url=&quot;/home/me/myfiles&quot;&gt;
-	&lt;mapping local=&quot;source/file.txt&quot; repository=&quot;my/file.txt&quot;/&gt;
-	&lt;mapping local=&quot;source/file2.txt&quot; repository=&quot;some/file.txt&quot;/&gt;
+	<para>Mappatura dei file locali:<programlisting>&lt;repository type=&quot;file&quot; url=&quot;/home/me/mieifile&quot;&gt;
+	&lt;mapping local=&quot;source/file.txt&quot; repository=&quot;mio/file.txt&quot;/&gt;
+	&lt;mapping local=&quot;source/file2.txt&quot; repository=&quot;un/file.txt&quot;/&gt;
 &lt;/repository&gt;</programlisting></para>
 
 	<para>Il file locale <filename>/home/me/mieifile/mio/file.txt</filename> è mappato nel file locale <filename>source/file.txt</filename> mentre <filename>/home/me/mieifile/un/file.txt</filename> è mappato nel file locale <filename>source/file2.txt</filename>.</para>

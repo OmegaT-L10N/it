@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="chapter.windows.and.dialogs">
-  <title id="chapter.windows.and.dialogs.title">Windows and Dialogs</title>
+  <title id="chapter.windows.and.dialogs.title">Finestre e finestre di dialogo</title>
   
-  <para>A <emphasis>window</emphasis> can be kept open next to the editor and
-  lets you interact with both.</para>
-  <para>A <emphasis>dialog</emphasis> requires you to take action and close it
-  before you can go back to translating.</para>
+  <para>Una <emphasis>finestra</emphasis> può essere mantenuta aperta accanto all'editor ed è possibile interagire con entrambe.</para>
+  <para>Una <emphasis>finestra di dialogo</emphasis> richiede l'azione dell'utente per essere chiusa prima di poter riprendete a tradurre.</para>
 
   <xi:include href="Dialogs_ProjectProperties.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 

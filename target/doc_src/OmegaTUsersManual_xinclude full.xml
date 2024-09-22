@@ -6,7 +6,7 @@
 ]>
 <book lang="it" id="book.user.manual">
   <bookinfo>
-    <title id="book.user.manual.title">OmegaT 6.1.0 - User Manual</title>
+    <title id="book.user.manual.title">OmegaT 6.1.0 - Manuale dell'utente</title>
 
 	<!-- Copyright 2002-2023
 		 - Vincent Bidaux
@@ -23,14 +23,11 @@
     <!-- <pubdate>@timestamp@</pubdate> -->
 	<!-- TODO automate date insertion -->
     <abstract>
-      <para>This document is the official user manual to OmegaT, the free
-      Computer-Assisted Translation tool.</para>
+      <para>Questo documento è il manuale ufficiale dell'utente di OmegaT, lo strumento gratuito per la traduzione assistita da computer.</para>
 
-	  <para>OmegaT's main purpose is to help you create a good translation the
-	  fastest possible by giving you access to your translation ressources in
-	  the most reliable way possible.</para>
+	  <para>Lo scopo principale di OmegaT è aiutare l'utente a creare una buona traduzione nel minor tempo possibile, fornendo accesso alle risorse di traduzione nel modo più affidabile possibile.</para>
 
-	  <para>OmegaT is distributed under the terms of the <emphasis>GNU General Public License, version 3.0</emphasis>. La licenza concede le seguenti libertà:<itemizedlist id="freedoms.list">
+	  <para>OmegaT distribuito sotto i termini della <emphasis>GNU General Public License, versione 3.0</emphasis>. La licenza concede le seguenti libertà:<itemizedlist id="freedoms.list">
 		<listitem>
 		  <para>La libertà di eseguire OmegaT come si preferisce, per qualsiasi scopo.</para>
 		</listitem>

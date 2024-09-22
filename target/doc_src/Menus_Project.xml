@@ -215,7 +215,7 @@
 			<listitem>
 			  <para>Il file di partenza corrente viene memorizzato nella cartella <link linkend="project.folder.source" endterm="project.folder.source.title"/>.</para>
 
-			  <para>Apre il file nell'applicazione associata.</para>
+              <para>Apre il file nell'applicazione associata, se il file esiste. If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by OS standard file manager such as finder or file explorer, instead of opening the file.</para>
 			</listitem>
 		  </varlistentry>
 
@@ -224,7 +224,7 @@
 			<listitem>
 			  <para>Il file di arrivo corrente viene memorizzato nella cartella <link linkend="project.folder.target" endterm="project.folder.target.title"/>.</para>
 
-			  <para>Apre il file nell'applicazione associata, se il file esiste.</para>
+			  <para>Apre il file nell'applicazione associata, se il file esiste. If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by OS standard file manager such as finder or file explorer, instead of opening the file.</para>
 			</listitem>
 		  </varlistentry>
 
@@ -233,7 +233,7 @@
 			<listitem>
 			  <para>Il glossario scrivibile viene memorizzato nella cartella <link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/>.</para>
 
-			  <para>Apre il file nell'applicazione associata, se il file esiste.</para>
+			  <para>Apre il file nell'applicazione associata, se il file esiste. If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by OS standard file manager such as finder or file explorer, instead of opening the file.</para>
 			</listitem>
 		  </varlistentry>
 		</variablelist>

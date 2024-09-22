@@ -26,9 +26,9 @@
 		  </listitem>
 		</itemizedlist>
 
-		<para>Permette di attivare o disattivare i motori di traduzione automatica disponibili.</para>
+        <para>Permette di attivare o disattivare i motori di traduzione automatica abilitati e correttamente configurati.</para>
 
-        <para>e sono selezionati più motori di traduzione automatica, è possibile utilizzare anche la combinazione di tasti <keycombo><keycap>C</keycap><keycap>M</keycap></keycombo> per passare da un motore all'altro e inserire l'ultima traduzione selezionata. Vedere le preferenze <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> per i dettagli.</para>
+        <para>Se sono selezionati più motori di traduzione automatica, è possibile utilizzare anche la combinazione di tasti <keycombo><keycap>C</keycap><keycap>M</keycap></keycombo> per passare da un motore all'altro e inserire l'ultima traduzione selezionata. Vedere le preferenze <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> per i dettagli.</para>
       </listitem>
     </varlistentry>
 

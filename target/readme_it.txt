@@ -189,3 +189,7 @@ Richieste di miglioramenti (in Inglese), nel sito SourceForge:
 Segnalazione errori (in Inglese), nel sito SourceForge:
 
   https://sourceforge.net/p/omegat/bugs/
+
+Guida alla collaborazione in OmegaT
+
+  https://omegat.readthedocs.io/en/latest/

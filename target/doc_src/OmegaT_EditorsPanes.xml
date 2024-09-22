@@ -8,8 +8,8 @@
 
 	<para>La prima volta che si utilizza OmegaT, la finestra principale mostra la seguente disposizione predefinita:</para>
 
-		<figure id="default.omegat.layout">
-      <title id="default.omegat.layout.title">Disposizione predefinita di OmegaT in macOS</title>
+		<figure id="default.omegat.layout.macos">
+      <title id="default.omegat.layout.macos.title">Disposizione predefinita di OmegaT in macOS</title>
       <mediaobject>
         <imageobject role="html">
           <imagedata fileref="images/defaultOmegaTLayout.png"/>
@@ -555,7 +555,7 @@ Se attivata, tutte le formattazioni nei segmenti di partenza vengono nascoste.</
 
     <para>Le concordanze vengono ricavate sia dalla memoria di traduzione interna del progetto, creata in tempo reale durante la traduzione, sia dalle memorie esterne importate da progetti precedenti o ricevute da fonti esterne. Vedere la guida all'uso <link endterm="how.to.use.tm.title" linkend="how.to.use.tm"/> per i dettagli.</para>
 
-    <para>Quando si accede a un segmento, la prima concordanza parziale, ossia quella con la percentuale di concordanza più alta, viene selezionata automaticamente. È possibile premere <keycombo><keycap>C</keycap><keycap>2, 3, 4, o 5</keycap> </keycombo>, oppure utilizzare <link linkend="menus.edit" endterm="menus.edit.title"/><link linkend="menus.edit.select.match" endterm="menus.edit.select.match.title"/>, per selezionare una concordanza diversa.</para>
+    <para>Quando si accede a un segmento, la prima concordanza parziale, ossia quella con la percentuale di concordanza più alta, viene selezionata automaticamente. È possibile premere <keycombo><keycap>C</keycap><keycap>2, 3, 4, o 5</keycap> </keycombo> per selezionare una concordanza specifica, o alternare tra le concordanze disponibili con <keycombo><keycap>C</keycap><keycap>↑ o ↓</keycap></keycombo> (<keycombo><keycap>A</keycap><keycap>↑ o ↓</keycap></keycombo> su macOS). In alternativa, è possibile utilizzare <link linkend="menus.edit" endterm="menus.edit.title"/> <link linkend="menus.edit.select.match" endterm="menus.edit.select.match.title"/> per selezionare una concordanza diversa.</para>
 
 	<example id="the.first.match">
 	  <title id="the.first.match.title">Un segmento vuoto e le sue due prime concordanze</title>
@@ -683,7 +683,7 @@ Folder = <token>Cartella</token></programlisting>
   <section id="panes.machinetranslation">
     <title id="panes.machinetranslation.title"><guilabel>Traduzioni automatiche</guilabel></title>
 
-    <para>Questo pannello, una volta aperto, mostra i suggerimenti, da ciascun motore di traduzione abilitato, per il segmento attivo. Se sono disponibili suggerimenti da più di un motore,</para>
+    <para>Se è stato abilitato e configurato almeno un motore di traduzione automatica, questo pannello mostra i suggerimenti per il segmento attivo prodotti dai motori disponibilità. Se sono disponibili suggerimenti da più di un motore di traduzione,</para>
 	
     <itemizedlist>
       <listitem>

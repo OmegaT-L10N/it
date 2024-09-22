@@ -105,7 +105,7 @@
               </listitem>
 
               <listitem>
-                <para>Se prima scarichi il progetto remoto utilizzando un file <filename>omegat.project</filename> fornito dall'amministratore del progetto, OmegaT utilizzerà le mappature contenute in quel file, se presenti.</para>
+                <para>Se prima si scarica il progetto remoto utilizzando un file <filename>omegat.project</filename> fornito dall'amministratore del progetto, OmegaT utilizzerà le mappature contenute in quel file, se presenti.</para>
               </listitem>
 
               <listitem>

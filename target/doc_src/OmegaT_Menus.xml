@@ -3,24 +3,15 @@
 <chapter id="chapter.menus">
   <title id="chapter.menus.title">Menu</title>
 
-  	<para>OmegaT has very few buttons and looks a bit stern, if not outright
-    unfriendly, to people who are used to button-based interfaces. Most of
-  	the action takes place with the help of shortcuts associated to menu
-  	items.</para>
+  	<para>OmegaT contiene pochissimi pulsanti e appare un po' scarno, se non piuttosto freddo, agli utenti abituati a interfacce basate su pulsanti. La maggior parte delle azioni viene intrapresa con l'ausilio di scorciatoie associate alle voci dei menu.</para>
 
-	<para>Shortcuts are ubiquitous in this manual and you should be able very
-	shortly to remember the few that are useful in the course of a standard
-	translation day.</para>
+	<para>Le scorciatoie sono presenti ovunque in questo manuale e dovrebbe essere facile ricordare quelle poche utili da usare durante una sessione di traduzione standard.</para>
 
-	<para>Menus are where you access most of OmegaT's functions. Most 
-	menu items have an associated keyboard shortcut.</para>
+	<para>Alla maggior parte delle funzioni di OmegaT si accede tramite menu. La maggior parte delle voci di menu possiede una scorciatoia da tastiera associata.</para>
 
-	<para>Menu items that do not indicate a shortcut do not have one assigned by
-	default. See the <link linkend="app.shortcuts.customization" endterm="app.shortcuts.customization.title"/> appendix if you want to modify
-	or add shortcuts.</para>
+	<para>Le voci di menu che non indicano una scorciatoia non ne hanno una predefinita assegnata. Per modificare o aggiungere scorciatoie, si veda l'appendice <link linkend="app.shortcuts.customization" endterm="app.shortcuts.customization.title"/>.</para>
 
-  <note><para>Key shortcut description reminder:
-    <table id="menus.shortcut.description">
+  <note><para>Promemoria descrizione delle scorciatoie tasti:<table id="menus.shortcut.description">
       <title id="menus.shortcut.description.title">Identificatori tasti modificatori</title>
 
       <tgroup cols="3">
