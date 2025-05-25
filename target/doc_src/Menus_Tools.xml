@@ -32,11 +32,11 @@
           </listitem>
 
           <listitem>
-            <para><guilabel>Problemi ortografici</guilabel> (facoltativo): rileva gli errori di ortografia. Funziona solo se è installato un dizionario ortografico. Vedere le preferenze <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per i dettagli.</para>
+            <para><guilabel>Problemi ortografici</guilabel> (facoltativo): rileva gli errori di ortografia. Funziona quando esiste un modulo di lingua supportato, oppure un dizionario personalizzato locale dell'utente per la lingua di destinazione. Vedere le preferenze <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per i dettagli.</para>
           </listitem>
 
           <listitem>
-            <para><guilabel>Problemi terminologici</guilabel> (facoltativo): detects all the glossary items that are not properly translated. Vedere le preferenze <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per i dettagli.</para>
+            <para><guilabel>Problemi terminologici</guilabel> (facoltativo): rileva tutti gli elementi del glossario che non sono tradotti correttamente. Vedere le preferenze <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per i dettagli.</para>
           </listitem>
 
 		  <listitem>

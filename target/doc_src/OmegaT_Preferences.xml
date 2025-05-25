@@ -476,6 +476,8 @@
 		<term id="dialog.preferences.spellchecker.dictionary.folder.title"><option>Posizione dei dizionari ortografici</option></term>
 		<listitem>
 		  <para>La cartella in cui OmegaT installa e ricerca i dizionari ortografici. È in genere la cartella <link linkend="configuration.folder" endterm="configuration.folder.title"/>.</para>
+		  <para>Se il modulo linguistico di OmegaT per la lingua di destinazione del progetto fornisce un dizionario Hunspell, esso verrà installato automaticamente in questa cartella quando si attiva la correzione ortografica. Se il modulo fornisce un dizionario Morfologik, la correzione ortografica funziona senza dover installare un dizionario nella cartella.</para>
+		  <para>È possibile inserire un dizionario in questa cartella per utilizzare un dizionario ortografico personalizzato o se la lingua di destinazione del proprio progetto non prevede un modulo linguistico di OmegaT.</para>		  
 		</listitem>
 	  </varlistentry>
 	  
