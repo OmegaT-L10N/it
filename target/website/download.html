@@ -104,10 +104,11 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>. At
 			<input type="hidden" name="item_name" value="Donation to OmegaT - multiplatform CAT tool">
 			<input type="hidden" name="currency_code" value="USD">
 
-			<input type="text" class="input-lg" id="amount" name="amount" size="3" value="35">&nbsp;USD <a class="btn btn-primary" href="#" id="donate-button">Dona</a>
+			<input type="text" class="input-lg" id="amount" name="amount" size="3" value="35">&nbsp;<label for="amount">USD</label>
+			<a class="btn btn-primary" href="#" id="donate-button">Donate</a>
 		</form>
 	</div>
-	{% asset donation.js %}
+    <script src="{{ '/assets/js/donation.js' | relative_url }}"></script>
 </div>
 
 <h3 id="standard">Versione standard - {{site.data.versions.standard.name}}</h3>
@@ -186,23 +187,23 @@ href="#download-wizard" data-toggle="collapse">Selettore di scaricamento</a>. At
 </p>
 
 <div id="popover_content_osx_signed" style="display:none">
-<h4 id="about_signing">Autenticato vs. Non firmato</h4>
+  <h4 id="about_signing">Autenticato vs. Non firmato</h4>
 
-<p>macOS tenta di incrementare la sicurezza rendendo difficile l'avvio di programi non verificati.</p>
+  <p>macOS tenta di incrementare la sicurezza rendendo difficile l'avvio di programi non verificati.</p>
 
-<p>OmegaT per macOS è disponibile nelle due versioni, "autenticata" e "non firmata"; le loro funzionalità sono le stesse ma è preferita dal sistema la versione autenticata, in quando questa viene riconosciuta come a) pubblicata da uno sviluppatore conosciuto e b) verificata da Apple.</p>
+  <p>OmegaT per macOS è disponibile nelle due versioni, "autenticata" e "non firmata"; le loro funzionalità sono le stesse ma è preferita dal sistema la versione autenticata, in quando questa viene riconosciuta come a) pubblicata da uno sviluppatore conosciuto e b) verificata da Apple.</p>
 
-<p>Ci potrebbero essere dei ritardi nel rilascio di versioni autenticate. Gli utenti che non intendono aspettare possono utilizzare la versione non firmata; se si hanno problemi ad avviare l'applicazione, si veda <a href="https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac">come aprire un'applicazione di uno sviluppatore non identificato</a>.</p>
+  <p>Ci potrebbero essere dei ritardi nel rilascio di versioni autenticate. Gli utenti che non intendono aspettare possono utilizzare la versione non firmata; se si hanno problemi ad avviare l'applicazione, si veda <a href="https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac">come aprire un'applicazione di uno sviluppatore non identificato</a>.</p>
 </div>
 
 <div id="popover_content_osx_unsigned" style="display:none">
-<h4 id="about_signing">Autenticato vs. Non firmato</h4>
+<h4 id="about_unsigning">Autenticato vs. Non firmato</h4>
 
-<p>macOS tenta di incrementare la sicurezza rendendo difficile l'avvio di programi non verificati.</p>
+  <p>macOS tenta di incrementare la sicurezza rendendo difficile l'avvio di programi non verificati.</p>
 
-<p>OmegaT per macOS è disponibile nelle due versioni, "autenticata" e "non firmata"; le loro funzionalità sono le stesse ma è preferita dal sistema la versione autenticata, in quando questa viene riconosciuta come a) pubblicata da uno sviluppatore conosciuto e b) verificata da Apple.</p>
+  <p>OmegaT per macOS è disponibile nelle due versioni, "autenticata" e "non firmata"; le loro funzionalità sono le stesse ma è preferita dal sistema la versione autenticata, in quando questa viene riconosciuta come a) pubblicata da uno sviluppatore conosciuto e b) verificata da Apple.</p>
 
-<p>Ci potrebbero essere dei ritardi nel rilascio di versioni autenticate. Gli utenti che non intendono aspettare possono utilizzare la versione non firmata; se si hanno problemi ad avviare l'applicazione, si veda <a href="https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac">come aprire un'applicazione di uno sviluppatore non identificato</a>.</p>
+  <p>Ci potrebbero essere dei ritardi nel rilascio di versioni autenticate. Gli utenti che non intendono aspettare possono utilizzare la versione non firmata; se si hanno problemi ad avviare l'applicazione, si veda <a href="https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac">come aprire un'applicazione di uno sviluppatore non identificato</a>.</p>
 </div>
 
 <div id="popover_content_master" style="display:none">
