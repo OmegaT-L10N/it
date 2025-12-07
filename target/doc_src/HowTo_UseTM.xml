@@ -98,22 +98,14 @@
 	  </listitem>
 
           <listitem>
-            <para>If you switch to paragraph segmentation in a project that originally used <link linkend="dialogs.project.properties.options.segmentation" endterm="dialogs.project.properties.options.segmentation.title"/>,
-		    you can have OmegaT present matches assembled from existing segments by enabling the
-		    <link linkend="dialog.preferences.tm.matches.paragraph.from.segmented.tmx" endterm="dialog.preferences.tm.matches.paragraph.from.segmented.tmx.title"/> option in addition to
-			showing regular fuzzy matches.</para>
-			<para> OmegaT will try to segment the source text into sentences,
-			apply fuzzy matching on the segmented memory entries, and then assemble a paragraph from those matches.
-		    The origins of the matches can be multiple files or memories because the assembled paragraph may not exist in the
-			translation memories.</para>
-		    <para>Refer to the <link linkend="dialog.preferences.segmentation.setup.type" endterm="dialog.preferences.segmentation.setup.type.title"/> section for more information on
-		    the benefits and drawbacks of the different types of segmentation.
-            </para>
+            <para>Se si passa alla segmentazione a livello di paragrafo in un progetto che in origine ha utilizzato <link linkend="dialogs.project.properties.options.segmentation" endterm="dialogs.project.properties.options.segmentation.title"/>, è possibile che OmegaT presenti concordanze assemblate da segmenti esistenti attivando l'opzione <link linkend="dialog.preferences.tm.matches.paragraph.from.segmented.tmx" endterm="dialog.preferences.tm.matches.paragraph.from.segmented.tmx.title"/> in aggiunta alla visualizzazione di concordanze parziali regolari.</para>
+			<para>OmegaT tenterà di segmentare il testo di partenza in frasi, applicare le concordanze parziali sulle voci di memoria segmentate per poi assemblare un paragrafo da tali concordanze. L'origine delle concordanze può derivare da più file o memorie di traduzione, perché il paragrafo assemblato potrebbe non esistere nelle memorie di traduzione.</para>
+		    <para>Per ulteriori informazioni, fare riferimento alla sezione <link linkend="dialog.preferences.segmentation.setup.type" endterm="dialog.preferences.segmentation.setup.type.title"/> relativa ai vantaggi e agli svantaggi dei diversi tipi di segmentazione.</para>
           </listitem>
 	</itemizedlist>
 	
     <section id="how.to.tm.read.and.write">
-	  <title id="how.to.tm.read.and.write.title"><link linkend="how.to.tm.read.and.write"> </link>Reading TMs from other tools</title>
+	  <title id="how.to.tm.read.and.write.title"><link linkend="how.to.tm.read.and.write"> </link>Leggere le memorie di traduzione da altri strumenti di traduzione assistita</title>
 
       <para>OmegaT è in grado di leggere memorie conformi allo standard TMX prodotte da altri strumenti di traduzione assistita.</para>
 
@@ -121,13 +113,13 @@
 	</section>
 
 	<section id="how.to.use.tm.store.your.tm">
-	  <title id="how.to.use.tm.store.your.tm.title"><link linkend="how.to.use.tm.store.your.tm"> </link>Managing your TMs</title>
+	  <title id="how.to.use.tm.store.your.tm.title"><link linkend="how.to.use.tm.store.your.tm"> </link>Gestire le memorie di traduzione</title>
 
-	  <para>Quando necessario, le memorie di traduzione si possono salvare cartelle separate, per cliente o area di applicazione, in modo da poterle riutilizzare rapidamente. Al posto della cartella <link linkend="project.folder.tm" endterm="project.folder.tm.title"/> del progetto è possibile utlizzare qualsiasi cartella con diritti di scrittura. Vedere la sezione <link linkend="dialogs.project.properties.file.locations" endterm="dialogs.project.properties.file.locations.title"/> della finestra di dialogo Proprietà del progetto.</para>
+	  <para>Quando necessario, le memorie di traduzione si possono salvare cartelle separate, per cliente o area di applicazione, in modo da poterle riutilizzare rapidamente. Al posto della cartella <link linkend="project.folder.tm" endterm="project.folder.tm.title"/> del progetto è possibile utilizzare qualsiasi cartella con diritti di scrittura. Vedere la sezione <link linkend="dialogs.project.properties.file.locations" endterm="dialogs.project.properties.file.locations.title"/> della finestra di dialogo Proprietà del progetto.</para>
 	</section>
 	
 	<section id="how.to.tm.creating.a.tm.for.selected.documents">
-	  <title id="how.to.tm.creating.a.tm.for.selected.documents.title"><link linkend="how.to.tm.creating.a.tm.for.selected.documents"> </link>Creating a TM specific to selected documents</title>
+	  <title id="how.to.tm.creating.a.tm.for.selected.documents.title"><link linkend="how.to.tm.creating.a.tm.for.selected.documents"> </link>Creare una memoria di traduzione specifica per i documenti selezionati</title>
 
       <para>Nelle situazioni in cui è necessario condividere TMX che contenga solo il testo proveniente solamente da determinati file ed escluda dell'altro contenuto, procedere come segue:</para>
 
@@ -158,7 +150,7 @@
   </section>
 
   <section id="how.to.tm.share.translation.memories">
-	<title id="how.to.tm.share.translation.memories.title"><link linkend="how.to.tm.share.translation.memories"> </link>Share TMs</title>
+	<title id="how.to.tm.share.translation.memories.title"><link linkend="how.to.tm.share.translation.memories"> </link>Condividere le memorie di traduzione</title>
 
 	<para>Nei casi di lavori grossi che prevedono una squadra di traduttori, per ciascun traduttore è più semplice condividere le memorie di traduzioni comuni piuttosto che trasferire avanti e indietro le proprie versioni locali.</para>
 
@@ -166,7 +158,7 @@
 
 	<variablelist>
 	  <varlistentry id="how.to.tm.share.translation.memories.good.enough.way">
-		<term id="how.to.tm.share.translation.memories.good.enough.way.title"><link linkend="how.to.tm.share.translation.memories.good.enough.way"> </link>The good enough way</term>
+		<term id="how.to.tm.share.translation.memories.good.enough.way.title"><link linkend="how.to.tm.share.translation.memories.good.enough.way"> </link>Il metodo soddisfacente</term>
 		<listitem>
 		  
 		  <para>Vedere la sezione <link linkend="how.to.use.tm.create.your.tm" endterm="how.to.use.tm.create.your.tm.title"/> sopra.</para>
@@ -186,7 +178,7 @@
 	  </varlistentry>
 	  
 	  <varlistentry id="how.to.tm.share.translation.memories.technical.approach">
-		<term id="how.to.tm.share.translation.memories.technical.approach.title"><link linkend="how.to.tm.share.translation.memories.technical.approach"> </link>The technical approach</term>
+		<term id="how.to.tm.share.translation.memories.technical.approach.title"><link linkend="how.to.tm.share.translation.memories.technical.approach"> </link>L'approccio tecnico</term>
 		<listitem>
 		  <para>OmegaT, per condividere i dati, usa i sistemi di controllo delle versioni in collaborazione.</para>
 
@@ -205,7 +197,7 @@
   </section>
 
   <section id="how.to.tm.bridge.two.languages">
-	<title id="how.to.tm.bridge.two.languages.title"><link linkend="how.to.tm.bridge.two.languages"> </link>Bridge two languages</title>
+	<title id="how.to.tm.bridge.two.languages.title"><link linkend="how.to.tm.bridge.two.languages"> </link>Creare un ponte tra due lingue</title>
 
 	<para>OmegaT mostra le concordanze parziali nel pannello <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/>. Per impostazione predefinita, tali concordanze si limitano alle lingue di partenza e di arrivo definite nella finestra di dialogo <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/>.</para>
 
@@ -251,7 +243,7 @@
 	</orderedlist>
 
 	<example id="bridge.english.and.french.with.japanese">
-	  <title id="bridge.english.and.french.with.japanese.title"><link linkend="bridge.english.and.french.with.japanese"> </link>Using a Japanese reference under the English source</title>
+	  <title id="bridge.english.and.french.with.japanese.title"><link linkend="bridge.english.and.french.with.japanese"> </link>Utilizzo di un riferimento giapponese sotto la sorgente inglese</title>
 	  <para>Se si possiede una TMX che contiene la traduzione giapponese di un documento inglese che si sta traducendo in francese, è possibile utilizzare la traduzione giapponese come riferimento esatto alternativo visualizzandolo sotto il testo inglese da tradurre.</para>
 	  <para>Inserire semplicemente il file inglese-giapponese in <filename class="directory">tm/tmx2source</filename> chiamandolo <filename>JA-JP.tmx</filename>. OmegaT mostrerà il testo giapponese corrispondente al segmento di partenza inglese:</para>
 	  <para>
