@@ -17,9 +17,9 @@
 	  </listitem>
 	</varlistentry>
 	<varlistentry>
-	  <term>Sviluppatore: OmegaT Weekly</term>
+	  <term>Developer: OmegaT Nightly</term>
 	  <listitem>
-		<para>Questa edizione di OmegaT è in sviluppo attivo. È generata automaticamente ogni settimana e serve come versione beta per scopi di test.</para>
+		<para>Questa edizione è generata automaticamente ogni volta che viene aggiunto del nuovo codice a OmegaT. È utilizzata per scopi di test.</para>
 	  </listitem>
 	</varlistentry>
   </variablelist>
@@ -31,9 +31,9 @@
 
 	<para>I pacchetti OmegaT sono disponibili sia nelle versioni con Java incorporato, sia nelle versioni senza Java. I pacchetti senza Java si basano su Java 11 Runtime Environment installato a livello di sistema.</para>
 
-	<para>OmegaT 6.1.0 e versioni successive può essere eseguito anche con Java 17 Runtime Environment in qualsiasi piattaforma.</para>
+	<para>OmegaT 5.8.0 e versioni successive può essere eseguito anche con Java 11 Runtime Environment in qualsiasi piattaforma.</para>
 
-	<para>A causa di questioni dovute alla licenza, la squadra di OmegaT raccomanda l'uso di Java runtime Eclipse Temurin fornito dall'Adoptium Project della Eclipse Foundation, ma qualsiasi ambiente di runtime compatibile con Java 11 dovrebbe funzionare. Vedere il <ulink url="https://projects.eclipse.org/projects/adoptium.temurin">progetto Eclipse Temurin™</ulink>.</para>
+	<para>A causa di questioni dovute alla licenza, la squadra di OmegaT raccomanda l'uso di Java runtime Eclipse Temurin fornito dall'Adoptium Project della Eclipse Foundation, ma qualsiasi ambiente di runtime compatibile con Java 8 dovrebbe funzionare. Vedere il <ulink url="https://projects.eclipse.org/projects/adoptium.temurin">progetto Eclipse Temurin™</ulink>.</para>
 
 	<para>IBM fornisce JRE per Linux PowerPC all'indirizzo <ulink url="https://developer.ibm.com/languages/java/semeru-runtimes/downloads/"/>.</para>
   </note>

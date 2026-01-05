@@ -246,11 +246,11 @@
 		
 		<itemizedlist>
 		  <listitem>
-			<para><guimenuitem>Seleziona la concordanza precedente</guimenuitem> <keycombo><keycap>C</keycap><keycap>↑</keycap></keycombo> (<keycombo><keycap>A</keycap><keycap>↑</keycap></keycombo> on mac OS)</para>
+			<para><guimenuitem>Seleziona la concordanza precedente</guimenuitem> <keycombo><keycap>A</keycap><keycap>↑</keycap></keycombo></para>
 		  </listitem>
 
 		  <listitem>
-			<para><guimenuitem>Seleziona la concordanza successiva</guimenuitem> <keycombo><keycap>C</keycap><keycap>↓</keycap></keycombo> (<keycombo><keycap>A</keycap><keycap>↓</keycap></keycombo> on macOS)</para>
+			<para><guimenuitem>Seleziona la concordanza successiva</guimenuitem> <keycombo><keycap>A</keycap><keycap>↓</keycap></keycombo></para>
 		  </listitem>
 
 		  <listitem>
@@ -317,10 +317,6 @@
       <term id="menus.edit.create.alternative.translation.title"><guimenuitem>Crea traduzione alternativa</guimenuitem></term>
       <listitem>
 		<para>Segmenti uguali possono, a seconda del contesto, richiedere traduzioni differenti. Se l'attuale traduzione non è adatta, selezionare questa voce del menu e inserire la traduzione alternativa.</para>
-		<warning>
-		<para>Per differenziare i segmenti identici, OmegaT fa uso di un identificatore interno fornito dal tipo di file oppure fa riferimento ai segmenti precedenti e seguenti il segmento interessato. In tali casi, le traduzione alternative si basano su segmenti identici che hanno un segmento precedente o seguente diverso. Se i segmenti identici hanno anche identici segmenti precedente e seguente, non sarà possibile tradurli in modo diverso e creare una traduzione alternativa in OmegaT.</para>
-		<para>È possibile aggirare questo problema inserendo una piccola modifica a uno dei segmenti precedenti o seguenti nel file di partenza, in modo da distinguerne le varie istanze.</para>
-		</warning>
       </listitem>
 	</varlistentry>
 
