@@ -215,16 +215,16 @@
       </varlistentry>
 
 	  <varlistentry id="dialogs.preferences.glossary.sort.by.source.term.length">
-		  <term id="dialogs.preference.glossary.sort.by.source.term.length.title"><option>Ordina termini simili per lunghezza</option></term>
+		  <term id="dialogs.preference.glossary.sort.by.source.term.length.title"><option>Mostra prima i termini (simili) più lunghi</option></term>
 		  <listitem>
-			  <para>I termini di partenza più corti appaiono per primi.</para>
+			  <para>I termini simili sono visualizzati in ordine decrescente di lunghezza.</para>
 		  </listitem>
 	  </varlistentry>
 
 		<varlistentry id="dialogs.preferences.glossary.sort.by.target.term.length">
-			<term id="dialogs.preference.glossary.sort.by.target.term.length.title"><option>Ordina definizioni per lunghezza</option></term>
+			<term id="dialogs.preference.glossary.sort.by.target.term.length.title"><option>Mostra prima le definizioni più lunghe</option></term>
 			<listitem>
-				<para>Le definizioni più corte appaiono per prime.</para>
+				<para>L'elemento di un glossario avente più definizioni mostra le definizioni in ordine decrescente di lunghezza.</para>
 			</listitem>
 		</varlistentry>
 	</variablelist>
