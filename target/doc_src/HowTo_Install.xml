@@ -41,9 +41,9 @@
   <section id="installing.omegat.windows">
     <title id="installing.omegat.windows.title">In Windows</title>
 
-    <para>Fare doppio clic sul pacchetto che scaricato.</para>
+    <para>Fai doppio clic sul pacchetto che hai scaricato.</para>
 
-    <para>È possibile scegliere la lingua da utilizzare durante l'installazione e la lingua che utilizzerà OmegaT. È possibile cambiare questa impostazione in seguito modificando il file <filename>OmegaT.l4J.ini</filename>.</para>
+    <para>Puoi scegliere la lingua da utilizzare durante l'installazione e la lingua che utilizzerà OmegaT. È possibile cambiare questa impostazione in seguito modificando il file <filename>OmegaT.l4J.ini</filename>.</para>
   </section>
 
   <section id="installing.omegat.linux.intel">
@@ -52,7 +52,7 @@
 	<para>Alcune distribuzioni Linux propongono OmegaT all'interno del loro gestore dei pacchetti. Le istruzioni qui fornite si rivolgono a coloro i quali scaricano il pacchetto dal sito di <ulink url="https://omegat.org/download">https://omegat.org</ulink> e lo installano manualmente.</para>
 
 
-    <para>Decomprimere (untar) il file scaricato. Viene creata una nuova cartella col nome del pacchetto scaricato. Questa cartella contiene tutti i file necessari per l'avvio di OmegaT.</para>
+    <para>Decomprimi (untar) il file scaricato. Viene creata una nuova cartella col nome del pacchetto scaricato. Questa cartella contiene tutti i file necessari per l'avvio di OmegaT.</para>
 
     <note>
 	  <para>Sebbene è possibile avviare OmegaT direttamente dai file disponibili, è possibile anche eseguire lo script <filename>linux-install.sh</filename> che è lì presente per installare OmegaT in una posizione più adeguata.</para>
@@ -62,13 +62,13 @@
       <para>Lo script controlla la presenza di una installazione esistente della stessa versione di OmegaT in <filename>/opt/omegat/</filename>. Se non è presente, lo installa il programma in <filename>/opt/omegat/OmegaT_6.1.0</filename> e lo imposta come versione predefinita (in <filename>/opt/omegat/OmegaT-default</filename>).</para>
 	</note>
 
-    <para>Dopo che la decompressione o l'installazione è stata completata, è possibile eliminare il file scaricato in dato che non è più necessario.</para>
+    <para>Dopo che la decompressione o l'installazione è stata completata, puoi eliminare il file scaricato in dato che non è più necessario.</para>
   </section>
 
   <section id="Installing.omegat.macos">
     <title id="Installing.omegat.macos.title">In macOS</title>
 
-    <para>Fare doppio clic sul pacchetto scaricato per decomprimerlo. Viene creata la cartella <filename>OmegaT</filename>. Questa cartella contiene due file: <filename>index.html</filename> (il file delle voci del manuale dell'utente) e <filename>OmegaT.app</filename> (l'applicazione). Copiare la cartella in una posizione opportuna (es. <filename>Applicazioni</filename>).</para>
+    <para>Fai doppio clic sul pacchetto scaricato per decomprimerlo. Viene creata la cartella <filename>OmegaT</filename>. Questa cartella contiene due file: <filename>index.html</filename> (il file delle voci del manuale dell'utente) e <filename>OmegaT.app</filename> (l'applicazione). Copiare la cartella in una posizione opportuna (es. <filename>Applicazioni</filename>).</para>
 
     <para>Eventualmente, trascinare e rilasciare <filename>OmegaT.app</filename> sulla Dock per accedervi facilmente.</para>
 
@@ -82,9 +82,9 @@
 
     <para>Scaricare la versione <emphasis>Multipiattaforma senza JRE</emphasis>.</para>
 
-    <para>Decomprimere il file scaricato. Viene creata una cartella contenente tutti i file necessari per l'avvio di OmegaT.</para>
+    <para>Decomprimi il file che hai scaricato. Viene creata una cartella contenente tutti i file necessari per l'avvio di OmegaT.</para>
 
-    <para>Seguire le istruzioni del proprio sistema per installare i collegamenti di OmegaT nelle posizioni prescelte.</para>
+    <para>Segui le istruzioni del tuo sistema per installare i collegamenti di OmegaT nelle posizioni prescelte.</para>
   </section>
 
   <section id="update.and.delete.omegat">
@@ -95,7 +95,7 @@
 	<para>Le modifiche tra la versione in proprio possesso e quella corrente sono documentate nel file <ulink url="https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt">changes.txt</ulink> nel sito dello sviluppo.</para>
 
 	<note>
-	  <para>Se si decide di installare una nuova versione, tenere presente le considerazioni seguenti:</para>
+	  <para>Se decidi di installare una nuova versione, tieni presente le considerazioni seguenti:</para>
 
 	  <itemizedlist>
 		<listitem>
@@ -121,7 +121,7 @@
 		<term id="update.and.delete.omegat.over.existing.package.title">Su una versione esistente</term>
 
 		<listitem>
-		  <para>Per fare questo, mentre si installa la nuova versione, basta selezionare la cartella in cui risiede l'installazione esistente. La “vecchia” versione di OmegaT sarà sovrascritta ma le impostazioni create dall'interfaccia di OmegaT saranno conservate nelle varie cartelle di configurazione (vedere sopra).</para>
+		  <para>Per fare questo, mentre installi la nuova versione, basta che selezioni la cartella in cui risiede l'installazione esistente. La “vecchia” versione di OmegaT sarà sovrascritta ma le impostazioni create dall'interfaccia di OmegaT saranno mantenute nelle varie cartelle di configurazione (vedi sopra).</para>
 		</listitem>
 	  </varlistentry>
 	  
@@ -129,7 +129,7 @@
 	  <term id="update.and.delete.omegat.along.existing.package.title">Accanto a una versione esistente</term>
 
 	  <listitem>
-		<para>Questo permetterà di mantenere entrambe le versioni e di continuare a utilizzare la vecchia fino a quando non ci si trova a proprio agio con la nuova.</para>
+		<para>Questo ti permetterà di mantenere entrambe le versioni e di continuare a utilizzare la vecchia fino a quando non ti trovi a tuo agio con la nuova.</para>
 
 	  <para>Tutti i parametri presenti nella cartella di configurazione saranno condivisi, a meno che non si specifichi una cartella di configurazione diversa con l'opzione <literal>--config-dir=&lt;path&gt;</literal> sulla riga di comando. Vedere la sezione <link endterm="launch.with.command.line.omegat.options.title" linkend="launch.with.command.line.omegat.options"/>.</para>
 
